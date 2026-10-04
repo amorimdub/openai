@@ -1,0 +1,38 @@
+{
+  "name": "ireland-location-backend-prototype",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prototype:home": "bun run src/home-prototype/server.ts",
+    "dev": "bun run --hot src/index.ts",
+    "start": "bun run src/index.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit",
+    "data:fetch": "bun run src/export-cli.ts",
+    "data:inventory": "bun run src/raw-inventory-cli.ts",
+    "data:normalize": "bun run src/common/normalize-cli.ts",
+    "data:load": "bun run src/common/import-batch-cli.ts",
+    "data:import:postgis": "bun run src/common/import-cli.ts",
+    "schema:common": "bun run src/common/normalize-schema-cli.ts && bun run src/common/openapi-cli.ts",
+    "containers:db": "bash scripts/postgis-container-start.sh",
+    "containers:api": "bash scripts/api-container-start.sh",
+    "test:postgis": "bun test src/common/postgis.test.ts",
+    "data:import": "bun run src/import-cli.ts",
+    "schema:export": "bun run src/schema-cli.ts",
+    "frontend:dev": "bun run --cwd src/frontend dev",
+    "frontend:build": "bun run --cwd src/frontend build",
+    "frontend:test": "bun run --cwd src/frontend test",
+    "containers:frontend": "bash scripts/frontend-container-start.sh"
+  },
+  "dependencies": {
+    "fflate": "^0.8.3",
+    "hono": "^4.10.0",
+    "proj4": "^2.22.0",
+    "xlsx": "^0.18.5",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  }
+}

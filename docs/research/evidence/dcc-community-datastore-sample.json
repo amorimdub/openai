@@ -1,0 +1,120 @@
+{
+  "observed_on": "2026-10-04",
+  "request_url": "https://data.smartdublin.ie/api/3/action/datastore_search?resource_id=39f01fec-c3e7-4aa4-af67-e5b867b84729&limit=1",
+  "response": {
+    "help": "https://data.smartdublin.ie/api/3/action/help_show?name=datastore_search",
+    "success": true,
+    "result": {
+      "include_total": true,
+      "limit": 1,
+      "records_format": "objects",
+      "resource_id": "39f01fec-c3e7-4aa4-af67-e5b867b84729",
+      "total_estimation_threshold": null,
+      "records": [
+        {
+          "_id": 1,
+          "Title": "Aras Mhuire Hall",
+          "Description": "Bringing the community together for events, activities, support and much more",
+          "Address1": "Tyrconnell Road",
+          "Address2": "Inchicore",
+          "NaceCode": 94.99,
+          "Latitude": 53.337795,
+          "Longitude": -6.325207,
+          "Region": "Dublin City Council",
+          "DccArea": "South Central",
+          "CensusSmallArea": "268078007",
+          "ElectoralDivision": "Inchicore A"
+        }
+      ],
+      "fields": [
+        {
+          "id": "_id",
+          "type": "int"
+        },
+        {
+          "id": "Title",
+          "type": "text",
+          "info": {
+            "label": "Title"
+          }
+        },
+        {
+          "id": "Description",
+          "type": "text",
+          "info": {
+            "label": "Description"
+          }
+        },
+        {
+          "id": "Address1",
+          "type": "text",
+          "info": {
+            "label": "Address1"
+          }
+        },
+        {
+          "id": "Address2",
+          "type": "text",
+          "info": {
+            "label": "Address2"
+          }
+        },
+        {
+          "id": "NaceCode",
+          "type": "numeric",
+          "info": {
+            "label": "NaceCode"
+          }
+        },
+        {
+          "id": "Latitude",
+          "type": "numeric",
+          "info": {
+            "label": "Latitude"
+          }
+        },
+        {
+          "id": "Longitude",
+          "type": "numeric",
+          "info": {
+            "label": "Longitude"
+          }
+        },
+        {
+          "id": "Region",
+          "type": "text",
+          "info": {
+            "label": "Region"
+          }
+        },
+        {
+          "id": "DccArea",
+          "type": "text",
+          "info": {
+            "label": "DccArea"
+          }
+        },
+        {
+          "id": "CensusSmallArea",
+          "type": "text",
+          "info": {
+            "label": "CensusSmallArea"
+          }
+        },
+        {
+          "id": "ElectoralDivision",
+          "type": "text",
+          "info": {
+            "label": "ElectoralDivision"
+          }
+        }
+      ],
+      "_links": {
+        "start": "/api/3/action/datastore_search?resource_id=39f01fec-c3e7-4aa4-af67-e5b867b84729&limit=1",
+        "next": "/api/3/action/datastore_search?resource_id=39f01fec-c3e7-4aa4-af67-e5b867b84729&limit=1&offset=1"
+      },
+      "total": 99,
+      "total_was_estimated": false
+    }
+  }
+}

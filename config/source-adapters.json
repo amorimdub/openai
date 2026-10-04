@@ -1,0 +1,398 @@
+{
+  "version": 2,
+  "stage": "expanded_import",
+  "notes": [
+    "Parser availability does not certify real-world source completeness.",
+    "PostGIS publication and active counts are available from /data-status.",
+    "Deferred sources remain part of the programme; no generic point conversion is applied."
+  ],
+  "sources": [
+    {
+      "rawSourceId": "community-centres-2025-fcc",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "community-fcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/community-centres-2025-fcc/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "community-centres-dcc",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "community-dcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/community-centres-dcc/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "community-centres6",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "community-roscommon"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/community-centres6/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "community-facilities-dlr",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "community-dlr"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/community-facilities-dlr/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "comreg-broadband",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "broadband-counties",
+        "broadband-small-areas"
+      ],
+      "reason": "Representative common-data slice",
+      "rawManifest": "data/raw/comreg-broadband/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "cork-city-parks",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "cork-parks"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/cork-city-parks/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "cso-sales",
+      "snapshotDate": "2026-10-04",
+      "status": "partially_parsed",
+      "adapters": [
+        "purchase",
+        "purchase-hpm02",
+        "purchase-hpm07",
+        "purchase-hpm08"
+      ],
+      "reason": "HPM02/HPM05/HPM07/HPM08 published prices parsed for explicit selected buyer/status/event scopes; other breakdowns excluded with counts",
+      "rawManifest": "data/raw/cso-sales/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "cso-urban-areas-2022",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "towns"
+      ],
+      "reason": "Representative common-data slice",
+      "rawManifest": "data/raw/cso-urban-areas-2022/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "dlr-public-lighting",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "lighting-dlr"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/dlr-public-lighting/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "doe-schools-current",
+      "snapshotDate": "2026-10-04",
+      "status": "reuse_gated",
+      "adapters": [],
+      "reason": "Exact current-layer reuse licence unverified",
+      "rawManifest": "data/raw/doe-schools-current/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "epa-remedial-action-list",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "water-ral"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/epa-remedial-action-list/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "esb-network-capacity-reuse-gate",
+      "snapshotDate": "2026-10-04",
+      "status": "reuse_gated",
+      "adapters": [],
+      "reason": "Workbook redistribution permission unverified",
+      "rawManifest": "data/raw/esb-network-capacity-reuse-gate/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "galway-city-community-centre-locations2",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "community-galway"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/galway-city-community-centre-locations2/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "gsi-water-source-protection",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "water-gsi-public",
+        "water-gsi-group"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/gsi-water-source-protection/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "housing-construction-q1-2026",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "housing-construction"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/housing-construction-q1-2026/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "hse-gp-2020",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "gp"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/hse-gp-2020/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "hse-hospitals-2020",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "hospitals"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/hse-hospitals-2020/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "local-national-parks-and-play-grounds-fcc-20232",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "playgrounds-fcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/local-national-parks-and-play-grounds-fcc-20232/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "main-parks-dlr",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "parks-dlr"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/main-parks-dlr/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "multi-use-community-centres1",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "community-sdcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/multi-use-community-centres1/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "nta",
+      "snapshotDate": "2026-10-04",
+      "status": "partially_parsed",
+      "adapters": [
+        "transport-stops"
+      ],
+      "reason": "Active NaPTAN stop directory parsed; GTFS trip, stop-time, route and calendar analytical tables remain deferred",
+      "rawManifest": "data/raw/nta/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "osm-geofabrik",
+      "snapshotDate": "2026-10-04",
+      "status": "partially_parsed",
+      "adapters": [
+        "osm-public-services-and-strategic-networks"
+      ],
+      "reason": "Bounded POIs, green areas, strategic roads and designated cycleways parsed; other tags and routing graph remain outside this extraction",
+      "rawManifest": "data/raw/osm-geofabrik/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "ourairports-ireland",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "airports"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/ourairports-ireland/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "parks-and-open-spaces-dcc",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "parks-dcc-boundaries"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/parks-and-open-spaces-dcc/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "parks-gardens-and-public-spaces-dcc",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "parks"
+      ],
+      "reason": "Representative common-data slice",
+      "rawManifest": "data/raw/parks-gardens-and-public-spaces-dcc/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "parks-sdcc1",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "parks-sdcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/parks-sdcc1/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "pobal-childcare",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "childcare"
+      ],
+      "reason": "Representative common-data slice",
+      "rawManifest": "data/raw/pobal-childcare/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "ppr",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "property-transactions"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/ppr/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "public-lighting-fcc1",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "lighting-fcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/public-lighting-fcc1/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "public-lighting-sdcc1",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "lighting-sdcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/public-lighting-sdcc1/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "rtb-cso",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "rtb-rent"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/rtb-cso/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "schools-historical",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "schools-special",
+        "schools-primary",
+        "schools-secondary"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/schools-historical/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "smartdublin-dcc-catalogue",
+      "snapshotDate": "2026-10-04",
+      "status": "catalogue_only",
+      "adapters": [],
+      "reason": "Discovery metadata, not service features",
+      "rawManifest": "data/raw/smartdublin-dcc-catalogue/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "sport-ireland-activities",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "activities"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/sport-ireland-activities/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "sport-ireland-clubs",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "clubs"
+      ],
+      "reason": "Representative common-data slice",
+      "rawManifest": "data/raw/sport-ireland-clubs/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "street-lighting-dublin-city",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "lighting-dcc"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/street-lighting-dublin-city/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "tusla-county-register",
+      "snapshotDate": "2026-10-04",
+      "status": "reuse_gated",
+      "adapters": [],
+      "reason": "PDF reuse licence unverified",
+      "rawManifest": "data/raw/tusla-county-register/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "tusla-early-years",
+      "snapshotDate": "2026-10-04",
+      "status": "reuse_gated",
+      "adapters": [],
+      "reason": "Exact GIS reuse licence unverified",
+      "rawManifest": "data/raw/tusla-early-years/2026-10-04/manifest.json"
+    },
+    {
+      "rawSourceId": "uisce-water-zones",
+      "snapshotDate": "2026-10-04",
+      "status": "parsed",
+      "adapters": [
+        "uisce-water-zones"
+      ],
+      "reason": "Versioned parser implemented; published snapshots and validation/quarantine counts are reported separately by /data-status",
+      "rawManifest": "data/raw/uisce-water-zones/2026-10-04/manifest.json"
+    }
+  ]
+}

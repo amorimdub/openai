@@ -1,0 +1,85 @@
+{
+  "verifiedAt": "2026-10-04T14:53:08.288Z",
+  "status": "PASS_local_connected_demo",
+  "frontend": "http://127.0.0.1:5173",
+  "api": "http://127.0.0.1:3080",
+  "prototypeReference": {
+    "branch": "codex/prototype-home",
+    "commit": "abc13ad",
+    "originalPreserved": true
+  },
+  "records": 1709202,
+  "activeSourceScopes": 41,
+  "criteria": 24,
+  "tests": {
+    "passed": 75,
+    "failed": 0,
+    "assertions": 56509,
+    "includesRealPostgis": true,
+    "log": "connected-demo-tests.log"
+  },
+  "builds": {
+    "backendTypecheck": "PASS",
+    "frontendProductionBuild": "PASS",
+    "staticProxyTypecheck": "PASS",
+    "frontendAsset": "index-BlMo3fC2.js"
+  },
+  "liveApi": {
+    "checks": 11,
+    "passed": true,
+    "report": "connected-demo-api-verification.json"
+  },
+  "browser": {
+    "verifiedBy": "root via Codex in-app browser",
+    "passed": true,
+    "town": "Galway city and suburbs",
+    "selectedCriteria": 7,
+    "flow": [
+      "town search",
+      "representative town anchor",
+      "household setup",
+      "transport preferences",
+      "seven live layers",
+      "dated hospital evidence",
+      "explicit Galway City rental geography",
+      "2025Q4 rental observations with publisher bedroom labels"
+    ],
+    "warnings": 0,
+    "errors": 0,
+    "screenshot": "connected-demo-browser.png",
+    "note": "Budget observations explicitly remain unfiltered household context. No numerical suitability score.",
+    "mapScreenshot": "connected-demo-map.png",
+    "loadedBaseTiles": 6,
+    "finalBuildRechecked": true
+  },
+  "containers": [
+    {
+      "name": "ireland-map-postgis",
+      "image": "postgis/postgis:17-3.5",
+      "persistentVolume": "ireland-map-postgis-data"
+    },
+    {
+      "name": "ireland-map-api",
+      "digest": "sha256:a51016dbfe603b310415ec61e69348a51a1de2ac4b8d7a3a22074df5b3e8c5b5"
+    },
+    {
+      "name": "ireland-map-frontend",
+      "digest": "sha256:4b2488e0e414ea9463b695d6cb343d3967fa404f6ab27837688493d2d5220d7a"
+    }
+  ],
+  "rawPreserved": {
+    "files": 518,
+    "bytes": 1119838617,
+    "report": "raw-final-backend-integrity.json"
+  },
+  "quarantinedInputs": 79,
+  "rankingReady": false,
+  "remaining": [
+    "scoring decisions and evidence",
+    "routing and timetable model",
+    "current service capability and availability",
+    "household utility evidence",
+    "HTTPS deployment and later OpenAI Sites publication"
+  ],
+  "scope": "Local development demo in native macOS containers; no public deployment."
+}

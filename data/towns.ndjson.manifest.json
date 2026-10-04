@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "snapshotId": "dcf2b408-5898-4783-83b2-56d8167e65d7",
+  "sourceId": "cso-urban-areas-2022",
+  "scope": "national-urban-areas",
+  "publisher": "CSO / Tailte Éireann",
+  "sourceUrl": "https://services-eu1.arcgis.com/BuS9rtTsYEV5C0xh/arcgis/rest/services/Urban_Areas_National_Statistical_Boundaries_2022_Generalised_20m/FeatureServer/5",
+  "license": "CC-BY-4.0",
+  "licenseEvidenceUrl": "https://www.arcgis.com/sharing/rest/content/items/5468708d36454d1f95a3ff23cbaeb2f5?f=pjson",
+  "attribution": "CSO / Tailte Éireann, Urban Areas National Statistical Boundaries 2022, generalised 20m, CC BY 4.0",
+  "fetchedAt": "2026-10-04T12:22:35.273Z",
+  "sourceModifiedAt": "2023-06-15T14:51:35.849Z",
+  "observedPeriod": "2022",
+  "geography": "Republic of Ireland urban statistical areas",
+  "coverage": "partial",
+  "limitations": [
+    "Urban statistical boundaries are not all rural settlements",
+    "Generalised 20m geometry is for display; not property/utility membership verification",
+    "No household location or area score inferred from a town centre"
+  ],
+  "recordCount": 867,
+  "sha256": "86b0acec08157c3d34de121df59be07992220031c66824a15c3a4b28d7f7d17b",
+  "format": "ndjson"
+}

@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-10-04T12:42:37.793056+00:00",
+  "stage": "raw-only",
+  "inventoryFiles": 518,
+  "inventoryBytes": 1119838617,
+  "sourceFolders": 39,
+  "hashClaimsChecked": 444,
+  "uniquePayloadsChecked": 444,
+  "mismatches": [],
+  "unfinishedDownloads": [],
+  "notCollected": [
+    {
+      "source": "esb-network-capacity-reuse-gate",
+      "status": "gated-not-downloaded"
+    }
+  ],
+  "method": "Independently SHA256-hashed every local file with bun run data:inventory; compared original payload byte counts and hashes declared in source manifests. No records normalized; source coverage remains separately qualified."
+}

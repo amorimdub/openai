@@ -1,0 +1,24 @@
+{
+  "name": "find-your-place-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test app/domain.test.ts"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "@types/leaflet": "^1.9.20",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.0"
+  }
+}

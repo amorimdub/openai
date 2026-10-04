@@ -1,0 +1,242 @@
+{
+  "version": "0.2-draft",
+  "status": "proposal_requires_team_decision",
+  "name": "Household location fit",
+  "jurisdiction": "Republic of Ireland; whole-island extent unconfirmed",
+  "scale": {
+    "minimum": 0,
+    "maximum": 100
+  },
+  "aggregation": {
+    "within_vertical": "weighted_mean_of_active_criteria",
+    "between_verticals": "weighted_mean_of_active_verticals",
+    "all_required_school_groups": "minimum",
+    "no_active_weight": "unconfigured"
+  },
+  "missing_data": {
+    "unknown_is_zero": false,
+    "aggregate_when_required_evidence_missing": null,
+    "report_coverage_and_score_bounds": true,
+    "compare_only_same_profile_and_accepted_evidence_scope": true
+  },
+  "travel_time": {
+    "straight_line_distance_can_satisfy_minutes": false,
+    "required_evidence": [
+      "travel_mode",
+      "origin_location",
+      "destination_facility",
+      "router_and_network_version",
+      "service_capability_when_requested"
+    ],
+    "public_transport_additional_evidence": [
+      "departure_date_time",
+      "valid_gtfs_calendar",
+      "access_egress_and_transfers"
+    ],
+    "traffic_assumption": "must_be_reported; no congestion guarantee"
+  },
+  "verticals": {
+    "health": {
+      "base_weight": 20,
+      "criteria": {
+        "hospital_access": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "maximum_minutes": 30,
+          "threshold_source": "user_example_2026-10-04",
+          "mode": "household_selected",
+          "required_facility_service": "profile_required_service_or_named_hospital"
+        },
+        "gp_access": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "maximum_minutes": 60,
+          "threshold_source": "user_example_2026-10-04",
+          "mode": "driving",
+          "accepting_patients": "unknown_until_verified"
+        }
+      },
+      "medical_conditions": "translate_to_requested_service_only_with_user_confirmation; do_not_infer_clinical_suitability"
+    },
+    "transportation": {
+      "base_weight": 20,
+      "criteria": {
+        "airport_access": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "maximum_minutes": null,
+          "mode": "household_selected"
+        },
+        "public_transport": {
+          "criterion_weight": 1,
+          "activation": "relies_on_public_transport",
+          "maximum_access_distance_m": 1200,
+          "require_active_served_stop": true,
+          "minimum_departures_per_hour": null
+        },
+        "cycling": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "require_usable_network_route": true,
+          "safety_from_presence_of_cycle_lane": "not_inferred"
+        },
+        "car_access": {
+          "criterion_weight": 1,
+          "activation": "has_car",
+          "required_anchors": "profile_destinations",
+          "maximum_minutes": null
+        }
+      }
+    },
+    "quality_of_life": {
+      "base_weight": 20,
+      "criteria": {
+        "parks": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "full_score_distance_m": 500,
+          "zero_score_distance_m": 2000,
+          "measure": "labelled_straight_line_distance",
+          "exclude_known_private_access": true
+        },
+        "community_centres": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "full_score_distance_m": 750,
+          "zero_score_distance_m": 3000,
+          "measure": "labelled_straight_line_distance"
+        },
+        "clubs": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "maximum_distance_m": null,
+          "membership_availability": "not_inferred"
+        },
+        "activities": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "event_date_required_for_current_activity": true
+        },
+        "green_areas": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "public_access_required": true,
+          "protected_land_is_public_park": "not_inferred"
+        },
+        "shops": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "shop_types": "household_selected",
+          "maximum_distance_m": null
+        }
+      }
+    },
+    "education": {
+      "base_weight": 20,
+      "criteria": {
+        "primary_school": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "full_score_distance_m": 500,
+          "zero_score_distance_m": 3000,
+          "level_and_named_school_filters": true
+        },
+        "secondary_school": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "full_score_distance_m": 500,
+          "zero_score_distance_m": 3000,
+          "named_school_filters": true
+        },
+        "childcare": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "full_score_distance_m": 500,
+          "zero_score_distance_m": 2000,
+          "child_age_requires_verified_service_data": true
+        }
+      },
+      "admissions_and_vacancies": "not_inferred"
+    },
+    "utilities": {
+      "base_weight": 20,
+      "criteria": {
+        "group_water_scheme": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "required_evidence_scope": "property_or_verified_service_area",
+          "membership": "not_inferred"
+        },
+        "mains_water": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "required_evidence_scope": "property_connection_or_verified_service_area",
+          "connection_from_nearby_pipe": "not_inferred"
+        },
+        "electricity": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "required_evidence_scope": "property_connection",
+          "connection_from_network_coverage": "not_inferred"
+        },
+        "street_lighting": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "maximum_distance_m": null,
+          "coverage_scope": "verified_local_authority_subset"
+        },
+        "broadband": {
+          "criterion_weight": 1,
+          "activation": "requested",
+          "required_evidence_scope": "address_serviceability",
+          "minimum_download_mbps": null,
+          "planned_rollout_satisfies_current_need": false
+        }
+      }
+    }
+  },
+  "budget": {
+    "role": "market_context_until_property_inventory_exists",
+    "buying": {
+      "budget_field": "maximum_purchase_price_eur",
+      "preferred_summary": "median_if_derived_from_eligible_transactions",
+      "also_show": [
+        "mean_if_available",
+        "transaction_count",
+        "time_period",
+        "geography",
+        "house_apartment_classification_status"
+      ],
+      "source_adjustments": [
+        "full_market_price_status",
+        "VAT_on_new_properties",
+        "bulk_or_partial_transactions"
+      ]
+    },
+    "renting": {
+      "budget_field": "maximum_monthly_rent_eur",
+      "summary": "retain_source_statistic_definition",
+      "also_show": [
+        "new_or_existing_tenancy",
+        "bedroom_category_if_available",
+        "time_period",
+        "geography",
+        "sample_suppression"
+      ]
+    },
+    "market_average_proves_affordable_available_home": false
+  },
+  "housing": {
+    "room_count": "context_until_dwelling_inventory_exists",
+    "room_definition": "needs_human_clarification",
+    "government_scheme_participation": "information_only",
+    "government_projects": {
+      "contributes_to_score": false,
+      "show_stage_and_reporting_period": true,
+      "availability_and_eligibility": "not_inferred"
+    }
+  },
+  "unset_thresholds": "must_be_decided_or_left_informational; null_is_not_infinite",
+  "distance_thresholds": "illustrative_team_proposals; not_validated_quality_or_clinical_standards",
+  "timed_requirement_scoring": "needs_team_decision; only_return_match_or_no_match_when_route_and_service_evidence_exist"
+}

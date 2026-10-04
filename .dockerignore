@@ -1,0 +1,13 @@
+.git
+.agents
+.scratch
+.codex
+node_modules
+data
+docs
+tests
+.env
+*.sqlite*
+
+**/node_modules
+**/dist

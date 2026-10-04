@@ -1,0 +1,32 @@
+{
+  "verifiedAt": "2026-10-04T13:39:35.965676+00:00",
+  "scope": "Representative raw-to-common-schema-to-PostGIS backend slice; local native macOS containers",
+  "tests": {
+    "command": "POSTGIS_TEST_URL=postgres://ireland@127.0.0.1:55439/ireland bun test",
+    "passed": 35,
+    "failed": 0,
+    "assertions": 203,
+    "includesRealPostgis": true
+  },
+  "typecheck": {
+    "command": "bun run typecheck",
+    "passed": true
+  },
+  "api": {
+    "url": "http://127.0.0.1:3080",
+    "imageDigest": "sha256:983bc8446804438c4f2f6643480d676aa4a2bb6e5e946449f3d234a3130ecc87",
+    "evidence": "docs/research/common-api-live-verification.json"
+  },
+  "databaseEvidence": "docs/research/common-postgis-verification.json",
+  "rawPreservationEvidence": "docs/research/raw-post-normalization-integrity.json",
+  "activeRecords": 83620,
+  "activeSourceScopes": 7,
+  "quarantinedRecords": 1,
+  "limitations": [
+    "Remaining sources need dedicated parsers/reuse approval",
+    "Scores and ranking remain unapproved",
+    "No journey-time or household utility connection evidence",
+    "Local development; no public deployment",
+    "All-24-criterion live assessment observed at approximately four seconds; latency not optimized"
+  ]
+}

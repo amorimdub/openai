@@ -1,0 +1,5286 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Ireland location-services API",
+    "version": "2.1.0",
+    "description": "Local Hono/Bun + PostGIS API. GeoJSON map features and typed source context with explicit provenance. Dataset completeness and rankings are not certified."
+  },
+  "servers": [
+    {
+      "url": "http://127.0.0.1:3080",
+      "description": "Native macOS development containers"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "operationId": "apiIndex",
+        "summary": "API links and capabilities",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "operationId": "liveness",
+        "summary": "Process liveness",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "const": "ok"
+                    },
+                    "version": {
+                      "const": 2
+                    },
+                    "mode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "status",
+                    "version",
+                    "mode"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ready": {
+      "get": {
+        "operationId": "readiness",
+        "summary": "Database and imported-snapshot readiness",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Database or imported data unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/openapi.json": {
+      "get": {
+        "operationId": "apiContract",
+        "summary": "OpenAPI 3.1 contract",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/criteria": {
+      "get": {
+        "operationId": "criterionRegistry",
+        "summary": "Configurable criteria; no fixed selection count",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data-status": {
+      "get": {
+        "operationId": "dataStatus",
+        "summary": "Active snapshots, raw adapter status and coverage",
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "totalRecords": {
+                      "type": "integer"
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonManifest"
+                      }
+                    },
+                    "adapterRegistry": {
+                      "type": "object"
+                    },
+                    "rankingReady": {
+                      "const": false
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "totalRecords",
+                    "sources",
+                    "adapterRegistry",
+                    "rankingReady"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/places": {
+      "get": {
+        "operationId": "findPlaces",
+        "summary": "Search indexed CSO urban-area names",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 250,
+              "default": 100
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 4096
+            },
+            "description": "Opaque query-bound cursor. Restart paging after HTTP 409."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "places": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonRecord"
+                      }
+                    },
+                    "nextCursor": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "snapshotIds": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonManifest"
+                      }
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "places",
+                    "nextCursor",
+                    "snapshotIds",
+                    "sources"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/place-anchor": {
+      "get": {
+        "operationId": "placeAnchor",
+        "summary": "Representative point on an active town polygon",
+        "description": "Not a geocoded home or confirmed destination.",
+        "parameters": [
+          {
+            "name": "placeId",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/market-geographies": {
+      "get": {
+        "operationId": "marketGeographies",
+        "summary": "Original buying/rental geography choices and latest source period",
+        "parameters": [
+          {
+            "name": "tenure",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "buy",
+                "rent"
+              ]
+            }
+          },
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 1000,
+              "default": 1000
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/features": {
+      "get": {
+        "operationId": "findFeatures",
+        "summary": "GeoJSON viewport or metre-radius search",
+        "description": "Provide bbox OR longitude, latitude and radiusM. Combining them is invalid. Recorded geometry distance is not travel time.",
+        "parameters": [
+          {
+            "name": "bbox",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "example": "-6.4,53.2,-6.1,53.5"
+            },
+            "description": "west,south,east,north, with a positive-area Ireland extent"
+          },
+          {
+            "name": "longitude",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "number",
+              "minimum": -11,
+              "maximum": -5
+            }
+          },
+          {
+            "name": "latitude",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "number",
+              "minimum": 51,
+              "maximum": 56
+            }
+          },
+          {
+            "name": "radiusM",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "number",
+              "minimum": 1,
+              "maximum": 50000
+            }
+          },
+          {
+            "name": "categories",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Comma-separated categories from /data-status and the criterion registry."
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 250,
+              "default": 100
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 4096
+            },
+            "description": "Opaque query-bound cursor. Restart paging after HTTP 409."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "const": "FeatureCollection"
+                        },
+                        "features": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "type": {
+                                "const": "Feature"
+                              },
+                              "id": {
+                                "type": "string"
+                              },
+                              "geometry": {
+                                "type": "object"
+                              },
+                              "properties": {
+                                "type": "object"
+                              }
+                            },
+                            "required": [
+                              "type",
+                              "id",
+                              "geometry",
+                              "properties"
+                            ]
+                          }
+                        }
+                      },
+                      "required": [
+                        "type",
+                        "features"
+                      ]
+                    },
+                    "nextCursor": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "snapshotIds": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonManifest"
+                      }
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "data",
+                    "nextCursor",
+                    "snapshotIds",
+                    "sources"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/areas": {
+      "get": {
+        "operationId": "areasAtPoint",
+        "summary": "Boundary-inclusive area context at a point",
+        "description": "Source-protection and statistical areas do not establish household utility connections.",
+        "parameters": [
+          {
+            "name": "longitude",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "minimum": -11,
+              "maximum": -5
+            }
+          },
+          {
+            "name": "latitude",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "minimum": 51,
+              "maximum": 56
+            }
+          },
+          {
+            "name": "categories",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Comma-separated categories from /data-status and the criterion registry."
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 250,
+              "default": 100
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 4096
+            },
+            "description": "Opaque query-bound cursor. Restart paging after HTTP 409."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "data": {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "const": "FeatureCollection"
+                        },
+                        "features": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "type": {
+                                "const": "Feature"
+                              },
+                              "id": {
+                                "type": "string"
+                              },
+                              "geometry": {
+                                "type": "object"
+                              },
+                              "properties": {
+                                "type": "object"
+                              }
+                            },
+                            "required": [
+                              "type",
+                              "id",
+                              "geometry",
+                              "properties"
+                            ]
+                          }
+                        }
+                      },
+                      "required": [
+                        "type",
+                        "features"
+                      ]
+                    },
+                    "nextCursor": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "snapshotIds": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonManifest"
+                      }
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "data",
+                    "nextCursor",
+                    "snapshotIds",
+                    "sources"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/market-context": {
+      "get": {
+        "operationId": "marketObservations",
+        "summary": "Exact-geography historical buying/rental statistics",
+        "parameters": [
+          {
+            "name": "geographyCode",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Original publisher geography code, without inferred town joins."
+          },
+          {
+            "name": "geographyCodeSystem",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "tenure",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "buy",
+                "rent"
+              ]
+            }
+          },
+          {
+            "name": "period",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "propertyType",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "house",
+                "apartment",
+                "all",
+                "unknown"
+              ]
+            }
+          },
+          {
+            "name": "bedroomClass",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "bedrooms",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 250,
+              "default": 100
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 4096
+            },
+            "description": "Opaque query-bound cursor. Restart paging after HTTP 409."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "records": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonRecord"
+                      }
+                    },
+                    "nextCursor": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "snapshotIds": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonManifest"
+                      }
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "records",
+                    "nextCursor",
+                    "snapshotIds",
+                    "sources"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/context": {
+      "get": {
+        "operationId": "informationContext",
+        "summary": "Nonspatial housing, supply-directory and property-transaction records",
+        "description": "Without geography filters this is a national source listing. It does not map records to the chosen point. PPR rows are transactions, not statistics or listings.",
+        "parameters": [
+          {
+            "name": "categories",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Comma-separated categories from /data-status and the criterion registry."
+          },
+          {
+            "name": "geographyCode",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Original publisher geography code, without inferred town joins."
+          },
+          {
+            "name": "geographyCodeSystem",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 250,
+              "default": 100
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 4096
+            },
+            "description": "Opaque query-bound cursor. Restart paging after HTTP 409."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "records": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonRecord"
+                      }
+                    },
+                    "nextCursor": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "snapshotIds": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CommonManifest"
+                      }
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "records",
+                    "nextCursor",
+                    "snapshotIds",
+                    "sources"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/layers": {
+      "post": {
+        "operationId": "preferenceLayers",
+        "summary": "Generate selected GeoJSON and information layers",
+        "description": "Any number of distinct registered criteria. Exact marketGeography/contextGeography codes are independent from the pin. Display mappings are in config/layer-categories.json.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LayerPreferences"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "layers": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    },
+                    "rankingReady": {
+                      "const": false
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "layers",
+                    "rankingReady"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/assess": {
+      "post": {
+        "operationId": "assessEvidence",
+        "summary": "Recorded proximity and explicit unknown evidence",
+        "description": "All scores are null while thresholds and source coverage are unapproved. No travel times, household connections, clinical suitability or property availability are inferred.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Preferences"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "version": {
+                      "const": 2
+                    },
+                    "results": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    },
+                    "verticals": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    },
+                    "aggregate": {
+                      "type": "object"
+                    }
+                  },
+                  "required": [
+                    "version",
+                    "results",
+                    "verticals",
+                    "aggregate"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Invalid request or snapshot conflict",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CommonRecord": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "geometry": {
+                "anyOf": [
+                  {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "Point"
+                          },
+                          "coordinates": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiPoint"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "LineString"
+                          },
+                          "coordinates": {
+                            "minItems": 2,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiLineString"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 2,
+                              "type": "array",
+                              "items": {
+                                "type": "array",
+                                "prefixItems": [
+                                  {
+                                    "type": "number",
+                                    "minimum": -11,
+                                    "maximum": -5
+                                  },
+                                  {
+                                    "type": "number",
+                                    "minimum": 51,
+                                    "maximum": 56
+                                  }
+                                ],
+                                "items": false,
+                                "minItems": 2,
+                                "maxItems": 2
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "Polygon"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 4,
+                              "type": "array",
+                              "items": {
+                                "type": "array",
+                                "prefixItems": [
+                                  {
+                                    "type": "number",
+                                    "minimum": -11,
+                                    "maximum": -5
+                                  },
+                                  {
+                                    "type": "number",
+                                    "minimum": 51,
+                                    "maximum": 56
+                                  }
+                                ],
+                                "items": false,
+                                "minItems": 2,
+                                "maxItems": 2
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiPolygon"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 1,
+                              "type": "array",
+                              "items": {
+                                "minItems": 4,
+                                "type": "array",
+                                "items": {
+                                  "type": "array",
+                                  "prefixItems": [
+                                    {
+                                      "type": "number",
+                                      "minimum": -11,
+                                      "maximum": -5
+                                    },
+                                    {
+                                      "type": "number",
+                                      "minimum": 51,
+                                      "maximum": 56
+                                    }
+                                  ],
+                                  "items": false,
+                                  "minItems": 2,
+                                  "maxItems": 2
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locationStatus": {
+                "type": "string",
+                "enum": [
+                  "located",
+                  "unlocated"
+                ]
+              },
+              "kind": {
+                "type": "string",
+                "const": "service"
+              },
+              "category": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "const": "recorded_location"
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "address": {
+                    "type": "string"
+                  },
+                  "county": {
+                    "type": "string"
+                  },
+                  "eircode": {
+                    "type": "string"
+                  },
+                  "access": {
+                    "type": "string",
+                    "enum": [
+                      "public",
+                      "private",
+                      "unknown"
+                    ]
+                  },
+                  "serviceType": {
+                    "type": "string"
+                  },
+                  "schoolLevel": {
+                    "type": "string"
+                  },
+                  "programmes": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "activity": {
+                    "type": "string"
+                  },
+                  "affiliation": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "access"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "geometry",
+              "locationStatus",
+              "kind",
+              "category",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "kind": {
+                "type": "string",
+                "const": "place"
+              },
+              "category": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "geometry": {
+                "oneOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "Point"
+                      },
+                      "coordinates": {
+                        "type": "array",
+                        "prefixItems": [
+                          {
+                            "type": "number",
+                            "minimum": -11,
+                            "maximum": -5
+                          },
+                          {
+                            "type": "number",
+                            "minimum": 51,
+                            "maximum": 56
+                          }
+                        ],
+                        "items": false,
+                        "minItems": 2,
+                        "maxItems": 2
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "MultiPoint"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "type": "array",
+                          "prefixItems": [
+                            {
+                              "type": "number",
+                              "minimum": -11,
+                              "maximum": -5
+                            },
+                            {
+                              "type": "number",
+                              "minimum": 51,
+                              "maximum": 56
+                            }
+                          ],
+                          "items": false,
+                          "minItems": 2,
+                          "maxItems": 2
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "LineString"
+                      },
+                      "coordinates": {
+                        "minItems": 2,
+                        "type": "array",
+                        "items": {
+                          "type": "array",
+                          "prefixItems": [
+                            {
+                              "type": "number",
+                              "minimum": -11,
+                              "maximum": -5
+                            },
+                            {
+                              "type": "number",
+                              "minimum": 51,
+                              "maximum": 56
+                            }
+                          ],
+                          "items": false,
+                          "minItems": 2,
+                          "maxItems": 2
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "MultiLineString"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "minItems": 2,
+                          "type": "array",
+                          "items": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "Polygon"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "minItems": 4,
+                          "type": "array",
+                          "items": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "MultiPolygon"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "minItems": 1,
+                          "type": "array",
+                          "items": {
+                            "minItems": 4,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  }
+                ]
+              },
+              "locationStatus": {
+                "type": "string",
+                "const": "located"
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "const": "statistical_boundary"
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "geography": {
+                    "type": "object",
+                    "properties": {
+                      "code": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "codeSystem": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "type": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "vintage": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "code",
+                      "codeSystem",
+                      "type",
+                      "name",
+                      "vintage"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "county": {
+                    "type": "string"
+                  },
+                  "aliases": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "geography",
+                  "aliases"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "kind",
+              "category",
+              "geometry",
+              "locationStatus",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "kind": {
+                "type": "string",
+                "const": "utility_area"
+              },
+              "category": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "geometry": {
+                "oneOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "Point"
+                      },
+                      "coordinates": {
+                        "type": "array",
+                        "prefixItems": [
+                          {
+                            "type": "number",
+                            "minimum": -11,
+                            "maximum": -5
+                          },
+                          {
+                            "type": "number",
+                            "minimum": 51,
+                            "maximum": 56
+                          }
+                        ],
+                        "items": false,
+                        "minItems": 2,
+                        "maxItems": 2
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "MultiPoint"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "type": "array",
+                          "prefixItems": [
+                            {
+                              "type": "number",
+                              "minimum": -11,
+                              "maximum": -5
+                            },
+                            {
+                              "type": "number",
+                              "minimum": 51,
+                              "maximum": 56
+                            }
+                          ],
+                          "items": false,
+                          "minItems": 2,
+                          "maxItems": 2
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "LineString"
+                      },
+                      "coordinates": {
+                        "minItems": 2,
+                        "type": "array",
+                        "items": {
+                          "type": "array",
+                          "prefixItems": [
+                            {
+                              "type": "number",
+                              "minimum": -11,
+                              "maximum": -5
+                            },
+                            {
+                              "type": "number",
+                              "minimum": 51,
+                              "maximum": 56
+                            }
+                          ],
+                          "items": false,
+                          "minItems": 2,
+                          "maxItems": 2
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "MultiLineString"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "minItems": 2,
+                          "type": "array",
+                          "items": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "Polygon"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "minItems": 4,
+                          "type": "array",
+                          "items": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string",
+                        "const": "MultiPolygon"
+                      },
+                      "coordinates": {
+                        "minItems": 1,
+                        "type": "array",
+                        "items": {
+                          "minItems": 1,
+                          "type": "array",
+                          "items": {
+                            "minItems": 4,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "required": [
+                      "type",
+                      "coordinates"
+                    ],
+                    "additionalProperties": false
+                  }
+                ]
+              },
+              "locationStatus": {
+                "type": "string",
+                "const": "located"
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "enum": [
+                  "statistical_boundary",
+                  "source_protection_boundary",
+                  "reported_area"
+                ]
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "geography": {
+                    "type": "object",
+                    "properties": {
+                      "code": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "codeSystem": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "type": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "vintage": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "code",
+                      "codeSystem",
+                      "type",
+                      "name",
+                      "vintage"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "reported",
+                      "planned",
+                      "unknown"
+                    ]
+                  },
+                  "definition": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "metrics": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "key": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 1000
+                        },
+                        "value": {
+                          "type": [
+                            "number",
+                            "null"
+                          ]
+                        },
+                        "unit": {
+                          "type": "string",
+                          "minLength": 1,
+                          "maxLength": 1000
+                        },
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "reported",
+                            "planned",
+                            "unknown"
+                          ]
+                        },
+                        "sourceValue": {
+                          "type": [
+                            "string",
+                            "number",
+                            "null"
+                          ]
+                        },
+                        "definition": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "key",
+                        "value",
+                        "unit",
+                        "status",
+                        "sourceValue",
+                        "definition"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "geography",
+                  "status",
+                  "definition",
+                  "metrics"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "kind",
+              "category",
+              "geometry",
+              "locationStatus",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "geometry": {
+                "anyOf": [
+                  {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "Point"
+                          },
+                          "coordinates": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiPoint"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "LineString"
+                          },
+                          "coordinates": {
+                            "minItems": 2,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiLineString"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 2,
+                              "type": "array",
+                              "items": {
+                                "type": "array",
+                                "prefixItems": [
+                                  {
+                                    "type": "number",
+                                    "minimum": -11,
+                                    "maximum": -5
+                                  },
+                                  {
+                                    "type": "number",
+                                    "minimum": 51,
+                                    "maximum": 56
+                                  }
+                                ],
+                                "items": false,
+                                "minItems": 2,
+                                "maxItems": 2
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "Polygon"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 4,
+                              "type": "array",
+                              "items": {
+                                "type": "array",
+                                "prefixItems": [
+                                  {
+                                    "type": "number",
+                                    "minimum": -11,
+                                    "maximum": -5
+                                  },
+                                  {
+                                    "type": "number",
+                                    "minimum": 51,
+                                    "maximum": 56
+                                  }
+                                ],
+                                "items": false,
+                                "minItems": 2,
+                                "maxItems": 2
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiPolygon"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 1,
+                              "type": "array",
+                              "items": {
+                                "minItems": 4,
+                                "type": "array",
+                                "items": {
+                                  "type": "array",
+                                  "prefixItems": [
+                                    {
+                                      "type": "number",
+                                      "minimum": -11,
+                                      "maximum": -5
+                                    },
+                                    {
+                                      "type": "number",
+                                      "minimum": 51,
+                                      "maximum": 56
+                                    }
+                                  ],
+                                  "items": false,
+                                  "minItems": 2,
+                                  "maxItems": 2
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locationStatus": {
+                "type": "string",
+                "enum": [
+                  "located",
+                  "unlocated"
+                ]
+              },
+              "kind": {
+                "type": "string",
+                "const": "infrastructure"
+              },
+              "category": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "const": "infrastructure_asset"
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "assetType": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "status": {
+                    "type": "string",
+                    "const": "unknown"
+                  },
+                  "definition": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "street": {
+                    "type": "string"
+                  },
+                  "county": {
+                    "type": "string"
+                  },
+                  "operator": {
+                    "type": "string"
+                  },
+                  "issues": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "sourceCode": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "assetType",
+                  "status",
+                  "definition"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "geometry",
+              "locationStatus",
+              "kind",
+              "category",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "kind": {
+                "type": "string",
+                "const": "utility_observation"
+              },
+              "category": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "geometry": {
+                "type": "null"
+              },
+              "locationStatus": {
+                "type": "string",
+                "const": "unlocated"
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "const": "nonspatial_observation"
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "geography": {
+                    "type": "object",
+                    "properties": {
+                      "code": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "codeSystem": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "type": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "vintage": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "code",
+                      "codeSystem",
+                      "type",
+                      "name",
+                      "vintage"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "supplyCode": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "supplyName": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "localAuthority": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "population": {
+                    "anyOf": [
+                      {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 9007199254740991
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "definition": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "status": {
+                    "type": "string",
+                    "const": "reported"
+                  }
+                },
+                "required": [
+                  "geography",
+                  "supplyCode",
+                  "supplyName",
+                  "localAuthority",
+                  "population",
+                  "definition",
+                  "status"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "kind",
+              "category",
+              "geometry",
+              "locationStatus",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "geometry": {
+                "anyOf": [
+                  {
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "Point"
+                          },
+                          "coordinates": {
+                            "type": "array",
+                            "prefixItems": [
+                              {
+                                "type": "number",
+                                "minimum": -11,
+                                "maximum": -5
+                              },
+                              {
+                                "type": "number",
+                                "minimum": 51,
+                                "maximum": 56
+                              }
+                            ],
+                            "items": false,
+                            "minItems": 2,
+                            "maxItems": 2
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiPoint"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "LineString"
+                          },
+                          "coordinates": {
+                            "minItems": 2,
+                            "type": "array",
+                            "items": {
+                              "type": "array",
+                              "prefixItems": [
+                                {
+                                  "type": "number",
+                                  "minimum": -11,
+                                  "maximum": -5
+                                },
+                                {
+                                  "type": "number",
+                                  "minimum": 51,
+                                  "maximum": 56
+                                }
+                              ],
+                              "items": false,
+                              "minItems": 2,
+                              "maxItems": 2
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiLineString"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 2,
+                              "type": "array",
+                              "items": {
+                                "type": "array",
+                                "prefixItems": [
+                                  {
+                                    "type": "number",
+                                    "minimum": -11,
+                                    "maximum": -5
+                                  },
+                                  {
+                                    "type": "number",
+                                    "minimum": 51,
+                                    "maximum": 56
+                                  }
+                                ],
+                                "items": false,
+                                "minItems": 2,
+                                "maxItems": 2
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "Polygon"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 4,
+                              "type": "array",
+                              "items": {
+                                "type": "array",
+                                "prefixItems": [
+                                  {
+                                    "type": "number",
+                                    "minimum": -11,
+                                    "maximum": -5
+                                  },
+                                  {
+                                    "type": "number",
+                                    "minimum": 51,
+                                    "maximum": 56
+                                  }
+                                ],
+                                "items": false,
+                                "minItems": 2,
+                                "maxItems": 2
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "const": "MultiPolygon"
+                          },
+                          "coordinates": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "minItems": 1,
+                              "type": "array",
+                              "items": {
+                                "minItems": 4,
+                                "type": "array",
+                                "items": {
+                                  "type": "array",
+                                  "prefixItems": [
+                                    {
+                                      "type": "number",
+                                      "minimum": -11,
+                                      "maximum": -5
+                                    },
+                                    {
+                                      "type": "number",
+                                      "minimum": 51,
+                                      "maximum": 56
+                                    }
+                                  ],
+                                  "items": false,
+                                  "minItems": 2,
+                                  "maxItems": 2
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "coordinates"
+                        ],
+                        "additionalProperties": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locationStatus": {
+                "type": "string",
+                "enum": [
+                  "located",
+                  "unlocated"
+                ]
+              },
+              "kind": {
+                "type": "string",
+                "const": "housing_information"
+              },
+              "category": {
+                "type": "string",
+                "const": "government_projects"
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "enum": [
+                  "recorded_location",
+                  "nonspatial_observation"
+                ]
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "geography": {
+                    "type": "object",
+                    "properties": {
+                      "code": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "codeSystem": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "type": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "vintage": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "code",
+                      "codeSystem",
+                      "type",
+                      "name",
+                      "vintage"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "localAuthority": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "schemeName": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "units": {
+                    "anyOf": [
+                      {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 9007199254740991
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "status": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "period": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "definition": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "fundingProgramme": {
+                    "type": "string"
+                  },
+                  "deliveryMethod": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "geography",
+                  "localAuthority",
+                  "schemeName",
+                  "units",
+                  "status",
+                  "period",
+                  "definition"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "geometry",
+              "locationStatus",
+              "kind",
+              "category",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "kind": {
+                "type": "string",
+                "const": "property_transaction"
+              },
+              "category": {
+                "type": "string",
+                "const": "property_transactions"
+              },
+              "geometry": {
+                "type": "null"
+              },
+              "locationStatus": {
+                "type": "string",
+                "const": "unlocated"
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "const": "nonspatial_observation"
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "geography": {
+                    "type": "object",
+                    "properties": {
+                      "code": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "codeSystem": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "type": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "vintage": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "code",
+                      "codeSystem",
+                      "type",
+                      "name",
+                      "vintage"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "saleDate": {
+                    "type": "string",
+                    "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+                  },
+                  "amountEur": {
+                    "type": "number",
+                    "minimum": 0
+                  },
+                  "address": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "eircode": {
+                    "type": "string"
+                  },
+                  "county": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "nonMarketPrice": {
+                    "type": [
+                      "boolean",
+                      "null"
+                    ]
+                  },
+                  "vatExcluded": {
+                    "type": [
+                      "boolean",
+                      "null"
+                    ]
+                  },
+                  "dwellingDescription": {
+                    "type": "string"
+                  },
+                  "sizeDescription": {
+                    "type": "string"
+                  },
+                  "definition": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "geography",
+                  "saleDate",
+                  "amountEur",
+                  "address",
+                  "county",
+                  "nonMarketPrice",
+                  "vatExcluded",
+                  "dwellingDescription",
+                  "definition"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "kind",
+              "category",
+              "geometry",
+              "locationStatus",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "version": {
+                "type": "number",
+                "const": 2
+              },
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "externalId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "sourceId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "scope": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "snapshotId": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "raw": {
+                "type": "object",
+                "properties": {
+                  "path": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "locator": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "required": [
+                  "path",
+                  "locator"
+                ],
+                "additionalProperties": false
+              },
+              "observedPeriod": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sourceModifiedAt": {
+                "type": "string",
+                "format": "date-time",
+                "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+              },
+              "sourceVersion": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 9007199254740991
+              },
+              "kind": {
+                "type": "string",
+                "const": "market_context"
+              },
+              "category": {
+                "type": "string",
+                "enum": [
+                  "buy",
+                  "rent"
+                ]
+              },
+              "geometry": {
+                "type": "null"
+              },
+              "locationStatus": {
+                "type": "string",
+                "const": "unlocated"
+              },
+              "geometryMeaning": {
+                "type": "string",
+                "const": "nonspatial_observation"
+              },
+              "attributes": {
+                "type": "object",
+                "properties": {
+                  "geography": {
+                    "type": "object",
+                    "properties": {
+                      "code": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "codeSystem": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "type": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 1000
+                      },
+                      "vintage": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "code",
+                      "codeSystem",
+                      "type",
+                      "name",
+                      "vintage"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "tenure": {
+                    "type": "string",
+                    "enum": [
+                      "buy",
+                      "rent"
+                    ]
+                  },
+                  "statistic": {
+                    "type": "string",
+                    "enum": [
+                      "mean",
+                      "median",
+                      "standardised_mean"
+                    ]
+                  },
+                  "amountEur": {
+                    "anyOf": [
+                      {
+                        "type": "number",
+                        "minimum": 0
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "unit": {
+                    "type": "string",
+                    "enum": [
+                      "EUR",
+                      "EUR/month"
+                    ]
+                  },
+                  "period": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  },
+                  "propertyType": {
+                    "type": "string",
+                    "enum": [
+                      "house",
+                      "apartment",
+                      "all",
+                      "unknown"
+                    ]
+                  },
+                  "propertyTypeLabel": {
+                    "type": "string"
+                  },
+                  "bedroomClass": {
+                    "type": [
+                      "string",
+                      "null"
+                    ]
+                  },
+                  "bedrooms": {
+                    "anyOf": [
+                      {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 9007199254740991
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "sampleSize": {
+                    "anyOf": [
+                      {
+                        "type": "integer",
+                        "minimum": 0,
+                        "maximum": 9007199254740991
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "observationStatus": {
+                    "type": "string",
+                    "enum": [
+                      "reported",
+                      "missing",
+                      "suppressed",
+                      "source_zero_unverified"
+                    ]
+                  },
+                  "sourceValue": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  },
+                  "definition": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "dimensions": {
+                    "type": "object",
+                    "propertyNames": {
+                      "type": "string"
+                    },
+                    "additionalProperties": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "geography",
+                  "tenure",
+                  "statistic",
+                  "amountEur",
+                  "unit",
+                  "period",
+                  "propertyType",
+                  "propertyTypeLabel",
+                  "bedroomClass",
+                  "bedrooms",
+                  "sampleSize",
+                  "observationStatus",
+                  "sourceValue",
+                  "definition",
+                  "dimensions"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "version",
+              "id",
+              "externalId",
+              "sourceId",
+              "scope",
+              "snapshotId",
+              "name",
+              "raw",
+              "observedPeriod",
+              "kind",
+              "category",
+              "geometry",
+              "locationStatus",
+              "geometryMeaning",
+              "attributes"
+            ],
+            "additionalProperties": false
+          }
+        ]
+      },
+      "CommonManifest": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "version": {
+            "type": "number",
+            "const": 2
+          },
+          "snapshotId": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "sourceId": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "publisher": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sourceUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "license": {
+            "type": "string",
+            "enum": [
+              "CC-BY-4.0",
+              "CC0-1.0",
+              "CC-BY-SA-4.0",
+              "ODbL-1.0",
+              "public-domain",
+              "custom-reuse",
+              "unverified"
+            ]
+          },
+          "licenseEvidenceUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "attribution": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reuseStatus": {
+            "type": "string",
+            "enum": [
+              "approved",
+              "unverified",
+              "restricted"
+            ]
+          },
+          "fetchedAt": {
+            "type": "string",
+            "format": "date-time",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+          },
+          "observedPeriod": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "geography": {
+            "type": "string",
+            "minLength": 1
+          },
+          "coverage": {
+            "type": "string",
+            "enum": [
+              "partial",
+              "unknown"
+            ]
+          },
+          "limitations": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "adapter": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "version": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              }
+            },
+            "required": [
+              "id",
+              "version"
+            ],
+            "additionalProperties": false
+          },
+          "rawAssets": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "sha256": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                },
+                "bytes": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 9007199254740991
+                }
+              },
+              "required": [
+                "path",
+                "sha256",
+                "bytes"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "recordCount": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "format": {
+            "type": "string",
+            "const": "ndjson"
+          },
+          "quality": {
+            "type": "object",
+            "properties": {
+              "inputRecords": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "acceptedRecords": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "quarantinedRecords": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "unlocatedRecords": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "excludedRecords": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 9007199254740991
+              },
+              "exclusions": {
+                "type": "object",
+                "propertyNames": {
+                  "type": "string"
+                },
+                "additionalProperties": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 9007199254740991
+                }
+              }
+            },
+            "required": [
+              "inputRecords",
+              "acceptedRecords",
+              "quarantinedRecords",
+              "unlocatedRecords",
+              "excludedRecords",
+              "exclusions"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "version",
+          "snapshotId",
+          "sourceId",
+          "scope",
+          "publisher",
+          "sourceUrl",
+          "license",
+          "licenseEvidenceUrl",
+          "attribution",
+          "reuseStatus",
+          "fetchedAt",
+          "observedPeriod",
+          "geography",
+          "coverage",
+          "limitations",
+          "adapter",
+          "rawAssets",
+          "recordCount",
+          "sha256",
+          "format",
+          "quality"
+        ],
+        "additionalProperties": false
+      },
+      "Preferences": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "version": {
+            "type": "number",
+            "const": 1
+          },
+          "location": {
+            "type": "object",
+            "properties": {
+              "longitude": {
+                "type": "number",
+                "minimum": -11,
+                "maximum": -5
+              },
+              "latitude": {
+                "type": "number",
+                "minimum": 51,
+                "maximum": 56
+              },
+              "placeId": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "longitude",
+              "latitude"
+            ],
+            "additionalProperties": false
+          },
+          "criteria": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "importance": {
+                  "type": "string",
+                  "enum": [
+                    "required",
+                    "preferred"
+                  ]
+                },
+                "weight": {
+                  "type": "number",
+                  "exclusiveMinimum": 0,
+                  "maximum": 100
+                },
+                "parameters": {
+                  "default": {},
+                  "type": "object",
+                  "properties": {
+                    "maximumMinutes": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "mode": {
+                      "type": "string",
+                      "enum": [
+                        "driving",
+                        "walking",
+                        "cycling",
+                        "public_transport"
+                      ]
+                    },
+                    "maximumDistanceM": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "childAge": {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 18
+                    },
+                    "facilityId": {
+                      "type": "string"
+                    },
+                    "requiredService": {
+                      "type": "string"
+                    },
+                    "maximumAmountEur": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "bedrooms": {
+                      "type": "integer",
+                      "exclusiveMinimum": 0,
+                      "maximum": 9007199254740991
+                    },
+                    "minimumDownloadMbps": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "importance"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "radiusKm": {
+            "default": 10,
+            "type": "number",
+            "exclusiveMinimum": 0,
+            "maximum": 50
+          }
+        },
+        "required": [
+          "version",
+          "location",
+          "criteria"
+        ],
+        "additionalProperties": false
+      },
+      "LayerPreferences": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "version": {
+            "type": "number",
+            "const": 1
+          },
+          "location": {
+            "type": "object",
+            "properties": {
+              "longitude": {
+                "type": "number",
+                "minimum": -11,
+                "maximum": -5
+              },
+              "latitude": {
+                "type": "number",
+                "minimum": 51,
+                "maximum": 56
+              },
+              "placeId": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "longitude",
+              "latitude"
+            ],
+            "additionalProperties": false
+          },
+          "criteria": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "importance": {
+                  "type": "string",
+                  "enum": [
+                    "required",
+                    "preferred"
+                  ]
+                },
+                "weight": {
+                  "type": "number",
+                  "exclusiveMinimum": 0,
+                  "maximum": 100
+                },
+                "parameters": {
+                  "default": {},
+                  "type": "object",
+                  "properties": {
+                    "maximumMinutes": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "mode": {
+                      "type": "string",
+                      "enum": [
+                        "driving",
+                        "walking",
+                        "cycling",
+                        "public_transport"
+                      ]
+                    },
+                    "maximumDistanceM": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "childAge": {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 18
+                    },
+                    "facilityId": {
+                      "type": "string"
+                    },
+                    "requiredService": {
+                      "type": "string"
+                    },
+                    "maximumAmountEur": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "bedrooms": {
+                      "type": "integer",
+                      "exclusiveMinimum": 0,
+                      "maximum": 9007199254740991
+                    },
+                    "minimumDownloadMbps": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "importance"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "radiusKm": {
+            "default": 10,
+            "type": "number",
+            "exclusiveMinimum": 0,
+            "maximum": 50
+          },
+          "bbox": {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "type": "array",
+            "prefixItems": [
+              {
+                "type": "number",
+                "minimum": -11,
+                "maximum": -5
+              },
+              {
+                "type": "number",
+                "minimum": 51,
+                "maximum": 56
+              },
+              {
+                "type": "number",
+                "minimum": -11,
+                "maximum": -5
+              },
+              {
+                "type": "number",
+                "minimum": 51,
+                "maximum": 56
+              }
+            ],
+            "items": false,
+            "minItems": 4,
+            "maxItems": 4
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 250,
+            "default": 100
+          },
+          "marketGeography": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "codeSystem": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "code",
+              "codeSystem"
+            ]
+          },
+          "contextGeography": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "codeSystem": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "code",
+              "codeSystem"
+            ]
+          }
+        },
+        "required": [
+          "version",
+          "location",
+          "criteria"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "x-criterion-ids": [
+    "health.hospital",
+    "health.gp",
+    "transportation.airport",
+    "transportation.public_transport",
+    "transportation.cycling",
+    "transportation.car_access",
+    "quality_of_life.parks",
+    "quality_of_life.community_centres",
+    "quality_of_life.clubs",
+    "quality_of_life.activities",
+    "quality_of_life.green_areas",
+    "quality_of_life.shops",
+    "education.primary_school",
+    "education.secondary_school",
+    "education.childcare",
+    "utilities.group_water_scheme",
+    "utilities.mains_water",
+    "utilities.electricity",
+    "utilities.street_lighting",
+    "utilities.broadband",
+    "budget.buy",
+    "budget.rent",
+    "housing.government_projects",
+    "housing.bedrooms"
+  ],
+  "x-feature-categories": [
+    "hospital",
+    "gp",
+    "airport",
+    "transport_stop",
+    "cycle_network",
+    "road_network",
+    "parks",
+    "community_centres",
+    "clubs",
+    "activities",
+    "green_areas",
+    "shops",
+    "primary_school",
+    "secondary_school",
+    "childcare",
+    "group_water_scheme",
+    "mains_water",
+    "electricity",
+    "street_lighting",
+    "broadband",
+    "buy",
+    "rent",
+    "government_projects",
+    "bedrooms",
+    "urban_area",
+    "special_school",
+    "libraries",
+    "cultural_facilities",
+    "heritage_sites",
+    "community_facilities",
+    "playgrounds",
+    "water_supply_remediation",
+    "water_source_protection",
+    "group_water_source_protection",
+    "water_supply_directory",
+    "property_transactions"
+  ]
+}

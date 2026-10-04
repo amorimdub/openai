@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "comreg-meath-2026-10-04-ring-self-intersection",
+      "reason": "Ring Self-intersection[-6.41775174665228 53.4282735406387]",
+      "match": {
+        "sourceId": "comreg-broadband",
+        "scope": "counties",
+        "rawPath": "comreg-broadband/2026-10-04/counties/page-0001.json",
+        "rawSha256": "37619b95044ddc26a9be7c135569faff789b17f264ab910f191d594982a4bcb0",
+        "externalId": "d4a2d809-7471-4c4d-b468-b54e25bc4467",
+        "rawLocator": "features/19",
+        "canonicalGeometrySha256": "76f61785612e7ac9bd7ae08f9dbce14cd9d847fa7846758dc69ba958c8ce12fb"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "data/canonical/topology-validation-2026-10-04.json; independent local PostGIS check: 25 of 26 county geometries valid, Meath invalid. The raw asset and canonical geometry hashes bind this evidence to the observed shape.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-1",
+      "reason": "Self-intersection[-6.2766213712 53.3401048093]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "148",
+        "rawLocator": "features/38",
+        "canonicalGeometrySha256": "84b2a70792a56e9a77f0f275c747916d0aa09303a696c29f101e1f1bec4ebfe5"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-2",
+      "reason": "Self-intersection[-6.263989168 53.3259604075]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "447",
+        "rawLocator": "features/168",
+        "canonicalGeometrySha256": "c65333c6e6eab2438d1baf3f49f674968d09ad28ff074859c269bcd4d58e2fa4"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-3",
+      "reason": "Self-intersection[-6.2209991038 53.3291601242]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "446",
+        "rawLocator": "features/169",
+        "canonicalGeometrySha256": "441832d14d591e0a8939b0bd8b9381558fb5a0d84cf63025e16d8e25e17447a8"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-4",
+      "reason": "Self-intersection[-6.3361251574 53.3270534546]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "361",
+        "rawLocator": "features/221",
+        "canonicalGeometrySha256": "5c02047caede838dd2d30f0411dc3852b37755c19f901e513cc5ab049e1fb3b9"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-5",
+      "reason": "Self-intersection[-6.23198573843369 53.402658035825]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "675",
+        "rawLocator": "features/294",
+        "canonicalGeometrySha256": "87f0e48730d62a87c4a2e32be56af82b1ef058100185b55e5695c5cc505bc1c9"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-6",
+      "reason": "Self-intersection[-6.3565572439 53.3376883697]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "65",
+        "rawLocator": "features/332",
+        "canonicalGeometrySha256": "73f04d6d44f0b180e3d5f3621f3c5b2fa477f33f650c7b81c4f43a4e3aee8053"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-7",
+      "reason": "Ring Self-intersection[-6.1828119993 53.3841269939]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "892",
+        "rawLocator": "features/467",
+        "canonicalGeometrySha256": "b5c4e4d5ee1688a8a78508ba4c1ede09bae1eadb7748ea3a1f17ba42d2c9de50"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-dcc-boundaries-2026-10-04-topology-8",
+      "reason": "Self-intersection[-6.2602574875 53.3172656962]",
+      "match": {
+        "sourceId": "parks-and-open-spaces-dcc",
+        "scope": "dublin-city-2016",
+        "rawPath": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+        "rawSha256": "4e0cc6d7b8568f5ce689636a048271945c3786e782e348b17244ca5c6aeb0e19",
+        "externalId": "214",
+        "rawLocator": "features/539",
+        "canonicalGeometrySha256": "bb3588af7449895191bf097ce7b2e6db6e918890b64bdcf030a7b1874fcb9aa1"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "parks-sdcc-2026-10-04-topology-1",
+      "reason": "Ring Self-intersection[-6.36169544307587 53.3533395927272]",
+      "match": {
+        "sourceId": "parks-sdcc1",
+        "scope": "south-dublin",
+        "rawPath": "parks-sdcc1/2026-10-04/assets/page-0001.json",
+        "rawSha256": "888de5857816a18409d33f9cd6ae0344bc9ba7f4dbd609e0a10c466214f66f81",
+        "externalId": "14",
+        "rawLocator": "features/13",
+        "canonicalGeometrySha256": "6fa3cf70ada936a0252651d97c284cdd5aeef5cc166b3c43a4492e6ff75a3a96"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "water-gsi-public-2026-10-04-topology-1",
+      "reason": "Ring Self-intersection[-6.39518856987186 53.7491107839843]",
+      "match": {
+        "sourceId": "gsi-water-source-protection",
+        "scope": "public-source-protection",
+        "rawPath": "gsi-water-source-protection/2026-10-04/public-source-protection/page-0001.json",
+        "rawSha256": "43e318c4b8937da91b4550982a03b3c9835cbb7dcf64a38d50d3c48065ed7c27",
+        "externalId": "{30055098-8729-4A61-BB55-CAD2F22B8246}",
+        "rawLocator": "features/313",
+        "canonicalGeometrySha256": "94cb56a7c54a8741284ac0317897f065738ee70f65b8fd69b2fe82a235aec54c"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    },
+    {
+      "id": "water-gsi-group-2026-10-04-topology-1",
+      "reason": "Self-intersection[-8.54228644875027 53.2371102055153]",
+      "match": {
+        "sourceId": "gsi-water-source-protection",
+        "scope": "group-scheme-contribution",
+        "rawPath": "gsi-water-source-protection/2026-10-04/group-scheme-contribution/page-0001.json",
+        "rawSha256": "f15f57eea6290c54c6c8e856dc8f91f2ac1c5cb7c66c80c9df015687ec77b120",
+        "externalId": "{54D64613-F701-4063-A478-7EF91770D9B1}",
+        "rawLocator": "features/215",
+        "canonicalGeometrySha256": "41b27260faab5caa89cc416c30b8d67e0bb15550ee81c1cb818fbbb437e2d244"
+      },
+      "validator": {
+        "engine": "PostGIS",
+        "query": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+        "evidence": "docs/research/local-topology-check.json; raw asset and canonical geometry hashes bind this independent observed validation result.",
+        "version": "PostgreSQL 17.5; PostGIS 3.5.2; GEOS 3.9.0"
+      }
+    }
+  ]
+}

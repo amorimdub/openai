@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-10-04T13:37:59.529Z",
+  "baseUrl": "http://127.0.0.1:3080",
+  "expectedRecords": 83620,
+  "passed": true,
+  "checks": [
+    {
+      "name": "health and version",
+      "passed": true,
+      "durationMs": 3,
+      "details": {
+        "status": "ok",
+        "version": 2,
+        "mode": "postgis_common_schema"
+      }
+    },
+    {
+      "name": "active sources, exact record count and adapter transparency",
+      "passed": true,
+      "durationMs": 68,
+      "details": {
+        "totalRecords": 83620,
+        "sources": [
+          {
+            "sourceId": "comreg-broadband",
+            "scope": "counties",
+            "snapshotId": "21d4ce96c0a2ed23c3662442fa10885b1d32b652c3a4c609067193a22bf234eb",
+            "recordCount": 25,
+            "coverage": "partial"
+          },
+          {
+            "sourceId": "comreg-broadband",
+            "scope": "small-areas",
+            "snapshotId": "366ec6ba7ced49dd9c051618cadf1cdb8c385ccd3f0d1e6e2cc749c539af7168",
+            "recordCount": 18919,
+            "coverage": "partial"
+          },
+          {
+            "sourceId": "cso-hpm05",
+            "scope": "national-regional-monthly-executions-all-statuses",
+            "snapshotId": "3791d6374e055bee3bbc37c332d1f7ad84885683ab067ab2524f8c22b3e6ca52",
+            "recordCount": 50148,
+            "coverage": "partial"
+          },
+          {
+            "sourceId": "cso-urban-areas-2022",
+            "scope": "national-urban-areas",
+            "snapshotId": "7ac2e6763d45775ae9e406bf29efa4844e97a6c0577fec7a88714f2647d24d45",
+            "recordCount": 867,
+            "coverage": "partial"
+          },
+          {
+            "sourceId": "parks-gardens-and-public-spaces-dcc",
+            "scope": "dublin-city",
+            "snapshotId": "5564b179b5284202c2f75c685af7c3f629048c250073480651ac3258057c7f37",
+            "recordCount": 90,
+            "coverage": "partial"
+          },
+          {
+            "sourceId": "pobal-childcare",
+            "scope": "national-childcare",
+            "snapshotId": "2adb0e6caefe8690e45c64837208a9533608d14f5a699d1c52624bcbe3961c80",
+            "recordCount": 5075,
+            "coverage": "partial"
+          },
+          {
+            "sourceId": "sport-ireland-clubs",
+            "scope": "island-wide-source",
+            "snapshotId": "bad3dc8237c434abf38b81f45eb0a4df514383da925f7b57639f80f91d6c3c84",
+            "recordCount": 8496,
+            "coverage": "partial"
+          }
+        ],
+        "rawSourceStatuses": {
+          "deferred": 28,
+          "parsed": 5,
+          "partially_parsed": 1,
+          "reuse_gated": 4,
+          "catalogue_only": 1
+        }
+      }
+    },
+    {
+      "name": "criterion registry and Dublin town search",
+      "passed": true,
+      "durationMs": 57,
+      "details": {
+        "criterionCount": 24,
+        "places": [
+          {
+            "id": "cso-urban-areas-2022:national-urban-areas:52be0df1-c0d3-4a30-98c1-df9ada232158",
+            "name": "Dublin city and suburbs",
+            "geography": {
+              "code": "02341",
+              "codeSystem": "CSO_URBAN_AREA_CODE_2022",
+              "type": "urban_area",
+              "name": "Dublin city and suburbs",
+              "vintage": "2022"
+            }
+          }
+        ],
+        "snapshotIds": [
+          "21d4ce96c0a2ed23c3662442fa10885b1d32b652c3a4c609067193a22bf234eb",
+          "2adb0e6caefe8690e45c64837208a9533608d14f5a699d1c52624bcbe3961c80",
+          "366ec6ba7ced49dd9c051618cadf1cdb8c385ccd3f0d1e6e2cc749c539af7168",
+          "3791d6374e055bee3bbc37c332d1f7ad84885683ab067ab2524f8c22b3e6ca52",
+          "5564b179b5284202c2f75c685af7c3f629048c250073480651ac3258057c7f37",
+          "7ac2e6763d45775ae9e406bf29efa4844e97a6c0577fec7a88714f2647d24d45",
+          "bad3dc8237c434abf38b81f45eb0a4df514383da925f7b57639f80f91d6c3c84"
+        ]
+      }
+    },
+    {
+      "name": "viewport pagination, stable IDs and bound query cursors",
+      "passed": true,
+      "durationMs": 820,
+      "details": {
+        "firstIds": [
+          "pobal-childcare:national-childcare:09CC0002",
+          "pobal-childcare:national-childcare:09CC0003"
+        ],
+        "secondIds": [
+          "pobal-childcare:national-childcare:09CC0006",
+          "pobal-childcare:national-childcare:09CC0007"
+        ],
+        "wrongQueryCursorStatus": 400,
+        "sourceIds": [
+          "pobal-childcare"
+        ]
+      }
+    },
+    {
+      "name": "radius query reports bounded, ordered geometry distances",
+      "passed": true,
+      "durationMs": 310,
+      "details": {
+        "returned": 5,
+        "distancesM": [
+          303.70027434,
+          452.78861867,
+          495.96211208,
+          524.03877621,
+          527.03257602
+        ],
+        "sourceIds": [
+          "pobal-childcare"
+        ]
+      }
+    },
+    {
+      "name": "polygon area membership with provenance",
+      "passed": true,
+      "durationMs": 168,
+      "details": {
+        "areas": [
+          {
+            "id": "comreg-broadband:counties:4f8d62dc-d4f9-487f-8054-66c9586077dd",
+            "kind": "utility_area",
+            "category": "broadband"
+          },
+          {
+            "id": "comreg-broadband:small-areas:4c07d11e-2d5c-851d-e053-ca3ca8c0ca7f",
+            "kind": "utility_area",
+            "category": "broadband"
+          },
+          {
+            "id": "cso-urban-areas-2022:national-urban-areas:52be0df1-c0d3-4a30-98c1-df9ada232158",
+            "kind": "place",
+            "category": "urban_area"
+          }
+        ],
+        "sourceIds": [
+          "comreg-broadband",
+          "comreg-broadband",
+          "cso-urban-areas-2022"
+        ]
+      }
+    },
+    {
+      "name": "exact HPM05 geography, period and dwelling filters",
+      "passed": true,
+      "durationMs": 179,
+      "details": {
+        "fixtureId": "cso-hpm05:national-regional-monthly-executions-all-statuses:HPM05C03%7C201001%7C-%7C-%7C02%7C-",
+        "geography": {
+          "code": "-",
+          "codeSystem": "CSO_HPM05_C03348V04035",
+          "type": "country",
+          "name": "All",
+          "vintage": null
+        },
+        "period": "2010-01",
+        "amountEur": 284811,
+        "sampleSize": 947,
+        "matchingRecords": 2,
+        "exactBedroomsRecords": 0
+      }
+    },
+    {
+      "name": "one, seven and all configured criteria generate individual layers",
+      "passed": true,
+      "durationMs": 7266,
+      "details": [
+        {
+          "selected": 1,
+          "returned": 1,
+          "layersWithRecords": []
+        },
+        {
+          "selected": 7,
+          "returned": 7,
+          "layersWithRecords": [
+            "quality_of_life.parks"
+          ]
+        },
+        {
+          "selected": 24,
+          "returned": 24,
+          "layersWithRecords": [
+            "quality_of_life.parks",
+            "quality_of_life.clubs",
+            "education.childcare",
+            "utilities.broadband",
+            "budget.buy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "assessments retain unknown scores with independent recorded proximity",
+      "passed": true,
+      "durationMs": 4069,
+      "details": {
+        "selectedCriteria": 24,
+        "requiredEvidenceMissing": 24,
+        "rankingReady": false,
+        "recordedChildcareDistanceM": 303.70027434
+      }
+    },
+    {
+      "name": "invalid request validation and explicit market geographic contract",
+      "passed": true,
+      "durationMs": 7,
+      "details": [
+        {
+          "path": "/features?bbox=-6,53,-7,54",
+          "status": 400
+        },
+        {
+          "path": "/features?bbox=-7,53,-6,54&categories=invented",
+          "status": 400
+        },
+        {
+          "path": "/features?longitude=NaN&latitude=53&radiusM=100",
+          "status": 400
+        },
+        {
+          "path": "/features?longitude=-6&latitude=53&radiusM=50001",
+          "status": 400
+        },
+        {
+          "path": "/features?bbox=-7,53,-6,54&limit=251",
+          "status": 400
+        },
+        {
+          "path": "/market-context?placeId=dublin",
+          "status": 400
+        },
+        {
+          "path": "/layers with unknown criterion",
+          "status": 400
+        }
+      ]
+    }
+  ],
+  "scope": "Observed local macOS native-container API acceptance; not deployed or certified source completeness."
+}

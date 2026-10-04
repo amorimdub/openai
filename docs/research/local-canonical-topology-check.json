@@ -1,0 +1,291 @@
+{
+  "checkedAt": "2026-10-04T14:00:52.340Z",
+  "engine": "PostgreSQL17.5/PostGIS3.5.2/GEOS3.9.0",
+  "sql": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+  "polygonCount": 1276,
+  "invalidCount": 11,
+  "findings": [
+    {
+      "adapter": "community-dcc",
+      "snapshotId": "1cac104bf8cfdedff4a84f72c8946067a4109bbea0bdee36869157f71abfdc74",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-dcc/1cac104bf8cfdedff4a84f72c8946067a4109bbea0bdee36869157f71abfdc74/records.ndjson",
+      "canonicalSha256": "b5a1a29e3b55084f32665139019fc036cbf324ab29077d74f40b05c702f0ef9b",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-dlr",
+      "snapshotId": "b17dcab2a37f42bad38f225bd41aea51998d8497e3c9ce421dec95b1454a418c",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-dlr/b17dcab2a37f42bad38f225bd41aea51998d8497e3c9ce421dec95b1454a418c/records.ndjson",
+      "canonicalSha256": "959088c54b2f248a423fbcd69751d235f023c11b69e5d77a1ad19a05a64fe191",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-fcc",
+      "snapshotId": "8642865ab2f37653866ad5b48e06002a54d159aa7c5eb233aa549d6facd00a64",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-fcc/8642865ab2f37653866ad5b48e06002a54d159aa7c5eb233aa549d6facd00a64/records.ndjson",
+      "canonicalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-sdcc",
+      "snapshotId": "6de927301322dcfce5d51d020d04410b0bec91765303f7ecaee69f9e486a6c53",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-sdcc/6de927301322dcfce5d51d020d04410b0bec91765303f7ecaee69f9e486a6c53/records.ndjson",
+      "canonicalSha256": "fb81481abc403fdcb16e9a1804a8b202458c52c9d26393069f2de881720aa6b6",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-galway",
+      "snapshotId": "5b0fd001d4440ad214a944e2502509ae36f042c5e06747f2fffebf31ef11eea8",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-galway/5b0fd001d4440ad214a944e2502509ae36f042c5e06747f2fffebf31ef11eea8/records.ndjson",
+      "canonicalSha256": "a9d9ea870c274b15dd5e64b05faada5a2fde56a26b8a9477fc57c45e5cb05d0e",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-roscommon",
+      "snapshotId": "62884c1c13c5fc140919120295bbdbb32f661edc99c30a81d83519f2d23f91e4",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-roscommon/62884c1c13c5fc140919120295bbdbb32f661edc99c30a81d83519f2d23f91e4/records.ndjson",
+      "canonicalSha256": "742f1f1b841e7f5b104fe81ccec1030304caf47c947e6024e4439107552e6b14",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "parks-dcc-boundaries",
+      "snapshotId": "6baaa6ecace97623dc0ec7dcc389722d4e465d3c3eef2caf5aa57c88b6eb29d6",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/parks-dcc-boundaries/6baaa6ecace97623dc0ec7dcc389722d4e465d3c3eef2caf5aa57c88b6eb29d6/records.ndjson",
+      "canonicalSha256": "fcfd80a9a1b8a165ab4c2432ce7c333a0385e6373e0b26bbe47f4b2663abcaff",
+      "polygonCount": 566,
+      "invalid": [
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:148",
+          "reason": "Self-intersection[-6.2766213712 53.3401048093]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/38"
+          },
+          "externalId": "148",
+          "geometrySha256": "84b2a70792a56e9a77f0f275c747916d0aa09303a696c29f101e1f1bec4ebfe5"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:447",
+          "reason": "Self-intersection[-6.263989168 53.3259604075]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/168"
+          },
+          "externalId": "447",
+          "geometrySha256": "c65333c6e6eab2438d1baf3f49f674968d09ad28ff074859c269bcd4d58e2fa4"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:446",
+          "reason": "Self-intersection[-6.2209991038 53.3291601242]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/169"
+          },
+          "externalId": "446",
+          "geometrySha256": "441832d14d591e0a8939b0bd8b9381558fb5a0d84cf63025e16d8e25e17447a8"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:361",
+          "reason": "Self-intersection[-6.3361251574 53.3270534546]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/221"
+          },
+          "externalId": "361",
+          "geometrySha256": "5c02047caede838dd2d30f0411dc3852b37755c19f901e513cc5ab049e1fb3b9"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:675",
+          "reason": "Self-intersection[-6.23198573843369 53.402658035825]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/294"
+          },
+          "externalId": "675",
+          "geometrySha256": "87f0e48730d62a87c4a2e32be56af82b1ef058100185b55e5695c5cc505bc1c9"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:65",
+          "reason": "Self-intersection[-6.3565572439 53.3376883697]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/332"
+          },
+          "externalId": "65",
+          "geometrySha256": "73f04d6d44f0b180e3d5f3621f3c5b2fa477f33f650c7b81c4f43a4e3aee8053"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:892",
+          "reason": "Ring Self-intersection[-6.1828119993 53.3841269939]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/467"
+          },
+          "externalId": "892",
+          "geometrySha256": "b5c4e4d5ee1688a8a78508ba4c1ede09bae1eadb7748ea3a1f17ba42d2c9de50"
+        },
+        {
+          "id": "parks-and-open-spaces-dcc:dublin-city-2016:214",
+          "reason": "Self-intersection[-6.2602574875 53.3172656962]",
+          "raw": {
+            "path": "parks-and-open-spaces-dcc/2026-10-04/dcc_parks_strategy2016_park_classification.geojson",
+            "locator": "features/539"
+          },
+          "externalId": "214",
+          "geometrySha256": "bb3588af7449895191bf097ce7b2e6db6e918890b64bdcf030a7b1874fcb9aa1"
+        }
+      ]
+    },
+    {
+      "adapter": "parks-dlr",
+      "snapshotId": "2ca9c6e5f5b4fe162973bd142f31701e7def357f7031e48c6eb79e3dccce0dac",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/parks-dlr/2ca9c6e5f5b4fe162973bd142f31701e7def357f7031e48c6eb79e3dccce0dac/records.ndjson",
+      "canonicalSha256": "204d98704bcd25aedf82a397564f1d8b45de7cbdbe439561c01614594989d733",
+      "polygonCount": 15,
+      "invalid": []
+    },
+    {
+      "adapter": "playgrounds-fcc",
+      "snapshotId": "e268648fd45a565365ec4d4025019d051176234abeff66bfe17c5c9384f518b6",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/playgrounds-fcc/e268648fd45a565365ec4d4025019d051176234abeff66bfe17c5c9384f518b6/records.ndjson",
+      "canonicalSha256": "029ece9cc213ad4730bd91239c1e969b5fb2bb3548319d5c3a63dc88a8b11a68",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "parks-sdcc",
+      "snapshotId": "fe7333298c8e34a3ed718d71038d1a6cebb264b9d3070e5fec20fa152b13b110",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/parks-sdcc/fe7333298c8e34a3ed718d71038d1a6cebb264b9d3070e5fec20fa152b13b110/records.ndjson",
+      "canonicalSha256": "56013be7cdbccd2793788a58aabf14ebc1321fdd5638b3e63d1f722a5bce8540",
+      "polygonCount": 84,
+      "invalid": [
+        {
+          "id": "parks-sdcc1:south-dublin:14",
+          "reason": "Ring Self-intersection[-6.36169544307587 53.3533395927272]",
+          "raw": {
+            "path": "parks-sdcc1/2026-10-04/assets/page-0001.json",
+            "locator": "features/13"
+          },
+          "externalId": "14",
+          "geometrySha256": "6fa3cf70ada936a0252651d97c284cdd5aeef5cc166b3c43a4492e6ff75a3a96"
+        }
+      ]
+    },
+    {
+      "adapter": "activities",
+      "snapshotId": "cfb516928faab88966ac0dca006cfad4b7b92a9639cd50fc8d7e2ff28192c478",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/activities/cfb516928faab88966ac0dca006cfad4b7b92a9639cd50fc8d7e2ff28192c478/records.ndjson",
+      "canonicalSha256": "085820f92ad99dab95165d663e3efb1be85c1fccfb9f75bd2a53568cf7e418d8",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-dcc",
+      "snapshotId": "50399934b22b7bca42cb517b880e0d3d8f2abd6503606fbe5fe27d2d8cc762b9",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-dcc/50399934b22b7bca42cb517b880e0d3d8f2abd6503606fbe5fe27d2d8cc762b9/records.ndjson",
+      "canonicalSha256": "8f21f9cd0dec5f838939a84f329355e96bb7184c73500b3a9700e1c2c7e46d73",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-dlr",
+      "snapshotId": "cada3a4b9753d328e2e5de394f6e645d53178a0217c6d0d2e8a18e822f75a710",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-dlr/cada3a4b9753d328e2e5de394f6e645d53178a0217c6d0d2e8a18e822f75a710/records.ndjson",
+      "canonicalSha256": "3806a7b11a2505d5b7d9a5b7ebf1bc30e37c2967a262eed9e7a48150684df73f",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-fcc",
+      "snapshotId": "05f18b1273449fdfb7c5c4d3cb5894c867d18e8a777267b6bccddf1692e7f8c2",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-fcc/05f18b1273449fdfb7c5c4d3cb5894c867d18e8a777267b6bccddf1692e7f8c2/records.ndjson",
+      "canonicalSha256": "a8fe3c7c4440d9f5d519a42eb766d3305e70b521b8fb6334dd3a59a2b673fcea",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-sdcc",
+      "snapshotId": "19d6610b19b0ec8bac07d7a09c33063d00a5570e124b4bf0dedae48e230e832a",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-sdcc/19d6610b19b0ec8bac07d7a09c33063d00a5570e124b4bf0dedae48e230e832a/records.ndjson",
+      "canonicalSha256": "bc5f423cd99b8437070234e1535f0878e598d861e1d8cff54f91f05179ec7f35",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "water-ral",
+      "snapshotId": "0d332de1e51a86da505e44a90afc756093329de89967e2fc8797bdd7fb015f03",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/water-ral/0d332de1e51a86da505e44a90afc756093329de89967e2fc8797bdd7fb015f03/records.ndjson",
+      "canonicalSha256": "f978890f333e31d9a781ec9b061ca62f5b3b8d40552b822326be1f1da1a1845a",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "water-gsi-public",
+      "snapshotId": "4c692803af66191bfb420702709aa7321f1f37912591f80775922b2e92c19afa",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/water-gsi-public/4c692803af66191bfb420702709aa7321f1f37912591f80775922b2e92c19afa/records.ndjson",
+      "canonicalSha256": "8f3e0c50050fee64f0dcc38c4967d6f42df60a1f9c850afd87ac785464313ac0",
+      "polygonCount": 357,
+      "invalid": [
+        {
+          "id": "gsi-water-source-protection:public-source-protection:%7B30055098-8729-4A61-BB55-CAD2F22B8246%7D",
+          "reason": "Ring Self-intersection[-6.39518856987186 53.7491107839843]",
+          "raw": {
+            "path": "gsi-water-source-protection/2026-10-04/public-source-protection/page-0001.json",
+            "locator": "features/313"
+          },
+          "externalId": "{30055098-8729-4A61-BB55-CAD2F22B8246}",
+          "geometrySha256": "94cb56a7c54a8741284ac0317897f065738ee70f65b8fd69b2fe82a235aec54c"
+        }
+      ]
+    },
+    {
+      "adapter": "water-gsi-group",
+      "snapshotId": "29146d050b965398c7ed91f516dee8543e0ccc7d1cf0815296f124f6045b1415",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/water-gsi-group/29146d050b965398c7ed91f516dee8543e0ccc7d1cf0815296f124f6045b1415/records.ndjson",
+      "canonicalSha256": "522ff3531c2983483e029f276ea5ee45a732107fe49188125a90567d60059fb0",
+      "polygonCount": 254,
+      "invalid": [
+        {
+          "id": "gsi-water-source-protection:group-scheme-contribution:%7B54D64613-F701-4063-A478-7EF91770D9B1%7D",
+          "reason": "Self-intersection[-8.54228644875027 53.2371102055153]",
+          "raw": {
+            "path": "gsi-water-source-protection/2026-10-04/group-scheme-contribution/page-0001.json",
+            "locator": "features/215"
+          },
+          "externalId": "{54D64613-F701-4063-A478-7EF91770D9B1}",
+          "geometrySha256": "41b27260faab5caa89cc416c30b8d67e0bb15550ee81c1cb818fbbb437e2d244"
+        }
+      ]
+    },
+    {
+      "adapter": "housing-construction",
+      "snapshotId": "442b53aff8d138b43c44b62963023ca21451a9a305768bdb5baf61db1518a711",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/housing-construction/442b53aff8d138b43c44b62963023ca21451a9a305768bdb5baf61db1518a711/records.ndjson",
+      "canonicalSha256": "7f9a7b34d81ab34176f36c13b732752ccfed8df913ba2c69c49cc61d60766ea2",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "uisce-water-zones",
+      "snapshotId": "ca1a7e8acdfad89601e90e46c96cb73b12f3c2cf73049d6dd6dd3e40544a7083",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/uisce-water-zones/ca1a7e8acdfad89601e90e46c96cb73b12f3c2cf73049d6dd6dd3e40544a7083/records.ndjson",
+      "canonicalSha256": "0c1a5a1fd0cc97f8b86803d55adb3758d5ff6d0855f100e41105ae218b60fc06",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "cork-parks",
+      "snapshotId": "ee9e1f8e0579ab51a1a43955c177fd1af560bed16b7901f03548a3a263f75ad6",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/cork-parks/ee9e1f8e0579ab51a1a43955c177fd1af560bed16b7901f03548a3a263f75ad6/records.ndjson",
+      "canonicalSha256": "7423f7e83733c8d6914756ef54809a35a884b1375a17647b8b8546e9f49beedc",
+      "polygonCount": 0,
+      "invalid": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+name: ireland-map-postgis
+services:
+  postgis:
+    image: postgis/postgis:17-3.5
+    platform: linux/amd64
+    ports:
+      - '127.0.0.1:55439:5432'
+    environment:
+      POSTGRES_DB: ireland
+      POSTGRES_USER: ireland
+      POSTGRES_HOST_AUTH_METHOD: trust
+    volumes:
+      - ireland-postgis:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ireland -d ireland']
+      interval: 5s
+      timeout: 5s
+      retries: 20
+volumes:
+  ireland-postgis:

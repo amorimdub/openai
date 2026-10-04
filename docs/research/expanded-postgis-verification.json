@@ -1,0 +1,1428 @@
+{
+  "verifiedAt": "2026-10-04T14:18:28.530Z",
+  "readOnly": true,
+  "versions": {
+    "postgres": "PostgreSQL 17.5 (Debian 17.5-1.pgdg110+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 10.2.1-6) 10.2.1 20210110, 64-bit",
+    "postgis": "POSTGIS=\"3.5.2 dea6d0a\" [EXTENSION] PGSQL=\"170\" GEOS=\"3.9.0-CAPI-1.16.2\" PROJ=\"7.2.1 NETWORK_ENABLED=OFF URL_ENDPOINT=https://cdn.proj.org USER_WRITABLE_DIRECTORY=/var/lib/postgresql/.local/share/proj DATABASE_PATH=/usr/share/proj/proj.db\" (compiled against PROJ 7.2.1) LIBXML=\"2.9.10\" LIBJSON=\"0.15\" LIBPROTOBUF=\"1.3.3\" WAGYU=\"0.5.0 (Internal)\" TOPOLOGY"
+  },
+  "recordCount": 1709202,
+  "activeSourceScopes": 41,
+  "locatedRecords": 389787,
+  "unlocatedRecords": 1319415,
+  "allActiveGeometryValidAndNonempty": true,
+  "counts": [
+    {
+      "source_id": "community-centres-2025-fcc",
+      "scope": "fingal",
+      "snapshot_id": "8642865ab2f37653866ad5b48e06002a54d159aa7c5eb233aa549d6facd00a64",
+      "records": 0,
+      "located": 0,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "community-centres6",
+      "scope": "roscommon",
+      "snapshot_id": "62884c1c13c5fc140919120295bbdbb32f661edc99c30a81d83519f2d23f91e4",
+      "records": 41,
+      "located": 41,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "community-centres-dcc",
+      "scope": "dublin-city",
+      "snapshot_id": "1cac104bf8cfdedff4a84f72c8946067a4109bbea0bdee36869157f71abfdc74",
+      "records": 99,
+      "located": 99,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "community-facilities-dlr",
+      "scope": "dun-laoghaire-rathdown",
+      "snapshot_id": "b17dcab2a37f42bad38f225bd41aea51998d8497e3c9ce421dec95b1454a418c",
+      "records": 53,
+      "located": 53,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "comreg-broadband",
+      "scope": "counties",
+      "snapshot_id": "21d4ce96c0a2ed23c3662442fa10885b1d32b652c3a4c609067193a22bf234eb",
+      "records": 25,
+      "located": 25,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "comreg-broadband",
+      "scope": "small-areas",
+      "snapshot_id": "366ec6ba7ced49dd9c051618cadf1cdb8c385ccd3f0d1e6e2cc749c539af7168",
+      "records": 18919,
+      "located": 18919,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "cork-city-parks",
+      "scope": "cork-city",
+      "snapshot_id": "ee9e1f8e0579ab51a1a43955c177fd1af560bed16b7901f03548a3a263f75ad6",
+      "records": 101,
+      "located": 101,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "cso-hpm02",
+      "scope": "monthly-market-household-executions-all-statuses",
+      "snapshot_id": "f6ab89411d56ca8328a43aa6b1fccbcfcd607ef954718056f1f7d9fa0694fc27",
+      "records": 10746,
+      "located": 0,
+      "unlocated": 10746,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "cso-hpm05",
+      "scope": "national-regional-monthly-executions-all-statuses",
+      "snapshot_id": "3791d6374e055bee3bbc37c332d1f7ad84885683ab067ab2524f8c22b3e6ca52",
+      "records": 50148,
+      "located": 0,
+      "unlocated": 50148,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "cso-hpm07",
+      "scope": "rolling-12-month-executions-all-statuses-all-buyers",
+      "snapshot_id": "ed84e73f9c179d36d8b5db7d8321a480da87a8a09070205eb0dc3b8e877e006d",
+      "records": 15792,
+      "located": 0,
+      "unlocated": 15792,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "cso-hpm08",
+      "scope": "rolling-12-month-executions-all-statuses-all-buyers",
+      "snapshot_id": "df435ffb002a8640e7bbfa3497d254a388456127f7284ed978b9b4f5476701bf",
+      "records": 52640,
+      "located": 0,
+      "unlocated": 52640,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "cso-urban-areas-2022",
+      "scope": "national-urban-areas",
+      "snapshot_id": "7ac2e6763d45775ae9e406bf29efa4844e97a6c0577fec7a88714f2647d24d45",
+      "records": 867,
+      "located": 867,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "dlr-public-lighting",
+      "scope": "dun-laoghaire-rathdown",
+      "snapshot_id": "cada3a4b9753d328e2e5de394f6e645d53178a0217c6d0d2e8a18e822f75a710",
+      "records": 23530,
+      "located": 23488,
+      "unlocated": 42,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "epa-remedial-action-list",
+      "scope": "national-remedial-list",
+      "snapshot_id": "0d332de1e51a86da505e44a90afc756093329de89967e2fc8797bdd7fb015f03",
+      "records": 35,
+      "located": 35,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "galway-city-community-centre-locations2",
+      "scope": "galway-city",
+      "snapshot_id": "5b0fd001d4440ad214a944e2502509ae36f042c5e06747f2fffebf31ef11eea8",
+      "records": 4,
+      "located": 4,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "gsi-water-source-protection",
+      "scope": "group-scheme-contribution",
+      "snapshot_id": "040404a1e3bce9af4fd1ca3248631cc2913e4094fcd14cc0168783ad978f69a1",
+      "records": 253,
+      "located": 253,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "gsi-water-source-protection",
+      "scope": "public-source-protection",
+      "snapshot_id": "7f2b9cad42b02c8b8fb099db07371ee67613cd420986eefecbbe30d7a9768dd0",
+      "records": 356,
+      "located": 356,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "housing-construction-q1-2026",
+      "scope": "national-projects",
+      "snapshot_id": "442b53aff8d138b43c44b62963023ca21451a9a305768bdb5baf61db1518a711",
+      "records": 3208,
+      "located": 0,
+      "unlocated": 3208,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "hse-gp-2020",
+      "scope": "national-gp-directory-2020",
+      "snapshot_id": "03fc47f2eb2afdfad149b6350a030ed8bbfd5d2eb4b4de611731465eacb5494a",
+      "records": 6587,
+      "located": 6587,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "hse-hospitals-2020",
+      "scope": "national-hospital-directory-2020",
+      "snapshot_id": "bebb225fe6f985a1dcc293c734fb49663df55b1069eefa98665a874fe6115596",
+      "records": 132,
+      "located": 132,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "local-national-parks-and-play-grounds-fcc-20232",
+      "scope": "fingal",
+      "snapshot_id": "e268648fd45a565365ec4d4025019d051176234abeff66bfe17c5c9384f518b6",
+      "records": 52,
+      "located": 52,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "main-parks-dlr",
+      "scope": "dun-laoghaire-rathdown",
+      "snapshot_id": "2ca9c6e5f5b4fe162973bd142f31701e7def357f7031e48c6eb79e3dccce0dac",
+      "records": 15,
+      "located": 15,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "multi-use-community-centres1",
+      "scope": "south-dublin",
+      "snapshot_id": "6de927301322dcfce5d51d020d04410b0bec91765303f7ecaee69f9e486a6c53",
+      "records": 32,
+      "located": 32,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "nta-naptan",
+      "scope": "active-directory-stops",
+      "snapshot_id": "1f00fa105c820b916df18faf82437bc44ebcededa85fff5ec233a6c8844ba08a",
+      "records": 17098,
+      "located": 17098,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "osm-geofabrik",
+      "scope": "bounded-public-pois-and-strategic-networks",
+      "snapshot_id": "e97730c88a0f2e9b4ea7d43f29ce0ede38f90f9607a82d56c6084506c23e55bc",
+      "records": 182515,
+      "located": 182515,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "ourairports-ireland",
+      "scope": "scheduled-passenger-airports",
+      "snapshot_id": "c11c60b416269b164e21d0831662b04e8ac3abcc036114d251b81c46ef417903",
+      "records": 10,
+      "located": 10,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "parks-and-open-spaces-dcc",
+      "scope": "dublin-city-2016",
+      "snapshot_id": "d81412bb4b88c28186f5e05396ec84d963e7d0490c3842205ad296295860053c",
+      "records": 558,
+      "located": 558,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "parks-gardens-and-public-spaces-dcc",
+      "scope": "dublin-city",
+      "snapshot_id": "5564b179b5284202c2f75c685af7c3f629048c250073480651ac3258057c7f37",
+      "records": 90,
+      "located": 90,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "parks-sdcc1",
+      "scope": "south-dublin",
+      "snapshot_id": "bd906f0f40c46fa4f5be30d74cdbefea8f7b26cf4fe06bf30d787d3a11ca3443",
+      "records": 83,
+      "located": 83,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "pobal-childcare",
+      "scope": "national-childcare",
+      "snapshot_id": "2adb0e6caefe8690e45c64837208a9533608d14f5a699d1c52624bcbe3961c80",
+      "records": 5075,
+      "located": 5071,
+      "unlocated": 4,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "psra-ppr",
+      "scope": "national-residential-sale-register",
+      "snapshot_id": "f4f533262c7b09e89861d2e743789f314cd9b740241321160d501744999bee0f",
+      "records": 809014,
+      "located": 0,
+      "unlocated": 809014,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "public-lighting-fcc1",
+      "scope": "fingal",
+      "snapshot_id": "05f18b1273449fdfb7c5c4d3cb5894c867d18e8a777267b6bccddf1692e7f8c2",
+      "records": 35170,
+      "located": 35051,
+      "unlocated": 119,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "public-lighting-sdcc1",
+      "scope": "south-dublin",
+      "snapshot_id": "19d6610b19b0ec8bac07d7a09c33063d00a5570e124b4bf0dedae48e230e832a",
+      "records": 35280,
+      "located": 35258,
+      "unlocated": 22,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "rtb-riq02",
+      "scope": "original-locations-all-published-quarterly-categories",
+      "snapshot_id": "ccbd5dee1ecf58453c35f5b464df8c5aa4005347291a6fb8a11f6e91e6c78adc",
+      "records": 376988,
+      "located": 0,
+      "unlocated": 376988,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "schools-historical",
+      "scope": "national-primary-schools-2014-15",
+      "snapshot_id": "46e1c198adfdb66060cba5af844c8a0047e265f73597f255c8b3ec9f0accc7de",
+      "records": 3147,
+      "located": 3147,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "schools-historical",
+      "scope": "national-secondary-schools-2014-15",
+      "snapshot_id": "0d999f1d42afb8b0a7115530c9291b415e5babc0d8e51db3ab4190d9d875e792",
+      "records": 711,
+      "located": 711,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "schools-historical",
+      "scope": "national-special-schools-2014-15",
+      "snapshot_id": "6bacb132f73152388bf33d6b3c8847f434c8b3e98bbe61d3b83c42861e957f31",
+      "records": 116,
+      "located": 116,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "sport-ireland-activities",
+      "scope": "island-wide-source",
+      "snapshot_id": "cfb516928faab88966ac0dca006cfad4b7b92a9639cd50fc8d7e2ff28192c478",
+      "records": 5507,
+      "located": 5507,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "sport-ireland-clubs",
+      "scope": "island-wide-source",
+      "snapshot_id": "bad3dc8237c434abf38b81f45eb0a4df514383da925f7b57639f80f91d6c3c84",
+      "records": 8496,
+      "located": 8496,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "street-lighting-dublin-city",
+      "scope": "dublin-city",
+      "snapshot_id": "50399934b22b7bca42cb517b880e0d3d8f2abd6503606fbe5fe27d2d8cc762b9",
+      "records": 45017,
+      "located": 45017,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    },
+    {
+      "source_id": "uisce-water-zones",
+      "scope": "national-supply-directory",
+      "snapshot_id": "ca1a7e8acdfad89601e90e46c96cb73b12f3c2cf73049d6dd6dd3e40544a7083",
+      "records": 692,
+      "located": 0,
+      "unlocated": 692,
+      "invalid_or_empty": 0
+    }
+  ],
+  "statuses": [
+    {
+      "source_id": "community-centres-2025-fcc",
+      "scope": "fingal",
+      "manifest_count": "0",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 41,
+        "acceptedRecords": 0,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 41
+      }
+    },
+    {
+      "source_id": "community-centres6",
+      "scope": "roscommon",
+      "manifest_count": "41",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 41,
+        "acceptedRecords": 41,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "community-centres-dcc",
+      "scope": "dublin-city",
+      "manifest_count": "99",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 99,
+        "acceptedRecords": 99,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "community-facilities-dlr",
+      "scope": "dun-laoghaire-rathdown",
+      "manifest_count": "53",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 53,
+        "acceptedRecords": 53,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "comreg-broadband",
+      "scope": "counties",
+      "manifest_count": "25",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 26,
+        "acceptedRecords": 25,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 1
+      }
+    },
+    {
+      "source_id": "comreg-broadband",
+      "scope": "small-areas",
+      "manifest_count": "18919",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 18919,
+        "acceptedRecords": 18919,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "cork-city-parks",
+      "scope": "cork-city",
+      "manifest_count": "101",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 101,
+        "acceptedRecords": 101,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "cso-hpm02",
+      "scope": "monthly-market-household-executions-all-statuses",
+      "manifest_count": "10746",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "value_of_sales_not_price": 5373,
+          "volume_used_as_sample_size_only": 5373,
+          "outside_selected_scope:C03341V04028": 386856,
+          "outside_selected_scope:C03342V04029": 42984,
+          "outside_selected_scope:C03344V04031": 322380,
+          "outside_selected_scope:C03346V04033": 1547424
+        },
+        "inputRecords": 2321136,
+        "acceptedRecords": 10746,
+        "excludedRecords": 2310390,
+        "unlocatedRecords": 10746,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "cso-hpm05",
+      "scope": "national-regional-monthly-executions-all-statuses",
+      "manifest_count": "50148",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "dwelling_status_not_all": 401184,
+          "value_of_sales_not_price": 25074,
+          "stamp_duty_event_not_executions": 100296,
+          "volume_used_as_sample_size_only": 25074
+        },
+        "inputRecords": 601776,
+        "acceptedRecords": 50148,
+        "excludedRecords": 551628,
+        "unlocatedRecords": 50148,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "cso-hpm07",
+      "scope": "rolling-12-month-executions-all-statuses-all-buyers",
+      "manifest_count": "15792",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "outside_selected_scope:C03341V04028": 63168,
+          "outside_selected_scope:C03344V04031": 47376,
+          "outside_selected_scope:C03346V04033": 252672
+        },
+        "inputRecords": 379008,
+        "acceptedRecords": 15792,
+        "excludedRecords": 363216,
+        "unlocatedRecords": 15792,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "cso-hpm08",
+      "scope": "rolling-12-month-executions-all-statuses-all-buyers",
+      "manifest_count": "52640",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "outside_selected_scope:C03341V04028": 210560,
+          "outside_selected_scope:C03344V04031": 157920,
+          "outside_selected_scope:C03346V04033": 842240
+        },
+        "inputRecords": 1263360,
+        "acceptedRecords": 52640,
+        "excludedRecords": 1210720,
+        "unlocatedRecords": 52640,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "cso-urban-areas-2022",
+      "scope": "national-urban-areas",
+      "manifest_count": "867",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 867,
+        "acceptedRecords": 867,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "dlr-public-lighting",
+      "scope": "dun-laoghaire-rathdown",
+      "manifest_count": "23530",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 23530,
+        "acceptedRecords": 23530,
+        "excludedRecords": 0,
+        "unlocatedRecords": 42,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "epa-remedial-action-list",
+      "scope": "national-remedial-list",
+      "manifest_count": "35",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 35,
+        "acceptedRecords": 35,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "galway-city-community-centre-locations2",
+      "scope": "galway-city",
+      "manifest_count": "4",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 4,
+        "acceptedRecords": 4,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "gsi-water-source-protection",
+      "scope": "group-scheme-contribution",
+      "manifest_count": "253",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 254,
+        "acceptedRecords": 253,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 1
+      }
+    },
+    {
+      "source_id": "gsi-water-source-protection",
+      "scope": "public-source-protection",
+      "manifest_count": "356",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 357,
+        "acceptedRecords": 356,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 1
+      }
+    },
+    {
+      "source_id": "housing-construction-q1-2026",
+      "scope": "national-projects",
+      "manifest_count": "3208",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "summary_or_header": 3,
+          "blank_footer_or_note": 3180
+        },
+        "inputRecords": 6391,
+        "acceptedRecords": 3208,
+        "excludedRecords": 3183,
+        "unlocatedRecords": 3208,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "hse-gp-2020",
+      "scope": "national-gp-directory-2020",
+      "manifest_count": "6587",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 6608,
+        "acceptedRecords": 6587,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 21
+      }
+    },
+    {
+      "source_id": "hse-hospitals-2020",
+      "scope": "national-hospital-directory-2020",
+      "manifest_count": "132",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 132,
+        "acceptedRecords": 132,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "local-national-parks-and-play-grounds-fcc-20232",
+      "scope": "fingal",
+      "manifest_count": "52",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 52,
+        "acceptedRecords": 52,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "main-parks-dlr",
+      "scope": "dun-laoghaire-rathdown",
+      "manifest_count": "15",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 15,
+        "acceptedRecords": 15,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "multi-use-community-centres1",
+      "scope": "south-dublin",
+      "manifest_count": "32",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 32,
+        "acceptedRecords": 32,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "nta-naptan",
+      "scope": "active-directory-stops",
+      "manifest_count": "17098",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "status_pending": 62,
+          "status_inactive": 1
+        },
+        "inputRecords": 17161,
+        "acceptedRecords": 17098,
+        "excludedRecords": 63,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "osm-geofabrik",
+      "scope": "bounded-public-pois-and-strategic-networks",
+      "manifest_count": "182515",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 182520,
+        "acceptedRecords": 182515,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 5
+      }
+    },
+    {
+      "source_id": "ourairports-ireland",
+      "scope": "scheduled-passenger-airports",
+      "manifest_count": "10",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "no_reported_scheduled_service": 127
+        },
+        "inputRecords": 137,
+        "acceptedRecords": 10,
+        "excludedRecords": 127,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "parks-and-open-spaces-dcc",
+      "scope": "dublin-city-2016",
+      "manifest_count": "558",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 566,
+        "acceptedRecords": 558,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 8
+      }
+    },
+    {
+      "source_id": "parks-gardens-and-public-spaces-dcc",
+      "scope": "dublin-city",
+      "manifest_count": "90",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 90,
+        "acceptedRecords": 90,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "parks-sdcc1",
+      "scope": "south-dublin",
+      "manifest_count": "83",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 84,
+        "acceptedRecords": 83,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 1
+      }
+    },
+    {
+      "source_id": "pobal-childcare",
+      "scope": "national-childcare",
+      "manifest_count": "5075",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 5075,
+        "acceptedRecords": 5075,
+        "excludedRecords": 0,
+        "unlocatedRecords": 4,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "psra-ppr",
+      "scope": "national-residential-sale-register",
+      "manifest_count": "809014",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "header": 1
+        },
+        "inputRecords": 809015,
+        "acceptedRecords": 809014,
+        "excludedRecords": 1,
+        "unlocatedRecords": 809014,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "public-lighting-fcc1",
+      "scope": "fingal",
+      "manifest_count": "35170",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 35170,
+        "acceptedRecords": 35170,
+        "excludedRecords": 0,
+        "unlocatedRecords": 119,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "public-lighting-sdcc1",
+      "scope": "south-dublin",
+      "manifest_count": "35280",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 35280,
+        "acceptedRecords": 35280,
+        "excludedRecords": 0,
+        "unlocatedRecords": 22,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "rtb-riq02",
+      "scope": "original-locations-all-published-quarterly-categories",
+      "manifest_count": "376988",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "source_missing_no_published_observation": 990448
+        },
+        "inputRecords": 1367436,
+        "acceptedRecords": 376988,
+        "excludedRecords": 990448,
+        "unlocatedRecords": 376988,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "schools-historical",
+      "scope": "national-primary-schools-2014-15",
+      "manifest_count": "3147",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 3147,
+        "acceptedRecords": 3147,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "schools-historical",
+      "scope": "national-secondary-schools-2014-15",
+      "manifest_count": "711",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 711,
+        "acceptedRecords": 711,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "schools-historical",
+      "scope": "national-special-schools-2014-15",
+      "manifest_count": "116",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 116,
+        "acceptedRecords": 116,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "sport-ireland-activities",
+      "scope": "island-wide-source",
+      "manifest_count": "5507",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 5507,
+        "acceptedRecords": 5507,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "sport-ireland-clubs",
+      "scope": "island-wide-source",
+      "manifest_count": "8496",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 8496,
+        "acceptedRecords": 8496,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "street-lighting-dublin-city",
+      "scope": "dublin-city",
+      "manifest_count": "45017",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {},
+        "inputRecords": 45017,
+        "acceptedRecords": 45017,
+        "excludedRecords": 0,
+        "unlocatedRecords": 0,
+        "quarantinedRecords": 0
+      }
+    },
+    {
+      "source_id": "uisce-water-zones",
+      "scope": "national-supply-directory",
+      "manifest_count": "692",
+      "reuse_status": "approved",
+      "quality": {
+        "exclusions": {
+          "header": 1
+        },
+        "inputRecords": 693,
+        "acceptedRecords": 692,
+        "excludedRecords": 1,
+        "unlocatedRecords": 692,
+        "quarantinedRecords": 0
+      }
+    }
+  ],
+  "indices": [
+    {
+      "indexname": "common_records_context_idx",
+      "indexdef": "CREATE INDEX common_records_context_idx ON public.common_records USING btree (((((record -> 'attributes'::text) -> 'geography'::text) ->> 'codeSystem'::text)), ((((record -> 'attributes'::text) -> 'geography'::text) ->> 'code'::text)), category, id) WHERE ((geometry IS NULL) AND (kind = ANY (ARRAY['utility_observation'::text, 'housing_information'::text, 'property_transaction'::text, 'service'::text, 'infrastructure'::text])))"
+    },
+    {
+      "indexname": "common_records_filter_idx",
+      "indexdef": "CREATE INDEX common_records_filter_idx ON public.common_records USING btree (snapshot_id, kind, category, id)"
+    },
+    {
+      "indexname": "common_records_geography_gist",
+      "indexdef": "CREATE INDEX common_records_geography_gist ON public.common_records USING gist (((geometry)::geography))"
+    },
+    {
+      "indexname": "common_records_geometry_gist",
+      "indexdef": "CREATE INDEX common_records_geometry_gist ON public.common_records USING gist (geometry)"
+    },
+    {
+      "indexname": "common_records_market_idx",
+      "indexdef": "CREATE INDEX common_records_market_idx ON public.common_records USING btree (((((record -> 'attributes'::text) -> 'geography'::text) ->> 'codeSystem'::text)), ((((record -> 'attributes'::text) -> 'geography'::text) ->> 'code'::text)), category) WHERE (kind = 'market_context'::text)"
+    },
+    {
+      "indexname": "common_records_name_trgm",
+      "indexdef": "CREATE INDEX common_records_name_trgm ON public.common_records USING gin (name_normalized gin_trgm_ops)"
+    },
+    {
+      "indexname": "common_records_pkey",
+      "indexdef": "CREATE UNIQUE INDEX common_records_pkey ON public.common_records USING btree (snapshot_id, id)"
+    },
+    {
+      "indexname": "common_records_source_idx",
+      "indexdef": "CREATE INDEX common_records_source_idx ON public.common_records USING btree (source_id, scope, snapshot_id)"
+    }
+  ],
+  "contextSamples": [
+    {
+      "kind": "property_transaction",
+      "category": "property_transactions",
+      "code_system": "PSRA:county-label",
+      "code": "Dublin"
+    },
+    {
+      "source_id": "housing-construction-q1-2026",
+      "scope": "national-projects",
+      "kind": "housing_information",
+      "category": "government_projects",
+      "code_system": "Housing:local-authority-name",
+      "code": "Carlow"
+    }
+  ],
+  "plans": {
+    "viewport": [
+      {
+        "QUERY PLAN": [
+          {
+            "Plan": {
+              "Node Type": "Limit",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Startup Cost": 0.29,
+              "Total Cost": 760.91,
+              "Plan Rows": 101,
+              "Plan Width": 105,
+              "Plans": [
+                {
+                  "Node Type": "Nested Loop",
+                  "Parent Relationship": "Outer",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Join Type": "Inner",
+                  "Startup Cost": 0.29,
+                  "Total Cost": 15234567.91,
+                  "Plan Rows": 2022940,
+                  "Plan Width": 105,
+                  "Inner Unique": false,
+                  "Join Filter": "(a.snapshot_id = r.snapshot_id)",
+                  "Plans": [
+                    {
+                      "Node Type": "Index Scan",
+                      "Parent Relationship": "Outer",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Scan Direction": "Forward",
+                      "Index Name": "common_records_geometry_gist",
+                      "Relation Name": "common_records",
+                      "Alias": "r",
+                      "Startup Cost": 0.29,
+                      "Total Cost": 9165730.54,
+                      "Plan Rows": 622443,
+                      "Plan Width": 169,
+                      "Index Cond": "(geometry && '0103000020E610000001000000050000009A999999999919C09A99999999994A409A999999999919C00000000000C04A4066666666666618C00000000000C04A4066666666666618C09A99999999994A409A999999999919C09A99999999994A40'::geometry)",
+                      "Filter": "st_intersects(geometry, '0103000020E610000001000000050000009A999999999919C09A99999999994A409A999999999919C00000000000C04A4066666666666618C00000000000C04A4066666666666618C09A99999999994A409A999999999919C09A99999999994A40'::geometry)"
+                    },
+                    {
+                      "Node Type": "Materialize",
+                      "Parent Relationship": "Inner",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Startup Cost": 0,
+                      "Total Cost": 19.75,
+                      "Plan Rows": 650,
+                      "Plan Width": 32,
+                      "Plans": [
+                        {
+                          "Node Type": "Seq Scan",
+                          "Parent Relationship": "Outer",
+                          "Parallel Aware": false,
+                          "Async Capable": false,
+                          "Relation Name": "common_active",
+                          "Alias": "a",
+                          "Startup Cost": 0,
+                          "Total Cost": 16.5,
+                          "Plan Rows": 650,
+                          "Plan Width": 32
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "radius": [
+      {
+        "QUERY PLAN": [
+          {
+            "Plan": {
+              "Node Type": "Limit",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Startup Cost": 1166.09,
+              "Total Cost": 8237.7,
+              "Plan Rows": 101,
+              "Plan Width": 105,
+              "Plans": [
+                {
+                  "Node Type": "Hash Join",
+                  "Parent Relationship": "Outer",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Join Type": "Inner",
+                  "Startup Cost": 1166.09,
+                  "Total Cost": 40094.93,
+                  "Plan Rows": 556,
+                  "Plan Width": 105,
+                  "Inner Unique": false,
+                  "Hash Cond": "(r.snapshot_id = a.snapshot_id)",
+                  "Plans": [
+                    {
+                      "Node Type": "Gather",
+                      "Parent Relationship": "Outer",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Startup Cost": 1141.47,
+                      "Total Cost": 40050.42,
+                      "Plan Rows": 171,
+                      "Plan Width": 169,
+                      "Workers Planned": 2,
+                      "Single Copy": false,
+                      "Plans": [
+                        {
+                          "Node Type": "Bitmap Heap Scan",
+                          "Parent Relationship": "Outer",
+                          "Parallel Aware": true,
+                          "Async Capable": false,
+                          "Relation Name": "common_records",
+                          "Alias": "r",
+                          "Startup Cost": 141.47,
+                          "Total Cost": 39033.32,
+                          "Plan Rows": 71,
+                          "Plan Width": 169,
+                          "Filter": "st_dwithin((geometry)::geography, '0101000020E61000000AD7A3703D0A19C0CDCCCCCCCCAC4A40'::geography, '1000'::double precision, true)",
+                          "Plans": [
+                            {
+                              "Node Type": "Bitmap Index Scan",
+                              "Parent Relationship": "Outer",
+                              "Parallel Aware": false,
+                              "Async Capable": false,
+                              "Index Name": "common_records_geography_gist",
+                              "Startup Cost": 0,
+                              "Total Cost": 141.42,
+                              "Plan Rows": 4385,
+                              "Plan Width": 0,
+                              "Index Cond": "((geometry)::geography && _st_expand('0101000020E61000000AD7A3703D0A19C0CDCCCCCCCCAC4A40'::geography, '1000'::double precision))"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Node Type": "Hash",
+                      "Parent Relationship": "Inner",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Startup Cost": 16.5,
+                      "Total Cost": 16.5,
+                      "Plan Rows": 650,
+                      "Plan Width": 32,
+                      "Plans": [
+                        {
+                          "Node Type": "Seq Scan",
+                          "Parent Relationship": "Outer",
+                          "Parallel Aware": false,
+                          "Async Capable": false,
+                          "Relation Name": "common_active",
+                          "Alias": "a",
+                          "Startup Cost": 0,
+                          "Total Cost": 16.5,
+                          "Plan Rows": 650,
+                          "Plan Width": 32
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "property_transaction:property_transactions": [
+      {
+        "QUERY PLAN": [
+          {
+            "Plan": {
+              "Node Type": "Limit",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Startup Cost": 54.51,
+              "Total Cost": 54.6,
+              "Plan Rows": 36,
+              "Plan Width": 105,
+              "Plans": [
+                {
+                  "Node Type": "Sort",
+                  "Parent Relationship": "Outer",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Startup Cost": 54.51,
+                  "Total Cost": 54.6,
+                  "Plan Rows": 36,
+                  "Plan Width": 105,
+                  "Sort Key": [
+                    "r.id"
+                  ],
+                  "Plans": [
+                    {
+                      "Node Type": "Hash Join",
+                      "Parent Relationship": "Outer",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Join Type": "Inner",
+                      "Startup Cost": 25.3,
+                      "Total Cost": 53.58,
+                      "Plan Rows": 36,
+                      "Plan Width": 105,
+                      "Inner Unique": false,
+                      "Hash Cond": "(r.snapshot_id = a.snapshot_id)",
+                      "Plans": [
+                        {
+                          "Node Type": "Index Scan",
+                          "Parent Relationship": "Outer",
+                          "Parallel Aware": false,
+                          "Async Capable": false,
+                          "Scan Direction": "Forward",
+                          "Index Name": "common_records_context_idx",
+                          "Relation Name": "common_records",
+                          "Alias": "r",
+                          "Startup Cost": 0.68,
+                          "Total Cost": 27.67,
+                          "Plan Rows": 11,
+                          "Plan Width": 169,
+                          "Index Cond": "(((((record -> 'attributes'::text) -> 'geography'::text) ->> 'codeSystem'::text) = 'PSRA:county-label'::text) AND ((((record -> 'attributes'::text) -> 'geography'::text) ->> 'code'::text) = 'Dublin'::text) AND (category = 'property_transactions'::text))"
+                        },
+                        {
+                          "Node Type": "Hash",
+                          "Parent Relationship": "Inner",
+                          "Parallel Aware": false,
+                          "Async Capable": false,
+                          "Startup Cost": 16.5,
+                          "Total Cost": 16.5,
+                          "Plan Rows": 650,
+                          "Plan Width": 32,
+                          "Plans": [
+                            {
+                              "Node Type": "Seq Scan",
+                              "Parent Relationship": "Outer",
+                              "Parallel Aware": false,
+                              "Async Capable": false,
+                              "Relation Name": "common_active",
+                              "Alias": "a",
+                              "Startup Cost": 0,
+                              "Total Cost": 16.5,
+                              "Plan Rows": 650,
+                              "Plan Width": 32
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "housing_information:government_projects": [
+      {
+        "QUERY PLAN": [
+          {
+            "Plan": {
+              "Node Type": "Limit",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Startup Cost": 27.7,
+              "Total Cost": 27.71,
+              "Plan Rows": 3,
+              "Plan Width": 105,
+              "Plans": [
+                {
+                  "Node Type": "Sort",
+                  "Parent Relationship": "Outer",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Startup Cost": 27.7,
+                  "Total Cost": 27.71,
+                  "Plan Rows": 3,
+                  "Plan Width": 105,
+                  "Sort Key": [
+                    "r.id"
+                  ],
+                  "Plans": [
+                    {
+                      "Node Type": "Hash Join",
+                      "Parent Relationship": "Outer",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Join Type": "Inner",
+                      "Startup Cost": 8.71,
+                      "Total Cost": 27.68,
+                      "Plan Rows": 3,
+                      "Plan Width": 105,
+                      "Inner Unique": false,
+                      "Hash Cond": "(a.snapshot_id = r.snapshot_id)",
+                      "Plans": [
+                        {
+                          "Node Type": "Seq Scan",
+                          "Parent Relationship": "Outer",
+                          "Parallel Aware": false,
+                          "Async Capable": false,
+                          "Relation Name": "common_active",
+                          "Alias": "a",
+                          "Startup Cost": 0,
+                          "Total Cost": 16.5,
+                          "Plan Rows": 650,
+                          "Plan Width": 32
+                        },
+                        {
+                          "Node Type": "Hash",
+                          "Parent Relationship": "Inner",
+                          "Parallel Aware": false,
+                          "Async Capable": false,
+                          "Startup Cost": 8.7,
+                          "Total Cost": 8.7,
+                          "Plan Rows": 1,
+                          "Plan Width": 169,
+                          "Plans": [
+                            {
+                              "Node Type": "Index Scan",
+                              "Parent Relationship": "Outer",
+                              "Parallel Aware": false,
+                              "Async Capable": false,
+                              "Scan Direction": "Forward",
+                              "Index Name": "common_records_context_idx",
+                              "Relation Name": "common_records",
+                              "Alias": "r",
+                              "Startup Cost": 0.68,
+                              "Total Cost": 8.7,
+                              "Plan Rows": 1,
+                              "Plan Width": 169,
+                              "Index Cond": "(((((record -> 'attributes'::text) -> 'geography'::text) ->> 'codeSystem'::text) = 'Housing:local-authority-name'::text) AND ((((record -> 'attributes'::text) -> 'geography'::text) ->> 'code'::text) = 'Carlow'::text) AND (category = 'government_projects'::text))"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "usedIndices": {
+    "viewport": [
+      "common_records_geometry_gist"
+    ],
+    "radius": [
+      "common_records_geography_gist"
+    ],
+    "property_transaction:property_transactions": [
+      "common_records_context_idx"
+    ],
+    "housing_information:government_projects": [
+      "common_records_context_idx"
+    ]
+  },
+  "failures": [],
+  "pass": true,
+  "limitations": [
+    "Geometry validation is structural; it does not establish current service availability or household connections.",
+    "Context maps use exact source geography codes; source geography names are not crosswalked by inference."
+  ],
+  "countRowsIncludingEmptyScopes": 41,
+  "zeroRecordScopes": [
+    {
+      "source_id": "community-centres-2025-fcc",
+      "scope": "fingal",
+      "snapshot_id": "8642865ab2f37653866ad5b48e06002a54d159aa7c5eb233aa549d6facd00a64",
+      "records": 0,
+      "located": 0,
+      "unlocated": 0,
+      "invalid_or_empty": 0
+    }
+  ],
+  "readOnlyQueriesCompleteAt": "2026-10-04T14:19:57.732Z"
+}

@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "status": "proposed_thresholds_not_team_approved",
+  "scoreRange": [
+    0,
+    100
+  ],
+  "unknownIsZero": false,
+  "aggregation": "weighted_mean_only_when_all_selected_criteria_have_scores",
+  "criteria": [
+    {
+      "id": "health.hospital",
+      "vertical": "health",
+      "category": "hospital",
+      "method": "travel_time",
+      "defaultWeight": 1,
+      "label": "health / hospital",
+      "defaults": {
+        "maximumMinutes": 30
+      }
+    },
+    {
+      "id": "health.gp",
+      "vertical": "health",
+      "category": "gp",
+      "method": "travel_time",
+      "defaultWeight": 1,
+      "label": "health / gp",
+      "defaults": {
+        "maximumMinutes": 60,
+        "mode": "driving"
+      }
+    },
+    {
+      "id": "transportation.airport",
+      "vertical": "transportation",
+      "category": "airport",
+      "method": "travel_time",
+      "defaultWeight": 1,
+      "label": "transportation / airport",
+      "defaults": {}
+    },
+    {
+      "id": "transportation.public_transport",
+      "vertical": "transportation",
+      "category": "transport_stop",
+      "method": "travel_time",
+      "defaultWeight": 1,
+      "label": "transportation / public transport",
+      "defaults": {}
+    },
+    {
+      "id": "transportation.cycling",
+      "vertical": "transportation",
+      "category": "cycle_network",
+      "method": "travel_time",
+      "defaultWeight": 1,
+      "label": "transportation / cycling",
+      "defaults": {}
+    },
+    {
+      "id": "transportation.car_access",
+      "vertical": "transportation",
+      "category": "road_network",
+      "method": "travel_time",
+      "defaultWeight": 1,
+      "label": "transportation / car access",
+      "defaults": {}
+    },
+    {
+      "id": "quality_of_life.parks",
+      "vertical": "quality_of_life",
+      "category": "parks",
+      "method": "distance",
+      "defaultWeight": 1,
+      "label": "quality of life / parks",
+      "defaults": {
+        "fullScoreDistanceM": 500,
+        "zeroScoreDistanceM": 2000
+      }
+    },
+    {
+      "id": "quality_of_life.community_centres",
+      "vertical": "quality_of_life",
+      "category": "community_centres",
+      "method": "distance",
+      "defaultWeight": 1,
+      "label": "quality of life / community centres",
+      "defaults": {
+        "fullScoreDistanceM": 750,
+        "zeroScoreDistanceM": 3000
+      }
+    },
+    {
+      "id": "quality_of_life.clubs",
+      "vertical": "quality_of_life",
+      "category": "clubs",
+      "method": "information",
+      "defaultWeight": 1,
+      "label": "quality of life / clubs",
+      "defaults": {}
+    },
+    {
+      "id": "quality_of_life.activities",
+      "vertical": "quality_of_life",
+      "category": "activities",
+      "method": "information",
+      "defaultWeight": 1,
+      "label": "quality of life / activities",
+      "defaults": {}
+    },
+    {
+      "id": "quality_of_life.green_areas",
+      "vertical": "quality_of_life",
+      "category": "green_areas",
+      "method": "information",
+      "defaultWeight": 1,
+      "label": "quality of life / green areas",
+      "defaults": {}
+    },
+    {
+      "id": "quality_of_life.shops",
+      "vertical": "quality_of_life",
+      "category": "shops",
+      "method": "information",
+      "defaultWeight": 1,
+      "label": "quality of life / shops",
+      "defaults": {}
+    },
+    {
+      "id": "education.primary_school",
+      "vertical": "education",
+      "category": "primary_school",
+      "method": "distance",
+      "defaultWeight": 1,
+      "label": "education / primary school",
+      "defaults": {
+        "fullScoreDistanceM": 500,
+        "zeroScoreDistanceM": 3000
+      }
+    },
+    {
+      "id": "education.secondary_school",
+      "vertical": "education",
+      "category": "secondary_school",
+      "method": "distance",
+      "defaultWeight": 1,
+      "label": "education / secondary school",
+      "defaults": {
+        "fullScoreDistanceM": 500,
+        "zeroScoreDistanceM": 3000
+      }
+    },
+    {
+      "id": "education.childcare",
+      "vertical": "education",
+      "category": "childcare",
+      "method": "distance",
+      "defaultWeight": 1,
+      "label": "education / childcare",
+      "defaults": {
+        "fullScoreDistanceM": 500,
+        "zeroScoreDistanceM": 2000
+      }
+    },
+    {
+      "id": "utilities.group_water_scheme",
+      "vertical": "utilities",
+      "category": "group_water_scheme",
+      "method": "property_evidence",
+      "defaultWeight": 1,
+      "label": "utilities / group water scheme",
+      "defaults": {}
+    },
+    {
+      "id": "utilities.mains_water",
+      "vertical": "utilities",
+      "category": "mains_water",
+      "method": "property_evidence",
+      "defaultWeight": 1,
+      "label": "utilities / mains water",
+      "defaults": {}
+    },
+    {
+      "id": "utilities.electricity",
+      "vertical": "utilities",
+      "category": "electricity",
+      "method": "property_evidence",
+      "defaultWeight": 1,
+      "label": "utilities / electricity",
+      "defaults": {}
+    },
+    {
+      "id": "utilities.street_lighting",
+      "vertical": "utilities",
+      "category": "street_lighting",
+      "method": "property_evidence",
+      "defaultWeight": 1,
+      "label": "utilities / street lighting",
+      "defaults": {}
+    },
+    {
+      "id": "utilities.broadband",
+      "vertical": "utilities",
+      "category": "broadband",
+      "method": "property_evidence",
+      "defaultWeight": 1,
+      "label": "utilities / broadband",
+      "defaults": {}
+    },
+    {
+      "id": "budget.buy",
+      "vertical": "budget",
+      "category": "buy",
+      "method": "market_context",
+      "defaultWeight": 1,
+      "label": "budget / buy",
+      "defaults": {}
+    },
+    {
+      "id": "budget.rent",
+      "vertical": "budget",
+      "category": "rent",
+      "method": "market_context",
+      "defaultWeight": 1,
+      "label": "budget / rent",
+      "defaults": {}
+    },
+    {
+      "id": "housing.government_projects",
+      "vertical": "housing",
+      "category": "government_projects",
+      "method": "information",
+      "defaultWeight": 1,
+      "label": "housing / government projects",
+      "defaults": {}
+    },
+    {
+      "id": "housing.bedrooms",
+      "vertical": "housing",
+      "category": "bedrooms",
+      "method": "information",
+      "defaultWeight": 1,
+      "label": "housing / bedrooms",
+      "defaults": {}
+    }
+  ]
+}

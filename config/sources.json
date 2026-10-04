@@ -1,0 +1,33 @@
+{
+  "pobal": {
+    "sourceId": "pobal-childcare",
+    "scope": "national-published-layer",
+    "publisher": "Pobal",
+    "sourceUrl": "https://services8.arcgis.com/AF8wcIoCeDo33LsM/arcgis/rest/services/Childcare_Facilities_NEW/FeatureServer/2",
+    "license": "CC-BY-4.0",
+    "licenseEvidenceUrl": "https://www.arcgis.com/sharing/rest/content/items/4bea2229af6b456ea362b3514b38d70a?f=json",
+    "attribution": "Pobal Childcare Facilities, CC BY 4.0",
+    "observedPeriod": null,
+    "geography": "Republic of Ireland published national layer; extent is not completeness certification",
+    "fields": ["service_name", "service_ref", "eircode", "organisation_type", "ecce", "ccsp", "ncs"],
+    "kind": "service",
+    "category": "childcare",
+    "nameField": "service_name",
+    "limitations": ["Unknown observation period; technical editing date is not survey date", "Programme participation does not prove registration, age suitability, vacancies or fees", "Coordinates identify recorded facilities, not entrances or accessible routes", "National completeness not independently established"]
+  },
+  "towns": {
+    "sourceId": "cso-urban-areas-2022",
+    "scope": "national-urban-areas",
+    "publisher": "CSO / Tailte Éireann",
+    "sourceUrl": "https://services-eu1.arcgis.com/BuS9rtTsYEV5C0xh/arcgis/rest/services/Urban_Areas_National_Statistical_Boundaries_2022_Generalised_20m/FeatureServer/5",
+    "license": "CC-BY-4.0",
+    "licenseEvidenceUrl": "https://www.arcgis.com/sharing/rest/content/items/5468708d36454d1f95a3ff23cbaeb2f5?f=pjson",
+    "attribution": "CSO / Tailte Éireann, Urban Areas National Statistical Boundaries 2022, generalised 20m, CC BY 4.0",
+    "observedPeriod": "2022",
+    "geography": "Republic of Ireland urban statistical areas",
+    "fields": ["URBAN_AREA_GUID", "URBAN_AREA_CODE", "URBAN_AREA_NAME", "COUNTY"],
+    "kind": "place",
+    "nameField": "URBAN_AREA_NAME",
+    "limitations": ["Urban statistical boundaries are not all rural settlements", "Generalised 20m geometry is for display; not property/utility membership verification", "No household location or area score inferred from a town centre"]
+  }
+}

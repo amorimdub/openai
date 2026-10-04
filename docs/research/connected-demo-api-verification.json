@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-10-04T14:47:08.045Z",
+  "baseUrl": "http://127.0.0.1:3080",
+  "expectedRecords": 1709202,
+  "passed": true,
+  "checks": [
+    {
+      "name": "health, exact active count, source accounting and reuse gates",
+      "passed": true,
+      "durationMs": 18,
+      "details": {
+        "readiness": {
+          "status": "ready",
+          "totalRecords": 1709202,
+          "activeSourceScopes": 41
+        },
+        "openapi": {
+          "version": "3.1.0",
+          "schemaNames": [
+            "CommonRecord",
+            "CommonManifest",
+            "Preferences",
+            "LayerPreferences"
+          ]
+        },
+        "totalRecords": 1709202,
+        "activeSnapshots": 41,
+        "criteria": 24,
+        "sources": [
+          {
+            "sourceId": "community-centres-2025-fcc",
+            "scope": "fingal",
+            "recordCount": 0,
+            "period": null,
+            "quality": {
+              "inputRecords": 41,
+              "acceptedRecords": 0,
+              "quarantinedRecords": 41,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "community-centres6",
+            "scope": "roscommon",
+            "recordCount": 41,
+            "period": null,
+            "quality": {
+              "inputRecords": 41,
+              "acceptedRecords": 41,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "community-centres-dcc",
+            "scope": "dublin-city",
+            "recordCount": 99,
+            "period": "2019/2023",
+            "quality": {
+              "inputRecords": 99,
+              "acceptedRecords": 99,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "community-facilities-dlr",
+            "scope": "dun-laoghaire-rathdown",
+            "recordCount": 53,
+            "period": null,
+            "quality": {
+              "inputRecords": 53,
+              "acceptedRecords": 53,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "comreg-broadband",
+            "scope": "counties",
+            "recordCount": 25,
+            "period": null,
+            "quality": {
+              "inputRecords": 26,
+              "acceptedRecords": 25,
+              "quarantinedRecords": 1,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "comreg-broadband",
+            "scope": "small-areas",
+            "recordCount": 18919,
+            "period": null,
+            "quality": {
+              "inputRecords": 18919,
+              "acceptedRecords": 18919,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "cork-city-parks",
+            "scope": "cork-city",
+            "recordCount": 101,
+            "period": null,
+            "quality": {
+              "inputRecords": 101,
+              "acceptedRecords": 101,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "cso-hpm02",
+            "scope": "monthly-market-household-executions-all-statuses",
+            "recordCount": 10746,
+            "period": "2010-01/2026-07",
+            "quality": {
+              "inputRecords": 2321136,
+              "acceptedRecords": 10746,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 10746,
+              "excludedRecords": 2310390,
+              "exclusions": {
+                "value_of_sales_not_price": 5373,
+                "volume_used_as_sample_size_only": 5373,
+                "outside_selected_scope:C03341V04028": 386856,
+                "outside_selected_scope:C03342V04029": 42984,
+                "outside_selected_scope:C03344V04031": 322380,
+                "outside_selected_scope:C03346V04033": 1547424
+              }
+            }
+          },
+          {
+            "sourceId": "cso-hpm05",
+            "scope": "national-regional-monthly-executions-all-statuses",
+            "recordCount": 50148,
+            "period": "2010-01/2026-07",
+            "quality": {
+              "inputRecords": 601776,
+              "acceptedRecords": 50148,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 50148,
+              "excludedRecords": 551628,
+              "exclusions": {
+                "dwelling_status_not_all": 401184,
+                "value_of_sales_not_price": 25074,
+                "stamp_duty_event_not_executions": 100296,
+                "volume_used_as_sample_size_only": 25074
+              }
+            }
+          },
+          {
+            "sourceId": "cso-hpm07",
+            "scope": "rolling-12-month-executions-all-statuses-all-buyers",
+            "recordCount": 15792,
+            "period": "2010-12/2026-07",
+            "quality": {
+              "inputRecords": 379008,
+              "acceptedRecords": 15792,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 15792,
+              "excludedRecords": 363216,
+              "exclusions": {
+                "outside_selected_scope:C03341V04028": 63168,
+                "outside_selected_scope:C03344V04031": 47376,
+                "outside_selected_scope:C03346V04033": 252672
+              }
+            }
+          },
+          {
+            "sourceId": "cso-hpm08",
+            "scope": "rolling-12-month-executions-all-statuses-all-buyers",
+            "recordCount": 52640,
+            "period": "2010-12/2026-07",
+            "quality": {
+              "inputRecords": 1263360,
+              "acceptedRecords": 52640,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 52640,
+              "excludedRecords": 1210720,
+              "exclusions": {
+                "outside_selected_scope:C03341V04028": 210560,
+                "outside_selected_scope:C03344V04031": 157920,
+                "outside_selected_scope:C03346V04033": 842240
+              }
+            }
+          },
+          {
+            "sourceId": "cso-urban-areas-2022",
+            "scope": "national-urban-areas",
+            "recordCount": 867,
+            "period": "2022",
+            "quality": {
+              "inputRecords": 867,
+              "acceptedRecords": 867,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "dlr-public-lighting",
+            "scope": "dun-laoghaire-rathdown",
+            "recordCount": 23530,
+            "period": "2021-04-19",
+            "quality": {
+              "inputRecords": 23530,
+              "acceptedRecords": 23530,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 42,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "epa-remedial-action-list",
+            "scope": "national-remedial-list",
+            "recordCount": 35,
+            "period": null,
+            "quality": {
+              "inputRecords": 35,
+              "acceptedRecords": 35,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "galway-city-community-centre-locations2",
+            "scope": "galway-city",
+            "recordCount": 4,
+            "period": null,
+            "quality": {
+              "inputRecords": 4,
+              "acceptedRecords": 4,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "gsi-water-source-protection",
+            "scope": "group-scheme-contribution",
+            "recordCount": 253,
+            "period": null,
+            "quality": {
+              "inputRecords": 254,
+              "acceptedRecords": 253,
+              "quarantinedRecords": 1,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "gsi-water-source-protection",
+            "scope": "public-source-protection",
+            "recordCount": 356,
+            "period": null,
+            "quality": {
+              "inputRecords": 357,
+              "acceptedRecords": 356,
+              "quarantinedRecords": 1,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "housing-construction-q1-2026",
+            "scope": "national-projects",
+            "recordCount": 3208,
+            "period": "2026-Q1",
+            "quality": {
+              "inputRecords": 6391,
+              "acceptedRecords": 3208,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 3208,
+              "excludedRecords": 3183,
+              "exclusions": {
+                "summary_or_header": 3,
+                "blank_footer_or_note": 3180
+              }
+            }
+          },
+          {
+            "sourceId": "hse-gp-2020",
+            "scope": "national-gp-directory-2020",
+            "recordCount": 6587,
+            "period": "2020-03",
+            "quality": {
+              "inputRecords": 6608,
+              "acceptedRecords": 6587,
+              "quarantinedRecords": 21,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "hse-hospitals-2020",
+            "scope": "national-hospital-directory-2020",
+            "recordCount": 132,
+            "period": "2020-03",
+            "quality": {
+              "inputRecords": 132,
+              "acceptedRecords": 132,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "local-national-parks-and-play-grounds-fcc-20232",
+            "scope": "fingal",
+            "recordCount": 52,
+            "period": null,
+            "quality": {
+              "inputRecords": 52,
+              "acceptedRecords": 52,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "main-parks-dlr",
+            "scope": "dun-laoghaire-rathdown",
+            "recordCount": 15,
+            "period": null,
+            "quality": {
+              "inputRecords": 15,
+              "acceptedRecords": 15,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "multi-use-community-centres1",
+            "scope": "south-dublin",
+            "recordCount": 32,
+            "period": null,
+            "quality": {
+              "inputRecords": 32,
+              "acceptedRecords": 32,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "nta-naptan",
+            "scope": "active-directory-stops",
+            "recordCount": 17098,
+            "period": "2026-10-01",
+            "quality": {
+              "inputRecords": 17161,
+              "acceptedRecords": 17098,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 63,
+              "exclusions": {
+                "status_pending": 62,
+                "status_inactive": 1
+              }
+            }
+          },
+          {
+            "sourceId": "osm-geofabrik",
+            "scope": "bounded-public-pois-and-strategic-networks",
+            "recordCount": 182515,
+            "period": "2026-10-03T20:20:50Z",
+            "quality": {
+              "inputRecords": 182520,
+              "acceptedRecords": 182515,
+              "quarantinedRecords": 5,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "ourairports-ireland",
+            "scope": "scheduled-passenger-airports",
+            "recordCount": 10,
+            "period": null,
+            "quality": {
+              "inputRecords": 137,
+              "acceptedRecords": 10,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 127,
+              "exclusions": {
+                "no_reported_scheduled_service": 127
+              }
+            }
+          },
+          {
+            "sourceId": "parks-and-open-spaces-dcc",
+            "scope": "dublin-city-2016",
+            "recordCount": 558,
+            "period": "2016",
+            "quality": {
+              "inputRecords": 566,
+              "acceptedRecords": 558,
+              "quarantinedRecords": 8,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "parks-gardens-and-public-spaces-dcc",
+            "scope": "dublin-city",
+            "recordCount": 90,
+            "period": "2024-01",
+            "quality": {
+              "inputRecords": 90,
+              "acceptedRecords": 90,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "parks-sdcc1",
+            "scope": "south-dublin",
+            "recordCount": 83,
+            "period": null,
+            "quality": {
+              "inputRecords": 84,
+              "acceptedRecords": 83,
+              "quarantinedRecords": 1,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "pobal-childcare",
+            "scope": "national-childcare",
+            "recordCount": 5075,
+            "period": null,
+            "quality": {
+              "inputRecords": 5075,
+              "acceptedRecords": 5075,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 4,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "psra-ppr",
+            "scope": "national-residential-sale-register",
+            "recordCount": 809014,
+            "period": "2010-01-01/2026-09-25",
+            "quality": {
+              "inputRecords": 809015,
+              "acceptedRecords": 809014,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 809014,
+              "excludedRecords": 1,
+              "exclusions": {
+                "header": 1
+              }
+            }
+          },
+          {
+            "sourceId": "public-lighting-fcc1",
+            "scope": "fingal",
+            "recordCount": 35170,
+            "period": "2024-03",
+            "quality": {
+              "inputRecords": 35170,
+              "acceptedRecords": 35170,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 119,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "public-lighting-sdcc1",
+            "scope": "south-dublin",
+            "recordCount": 35280,
+            "period": "2023-10-04",
+            "quality": {
+              "inputRecords": 35280,
+              "acceptedRecords": 35280,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 22,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "rtb-riq02",
+            "scope": "original-locations-all-published-quarterly-categories",
+            "recordCount": 376988,
+            "period": "2007Q4/2025Q4",
+            "quality": {
+              "inputRecords": 1367436,
+              "acceptedRecords": 376988,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 376988,
+              "excludedRecords": 990448,
+              "exclusions": {
+                "source_missing_no_published_observation": 990448
+              }
+            }
+          },
+          {
+            "sourceId": "schools-historical",
+            "scope": "national-primary-schools-2014-15",
+            "recordCount": 3147,
+            "period": "2014/15",
+            "quality": {
+              "inputRecords": 3147,
+              "acceptedRecords": 3147,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "schools-historical",
+            "scope": "national-secondary-schools-2014-15",
+            "recordCount": 711,
+            "period": "2014/15",
+            "quality": {
+              "inputRecords": 711,
+              "acceptedRecords": 711,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "schools-historical",
+            "scope": "national-special-schools-2014-15",
+            "recordCount": 116,
+            "period": "2014/15",
+            "quality": {
+              "inputRecords": 116,
+              "acceptedRecords": 116,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "sport-ireland-activities",
+            "scope": "island-wide-source",
+            "recordCount": 5507,
+            "period": null,
+            "quality": {
+              "inputRecords": 5507,
+              "acceptedRecords": 5507,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "sport-ireland-clubs",
+            "scope": "island-wide-source",
+            "recordCount": 8496,
+            "period": null,
+            "quality": {
+              "inputRecords": 8496,
+              "acceptedRecords": 8496,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "street-lighting-dublin-city",
+            "scope": "dublin-city",
+            "recordCount": 45017,
+            "period": "2021",
+            "quality": {
+              "inputRecords": 45017,
+              "acceptedRecords": 45017,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 0,
+              "excludedRecords": 0,
+              "exclusions": {}
+            }
+          },
+          {
+            "sourceId": "uisce-water-zones",
+            "scope": "national-supply-directory",
+            "recordCount": 692,
+            "period": "2026-Q1",
+            "quality": {
+              "inputRecords": 693,
+              "acceptedRecords": 692,
+              "quarantinedRecords": 0,
+              "unlocatedRecords": 692,
+              "excludedRecords": 1,
+              "exclusions": {
+                "header": 1
+              }
+            }
+          }
+        ],
+        "rankingReady": false
+      }
+    },
+    {
+      "name": "hospital, GP and all school levels have canonical locations and dated provenance",
+      "passed": true,
+      "durationMs": 140,
+      "details": [
+        {
+          "category": "hospital",
+          "returned": 5,
+          "sourceIds": [
+            "hse-hospitals-2020"
+          ],
+          "periods": [
+            "2020-03"
+          ]
+        },
+        {
+          "category": "gp",
+          "returned": 5,
+          "sourceIds": [
+            "hse-gp-2020"
+          ],
+          "periods": [
+            "2020-03"
+          ]
+        },
+        {
+          "category": "primary_school",
+          "returned": 5,
+          "sourceIds": [
+            "schools-historical"
+          ],
+          "periods": [
+            "2014/15"
+          ]
+        },
+        {
+          "category": "secondary_school",
+          "returned": 5,
+          "sourceIds": [
+            "schools-historical"
+          ],
+          "periods": [
+            "2014/15"
+          ]
+        },
+        {
+          "category": "special_school",
+          "returned": 5,
+          "sourceIds": [
+            "schools-historical"
+          ],
+          "periods": [
+            "2014/15"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "airports and transport stops preserve mode classifications and radius distances",
+      "passed": true,
+      "durationMs": 173,
+      "details": {
+        "airports": 10,
+        "stopCount": 10,
+        "stopDistancesM": [
+          42.32510161,
+          47.84736887,
+          67.23217505,
+          91.96548423,
+          109.07782708,
+          114.60110296,
+          119.80514813,
+          144.571042,
+          164.11802504,
+          164.28013653
+        ]
+      }
+    },
+    {
+      "name": "expanded local facilities, lights and water layers are available without connection claims",
+      "passed": true,
+      "durationMs": 960,
+      "details": [
+        {
+          "category": "parks",
+          "returned": 3,
+          "sourceIds": [
+            "cork-city-parks"
+          ],
+          "kinds": [
+            "service"
+          ]
+        },
+        {
+          "category": "community_centres",
+          "returned": 3,
+          "sourceIds": [
+            "community-centres6"
+          ],
+          "kinds": [
+            "service"
+          ]
+        },
+        {
+          "category": "activities",
+          "returned": 3,
+          "sourceIds": [
+            "sport-ireland-activities"
+          ],
+          "kinds": [
+            "service"
+          ]
+        },
+        {
+          "category": "street_lighting",
+          "returned": 3,
+          "sourceIds": [
+            "dlr-public-lighting"
+          ],
+          "kinds": [
+            "infrastructure"
+          ]
+        },
+        {
+          "category": "water_supply_remediation",
+          "returned": 3,
+          "sourceIds": [
+            "epa-remedial-action-list"
+          ],
+          "kinds": [
+            "infrastructure"
+          ]
+        },
+        {
+          "category": "water_source_protection",
+          "returned": 3,
+          "sourceIds": [
+            "gsi-water-source-protection"
+          ],
+          "kinds": [
+            "utility_area"
+          ]
+        },
+        {
+          "category": "group_water_source_protection",
+          "returned": 3,
+          "sourceIds": [
+            "gsi-water-source-protection"
+          ],
+          "kinds": [
+            "utility_area"
+          ]
+        },
+        {
+          "category": "playgrounds",
+          "returned": 3,
+          "sourceIds": [
+            "local-national-parks-and-play-grounds-fcc-20232"
+          ],
+          "kinds": [
+            "service"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pagination across expanded scopes remains bounded and rejects changed query",
+      "passed": true,
+      "durationMs": 6037,
+      "details": [
+        {
+          "category": "all",
+          "cursorLength": 271,
+          "uniqueIds": 4
+        },
+        {
+          "category": "parks",
+          "cursorLength": 267,
+          "uniqueIds": 4
+        },
+        {
+          "category": "street_lighting",
+          "cursorLength": 290,
+          "uniqueIds": 4
+        }
+      ]
+    },
+    {
+      "name": "rental source example, exact bedroom filter and range semantics",
+      "passed": true,
+      "durationMs": 150,
+      "details": {
+        "amountEur": 2283.59,
+        "unit": "EUR/month",
+        "exactBedroomRecords": 1,
+        "rangedBedroomRecords": 1,
+        "exactFourBedroomRecords": 0
+      }
+    },
+    {
+      "name": "additional purchase published rolling and monthly statistics preserve original geography",
+      "passed": true,
+      "durationMs": 60,
+      "details": [
+        {
+          "system": "CSO_HPM02_C02339V02812",
+          "code": "-",
+          "statistics": [
+            "mean",
+            "median"
+          ],
+          "amounts": [
+            452091,
+            411000
+          ]
+        },
+        {
+          "system": "CSO_HPM07_C03348V04035",
+          "code": "-",
+          "statistics": [
+            "mean",
+            "median"
+          ],
+          "amounts": [
+            440708,
+            400000
+          ]
+        },
+        {
+          "system": "CSO_HPM08_C03349V04063",
+          "code": "A41",
+          "statistics": [
+            "mean",
+            "median"
+          ],
+          "amounts": [
+            876667,
+            850000
+          ]
+        }
+      ]
+    },
+    {
+      "name": "unlocated housing and water directories remain queryable information",
+      "passed": true,
+      "durationMs": 43,
+      "details": [
+        {
+          "kind": "housing_information",
+          "category": "government_projects",
+          "geography": {
+            "code": "Carlow",
+            "codeSystem": "Housing:local-authority-name",
+            "type": "local_authority",
+            "name": "Carlow",
+            "vintage": "2026-Q1"
+          },
+          "returned": 61
+        },
+        {
+          "kind": "utility_observation",
+          "category": "water_supply_directory",
+          "geography": {
+            "code": "Wexford",
+            "codeSystem": "Uisce:water-service-area-name",
+            "type": "water_service_area",
+            "name": "Wexford",
+            "vintage": "2026-Q1"
+          },
+          "returned": 31
+        }
+      ]
+    },
+    {
+      "name": "PPR transactions are separate unlocated register records under publisher reuse policy",
+      "passed": true,
+      "durationMs": 20,
+      "details": {
+        "returned": 2,
+        "license": "custom-reuse",
+        "registerRecords": 809014,
+        "geometryStatus": "unlocated",
+        "cursorLength": 402
+      }
+    },
+    {
+      "name": "one, seven and all configured criteria generate conservative layers",
+      "passed": true,
+      "durationMs": 2270,
+      "details": [
+        {
+          "criteria": 1,
+          "layers": 1,
+          "withFeatures": 1,
+          "withContext": 0
+        },
+        {
+          "criteria": 7,
+          "layers": 7,
+          "withFeatures": 7,
+          "withContext": 0
+        },
+        {
+          "criteria": 24,
+          "layers": 24,
+          "withFeatures": 17,
+          "withContext": 1
+        }
+      ]
+    },
+    {
+      "name": "assessments never fabricate travel time, affordability or household utility matches",
+      "passed": true,
+      "durationMs": 188,
+      "details": {
+        "selected": 24,
+        "requiredEvidenceMissing": 24,
+        "rankingReady": false
+      }
+    }
+  ],
+  "scope": "Independent observations of local native macOS-container API; historical/partial data and unknown suitability remain explicit. Not a public deployment."
+}

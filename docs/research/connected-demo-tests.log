@@ -1,0 +1,103 @@
+bun test v1.4.0 (34cbb9a40)
+
+tests/transaction-adapters.test.ts:
+(pass) PPR transaction retains reported amount, tax and market flags without aggregate or geocode inference [2.42ms]
+(pass) duplicate-looking source rows keep distinct immutable ZIP and row identities [0.10ms]
+(pass) logical CSV rows retain quoted commas, escaped quotes and embedded newlines [0.04ms]
+(pass) malformed dates, monetary values and flags quarantine with source locator [0.14ms]
+(pass) saved ZIP is decoded as Windows-1252 and policy remains publisher-specific reuse [2.95ms]
+
+tests/canonical-normalize.test.ts:
+(pass) canonical geometry and privacy > ring containment preserves holes, nested islands and disconnected exterior without winding assumptions [0.20ms]
+(pass) canonical geometry and privacy > unclosed, degenerate and malformed rings fail rather than being silently repaired [0.07ms]
+(pass) canonical geometry and privacy > native ITM and Web Mercator project to geographic longitude latitude [0.35ms]
+(pass) canonical geometry and privacy > null childcare locations retained and contact fields never copied [0.90ms]
+(pass) canonical geometry and privacy > malformed childcare geometry fails without replacing it with attribute coordinates [0.01ms]
+(pass) canonical geometry and privacy > broadband suppressed numeric premises and planned-NBI metric remain distinct [0.74ms]
+(pass) market dimensions and complete exclusion accounting > HPM05 keeps all selected months/types/regions with source dimension codes, correct units and matching sample size [3.09ms]
+(pass) market dimensions and complete exclusion accounting > missing observations and source zeros remain distinct from prices and every raw locator references its cell [1.08ms]
+(pass) market dimensions and complete exclusion accounting > unexpected cube order, cardinality and unit abort normalization [0.12ms]
+(pass) untouched raw integrity > normalizes the three recorded raw manifest formats [0.06ms]
+(pass) untouched raw integrity > same-size tampering and size mismatch both block parsing; paths cannot escape the source directory [3.56ms]
+(pass) frozen topology quarantine rules > a rule matches only its frozen asset, scope, identity, locator and canonical geometry; future corrected captures are retained [0.24ms]
+(pass) normalization index publication > county-only updates preserve other scopes of the same source and unrelated adapter entries [0.08ms]
+(pass) normalization index publication > legacy index entries upgrade by adapter identity and duplicate scope writes are rejected [0.02ms]
+
+tests/raw-locators.test.ts:
+(pass) CSV logical record provenance preserves quoted newlines and rejects malformed quoting [0.06ms]
+(pass) NaPTAN, CSV, XLSX and ZIP provenance must name an existing original row [6.59ms]
+
+tests/market-adapters.test.ts:
+(pass) rent keeps exact geography, quarter, bedrooms, type, unit and raw monetary cell [0.56ms]
+(pass) bedroom ranges and four-plus bedrooms do not become exact bedroom matches [0.08ms]
+(pass) missing amounts are counted exclusions while display-zero remains unknown and suppression retains provenance [0.05ms]
+(pass) source classification or unit drift fails the snapshot; invalid monetary cells quarantine explicitly [0.10ms]
+(pass) HPM02 links only identical-dimension volume and excludes other buyer/event slices [0.11ms]
+(pass) rolling 12-month observations retain window-ending month and original Eircode geography [0.06ms]
+
+tests/osm-adapter.test.ts:
+(pass) OSM stable primitive identity, edit metadata and safe public tag projection [0.23ms]
+(pass) OSM area holes remain polygons, cycleways remain lines, missing assembly stays quarantined [0.47ms]
+(pass) actual libosmium assembly preserves polygon holes and independently checks ID/version [114.58ms]
+
+tests/backend.test.ts:
+(pass) canonical import interface > reimport is idempotent; replacement removes old rows only in its source/scope [2.89ms]
+(pass) canonical import interface > checksum, malformed records and duplicates preserve last accepted snapshot [0.62ms]
+(pass) HTTP preferences and evidence > accepts one, seven and more than seven selected criteria without a cap [2.54ms]
+(pass) HTTP preferences and evidence > rejects duplicate, unknown, incompatible parameters and malformed JSON [0.65ms]
+(pass) HTTP preferences and evidence > selected criteria create matching layers and retain unknown for missing categories [0.42ms]
+(pass) HTTP preferences and evidence > travel minutes stay unknown even with a hospital exactly on the origin; missing evidence cannot make a ranking [0.55ms]
+(pass) HTTP preferences and evidence > child age suitability, property utility connections and bedroom market categories are not inferred [0.90ms]
+(pass) source export interface > pages object IDs, limits public fields and produces a hash-valid importable snapshot [8.09ms]
+(pass) source export interface > refuses truncated enumeration before producing accepted data [0.19ms]
+
+tests/local-adapters.test.ts:
+(pass) Licensed local adapters > DLR mixed facilities retain categories and exclude phone/email fields [0.49ms]
+(pass) Licensed local adapters > lighting keeps dated asset status unknown and preserves unlocated records [0.07ms]
+(pass) Licensed local adapters > known corrupt Fingal community inventory is quarantined without coordinate guessing [0.03ms]
+(pass) Licensed local adapters > GSI study dates and source protection meaning do not imply household supply [0.12ms]
+(pass) Licensed local adapters > EPA Irish Grid multipoint transforms to Ireland and keeps remedial context [0.28ms]
+(pass) Licensed local adapters > CSV preserves quoted fields and every logical row; housing keeps dated nonspatial information [0.47ms]
+(pass) Licensed local adapters > Uisce sheet produces typed directory information without invented geometry [1.80ms]
+(pass) Licensed local adapters > GeoPackage point decoding and read-only Cork adapter retain source identity [2.35ms]
+(pass) Licensed local adapters > every public adapter has dataset-specific reuse evidence and information limits [0.04ms]
+
+tests/national-adapters.test.ts:
+(pass) national source normalization > Irish Grid hospitals independently match publisher WGS84 fields [1.79ms]
+(pass) national source normalization > GP native geometry is authoritative and personal contact fields are absent [0.40ms]
+(pass) national source normalization > school levels and valid alternate official names retain historical qualifiers [0.14ms]
+(pass) national source normalization > CSV quoted commas, doubled quotes and newlines are parsed and malformed rows reject [0.04ms]
+(pass) national source normalization > airport source applies explicit passenger-service selection [0.11ms]
+(pass) national source normalization > NaPTAN typed locations, nested raw locator and status selection are faithful [0.18ms]
+(pass) national source normalization > all frozen source rows are accounted for with deterministic IDs and privacy allowlist [191.71ms]
+
+tests/common-api.test.ts:
+(pass) common API HTTP contracts > data status separates imported snapshots from raw adapter availability [0.43ms]
+(pass) common API HTTP contracts > API contract, readiness and exact nonspatial geography remain discoverable [1.03ms]
+(pass) common API HTTP contracts > validates spatial bounds, paging and category query before repository calls [0.85ms]
+(pass) common API HTTP contracts > dispatches near, place and area queries with bounded limits [0.43ms]
+(pass) common API HTTP contracts > place anchors dispatch the exact place ID and preserve the repository representative point [0.44ms]
+(pass) common API HTTP contracts > invalid anchor requests never dispatch and unavailable anchor capability is explicit [0.31ms]
+(pass) common API HTTP contracts > market geography discovery applies tenure, text and limits to active publisher metadata [1.92ms]
+(pass) common API HTTP contracts > market geography registry checks requested active snapshots before text filtering [1.10ms]
+(pass) common API HTTP contracts > market search requires explicit geography and preserves suppressed observations [0.48ms]
+(pass) common API HTTP contracts > layers support arbitrary selected criterion count, provenance and per-layer paging [0.93ms]
+(pass) common API HTTP contracts > assessment queries nearest independently and never claims scores or utility/travel access [0.32ms]
+(pass) common API HTTP contracts > empty records mean unknown, and active snapshot changes return retry conflicts [0.16ms]
+(pass) common API HTTP contracts > repository query conflicts and malformed JSON are safe client errors [0.13ms]
+
+src/common/postgis.test.ts:
+(pass) PostGIS repository integration > atomic import, exact radius, pagination, query binding and limit validation [311.76ms]
+(pass) PostGIS repository integration > replacement hides deletions, preserves history and invalidates cursors [150.75ms]
+(pass) PostGIS repository integration > invalid topology rolls back and source/hash/ID collisions never publish [41.96ms]
+(pass) PostGIS repository integration > polygon boundaries inclusive, holes excluded, normalized place search and market exact geography [78.45ms]
+(pass) PostGIS repository integration > indexed candidate prefilter agrees with exact geography at radius boundaries [246.59ms]
+
+src/frontend/app/domain.test.ts:
+(pass) frontend emits actual API criteria contract without false bedroom or market joins [0.13ms]
+(pass) single, seven and all registry choices have no frontend count cap [0.14ms]
+
+ 75 pass
+ 0 fail
+ 56509 expect() calls
+Ran 75 tests across 11 files. [1.90s]

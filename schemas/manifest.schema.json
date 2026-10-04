@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "number",
+      "const": 1
+    },
+    "snapshotId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scope": {
+      "type": "string",
+      "minLength": 1
+    },
+    "publisher": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "license": {
+      "type": "string",
+      "enum": [
+        "CC-BY-4.0",
+        "CC0-1.0",
+        "CC-BY-SA-4.0",
+        "ODbL-1.0",
+        "public-domain",
+        "custom-reuse"
+      ]
+    },
+    "licenseEvidenceUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "attribution": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fetchedAt": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z))$"
+    },
+    "sourceModifiedAt": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z))$"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "observedPeriod": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "geography": {
+      "type": "string",
+      "minLength": 1
+    },
+    "coverage": {
+      "type": "string",
+      "enum": [
+        "partial",
+        "accepted",
+        "unknown"
+      ]
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "dataQuality": {
+      "type": "object",
+      "properties": {
+        "recordsWithGeometry": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "recordsWithoutGeometry": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "recordsWithGeometry",
+        "recordsWithoutGeometry"
+      ],
+      "additionalProperties": false
+    },
+    "recordCount": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 9007199254740991
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "format": {
+      "type": "string",
+      "const": "ndjson"
+    }
+  },
+  "required": [
+    "version",
+    "snapshotId",
+    "sourceId",
+    "scope",
+    "publisher",
+    "sourceUrl",
+    "license",
+    "licenseEvidenceUrl",
+    "attribution",
+    "fetchedAt",
+    "sourceModifiedAt",
+    "observedPeriod",
+    "geography",
+    "coverage",
+    "limitations",
+    "recordCount",
+    "sha256",
+    "format"
+  ],
+  "additionalProperties": false
+}

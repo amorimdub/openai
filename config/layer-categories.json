@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "notes": "Display mappings provide qualified context. Source-protection areas do not establish household water connections.",
+  "queryCategories": ["special_school", "libraries", "cultural_facilities", "heritage_sites", "community_facilities", "playgrounds", "water_supply_remediation", "water_source_protection", "group_water_source_protection", "water_supply_directory", "property_transactions"],
+  "criteria": {
+    "utilities.mains_water": {"spatial": ["mains_water", "water_source_protection", "water_supply_remediation"], "context": ["water_supply_directory"], "explanation": "Water source-protection areas, remediation locations and named supply directories are context; none establishes a served property or current water safety."},
+    "utilities.group_water_scheme": {"spatial": ["group_water_scheme", "group_water_source_protection"], "explanation": "Group-water source-protection contribution areas are context, not scheme membership or customer supply boundaries."},
+    "housing.government_projects": {"spatial": ["government_projects"], "context": ["government_projects"], "explanation": "Historical project delivery records are information only; geometry is absent unless verified by the source. Availability and eligibility remain unknown."},
+    "quality_of_life.green_areas": {"spatial": ["green_areas", "parks"], "explanation": "Recorded parks and green-area features are source context; public access and entrances remain unverified."}
+  }
+}

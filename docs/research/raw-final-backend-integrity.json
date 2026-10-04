@@ -1,0 +1,23 @@
+{
+  "auditedAt": "2026-10-04T14:18:21.444Z",
+  "stage": "after final expanded backend imports",
+  "baseline": {
+    "path": "data/raw/inventory.json",
+    "sha256": "cd2e9636684c79d174eb8a77c7b34a748f4ab67417abd530898b9dbbd7ef7992",
+    "fileCount": 518,
+    "totalBytes": 1119838617,
+    "preservedUnchanged": true
+  },
+  "method": "Independent streaming SHA256/bytes comparison with saved acquisition inventory; no raw files or inventory written. Stable before/after file stats checked.",
+  "verifiedFileCount": 518,
+  "verifiedBytes": 1119838617,
+  "failureCount": 0,
+  "failures": [],
+  "additionalFiles": [],
+  "missingFiles": [],
+  "allBaselineFilesMatch": true,
+  "rawStagePreserved": true,
+  "limitations": [
+    "Byte preservation relative to the local acquisition inventory does not establish current service availability, coverage or source authenticity."
+  ]
+}

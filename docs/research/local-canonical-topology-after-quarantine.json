@@ -1,0 +1,177 @@
+{
+  "checkedAt": "2026-10-04T14:01:40.446Z",
+  "engine": "PostgreSQL17.5/PostGIS3.5.2/GEOS3.9.0",
+  "sql": "SELECT ST_IsValidReason(ST_GeomFromGeoJSON(record.geometry)) WHERE NOT ST_IsValid(ST_GeomFromGeoJSON(record.geometry));",
+  "polygonCount": 1265,
+  "invalidCount": 0,
+  "findings": [
+    {
+      "adapter": "community-dcc",
+      "snapshotId": "1cac104bf8cfdedff4a84f72c8946067a4109bbea0bdee36869157f71abfdc74",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-dcc/1cac104bf8cfdedff4a84f72c8946067a4109bbea0bdee36869157f71abfdc74/records.ndjson",
+      "canonicalSha256": "b5a1a29e3b55084f32665139019fc036cbf324ab29077d74f40b05c702f0ef9b",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-dlr",
+      "snapshotId": "b17dcab2a37f42bad38f225bd41aea51998d8497e3c9ce421dec95b1454a418c",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-dlr/b17dcab2a37f42bad38f225bd41aea51998d8497e3c9ce421dec95b1454a418c/records.ndjson",
+      "canonicalSha256": "959088c54b2f248a423fbcd69751d235f023c11b69e5d77a1ad19a05a64fe191",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-fcc",
+      "snapshotId": "8642865ab2f37653866ad5b48e06002a54d159aa7c5eb233aa549d6facd00a64",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-fcc/8642865ab2f37653866ad5b48e06002a54d159aa7c5eb233aa549d6facd00a64/records.ndjson",
+      "canonicalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-sdcc",
+      "snapshotId": "6de927301322dcfce5d51d020d04410b0bec91765303f7ecaee69f9e486a6c53",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-sdcc/6de927301322dcfce5d51d020d04410b0bec91765303f7ecaee69f9e486a6c53/records.ndjson",
+      "canonicalSha256": "fb81481abc403fdcb16e9a1804a8b202458c52c9d26393069f2de881720aa6b6",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-galway",
+      "snapshotId": "5b0fd001d4440ad214a944e2502509ae36f042c5e06747f2fffebf31ef11eea8",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-galway/5b0fd001d4440ad214a944e2502509ae36f042c5e06747f2fffebf31ef11eea8/records.ndjson",
+      "canonicalSha256": "a9d9ea870c274b15dd5e64b05faada5a2fde56a26b8a9477fc57c45e5cb05d0e",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "community-roscommon",
+      "snapshotId": "62884c1c13c5fc140919120295bbdbb32f661edc99c30a81d83519f2d23f91e4",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/community-roscommon/62884c1c13c5fc140919120295bbdbb32f661edc99c30a81d83519f2d23f91e4/records.ndjson",
+      "canonicalSha256": "742f1f1b841e7f5b104fe81ccec1030304caf47c947e6024e4439107552e6b14",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "parks-dcc-boundaries",
+      "snapshotId": "d81412bb4b88c28186f5e05396ec84d963e7d0490c3842205ad296295860053c",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/parks-dcc-boundaries/d81412bb4b88c28186f5e05396ec84d963e7d0490c3842205ad296295860053c/records.ndjson",
+      "canonicalSha256": "76db8dad174adb0ec5b42b610026fda4c91baf3ab2b9724664fb877870fb7e03",
+      "polygonCount": 558,
+      "invalid": []
+    },
+    {
+      "adapter": "parks-dlr",
+      "snapshotId": "2ca9c6e5f5b4fe162973bd142f31701e7def357f7031e48c6eb79e3dccce0dac",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/parks-dlr/2ca9c6e5f5b4fe162973bd142f31701e7def357f7031e48c6eb79e3dccce0dac/records.ndjson",
+      "canonicalSha256": "204d98704bcd25aedf82a397564f1d8b45de7cbdbe439561c01614594989d733",
+      "polygonCount": 15,
+      "invalid": []
+    },
+    {
+      "adapter": "playgrounds-fcc",
+      "snapshotId": "e268648fd45a565365ec4d4025019d051176234abeff66bfe17c5c9384f518b6",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/playgrounds-fcc/e268648fd45a565365ec4d4025019d051176234abeff66bfe17c5c9384f518b6/records.ndjson",
+      "canonicalSha256": "029ece9cc213ad4730bd91239c1e969b5fb2bb3548319d5c3a63dc88a8b11a68",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "parks-sdcc",
+      "snapshotId": "bd906f0f40c46fa4f5be30d74cdbefea8f7b26cf4fe06bf30d787d3a11ca3443",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/parks-sdcc/bd906f0f40c46fa4f5be30d74cdbefea8f7b26cf4fe06bf30d787d3a11ca3443/records.ndjson",
+      "canonicalSha256": "7bd7771740c109baf1726efc03aae65c6e2adc3022451b825891b5eec91b4801",
+      "polygonCount": 83,
+      "invalid": []
+    },
+    {
+      "adapter": "activities",
+      "snapshotId": "cfb516928faab88966ac0dca006cfad4b7b92a9639cd50fc8d7e2ff28192c478",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/activities/cfb516928faab88966ac0dca006cfad4b7b92a9639cd50fc8d7e2ff28192c478/records.ndjson",
+      "canonicalSha256": "085820f92ad99dab95165d663e3efb1be85c1fccfb9f75bd2a53568cf7e418d8",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-dcc",
+      "snapshotId": "50399934b22b7bca42cb517b880e0d3d8f2abd6503606fbe5fe27d2d8cc762b9",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-dcc/50399934b22b7bca42cb517b880e0d3d8f2abd6503606fbe5fe27d2d8cc762b9/records.ndjson",
+      "canonicalSha256": "8f21f9cd0dec5f838939a84f329355e96bb7184c73500b3a9700e1c2c7e46d73",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-dlr",
+      "snapshotId": "cada3a4b9753d328e2e5de394f6e645d53178a0217c6d0d2e8a18e822f75a710",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-dlr/cada3a4b9753d328e2e5de394f6e645d53178a0217c6d0d2e8a18e822f75a710/records.ndjson",
+      "canonicalSha256": "3806a7b11a2505d5b7d9a5b7ebf1bc30e37c2967a262eed9e7a48150684df73f",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-fcc",
+      "snapshotId": "05f18b1273449fdfb7c5c4d3cb5894c867d18e8a777267b6bccddf1692e7f8c2",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-fcc/05f18b1273449fdfb7c5c4d3cb5894c867d18e8a777267b6bccddf1692e7f8c2/records.ndjson",
+      "canonicalSha256": "a8fe3c7c4440d9f5d519a42eb766d3305e70b521b8fb6334dd3a59a2b673fcea",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "lighting-sdcc",
+      "snapshotId": "19d6610b19b0ec8bac07d7a09c33063d00a5570e124b4bf0dedae48e230e832a",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/lighting-sdcc/19d6610b19b0ec8bac07d7a09c33063d00a5570e124b4bf0dedae48e230e832a/records.ndjson",
+      "canonicalSha256": "bc5f423cd99b8437070234e1535f0878e598d861e1d8cff54f91f05179ec7f35",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "water-ral",
+      "snapshotId": "0d332de1e51a86da505e44a90afc756093329de89967e2fc8797bdd7fb015f03",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/water-ral/0d332de1e51a86da505e44a90afc756093329de89967e2fc8797bdd7fb015f03/records.ndjson",
+      "canonicalSha256": "f978890f333e31d9a781ec9b061ca62f5b3b8d40552b822326be1f1da1a1845a",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "water-gsi-public",
+      "snapshotId": "7f2b9cad42b02c8b8fb099db07371ee67613cd420986eefecbbe30d7a9768dd0",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/water-gsi-public/7f2b9cad42b02c8b8fb099db07371ee67613cd420986eefecbbe30d7a9768dd0/records.ndjson",
+      "canonicalSha256": "a8613942c61f526cb2900aab99b6f28d438cf84fc33d3f6c34f44c68ecf7052a",
+      "polygonCount": 356,
+      "invalid": []
+    },
+    {
+      "adapter": "water-gsi-group",
+      "snapshotId": "040404a1e3bce9af4fd1ca3248631cc2913e4094fcd14cc0168783ad978f69a1",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/water-gsi-group/040404a1e3bce9af4fd1ca3248631cc2913e4094fcd14cc0168783ad978f69a1/records.ndjson",
+      "canonicalSha256": "905a8d7def55007c2b9f9100ededdc9e41f9d63fd1a37f46d7658ad04b57d9b0",
+      "polygonCount": 253,
+      "invalid": []
+    },
+    {
+      "adapter": "housing-construction",
+      "snapshotId": "442b53aff8d138b43c44b62963023ca21451a9a305768bdb5baf61db1518a711",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/housing-construction/442b53aff8d138b43c44b62963023ca21451a9a305768bdb5baf61db1518a711/records.ndjson",
+      "canonicalSha256": "7f9a7b34d81ab34176f36c13b732752ccfed8df913ba2c69c49cc61d60766ea2",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "uisce-water-zones",
+      "snapshotId": "ca1a7e8acdfad89601e90e46c96cb73b12f3c2cf73049d6dd6dd3e40544a7083",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/uisce-water-zones/ca1a7e8acdfad89601e90e46c96cb73b12f3c2cf73049d6dd6dd3e40544a7083/records.ndjson",
+      "canonicalSha256": "0c1a5a1fd0cc97f8b86803d55adb3758d5ff6d0855f100e41105ae218b60fc06",
+      "polygonCount": 0,
+      "invalid": []
+    },
+    {
+      "adapter": "cork-parks",
+      "snapshotId": "ee9e1f8e0579ab51a1a43955c177fd1af560bed16b7901f03548a3a263f75ad6",
+      "canonicalFile": "/Users/fs/dev/openai/data/canonical/cork-parks/ee9e1f8e0579ab51a1a43955c177fd1af560bed16b7901f03548a3a263f75ad6/records.ndjson",
+      "canonicalSha256": "7423f7e83733c8d6914756ef54809a35a884b1375a17647b8b8546e9f49beedc",
+      "polygonCount": 0,
+      "invalid": []
+    }
+  ]
+}

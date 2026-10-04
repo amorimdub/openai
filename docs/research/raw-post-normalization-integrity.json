@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "auditedAt": "2026-10-04T13:36:32.665832+00:00",
+  "baseline": {
+    "path": "data/raw/inventory.json",
+    "sha256": "cd2e9636684c79d174eb8a77c7b34a748f4ab67417abd530898b9dbbd7ef7992",
+    "generatedAt": "2026-10-04T12:41:59.718Z",
+    "fileCount": 518,
+    "totalBytes": 1119838617,
+    "preservedUnchanged": true
+  },
+  "method": "Independent streaming SHA-256 and byte-size comparison against the saved acquisition inventory; before/after size and mtime checks; original inventory never overwritten.",
+  "verifiedFileCount": 518,
+  "verifiedBytes": 1119838617,
+  "failureCount": 0,
+  "failures": [],
+  "missingFiles": [],
+  "additionalFiles": [],
+  "incompleteFiles": [],
+  "allBaselineFilesMatch": true,
+  "rawStagePreserved": true,
+  "limitations": [
+    "Confirms bytes unchanged relative to the local acquisition inventory, not external authenticity, national completeness or current real-world availability."
+  ]
+}

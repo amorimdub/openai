@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+data/raw/
+data/canonical/
+data/postgis/
+.env
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+*.tmp
