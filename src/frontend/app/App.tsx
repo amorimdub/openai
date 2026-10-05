@@ -95,6 +95,9 @@ export function App() {
   const [costs, setCosts] = useState<CostInputs>(emptyCosts),
     [serviceCosts, setServiceCosts] = useState<Record<string, string>>({}),
     [costSource, setCostSource] = useState("");
+  const [searchingPlaces, setSearchingPlaces] = useState(false),
+    [placeSearchError, setPlaceSearchError] = useState(""),
+    [placeSearchRetry, setPlaceSearchRetry] = useState(0);
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "instant" });
   }, [step]);
@@ -116,21 +119,30 @@ export function App() {
     return () => abort.abort();
   }, []);
   useEffect(() => {
-    if (!query.trim() || query === place?.name) {
-      setPlaces([]);
+    setPlaces([]);
+    setPlaceSearchError("");
+    if (!locationPicker || !query.trim()) {
+      setSearchingPlaces(false);
       return;
     }
     const abort = new AbortController();
+    setSearchingPlaces(true);
     const timer = setTimeout(
       () =>
         api(
-          `/places?q=${encodeURIComponent(query)}&limit=8`,
+          `/places?q=${encodeURIComponent(query.trim())}&limit=8`,
           undefined,
           abort.signal,
         )
-          .then((r) => setPlaces(r.places))
+          .then((r) => {
+            if (abort.signal.aborted) return;
+            setPlaces(r.places);
+            setSearchingPlaces(false);
+          })
           .catch((e) => {
-            if (e.name !== "AbortError") setError(e.message);
+            if (abort.signal.aborted || e.name === "AbortError") return;
+            setPlaceSearchError("Town search is unavailable. Please try again.");
+            setSearchingPlaces(false);
           }),
       200,
     );
@@ -138,7 +150,7 @@ export function App() {
       clearTimeout(timer);
       abort.abort();
     };
-  }, [query, place?.id]);
+  }, [query, locationPicker, placeSearchRetry]);
   const choosePlace = async (p: Place) => {
     setLocationPicker(false);
     window.scrollTo({ top: 0, behavior: "instant" });
@@ -466,6 +478,34 @@ export function App() {
                 </button>
               ))}
             </div>
+            {searchingPlaces && (
+              <p className="fine-note" role="status">
+                Searching towns and cities…
+              </p>
+            )}
+            {!searchingPlaces && !placeSearchError && (
+              <p className="fine-note" role="status">
+                {!query.trim()
+                  ? "Enter a town or city name to see suggestions."
+                  : !places.length
+                    ? "No towns or cities found. Try another name."
+                    : `${places.length} ${places.length === 1 ? "suggestion" : "suggestions"} shown. Choose a town or city.`}
+              </p>
+            )}
+            {placeSearchError && (
+              <div>
+                <p className="error" role="alert">
+                  {placeSearchError}
+                </p>
+                <button
+                  type="button"
+                  className="primary"
+                  onClick={() => setPlaceSearchRetry((n) => n + 1)}
+                >
+                  Retry town search
+                </button>
+              </div>
+            )}
             <p className="fine-note">
               Your selected services stay with you. Cost assumptions reset for
               the new location.
