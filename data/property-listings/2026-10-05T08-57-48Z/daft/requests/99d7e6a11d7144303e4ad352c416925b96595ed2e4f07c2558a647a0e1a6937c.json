@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=26",
+  "fetchedAt": "2026-10-05T09:28:23.976Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=26",
+  "kind": "search",
+  "responseSha256": "fc137bd624e1f401401b0b85d0ca53f3a60b78276fee2e66bfdaae3b1c15ca4a",
+  "files": [
+    {
+      "path": "daft/01223-99d7e6a11d714430-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "ba5cee2ffe1c0520f810f6dff32f0bf384ae9d059560072e5e7fd94179cf733e",
+      "bytes": 299879
+    },
+    {
+      "path": "daft/01223-99d7e6a11d714430-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01223-99d7e6a11d714430-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "20bd3ca63ed556e273da34804942d6a0a59968dfa21692280e0f3a9fd54fc133",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/caher-ballinruan-crusheen-co-clare/6659624",
+    "https://www.daft.ie/for-sale/olbar-baltrasna-road-ashbourne-co-meath/6616287",
+    "https://www.daft.ie/for-sale/grange-bohermeen-co-meath/6671105",
+    "https://www.daft.ie/for-sale/saint-leonards-ballycullane-co-wexford/6671039",
+    "https://www.daft.ie/for-sale/hillcrest-house-the-rock-road-blackrock-co-louth/6661351",
+    "https://www.daft.ie/for-sale/kavanagh-cottage-fethard-co-wexford/6596900",
+    "https://www.daft.ie/for-sale/sunmount-25-lynn-avenue-mullingar-co-westmeath/6648626",
+    "https://www.daft.ie/for-sale/turas-17-grosvenor-road-rathmines-dublin-6/6670763",
+    "https://www.daft.ie/for-sale/5-coldwater-lakes-saggart-co-dublin/6670714",
+    "https://www.daft.ie/for-sale/bayview-house-mill-road-mornington-co-meath/6595759",
+    "https://www.daft.ie/for-sale/93-friars-green-tullow-road-carlow-town-co-carlow/6659054",
+    "https://www.daft.ie/for-sale/61-college-hill-mullingar-mullingar-co-westmeath/6670548",
+    "https://www.daft.ie/for-sale/newtowngore-co-leitrim/6667455",
+    "https://www.daft.ie/for-sale/6-oldbawn-way-tallaght-dublin-24/6670541",
+    "https://www.daft.ie/for-sale/4-the-close-river-park-gracedieu-co-waterford/6654114",
+    "https://www.daft.ie/for-sale/rackardstown-kilmore-kilmore-village-co-wexford/6599874",
+    "https://www.daft.ie/for-sale/beechmount-carlow-road-old-kilcullen-co-kildare/6670345",
+    "https://www.daft.ie/for-sale/69-71-pembroke-road-ballsbridge-dublin-4/6647810",
+    "https://www.daft.ie/for-sale/84-bancroft-park-tallaght-dublin-24/6646825",
+    "https://www.daft.ie/for-sale/hill-view-house-spring-valley-enniscorthy-co-wexford/6594955"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=27",
+  "paginationLimited": false
+}

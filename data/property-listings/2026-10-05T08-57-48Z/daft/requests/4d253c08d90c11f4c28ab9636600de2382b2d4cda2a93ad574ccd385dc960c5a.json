@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=22",
+  "fetchedAt": "2026-10-05T09:24:13.059Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=22",
+  "kind": "search",
+  "responseSha256": "7882dda1a026adfbd7029aec22c0d3f7c12a12083ce7364e55c3afb7198d453b",
+  "files": [
+    {
+      "path": "daft/01056-4d253c08d90c11f4-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "344484208fd2f007f9011c4790dd092f773283f26876603548ef71b105c00cb5",
+      "bytes": 292335
+    },
+    {
+      "path": "daft/01056-4d253c08d90c11f4-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01056-4d253c08d90c11f4-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "819a266b2166404008568e0d37069b2a2d3a9ea5a33ea08f2e51e56f4d06fea0",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/158-georgian-village-castleknock-dublin-15-co-dublin/6628847",
+    "https://www.daft.ie/for-sale/killaune-ballymacward-ballinasloe-co-galway/6673996",
+    "https://www.daft.ie/for-sale/89-cluain-dara-wexford-town-co-wexford/6674533",
+    "https://www.daft.ie/for-sale/6-barnwell-place-hansfield-dublin-15-co-dublin/6623479",
+    "https://www.daft.ie/for-sale/51-whitestown-park-dublin-15/6666055",
+    "https://www.daft.ie/for-sale/laeken-100-churchtown-road-lower-dublin-14-churchtown-dublin-14/6672769",
+    "https://www.daft.ie/for-sale/craughans-butchers-33-hogan-avenue-kileely-co-limerick/6674458",
+    "https://www.daft.ie/for-sale/22-halpin-park-tinakilly-park-rathnew-co-wicklow/6674426",
+    "https://www.daft.ie/for-sale/48-moyola-park-newcastle-galway-city/6655694",
+    "https://www.daft.ie/for-sale/carrowpeter-dublin-road-tuam-co-galway/6651074",
+    "https://www.daft.ie/for-sale/17-sandyview-drive-riverside-tuam-road-co-galway/6673832",
+    "https://www.daft.ie/for-sale/cuiltebo-claremorris-co-mayo/6670005",
+    "https://www.daft.ie/for-sale/st-exup-ry-killegar-enniskerry-co-wicklow/6574330",
+    "https://www.daft.ie/for-sale/23-westgate-park-wexford-town-co-wexford/6674162",
+    "https://www.daft.ie/for-sale/71-dromroe-avenue-woodhaven-castletroy-co-limerick/6672824",
+    "https://www.daft.ie/for-sale/37-westbury-grove-wilton-wilton-co-cork/6674044",
+    "https://www.daft.ie/for-sale/bridgetown-cooly-fuerty-co-roscommon/6674050",
+    "https://www.daft.ie/for-sale/castleinch-co-kilkenny-castleinch-co-kilkenny/6673997",
+    "https://www.daft.ie/for-sale/11-brackinrainey-wood-longwood-longwood-co-meath/6674021",
+    "https://www.daft.ie/for-sale/56-capwell-road-turners-cross-co-cork/6673878"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=23",
+  "paginationLimited": false
+}

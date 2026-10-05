@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/30-saint-johns-wood-castle-avenue-clontarf-dublin-3/6580647",
+  "fetchedAt": "2026-10-05T09:12:03.101Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/30-saint-johns-wood-castle-avenue-clontarf-dublin-3/6580647",
+  "kind": "listing",
+  "responseSha256": "9a2d48d7c297704300f7e2d32b08c12b2702f81b64233abafa79682c2ae07aba",
+  "files": [
+    {
+      "path": "daft/00570-c5d8a328939f2794-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5eadcb9d1ced799afd2a27154bac633be3ac90d95331508c872c24d7d8083a3d",
+      "bytes": 39833
+    },
+    {
+      "path": "daft/00570-c5d8a328939f2794-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "29b2694f24c72d84606b921cfe00ef68b0d5ebfcf97ff555ffeac75d955b33b8",
+      "bytes": 8064
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

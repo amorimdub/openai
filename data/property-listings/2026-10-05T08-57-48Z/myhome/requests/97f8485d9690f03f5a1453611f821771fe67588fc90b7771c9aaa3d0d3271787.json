@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=300",
+  "fetchedAt": "2026-10-05T12:49:40.323Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=300",
+  "kind": "search",
+  "responseSha256": "db6df9c68979a34975fc2fff877430130d2f4dc9be85272621c23ed11e36f1a4",
+  "files": [
+    {
+      "path": "myhome/06721-97f8485d9690f03f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=300\"].SearchResults",
+      "sha256": "f99fc411f059af4c7d27cedd3eac7ce4f4f4c5a326466b16be66bae52feede3a",
+      "bytes": 110011
+    },
+    {
+      "path": "myhome/06721-97f8485d9690f03f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=300\"] (paging fields)",
+      "sha256": "b5cb136a5610d5deacd67066dd863111a29ebad5c491937b0a59159aa1ccd20f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/19-beechdale-court-ballycullen-dublin-24/5024037",
+    "https://www.myhome.ie/residential/brochure/50-cuirt-seoige-bohermore-galway/5024031",
+    "https://www.myhome.ie/residential/brochure/6-higher-o-connell-street-kinsale-cork/5024019",
+    "https://www.myhome.ie/residential/brochure/9-cypress-grove-south-templeogue-dublin-6w/5009946",
+    "https://www.myhome.ie/residential/brochure/146-the-lighthouse-church-road-east-wall-dublin-3/5024002",
+    "https://www.myhome.ie/residential/brochure/136-the-oval-tullyvale-cabinteely-dublin-18/4963269",
+    "https://www.myhome.ie/residential/brochure/10-rosse-court-rise-lucan-co-dublin/5023984",
+    "https://www.myhome.ie/residential/brochure/38-croagh-patrick-road-navan-road-dublin-7/5023916",
+    "https://www.myhome.ie/residential/brochure/doon-derrylin-road-ballyconnell-county-cavan/5023966",
+    "https://www.myhome.ie/residential/brochure/25-the-rise-shangort-road-knocknacarra-galway/5007030",
+    "https://www.myhome.ie/residential/brochure/51-chestnut-grove-mullingar-co-westmeath/5023946",
+    "https://www.myhome.ie/residential/brochure/residence-and-shop-on-c-0-7-acre-kiltegan-wicklow/5023940",
+    "https://www.myhome.ie/residential/brochure/50-cill-beg-manor-stradbally-stradbally-co-laois/5023942",
+    "https://www.myhome.ie/residential/brochure/43a-the-garden-village-portlaoise-co-laois/5023935",
+    "https://www.myhome.ie/residential/brochure/42-beechwood-close-termon-abbey-drogheda-co-louth/5023933",
+    "https://www.myhome.ie/residential/brochure/ballyrub-ballinspittle-cork/5023925",
+    "https://www.myhome.ie/residential/brochure/apartment-78-la-rochelle-back-lane-dublin-8-co-dublin/5022131",
+    "https://www.myhome.ie/residential/brochure/16-villiers-road-rathgar-dublin-6/5023923",
+    "https://www.myhome.ie/residential/brochure/9-saint-joseph-street-off-north-circular-road-dublin-7/4994881",
+    "https://www.myhome.ie/residential/brochure/site-at-woodmount-cuilleen-ballinasloe-ballydangan-roscommon/5023918"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=301",
+  "paginationLimited": false
+}

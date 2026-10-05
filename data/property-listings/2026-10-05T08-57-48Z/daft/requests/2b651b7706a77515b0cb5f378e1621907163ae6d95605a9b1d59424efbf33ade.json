@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-gables-castle-avenue-silversprings-co-cork/6685885",
+  "fetchedAt": "2026-10-05T09:33:12.354Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-gables-castle-avenue-silversprings-co-cork/6685885",
+  "kind": "listing",
+  "responseSha256": "4c3b6428a90fdf85ecd606cc404723f1b802403e4d4b30311fdeefca770dded1",
+  "files": [
+    {
+      "path": "daft/01415-2b651b7706a77515-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a9b6365dd6b48c1954780a0ba76bdda4f7cdb42e6ebe74a222cc41dd01459739",
+      "bytes": 34934
+    },
+    {
+      "path": "daft/01415-2b651b7706a77515-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e31d7537eb02d891d857a54efe229016bb36db00606eb9b6402c55e8900bcca6",
+      "bytes": 8000
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

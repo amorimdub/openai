@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/main-street-ballycanew-gorey-co-wexford/6684073",
+  "fetchedAt": "2026-10-05T09:44:56.757Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/main-street-ballycanew-gorey-co-wexford/6684073",
+  "kind": "listing",
+  "responseSha256": "0fa873d3941f4189379332c27a7183adbc70895e1f3178d8753e612fb9835de1",
+  "files": [
+    {
+      "path": "daft/01884-ffc019c510c2eb7e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "559a14bc62358add0c75fc1279a3189475d8dd8aaa53c5a2c7d5f364720616ae",
+      "bytes": 10950
+    },
+    {
+      "path": "daft/01884-ffc019c510c2eb7e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "939b50b3a81353741db87a28105f77e53a2d019d8446266ce88009a49e95d138",
+      "bytes": 8039
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

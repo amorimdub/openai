@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=497",
+  "fetchedAt": "2026-10-05T14:30:38.510Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=497",
+  "kind": "search",
+  "responseSha256": "8e4ce83e1e82b38cbf7058af3ad444d8cb8b420ea26a33cbc4673f3217f38efa",
+  "files": [
+    {
+      "path": "myhome/10751-6ebd3a9e35996a9a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=497\"].SearchResults",
+      "sha256": "78496b812d2b2ec69973889ba693f1b62c06cbc66a10fa97914b0f7064cfdc2f",
+      "bytes": 131282
+    },
+    {
+      "path": "myhome/10751-6ebd3a9e35996a9a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=497\"] (paging fields)",
+      "sha256": "b5263b4049745dc557eb72707d65394a1b4949389339c0eacda60205935263e3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/98-rampart-view-virginia-cavan/5002777",
+    "https://www.myhome.ie/residential/brochure/assaly-cottage-assaly-little-killinick-wexford/5002753",
+    "https://www.myhome.ie/residential/brochure/apartment-26-pakenham-house-spencer-dock-ifsc-dublin-1/5002745",
+    "https://www.myhome.ie/residential/brochure/fallowfield-kitestown-road-howth-county-dublin/5002663",
+    "https://www.myhome.ie/residential/brochure/apartment-1-manor-villas-mount-argus-grove-dublin-6-dublin/5002720",
+    "https://www.myhome.ie/residential/brochure/main-street-liscarroll-mallow-co-cork/5002722",
+    "https://www.myhome.ie/residential/brochure/glenbrook-marlton-road-wicklow-town-co-wicklow/5002721",
+    "https://www.myhome.ie/residential/brochure/apt-98-station-house-macdonagh-junction-kilkenny-city-co-kilkenny/5002684",
+    "https://www.myhome.ie/residential/brochure/arden-shanakiel-sundays-well-cork-city/5002666",
+    "https://www.myhome.ie/residential/brochure/mulberry-ballyvarra-lisnagry-co-limerick/5002665",
+    "https://www.myhome.ie/residential/brochure/cullionbeg-mullingar-westmeath/5002654",
+    "https://www.myhome.ie/residential/brochure/killeen-borrisokane-nenagh-tipperary/5002650",
+    "https://www.myhome.ie/residential/brochure/knockbrown-bandon-co-cork-bandon-cork/5002576",
+    "https://www.myhome.ie/residential/brochure/ballyfad-gorey-county-wexford/5002614",
+    "https://www.myhome.ie/residential/brochure/19-the-gardens-gleann-na-ri-tower-co-cork/5002613",
+    "https://www.myhome.ie/residential/brochure/32-curragh-farm-newbridge-newbridge-co-kildare/5002607",
+    "https://www.myhome.ie/residential/brochure/2-lakeview-carrignafoy-cobh-cork/5002542",
+    "https://www.myhome.ie/residential/brochure/12-whitethorn-avenue-inniscarra-view-ballincollig-cork/5002541",
+    "https://www.myhome.ie/residential/brochure/tig-mhuire-kilcully-whites-cross-cork/5002543",
+    "https://www.myhome.ie/residential/brochure/o-mahony-avenue-bandon-cork/5002569"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=498",
+  "paginationLimited": false
+}

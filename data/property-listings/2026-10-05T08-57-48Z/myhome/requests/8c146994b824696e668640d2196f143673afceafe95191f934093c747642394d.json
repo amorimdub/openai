@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=16",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=16",
+  "fetchedAt": "2026-10-05T09:11:29.456Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "7c991973628a305acfaf7f27969595f61dda766cf22d4316bcb952654c8747ad",
+  "files": [
+    {
+      "path": "myhome/00547-8c146994b824696e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=16\"].SearchResults",
+      "sha256": "e5277f3e7effbf0c3742950d0a7851b0429458d97b4e27ead92fd56f682fd584",
+      "bytes": 114759
+    },
+    {
+      "path": "myhome/00547-8c146994b824696e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=16\"] (paging fields)",
+      "sha256": "a86b97711124060dcc63aab17b1ed2c98358f6508e5a7801fea758f1ae2fb093",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-windsor-park-monkstown-county-dublin/5028044",
+    "https://www.myhome.ie/residential/brochure/95-clearwater-cove-dun-laoghaire-co-dublin/5031971",
+    "https://www.myhome.ie/residential/brochure/16-river-view-abbeyfarm-celbridge-kildare/5031945",
+    "https://www.myhome.ie/residential/brochure/70-heather-view-tonaphubble-sligo/5027988",
+    "https://www.myhome.ie/residential/brochure/coolkirky-riverstick-cork/5031961",
+    "https://www.myhome.ie/residential/brochure/13-eaglewood-manor-erne-hill-belturbet-county-cavan/5031965",
+    "https://www.myhome.ie/residential/brochure/322-harold-s-cross-road-harold-s-cross-dublin-6w/4999013",
+    "https://www.myhome.ie/residential/brochure/53-the-waterfront-grand-canal-dk-dublin-2/5029367",
+    "https://www.myhome.ie/residential/brochure/35-strand-road-sandymount-dublin-4/5027964",
+    "https://www.myhome.ie/residential/brochure/45-glen-vale-ballyragget-kilkenny/5031954",
+    "https://www.myhome.ie/residential/brochure/benevenagh-killincarrick-road-the-burnaby-greystones-wicklow/5027113",
+    "https://www.myhome.ie/residential/brochure/the-old-school-house-kilbaha-moyvane-co-kerry/5031963",
+    "https://www.myhome.ie/residential/brochure/15-harbour-road-arklow-wicklow/4952606",
+    "https://www.myhome.ie/residential/brochure/8a-dun-ri-athenry-co-galway/5031962",
+    "https://www.myhome.ie/residential/brochure/19-winterfield-close-castle-court-whitechurch-co-cork/5031960",
+    "https://www.myhome.ie/residential/brochure/11-ardmore-drive-artane-dublin-5/5031948",
+    "https://www.myhome.ie/residential/brochure/22-the-rise-kingswood-heights-dublin-24-tallaght/5031956",
+    "https://www.myhome.ie/residential/brochure/26-glen-abhainn-park-enfield-co-meath/5031953",
+    "https://www.myhome.ie/residential/brochure/archerstown-delvin-mullingar-co-westmeath/5031952",
+    "https://www.myhome.ie/residential/brochure/no-5-the-willows-monkstown-valley-dublin/5031951"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=17",
+  "paginationLimited": false
+}

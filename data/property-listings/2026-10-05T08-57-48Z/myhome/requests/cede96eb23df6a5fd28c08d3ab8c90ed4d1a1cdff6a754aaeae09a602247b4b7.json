@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=45",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=45",
+  "fetchedAt": "2026-10-05T09:35:03.265Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "839f97a884a8e84d88addffced8650eaea56fb8b63d287ebec68c1067545303c",
+  "files": [
+    {
+      "path": "myhome/01484-cede96eb23df6a5f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=45\"].SearchResults",
+      "sha256": "5fb69acc3ad1954f1defb31452f4e95be98f06e5a9501ced09b4990356fc8026",
+      "bytes": 125356
+    },
+    {
+      "path": "myhome/01484-cede96eb23df6a5f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=45\"] (paging fields)",
+      "sha256": "1d78fd2497ed7dfd2131a2b516dffab19bafeec617cf2bce161b3778cf8f86f9",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/mount-vista-creaghduff-coosan-athlone-westmeath/5031498",
+    "https://www.myhome.ie/residential/brochure/7-westwinds-kilrane-rosslare-harbour-co-wexford/5031497",
+    "https://www.myhome.ie/residential/brochure/coolishall-upper-gorey-co-wexford/5031493",
+    "https://www.myhome.ie/residential/brochure/139-shantalla-road-beaumont-dublin-9/5030486",
+    "https://www.myhome.ie/residential/brochure/101-st-brendan-s-crescent-greenhills-dublin-12/5031492",
+    "https://www.myhome.ie/residential/brochure/d16-the-garden-apartments-john-devoy-road-naas-county-kildare/5031489",
+    "https://www.myhome.ie/residential/brochure/glebe-claregalway-county-galway/5031488",
+    "https://www.myhome.ie/residential/brochure/9a-ivy-grove-collooney-sligo/5031486",
+    "https://www.myhome.ie/residential/brochure/9-church-gardens-rathmines-dublin-6/5018655",
+    "https://www.myhome.ie/residential/brochure/29-leinster-square-rathmines-dublin-6/5028652",
+    "https://www.myhome.ie/residential/brochure/9-castlewood-terrace-rathmines-dublin-6/5028706",
+    "https://www.myhome.ie/residential/brochure/1-connons-grove-drumsloe-drummully-clones-monaghan/5031434",
+    "https://www.myhome.ie/residential/brochure/32-saint-marys-terrace-hennessys-road-waterford-city-waterford/5031483",
+    "https://www.myhome.ie/residential/brochure/bohalas-ballaghaderreen-co-roscommon/5031485",
+    "https://www.myhome.ie/residential/brochure/75-the-cotswolds-castleredmond-midleton-cork/5031471",
+    "https://www.myhome.ie/residential/brochure/31-rowan-hall-millbrook-court-milltown-dublin-6/5031484",
+    "https://www.myhome.ie/residential/brochure/5-glendale-delgany-co-wicklow/5003046",
+    "https://www.myhome.ie/residential/brochure/4-fairfield-greystones-co-wicklow/5018364",
+    "https://www.myhome.ie/residential/brochure/papion-erskine-avenue-the-burnaby-greystones-co-wicklow/5000500",
+    "https://www.myhome.ie/residential/brochure/glenties-church-lane-greystones-co-wicklow/4963291"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=46",
+  "paginationLimited": false
+}

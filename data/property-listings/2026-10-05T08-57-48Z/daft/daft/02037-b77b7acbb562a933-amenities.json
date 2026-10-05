@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST PETERS SPECIAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310867",
+        "lon": "-6.269135"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S NATIONAL SCHOOL CLONSKEAGH",
+      "numPupils": 192,
+      "distance": {
+        "value": 0.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301624",
+        "lon": "-6.249926"
+      }
+    },
+    {
+      "schoolName": "ZION PARISH PRIMARY SCHOOL",
+      "numPupils": 97,
+      "distance": {
+        "value": 0.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.307957",
+        "lon": "-6.274678"
+      }
+    },
+    {
+      "schoolName": "STRATFORD NATIONAL SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 1.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309647",
+        "lon": "-6.274854"
+      }
+    },
+    {
+      "schoolName": "GOOD SHEPHERD NATIONAL SCHOOL",
+      "numPupils": 213,
+      "distance": {
+        "value": 1.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.293644",
+        "lon": "-6.269474"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL NA FUINSEOIGE",
+      "numPupils": 426,
+      "distance": {
+        "value": 1.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.293510",
+        "lon": "-6.252423"
+      }
+    },
+    {
+      "schoolName": "RATHGAR NATIONAL SCHOOL",
+      "numPupils": 94,
+      "distance": {
+        "value": 1.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314068",
+        "lon": "-6.275435"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S TERENURE",
+      "numPupils": 379,
+      "distance": {
+        "value": 1.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309660",
+        "lon": "-6.282048"
+      }
+    },
+    {
+      "schoolName": "RATHFARNHAM EDUCATE TOGETHER",
+      "numPupils": 205,
+      "distance": {
+        "value": 1.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.291843",
+        "lon": "-6.274620"
+      }
+    },
+    {
+      "schoolName": "KILDARE PLACE NATIONAL SCHOOL",
+      "numPupils": 191,
+      "distance": {
+        "value": 1.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318540",
+        "lon": "-6.263615"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "THE HIGH SCHOOL",
+      "numPupils": 824,
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.305786",
+        "lon": "-6.273279"
+      }
+    },
+    {
+      "schoolName": "DE LA SALLE COLLEGE CHURCHTOWN",
+      "numPupils": 417,
+      "distance": {
+        "value": 0.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.296696",
+        "lon": "-6.263399"
+      }
+    },
+    {
+      "schoolName": "STRATFORD COLLEGE",
+      "numPupils": 191,
+      "distance": {
+        "value": 1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309700",
+        "lon": "-6.274313"
+      }
+    },
+    {
+      "schoolName": "ALEXANDRA COLLEGE",
+      "numPupils": 666,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310493",
+        "lon": "-6.250001"
+      }
+    },
+    {
+      "schoolName": "GOATSTOWN EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 304,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.293740",
+        "lon": "-6.251396"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE AN PHIARSAIGH",
+      "numPupils": 304,
+      "distance": {
+        "value": 1.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292683",
+        "lon": "-6.278515"
+      }
+    },
+    {
+      "schoolName": "GONZAGA COLLEGE SJ",
+      "numPupils": 573,
+      "distance": {
+        "value": 1.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316814",
+        "lon": "-6.249398"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COMMUNITY COLLEGE",
+      "numPupils": 458,
+      "distance": {
+        "value": 1.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310963",
+        "lon": "-6.286842"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S GROVE SECONDARY SCHOOL",
+      "numPupils": 312,
+      "distance": {
+        "value": 1.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.300720",
+        "lon": "-6.235050"
+      }
+    },
+    {
+      "schoolName": "LORETO HIGH SCHOOL, BEAUFORT",
+      "numPupils": 645,
+      "distance": {
+        "value": 1.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292416",
+        "lon": "-6.283773"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Mt Carmel Hospl",
+      "route": "14",
+      "destination": "Eden Quay",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304492",
+        "lon": "-6.263846"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Braemore Drive",
+      "route": "14",
+      "destination": "Dundrum Luas",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301317",
+        "lon": "-6.26432"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Milltown Drive",
+      "route": "14",
+      "destination": "Eden Quay",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.300766",
+        "lon": "-6.263472"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Orwell Gardens",
+      "route": "14",
+      "destination": "Dundrum Luas",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.306214",
+        "lon": "-6.267272"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "South Hill",
+      "route": "142",
+      "destination": "Coast Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.308572",
+        "lon": "-6.258863"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dartry Road",
+      "route": "511",
+      "destination": "Orwell Park",
+      "provider": "Joe Moroney Coach Hire Ltd",
+      "distance": {
+        "value": 0.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309106",
+        "lon": "-6.260327"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dartry Road",
+      "route": "142",
+      "destination": "UCD",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309106",
+        "lon": "-6.260327"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "South Hill",
+      "route": "S4",
+      "destination": "UCD Belfield",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.308738",
+        "lon": "-6.257911"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dartry Road",
+      "route": "S4",
+      "destination": "Liffey Valley SC",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309429",
+        "lon": "-6.260929"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Landscape Gdns",
+      "route": "14",
+      "destination": "Dundrum Luas",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.298526",
+        "lon": "-6.259662"
+      }
+    }
+  ]
+}

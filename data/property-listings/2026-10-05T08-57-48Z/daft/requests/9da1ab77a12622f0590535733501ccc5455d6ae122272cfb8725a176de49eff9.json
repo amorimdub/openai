@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-period-apartment-occu-verville-vernon-avenue-clontarf-co-dublin/6663601",
+  "fetchedAt": "2026-10-05T09:10:01.449Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-period-apartment-occu-verville-vernon-avenue-clontarf-co-dublin/6663601",
+  "kind": "listing",
+  "responseSha256": "8ff855079e774050e69eeb41bba1781e35fa09db3cf12eb315c27ce37b13adc6",
+  "files": [
+    {
+      "path": "daft/00489-9da1ab77a12622f0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b0818da800ffb2ab9d2566d472161fab1e8cc0f689d9a62dc8703d4ea6201249",
+      "bytes": 24277
+    },
+    {
+      "path": "daft/00489-9da1ab77a12622f0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9aa9d8ca46f6b34cb50ca49cb6cc431036fbad1e229c04bb94c7b4e271b9c91f",
+      "bytes": 8084
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

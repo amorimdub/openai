@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-atlantic-way-ardfield-co-cork/5877632",
+  "fetchedAt": "2026-10-05T09:15:58.972Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-atlantic-way-ardfield-co-cork/5877632",
+  "kind": "listing",
+  "responseSha256": "f55658ce8a6199f52a2a67af73ba5411f102374d9f34170f6027ccb398e85d19",
+  "files": [
+    {
+      "path": "daft/00727-39e79f736250c968-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4649b0bf0fc36a8c553cb79784f17f2dc32cc1fd108ea17dd8990ac6bc2a5aef",
+      "bytes": 67503
+    },
+    {
+      "path": "daft/00727-39e79f736250c968-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c05ddd2f5719e0e9a8e579142c7690f6f785e3b79f33a37983b7264eb548e958",
+      "bytes": 8152
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

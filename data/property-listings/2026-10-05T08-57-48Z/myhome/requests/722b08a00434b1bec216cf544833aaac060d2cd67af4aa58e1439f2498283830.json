@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=345",
+  "fetchedAt": "2026-10-05T13:12:22.263Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=345",
+  "kind": "search",
+  "responseSha256": "e1b751c7ede2414c97b413bd81d9544d03600959892c80285ce915d379f96300",
+  "files": [
+    {
+      "path": "myhome/07627-722b08a00434b1be-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=345\"].SearchResults",
+      "sha256": "549a26d30724c5f6a40745586a9dd1e1155aec41728c30bbc7ba92af5acc3128",
+      "bytes": 120122
+    },
+    {
+      "path": "myhome/07627-722b08a00434b1be-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=345\"] (paging fields)",
+      "sha256": "2bdb5eaa1d75abaf4e986d4dd38bf121140f0e1dc88b7f48a750da0250dee48b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/21-newlands-mullingar-westmeath/5021058",
+    "https://www.myhome.ie/residential/brochure/81creighan-manor-ballinagh-road-cavan-cavan-cavan/5021062",
+    "https://www.myhome.ie/residential/brochure/rahanine-rochfortbridge-mullingar-co-westmeath/5021066",
+    "https://www.myhome.ie/residential/brochure/7-sharon-avenue-browneshill-road-carlow-co-carlow/5021064",
+    "https://www.myhome.ie/residential/brochure/castlebar-road-ballinrobe-county-mayo/5021061",
+    "https://www.myhome.ie/residential/brochure/2-summer-court-dunboyne-meath/5020999",
+    "https://www.myhome.ie/residential/brochure/21-nova-court-ballea-road-carrigaline-cork/5017182",
+    "https://www.myhome.ie/residential/brochure/apartment-88-block-b-ras-na-cluaine-clondalkin-dublin/5021052",
+    "https://www.myhome.ie/residential/brochure/278-new-orchard-kilkenny-kilkenny/5021044",
+    "https://www.myhome.ie/residential/brochure/5-the-shambles-allen-square-bandon-co-cork-bandon-cork/5013651",
+    "https://www.myhome.ie/residential/brochure/36-tuskar-courtyard-marina-village-arklow-co-wicklow/5021050",
+    "https://www.myhome.ie/residential/brochure/93-abbey-court-limerick-road-ennis-co-clare/5021049",
+    "https://www.myhome.ie/residential/brochure/74-clybaun-heights-knocknacarra-galway-county-galway/5021046",
+    "https://www.myhome.ie/residential/brochure/mills-of-louth-louth-louth/5019874",
+    "https://www.myhome.ie/residential/brochure/9-abbey-lane-carrigaline-cork/5011278",
+    "https://www.myhome.ie/residential/brochure/apartment-53-block-c-thornfield-square-clondalkin-dublin/5021032",
+    "https://www.myhome.ie/residential/brochure/32-the-cedars-avourwen-drogheda-meath/5020968",
+    "https://www.myhome.ie/residential/brochure/patrick-street-ballyragget-co-kilkenny-ballyragget-kilkenny/5021033",
+    "https://www.myhome.ie/residential/brochure/brownswood-portlaw-waterford/5018689",
+    "https://www.myhome.ie/residential/brochure/50-ballyowen-hall-lucan-co-dublin/5021028"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=346",
+  "paginationLimited": false
+}

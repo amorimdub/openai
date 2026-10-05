@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=114",
+  "fetchedAt": "2026-10-05T11:12:27.942Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=114",
+  "kind": "search",
+  "responseSha256": "a2fbe17b5a025f5aa3611e84bf25a78a5db370cecacee1049521f236dcf4aef7",
+  "files": [
+    {
+      "path": "myhome/02865-bcc603cb73664ccf-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=114\"].SearchResults",
+      "sha256": "9cd42f9ca5f1ae4bc74c841c243d5cf9f7b245a9a37c0132f5c96d3ae3c3d217",
+      "bytes": 113407
+    },
+    {
+      "path": "myhome/02865-bcc603cb73664ccf-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=114\"] (paging fields)",
+      "sha256": "7a6dd8b10504cf9b8fa028c11c8e5d87e29bb5c17743cd85b3cf5984509574ae",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/61-grangeview-place-clondalkin-dublin-22/5029957",
+    "https://www.myhome.ie/residential/brochure/16-rosedale-inchicore-dublin-8-co-dublin/5029956",
+    "https://www.myhome.ie/residential/brochure/moygrehan-athboy-meath/5029785",
+    "https://www.myhome.ie/residential/brochure/2-windtown-park-rathowen-co-westmeath/5029952",
+    "https://www.myhome.ie/residential/brochure/4-newtown-square-blessington-wicklow/5029946",
+    "https://www.myhome.ie/residential/brochure/8-hyde-house-clonfadda-wood-mount-merrion-avenue-blackrock-co-dublin/5029951",
+    "https://www.myhome.ie/residential/brochure/36-clybaun-heights-shangort-road-knocknacarra-galway-city/5029950",
+    "https://www.myhome.ie/residential/brochure/52-glasnevin-hill-glasnevin-dublin-9/5029945",
+    "https://www.myhome.ie/residential/brochure/1-mcauley-park-artane-dublin-5/5019187",
+    "https://www.myhome.ie/residential/brochure/east-lodge-ardleigh-two-mile-borris-thurles-co-tipperary/5029942",
+    "https://www.myhome.ie/residential/brochure/134-clanranold-road-donnycarney-dublin-5/4979564",
+    "https://www.myhome.ie/residential/brochure/9-whitebridge-manor-killarney-kerry/5004881",
+    "https://www.myhome.ie/residential/brochure/slieve-league-house-croaghlin-teelin-co-donegal/5029937",
+    "https://www.myhome.ie/residential/brochure/corragh-bunclody-co-wexford/5029934",
+    "https://www.myhome.ie/residential/brochure/22-town-court-shannon-clare/5029933",
+    "https://www.myhome.ie/residential/brochure/12-coppinger-walk-blackrock-co-dublin/5015617",
+    "https://www.myhome.ie/residential/brochure/2-longmeadow-islandbridge-dublin-8-co-dublin/5029932",
+    "https://www.myhome.ie/residential/brochure/38-oakwood-avenue-swords-dublin/5029924",
+    "https://www.myhome.ie/residential/brochure/145-hazelbury-park-clonee-dublin-15/5029931",
+    "https://www.myhome.ie/residential/brochure/17-granby-hall-granby-row-dublin-1/5029930"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=115",
+  "paginationLimited": false
+}

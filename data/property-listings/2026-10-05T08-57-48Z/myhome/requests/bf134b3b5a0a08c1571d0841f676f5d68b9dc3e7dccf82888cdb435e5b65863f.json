@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=348",
+  "fetchedAt": "2026-10-05T13:13:56.960Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=348",
+  "kind": "search",
+  "responseSha256": "688910401b2c33cede9201efa94d2596e3284f17bac9ec82e6b79209a390895b",
+  "files": [
+    {
+      "path": "myhome/07690-bf134b3b5a0a08c1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=348\"].SearchResults",
+      "sha256": "39db0cc03486496f3caa2d2c143cd714eaa42fa4e8d4fa0720821e0941862f58",
+      "bytes": 130375
+    },
+    {
+      "path": "myhome/07690-bf134b3b5a0a08c1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=348\"] (paging fields)",
+      "sha256": "06bdff05c2fa0f5e368e2c4149eb6c5df9d92320bffe1de11eddcbef0313bfaa",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/46-kilkeevan-park-castlerea-roscommon/4822351",
+    "https://www.myhome.ie/residential/brochure/66-kingswood-blackrock-road-dundalk-co-louth/5019869",
+    "https://www.myhome.ie/residential/brochure/main-street-limerick-county-limerick/5019868",
+    "https://www.myhome.ie/residential/brochure/ervallagh-roundstone-connemara-co-galway/5019858",
+    "https://www.myhome.ie/residential/brochure/44-glenpark-road-palmerstown-dublin-20/5017724",
+    "https://www.myhome.ie/residential/brochure/the-anchorage-summercove-kinsale-co-cork/5019857",
+    "https://www.myhome.ie/residential/brochure/carrowduff-lahinch-clare/5019819",
+    "https://www.myhome.ie/residential/brochure/25-caddell-the-links-portmarnock-county-dublin/5019802",
+    "https://www.myhome.ie/residential/brochure/12-skelligs-court-waterville-dublin-15/5019839",
+    "https://www.myhome.ie/residential/brochure/12-sallynoggin-villas-glenageary-road-upper-glenageary-county-dublin/5019834",
+    "https://www.myhome.ie/residential/brochure/31-oakcourt-park-palmerstown-dublin-20/5019823",
+    "https://www.myhome.ie/residential/brochure/141-wheatfield-road-palmerstown-dublin-20/5019833",
+    "https://www.myhome.ie/residential/brochure/killerduff-ballycastle-co-mayo/5019832",
+    "https://www.myhome.ie/residential/brochure/34-coolagary-walsh-island-geashill-co-offaly/5019831",
+    "https://www.myhome.ie/residential/brochure/154-manor-court-western-distributor-road-galway/5019824",
+    "https://www.myhome.ie/residential/brochure/gurtnageara-doon-limerick/5018756",
+    "https://www.myhome.ie/residential/brochure/rathmore-baltimore-cork/5019778",
+    "https://www.myhome.ie/residential/brochure/rahyvira-annacarty-donohill-tipperary/5019628",
+    "https://www.myhome.ie/residential/brochure/81-embassy-manor-kill-co-kildare/5019817",
+    "https://www.myhome.ie/residential/brochure/blackditch-newcastle-co-wicklow/5019815"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=349",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/65-cartron-drive-athlone-co-westmeath/6685549",
+  "fetchedAt": "2026-10-05T09:35:39.512Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/65-cartron-drive-athlone-co-westmeath/6685549",
+  "kind": "listing",
+  "responseSha256": "c2d6eb6499276875beb9bba17f7d8a630db5f9d462748c57c9c1e74b019f6c2b",
+  "files": [
+    {
+      "path": "daft/01513-6b08043e7e6bbdce-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e99a3dda5586f27bcb1bdaa4ad4ea7eb5f5cf9267181456f8adb64a45189f715",
+      "bytes": 50662
+    },
+    {
+      "path": "daft/01513-6b08043e7e6bbdce-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "781aade219b73f88ba75239cc084f17aebb1280046ab82dd571613a1d1417092",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

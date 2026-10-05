@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=229",
+  "fetchedAt": "2026-10-05T12:12:34.460Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=229",
+  "kind": "search",
+  "responseSha256": "a5736b0947e4692ff90c448a5a30d8b077772fb62b8a80eadf45c6acccff411d",
+  "files": [
+    {
+      "path": "myhome/05245-914bb5a73e3e86bc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=229\"].SearchResults",
+      "sha256": "d1d1b1db771544f141f18429eb2790765f346f970c1fc4ef521b0d1529a67c0e",
+      "bytes": 107413
+    },
+    {
+      "path": "myhome/05245-914bb5a73e3e86bc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=229\"] (paging fields)",
+      "sha256": "fdbd8639383ba86cfb1a3714b4a871f19f3a8e470c03eeb27b95d3fd68417869",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/36-maugheraboy-estate-co-sligo-sligo-sligo/5026798",
+    "https://www.myhome.ie/residential/brochure/19-the-laurels-tullow-road-carlow-county-carlow/5026807",
+    "https://www.myhome.ie/residential/brochure/the-orchard-killarney-lane-bray-co-wicklow/5026806",
+    "https://www.myhome.ie/residential/brochure/74-rowlagh-avenue-clondalkin-dublin-22/5026799",
+    "https://www.myhome.ie/residential/brochure/drumsheeney-threemilehouse-co-monaghan/5026801",
+    "https://www.myhome.ie/residential/brochure/89-bishopswater-wexford-town-wexford/5026793",
+    "https://www.myhome.ie/residential/brochure/403-spicers-mill-drogheda-street-balbriggan-co-dublin/5026797",
+    "https://www.myhome.ie/residential/brochure/7-glenalua-heights-killiney-co-dublin/5008066",
+    "https://www.myhome.ie/residential/brochure/iceford-ballina-co-mayo/5026795",
+    "https://www.myhome.ie/residential/brochure/main-street-ardagh-county-limerick/5026794",
+    "https://www.myhome.ie/residential/brochure/166-rathborne-court-ashtown-dublin-15/5017098",
+    "https://www.myhome.ie/residential/brochure/1-west-terrace-parnell-park-dundalk-co-louth/5026792",
+    "https://www.myhome.ie/residential/brochure/13-highfield-avenue-ballincollig-cork/5026790",
+    "https://www.myhome.ie/residential/brochure/momoney-inniskeen-carrickmacross-co-monaghan/5026789",
+    "https://www.myhome.ie/residential/brochure/apartment-23-wolsey-house-kinsealy-county-dublin/5026548",
+    "https://www.myhome.ie/residential/brochure/castlerickard-longwood-co-meath/5026784",
+    "https://www.myhome.ie/residential/brochure/fort-view-drumlark-cavan-cavan/5026771",
+    "https://www.myhome.ie/residential/brochure/fort-view-drumlark-cavan-cavan/5026748",
+    "https://www.myhome.ie/residential/brochure/fort-view-drumlark-cavan-cavan/5026735",
+    "https://www.myhome.ie/residential/brochure/fort-view-drumlark-cavan-cavan/5026714"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=230",
+  "paginationLimited": false
+}

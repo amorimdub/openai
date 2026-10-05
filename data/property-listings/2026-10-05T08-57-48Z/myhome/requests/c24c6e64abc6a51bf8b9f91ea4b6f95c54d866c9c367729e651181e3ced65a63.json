@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=7",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=7",
+  "fetchedAt": "2026-10-05T09:02:41.017Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "0d8f2da1c6bfba3ccdf96c10a431b76dafe4448107efecfcf7ef30c6eb2c9b11",
+  "files": [
+    {
+      "path": "myhome/00196-c24c6e64abc6a51b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=7\"].SearchResults",
+      "sha256": "e74d9480d39f4360bdb0feaf2157fcbb6e393e534ef4dcf87913e6c92e1ab4dd",
+      "bytes": 86170
+    },
+    {
+      "path": "myhome/00196-c24c6e64abc6a51b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=7\"] (paging fields)",
+      "sha256": "4819cbbcad0f803c9dced080723d4093a42273336a037ec1c96c52000f0cbd63",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/86-tur-uisce-doughiska-galway/5031550",
+    "https://www.myhome.ie/rentals/brochure/16-knocklyon-gate-dublin-16/5031543",
+    "https://www.myhome.ie/rentals/brochure/300-saint-james-s-road-dublin-12-dublin/5031017",
+    "https://www.myhome.ie/rentals/brochure/13-irish-street-bunclody-co-wexford/5031511",
+    "https://www.myhome.ie/rentals/brochure/103-beechdale-court-ballycullen-dublin-24/5031499",
+    "https://www.myhome.ie/rentals/brochure/deerpark-square-tallaght-dublin-24/5031474",
+    "https://www.myhome.ie/rentals/brochure/kiltipper-gate-kiltipper-dublin-24/5031469",
+    "https://www.myhome.ie/rentals/brochure/barons-hall-park-balbriggan-co-dublin/5031459",
+    "https://www.myhome.ie/rentals/brochure/ely-hall-hazelbrook-square-whitehall-road-churchtown-dublin-14/5031451",
+    "https://www.myhome.ie/rentals/brochure/eaton-close-rathcoole-co-dublin/5031450",
+    "https://www.myhome.ie/rentals/brochure/1-stephen-s-court-new-ross-wexford/5031449",
+    "https://www.myhome.ie/rentals/brochure/berwick-hall-churchtown-dublin-14/5031447",
+    "https://www.myhome.ie/rentals/brochure/hanover-dock-hanover-quay-grand-canal-dk-dublin-2/5031220",
+    "https://www.myhome.ie/rentals/brochure/78-rivermill-view-navan-meath/5031441",
+    "https://www.myhome.ie/rentals/brochure/8-church-walk-bastion-court-athlone-county-westmeath/5031439",
+    "https://www.myhome.ie/rentals/brochure/83-academy-square-navan-meath/5031432",
+    "https://www.myhome.ie/rentals/brochure/35-new-street-south-portobello-dublin-8/5031405",
+    "https://www.myhome.ie/rentals/brochure/20-the-ash-carysfort-hall-blackrock-county-dublin/4460778",
+    "https://www.myhome.ie/rentals/brochure/26-stewarts-court-lennon-grove-ramelton-county-donegal/5031394",
+    "https://www.myhome.ie/rentals/brochure/the-brazen-city-gate-dublin-8/5031393"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=8",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sorrento-road-dalkey-co-dublin/6670256",
+  "fetchedAt": "2026-10-05T09:20:51.778Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sorrento-road-dalkey-co-dublin/6670256",
+  "kind": "listing",
+  "responseSha256": "800cc0715f7d8e770c90a3da9ee555cc6bb0c9caeb7a7dd57a8d9ee2f30b5e81",
+  "files": [
+    {
+      "path": "daft/00922-1ea265dc17ba4d65-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "83148fc6a3844f05b70f34f7e790604c0ba44efc4b04a6d3324e2ccfc6908c27",
+      "bytes": 33892
+    },
+    {
+      "path": "daft/00922-1ea265dc17ba4d65-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0eb290370972bd67780634f02663d8fe11e8d29a9a1b55cc8c27b419eaadbabb",
+      "bytes": 8104
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

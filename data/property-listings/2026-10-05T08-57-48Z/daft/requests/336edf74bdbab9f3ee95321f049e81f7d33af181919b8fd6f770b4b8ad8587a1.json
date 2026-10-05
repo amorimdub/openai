@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/citywest-quarter-citywest-citywest-co-dublin/4269716",
+  "fetchedAt": "2026-10-05T09:06:59.745Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/citywest-quarter-citywest-citywest-co-dublin/4269716",
+  "kind": "listing",
+  "responseSha256": "367c483f92f0c3270c7bc2552e10a4cc284c37308cf4dc8aba64a0d24a9ad27b",
+  "files": [
+    {
+      "path": "daft/00368-336edf74bdbab9f3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a94453f2e58adbd6f057efef912b52bcc25672b3edc2ef82b440db72a49f1ff0",
+      "bytes": 202642
+    },
+    {
+      "path": "daft/00368-336edf74bdbab9f3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "df0009faca1844ce8a17eda90e5b96deb386065b0690d5b1049fbf4b62b0b888",
+      "bytes": 8017
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/three-bed-18-newmarket-square-dublin-city-centre-dublin-8/6312238",
+  "fetchedAt": "2026-10-05T08:59:31.797Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/three-bed-18-newmarket-square-dublin-city-centre-dublin-8/6312238",
+  "kind": "listing",
+  "responseSha256": "e11b70d732c7965e16596ee932191f3fbe1752daf02088dc2df599492c8a8897",
+  "files": [
+    {
+      "path": "daft/00070-21af29b7cb0cb521-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b04f344e6b666728c38460382766a10eb4fa7ec23492fe0be15f49420d4a796f",
+      "bytes": 48742
+    },
+    {
+      "path": "daft/00070-21af29b7cb0cb521-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f77914467ee77f37e5847ec28e3e8e2740c2c8393a4679145519add2eb281e2d",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

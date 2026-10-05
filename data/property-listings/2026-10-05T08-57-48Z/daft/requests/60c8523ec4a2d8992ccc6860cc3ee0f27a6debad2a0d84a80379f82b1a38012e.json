@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-8-85-north-circular-road-north-circular-road-dublin-7/6682055",
+  "fetchedAt": "2026-10-05T09:43:37.139Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-8-85-north-circular-road-north-circular-road-dublin-7/6682055",
+  "kind": "listing",
+  "responseSha256": "12c4bec5d40f84b2412bdb1ffd3a9bedbeedd1dba6346d0f1d2deea180bff175",
+  "files": [
+    {
+      "path": "daft/01831-60c8523ec4a2d899-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bf3749ad5f1545bd74073e52ff8f1643a111f6904d0dfad1ae965c0342e5af49",
+      "bytes": 21455
+    },
+    {
+      "path": "daft/01831-60c8523ec4a2d899-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0924bca870968bff05cd6d8d427215d1a661617be048ea3d99207c10cef4de77",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

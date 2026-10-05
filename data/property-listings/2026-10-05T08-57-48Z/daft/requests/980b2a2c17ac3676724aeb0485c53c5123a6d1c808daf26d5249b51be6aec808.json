@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/langfield-close-dublin-road-dundalk-co-louth/6682723",
+  "fetchedAt": "2026-10-05T09:53:09.550Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/langfield-close-dublin-road-dundalk-co-louth/6682723",
+  "kind": "listing",
+  "responseSha256": "d010e5c481dd1138b5d86ae740cdf4da4dc2f2a8a5c9ba2a74d8408a7fb3af06",
+  "files": [
+    {
+      "path": "daft/02212-980b2a2c17ac3676-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "099547d156e436f843bb077cc2402dfddd6f47f5f129df447c8d268e8aecd1bf",
+      "bytes": 9112
+    },
+    {
+      "path": "daft/02212-980b2a2c17ac3676-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a84728624b6bbbceba936eaa07dbce7bf051098ffef12ac1d18e31eb21b32551",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

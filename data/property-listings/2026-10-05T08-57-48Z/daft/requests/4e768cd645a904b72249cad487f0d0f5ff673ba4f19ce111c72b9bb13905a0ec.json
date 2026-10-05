@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/douglas-street-cork-city-centre-co-cork/6684042",
+  "fetchedAt": "2026-10-05T09:45:35.822Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/douglas-street-cork-city-centre-co-cork/6684042",
+  "kind": "listing",
+  "responseSha256": "503505e0949568f2a3f4b9325d6068f42f4df01b5eb4a577f41459d59abfb052",
+  "files": [
+    {
+      "path": "daft/01910-4e768cd645a904b7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "298216fbc05df363d739f33dcf5bda8854d58ddd443b916f32da37a8e179e491",
+      "bytes": 22399
+    },
+    {
+      "path": "daft/01910-4e768cd645a904b7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ca29eff9957e515efdfd83b5716617bd8a8b3c450f8dc43215fc8e8463d7d151",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

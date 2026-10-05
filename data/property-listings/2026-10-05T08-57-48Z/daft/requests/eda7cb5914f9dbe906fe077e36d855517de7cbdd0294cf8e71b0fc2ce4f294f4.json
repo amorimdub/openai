@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/college-park-terenure-dublin-6w/6686474",
+  "fetchedAt": "2026-10-05T09:28:57.039Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/college-park-terenure-dublin-6w/6686474",
+  "kind": "listing",
+  "responseSha256": "02a73c54930cdf2f2cf46e1a7d3d2227b5a91ff324a57bf4029583fc0075fd3c",
+  "files": [
+    {
+      "path": "daft/01245-eda7cb5914f9dbe9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "665bac18903ad01d1de7f50a5fcee37358d9a030772a904b5d4764fe6eb2abda",
+      "bytes": 57824
+    },
+    {
+      "path": "daft/01245-eda7cb5914f9dbe9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5cdb131fe2217977744942d7473ce8a3fe68107a27a55bb81db0c90facf6c1c9",
+      "bytes": 8046
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

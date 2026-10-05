@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=253",
+  "fetchedAt": "2026-10-05T12:25:09.085Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=253",
+  "kind": "search",
+  "responseSha256": "4767cbf90acb93567f39686da869f40e691a3f29a6ce32e17d40c3fbbfe46ff4",
+  "files": [
+    {
+      "path": "myhome/05747-6bcf75318f6d8f08-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=253\"].SearchResults",
+      "sha256": "ff42216c6973995a242f683f86d9d219efa75012e6d125dbcd773ca87f727e7f",
+      "bytes": 115724
+    },
+    {
+      "path": "myhome/05747-6bcf75318f6d8f08-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=253\"] (paging fields)",
+      "sha256": "f3645f1dc5504fdf1a11679edce8167ec2c2f155c74c15b541e9c564dd48a25f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/33-ocean-wave-salthill-galway-county-galway/5025986",
+    "https://www.myhome.ie/residential/brochure/2-the-mill-race-macswiney-quay-bandon-cork/5025981",
+    "https://www.myhome.ie/residential/brochure/72a-renville-village-oranmore-co-galway/5025982",
+    "https://www.myhome.ie/residential/brochure/31-the-woodlands-castletown-celbridge-kildare/5025977",
+    "https://www.myhome.ie/residential/brochure/vernegly-bannow-co-wexford/4981964",
+    "https://www.myhome.ie/residential/brochure/newtown-house-wellingtonbridge-co-wexford/4943721",
+    "https://www.myhome.ie/residential/brochure/3-hoey-court-clongriffin-dublin-13/5025954",
+    "https://www.myhome.ie/residential/brochure/8-north-abbey-square-north-mall-cork/5025970",
+    "https://www.myhome.ie/residential/brochure/stone-ruins-on-c-4-1-acres-barrack-road-glencullen-dublin/4987596",
+    "https://www.myhome.ie/residential/brochure/20-the-tramway-main-street-blessington-wicklow/5025968",
+    "https://www.myhome.ie/residential/brochure/residence-on-c-0-81-acre-ballyknockan-blessington-wicklow/4995889",
+    "https://www.myhome.ie/residential/brochure/grattan-park-shackleton-road-celbridge-co-kildare-3-bedroom-semi-detached/4912506",
+    "https://www.myhome.ie/residential/brochure/5-coral-the-grange-brewery-road-stillorgan/5010003",
+    "https://www.myhome.ie/residential/brochure/12-the-belfry-duleek-co-meath/5025952",
+    "https://www.myhome.ie/residential/brochure/arderawinny-schull-west-cork/5025647",
+    "https://www.myhome.ie/residential/brochure/25-kilmore-close-artane-dublin-5/5025947",
+    "https://www.myhome.ie/residential/brochure/apartment-15-stone-park-crescent-glenties-donegal/5024782",
+    "https://www.myhome.ie/residential/brochure/33-philips-vale-daingean-offaly/5017194",
+    "https://www.myhome.ie/residential/brochure/sea-house-harbour-view-kilbrittain-west-cork/4948593",
+    "https://www.myhome.ie/residential/brochure/moonrock-coast-road-fountainstown-cork/4666594"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=254",
+  "paginationLimited": false
+}

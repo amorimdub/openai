@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-3-capella-court-langton-road-newbridge-co-kildare/6627687",
+  "fetchedAt": "2026-10-05T09:49:22.705Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-3-capella-court-langton-road-newbridge-co-kildare/6627687",
+  "kind": "listing",
+  "responseSha256": "66fce95260bd2b7456f5eccecadc0daa6f84820f819ab56ef27d1042e6133309",
+  "files": [
+    {
+      "path": "daft/02061-aa073e6fd0829c0c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0b9447f5c0d4092cce47664e43967cd265ec5d7e21cf9e22bd6a5ed1ad1d687d",
+      "bytes": 72484
+    },
+    {
+      "path": "daft/02061-aa073e6fd0829c0c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b24af3000976c959e186e6aac2de6dc8c33d2c8eb29a7891854578d80b8274f6",
+      "bytes": 8273
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

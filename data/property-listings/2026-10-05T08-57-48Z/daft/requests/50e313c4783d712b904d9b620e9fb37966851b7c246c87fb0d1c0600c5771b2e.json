@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/53a-marguerite-road-glasnevin-dublin-9/6683502",
+  "fetchedAt": "2026-10-05T09:05:47.666Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/53a-marguerite-road-glasnevin-dublin-9/6683502",
+  "kind": "listing",
+  "responseSha256": "f9d171e28f2567aaeab8dff0b0d401449a734858e98c6554b78deef89460e104",
+  "files": [
+    {
+      "path": "daft/00320-50e313c4783d712b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "005671ab966217b0a3eac2e6699339294c0c88280808865b33a6759aa181834a",
+      "bytes": 39043
+    },
+    {
+      "path": "daft/00320-50e313c4783d712b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c668351469ea036fe0b9cebbb153779b52259e7aa67b6fc6b26febfb41e7d158",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

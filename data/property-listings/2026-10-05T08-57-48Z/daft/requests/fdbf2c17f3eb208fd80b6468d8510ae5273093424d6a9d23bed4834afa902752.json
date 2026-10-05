@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/capel-street-smithfield-dublin-1/6683761",
+  "fetchedAt": "2026-10-05T09:47:45.062Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/capel-street-smithfield-dublin-1/6683761",
+  "kind": "listing",
+  "responseSha256": "02453b81ebef12744ec4e6e717da5d564ee0b6ef13e6ab0454044ada1889dac6",
+  "files": [
+    {
+      "path": "daft/01996-fdbf2c17f3eb208f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5621cea1166d673302f97d1a74990ced722811fdd5650b01c65705e604d612a5",
+      "bytes": 21588
+    },
+    {
+      "path": "daft/01996-fdbf2c17f3eb208f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ec5537c51878fb4ff53351cd03446c083a37b5ca869c03eca17838c9f3a8e5b7",
+      "bytes": 7986
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

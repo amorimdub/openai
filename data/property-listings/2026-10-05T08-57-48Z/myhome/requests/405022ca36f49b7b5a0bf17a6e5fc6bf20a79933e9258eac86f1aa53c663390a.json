@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=450",
+  "fetchedAt": "2026-10-05T14:06:23.477Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=450",
+  "kind": "search",
+  "responseSha256": "3a25fb67666101686c7e69689afbd5f063ef2757fa5529d45e9cc9d1ec83df96",
+  "files": [
+    {
+      "path": "myhome/09783-405022ca36f49b7b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=450\"].SearchResults",
+      "sha256": "465b8c31f3870e407c3178abd8787dc9b5a3fb5f5eacb2cbfa8176f8273c2cb7",
+      "bytes": 123497
+    },
+    {
+      "path": "myhome/09783-405022ca36f49b7b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=450\"] (paging fields)",
+      "sha256": "0bf54bd2c5eeb14570fbab7fdf98c01da2b55629854791f4ce17a67c4c6118a3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/dunmanus-toormore-goleen-west-cork/5008662",
+    "https://www.myhome.ie/residential/brochure/cloggernagh-east-islandeady-castlebar-mayo/5008656",
+    "https://www.myhome.ie/residential/brochure/cappaghlass-ballydehob-west-cork/5008539",
+    "https://www.myhome.ie/residential/brochure/1-strand-court-strand-road-duncannon-wexford/5008624",
+    "https://www.myhome.ie/residential/brochure/carrigan-street-durrow-portlaoise-co-laois/5008638",
+    "https://www.myhome.ie/residential/brochure/20a-beechlawn-green-coolock-dublin-5/4994138",
+    "https://www.myhome.ie/residential/brochure/toberkeen-dungloe-county-donegal/5008640",
+    "https://www.myhome.ie/residential/brochure/41-railway-gardens-lismore-waterford/5008631",
+    "https://www.myhome.ie/residential/brochure/140-bertram-court-lamb-alley-dublin-8-dublin-d08-tk70/5008613",
+    "https://www.myhome.ie/residential/brochure/118-mountain-view-crinken-glen-shankill-dublin-18/5008461",
+    "https://www.myhome.ie/residential/brochure/6-marwood-lawn-glanmire-cork/5008600",
+    "https://www.myhome.ie/residential/brochure/garrynisk-oilgate-enniscorthy-wexford/5008563",
+    "https://www.myhome.ie/residential/brochure/aughlihard-letterkenny-county-donegal/5008596",
+    "https://www.myhome.ie/residential/brochure/gortacloghane-lyreacrompane-listowel-co-kerry/5006955",
+    "https://www.myhome.ie/residential/brochure/archdale-ashe-road-rathgowan-mullingar-co-westmeath/5008588",
+    "https://www.myhome.ie/residential/brochure/76-john-street-sligo-sligo/5008571",
+    "https://www.myhome.ie/residential/brochure/saint-augustine-s-foxhall-monasterboice-co-louth/5008570",
+    "https://www.myhome.ie/residential/brochure/1-kielbrook-terrace-townshend-street-skibbereen-west-cork/5008239",
+    "https://www.myhome.ie/residential/brochure/14-stanford-green-walkinstown-dublin-12/5002706",
+    "https://www.myhome.ie/residential/brochure/29-roselawn-road-castleknock-dublin-15/5008532"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=451",
+  "paginationLimited": false
+}

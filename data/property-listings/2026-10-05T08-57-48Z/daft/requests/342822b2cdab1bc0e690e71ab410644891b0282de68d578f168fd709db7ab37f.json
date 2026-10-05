@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/glaslyn-clontarf-dublin-3/6686434",
+  "fetchedAt": "2026-10-05T09:29:03.048Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/glaslyn-clontarf-dublin-3/6686434",
+  "kind": "listing",
+  "responseSha256": "4808a033637ae5c05c72fd479687c74f8e44cab9fbe3beecb852fe59a2461053",
+  "files": [
+    {
+      "path": "daft/01249-342822b2cdab1bc0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "18cfd9bac9a4143eab928c6df8c39c5ed098f75efa30e18d1a6e8a53b41d875a",
+      "bytes": 26838
+    },
+    {
+      "path": "daft/01249-342822b2cdab1bc0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "da0f0b50aeafcbf1fe5aa88981e6f0f1ff1da92963645cf39d5fb988e2e548c4",
+      "bytes": 8209
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

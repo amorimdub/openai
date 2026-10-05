@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=261",
+  "fetchedAt": "2026-10-05T12:29:20.398Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=261",
+  "kind": "search",
+  "responseSha256": "e46ad68ad25fccb5ece3738ca47b9c0623a4a9170a0beb45aa7b78032b4551a8",
+  "files": [
+    {
+      "path": "myhome/05914-1d201d7359ddec81-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=261\"].SearchResults",
+      "sha256": "f9ac102ea60693083daa9b8a5812694dd021319896d5e2a5e8316115f3652d9f",
+      "bytes": 121400
+    },
+    {
+      "path": "myhome/05914-1d201d7359ddec81-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=261\"] (paging fields)",
+      "sha256": "6a2d701a8605ea420acd2bfc676ed45840d01ef9a1162105f054e218464c4fbf",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/journey-s-end-mount-alexander-gorey-co-wexford/5025706",
+    "https://www.myhome.ie/residential/brochure/86-the-pavilion-marine-road-dun-laoghaire-co-dublin/4991678",
+    "https://www.myhome.ie/residential/brochure/mayfield-ballycullane-wexford/4994783",
+    "https://www.myhome.ie/residential/brochure/nash-s-boreen-fairhill-cork-city/5022040",
+    "https://www.myhome.ie/residential/brochure/40-summerstown-drive-cork-glasheen-co-cork/5021630",
+    "https://www.myhome.ie/residential/brochure/44-maryville-ballintemple-blackrock-cork-city/5024283",
+    "https://www.myhome.ie/residential/brochure/1-lisbrack-terrace-lisbrack-road-longford/5025704",
+    "https://www.myhome.ie/residential/brochure/78-college-hill-mullingar-co-westmeath/5025701",
+    "https://www.myhome.ie/residential/brochure/garranfeen-kilbrittain-west-cork/5025694",
+    "https://www.myhome.ie/residential/brochure/39-trimleston-gardens-booterstown-county-dublin/5009503",
+    "https://www.myhome.ie/residential/brochure/12-ashgrove-lawn-carrigaline-cork/5025680",
+    "https://www.myhome.ie/residential/brochure/inisfree-south-circular-road-limerick/4998556",
+    "https://www.myhome.ie/residential/brochure/62-richmond-park-bray-wicklow/5025688",
+    "https://www.myhome.ie/residential/brochure/reevesmount-cottage-dublin-road-athy-kildare/5025687",
+    "https://www.myhome.ie/residential/brochure/103a-cherryfield-road-walkinstown-dublin-12/5025692",
+    "https://www.myhome.ie/residential/brochure/49-ellensborough-park-kiltipper-dublin-24/5025690",
+    "https://www.myhome.ie/residential/brochure/36-old-fassaroe-bray-wicklow/5003606",
+    "https://www.myhome.ie/residential/brochure/apartment-2-grove-house-36-grove-road-rathmines-dublin/5017474",
+    "https://www.myhome.ie/residential/brochure/48-the-printworks-bray-wicklow/4999864",
+    "https://www.myhome.ie/residential/brochure/st-judes-parnell-road-bray-wicklow/4987725"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=262",
+  "paginationLimited": false
+}

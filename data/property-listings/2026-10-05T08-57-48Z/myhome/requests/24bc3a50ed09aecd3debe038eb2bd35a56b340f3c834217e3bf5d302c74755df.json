@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=305",
+  "fetchedAt": "2026-10-05T12:52:15.159Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=305",
+  "kind": "search",
+  "responseSha256": "18d34f698cfdc28893f257675e3ba1251412378778b052a6d68016346bffe4e9",
+  "files": [
+    {
+      "path": "myhome/06824-24bc3a50ed09aecd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=305\"].SearchResults",
+      "sha256": "c50a5f91ed82af22195ea52e4f8abd0fc2c7470f4e2fba682cf044c51fa5416d",
+      "bytes": 113082
+    },
+    {
+      "path": "myhome/06824-24bc3a50ed09aecd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=305\"] (paging fields)",
+      "sha256": "24490119e204e752f24b64e6ed5282a3500fa5c249d33c02c202e66a14f77b27",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-b2-block-b-cormullen-foxford-county-mayo/5023535",
+    "https://www.myhome.ie/residential/brochure/apartment-84-the-moyle-prospect-hill-finglas-dublin-11/5023533",
+    "https://www.myhome.ie/residential/brochure/26-leeson-park-ranelagh-dublin-6/4964510",
+    "https://www.myhome.ie/residential/brochure/3-effernock-crescent-trim-co-meath/5006137",
+    "https://www.myhome.ie/residential/brochure/12-hillview-drogheda-louth/5023451",
+    "https://www.myhome.ie/residential/brochure/carrigboy-kilmichael-macroom-cork/5019329",
+    "https://www.myhome.ie/residential/brochure/the-lodge-the-old-bond-store-dillon-terrace-ballina-county-mayo/5023523",
+    "https://www.myhome.ie/residential/brochure/32-farmhill-road-goatstown-dublin-14/4973629",
+    "https://www.myhome.ie/residential/brochure/60-palmers-crescent-palmerstown-dublin-20/4997610",
+    "https://www.myhome.ie/residential/brochure/17-the-beeches-coosan-road-athlone/5023520",
+    "https://www.myhome.ie/residential/brochure/237-larkhill-road-whitehall-dublin-9/5023509",
+    "https://www.myhome.ie/residential/brochure/36-a-aras-na-cluaine-clondalkin-dublin-22/5023515",
+    "https://www.myhome.ie/residential/brochure/23-mount-argus-close-6w-harold-s-cross-dublin-6-d6wrh64/5023513",
+    "https://www.myhome.ie/residential/brochure/61-hunters-green-ballycullen-dublin-24/5023508",
+    "https://www.myhome.ie/residential/brochure/40-cloch-choirneal-balrothery-co-dublin/5004768",
+    "https://www.myhome.ie/residential/brochure/stadalt-stamullen-co-meath/5004799",
+    "https://www.myhome.ie/residential/brochure/apt-3-10-railway-street-balbriggan-co-dublin/5007283",
+    "https://www.myhome.ie/residential/brochure/13-moylaragh-way-balbriggan-co-dublin/5013612",
+    "https://www.myhome.ie/residential/brochure/apt-5-cathedral-street-north-city-centre-dublin-1/5019284",
+    "https://www.myhome.ie/residential/brochure/apt-2-cathedral-street-north-city-centre-dublin-1/5019706"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=306",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-cedar-riverside-manor-kilcullen-co-kildare/6662965",
+  "fetchedAt": "2026-10-05T09:18:35.136Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-cedar-riverside-manor-kilcullen-co-kildare/6662965",
+  "kind": "listing",
+  "responseSha256": "8b31141a294930e11d1f820e4a42f465a149b7f3580bd61855c6e805cc12e007",
+  "files": [
+    {
+      "path": "daft/00831-c7ee6a7101d3fc20-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b5cfa7435c3d403fccce454feabcbc3628bf6b7bcab9978e2cec30740e17d5d8",
+      "bytes": 17579
+    },
+    {
+      "path": "daft/00831-c7ee6a7101d3fc20-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "10b866129ce529331d0bfe0ba265d37848dd9e67617eed77561922344e3a0ee6",
+      "bytes": 8156
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

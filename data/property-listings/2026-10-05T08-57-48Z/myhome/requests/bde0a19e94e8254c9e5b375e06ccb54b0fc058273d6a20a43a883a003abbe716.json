@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=195",
+  "fetchedAt": "2026-10-05T11:55:08.311Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=195",
+  "kind": "search",
+  "responseSha256": "1796285a47b4a9c3849001b2377edeb64a6f0789e42cf0f7aa7f2fa90cf0b13f",
+  "files": [
+    {
+      "path": "myhome/04549-bde0a19e94e8254c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=195\"].SearchResults",
+      "sha256": "cd7f1aa72fd24fe6dacf8257bb8dea0501a84364ddb5f38e1cf831422c775496",
+      "bytes": 133149
+    },
+    {
+      "path": "myhome/04549-bde0a19e94e8254c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=195\"] (paging fields)",
+      "sha256": "9b9e45a59367da18657c4a40e318256dadfc0cf043796586d7c0e167d7abaa18",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/caherscullibeen-ballydavid-kerry/5027758",
+    "https://www.myhome.ie/residential/brochure/stream-ballyhyland-caim-enniscorthy-wexford/4954094",
+    "https://www.myhome.ie/residential/brochure/knocknadrimna-seabank-arklow-co-wicklow/5027769",
+    "https://www.myhome.ie/residential/brochure/pine-hurst-trusky-west-barna-co-galway/5027768",
+    "https://www.myhome.ie/residential/brochure/2-murtagh-road-stoneybatter-dublin-7/5027091",
+    "https://www.myhome.ie/residential/brochure/116-larkfield-gardens-harold-s-cross-dublin-6w/4833580",
+    "https://www.myhome.ie/residential/brochure/sunnyside-house-ballycatten-kinsale-county-cork/5027764",
+    "https://www.myhome.ie/residential/brochure/14-drumnigh-oaks-portmarnock-county-dublin/5027763",
+    "https://www.myhome.ie/residential/brochure/13-drumnigh-oaks-portmarnock-county-dublin/5027762",
+    "https://www.myhome.ie/residential/brochure/12-drumnigh-oaks-portmarnock-county-dublin/5027761",
+    "https://www.myhome.ie/residential/brochure/9-saint-stephen-s-grove-irishtown-upper-clonmel-co-tipperary/5027759",
+    "https://www.myhome.ie/residential/brochure/32-ard-righ-road-stoneybatter-dublin-7/5027089",
+    "https://www.myhome.ie/residential/brochure/cashelmeehan-four-mile-house-roscommon-co-roscommon/5027756",
+    "https://www.myhome.ie/residential/brochure/no-82-pinewood-wexford-town-wexford/5027751",
+    "https://www.myhome.ie/residential/brochure/curraghtown-navan-meath/5007050",
+    "https://www.myhome.ie/residential/brochure/66-castleknock-road-castleknock-dublin-15/5027753",
+    "https://www.myhome.ie/residential/brochure/3-c-l-b-n-knockanemore-ovens-cork/5027752",
+    "https://www.myhome.ie/residential/brochure/47-abbeyfield-kilcock-co-kildare/5027750",
+    "https://www.myhome.ie/residential/brochure/18-walkinstown-road-walkinstown-dublin-12/5027749",
+    "https://www.myhome.ie/residential/brochure/4-ardgillen-lawn-balbriggan-co-dublin/5027748"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=196",
+  "paginationLimited": false
+}

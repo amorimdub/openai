@@ -1,0 +1,400 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "ballintyre grove ballinteer   dublin 16",
+    "GroupId": 363503,
+    "Address": "Ballintyre Grove",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/511b9d32-3361-47b7-ac0e-eca987c0691a_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/511b9d32-3361-47b7-ac0e-eca987c0691a_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/511b9d32-3361-47b7-ac0e-eca987c0691a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/8cd19686-17ca-4f19-952b-a09736158f47_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/32c873cd-463f-481a-8231-1863e4aabf44_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/72455491-004e-4452-9d3f-e4813901385f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/d3edd039-9492-4620-933f-829e25f8d1f1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6f9d7e1e-d46c-46a1-bb70-65f65b5504ff_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6b374ff5-6b28-4d79-b1ec-7f04e8926adb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/3307eac4-82c9-4274-893d-724c3f2d4c5c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/0abbdcac-c543-41f2-98df-3f1d2ad0cf8d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/a34df410-3746-4862-ae62-30b82f851fed_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/1c40bdd9-aeda-413c-8c74-43634344dce1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/f70d7970-e235-488f-add6-11732efdb685_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/5/0/5032054/33fc0759-e8cd-4236-b8f0-c1e7331a4a2a_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 80,
+    "MaxSize": 80,
+    "BerRating": "B3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 15,
+        "Name": "Non Smoker",
+        "CreatedOn": "2018-03-20T10:28:47.7000000+00:00",
+        "IconName": "myh-icon-non-smoker",
+        "IsRequirement": true
+      },
+      {
+        "Id": 18,
+        "Name": "Step Free Access",
+        "CreatedOn": "2018-03-20T10:30:02.1200000+00:00",
+        "IconName": "myh-icon-step-free-access",
+        "IsRequirement": false
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 20,
+        "Name": "Wheelchair Access",
+        "CreatedOn": "2018-03-20T10:30:38.1270000+00:00",
+        "IconName": "myh-icon-wheelchair-access",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 28,
+        "Name": "No Pets",
+        "CreatedOn": "2018-09-11T10:20:24.0170000+01:00",
+        "IconName": "myh-icon-no-pets",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Spacious & Bright 2-Bed Apartment with Large West-Facing Balcony\r\nBeautifully presented and exceptionally spacious 2-bedroom, 2-bathroom apartment in the highly regarded Ballintyre development in Ballinteer.\r\nSituated on the first floor, the apartment enjoys a wonderful west-facing aspect overlooking landscaped communal gardens, with lovely views towards the Dublin Mountains. It is an unusually quiet and private position, with no road traffic immediately outside and no apartments directly overlooking the property.\r\n\r\nThe large balcony gets afternoon and evening sunshine and is a particularly enjoyable space to relax and unwind.\r\n\r\nThe Apartment\r\nThe property has a generous layout and is notably spacious for a two-bedroom apartment.\r\nThe bright living and dining area enjoys sunshine throughout the afternoon and evening and has a pleasant outlook over the gardens. There is plenty of room for comfortable living and dining, as well as space that can accommodate a home-working area.\r\nThe living room is furnished with a grey leather recliner sofa and granite tables.\r\nThe fully fitted kitchen includes integrated appliances, gas hob and microwave, with good storage and workspace.\r\nBoth bedrooms are large double bedrooms, each with built-in wardrobes and carpeting. The master bedroom benefits from a private **ensuite bathroom**.\r\nThe main bathroom is partly tiled and includes a heated towel rail and dehumidifier fan.\r\n\r\nThe apartment is well insulated and benefits from gas-fired central heating. There is also useful storage on the balcony.\r\n\r\nOutside & Parking\r\nThe property comes with a designated overground parking space immediately beside the building, as well as ample visitor parking.\r\nBallintyre is a well-maintained development with attractive landscaped communal gardens and a peaceful residential atmosphere.\r\n\r\nKey Features\r\n* Spacious 2-bedroom, 2-bathroom apartment\r\n* Large west-facing balcony\r\n* Private outlook over landscaped green area\r\n* Views towards the Dublin Mountains\r\n* Bright, quiet and private\r\n* Two large double bedrooms\r\n* Ensuite master bedroom\r\n* Built-in wardrobes\r\n* Space suitable for home working\r\n* Balcony storage\r\n* Designated parking space\r\n* Ample visitor parking\r\n* Well-maintained landscaped communal gardens\r\n\r\nLocation\r\nBallintyre is located directly opposite Ballinteer Shopping Centre and just a few minutes' walk from Marlay Park.\r\nDundrum Town Centre and Balally Luas are also within easy walking distance. The area is exceptionally well served by public transport, including numerous bus routes and the Luas, while the M50 is easily accessible.\r\n\r\nThere is an excellent range of amenities nearby, including cafés, restaurants, shops, Sandyford Business District, Meadowbrook Leisure Centre, golf clubs and numerous football, GAA and other sporting facilities. Leopardstown Racecourse is also close by.\r\n\r\nA Lovely Home\r\nThis is a particularly attractive apartment for anyone looking for a spacious, peaceful and well-maintained home in a mature residential development.\r\nThe apartment has been carefully looked after and we are looking for tenants who will treat it as a home and take pride in looking after the property."
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 100,
+    "MaxEnergyRating": 100,
+    "BERGrade": "B",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-10-02T18:24:27.5470000+01:00",
+    "ModifiedOnDate": "2026-10-05T09:49:11.8170000+01:00",
+    "IsPremiumAd": false,
+    "RefreshedOn": "2026-10-02T18:24:27.5470000+01:00",
+    "ExpiresOn": "2027-01-05T00:00:00.0000000+00:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": true,
+    "IsMappedAccurately": false,
+    "BrochureContactDetails": {
+      "FirstName": "Fiona",
+      "Phone": "0876085343",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,700 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5032054,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 80,
+    "DisplayAddress": "Ballintyre Grove, Ballinteer,   Dublin 16",
+    "Eircode": "",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1457,
+    "RegionName": "Dublin 16",
+    "LocalityId": 1263,
+    "LocalityName": "Ballinteer",
+    "Price": {
+      "MinRentalPrice": 2700,
+      "MaxRentalPrice": 2700,
+      "Period": "Monthly",
+      "Deposit": 2750,
+      "ShowPrice": true,
+      "AvailableOn": "2026-10-10T00:00:00.0000000+01:00",
+      "MinMonthlyRentalPrice": 2700,
+      "MaxMonthlyRentalPrice": 2700
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/511b9d32-3361-47b7-ac0e-eca987c0691a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/511b9d32-3361-47b7-ac0e-eca987c0691a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/511b9d32-3361-47b7-ac0e-eca987c0691a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/8cd19686-17ca-4f19-952b-a09736158f47_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/8cd19686-17ca-4f19-952b-a09736158f47_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/8cd19686-17ca-4f19-952b-a09736158f47_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/32c873cd-463f-481a-8231-1863e4aabf44_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/32c873cd-463f-481a-8231-1863e4aabf44_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/32c873cd-463f-481a-8231-1863e4aabf44_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/72455491-004e-4452-9d3f-e4813901385f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/72455491-004e-4452-9d3f-e4813901385f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/72455491-004e-4452-9d3f-e4813901385f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/d3edd039-9492-4620-933f-829e25f8d1f1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/d3edd039-9492-4620-933f-829e25f8d1f1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/d3edd039-9492-4620-933f-829e25f8d1f1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6f9d7e1e-d46c-46a1-bb70-65f65b5504ff_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6f9d7e1e-d46c-46a1-bb70-65f65b5504ff_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6f9d7e1e-d46c-46a1-bb70-65f65b5504ff_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6b374ff5-6b28-4d79-b1ec-7f04e8926adb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6b374ff5-6b28-4d79-b1ec-7f04e8926adb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/6b374ff5-6b28-4d79-b1ec-7f04e8926adb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/3307eac4-82c9-4274-893d-724c3f2d4c5c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/3307eac4-82c9-4274-893d-724c3f2d4c5c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/3307eac4-82c9-4274-893d-724c3f2d4c5c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/0abbdcac-c543-41f2-98df-3f1d2ad0cf8d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/0abbdcac-c543-41f2-98df-3f1d2ad0cf8d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/0abbdcac-c543-41f2-98df-3f1d2ad0cf8d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/a34df410-3746-4862-ae62-30b82f851fed_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/a34df410-3746-4862-ae62-30b82f851fed_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/a34df410-3746-4862-ae62-30b82f851fed_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/1c40bdd9-aeda-413c-8c74-43634344dce1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/1c40bdd9-aeda-413c-8c74-43634344dce1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/1c40bdd9-aeda-413c-8c74-43634344dce1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/f70d7970-e235-488f-add6-11732efdb685_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/f70d7970-e235-488f-add6-11732efdb685_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/f70d7970-e235-488f-add6-11732efdb685_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/33fc0759-e8cd-4236-b8f0-c1e7331a4a2a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/33fc0759-e8cd-4236-b8f0-c1e7331a4a2a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/5/0/5032054/33fc0759-e8cd-4236-b8f0-c1e7331a4a2a_m.jpg"
+      }
+    ],
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 13,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 363503,
+    "Name": "Fiona",
+    "DisplayPhone": "1",
+    "Email": "property@myhome.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "myhomeie-users",
+    "SeoName": "myhomeie-users",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/3/0/5/363503/logo.jpg",
+    "SalesLicense": "",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballinteer/1263",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/ballintyre-grove-ballinteer-dublin-16/5032054",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 363503,
+    "MYH_LocalityID": 1263,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1457,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Balcony",
+      "Alarm",
+      "Non Smoker",
+      "Step Free Access",
+      "Walk In Shower",
+      "Wheelchair Access",
+      "Full Furnished",
+      "Dishwasher",
+      "No Pets"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Balcony,Alarm,Non Smoker,Step Free Access,Walk In Shower,Wheelchair Access,Full Furnished,Dishwasher,No Pets",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 100,
+    "MYH_MinSize": 80,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5032054,
+    "MYH_PropertyTypeID": 74
+  }
+}

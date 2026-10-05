@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ballycoog-lower-arklow-woodenbridge-co-wicklow/6681096",
+  "fetchedAt": "2026-10-05T09:18:29.130Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ballycoog-lower-arklow-woodenbridge-co-wicklow/6681096",
+  "kind": "listing",
+  "responseSha256": "e35b20a028401bd0642cd10a7e61c738d699e26c856228afb47cad478ef958cd",
+  "files": [
+    {
+      "path": "daft/00827-b8cc168b29cf7860-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e265f57e4a42e8f90b16b4c8ccd0c94d994cf8ecb8fd5b56c2352b61d8f6175b",
+      "bytes": 86700
+    },
+    {
+      "path": "daft/00827-b8cc168b29cf7860-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "860beb6bebeb67085df2ce41f689767c7b9976fed31054cab78a73845678788c",
+      "bytes": 8257
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

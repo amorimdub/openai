@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=20",
+  "fetchedAt": "2026-10-05T09:22:38.415Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=20",
+  "kind": "search",
+  "responseSha256": "a4b825c519d19f5eb82e157908a42ea5101665934b87aad9fec006c2f8097b67",
+  "files": [
+    {
+      "path": "daft/00993-0b823b609e01c370-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "3cabe7fbe3a381e957ed130ba1361f405de6855e7373dbfc7dac57774e6c161c",
+      "bytes": 222852
+    },
+    {
+      "path": "daft/00993-0b823b609e01c370-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00993-0b823b609e01c370-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "c54d8f0eb909495a07c2d4217e5d7ea4477657d5befb0a5bdc01389ef1694f66",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/casement-grove-dublin-11-finglas-dublin-11/6687329",
+    "https://www.daft.ie/for-rent/36-marlinstown-park-dublin-road-mullingar-co-westmeath/6687333",
+    "https://www.daft.ie/for-rent/11-shruffuin-apartments-newline-castlebar-co-mayo/6687286",
+    "https://www.daft.ie/for-rent/fortunes-lawn-citywest-citywest-dublin-24/6686656",
+    "https://www.daft.ie/for-rent/93-white-oaks-roebuck-road-goatstown-dublin-14/6687267",
+    "https://www.daft.ie/for-rent/92-townsend-street-dublin-2-dublin-2/6687256",
+    "https://www.daft.ie/for-rent/unit-8a-drynam-square-drynam-hall-kinsealy-co-dublin/6687255",
+    "https://www.daft.ie/for-rent/31-connaught-street-phibsborough-dublin-7/6687250",
+    "https://www.daft.ie/for-rent/88-the-paddocks-hybreasal-kilmainham-dublin-8/6687251",
+    "https://www.daft.ie/for-rent/main-street-clonmellon-co-westmeath/6687247",
+    "https://www.daft.ie/for-rent/terenure-road-east-rathgar-dublin-6/6687246",
+    "https://www.daft.ie/for-rent/ashling-court-44-charleston-road-ranelagh-co-dublin/6687238",
+    "https://www.daft.ie/for-rent/campion-cottage-loughanstown-skryne-co-meath/6687242",
+    "https://www.daft.ie/for-rent/rathmines-road-upper-rathmines-dublin-6/6687233",
+    "https://www.daft.ie/for-rent/white-oaks-clonskeagh-co-dublin/6687221",
+    "https://www.daft.ie/for-rent/app-2-9-vicar-street-kilkenny-co-kilkenny/6687202",
+    "https://www.daft.ie/for-rent/apartment-dodderbank-apartments-dundrum-road-dublin-14-milltown-dublin-14/6658138",
+    "https://www.daft.ie/for-rent/48-barrack-street-cappoquin-co-waterford/6662885",
+    "https://www.daft.ie/for-rent/the-marker-residences-forbes-street-dublin-2-grand-canal-dock-dublin-2/6657241",
+    "https://www.daft.ie/for-rent/the-log-cabin-castleruddery-lower-donard-stratford-co-wicklow/6687187"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=21",
+  "paginationLimited": false
+}

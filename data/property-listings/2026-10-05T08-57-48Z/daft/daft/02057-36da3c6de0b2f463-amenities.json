@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BLACKWATER NATIONAL SCHOOL",
+      "numPupils": 232,
+      "distance": {
+        "value": 2.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.445663",
+        "lon": "-6.347638"
+      }
+    },
+    {
+      "schoolName": "KILMUCKRIDGE NATIONAL SCHOOL",
+      "numPupils": 205,
+      "distance": {
+        "value": 5.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.508694",
+        "lon": "-6.288386"
+      }
+    },
+    {
+      "schoolName": "OULART NATIONAL SCHOOL",
+      "numPupils": 138,
+      "distance": {
+        "value": 6.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502644",
+        "lon": "-6.389896"
+      }
+    },
+    {
+      "schoolName": "KILNAMANAGH NATIONAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 6.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.518920",
+        "lon": "-6.363914"
+      }
+    },
+    {
+      "schoolName": "BALLAGHKEENE NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 7.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.481407",
+        "lon": "-6.428665"
+      }
+    },
+    {
+      "schoolName": "SCREEN NATIONAL SCHOOL",
+      "numPupils": 123,
+      "distance": {
+        "value": 8.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.411522",
+        "lon": "-6.408344"
+      }
+    },
+    {
+      "schoolName": "CURRACLOE NATIONAL SCHOOL",
+      "numPupils": 87,
+      "distance": {
+        "value": 9.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.392662",
+        "lon": "-6.391872"
+      }
+    },
+    {
+      "schoolName": "COURT NATIONAL SCHOOL",
+      "numPupils": 110,
+      "distance": {
+        "value": 10.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.553944",
+        "lon": "-6.342172"
+      }
+    },
+    {
+      "schoolName": "BALLYMURN NATIONAL SCHOOL",
+      "numPupils": 116,
+      "distance": {
+        "value": 11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.441086",
+        "lon": "-6.474653"
+      }
+    },
+    {
+      "schoolName": "BOOLAVOGUE NATIONAL SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 12.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.555145",
+        "lon": "-6.420285"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLÁISTE AN ÁTHA",
+      "numPupils": 366,
+      "distance": {
+        "value": 5.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.511658",
+        "lon": "-6.285835"
+      }
+    },
+    {
+      "schoolName": "MEANSCOIL GHARMAN",
+      "numPupils": 228,
+      "distance": {
+        "value": 16.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.465145",
+        "lon": "-6.555841"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BRÍDE",
+      "numPupils": 753,
+      "distance": {
+        "value": 16.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502815",
+        "lon": "-6.559186"
+      }
+    },
+    {
+      "schoolName": "SELSKAR COLLEGE (COLÁISTE SHEILSCIRE)",
+      "numPupils": 390,
+      "distance": {
+        "value": 17.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.341330",
+        "lon": "-6.467307"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 930,
+      "distance": {
+        "value": 17.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.343796",
+        "lon": "-6.473906"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 981,
+      "distance": {
+        "value": 17.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.336018",
+        "lon": "-6.464567"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S C.B.S.",
+      "numPupils": 772,
+      "distance": {
+        "value": 17.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.497444",
+        "lon": "-6.569224"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS SECONDARY SCHOOL",
+      "numPupils": 721,
+      "distance": {
+        "value": 17.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.333530",
+        "lon": "-6.463419"
+      }
+    },
+    {
+      "schoolName": "ST. PETER'S COLLEGE",
+      "numPupils": 784,
+      "distance": {
+        "value": 17.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.335050",
+        "lon": "-6.472298"
+      }
+    },
+    {
+      "schoolName": "ENNISCORTHY COMMUNITY COLLEGE",
+      "numPupils": 472,
+      "distance": {
+        "value": 18.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.509655",
+        "lon": "-6.585215"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ballyvaldon",
+      "route": "872",
+      "destination": "Ballyvaldon",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.467186211443",
+        "lon": "-6.31450052132911"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Blackwater",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.446816",
+        "lon": "-6.347521"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Blackwater",
+      "route": "875",
+      "destination": "Blackwater",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 2.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.446816",
+        "lon": "-6.347521"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Blackwater",
+      "route": "872",
+      "destination": "Wexford O'Hanrahan Station",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 2.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.44627",
+        "lon": "-6.347768"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Lwr",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.421311",
+        "lon": "-6.357112"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmuckridge",
+      "route": "872",
+      "destination": "Ballyvaldon",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 5.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.51401100000001",
+        "lon": "-6.28324"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmuckridge",
+      "route": "379",
+      "destination": "Gorey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.514061",
+        "lon": "-6.283281"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Oulart",
+      "route": "884",
+      "destination": "Main Street",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 6.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.506169",
+        "lon": "-6.38706"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballaghkeen",
+      "route": "884",
+      "destination": "Main Street",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 6.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.477733",
+        "lon": "-6.415169"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmacoe",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 8.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.398998",
+        "lon": "-6.369811"
+      }
+    }
+  ]
+}

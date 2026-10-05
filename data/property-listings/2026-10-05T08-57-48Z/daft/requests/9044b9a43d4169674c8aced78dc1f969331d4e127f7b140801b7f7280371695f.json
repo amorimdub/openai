@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-oslo-sandyford-central-sandyford-co-dublin/5426425",
+  "fetchedAt": "2026-10-05T09:08:26.839Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-oslo-sandyford-central-sandyford-co-dublin/5426425",
+  "kind": "listing",
+  "responseSha256": "b7dfe6c7fb586b8cdfdc0216b4e4e30fe338f613f7b31774bc998e39fbe405e9",
+  "files": [
+    {
+      "path": "daft/00426-9044b9a43d416967-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2c7518bed68ebfde8c5c7873f5c7f9672b272ec276afbd240aa000e7a699f09b",
+      "bytes": 335421
+    },
+    {
+      "path": "daft/00426-9044b9a43d416967-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9a80db0d742f6790cee2b6d8ee221a1a9a39ec029b6ff97f244d842991e1e7d",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

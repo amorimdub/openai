@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=41",
+  "fetchedAt": "2026-10-05T09:44:32.726Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=41",
+  "kind": "search",
+  "responseSha256": "0f81ebb1707e1ced0e7968eb55e63d3d0f8d700bb0085ae9eb342bf9e195e701",
+  "files": [
+    {
+      "path": "daft/01868-27372bf8b1381669-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "8523c99e2d706303c16fea01e93022abd7e51c4a313905b7a3b164cbfb2f5add",
+      "bytes": 258250
+    },
+    {
+      "path": "daft/01868-27372bf8b1381669-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01868-27372bf8b1381669-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "401e274c3ed6530355a06bf53033475dba7a7cbd054f5051d65b7d140d1e19cd",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/douglas-street-cork-city-centre-co-cork/6684042",
+    "https://www.daft.ie/for-rent/1-dromore-view-ballybay-co-monaghan/6683841",
+    "https://www.daft.ie/for-rent/apartment-47-crescent-house-marino-dublin-3/6684015",
+    "https://www.daft.ie/for-rent/moynalty-kells-co-meath-carlanstown-co-meath/6683983",
+    "https://www.daft.ie/for-rent/21c-quay-street-balbriggan-balbriggan-co-dublin/6683999",
+    "https://www.daft.ie/for-rent/ard-mor-close-tallaght-dublin-24/6684034",
+    "https://www.daft.ie/for-rent/the-brazen-city-gate-dublin-8/6684033",
+    "https://www.daft.ie/for-rent/26-stewarts-court-lennon-grove-ramelton-co-donegal/6684032",
+    "https://www.daft.ie/for-rent/sherrard-street-lower-dublin-1/6684010",
+    "https://www.daft.ie/for-rent/heather-grove-janeville-carrigaline-co-cork/6683976",
+    "https://www.daft.ie/for-rent/6th-floor-with-park-views-the-pines-herbert-park-lane-dublin-4/6683962",
+    "https://www.daft.ie/for-rent/32-latchford-close-castaheany-ongar-dublin-15/6683927",
+    "https://www.daft.ie/for-rent/marian-place-tullamore-co-offaly/6683954",
+    "https://www.daft.ie/for-rent/pier-road-leckanvy-co-mayo/6683961",
+    "https://www.daft.ie/for-rent/apartment-27-block-f-milners-square-whitehall-dublin-9/6683903",
+    "https://www.daft.ie/for-rent/10-mill-court-tullow-tullow-co-carlow/6683845",
+    "https://www.daft.ie/for-rent/apartment-the-thomond-the-strand-ennis-road-co-limerick/6676736",
+    "https://www.daft.ie/for-rent/carraroe-galway-carraroe-co-galway/6683908",
+    "https://www.daft.ie/for-rent/1b-the-drumlins-cavan-co-cavan/6683894",
+    "https://www.daft.ie/for-rent/brabazon-links-golf-links-road-bettystown-co-meath/6683843"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=42",
+  "paginationLimited": false
+}

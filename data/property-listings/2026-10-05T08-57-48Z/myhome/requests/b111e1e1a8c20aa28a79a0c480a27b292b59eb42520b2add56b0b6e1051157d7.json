@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=222",
+  "fetchedAt": "2026-10-05T12:08:53.498Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=222",
+  "kind": "search",
+  "responseSha256": "1643afceb397344de93b27212cd6d9511cb20d3342f6d304c08399d53234813b",
+  "files": [
+    {
+      "path": "myhome/05098-b111e1e1a8c20aa2-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=222\"].SearchResults",
+      "sha256": "62a8a26c27a3e0e9915251d29dd2d0f61f2caaf364107a4a1fd151dd9ac22b72",
+      "bytes": 115413
+    },
+    {
+      "path": "myhome/05098-b111e1e1a8c20aa2-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=222\"] (paging fields)",
+      "sha256": "83c9692629535134814eeefe96c96fd4c7d41f430453109d5e14e5fc3ee4f5fe",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-capella-court-newbridge-kildare/5026998",
+    "https://www.myhome.ie/residential/brochure/22-pacelli-road-naas-kildare/5026973",
+    "https://www.myhome.ie/residential/brochure/8-ard-na-gr-ine-ardara-co-donegal/5026995",
+    "https://www.myhome.ie/residential/brochure/3-fr-meehan-place-castlebar-castlebar-mayo/5026981",
+    "https://www.myhome.ie/residential/brochure/13-bree-castleblayney-monaghan/5026982",
+    "https://www.myhome.ie/residential/brochure/7-the-rivery-wexford-town-wexford/5026991",
+    "https://www.myhome.ie/residential/brochure/634-howth-road-raheny-dublin-5/5019775",
+    "https://www.myhome.ie/residential/brochure/mullanour-murrintown-wexford/5011127",
+    "https://www.myhome.ie/residential/brochure/1-the-alder-s-roundwood-roundwood-wicklow/5026990",
+    "https://www.myhome.ie/residential/brochure/201-churchfields-ashbourne-co-meath/5026989",
+    "https://www.myhome.ie/residential/brochure/16-south-view-ballinlough-road-cork/5026985",
+    "https://www.myhome.ie/residential/brochure/2-brooklands-clane-co-kildare/5026984",
+    "https://www.myhome.ie/residential/brochure/8-fernleigh-court-carpenterstown-dublin/5026983",
+    "https://www.myhome.ie/residential/brochure/87-woodvale-road-beaumont-blackrock-cork/5015863",
+    "https://www.myhome.ie/residential/brochure/12-cluainin-na-mbo-carrowhubbock-south-enniscrone-co-sligo/5026979",
+    "https://www.myhome.ie/residential/brochure/17-northbrook-terrace-north-strand-dublin-3/5019488",
+    "https://www.myhome.ie/residential/brochure/65-college-park-newbridge-co-kildare/5026978",
+    "https://www.myhome.ie/residential/brochure/2-wheatfield-manor-castlebar-co-mayo-castlebar-mayo/5026138",
+    "https://www.myhome.ie/residential/brochure/9-abbey-street-howth-co-dublin/5026975",
+    "https://www.myhome.ie/residential/brochure/23-killiney-hill-park-killiney-hill-road-killiney-co-dublin/5026974"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=223",
+  "paginationLimited": false
+}

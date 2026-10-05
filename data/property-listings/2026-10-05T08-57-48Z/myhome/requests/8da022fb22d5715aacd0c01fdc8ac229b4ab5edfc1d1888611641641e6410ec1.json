@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=393",
+  "fetchedAt": "2026-10-05T13:37:05.726Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=393",
+  "kind": "search",
+  "responseSha256": "ec392912fcfbbc5bf00decb9594a3f3191b2ace0e484c208fa612132e080c645",
+  "files": [
+    {
+      "path": "myhome/08614-8da022fb22d5715a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=393\"].SearchResults",
+      "sha256": "e6ae0a3880bb5ee87f7d3671c02eb6d93e8c7f8929807618590217d2913fdedd",
+      "bytes": 109749
+    },
+    {
+      "path": "myhome/08614-8da022fb22d5715a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=393\"] (paging fields)",
+      "sha256": "99563bc3f9c7da8372d809a6b0522d6b7ea09217d77a244bdb0e10b8f33202a2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-glendale-road-glasheen-cork/5011584",
+    "https://www.myhome.ie/residential/brochure/903-highfield-park-kilcock-naas-co-kildare/5015826",
+    "https://www.myhome.ie/residential/brochure/144-hazelwood-gorey-co-wexford/5015825",
+    "https://www.myhome.ie/residential/brochure/56-ard-na-greine-macroom-cork/5015818",
+    "https://www.myhome.ie/residential/brochure/2-friary-lane-kinsale-county-cork/5015821",
+    "https://www.myhome.ie/residential/brochure/17-owenabue-circle-carrigaline-cork/5015689",
+    "https://www.myhome.ie/residential/brochure/9-knockanally-golf-village-donadea-co-kildare/4964372",
+    "https://www.myhome.ie/residential/brochure/24-main-street-skibbereen-skibbereen-west-cork/5015808",
+    "https://www.myhome.ie/residential/brochure/11-ri-na-mona-cooleragh-coill-dubh-co-kildare/5015809",
+    "https://www.myhome.ie/residential/brochure/9-the-glen-blessington-abbey-blessington-wicklow/5015788",
+    "https://www.myhome.ie/residential/brochure/79-walnut-rise-courtlands-drumcondra-dublin-9/5015786",
+    "https://www.myhome.ie/residential/brochure/avalon-4-greenhill-road-wicklow-town-co-wicklow/5015776",
+    "https://www.myhome.ie/residential/brochure/17-seaview-avenue-arklow-wicklow/5015760",
+    "https://www.myhome.ie/residential/brochure/cedarmount-mount-anville-road-dublin-14/5015769",
+    "https://www.myhome.ie/residential/brochure/cedarmount-mount-anville-road-dublin-14/5015768",
+    "https://www.myhome.ie/residential/brochure/cedarmount-mount-anville-road-dublin-14/5015767",
+    "https://www.myhome.ie/residential/brochure/cedarmount-mount-anville-road-dublin-14/5015766",
+    "https://www.myhome.ie/residential/brochure/key-largo-stable-ballygarrett-wexford/5015759",
+    "https://www.myhome.ie/residential/brochure/10-coolattiin-view-coolroe-coolboy-tinahely-wicklow/5015751",
+    "https://www.myhome.ie/residential/brochure/clogherane-lauragh-upper-kenmare-co-kerry/5015755"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=394",
+  "paginationLimited": false
+}

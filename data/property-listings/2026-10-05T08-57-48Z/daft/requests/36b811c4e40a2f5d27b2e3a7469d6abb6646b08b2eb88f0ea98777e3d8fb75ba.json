@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/irishtown-upper-clonmel-co-tipperary/6684367",
+  "fetchedAt": "2026-10-05T09:42:55.067Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/irishtown-upper-clonmel-co-tipperary/6684367",
+  "kind": "listing",
+  "responseSha256": "936a398ff60aebcc3f86a2b54a8f167e61a5430f30bb240203e697f97161cad5",
+  "files": [
+    {
+      "path": "daft/01803-36b811c4e40a2f5d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4da45f797e281dd74558e80bf45e97ef6db5a8d8b1fd341aa5e235d1179743cd",
+      "bytes": 16862
+    },
+    {
+      "path": "daft/01803-36b811c4e40a2f5d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4cb1f41c11ccb771c5be54b237cb8b26899b7c86167557617da7187b3d134ee4",
+      "bytes": 8158
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

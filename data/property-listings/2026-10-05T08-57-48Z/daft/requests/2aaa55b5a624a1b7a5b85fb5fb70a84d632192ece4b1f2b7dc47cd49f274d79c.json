@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-230-block-f1-lansdowne-gate-lansdowne-valley-drimnagh-dublin-12/6674612",
+  "fetchedAt": "2026-10-05T09:19:44.206Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-230-block-f1-lansdowne-gate-lansdowne-valley-drimnagh-dublin-12/6674612",
+  "kind": "listing",
+  "responseSha256": "f4fec6341cff2529c6f10a1b8c85e614160658cc281239d9a599d750baa12f9a",
+  "files": [
+    {
+      "path": "daft/00877-2aaa55b5a624a1b7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5c8f21dbd219bede2384157bd305f737c79f8fb7077dd7d4357a9be0820f8cfc",
+      "bytes": 34124
+    },
+    {
+      "path": "daft/00877-2aaa55b5a624a1b7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c66e0ce256a804bb111a6c6a60dfcc46eca6c2020792b84706c65f9b582835db",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

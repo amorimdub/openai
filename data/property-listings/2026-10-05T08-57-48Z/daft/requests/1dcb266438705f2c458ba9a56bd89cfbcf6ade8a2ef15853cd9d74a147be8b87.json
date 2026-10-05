@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/22-cedar-view-coolfadda-bandon-co-cork/6685551",
+  "fetchedAt": "2026-10-05T09:35:36.509Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/22-cedar-view-coolfadda-bandon-co-cork/6685551",
+  "kind": "listing",
+  "responseSha256": "9d0bf3c5cb9ab6022deedb9afb3abb0fcbfd19b85d5199708652ec1a3b3296e2",
+  "files": [
+    {
+      "path": "daft/01511-1dcb266438705f2c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "adaed17539bccce0975aadde60018c5a2bd24ebefcdd953bf12dc0c6c533ab02",
+      "bytes": 38215
+    },
+    {
+      "path": "daft/01511-1dcb266438705f2c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d46b10ff2502562cb43ecba07ce98c2b10257a4788786436a70b181443f2f788",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

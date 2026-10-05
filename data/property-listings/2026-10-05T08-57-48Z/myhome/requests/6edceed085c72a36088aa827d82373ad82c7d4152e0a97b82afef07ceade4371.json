@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=107",
+  "fetchedAt": "2026-10-05T11:08:56.132Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=107",
+  "kind": "search",
+  "responseSha256": "d65089cddace691b05fa5795d31c054f23dcc426850e09ade50b11e00dab20cc",
+  "files": [
+    {
+      "path": "myhome/02724-6edceed085c72a36-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=107\"].SearchResults",
+      "sha256": "e6c155d796d87a3c50724d7820d39d48cb88c1b8a359733e5d43f8975659b30f",
+      "bytes": 100929
+    },
+    {
+      "path": "myhome/02724-6edceed085c72a36-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=107\"] (paging fields)",
+      "sha256": "1d32287b177e6a5058b95ddf1c8bde10cbec379f2e3bdf7904c69d26e4c19bea",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-collins-park-callan-kilkenny/5030155",
+    "https://www.myhome.ie/residential/brochure/150-aylmer-road-newcastle-co-dublin/5030152",
+    "https://www.myhome.ie/residential/brochure/6-castlegate-crescent-adamstown-lucan-co-dublin/5024778",
+    "https://www.myhome.ie/residential/brochure/62-kew-park-lucan-co-dublin/5016928",
+    "https://www.myhome.ie/residential/brochure/82-turret-road-palmerstown-dublin-20/5003459",
+    "https://www.myhome.ie/residential/brochure/42-melrose-court-upper-georges-street-co-wexford/5021746",
+    "https://www.myhome.ie/residential/brochure/38-james-everett-park-bray-co-wicklow/5030149",
+    "https://www.myhome.ie/residential/brochure/9c-farmhill-road-goatstown-dublin-14-dublin-14/5030148",
+    "https://www.myhome.ie/residential/brochure/15-millview-skerries-county-dublin/4942939",
+    "https://www.myhome.ie/residential/brochure/lot-a-kylecrow-killimor-ballinasloe-co-galway/5030146",
+    "https://www.myhome.ie/residential/brochure/5a-st-mary-s-road-walkinstown-dublin-12/5030143",
+    "https://www.myhome.ie/residential/brochure/cill-dara-12-b-n-milis-fethard-on-sea-new-ross-co-wexford/5030142",
+    "https://www.myhome.ie/residential/brochure/5-the-elms-diamond-valley-upper-dargle-road-bray/5030141",
+    "https://www.myhome.ie/residential/brochure/18-barrack-street-dundalk-co-louth/5030140",
+    "https://www.myhome.ie/residential/brochure/29-glenomena-park-booterstown-county-dublin/4961819",
+    "https://www.myhome.ie/residential/brochure/3-bed-apartment-glenville-garden-mount-merrion-county-dublin/5030138",
+    "https://www.myhome.ie/residential/brochure/3-bed-duplex-the-glen-cabinteely-dublin-18/5030137",
+    "https://www.myhome.ie/residential/brochure/keeraun-ballymoneen-road-rahoon-galway/5030136",
+    "https://www.myhome.ie/residential/brochure/mullaunnasmear-bunclody-co-wexford/5030134",
+    "https://www.myhome.ie/residential/brochure/apartment-83-burnell-court-malahide-road-northern-cross-dublin-17/5029010"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=108",
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST BRIGIDS NATIONAL SCHOOL",
+      "numPupils": 102,
+      "distance": {
+        "value": 0.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285316",
+        "lon": "-6.196701"
+      }
+    },
+    {
+      "schoolName": "ST. AUGUSTINE'S SCHOOL",
+      "numPupils": 159,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288353",
+        "lon": "-6.181879"
+      }
+    },
+    {
+      "schoolName": "SETANTA SPECIAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.282413",
+        "lon": "-6.188391"
+      }
+    },
+    {
+      "schoolName": "ALL SAINTS NATIONAL SCHOOL BLACKROCK",
+      "numPupils": 50,
+      "distance": {
+        "value": 0.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289375",
+        "lon": "-6.180872"
+      }
+    },
+    {
+      "schoolName": "OATLANDS PRIMARY SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.291176",
+        "lon": "-6.205249"
+      }
+    },
+    {
+      "schoolName": "ST LAURENCE'S BOYS NATIONAL SCHOOL",
+      "numPupils": 402,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288530",
+        "lon": "-6.207112"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S NATIONAL SCHOOL",
+      "numPupils": 408,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.281870",
+        "lon": "-6.204956"
+      }
+    },
+    {
+      "schoolName": "CARYSFORT NATIONAL SCHOOL",
+      "numPupils": 588,
+      "distance": {
+        "value": 1.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.297104",
+        "lon": "-6.183038"
+      }
+    },
+    {
+      "schoolName": "BOOTERSTOWN NATIONAL SCHOOL",
+      "numPupils": 92,
+      "distance": {
+        "value": 1.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.300545",
+        "lon": "-6.191000"
+      }
+    },
+    {
+      "schoolName": "SCOIL SAN TREASA",
+      "numPupils": 425,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294865",
+        "lon": "-6.210029"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OATLANDS COLLEGE",
+      "numPupils": 634,
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292484",
+        "lon": "-6.202487"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S SECONDARY SCHOOL",
+      "numPupils": 631,
+      "distance": {
+        "value": 1.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283104",
+        "lon": "-6.205334"
+      }
+    },
+    {
+      "schoolName": "NEWPARK COMPREHENSIVE SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289818",
+        "lon": "-6.173190"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE SION HILL",
+      "numPupils": 508,
+      "distance": {
+        "value": 1.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301594",
+        "lon": "-6.189679"
+      }
+    },
+    {
+      "schoolName": "BLACKROCK COLLEGE",
+      "numPupils": 1053,
+      "distance": {
+        "value": 1.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303650",
+        "lon": "-6.190333"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÍOSAGÁIN",
+      "numPupils": 488,
+      "distance": {
+        "value": 1.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.302400",
+        "lon": "-6.204072"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE EOIN",
+      "numPupils": 510,
+      "distance": {
+        "value": 1.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.302628",
+        "lon": "-6.204941"
+      }
+    },
+    {
+      "schoolName": "ST BENILDUS COLLEGE",
+      "numPupils": 925,
+      "distance": {
+        "value": 1.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284637",
+        "lon": "-6.221376"
+      }
+    },
+    {
+      "schoolName": "ROCKFORD MANOR SECONDARY SCHOOL",
+      "numPupils": 285,
+      "distance": {
+        "value": 1.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287060",
+        "lon": "-6.163007"
+      }
+    },
+    {
+      "schoolName": "WILLOW PARK SCHOOL",
+      "numPupils": 208,
+      "distance": {
+        "value": 1.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.306046",
+        "lon": "-6.195352"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "133",
+      "destination": "Wicklow",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "X1",
+      "destination": "Kilcoole",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "X2",
+      "destination": "Newcastle",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "E1",
+      "destination": "Ballywaltrim",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "181",
+      "destination": "Glendalough",
+      "provider": "St. Kevin's Bus Service",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "E2",
+      "destination": "Dun Laoghaire",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Park",
+      "route": "46n",
+      "destination": "Dundrum",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288979",
+        "lon": "-6.194875"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Patrician Villas",
+      "route": "7B",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28997",
+        "lon": "-6.19322"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Patrician Villas",
+      "route": "L25",
+      "destination": "Dundrum",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28997",
+        "lon": "-6.19322"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Patrician Villas",
+      "route": "7D",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28997",
+        "lon": "-6.19322"
+      }
+    }
+  ]
+}

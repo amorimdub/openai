@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/charter-house-dunboyne-road-maynooth-naas-co-kildare-maynooth-co-kildare/6686172",
+  "fetchedAt": "2026-10-05T09:30:25.674Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/charter-house-dunboyne-road-maynooth-naas-co-kildare-maynooth-co-kildare/6686172",
+  "kind": "listing",
+  "responseSha256": "108fae12bbb1cfcfabd9949e340fd5c05ca501ea58f425583f68299cda7164b8",
+  "files": [
+    {
+      "path": "daft/01304-e9663328dac00ee3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6d40cb0dadb396e597be41b5f5e32a1e85ae4b4d7b58b429255ab522daf1eb9c",
+      "bytes": 17783
+    },
+    {
+      "path": "daft/01304-e9663328dac00ee3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

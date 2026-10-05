@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=175",
+  "fetchedAt": "2026-10-05T11:44:43.911Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=175",
+  "kind": "search",
+  "responseSha256": "d2a7ac9f970da8a4f89c2e36da66cf4ba2b479c09d82a77757355bd88a035832",
+  "files": [
+    {
+      "path": "myhome/04134-0024530ea41d7cdd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=175\"].SearchResults",
+      "sha256": "d96dddf5d81715a7b1c7e747a28c25c6ccac04376223bada25260fc4db541d83",
+      "bytes": 126160
+    },
+    {
+      "path": "myhome/04134-0024530ea41d7cdd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=175\"] (paging fields)",
+      "sha256": "fc540876bdd271917522bdd540cb0ead43ab927a7d516a5987a66388695a3494",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-stewart-villas-carlingford-parade-dublin-2/5028306",
+    "https://www.myhome.ie/residential/brochure/kilpatrick-manor-kilpatrick-mullingar-co-westmeath/5028304",
+    "https://www.myhome.ie/residential/brochure/53-the-meadows-newbridge-kildare/5027790",
+    "https://www.myhome.ie/residential/brochure/10-kentfield-shankill-dublin-18/5028295",
+    "https://www.myhome.ie/residential/brochure/211-palmerstown-avenue-palmerstown-dublin-20/5028156",
+    "https://www.myhome.ie/residential/brochure/36-corbally-avenue-citywest-co-dublin/5028293",
+    "https://www.myhome.ie/residential/brochure/11-walnut-avenue-courtlands-drumcondra-dublin-9/5028265",
+    "https://www.myhome.ie/residential/brochure/13-the-sycamores-stradbrook-hill-blackrock-dublin/5028267",
+    "https://www.myhome.ie/residential/brochure/30-summerhill-parade-north-city-centre-dublin-1/4998212",
+    "https://www.myhome.ie/residential/brochure/ervallagh-ahascragh-galway/5028285",
+    "https://www.myhome.ie/residential/brochure/23-corbally-avenue-citywest-co-dublin/5028284",
+    "https://www.myhome.ie/residential/brochure/kilteragh-house-6-kilteragh-pines-foxrock-dublin-18/5026671",
+    "https://www.myhome.ie/residential/brochure/moorea-kerrymount-avenue-foxrock-dublin-18/5025507",
+    "https://www.myhome.ie/residential/brochure/5-the-birches-torquay-road-foxrock-dublin-18/5026621",
+    "https://www.myhome.ie/residential/brochure/drumderg-drumshanbo-co-leitrim/5028283",
+    "https://www.myhome.ie/residential/brochure/apartment-79-rialto-court-rialto-dublin-8/5028275",
+    "https://www.myhome.ie/residential/brochure/site-with-fpp-acres-knockatallon-scotstown-monaghan/5028274",
+    "https://www.myhome.ie/residential/brochure/linenfield-ballymakenny-road-drogheda-louth/5025264",
+    "https://www.myhome.ie/residential/brochure/burnham-dingle-kerry/5028197",
+    "https://www.myhome.ie/residential/brochure/43-the-phoenix-riverpark-apartments-islandbridge-dublin-8/4989572"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=176",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-10-block-3a-tallaght-dublin-24/6674759",
+  "fetchedAt": "2026-10-05T09:12:34.647Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-10-block-3a-tallaght-dublin-24/6674759",
+  "kind": "listing",
+  "responseSha256": "be7c36b93f1703d7ecc8e30b88972eed9732d841611cc2535f1a8d3efc943cee",
+  "files": [
+    {
+      "path": "daft/00591-5706c8bbc39196d3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2e4531f299b3189c55c2b3a7e14f08936d4d677e0de744f079edc076bbcad149",
+      "bytes": 20361
+    },
+    {
+      "path": "daft/00591-5706c8bbc39196d3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "13c5456a73849f4c6ed4ebf7934c5d97951dad3d1449c859ca219518e9ca22bb",
+      "bytes": 8105
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

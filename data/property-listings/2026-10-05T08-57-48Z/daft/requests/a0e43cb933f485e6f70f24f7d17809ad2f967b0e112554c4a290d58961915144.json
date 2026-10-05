@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-scholarstown-wood-scholarstown-road-rathfarnham-co-dublin/6639289",
+  "fetchedAt": "2026-10-05T09:06:35.713Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-scholarstown-wood-scholarstown-road-rathfarnham-co-dublin/6639289",
+  "kind": "listing",
+  "responseSha256": "43a521d3b37277edc92e47186e1003c720396c9a797e059a1aed67012045b2a1",
+  "files": [
+    {
+      "path": "daft/00352-a0e43cb933f485e6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2050bc756b4208bb35a88fca9c7b7541a56d672cd01e67ade0f51194deb0f1fe",
+      "bytes": 33422
+    },
+    {
+      "path": "daft/00352-a0e43cb933f485e6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f7b04c284012c8608ecb118fb5a6bc460d5a147fea3d482a5ec7dee1ea293bb2",
+      "bytes": 8144
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

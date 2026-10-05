@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/clonkeen-portlaoise-co-laois/6273903",
+  "fetchedAt": "2026-10-05T09:50:24.356Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/clonkeen-portlaoise-co-laois/6273903",
+  "kind": "listing",
+  "responseSha256": "1db183afdff3612b88c51d41cbe1b609a1c3cd7a6013fda03abf6937b4e210e0",
+  "files": [
+    {
+      "path": "daft/02102-d2a333f34c904eb4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dae7164c3758c5e072fe787d2993c3e230ceb9084f7f88ec53f8cb803c4f698e",
+      "bytes": 78770
+    },
+    {
+      "path": "daft/02102-d2a333f34c904eb4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "935661df71d7d8b9e1020fe16b6ab3704ba85f9f5ffc8b7aff2d9f776984115e",
+      "bytes": 8125
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

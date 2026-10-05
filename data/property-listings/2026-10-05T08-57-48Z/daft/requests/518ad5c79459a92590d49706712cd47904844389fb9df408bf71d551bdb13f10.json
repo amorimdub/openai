@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/34-phoenix-street-dublin-10-kilmainham-co-dublin/6671574",
+  "fetchedAt": "2026-10-05T09:12:15.115Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/34-phoenix-street-kilmainham-dublin-10/6671574",
+  "kind": "listing",
+  "responseSha256": "58df2ab3fa27a0ecb9a43f4fad200f69ab0e9220e7a1c5666e54b31cd83738f7",
+  "files": [
+    {
+      "path": "daft/00578-518ad5c79459a925-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9d3aecf824385fbbc7219365f62b5867710b8d71aea99ccf33f61fabe12d8d3d",
+      "bytes": 96281
+    },
+    {
+      "path": "daft/00578-518ad5c79459a925-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "71b500848c954ff2232988d7a82e2430139f18019ca9ddebcb79ac23d70dae1b",
+      "bytes": 8223
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

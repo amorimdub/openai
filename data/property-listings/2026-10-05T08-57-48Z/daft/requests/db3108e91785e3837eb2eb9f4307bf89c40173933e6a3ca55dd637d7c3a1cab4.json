@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ferbane-co-offaly-ferbane-co-offaly/6687173",
+  "fetchedAt": "2026-10-05T09:24:47.616Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ferbane-co-offaly-ferbane-co-offaly/6687173",
+  "kind": "listing",
+  "responseSha256": "891d9d2c4cd3b51c950c30bcdc8233cbf09c7ac98cc6e403a7fba968e3f63021",
+  "files": [
+    {
+      "path": "daft/01079-db3108e91785e383-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04614adbedd2a63c746051d1bcac82e2b2eab2e0d0819d9a2ff0824b0fc37191",
+      "bytes": 12603
+    },
+    {
+      "path": "daft/01079-db3108e91785e383-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

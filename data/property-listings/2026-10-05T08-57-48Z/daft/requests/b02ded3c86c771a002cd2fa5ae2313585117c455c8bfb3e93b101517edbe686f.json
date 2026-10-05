@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-tara-kinsale-co-cork/6671335",
+  "fetchedAt": "2026-10-05T09:28:31.492Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-tara-kinsale-co-cork/6671335",
+  "kind": "listing",
+  "responseSha256": "1f4a5380a60a20eebb0f202b159bc50c7382a016d69d0d030ad462179134cf9f",
+  "files": [
+    {
+      "path": "daft/01228-b02ded3c86c771a0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5d10c1b1fbfe16cecc76db333b2bd109c106b2fc06e8dd49f348fd0db6e7d728",
+      "bytes": 16564
+    },
+    {
+      "path": "daft/01228-b02ded3c86c771a0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ed107c66e032524389e333ac9673550e9ebba1deb0673cdad2339779fe7b977b",
+      "bytes": 8095
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

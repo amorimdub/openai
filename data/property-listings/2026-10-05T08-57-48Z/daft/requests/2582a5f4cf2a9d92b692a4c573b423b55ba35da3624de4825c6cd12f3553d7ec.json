@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-9-beechmount-49-glasnevin-hill-dublin-9/6685122",
+  "fetchedAt": "2026-10-05T09:04:08.550Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-9-beechmount-49-glasnevin-hill-dublin-9/6685122",
+  "kind": "listing",
+  "responseSha256": "0ad032da3bb77afab92cfc5f73875f8384c62d6807f2a9066a0a9cf7dea9d522",
+  "files": [
+    {
+      "path": "daft/00254-2582a5f4cf2a9d92-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bf84ea201e8951fbd97a1d970465dc16ecdfc32ae76280018afc496fa1483f72",
+      "bytes": 48065
+    },
+    {
+      "path": "daft/00254-2582a5f4cf2a9d92-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f28b1cef0bd90281b5612666c12df2065b9145ec6a8982f1a874fd2852efe9a5",
+      "bytes": 8095
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

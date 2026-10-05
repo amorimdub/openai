@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-10-48-haddington-road-ballsbridge-dublin-4/6684121",
+  "fetchedAt": "2026-10-05T09:44:50.749Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-10-48-haddington-road-ballsbridge-dublin-4/6684121",
+  "kind": "listing",
+  "responseSha256": "6121c6761da661e7a64022ae406eddc963156bb92f03c9121fbc0c2bf3e3b08e",
+  "files": [
+    {
+      "path": "daft/01880-68aca835a7bd7903-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9426c04512352f3eb97fd9ce83655efebe2c5984fc3075e255bb3888ee21fb0",
+      "bytes": 22835
+    },
+    {
+      "path": "daft/01880-68aca835a7bd7903-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ee5fad2239f4bc6c2402cb7514d094a2b7f8ec394645224eef6b1cf00c73b3ac",
+      "bytes": 8149
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

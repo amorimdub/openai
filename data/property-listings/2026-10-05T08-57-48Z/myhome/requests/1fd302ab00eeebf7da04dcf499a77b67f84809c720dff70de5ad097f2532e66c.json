@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=78",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=78",
+  "fetchedAt": "2026-10-05T09:51:58.221Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "7b6e224524b74a4650055b63e94468b05b5ada99f8a7255800317db6d842b9ff",
+  "files": [
+    {
+      "path": "myhome/02158-1fd302ab00eeebf7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=78\"].SearchResults",
+      "sha256": "9b4df05f5471d0940d515187bbb7d686b27baa94e7fcb1daebb9f4f68d1e55e4",
+      "bytes": 107773
+    },
+    {
+      "path": "myhome/02158-1fd302ab00eeebf7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=78\"] (paging fields)",
+      "sha256": "2deb90744debfaa391a9a2e3e4ad206b68d40ec47729bb5a6ba3672850f58a7a",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/18-harbour-grove-lower-point-road-dundalk-louth/5030785",
+    "https://www.myhome.ie/residential/brochure/derryloughaun-west-furbo-co-galway/5030821",
+    "https://www.myhome.ie/residential/brochure/39-rathmore-village-tyrrelstown-dublin-15/5025448",
+    "https://www.myhome.ie/residential/brochure/66-balkhill-park-howth-dublin/4993526",
+    "https://www.myhome.ie/residential/brochure/33-rosedale-close-castaheany-dublin-15/5030818",
+    "https://www.myhome.ie/residential/brochure/14-hazel-lawns-ballyhaunis-county-mayo/5030817",
+    "https://www.myhome.ie/residential/brochure/12-park-boulevard-tyrrelstown-dublin-15/5028168",
+    "https://www.myhome.ie/residential/brochure/23-turnstone-barnageeragh-cove-skerries-dublin/5029161",
+    "https://www.myhome.ie/residential/brochure/3-annesley-bridge-road-fairview-dublin-3/5030808",
+    "https://www.myhome.ie/residential/brochure/knock-ballybofey-co-donegal/5030810",
+    "https://www.myhome.ie/residential/brochure/18-vereker-gardens-ennis-road-limerick/5030809",
+    "https://www.myhome.ie/residential/brochure/islandbawn-nenagh-co-tipperary/5030806",
+    "https://www.myhome.ie/residential/brochure/apartment-23-block-a-glencove-apartments-dunmore-road-waterford/5030769",
+    "https://www.myhome.ie/residential/brochure/summerhill-12-13-mount-anville-road-goatstown-dublin-14/5005454",
+    "https://www.myhome.ie/residential/brochure/32-cherry-glade-delgany-wood-delgany-co-wicklow/5030802",
+    "https://www.myhome.ie/residential/brochure/23-monastery-terrace-blarney-road-cork-city-cork/5030797",
+    "https://www.myhome.ie/residential/brochure/28-the-courtyard-maelduin-dunshaughlin-meath/5030798",
+    "https://www.myhome.ie/residential/brochure/5-saint-patricks-terrace-lower-glanmire-road-cork/5030799",
+    "https://www.myhome.ie/residential/brochure/26-williamstown-glen-williamstown-road-waterford-city-waterford/5030794",
+    "https://www.myhome.ie/residential/brochure/12-beechdale-place-ballycullen-dublin-24/5030492"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=79",
+  "paginationLimited": false
+}

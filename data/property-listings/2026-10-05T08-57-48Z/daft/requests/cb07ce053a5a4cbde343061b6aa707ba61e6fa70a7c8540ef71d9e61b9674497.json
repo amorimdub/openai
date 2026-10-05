@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/15-millbrook-court-mount-brown-kilmainham-dublin-8/6685798",
+  "fetchedAt": "2026-10-05T09:34:12.413Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/15-millbrook-court-mount-brown-kilmainham-dublin-8/6685798",
+  "kind": "listing",
+  "responseSha256": "e80665ee4916cf5354ca63336956d6e11ade835b3faaa11bd8454d978e7fde2d",
+  "files": [
+    {
+      "path": "daft/01455-cb07ce053a5a4cbd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "008d113f292d42e3eefb681c5097b81907672a1dfc564a3514e8b9ba40e1dc12",
+      "bytes": 29088
+    },
+    {
+      "path": "daft/01455-cb07ce053a5a4cbd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c8fb29d10a7083ca748596e5aca68502ec428b9991e92499b00c19ec131927fd",
+      "bytes": 8143
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

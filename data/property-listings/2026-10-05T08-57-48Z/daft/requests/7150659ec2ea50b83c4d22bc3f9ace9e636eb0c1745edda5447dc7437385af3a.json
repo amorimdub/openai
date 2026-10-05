@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/blessington-street-dublin-7/6684851",
+  "fetchedAt": "2026-10-05T09:40:35.346Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/blessington-street-dublin-7/6684851",
+  "kind": "listing",
+  "responseSha256": "0accc179db94eb5333f18fc3710cd19cae8c5027f389ea4a351c730cdea6f6db",
+  "files": [
+    {
+      "path": "daft/01710-7150659ec2ea50b8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "66d9caf1266f54e263453b54cd2a78eeeed34bb7aef6dfefa4ecaf43b26b0b67",
+      "bytes": 13898
+    },
+    {
+      "path": "daft/01710-7150659ec2ea50b8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a3b79736ed9c65f28ab7806c9fc1dce9caa412570d57172fa2dcaf31db019365",
+      "bytes": 8064
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

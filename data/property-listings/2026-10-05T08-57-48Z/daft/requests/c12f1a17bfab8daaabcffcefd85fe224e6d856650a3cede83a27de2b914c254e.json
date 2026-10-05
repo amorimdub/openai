@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/33-kellys-bay-strand-skerries-skerries-co-dublin/6679639",
+  "fetchedAt": "2026-10-05T09:18:50.148Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/33-kellys-bay-strand-skerries-skerries-co-dublin/6679639",
+  "kind": "listing",
+  "responseSha256": "813aaa2d60b71797229d4e0157d972482bc1ad25c7bb4d2ac5563ecec6f3f8c8",
+  "files": [
+    {
+      "path": "daft/00841-c12f1a17bfab8daa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4269d0dedca606b23ee6fb14077cabfcde9f5a58580db0e0964953ab6e23a6b8",
+      "bytes": 106097
+    },
+    {
+      "path": "daft/00841-c12f1a17bfab8daa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3d3a8777c3ddc95e99fceacbf6e63f8738bb93e9cddc9dd17f528f06183a5b1f",
+      "bytes": 8198
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

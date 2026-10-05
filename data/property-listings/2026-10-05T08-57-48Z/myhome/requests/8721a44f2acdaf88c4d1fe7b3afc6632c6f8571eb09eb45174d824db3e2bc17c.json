@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=3",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=3",
+  "fetchedAt": "2026-10-05T08:58:54.254Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "3e4b6d067315006ece15a6a38275d2b0b52c8c63418c762042220593e07a6509",
+  "files": [
+    {
+      "path": "myhome/00045-8721a44f2acdaf88-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=3\"].SearchResults",
+      "sha256": "94a9220dc222242593308136b7d08f676cca674bb80bad52857362ec208a7442",
+      "bytes": 119103
+    },
+    {
+      "path": "myhome/00045-8721a44f2acdaf88-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=3\"] (paging fields)",
+      "sha256": "52b6bfed4bfc42ef712e881c891541c2df14779090c5ed6df216a72c2fa61f96",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/101-greenhills-estate-ballina-co-mayo/5028820",
+    "https://www.myhome.ie/residential/brochure/the-warbler-miller-s-glen-apartments-swords-dublin/5017434",
+    "https://www.myhome.ie/residential/brochure/the-citril-miller-s-glen-apartments-swords-dublin/5017428",
+    "https://www.myhome.ie/residential/brochure/the-swift-miller-s-glen-apartments-swords-dublin/5017432",
+    "https://www.myhome.ie/residential/brochure/14-saint-joseph-s-avenue-drumcondra-dublin-3/5028456",
+    "https://www.myhome.ie/residential/brochure/1-colthurst-mews-lucan-co-dublin/5026656",
+    "https://www.myhome.ie/residential/brochure/laeken-100-lower-churchtown-road-churchtown-dublin-14/5028496",
+    "https://www.myhome.ie/residential/brochure/house-type-c-an-tulach-liath-quay-road-dungloe-donegal/5022694",
+    "https://www.myhome.ie/residential/brochure/187-grace-park-heights-drumcondra-dublin-9/5023725",
+    "https://www.myhome.ie/residential/brochure/39-brennanstown-square-cabinteely-dublin-18/5026472",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-apartments-the-dunmore-collection-south-coast-shankill-co-dublin/5028356",
+    "https://www.myhome.ie/residential/brochure/4-ikerrin-close-ikerrin-road-thurles-co-tipperary/4995531",
+    "https://www.myhome.ie/residential/brochure/60-landscape-park-churchtown-dublin-14/5028163",
+    "https://www.myhome.ie/residential/brochure/station-house-skerries-county-dublin/5024913",
+    "https://www.myhome.ie/residential/brochure/83-strand-road-sandymount-dublin-4/5027874",
+    "https://www.myhome.ie/residential/brochure/98-home-farm-road-drumcondra-dublin-9/5028401",
+    "https://www.myhome.ie/residential/brochure/palmerstown-rathnawooraun-killala-co-mayo/5019487",
+    "https://www.myhome.ie/residential/brochure/131-corrib-road-terenure-dublin-6w/4932834",
+    "https://www.myhome.ie/residential/brochure/88-fernleigh-drive-castleknock-dublin-15/5032091",
+    "https://www.myhome.ie/residential/brochure/5-clonattin-road-gorey-wexford/5026629"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=4",
+  "paginationLimited": false
+}

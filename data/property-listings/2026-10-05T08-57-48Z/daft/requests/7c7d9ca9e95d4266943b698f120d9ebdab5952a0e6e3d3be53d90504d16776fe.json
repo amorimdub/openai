@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-swiss-cottage-by-havitat-santry-santry-co-dublin/6615497",
+  "fetchedAt": "2026-10-05T09:03:29.505Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-swiss-cottage-by-havitat-santry-santry-co-dublin/6615497",
+  "kind": "listing",
+  "responseSha256": "930cb1a334441f27e50f552997c15038779350f97c46a417cf467ab8567f3e83",
+  "files": [
+    {
+      "path": "daft/00228-7c7d9ca9e95d4266-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e133222f8ec9ed29330b97b8d12c2b33a352f014cc662affbeae476a75242d32",
+      "bytes": 99606
+    },
+    {
+      "path": "daft/00228-7c7d9ca9e95d4266-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "26d495f75ff41337400821df4d80cb2fd89ac9b5cab8bdb6ae262915b6f4b04a",
+      "bytes": 8047
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-56-melrose-court-wexford-town-co-wexford/6678475",
+  "fetchedAt": "2026-10-05T09:18:08.106Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-56-melrose-court-wexford-town-co-wexford/6678475",
+  "kind": "listing",
+  "responseSha256": "091562776a0ef0468fd57cb06d434546f2435c9c2b7d84861fdb71cd4641559b",
+  "files": [
+    {
+      "path": "daft/00813-96a924635bd4344a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "836becf4255e5b3a42e6502b00108d5d3c0856dccd69f900f0a0d9cb6f69a2cf",
+      "bytes": 59114
+    },
+    {
+      "path": "daft/00813-96a924635bd4344a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ff2e8f86d7c1a4abbd0756434341f5119c02811694ffcd652578c54f508d936f",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

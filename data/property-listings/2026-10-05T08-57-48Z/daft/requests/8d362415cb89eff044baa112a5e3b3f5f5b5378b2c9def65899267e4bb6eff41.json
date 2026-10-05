@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-alliance-the-gasworks-barrow-street-dublin-4/2315171",
+  "fetchedAt": "2026-10-05T09:01:13.918Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-alliance-the-gasworks-barrow-street-dublin-4/2315171",
+  "kind": "listing",
+  "responseSha256": "3555affd8a8e2d81b54906140566cd017b6476c1218a161bade6f98fbef459b5",
+  "files": [
+    {
+      "path": "daft/00138-8d362415cb89eff0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a9847f8be955884f3a427d98b8a7823e182016224214bbc13278119b3ca48d91",
+      "bytes": 76961
+    },
+    {
+      "path": "daft/00138-8d362415cb89eff0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c65dc483eeffeccc8650455738e51a30164c5f51899d5278fa2e11262468ff27",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

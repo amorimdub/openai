@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=79",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=79",
+  "fetchedAt": "2026-10-05T09:52:29.766Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "a5c88d6bb8c97a108c88a0493ad1376fe0f2dbba5b495b6cd3fe4033c5c2fbc9",
+  "files": [
+    {
+      "path": "myhome/02179-4516a6c0347dea9c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=79\"].SearchResults",
+      "sha256": "6b0391c62f87c49c2f9b1349f8e8453e9078811575fc4da6d656eecbc28b9df6",
+      "bytes": 113011
+    },
+    {
+      "path": "myhome/02179-4516a6c0347dea9c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=79\"] (paging fields)",
+      "sha256": "4caed7e27b933d4f559544f2961080d8fb91e90b94d5be332d1ce6c0f30a25ab",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/12-beechdale-place-ballycullen-dublin-24/5030492",
+    "https://www.myhome.ie/residential/brochure/48-lower-mount-carmel-new-ross-co-wexford/5030796",
+    "https://www.myhome.ie/residential/brochure/2-rectory-walk-castlebridge-wexford/5030793",
+    "https://www.myhome.ie/residential/brochure/26-domville-park-cherrywood-dublin-18/5030792",
+    "https://www.myhome.ie/residential/brochure/1-saint-marys-place-carrigrohane-cork/5030790",
+    "https://www.myhome.ie/residential/brochure/apartment-116-block-4-parkgate-place-dublin-8-dublin/5030786",
+    "https://www.myhome.ie/residential/brochure/11-cherbury-park-avenue-lucan-dublin/5027652",
+    "https://www.myhome.ie/residential/brochure/45a-abbeylands-mullingar-co-westmeath/5030789",
+    "https://www.myhome.ie/residential/brochure/6-bellview-heights-mullingar-co-westmeath/5030788",
+    "https://www.myhome.ie/residential/brochure/woodview-mylerstown-nurney-co-kildare/5030787",
+    "https://www.myhome.ie/residential/brochure/19a-springbank-saggart-co-dublin/5030784",
+    "https://www.myhome.ie/residential/brochure/1-barr-taoide-forthill-street-galway-city/5030782",
+    "https://www.myhome.ie/residential/brochure/2-kilvere-park-templeogue-dublin-6w/4831960",
+    "https://www.myhome.ie/residential/brochure/7-thorncliffe-park-rathgar-dublin-14/5030783",
+    "https://www.myhome.ie/residential/brochure/9-churchwell-grove-belmayne-dublin-13/4973073",
+    "https://www.myhome.ie/residential/brochure/69-aylesbury-ballintemple-cork/5030781",
+    "https://www.myhome.ie/residential/brochure/181-ivy-exchange-dublin-1/5030780",
+    "https://www.myhome.ie/residential/brochure/main-street-ballindine-mayo/5029765",
+    "https://www.myhome.ie/residential/brochure/8-ard-glas-ferrybank-waterford/5008406",
+    "https://www.myhome.ie/residential/brochure/215-glenvara-park-knocklyon-dublin-16/5030779"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=80",
+  "paginationLimited": false
+}

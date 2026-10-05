@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST ERNAN'S NATIONAL SCHOOL",
+      "numPupils": 110,
+      "distance": {
+        "value": 5.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.618343",
+        "lon": "-7.088311"
+      }
+    },
+    {
+      "schoolName": "CLONMELLON NATIONAL SCHOOL",
+      "numPupils": 189,
+      "distance": {
+        "value": 6.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.664104",
+        "lon": "-7.013858"
+      }
+    },
+    {
+      "schoolName": "MOYLAGH NATIONAL SCHOOL",
+      "numPupils": 93,
+      "distance": {
+        "value": 7.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.718952",
+        "lon": "-7.172231"
+      }
+    },
+    {
+      "schoolName": "COLLINSTOWN NATIONAL SCHOOL",
+      "numPupils": 172,
+      "distance": {
+        "value": 7.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.649860",
+        "lon": "-7.218024"
+      }
+    },
+    {
+      "schoolName": "FORE NATIONAL SCHOOL",
+      "numPupils": 97,
+      "distance": {
+        "value": 7.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.677433",
+        "lon": "-7.222344"
+      }
+    },
+    {
+      "schoolName": "CROWENSTOWN NATIONAL SCHOOL",
+      "numPupils": 19,
+      "distance": {
+        "value": 7.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611140",
+        "lon": "-7.037368"
+      }
+    },
+    {
+      "schoolName": "KILSKYRE NATIONAL SCHOOL",
+      "numPupils": 88,
+      "distance": {
+        "value": 8.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.693928",
+        "lon": "-6.996048"
+      }
+    },
+    {
+      "schoolName": "ST TOLA'S NATIONAL SCHOOL",
+      "numPupils": 213,
+      "distance": {
+        "value": 8.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.585133",
+        "lon": "-7.131464"
+      }
+    },
+    {
+      "schoolName": "BALLINLOUGH NATIONAL SCHOOL",
+      "numPupils": 61,
+      "distance": {
+        "value": 9.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.732018",
+        "lon": "-7.028547"
+      }
+    },
+    {
+      "schoolName": "GILSON NATIONAL SCHOOL",
+      "numPupils": 227,
+      "distance": {
+        "value": 12.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.769110",
+        "lon": "-7.158100"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST OLIVER POST PRIMARY",
+      "numPupils": 641,
+      "distance": {
+        "value": 12.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.772434",
+        "lon": "-7.163259"
+      }
+    },
+    {
+      "schoolName": "CASTLEPOLLARD COMMUNITY COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 12.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.674583",
+        "lon": "-7.305084"
+      }
+    },
+    {
+      "schoolName": "ATHBOY COMMUNITY SCHOOL",
+      "numPupils": 653,
+      "distance": {
+        "value": 13.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.624770",
+        "lon": "-6.913190"
+      }
+    },
+    {
+      "schoolName": "COLUMBA COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 16.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.516510",
+        "lon": "-7.139881"
+      }
+    },
+    {
+      "schoolName": "ST CIARÁN'S COMMUNITY SCHOOL",
+      "numPupils": 597,
+      "distance": {
+        "value": 17.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.724117",
+        "lon": "-6.871644"
+      }
+    },
+    {
+      "schoolName": "EUREKA SECONDARY SCHOOL",
+      "numPupils": 759,
+      "distance": {
+        "value": 17.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.725372",
+        "lon": "-6.871933"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE POBAIL RATH CAIRN",
+      "numPupils": 138,
+      "distance": {
+        "value": 17.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.620068",
+        "lon": "-6.860758"
+      }
+    },
+    {
+      "schoolName": "VIRGINIA COLLEGE",
+      "numPupils": 844,
+      "distance": {
+        "value": 18.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.831210",
+        "lon": "-7.084241"
+      }
+    },
+    {
+      "schoolName": "WILSON'S HOSPITAL SCHOOL",
+      "numPupils": 430,
+      "distance": {
+        "value": 21.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611702",
+        "lon": "-7.417280"
+      }
+    },
+    {
+      "schoolName": "ST. FINIAN'S COLLEGE",
+      "numPupils": 877,
+      "distance": {
+        "value": 21.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539017",
+        "lon": "-7.355277"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Delvin",
+      "route": "111",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6117640369722",
+        "lon": "-7.09319214400712"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Delvin",
+      "route": "111X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611805",
+        "lon": "-7.092693"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Delvin",
+      "route": "167",
+      "destination": "Mullingar",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611805",
+        "lon": "-7.092693"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Delvin",
+      "route": "111A",
+      "destination": "Delvin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611805",
+        "lon": "-7.092693"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clonmellon",
+      "route": "111X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6638533380869",
+        "lon": "-7.01709887712474"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clonmellon",
+      "route": "167",
+      "destination": "Dundalk",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6639413264054",
+        "lon": "-7.01686985954469"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Collinstown",
+      "route": "111A",
+      "destination": "Athboy",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6476301372425",
+        "lon": "-7.21253305116328"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Collinstown",
+      "route": "818",
+      "destination": "Castlepollard",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 7.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.647532190552",
+        "lon": "-7.21267100307606"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Crossakiel",
+      "route": "187",
+      "destination": "Kells",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 8.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.714757",
+        "lon": "-7.02037"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Crossakiel North",
+      "route": "187",
+      "destination": "Kells",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.724287",
+        "lon": "-7.014307"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/7-the-rivery-crosstown-ferrybank-co-wexford/6565208",
+  "fetchedAt": "2026-10-05T09:37:02.095Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/7-the-rivery-crosstown-ferrybank-co-wexford/6565208",
+  "kind": "listing",
+  "responseSha256": "2f483f64b94876d4acaca2d6837081acea6dd9871e961082726dffa182f06c4b",
+  "files": [
+    {
+      "path": "daft/01568-a69845343739eafa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1234d6b26fcf73d4ef6e4cb943d0211efdefd2ff66a9a16453d464939ec54644",
+      "bytes": 61488
+    },
+    {
+      "path": "daft/01568-a69845343739eafa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bd83e8448927b75caed4ee63658b653f5aab56f75c2fda94cc2f805a5be21211",
+      "bytes": 8056
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

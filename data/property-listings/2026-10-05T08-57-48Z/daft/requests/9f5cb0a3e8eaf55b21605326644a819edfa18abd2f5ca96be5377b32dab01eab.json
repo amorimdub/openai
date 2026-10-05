@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/21-esker-manor-lucan-co-dublin/6683738",
+  "fetchedAt": "2026-10-05T09:47:04.499Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/21-esker-manor-lucan-co-dublin/6683738",
+  "kind": "listing",
+  "responseSha256": "a067956f954b29a7616e176e3f925f1f79cc88c164fc601b12c71a49a5721111",
+  "files": [
+    {
+      "path": "daft/01969-9f5cb0a3e8eaf55b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8828db43704f8b770449e5d8115bfe33e4ce84546622fb35a45c28485d6502a9",
+      "bytes": 20647
+    },
+    {
+      "path": "daft/01969-9f5cb0a3e8eaf55b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "68b18229eb1bd16491957f3132ad5213adf0f0decaa60c53a4dc3c6c54a7c466",
+      "bytes": 8179
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

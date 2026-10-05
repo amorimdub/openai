@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=475",
+  "fetchedAt": "2026-10-05T14:19:14.578Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=475",
+  "kind": "search",
+  "responseSha256": "40ac7aad0b6f1b3c2391ceb8b4800b63ef5e2a7792389daad175aa8cfc971d91",
+  "files": [
+    {
+      "path": "myhome/10296-e31a65715f2e1c3f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=475\"].SearchResults",
+      "sha256": "0d55e17d0c13813be8a10fb2d6e185d874cd085eedc4c423bc77ab63b3d4010c",
+      "bytes": 126054
+    },
+    {
+      "path": "myhome/10296-e31a65715f2e1c3f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=475\"] (paging fields)",
+      "sha256": "d7f698c780151c2132374ef59ef5198459913ab4aef1e618c11038d3a7aa4abe",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/lot-1-house-site-43-waterloo-road-ballsbridge-dublin-4/5005682",
+    "https://www.myhome.ie/residential/brochure/gate-lodge-kilcarra-west-glenart-castle-kilcarra-co-wicklow-woodenbridge-wicklow/5005674",
+    "https://www.myhome.ie/residential/brochure/41-aberdeen-street-north-circular-road-dublin-7/5005355",
+    "https://www.myhome.ie/residential/brochure/1-willmount-gardiners-hill-st-lukes-cork-city/5005162",
+    "https://www.myhome.ie/residential/brochure/2-shelbourne-square-north-circular-road-county-limerick/5005626",
+    "https://www.myhome.ie/residential/brochure/16-beechpark-claremorris-mayo/5002584",
+    "https://www.myhome.ie/residential/brochure/2-abbey-farm-brigown-mitchelstown-cork/5005614",
+    "https://www.myhome.ie/residential/brochure/17-oldtown-rise-naas-county-kildare/5001662",
+    "https://www.myhome.ie/residential/brochure/21-millbridge-way-naas-county-kildare/4995662",
+    "https://www.myhome.ie/residential/brochure/firmullagh-moyne-longford/4998626",
+    "https://www.myhome.ie/residential/brochure/muldron-ardbrack-kinsale-county-cork/5005598",
+    "https://www.myhome.ie/residential/brochure/the-convent-leenane-galway/5005583",
+    "https://www.myhome.ie/residential/brochure/altan-coolnahay-slanemore-monroe-co-westmeath-mullingar-westmeath/5005556",
+    "https://www.myhome.ie/residential/brochure/corbally-house-corbally-ballylinan-county-laois/5005559",
+    "https://www.myhome.ie/residential/brochure/woodview-house-74-woodview-grove-blanchardstown-dublin/5005557",
+    "https://www.myhome.ie/residential/brochure/abbeystrewry-skibbereen-co-cork/5005537",
+    "https://www.myhome.ie/residential/brochure/c-0-60-acre-site-drumdaff-kilrooskey-county-roscommon/5005533",
+    "https://www.myhome.ie/residential/brochure/21-western-bay-dungarvan-waterford/5005522",
+    "https://www.myhome.ie/residential/brochure/63-the-square-riverbank-drogheda-louth/5005052",
+    "https://www.myhome.ie/residential/brochure/drummin-gort-county-galway/5005510"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=476",
+  "paginationLimited": false
+}

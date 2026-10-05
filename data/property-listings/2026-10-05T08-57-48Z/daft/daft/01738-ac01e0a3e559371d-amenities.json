@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "PRESENTATION PRIMARY",
+      "numPupils": 136,
+      "distance": {
+        "value": 0.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274204",
+        "lon": "-9.062489"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SPECIAL SCHOOL",
+      "numPupils": 81,
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283394",
+        "lon": "-9.071785"
+      }
+    },
+    {
+      "schoolName": "GALWAY EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 381,
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283985",
+        "lon": "-9.070823"
+      }
+    },
+    {
+      "schoolName": "ST NICHOLAS' PRIMARY SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276405",
+        "lon": "-9.054381"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE SHANTALLA",
+      "numPupils": 204,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273502",
+        "lon": "-9.071456"
+      }
+    },
+    {
+      "schoolName": "MERCY PRIMARY",
+      "numPupils": 261,
+      "distance": {
+        "value": 0.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275715",
+        "lon": "-9.053796"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOGNÁID",
+      "numPupils": 499,
+      "distance": {
+        "value": 0.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270520",
+        "lon": "-9.062462"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272263",
+        "lon": "-9.055382"
+      }
+    },
+    {
+      "schoolName": "SCOIL FHURSA",
+      "numPupils": 200,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269077",
+        "lon": "-9.066319"
+      }
+    },
+    {
+      "schoolName": "SCOIL AINE SPECIAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 1.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268580",
+        "lon": "-9.074598"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OUR LADY'S COLLEGE",
+      "numPupils": 249,
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273636",
+        "lon": "-9.059698"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COLLEGE",
+      "numPupils": 767,
+      "distance": {
+        "value": 0.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272594",
+        "lon": "-9.058093"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE MÁTHAIR",
+      "numPupils": 765,
+      "distance": {
+        "value": 0.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271027",
+        "lon": "-9.064991"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 415,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271060",
+        "lon": "-9.067110"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IOGNÁID S.J.",
+      "numPupils": 636,
+      "distance": {
+        "value": 1.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269960",
+        "lon": "-9.061381"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE",
+      "numPupils": 601,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268574",
+        "lon": "-9.076905"
+      }
+    },
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 2.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÉINDE",
+      "numPupils": 806,
+      "distance": {
+        "value": 2.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.265705",
+        "lon": "-9.089664"
+      }
+    },
+    {
+      "schoolName": "SALERNO SECONDARY SCHOOL",
+      "numPupils": 666,
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.263810",
+        "lon": "-9.089556"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA COIRIBE",
+      "numPupils": 666,
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269577",
+        "lon": "-9.123760"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Lw Newcastle",
+      "route": "923",
+      "destination": "Clifden",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278883",
+        "lon": "-9.063356"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lw Newcastle",
+      "route": "405",
+      "destination": "Rahoon",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278883",
+        "lon": "-9.063356"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lw Newcastle",
+      "route": "411",
+      "destination": "Cúirt an Mhainéir",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278883",
+        "lon": "-9.063356"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lw Newcastle",
+      "route": "412",
+      "destination": "Eyre Square",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27858",
+        "lon": "-9.06307"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lw Newcastle",
+      "route": "404",
+      "destination": "Oranmore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27858",
+        "lon": "-9.06307"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lw Newcastle",
+      "route": "419",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27858",
+        "lon": "-9.06307"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Snipe Lawn",
+      "route": "411",
+      "destination": "Cúirt an Mhainéir",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280092",
+        "lon": "-9.064811"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Snipe Lawn",
+      "route": "405",
+      "destination": "Rahoon",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280092",
+        "lon": "-9.064811"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Snipe Lawn",
+      "route": "412",
+      "destination": "Eyre Square",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280107",
+        "lon": "-9.065126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Snipe Avenue",
+      "route": "NG05",
+      "destination": "Liosban Industrial Estate",
+      "provider": "Westlink Coaches",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.281457",
+        "lon": "-9.064935"
+      }
+    }
+  ]
+}

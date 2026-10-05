@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-30-the-oak-carysfort-hall-carysfort-park-blackrock-co-dublin/6683007",
+  "fetchedAt": "2026-10-05T09:10:49.502Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-30-the-oak-carysfort-hall-carysfort-park-blackrock-co-dublin/6683007",
+  "kind": "listing",
+  "responseSha256": "8a657c1a34f3cbd24c9e5aa67524e0d7cc39eac64d2349f0c0c715100278b3c4",
+  "files": [
+    {
+      "path": "daft/00521-5eeb1a033170cdf5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4c29c1652db09a8307670bacef1793173373b28e29c7ff8850a16ff49ba4a376",
+      "bytes": 83330
+    },
+    {
+      "path": "daft/00521-5eeb1a033170cdf5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "50f5d3e2f53caf04b4d427228d8271be4554ecb08d5b907f0ff546042ee32b8c",
+      "bytes": 8021
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

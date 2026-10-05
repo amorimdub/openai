@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/11-frankfort-court-dundrum-dublin-14/6671881",
+  "fetchedAt": "2026-10-05T09:13:27.230Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/11-frankfort-court-dundrum-dublin-14/6671881",
+  "kind": "listing",
+  "responseSha256": "0ea40e771f32d721d3d9278c3a74ce2673992a70fa8666b5d060323240379cd4",
+  "files": [
+    {
+      "path": "daft/00626-73d41392be03258d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "143892d810a2f2b9de75a7bac625c818c6b31cf1544bb0fa85a6322fb4802495",
+      "bytes": 44229
+    },
+    {
+      "path": "daft/00626-73d41392be03258d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e042b4c726ce2e2668c4a1d84ccbd2bf1aa7b12b66ca643c773670aa94f802ca",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

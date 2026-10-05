@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/22-cadogan-road-dublin-3-fairview-dublin-3/6677385",
+  "fetchedAt": "2026-10-05T09:21:17.303Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/22-cadogan-road-dublin-3-fairview-dublin-3/6677385",
+  "kind": "listing",
+  "responseSha256": "fc43611236598afeea8709204901d5a1bf4dc14cac2f8a539144cd117f775651",
+  "files": [
+    {
+      "path": "daft/00939-a4b63a38494d902e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "30f9ebca4994cbfc99bfe30202c50efd6d7fd6d7e66f038ac47a75ec53c87076",
+      "bytes": 90220
+    },
+    {
+      "path": "daft/00939-a4b63a38494d902e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d42b9a0f36bafdde9b2276bbfb79fc9ce849274dde15144b8a158abf95dc0c5c",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

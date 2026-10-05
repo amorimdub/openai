@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=339",
+  "fetchedAt": "2026-10-05T13:09:12.872Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=339",
+  "kind": "search",
+  "responseSha256": "b19047a79c0a6c388e1e573a258a8e2317fccc8ec1898183cab35a3e6e5b4d43",
+  "files": [
+    {
+      "path": "myhome/07501-eddf52a13a79f141-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=339\"].SearchResults",
+      "sha256": "301ffc78965930351254be9a8f9288059be8d0c87cd27cdf5d8467027846750e",
+      "bytes": 122668
+    },
+    {
+      "path": "myhome/07501-eddf52a13a79f141-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=339\"] (paging fields)",
+      "sha256": "9b6f039e0dcca9982281489e761942e164af8eeffa3d7fb5ec83fb45ba0a64cd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-bishopscourt-green-bishopstown-cork/5017617",
+    "https://www.myhome.ie/residential/brochure/17-mcsweeney-s-terrace-kilkee-clare/5018346",
+    "https://www.myhome.ie/residential/brochure/2-thomastown-road-glenageary-co-dublin/5021383",
+    "https://www.myhome.ie/residential/brochure/8-egremont-church-road-killiney-co-dublin/5010937",
+    "https://www.myhome.ie/residential/brochure/1a-1b-olivemount-terrace-dundrum-dublin-14/5021375",
+    "https://www.myhome.ie/residential/brochure/24-nutgrove-park-clonskeagh-dublin-14/4844164",
+    "https://www.myhome.ie/residential/brochure/5-woodvale-grove-clonsilla-dublin-15/5021370",
+    "https://www.myhome.ie/residential/brochure/t1-cottage-caherdaniel-kerry/5021362",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-leastown-lane-oldtown-co-dublin/5021356",
+    "https://www.myhome.ie/residential/brochure/11a-glencairn-glade-leopardstown-dublin-18/5008678",
+    "https://www.myhome.ie/residential/brochure/26-cill-eanna-raheny-dublin-5/5021347",
+    "https://www.myhome.ie/residential/brochure/glenview-11-glen-road-monkstown-cork/5013544",
+    "https://www.myhome.ie/residential/brochure/28-brookford-rush-county-dublin/5011317",
+    "https://www.myhome.ie/residential/brochure/30-newbury-grove-clonshaugh-dublin-17/4987062",
+    "https://www.myhome.ie/residential/brochure/33-ballinteer-crescent-ballinteer-dublin-16/4973127",
+    "https://www.myhome.ie/residential/brochure/16-donomore-avenue-tallaght-dublin-24/5015507",
+    "https://www.myhome.ie/residential/brochure/ballina-upper-ballymurn-co-wexford/5021327",
+    "https://www.myhome.ie/residential/brochure/48-greenwood-estate-togher-cork/5021267",
+    "https://www.myhome.ie/residential/brochure/drumathumper-frosses-county-donegal/5021324",
+    "https://www.myhome.ie/residential/brochure/58-stillorgan-heath-stillorgan-county-dublin/5021314"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=340",
+  "paginationLimited": false
+}

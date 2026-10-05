@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-brompton-grove-castleknock-dublin-15/6653244",
+  "fetchedAt": "2026-10-05T09:17:56.091Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-brompton-grove-castleknock-dublin-15/6653244",
+  "kind": "listing",
+  "responseSha256": "badfd7a4731031dfbb0058e2a9f9d244c68efe916b3e0d346db68cf990424699",
+  "files": [
+    {
+      "path": "daft/00805-7276325ab7b3bb82-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "76264f90da53600ebd881a50df5910514bb66621fb2bf1f24e1f32686010a80d",
+      "bytes": 60599
+    },
+    {
+      "path": "daft/00805-7276325ab7b3bb82-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8cd64ca1c982e85db7916f5289bc64eb715ff7e65730f36039a5c8dc84c4a8ce",
+      "bytes": 8107
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

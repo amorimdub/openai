@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=216",
+  "fetchedAt": "2026-10-05T12:05:45.600Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=216",
+  "kind": "search",
+  "responseSha256": "46a37450934b666491ec5966aa4f7cf8dd49835365b64d8a93c7a2552ccf32ae",
+  "files": [
+    {
+      "path": "myhome/04973-3db97aa7a221c89a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=216\"].SearchResults",
+      "sha256": "9af62eae59bf191fabcf08e544f752cd11b3e30c1580f5660583a8e2f6d85355",
+      "bytes": 124316
+    },
+    {
+      "path": "myhome/04973-3db97aa7a221c89a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=216\"] (paging fields)",
+      "sha256": "2bdccfe3668d703881046848c7e38ead193f0677ad0397fe8b7174577927fde1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/coon-east-bilboa-carlow-castlecomer-kilkenny/5026930",
+    "https://www.myhome.ie/residential/brochure/70-seafield-court-seafield-road-killiney-co-dublin/5027163",
+    "https://www.myhome.ie/residential/brochure/herkin-ballymagowan-upper-kerrykeel-donegal/5027161",
+    "https://www.myhome.ie/residential/brochure/no-8-hilltown-court-ballymitty-wexford/5027157",
+    "https://www.myhome.ie/residential/brochure/1-white-ash-park-ashbourne-co-meath/5027159",
+    "https://www.myhome.ie/residential/brochure/34-avonvale-manor-wicklow-town-co-wcklow/5018451",
+    "https://www.myhome.ie/residential/brochure/main-street-headford-galway/5027143",
+    "https://www.myhome.ie/residential/brochure/ballyveskil-tiermaclane-ennis-county-clare/5027156",
+    "https://www.myhome.ie/residential/brochure/68-cappaghmore-clondalkin-dublin-22-d22-k029/5027153",
+    "https://www.myhome.ie/residential/brochure/rosaria-31-grosvenor-road-rathgar-dublin-6/5027151",
+    "https://www.myhome.ie/residential/brochure/teach-aosta-new-road-kenmare-co-kerry/5027150",
+    "https://www.myhome.ie/residential/brochure/28-bramblefield-drive-clonee-dublin-15/5027046",
+    "https://www.myhome.ie/residential/brochure/16-st-jude-s-park-st-patrick-s-road-city-centre-limerick-limerick/5005386",
+    "https://www.myhome.ie/residential/brochure/24a-portmarnock-crescent-portmarnock-county-dublin/5027110",
+    "https://www.myhome.ie/residential/brochure/43-garr-n-ard-doughiska-galway-city-co-galway/5027144",
+    "https://www.myhome.ie/residential/brochure/19-aughrim-street-dublin-7-dublin-7/4945656",
+    "https://www.myhome.ie/residential/brochure/four-winds-coyne-s-cross-ashford-co-wicklow/4997208",
+    "https://www.myhome.ie/residential/brochure/15-the-green-beaumont-woods-beaumont-dublin-9/5011644",
+    "https://www.myhome.ie/residential/brochure/2-saint-senan-s-terrace-cork-cloghroe-co-cork/5027136",
+    "https://www.myhome.ie/residential/brochure/60-the-gallan-granitefield-manor-dun-laoghaire-co-dublin/5027135"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=217",
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SOLAS HOSPITAL SCHOOL",
+      "numPupils": 91,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326183",
+        "lon": "-6.321209"
+      }
+    },
+    {
+      "schoolName": "MOURNE ROAD GIRLS NATIONAL SCHOOL",
+      "numPupils": 145,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330130",
+        "lon": "-6.318434"
+      }
+    },
+    {
+      "schoolName": "LADY OF GOOD COUNSEL BOYS SENIOR NATIONAL SCHOOL",
+      "numPupils": 128,
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329975",
+        "lon": "-6.317439"
+      }
+    },
+    {
+      "schoolName": "MOURNE ROAD INFANT SCHOOL",
+      "numPupils": 121,
+      "distance": {
+        "value": 0.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330530",
+        "lon": "-6.316887"
+      }
+    },
+    {
+      "schoolName": "DRIMNAGH CASTLE PRIMARY SCHOOL",
+      "numPupils": 343,
+      "distance": {
+        "value": 0.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324360",
+        "lon": "-6.330916"
+      }
+    },
+    {
+      "schoolName": "BLUEBELL NATIONAL SCHOOL",
+      "numPupils": 125,
+      "distance": {
+        "value": 0.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.331300",
+        "lon": "-6.337888"
+      }
+    },
+    {
+      "schoolName": "ASSUMPTION SENIOR GIRLS NATIONAL SC",
+      "numPupils": 229,
+      "distance": {
+        "value": 0.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322900",
+        "lon": "-6.332111"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE GAN SMAL",
+      "numPupils": 330,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.337630",
+        "lon": "-6.325085"
+      }
+    },
+    {
+      "schoolName": "GOLDENBRIDGE CONVENT",
+      "numPupils": 191,
+      "distance": {
+        "value": 0.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336678",
+        "lon": "-6.319086"
+      }
+    },
+    {
+      "schoolName": "THE ASSUMPTION JUNIOR SCHOOL",
+      "numPupils": 449,
+      "distance": {
+        "value": 1.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.319214",
+        "lon": "-6.332105"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OUR LADY OF MERCY SECONDARY SCHOOL",
+      "numPupils": 280,
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330956",
+        "lon": "-6.319218"
+      }
+    },
+    {
+      "schoolName": "DRIMNAGH CASTLE SECONDARY SCHOOL",
+      "numPupils": 506,
+      "distance": {
+        "value": 0.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324210",
+        "lon": "-6.333720"
+      }
+    },
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 328,
+      "distance": {
+        "value": 0.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336765",
+        "lon": "-6.321998"
+      }
+    },
+    {
+      "schoolName": "ASSUMPTION SECONDARY SCHOOL",
+      "numPupils": 286,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322227",
+        "lon": "-6.331626"
+      }
+    },
+    {
+      "schoolName": "ROSARY COLLEGE",
+      "numPupils": 225,
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318680",
+        "lon": "-6.307461"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 365,
+      "distance": {
+        "value": 1.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329450",
+        "lon": "-6.297697"
+      }
+    },
+    {
+      "schoolName": "CLOGHER ROAD COMMUNITY COLLEGE",
+      "numPupils": 269,
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.327312",
+        "lon": "-6.294593"
+      }
+    },
+    {
+      "schoolName": "PEARSE COLLEGE - COLAISTE AN PHIARSAIGH",
+      "numPupils": 84,
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326510",
+        "lon": "-6.294746"
+      }
+    },
+    {
+      "schoolName": "ST. DOMINIC'S COLLEGE BALLYFERMOT",
+      "numPupils": 323,
+      "distance": {
+        "value": 2.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.344715",
+        "lon": "-6.347140"
+      }
+    },
+    {
+      "schoolName": "KYLEMORE COLLEGE",
+      "numPupils": 466,
+      "distance": {
+        "value": 2.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.345116",
+        "lon": "-6.351669"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Errigal Rd",
+      "route": "122",
+      "destination": "Drimnagh Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329087",
+        "lon": "-6.323743"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Errigal Rd",
+      "route": "73",
+      "destination": "Walkinstown",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329087",
+        "lon": "-6.323743"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Galtymore Cl",
+      "route": "122",
+      "destination": "Drimnagh Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330463",
+        "lon": "-6.323824"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mourne Rd W",
+      "route": "73",
+      "destination": "Walkinstown",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.33003",
+        "lon": "-6.323061"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curlew Rd",
+      "route": "73",
+      "destination": "Marino",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329275",
+        "lon": "-6.32243"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curlew Rd",
+      "route": "122",
+      "destination": "Ashington",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329275",
+        "lon": "-6.32243"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Brandon Road",
+      "route": "73",
+      "destination": "Walkinstown",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3277177272247",
+        "lon": "-6.3229112430655"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Brandon Road",
+      "route": "122",
+      "destination": "Drimnagh Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3277177272247",
+        "lon": "-6.3229112430655"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hollybrook House",
+      "route": "13",
+      "destination": "Grange Castle",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.33171",
+        "lon": "-6.330037"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hollybrook House",
+      "route": "69n",
+      "destination": "Saggart",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.33171",
+        "lon": "-6.330037"
+      }
+    }
+  ]
+}

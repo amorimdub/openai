@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/harcourt-green-charlemont-street-dublin-2/6635035",
+  "fetchedAt": "2026-10-05T09:12:21.124Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/harcourt-green-charlemont-street-dublin-2/6635035",
+  "kind": "listing",
+  "responseSha256": "f1e2cd12d7fb977d555ad72167e660a90202d6ae526abf5050f1468b103de576",
+  "files": [
+    {
+      "path": "daft/00582-2cfd14589edce1c5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2a73f323c145a2f0a73084aaff7199786c266b92bd27f48f68b8070c6eeedfbb",
+      "bytes": 53824
+    },
+    {
+      "path": "daft/00582-2cfd14589edce1c5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "210f8d80aa2d852d862b15678a35a25f29d6ba673247fff53bdb53843ff351e5",
+      "bytes": 8012
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

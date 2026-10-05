@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=307",
+  "fetchedAt": "2026-10-05T12:53:18.298Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=307",
+  "kind": "search",
+  "responseSha256": "d4358df1bee462c9108088032d872029b28d546368e3e50bd0588123574c532d",
+  "files": [
+    {
+      "path": "myhome/06866-6662cbea92be71dd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=307\"].SearchResults",
+      "sha256": "abcb988d1075c704107803188993aaa69b2e7d4d2f814a0a70e9aca2d761f554",
+      "bytes": 106965
+    },
+    {
+      "path": "myhome/06866-6662cbea92be71dd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=307\"] (paging fields)",
+      "sha256": "01176b515c2edca3ad2d6a98b9cef4d48f5730675c18ed7ee75441a69f28cb2b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-111-the-jessop-charlotte-quay-dock-dublin-4-dublin/5023450",
+    "https://www.myhome.ie/residential/brochure/milltown-co-galway/5023461",
+    "https://www.myhome.ie/residential/brochure/15-berwick-way-swords-co-dublin/5017429",
+    "https://www.myhome.ie/residential/brochure/45-the-northumberlands-lower-mount-street-dublin-2/5023457",
+    "https://www.myhome.ie/residential/brochure/40-willow-close-dunshaughlin-dunshaughlin-co-meath-dunshaughlin-meath/5023452",
+    "https://www.myhome.ie/residential/brochure/no-60-springfields-waterford-road-kilkenny-kilkenny-kilkenny/5023448",
+    "https://www.myhome.ie/residential/brochure/56-ferndale-park-wexford-town-co-wexford/5023449",
+    "https://www.myhome.ie/residential/brochure/hill-16-glenlea-ballyheigue-tralee-co-kerry/5023447",
+    "https://www.myhome.ie/residential/brochure/killenaule-co-tipperary-killenaule-tipperary/5023443",
+    "https://www.myhome.ie/residential/brochure/26-belvedere-lawn-douglas-road-cork/5023444",
+    "https://www.myhome.ie/residential/brochure/no-3-kilmanagh-kilmanagh-kilkenny/5023440",
+    "https://www.myhome.ie/residential/brochure/tullyvinney-raphoe-co-donegal/5023442",
+    "https://www.myhome.ie/residential/brochure/126-aw-pugin-house-loreto-abbey-rathfarnham-dublin-14/5023441",
+    "https://www.myhome.ie/residential/brochure/97-beech-grove-cottages-bray-road-cabinteely-dublin-18/5023439",
+    "https://www.myhome.ie/residential/brochure/59-westfield-kilkenny-kilkenny/5023438",
+    "https://www.myhome.ie/residential/brochure/killavally-stradbally-portlaoise-co-laois/5023437",
+    "https://www.myhome.ie/residential/brochure/63-marlstone-manor-brittas-road-thurles-co-tipperary/5023433",
+    "https://www.myhome.ie/residential/brochure/328-north-circular-road-dublin-7-phibsborough-dublin-7/5023429",
+    "https://www.myhome.ie/residential/brochure/30-henry-street-kenmare-co-kerry/5023426",
+    "https://www.myhome.ie/residential/brochure/ardmore-lower-aghada-midleton-co-cork/5023424"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=308",
+  "paginationLimited": false
+}

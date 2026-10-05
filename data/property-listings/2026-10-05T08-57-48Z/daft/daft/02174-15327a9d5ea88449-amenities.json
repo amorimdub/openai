@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "VIRGINIA NATIONAL SCHOOL",
+      "numPupils": 481,
+      "distance": {
+        "value": 0.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.835360",
+        "lon": "-7.075637"
+      }
+    },
+    {
+      "schoolName": "CNOC AN TEAMPAILL",
+      "numPupils": 157,
+      "distance": {
+        "value": 3.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.803640",
+        "lon": "-7.088338"
+      }
+    },
+    {
+      "schoolName": "CARRIGABRUISE NATIONAL SCHOOL",
+      "numPupils": 110,
+      "distance": {
+        "value": 5.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.801888",
+        "lon": "-7.032428"
+      }
+    },
+    {
+      "schoolName": "S N CILLIN",
+      "numPupils": 89,
+      "distance": {
+        "value": 5.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.854183",
+        "lon": "-7.012287"
+      }
+    },
+    {
+      "schoolName": "KILLINKERE NATIONAL SCHOOL",
+      "numPupils": 184,
+      "distance": {
+        "value": 5.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.886185",
+        "lon": "-7.068824"
+      }
+    },
+    {
+      "schoolName": "CASTLERAHAN NATIONAL SCHOOL",
+      "numPupils": 98,
+      "distance": {
+        "value": 6.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.820960",
+        "lon": "-7.179812"
+      }
+    },
+    {
+      "schoolName": "BILLIS NATIONAL SCHOOL",
+      "numPupils": 83,
+      "distance": {
+        "value": 6.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.886850",
+        "lon": "-7.145364"
+      }
+    },
+    {
+      "schoolName": "ST CLARES NATIONAL SCHOOL",
+      "numPupils": 427,
+      "distance": {
+        "value": 8.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.865900",
+        "lon": "-7.199301"
+      }
+    },
+    {
+      "schoolName": "GILSON NATIONAL SCHOOL",
+      "numPupils": 227,
+      "distance": {
+        "value": 8.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.769110",
+        "lon": "-7.158100"
+      }
+    },
+    {
+      "schoolName": "ST KILLIAN'S NATIONAL SCHOOL",
+      "numPupils": 335,
+      "distance": {
+        "value": 8.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.812847",
+        "lon": "-6.954996"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "VIRGINIA COLLEGE",
+      "numPupils": 844,
+      "distance": {
+        "value": 0.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.831210",
+        "lon": "-7.084241"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S COLLEGE",
+      "numPupils": 612,
+      "distance": {
+        "value": 8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.865543",
+        "lon": "-7.197303"
+      }
+    },
+    {
+      "schoolName": "ST OLIVER POST PRIMARY",
+      "numPupils": 641,
+      "distance": {
+        "value": 8.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.772434",
+        "lon": "-7.163259"
+      }
+    },
+    {
+      "schoolName": "BAILIEBOROUGH COMMUNITY SCHOOL BAILIEBOROUGH COMMUNITY SCHOOL",
+      "numPupils": 751,
+      "distance": {
+        "value": 11.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.912910",
+        "lon": "-6.973897"
+      }
+    },
+    {
+      "schoolName": "EUREKA SECONDARY SCHOOL",
+      "numPupils": 759,
+      "distance": {
+        "value": 18.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.725372",
+        "lon": "-6.871933"
+      }
+    },
+    {
+      "schoolName": "ST CIARÁN'S COMMUNITY SCHOOL",
+      "numPupils": 597,
+      "distance": {
+        "value": 18.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.724117",
+        "lon": "-6.871644"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE DÚN AN RÍ",
+      "numPupils": 689,
+      "distance": {
+        "value": 20.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.907580",
+        "lon": "-6.805000"
+      }
+    },
+    {
+      "schoolName": "O'CAROLAN COLLEGE",
+      "numPupils": 678,
+      "distance": {
+        "value": 22.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.817314",
+        "lon": "-6.741901"
+      }
+    },
+    {
+      "schoolName": "CASTLEPOLLARD COMMUNITY COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 23.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.674583",
+        "lon": "-7.305084"
+      }
+    },
+    {
+      "schoolName": "ROYAL SCHOOL CAVAN",
+      "numPupils": 354,
+      "distance": {
+        "value": 24.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.984470",
+        "lon": "-7.361660"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "109X",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.835073",
+        "lon": "-7.082964"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "187",
+      "destination": "Virginia",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.835073",
+        "lon": "-7.082964"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "UM05",
+      "destination": "Maynooth University North Campus",
+      "provider": "Streamline Coaches",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.835073",
+        "lon": "-7.082964"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "109",
+      "destination": "Virginia",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8348240817603",
+        "lon": "-7.08272855650105"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "186",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8348240817603",
+        "lon": "-7.08272855650105"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "30",
+      "destination": "Donegal",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8348240817603",
+        "lon": "-7.08272855650105"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Virginia",
+      "route": "172",
+      "destination": "Virginia",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8348240817603",
+        "lon": "-7.08272855650105"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bailieborough Road",
+      "route": "172",
+      "destination": "Virginia",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8355",
+        "lon": "-7.07606"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lough Ramor",
+      "route": "109",
+      "destination": "Virginia",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8319357473693",
+        "lon": "-7.07057749844067"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lough Ramor",
+      "route": "186",
+      "destination": "Baile Ghib",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 1.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8319604662628",
+        "lon": "-7.07028830752185"
+      }
+    }
+  ]
+}

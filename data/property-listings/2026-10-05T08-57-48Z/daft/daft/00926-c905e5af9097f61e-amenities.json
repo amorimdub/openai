@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272263",
+        "lon": "-9.055382"
+      }
+    },
+    {
+      "schoolName": "MERCY PRIMARY",
+      "numPupils": 261,
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275715",
+        "lon": "-9.053796"
+      }
+    },
+    {
+      "schoolName": "ST NICHOLAS' PRIMARY SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 0.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276405",
+        "lon": "-9.054381"
+      }
+    },
+    {
+      "schoolName": "CLADDAGH NATIONAL SCHOOL",
+      "numPupils": 271,
+      "distance": {
+        "value": 0.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267433",
+        "lon": "-9.057794"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOGNÁID",
+      "numPupils": 499,
+      "distance": {
+        "value": 0.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270520",
+        "lon": "-9.062462"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY",
+      "numPupils": 136,
+      "distance": {
+        "value": 0.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274204",
+        "lon": "-9.062489"
+      }
+    },
+    {
+      "schoolName": "SCOIL FHURSA",
+      "numPupils": 200,
+      "distance": {
+        "value": 1.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269077",
+        "lon": "-9.066319"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE SHANTALLA",
+      "numPupils": 204,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273502",
+        "lon": "-9.071456"
+      }
+    },
+    {
+      "schoolName": "LAKEVIEW SCHOOL",
+      "numPupils": 74,
+      "distance": {
+        "value": 1.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276320",
+        "lon": "-9.028107"
+      }
+    },
+    {
+      "schoolName": "SCOIL AINE SPECIAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268580",
+        "lon": "-9.074598"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST JOSEPH'S COLLEGE",
+      "numPupils": 767,
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272594",
+        "lon": "-9.058093"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S COLLEGE",
+      "numPupils": 249,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273636",
+        "lon": "-9.059698"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IOGNÁID S.J.",
+      "numPupils": 636,
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269960",
+        "lon": "-9.061381"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE MÁTHAIR",
+      "numPupils": 765,
+      "distance": {
+        "value": 0.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271027",
+        "lon": "-9.064991"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 415,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271060",
+        "lon": "-9.067110"
+      }
+    },
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 1.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE",
+      "numPupils": 601,
+      "distance": {
+        "value": 1.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268574",
+        "lon": "-9.076905"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÉINDE",
+      "numPupils": 806,
+      "distance": {
+        "value": 2.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.265705",
+        "lon": "-9.089664"
+      }
+    },
+    {
+      "schoolName": "SALERNO SECONDARY SCHOOL",
+      "numPupils": 666,
+      "distance": {
+        "value": 2.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.263810",
+        "lon": "-9.089556"
+      }
+    },
+    {
+      "schoolName": "GALWAY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 350,
+      "distance": {
+        "value": 3.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274510",
+        "lon": "-8.998752"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Merchants Rd",
+      "route": "844",
+      "destination": "Birr",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 0.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27166",
+        "lon": "-9.05086"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Victoria Place",
+      "route": "401",
+      "destination": "Eyre Square",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273134",
+        "lon": "-9.048775"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Victoria Place",
+      "route": "424",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273134",
+        "lon": "-9.048775"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Victoria Place",
+      "route": "525",
+      "destination": "Victoria Place",
+      "provider": "Island Ferries Teoranta",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273144",
+        "lon": "-9.048275"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "809",
+      "destination": "Jury's Hotel",
+      "provider": "MCD Minibus Hire",
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270347",
+        "lon": "-9.054014"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eyre Square",
+      "route": "351",
+      "destination": "Galway",
+      "provider": "TFI Local Link Limerick Clare",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2736187626422",
+        "lon": "-9.04884707532921"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eyre Square",
+      "route": "NG05",
+      "destination": "Liosban Industrial Estate",
+      "provider": "Westlink Coaches",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2736187626422",
+        "lon": "-9.04884707532921"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "401",
+      "destination": "Dr. Mannix Road",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27036",
+        "lon": "-9.05466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "424",
+      "destination": "Carraroe",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27036",
+        "lon": "-9.05466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "525",
+      "destination": "Rossaveel Pier",
+      "provider": "Island Ferries Teoranta",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27036",
+        "lon": "-9.05466"
+      }
+    }
+  ]
+}

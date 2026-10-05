@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/greenfields-rossbrien-ballinacurra-co-limerick/6664882",
+  "fetchedAt": "2026-10-05T09:14:34.838Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/greenfields-rossbrien-ballinacurra-co-limerick/6664882",
+  "kind": "listing",
+  "responseSha256": "112b8a4d04d92079f6a58fc215c1427c601dca0c215dc81fc370c41c427b2574",
+  "files": [
+    {
+      "path": "daft/00671-88c22bbea3a7fc44-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ef04b6b8d870b755898d7425fc90bafe07936f3ce379f82b1cd905b589c882cc",
+      "bytes": 51515
+    },
+    {
+      "path": "daft/00671-88c22bbea3a7fc44-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "042e1fa4fc08b55986c959c6694472791a1902eac51f4b1be044381a6d305edc",
+      "bytes": 8043
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

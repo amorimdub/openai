@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=476",
+  "fetchedAt": "2026-10-05T14:19:46.142Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=476",
+  "kind": "search",
+  "responseSha256": "8659b6438865ac0ba4c743f459c2c95cc33ec21d60b6bb45203ddb02b255b68c",
+  "files": [
+    {
+      "path": "myhome/10317-a1409275f3f9a0d0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=476\"].SearchResults",
+      "sha256": "535503ee5c9488a1a2ab41b130d34ae429c36c973340f68ae29c18ebb7293b88",
+      "bytes": 97811
+    },
+    {
+      "path": "myhome/10317-a1409275f3f9a0d0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=476\"] (paging fields)",
+      "sha256": "a7a922f3758efb1cf948319921816375889be3249ed6c1e4461262e96ee62f63",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/27-earlsfort-lawn-lucan-co-dublin/5005507",
+    "https://www.myhome.ie/residential/brochure/type-g-oldgrange-manor-rathangan-road-monasterevin-kildare/5005447",
+    "https://www.myhome.ie/residential/brochure/type-a-b-oldgrange-manor-rathangan-road-monasterevin-kildare/5005445",
+    "https://www.myhome.ie/residential/brochure/rosedale-house-shankill-dublin-18/5005467",
+    "https://www.myhome.ie/residential/brochure/powelsborough-tubbercurry-sligo/5003623",
+    "https://www.myhome.ie/residential/brochure/43-mill-view-ballinglanna-glanmire-cork/5005439",
+    "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-kildare/5005217",
+    "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-kildare/5005148",
+    "https://www.myhome.ie/residential/brochure/stanmore-stillorgan-rd-foxrock-dublin-18/5005432",
+    "https://www.myhome.ie/residential/brochure/33-millrace-park-saggart-co-dublin/5005426",
+    "https://www.myhome.ie/residential/brochure/1-rockfield-park-rahoon-co-galway/5005420",
+    "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-co-kildare-2-bedroom/5005417",
+    "https://www.myhome.ie/residential/brochure/21-maple-close-dundalk-co-louth/5005412",
+    "https://www.myhome.ie/residential/brochure/4-old-cabra-road-cabra-east-dublin-7/4998674",
+    "https://www.myhome.ie/residential/brochure/powellsboro-tubbercurry-sligo/5005389",
+    "https://www.myhome.ie/residential/brochure/apt-81-bru-na-gruadan-castletroy-limerick/5005381",
+    "https://www.myhome.ie/residential/brochure/30-howth-road-sutton-dublin-13/5004136",
+    "https://www.myhome.ie/residential/brochure/glen-road-lot-2-c-1-09-acres-aughrim-county-wicklow/5005373",
+    "https://www.myhome.ie/residential/brochure/53-academy-square-navan-meath/5005356",
+    "https://www.myhome.ie/residential/brochure/13-poppyfields-drive-midleton-cork/4991761"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=477",
+  "paginationLimited": false
+}

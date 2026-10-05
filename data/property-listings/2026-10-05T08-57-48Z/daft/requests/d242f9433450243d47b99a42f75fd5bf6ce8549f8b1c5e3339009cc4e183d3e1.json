@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/coill-tre-doughiska-galway-doughiska-co-galway/6670062",
+  "fetchedAt": "2026-10-05T09:21:36.826Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/coill-tre-doughiska-galway-doughiska-co-galway/6670062",
+  "kind": "listing",
+  "responseSha256": "a330ca16474add526744581bc6b17c23ba98fd7f927a9120318a0ecbd5848674",
+  "files": [
+    {
+      "path": "daft/00952-d242f9433450243d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a554b8df6438a5bca861a54df7c29b3230e4a09783ec23177d58bfc21236e55d",
+      "bytes": 18167
+    },
+    {
+      "path": "daft/00952-d242f9433450243d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "94033de8690a0b23a0939bf0f9cacc1d9a7a8e9de9aa3681306f5a0791b83beb",
+      "bytes": 8049
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

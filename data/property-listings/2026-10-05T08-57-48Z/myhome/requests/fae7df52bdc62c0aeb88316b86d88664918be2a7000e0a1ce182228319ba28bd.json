@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=10",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=10",
+  "fetchedAt": "2026-10-05T09:05:47.238Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e4252e0c079141bf1d23a0112bfd17f65b8c03b561a2182e39b2c34f275c07a3",
+  "files": [
+    {
+      "path": "myhome/00320-fae7df52bdc62c0a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=10\"].SearchResults",
+      "sha256": "cbfcdd93771211a85fcca942f281cd2209d0dc7b38235b93fb4f7b648cc29fb6",
+      "bytes": 105237
+    },
+    {
+      "path": "myhome/00320-fae7df52bdc62c0a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=10\"] (paging fields)",
+      "sha256": "06e5838833261f05445d9fef02addf78f2f937784ef53927a238d6be404a06f6",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/68-jolly-mariner-coosan-athlone-westmeath/5030764",
+    "https://www.myhome.ie/rentals/brochure/homeville-court-knocklyon-dublin-16/5030659",
+    "https://www.myhome.ie/rentals/brochure/studio-344-344-north-circular-road-dublin-7-co-dublin/5030657",
+    "https://www.myhome.ie/rentals/brochure/15-a-willington-park-templeogue-dublin-6w/5030625",
+    "https://www.myhome.ie/rentals/brochure/32-burnaby-mews-greystones-co-wicklow/5030611",
+    "https://www.myhome.ie/rentals/brochure/millrace-view-saggart-co-dublin/5030579",
+    "https://www.myhome.ie/rentals/brochure/the-discovery-building-ashtown-dublin-15/5030483",
+    "https://www.myhome.ie/rentals/brochure/15-the-coach-house-forest-park-courtown-gorey-county-wexford/5030480",
+    "https://www.myhome.ie/rentals/brochure/143-shannon-house-custom-house-square-ifsc-dublin-1/5025446",
+    "https://www.myhome.ie/rentals/brochure/37-the-crescent-stonehaven-naas-kildare/5026273",
+    "https://www.myhome.ie/rentals/brochure/grosvenor-place-rathmines-dublin-6/5030462",
+    "https://www.myhome.ie/rentals/brochure/bantry-bantry-west-cork/5023391",
+    "https://www.myhome.ie/rentals/brochure/rampart-lane-donnybrook-dublin-4/5022864",
+    "https://www.myhome.ie/rentals/brochure/youghal-road-midleton-co-cork/5030451",
+    "https://www.myhome.ie/rentals/brochure/christchurch-place-temple-bar-dublin-8/5030400",
+    "https://www.myhome.ie/rentals/brochure/33-kelly-s-bay-strand-skerries-dublin/5025404",
+    "https://www.myhome.ie/rentals/brochure/belfry-hall-citywest-co-dublin/5030330",
+    "https://www.myhome.ie/rentals/brochure/46-melvin-road-terenure-dublin-6w/5030314",
+    "https://www.myhome.ie/rentals/brochure/carraig-mh-r-dooncastle-westport-mayo/5025810",
+    "https://www.myhome.ie/rentals/brochure/apt-3-the-elms-college-road-clane-co-kildare/5030295"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=11",
+  "paginationLimited": false
+}

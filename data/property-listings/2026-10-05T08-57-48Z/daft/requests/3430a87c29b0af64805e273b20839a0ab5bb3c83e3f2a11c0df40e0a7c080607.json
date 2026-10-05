@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/9-oak-meadows-drumsna-co-leitrim/6683609",
+  "fetchedAt": "2026-10-05T09:48:45.150Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/9-oak-meadows-drumsna-co-leitrim/6683609",
+  "kind": "listing",
+  "responseSha256": "4441e8ca0234d6a8016d53b42836e11f08aabf0f6aa4079f79a43174fbe14295",
+  "files": [
+    {
+      "path": "daft/02036-3430a87c29b0af64-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "db9bc757f77aee0a1558235f61caf0460a9aaba516d723fdd73bb15b87676cab",
+      "bytes": 55083
+    },
+    {
+      "path": "daft/02036-3430a87c29b0af64-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "be55ab2f2bd5054c780c1582d0e798c5f5faf0f461b106a7a0f93e21c67b86a6",
+      "bytes": 8141
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

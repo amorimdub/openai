@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/griffith-hall-glandore-rd-drumcondra-dublin-9/6684046",
+  "fetchedAt": "2026-10-05T09:45:01.265Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/griffith-hall-glandore-rd-drumcondra-dublin-9/6684046",
+  "kind": "listing",
+  "responseSha256": "8e7b45b9773efc5f7d8ce005c7a83cf9ec4ce0c4b3936169536c0f5bf4bf9741",
+  "files": [
+    {
+      "path": "daft/01887-6d193fe5df2c5f06-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "007ad8231019a008ee14117cc8fca3a463db1dce7c2b64ad403d64982ca80470",
+      "bytes": 20794
+    },
+    {
+      "path": "daft/01887-6d193fe5df2c5f06-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c617f97acc1508f769c8129a4e1401e5034d6b29a443038e85d9d0b50ea21dbd",
+      "bytes": 8194
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

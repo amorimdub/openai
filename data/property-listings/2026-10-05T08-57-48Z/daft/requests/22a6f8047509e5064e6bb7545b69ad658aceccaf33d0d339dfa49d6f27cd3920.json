@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-admirals-walk-kinsale-kinsale-co-cork/6637893",
+  "fetchedAt": "2026-10-05T09:11:10.523Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-admirals-walk-kinsale-kinsale-co-cork/6637893",
+  "kind": "listing",
+  "responseSha256": "c761ff07a076b609daefde6747875fa8cc8472c049351b3b34948ec396c68c39",
+  "files": [
+    {
+      "path": "daft/00535-22a6f8047509e506-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e2e402a0575693c483115c05f0edd6f68384c3381c82701971cc19a3a583832e",
+      "bytes": 43077
+    },
+    {
+      "path": "daft/00535-22a6f8047509e506-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cc52525a2881b59aa3adf0b0f3f2a32a8cbb9793fbe9ba0f865d533a7e290f6a",
+      "bytes": 8103
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

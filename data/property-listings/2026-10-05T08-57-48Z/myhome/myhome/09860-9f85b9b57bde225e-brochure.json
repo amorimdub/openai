@@ -1,0 +1,558 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "335 mill street callan kilkenny",
+    "GroupId": 5952,
+    "Address": "335 Mill Street",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/50cdd1e5-3181-4fae-b8dd-9eeedf33a9c8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bdb4a495-43dc-4cf7-be21-579c81ae9504_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/f434879f-d451-4e87-bd38-e9aa361cedd4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bd0c8ddf-6bea-4ca7-b921-fa02b1f1c6d1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/326e4b9d-ee90-4d1d-8127-b6df44e82438_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/41cff3c9-729c-4920-96cb-7a831f6a530b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/d020f477-c0da-4b4c-8dae-69be09a247fa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/3fbc17e7-478e-4b5d-a44b-2e429233aed5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/a06632a0-90fd-42b6-bf31-464069ae7222_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/066a2945-3603-4466-9f42-4f1a2e1174ce_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/14f1345a-baa3-4e07-a3ae-149e2e072fb5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/0aa678dd-5fc7-4ce7-89b0-1db61c3fa234_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/3/5008314/1f1dcf79-ad8f-4d9e-b1c7-e4b87a8a8f1d_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 72.76000213623047,
+    "MaxSize": 72.76000213623047,
+    "BerRating": "G",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€195,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "72.76",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5008314,
+        "DisplayAddress": "335 Mill Street, Callan, Kilkenny",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "041a7299-1ff9-4f51-b58e-152c857685df",
+              "Filename": "59bdd7c6-6304-4a24-a805-c8f767dcc569.jpg",
+              "Caption": "https://media.propertypal.com/large/df6418e5982b3d29841dce7d38a35abe/p/1083461/42616507.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "97ea8ad3-0834-41dd-bc2b-997991d9541a",
+              "Filename": "50cdd1e5-3181-4fae-b8dd-9eeedf33a9c8.jpg",
+              "Caption": "https://media.propertypal.com/large/b0ee0b7bab86d7f223b54edcb2e2c5e4/p/1083461/42616508.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "da6758f9-e79d-485b-a7f2-fbff6cacf478",
+              "Filename": "bdb4a495-43dc-4cf7-be21-579c81ae9504.jpg",
+              "Caption": "https://media.propertypal.com/large/96a2b5ffc6b24813e6a299ab183fa138/p/1083461/42616509.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ce40a23f-9422-4fdd-ad47-7e8c1492d2cd",
+              "Filename": "f434879f-d451-4e87-bd38-e9aa361cedd4.jpg",
+              "Caption": "https://media.propertypal.com/large/e07d809303777b16bf12a090ac6c3789/p/1083461/42616510.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "44ec2fad-3b7e-4cb8-a461-b5f83a333ceb",
+              "Filename": "bd0c8ddf-6bea-4ca7-b921-fa02b1f1c6d1.jpg",
+              "Caption": "https://media.propertypal.com/large/7f35847ec15148a828f4447c65332b6c/p/1083461/42616513.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0509af32-fbfa-4c6b-ab77-a932d58c6816",
+              "Filename": "326e4b9d-ee90-4d1d-8127-b6df44e82438.jpg",
+              "Caption": "https://media.propertypal.com/large/c0d77ccb06979dfe713f81c0f0096823/p/1083461/42616515.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6dfede28-6e8c-45fd-8600-bd8d0ee743d0",
+              "Filename": "41cff3c9-729c-4920-96cb-7a831f6a530b.jpg",
+              "Caption": "https://media.propertypal.com/large/4fdfc775f18b739159e747de9bceb126/p/1083461/42616514.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "23c12a71-f0f6-4551-a0c8-33930dc4ef69",
+              "Filename": "d020f477-c0da-4b4c-8dae-69be09a247fa.jpg",
+              "Caption": "https://media.propertypal.com/large/c748f8a687a370524c40fde190c9a3d3/p/1083461/42616516.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a863335f-3068-4ab9-b69d-a1db98889289",
+              "Filename": "3fbc17e7-478e-4b5d-a44b-2e429233aed5.jpg",
+              "Caption": "https://media.propertypal.com/large/32fb01939f9f7e25ac13ee414625be7d/p/1083461/42616512.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b0adbd21-891e-4a41-9420-cfd8bc758c82",
+              "Filename": "a06632a0-90fd-42b6-bf31-464069ae7222.jpg",
+              "Caption": "https://media.propertypal.com/large/ee84fca81a9d5aaf01e275199b60c1a9/p/1083461/42616517.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1674787f-ddb9-4682-972f-1e633df607c0",
+              "Filename": "066a2945-3603-4466-9f42-4f1a2e1174ce.jpg",
+              "Caption": "https://media.propertypal.com/large/6628c5066cbcfcf201e2de4542b11686/p/1083461/42616511.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "da169284-a985-4e98-86a5-067d11c51d5f",
+              "Filename": "14f1345a-baa3-4e07-a3ae-149e2e072fb5.jpg",
+              "Caption": "https://media.propertypal.com/large/8aad840853d39fe316f5a3d0c29a8a31/p/1083461/42616529.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6161902d-1f71-4733-850e-ad95863366ac",
+              "Filename": "0aa678dd-5fc7-4ce7-89b0-1db61c3fa234.jpg",
+              "Caption": "https://media.propertypal.com/large/66962d86e852b691e05ba91702210250/p/1083461/42616527.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa4a1c8f-02e7-4323-bd73-62858439d41f",
+              "Filename": "1f1dcf79-ad8f-4d9e-b1c7-e4b87a8a8f1d.jpg",
+              "Caption": "https://media.propertypal.com/large/46f7639a15cd1a24d77782d39ea257c4/p/1083461/42616534.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "18c44d4d-dbf9-4a22-b744-36156ee6d0b7",
+              "Filename": "https://www.youtube.com/embed/7ZFmFoHQUZY",
+              "Caption": "https://www.youtube.com/watch?v=7ZFmFoHQUZY",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "44744360f2cb40f5b535bb68d3e08052",
+          "OriginalImagesSuffix": "44744",
+          "MainPhoto": {
+            "Identifier": "041a7299-1ff9-4f51-b58e-152c857685df",
+            "Filename": "59bdd7c6-6304-4a24-a805-c8f767dcc569.jpg",
+            "Caption": "https://media.propertypal.com/large/df6418e5982b3d29841dce7d38a35abe/p/1083461/42616507.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "No. 335 Mill Street is a charming and well-maintained terraced residence enjoying an attractive setting with a front lawn enclosed by a boundary wall and central pedestrian gate. A pathway leads to the PVC front door, flanked by lawn areas on either side, creating an inviting first impression.\nInternally, the property offers comfortable and practical accommodation extending over two floors, with a welcoming entrance hall, spacious living room, compact galley-style kitchen, ground floor bedroom, ground floor shower room, two first floor bedrooms, and a family bathroom. The home retains a number of original character features, including traditional fireplaces in several rooms, while benefiting from double-glazed windows and electric storage heating throughout the ground floor.\nTo the rear, the property features a private enclosed yard with wheelchair-accessible ramp, two substantial block-built storage sheds, an external water tap, and a pedestrian gate providing access to a rear lane where there is vehicular access. Beyond the lane lies a generous private garden (c.60 meteres), offering excellent outdoor space and further enhancing the appeal of this conveniently located home.\nThis house is conveniently located within walking distance of all the towns amenities. \n\nAccommodation\n\nEntrance\n1.60m x 1.80m Accessed through a PVC front door, the entrance porch is bright and welcoming, featuring a tiled floor and two windows that allow natural light to fill the space before leading into the main accommodation.\n\nLiving Room\n4.80m x 3.00m Situated to the front of the property, the principal reception room enjoys a large double-glazed window overlooking the front garden. The room is finished with carpet flooring and centres around an attractive open fireplace, creating a comfortable and inviting living space. Direct access is provided to the adjoining ground floor shower room.\n\nKitchen\n3.30m x 1.60m The galley-style kitchen is efficiently laid out with lino flooring, storage units beneath the sink, and additional useful storage space beneath the staircase. A PVC rear door provides direct access to the enclosed rear yard.\n\nBedroom/Office\n3.00m x 2.70m Accessible from both the entrance hall and the kitchen, this versatile room may serve as a bedroom / additional reception room / office. It features carpet flooring, an original open fireplace, and offers comfortable accommodation on the ground floor.\n\nWet Room\n2.00m x 2.00m Located directly off the living room, this practical wet-room style shower room comprises a WC, wash hand basin, and shower area with tiled surround fitted with a Triton T90SI electric shower.\n\nLanding\n The landing provides access to the first floor accommodation and includes a conveniently positioned hot press for household storage.\n\nBedroom 1\n3.00m x 4.00m Occupying the full depth of the house, this spacious double bedroom benefits from windows overlooking both the front garden and the rear of the property, allowing for excellent natural light and ventilation. The room includes two-door built-in wardrobes, carpet flooring, and retains its original fireplace as a decorative period feature.\n\nBedroom 2\n3.00m x 2.70m A comfortable double bedroom positioned to the front of the property, complete with carpet flooring, three-door built-in wardrobes, an original fireplace, and a window overlooking the front garden.\n\nBathroom\n1.60m x 1.60m The bathroom comprises a bath, WC, and wash hand basin. It features lino flooring and a rear-facing window providing natural light and ventilation.\n\nShed 1\n1.80m x 1.70m A traditional block-built storage shed suitable for fuel or general household storage.\n\nShed 2\n3.00m x 2.00m A larger block-built outbuilding providing generous storage space for tools, bicycles, gardening equipment, or workshop use.\n\n\nOutside\nFront garden, rear yard with two sheds. Vehicular access to the rear and to a long rear garden that measures approx 60 meters."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Great location\nVehicular access at the rear.\nLong rear garden\nRear yard with 2 x sheds.\nFront garden\n \n Mains services."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER Number: 103029377"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "Town centre location. Close to all amenities."
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Robbie Grace"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 0,
+    "MinEnergyRating": 10,
+    "MaxEnergyRating": 10,
+    "BERGrade": "G",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-23T16:09:03.8830000+01:00",
+    "ModifiedOnDate": "2026-06-23T18:09:11.5730000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-23T16:09:03.8830000+01:00",
+    "RefreshedOn": "2026-06-23T16:09:03.8830000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+    "IsTransact": false,
+    "PriceAsString": "€195,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5008314,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 72.76,
+    "DisplayAddress": "335 Mill Street, Callan, Kilkenny",
+    "Eircode": "R95X6N9",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Terraced House",
+    "PropertyTypeId": 37,
+    "RegionId": 2414,
+    "RegionName": "Kilkenny",
+    "LocalityId": 2418,
+    "LocalityName": "Callan",
+    "Price": {
+      "MinPrice": 195000,
+      "MaxPrice": 195000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/59bdd7c6-6304-4a24-a805-c8f767dcc569_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/50cdd1e5-3181-4fae-b8dd-9eeedf33a9c8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/50cdd1e5-3181-4fae-b8dd-9eeedf33a9c8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/50cdd1e5-3181-4fae-b8dd-9eeedf33a9c8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bdb4a495-43dc-4cf7-be21-579c81ae9504_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bdb4a495-43dc-4cf7-be21-579c81ae9504_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bdb4a495-43dc-4cf7-be21-579c81ae9504_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/f434879f-d451-4e87-bd38-e9aa361cedd4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/f434879f-d451-4e87-bd38-e9aa361cedd4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/f434879f-d451-4e87-bd38-e9aa361cedd4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bd0c8ddf-6bea-4ca7-b921-fa02b1f1c6d1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bd0c8ddf-6bea-4ca7-b921-fa02b1f1c6d1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/bd0c8ddf-6bea-4ca7-b921-fa02b1f1c6d1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/326e4b9d-ee90-4d1d-8127-b6df44e82438_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/326e4b9d-ee90-4d1d-8127-b6df44e82438_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/326e4b9d-ee90-4d1d-8127-b6df44e82438_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/41cff3c9-729c-4920-96cb-7a831f6a530b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/41cff3c9-729c-4920-96cb-7a831f6a530b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/41cff3c9-729c-4920-96cb-7a831f6a530b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/d020f477-c0da-4b4c-8dae-69be09a247fa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/d020f477-c0da-4b4c-8dae-69be09a247fa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/d020f477-c0da-4b4c-8dae-69be09a247fa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/3fbc17e7-478e-4b5d-a44b-2e429233aed5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/3fbc17e7-478e-4b5d-a44b-2e429233aed5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/3fbc17e7-478e-4b5d-a44b-2e429233aed5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/a06632a0-90fd-42b6-bf31-464069ae7222_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/a06632a0-90fd-42b6-bf31-464069ae7222_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/a06632a0-90fd-42b6-bf31-464069ae7222_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/066a2945-3603-4466-9f42-4f1a2e1174ce_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/066a2945-3603-4466-9f42-4f1a2e1174ce_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/066a2945-3603-4466-9f42-4f1a2e1174ce_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/14f1345a-baa3-4e07-a3ae-149e2e072fb5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/14f1345a-baa3-4e07-a3ae-149e2e072fb5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/14f1345a-baa3-4e07-a3ae-149e2e072fb5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/0aa678dd-5fc7-4ce7-89b0-1db61c3fa234_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/0aa678dd-5fc7-4ce7-89b0-1db61c3fa234_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/0aa678dd-5fc7-4ce7-89b0-1db61c3fa234_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/1f1dcf79-ad8f-4d9e-b1c7-e4b87a8a8f1d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/1f1dcf79-ad8f-4d9e-b1c7-e4b87a8a8f1d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/3/5008314/1f1dcf79-ad8f-4d9e-b1c7-e4b87a8a8f1d_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.385023,
+      "latitude": 52.543636
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 14,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "18c44d4d-dbf9-4a22-b744-36156ee6d0b7",
+        "Filename": "https://www.youtube.com/embed/7ZFmFoHQUZY",
+        "Caption": "https://www.youtube.com/watch?v=7ZFmFoHQUZY",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5952,
+    "Name": "REA Grace",
+    "DisplayPhone": "056 772 5163",
+    "Email": "robbie@reagrace.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "rea-grace",
+    "SeoName": "rea-grace",
+    "Address": "Green Street, Callan, Co. Kilkenny",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/2/5/9/5952/logo.jpg",
+    "SalesLicense": "002567",
+    "RentalLicense": "002567",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "callan/2418",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024246,
+      "PropertyClassId": 1,
+      "DisplayAddress": "16 Maiden Hill, Kells Road, Kilkenny Town, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/4/2/5024246/9b5ebf4b-8d6c-4c7e-afa6-35fcdadaef95_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/16-maiden-hill-kells-road-kilkenny-town-kilkenny/5024246"
+    },
+    {
+      "PropertyId": 5023315,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Old School House, Kilvemnon, Mullinahone, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/1/3/5023315/af3d8553-abeb-4b42-8a6f-30e21e305f99_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-old-school-house-kilvemnon-mullinahone-tipperary/5023315"
+    },
+    {
+      "PropertyId": 5018443,
+      "PropertyClassId": 1,
+      "DisplayAddress": "2 Mill Street, Callan, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/4/4/5018443/6d000085-b2bb-45d0-8a54-d11c1f1fb58c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/2-mill-street-callan-kilkenny/5018443"
+    },
+    {
+      "PropertyId": 5016855,
+      "PropertyClassId": 1,
+      "DisplayAddress": "14 Friary Walk, Callan, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/5/8/5016855/29911bc1-9cd4-4b2d-8a2e-a0d663a4cbd9_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/14-friary-walk-callan-kilkenny/5016855"
+    },
+    {
+      "PropertyId": 4998680,
+      "PropertyClassId": 1,
+      "DisplayAddress": "13 Collaire Court, Callan, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/8/6/4998680/28e96416-9ac2-4a91-b1e0-3fda36de50bb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/13-collaire-court-callan-kilkenny/4998680"
+    },
+    {
+      "PropertyId": 4996975,
+      "PropertyClassId": 1,
+      "DisplayAddress": "62 Roselawn, Bolton Woods, Callan, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/7/9/4996975/b70fd011-1584-4ddd-8119-803ac0db0732_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/62-roselawn-bolton-woods-callan-kilkenny/4996975"
+    },
+    {
+      "PropertyId": 4996956,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Meehans, Carrick Street, Mullinahone, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/9/4996956/b11759fd-2c5e-448b-9c5a-599742293238_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/meehans-carrick-street-mullinahone-tipperary/4996956"
+    },
+    {
+      "PropertyId": 4994038,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballyda House, 9 West Street, Callan, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/3/0/4994038/35b5331a-67dc-4bb5-8339-17ba7f48ca82_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballyda-house-9-west-street-callan-kilkenny/4994038"
+    },
+    {
+      "PropertyId": 4943964,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballybray, Knocktopher, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/6/9/4943964/c1a8b977-34b1-4dc1-9581-23e0a34a2bb6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballybray-knocktopher-kilkenny/4943964"
+    },
+    {
+      "PropertyId": 4295047,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Carickmerlin, Hugginstown, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/4/0/4295047/dcd2ba22-f9d2-4c1a-8fe8-095bae168487_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/carickmerlin-hugginstown-kilkenny/4295047"
+    },
+    {
+      "PropertyId": 3718034,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Bawnrickard, Nine Mile House, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/0/3718034/664029e1-4315-480c-9e0c-56152dab5de5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/bawnrickard-nine-mile-house-tipperary/3718034"
+    },
+    {
+      "PropertyId": 3694089,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Castletobin, Callan, Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/8/0/3694089/fe5d55e2-6ceb-403b-8799-7b549a904924_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/castletobin-callan-kilkenny/3694089"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5017709,
+      "Address": "452 Mill Street, Callan, Co Kilkenny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/0/7/5017709/54c67a0f-3fda-4d8d-978f-59ea74a8d4d6_t.jpg",
+      "HasWebP": false,
+      "Price": 275000,
+      "PrevPrice": 295000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -6.7797,
+      "Created": "23rd Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+      "BerRating": "C",
+      "SeoUrl": "/residential/brochure/452-mill-street-callan-co-kilkenny/5017709",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/335-mill-street-callan-kilkenny/5008314",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5952,
+    "MYH_LocalityID": 2418,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2414,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Garden",
+    "MYH_MaxPrice": 200000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 10,
+    "MYH_MinPrice": 200000,
+    "MYH_MinSize": 73,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5008314,
+    "MYH_PropertyTypeID": 37
+  }
+}

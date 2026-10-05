@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/24-st-johns-road-sandymount-dublin-4/6524394",
+  "fetchedAt": "2026-10-05T09:44:11.687Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/24-st-johns-road-sandymount-dublin-4/6524394",
+  "kind": "listing",
+  "responseSha256": "cd47748d907101ebba5b1ba77b451705a06f98e37e1a8348ac6223363efe8297",
+  "files": [
+    {
+      "path": "daft/01854-4c3731d5f10e8148-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f34db34c7e2834c6fdec495ec8a592a219ed3eaa7e3ee2023214936cf988af1e",
+      "bytes": 99541
+    },
+    {
+      "path": "daft/01854-4c3731d5f10e8148-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "658c6d1ef16226e00f770300a4f0c032b2a4fd1258ce8f0125cb3d9b25a021f6",
+      "bytes": 8184
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST. JOHN OF GOD SPECIAL SCHOOL",
+      "numPupils": 86,
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.343914",
+        "lon": "-6.310546"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL INSE CHÓR",
+      "numPupils": 208,
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.344040",
+        "lon": "-6.311829"
+      }
+    },
+    {
+      "schoolName": "INCHICORE NATIONAL SCHOOL",
+      "numPupils": 208,
+      "distance": {
+        "value": 1.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.341393",
+        "lon": "-6.320091"
+      }
+    },
+    {
+      "schoolName": "ST. JAMES'S PRIMARY SCHOOL",
+      "numPupils": 278,
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.340440",
+        "lon": "-6.289335"
+      }
+    },
+    {
+      "schoolName": "ST GABRIELS NATIONAL SCHOOL",
+      "numPupils": 176,
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.353855",
+        "lon": "-6.290665"
+      }
+    },
+    {
+      "schoolName": "GOLDENBRIDGE CONVENT",
+      "numPupils": 191,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336678",
+        "lon": "-6.319086"
+      }
+    },
+    {
+      "schoolName": "CANAL WAY EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 379,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.339790",
+        "lon": "-6.289387"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE GAN SMAL",
+      "numPupils": 330,
+      "distance": {
+        "value": 1.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.337630",
+        "lon": "-6.325085"
+      }
+    },
+    {
+      "schoolName": "DUBLIN 7 EDUCATE TOGETHER",
+      "numPupils": 513,
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.355293",
+        "lon": "-6.285399"
+      }
+    },
+    {
+      "schoolName": "STANHOPE STREET PRIMARY SCHOOL",
+      "numPupils": 400,
+      "distance": {
+        "value": 1.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352630",
+        "lon": "-6.280710"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "JAMES' STREET CBS",
+      "numPupils": 220,
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.340363",
+        "lon": "-6.289439"
+      }
+    },
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 328,
+      "distance": {
+        "value": 1.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336765",
+        "lon": "-6.321998"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPHS SECONDARY SCHOOL",
+      "numPupils": 238,
+      "distance": {
+        "value": 1.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352646",
+        "lon": "-6.281743"
+      }
+    },
+    {
+      "schoolName": "OUR LADY OF MERCY SECONDARY SCHOOL",
+      "numPupils": 280,
+      "distance": {
+        "value": 1.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330956",
+        "lon": "-6.319218"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 365,
+      "distance": {
+        "value": 1.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329450",
+        "lon": "-6.297697"
+      }
+    },
+    {
+      "schoolName": "THE BRUNNER",
+      "numPupils": 219,
+      "distance": {
+        "value": 2.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.350590",
+        "lon": "-6.275703"
+      }
+    },
+    {
+      "schoolName": "Coláiste Mhuire",
+      "numPupils": 256,
+      "distance": {
+        "value": 2.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.366030",
+        "lon": "-6.302419"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COLLEGE",
+      "numPupils": 221,
+      "distance": {
+        "value": 2.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.335983",
+        "lon": "-6.277807"
+      }
+    },
+    {
+      "schoolName": "ST DECLAN'S COLLEGE",
+      "numPupils": 653,
+      "distance": {
+        "value": 2.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.366840",
+        "lon": "-6.303064"
+      }
+    },
+    {
+      "schoolName": "CLOGHER ROAD COMMUNITY COLLEGE",
+      "numPupils": 269,
+      "distance": {
+        "value": 2.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.327312",
+        "lon": "-6.294593"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Islandbridge",
+      "route": "69",
+      "destination": "Conyngham Rd",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.345532",
+        "lon": "-6.308289"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Br Water Quay",
+      "route": "80",
+      "destination": "Liffey Valley",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348278",
+        "lon": "-6.305446"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Br Water Quay",
+      "route": "C5",
+      "destination": "Maynooth",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348278",
+        "lon": "-6.305446"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Br Water Quay",
+      "route": "69",
+      "destination": "Rathcoole",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348278",
+        "lon": "-6.305446"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Br Water Quay",
+      "route": "C6",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.34843",
+        "lon": "-6.305966"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Islandbridge Gate",
+      "route": "80",
+      "destination": "Liffey Valley",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348026",
+        "lon": "-6.310443"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Islandbridge Gate",
+      "route": "C5",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348132",
+        "lon": "-6.31098"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Islandbridge Gate",
+      "route": "C6",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348132",
+        "lon": "-6.31098"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Phoenix Hse",
+      "route": "C5",
+      "destination": "Maynooth",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348155",
+        "lon": "-6.301861"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Phoenix Hse",
+      "route": "80",
+      "destination": "Liffey Valley",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348155",
+        "lon": "-6.301861"
+      }
+    }
+  ]
+}

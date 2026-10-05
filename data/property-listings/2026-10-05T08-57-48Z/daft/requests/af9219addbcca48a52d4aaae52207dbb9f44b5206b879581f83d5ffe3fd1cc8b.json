@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=47",
+  "fetchedAt": "2026-10-05T09:50:15.342Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=47",
+  "kind": "search",
+  "responseSha256": "66b741595f4e061eab52165c114aaa3faf8fa44348dd81596ae9c4fbde1c531c",
+  "files": [
+    {
+      "path": "daft/02096-af9219addbcca48a-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "638a5b91d6eeb5c6751477ad9bc3f2c94d5eec20f47ace899c8874a72dac6b19",
+      "bytes": 302279
+    },
+    {
+      "path": "daft/02096-af9219addbcca48a-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02096-af9219addbcca48a-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "31a1175c404df1128f6b152fbb9b44ebbf6e7e90e31339df0592d8f5779fe792",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/dursey-north-circular-road-north-circular-road-co-limerick/6617138",
+    "https://www.daft.ie/for-sale/33-fearnog-clybaun-road-knocknacarra-co-galway/6622788",
+    "https://www.daft.ie/for-sale/glandore-father-griffin-road-galway-city-centre-co-galway/6526978",
+    "https://www.daft.ie/for-sale/neidin-rahilla-kildare-co-kildare/6642927",
+    "https://www.daft.ie/for-sale/14-ard-riadha-geashill-co-offaly/6608422",
+    "https://www.daft.ie/for-sale/knockatee-dunmore-co-galway/6622516",
+    "https://www.daft.ie/for-sale/4-leacach-ard-danesfort-road-loughrea-co-galway/6623070",
+    "https://www.daft.ie/for-sale/corbally-cummer-carnoneen-co-galway/6633526",
+    "https://www.daft.ie/for-sale/46-duirling-roscam-co-galway/6637518",
+    "https://www.daft.ie/for-sale/51-college-green-dunmore-road-tuam-co-galway/6640398",
+    "https://www.daft.ie/for-sale/17-the-telford-building-heuston-south-quater-saint-johns-road-west-dublin-8/6644861",
+    "https://www.daft.ie/for-sale/35-aran-house-custom-house-square-ifsc-dublin-1/6637296",
+    "https://www.daft.ie/for-sale/garryhundon-milford-tinryland-co-carlow/6615103",
+    "https://www.daft.ie/for-sale/116-oldtown-woods-celbridge-co-kildare/6494303",
+    "https://www.daft.ie/for-sale/6-ring-finnan-avenue-kinsale-manor-kinsale-co-cork/6643092",
+    "https://www.daft.ie/for-sale/16-cherryvale-ballyhaunis-ballyhaunis-co-mayo/6644098",
+    "https://www.daft.ie/for-sale/6-shanganagh-terrace-killiney-co-dublin/6595222",
+    "https://www.daft.ie/for-sale/34-hamilton-hill-barnageeragh-skerries-co-dublin/6148464",
+    "https://www.daft.ie/for-sale/20-oakview-drive-ballinacurra-ballinacurra-co-limerick/6643185",
+    "https://www.daft.ie/for-sale/ballymariscal-ardrahan-co-galway/6638882"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=48",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1b-carpenterstown-road-castleknock-dublin-15-co-dublin/6682844",
+  "fetchedAt": "2026-10-05T09:52:18.496Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1b-carpenterstown-road-castleknock-dublin-15-co-dublin/6682844",
+  "kind": "listing",
+  "responseSha256": "7a5b42b13f9639db8acf6d963a4f974921b5b4e083859955c5af167ce3145d85",
+  "files": [
+    {
+      "path": "daft/02178-5cc2ccb7bf9df475-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2d393eb9888826587112000ba808362b87b3f8abff48fae4c3dedffc0b426f1f",
+      "bytes": 32060
+    },
+    {
+      "path": "daft/02178-5cc2ccb7bf9df475-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4ef372f3a29b5b7928d2f10cbff736944fc7190a99b04232a543199827a05f4e",
+      "bytes": 8182
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

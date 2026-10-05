@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=386",
+  "fetchedAt": "2026-10-05T13:33:29.306Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=386",
+  "kind": "search",
+  "responseSha256": "4764a046c6fe204ef1b0e881e1ba5956a5baa44488de71c072bc6d561e153c6e",
+  "files": [
+    {
+      "path": "myhome/08470-fc99985d544fc561-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=386\"].SearchResults",
+      "sha256": "33978b9cb010c35035633692c1cbf5f89573d70f73159fddd68692c39e105205",
+      "bytes": 122063
+    },
+    {
+      "path": "myhome/08470-fc99985d544fc561-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=386\"] (paging fields)",
+      "sha256": "3b9fad5772dca110aaf6874984183511d5010b8bbab90b73d1480bd660584934",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/cosy-cottage-ballymoate-glenealy-co-wicklow/5017142",
+    "https://www.myhome.ie/residential/brochure/100-ashmount-court-tivoli-cork/5017079",
+    "https://www.myhome.ie/residential/brochure/48-blueberry-fields-midleton-cork/5012325",
+    "https://www.myhome.ie/residential/brochure/6-old-mill-brownsmills-kinsale-co-cork/5017136",
+    "https://www.myhome.ie/residential/brochure/3-kilbranish-drive-limerick-county-limerick/5017135",
+    "https://www.myhome.ie/residential/brochure/rosturk-mulranny-westport-co-mayo/5017131",
+    "https://www.myhome.ie/residential/brochure/iona-84-channel-road-rush-co-dublin/5017124",
+    "https://www.myhome.ie/residential/brochure/moyleen-house-ardee-road-carrickmacross-monaghan/5017122",
+    "https://www.myhome.ie/residential/brochure/brockagh-robertstown-co-kildare/5017120",
+    "https://www.myhome.ie/residential/brochure/knock-lettermullen-co-galway/5017119",
+    "https://www.myhome.ie/residential/brochure/40-summerseat-court-main-street-clonee-co-meath/5013672",
+    "https://www.myhome.ie/residential/brochure/3-cord-road-drogheda-louth/5017106",
+    "https://www.myhome.ie/residential/brochure/corboley-morgan-barna-co-galway/5017117",
+    "https://www.myhome.ie/residential/brochure/hillbrook-6-burdett-avenue-sandycove-county-dublin/5016722",
+    "https://www.myhome.ie/residential/brochure/apt-65-stewart-hall-ryders-row-parnell-street-north-city-centre-dublin-1/5017109",
+    "https://www.myhome.ie/residential/brochure/37-oak-downs-with-attic-conversion-clondalkin-dublin-22/5017104",
+    "https://www.myhome.ie/residential/brochure/255-boulevard-mount-eustace-tyrrelstown-dublin-15/5006412",
+    "https://www.myhome.ie/residential/brochure/308-colehill-newtowncunningham-lifford-co-donegal/5017100",
+    "https://www.myhome.ie/residential/brochure/71-eden-villas-glasthule-county-dublin/5017092",
+    "https://www.myhome.ie/residential/brochure/parkmore-athleague-roscommon/5017090"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=387",
+  "paginationLimited": false
+}

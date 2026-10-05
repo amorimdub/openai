@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/8-the-drive-millbrook-lawns-oldbawn-dublin-24/6686176",
+  "fetchedAt": "2026-10-05T09:31:09.221Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/8-the-drive-millbrook-lawns-oldbawn-dublin-24/6686176",
+  "kind": "listing",
+  "responseSha256": "fc8ccd70a539b7629c46a70cdec163bb34e0a3dc9e7431ca36dcb9c6c96f1a99",
+  "files": [
+    {
+      "path": "daft/01333-bf42ec26ea5da18b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5195b916dd009093bba6e18c09f282abcfe6ba489175cfd50bf29b2212c2ba73",
+      "bytes": 64654
+    },
+    {
+      "path": "daft/01333-bf42ec26ea5da18b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a88ebf7abad19dda74dea6d69b56de8be8c2cebeadf35fbf7b451e4a64998b4a",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

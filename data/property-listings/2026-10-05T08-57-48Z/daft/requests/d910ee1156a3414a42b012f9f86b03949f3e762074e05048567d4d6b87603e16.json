@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-59-block-a-grande-central-rockbrook-carmanhall-road-sandyford-dublin-18/6672120",
+  "fetchedAt": "2026-10-05T09:13:30.235Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-59-block-a-grande-central-rockbrook-carmanhall-road-sandyford-dublin-18/6672120",
+  "kind": "listing",
+  "responseSha256": "f99d89a0d0b6918e13234fe474eed23b18552e05268dc2959a531dd145a70161",
+  "files": [
+    {
+      "path": "daft/00628-d910ee1156a3414a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e4ae7c904f34af25678aa094cda3b97c49f8b03d369c098d1782b3bd3f795c7b",
+      "bytes": 18535
+    },
+    {
+      "path": "daft/00628-d910ee1156a3414a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5b4d98681c5fea63edde76cda79b5bc0aa43855785ceaa11add38e9ca08a150d",
+      "bytes": 8082
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

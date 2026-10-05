@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=59",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=59",
+  "fetchedAt": "2026-10-05T09:42:21.898Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "83a634d71f3dcc55862689a3c8edce438fab1e574ead66d4da5c29e594ac6f0e",
+  "files": [
+    {
+      "path": "myhome/01776-7ebcb0817bc930b0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=59\"].SearchResults",
+      "sha256": "c241ac508f24e5c6ed4805083807419f1da417327d7c6925e12b462deb1b9210",
+      "bytes": 108605
+    },
+    {
+      "path": "myhome/01776-7ebcb0817bc930b0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=59\"] (paging fields)",
+      "sha256": "745211a7a5287f5b929a0eed0e33b19769a88d5684fe764170c9005c53316e5f",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-28-monkstown-square-monkstown-avenue-monkstown-county-dublin/5025599",
+    "https://www.myhome.ie/residential/brochure/mount-vernon-411-clontarf-road-clontarf-dublin-3/5027643",
+    "https://www.myhome.ie/residential/brochure/carriglea-2-harbour-road-skerries-county-dublin/5026299",
+    "https://www.myhome.ie/residential/brochure/new-homes-pearsons-brook-gorey-wexford/4513898",
+    "https://www.myhome.ie/residential/brochure/12-st-peters-road-walkinstown-dublin-12/5028075",
+    "https://www.myhome.ie/residential/brochure/new-homes-pearsons-brook-gorey-wexford/4513910",
+    "https://www.myhome.ie/residential/brochure/42-grianan-fidh-aikens-village-sandyford-dublin-18/5031265",
+    "https://www.myhome.ie/residential/brochure/71-south-gate-apartments-cork-street-dublin-8/5028712",
+    "https://www.myhome.ie/residential/brochure/10-block-c-smithfield-market-smithfield-dublin-7/5031263",
+    "https://www.myhome.ie/residential/brochure/8-sandyford-hall-lawn-sandyford-dublin-18/5031261",
+    "https://www.myhome.ie/residential/brochure/72-block-c-smithfield-market-smithfield-dublin-7/5031262",
+    "https://www.myhome.ie/residential/brochure/drummartin-heights-kilmacud-dublin-14/5005140",
+    "https://www.myhome.ie/residential/brochure/ballykeane-geashill-co-offaly/5031260",
+    "https://www.myhome.ie/residential/brochure/ardagh-village-ardagh-co-longford/5031259",
+    "https://www.myhome.ie/residential/brochure/38-woodstown-heath-knocklyon-dublin-16/5031258",
+    "https://www.myhome.ie/residential/brochure/ashbrook-22-clonlea-ballinteer-dublin-16/5031257",
+    "https://www.myhome.ie/residential/brochure/17-geraldine-road-athy-county-kildare/5031256",
+    "https://www.myhome.ie/residential/brochure/15-the-saltings-annagassan-county-louth/5031255",
+    "https://www.myhome.ie/residential/brochure/43-cashel-avenue-crumlin-dublin-12/5019600",
+    "https://www.myhome.ie/residential/brochure/24-the-park-athlumney-wood-navan-co-meath/5031253"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=60",
+  "paginationLimited": false
+}

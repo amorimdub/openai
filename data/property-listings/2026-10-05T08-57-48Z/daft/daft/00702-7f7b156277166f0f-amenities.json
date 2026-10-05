@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "RUAN NATIONAL SCHOOL",
+      "numPupils": 77,
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.933727",
+        "lon": "-8.988681"
+      }
+    },
+    {
+      "schoolName": "COROFIN NATIONAL SCHOOL",
+      "numPupils": 103,
+      "distance": {
+        "value": 4.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.945187",
+        "lon": "-9.058701"
+      }
+    },
+    {
+      "schoolName": "TOONAGH NATIONAL SCHOOL",
+      "numPupils": 77,
+      "distance": {
+        "value": 5.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.890236",
+        "lon": "-9.034388"
+      }
+    },
+    {
+      "schoolName": "BAREFIELD NATIONAL SCHOOL",
+      "numPupils": 399,
+      "distance": {
+        "value": 5.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.890610",
+        "lon": "-8.943889"
+      }
+    },
+    {
+      "schoolName": "CRUSHEEN NATIONAL SCHOOL",
+      "numPupils": 146,
+      "distance": {
+        "value": 6.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.936035",
+        "lon": "-8.893935"
+      }
+    },
+    {
+      "schoolName": "KILNABOY NATIONAL SCHOOL",
+      "numPupils": 83,
+      "distance": {
+        "value": 7.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.972160",
+        "lon": "-9.079402"
+      }
+    },
+    {
+      "schoolName": "ENNIS EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 149,
+      "distance": {
+        "value": 7.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.859177",
+        "lon": "-8.983097"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S ENNIS",
+      "numPupils": 110,
+      "distance": {
+        "value": 8.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.857044",
+        "lon": "-8.978622"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL MHÍCHÍL CÍOSÓG INIS",
+      "numPupils": 471,
+      "distance": {
+        "value": 8.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.855892",
+        "lon": "-8.980846"
+      }
+    },
+    {
+      "schoolName": "ST ANNE'S SPECIAL SCHOOL",
+      "numPupils": 137,
+      "distance": {
+        "value": 8.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.853860",
+        "lon": "-8.975535"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "RICE COLLEGE",
+      "numPupils": 700,
+      "distance": {
+        "value": 9.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.847824",
+        "lon": "-8.979532"
+      }
+    },
+    {
+      "schoolName": "ENNIS COMMUNITY COLLEGE",
+      "numPupils": 612,
+      "distance": {
+        "value": 9.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.847187",
+        "lon": "-8.987692"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MUIRE",
+      "numPupils": 999,
+      "distance": {
+        "value": 9.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.846990",
+        "lon": "-8.985467"
+      }
+    },
+    {
+      "schoolName": "ST FLANNAN'S COLLEGE",
+      "numPupils": 1273,
+      "distance": {
+        "value": 10.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.834080",
+        "lon": "-8.983918"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S SECONDARY SCHOOL TULLA",
+      "numPupils": 728,
+      "distance": {
+        "value": 17.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.864773",
+        "lon": "-8.760444"
+      }
+    },
+    {
+      "schoolName": "GORT COMMUNITY SCHOOL",
+      "numPupils": 1018,
+      "distance": {
+        "value": 18.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.061367",
+        "lon": "-8.811457"
+      }
+    },
+    {
+      "schoolName": "CBS SECONDARY SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 20.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.941784",
+        "lon": "-9.289401"
+      }
+    },
+    {
+      "schoolName": "ENNISTYMON VOCATIONAL SCHOOL",
+      "numPupils": 193,
+      "distance": {
+        "value": 20.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.940180",
+        "lon": "-9.294961"
+      }
+    },
+    {
+      "schoolName": "ENNISTYMON COMMUNITY SCHOOL",
+      "numPupils": 700,
+      "distance": {
+        "value": 20.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.938870",
+        "lon": "-9.298626"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE",
+      "numPupils": 210,
+      "distance": {
+        "value": 20.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.938854",
+        "lon": "-9.298656"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Toonagh",
+      "route": "333",
+      "destination": "Kilkee",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8905998722263",
+        "lon": "-9.03210252525264"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Corofin",
+      "route": "BC4",
+      "destination": "Burren National Park",
+      "provider": "Burren and Cliffs Explorer",
+      "distance": {
+        "value": 5.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.94498",
+        "lon": "-9.06289"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Corofin",
+      "route": "BC3",
+      "destination": "Slieve Carran",
+      "provider": "Burren and Cliffs Explorer",
+      "distance": {
+        "value": 5.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.94498",
+        "lon": "-9.06289"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Corofin",
+      "route": "333",
+      "destination": "Doonbeg",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.945184",
+        "lon": "-9.064693"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Crusheen",
+      "route": "51",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.938329",
+        "lon": "-8.899018"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fountain Cross",
+      "route": "350",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.865559",
+        "lon": "-9.026597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fountain Cross",
+      "route": "333",
+      "destination": "Doonbeg",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.865559",
+        "lon": "-9.026597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dulick Ent Centre",
+      "route": "337",
+      "destination": "Ennis",
+      "provider": "TFI Local Link Limerick Clare",
+      "distance": {
+        "value": 7.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.860954",
+        "lon": "-8.980382"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gort Rd B Pk",
+      "route": "337",
+      "destination": "Ennis",
+      "provider": "TFI Local Link Limerick Clare",
+      "distance": {
+        "value": 7.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.86072",
+        "lon": "-8.98256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilnaboy",
+      "route": "333",
+      "destination": "Doonbeg",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.969789",
+        "lon": "-9.085431"
+      }
+    }
+  ]
+}

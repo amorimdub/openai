@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/oatlands-manor-cherrygarth-mount-merrion-co-dublin/5287992",
+  "fetchedAt": "2026-10-05T09:07:07.254Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/oatlands-manor-cherrygarth-mount-merrion-co-dublin/5287992",
+  "kind": "listing",
+  "responseSha256": "b3764ca1dd8ffa8965b218c3e01379a2089bea25bba0769f6fe24b0f8a62837d",
+  "files": [
+    {
+      "path": "daft/00373-1d38949fd0acb7aa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "78277105b3113ba5b53bb456d2cce947a8cfe46237e0d50cddeabbe79296dff8",
+      "bytes": 128019
+    },
+    {
+      "path": "daft/00373-1d38949fd0acb7aa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d6f16d9edbb094f48b3e3c7d6073d8562ccbccdc3276e78c8a59a58850c4a9ef",
+      "bytes": 8029
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

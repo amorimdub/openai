@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/31a-beecher-street-mallow-mallow-co-cork/6683354",
+  "fetchedAt": "2026-10-05T09:17:33.564Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/31a-beecher-street-mallow-mallow-co-cork/6683354",
+  "kind": "listing",
+  "responseSha256": "47a1313c511be3f7c8f7c3b76bd1d0f75ae6cc261012602c81ac9841035c5404",
+  "files": [
+    {
+      "path": "daft/00790-8e9ca8d84d5ccb13-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ca59c8a94211a1c3f08ae84d1eb9cd2cc75f77f36fe85b9f40aa95b62664a475",
+      "bytes": 29191
+    },
+    {
+      "path": "daft/00790-8e9ca8d84d5ccb13-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d0ac5cfe317b29b96b30bfe094d5424146a924c20b2a7c23cc9a88ff762ed78a",
+      "bytes": 8011
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

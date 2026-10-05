@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "captureId": "2026-10-05T08-57-48Z",
+  "stage": "raw-only",
+  "frozenAt": "2026-10-05T14:45:54.939929+00:00",
+  "inventoryCompleteness": "unverified",
+  "scope": "Reachable nationwide residential sale/rental search pages and listing details; no frontend or database import changes.",
+  "limitations": [
+    "This is a partial archive, not a verified complete provider inventory. Search cards are not full listing details.",
+    "Provider JSON was retained as collected; captures span multiple hours and do not establish current availability.",
+    "Photo/document/video URLs may be included; their binary content was not downloaded."
+  ],
+  "providers": {
+    "daft": {
+      "manifestPath": "daft/manifest.json",
+      "sourceRunId": "2026-10-05T08-57-48-181Z-38bce25d",
+      "status": "incomplete",
+      "startedAt": "2026-10-05T08:57:48.182Z",
+      "resumedAt": null,
+      "finishedAt": "2026-10-05T09:53:24.609Z",
+      "supervisorResult": {
+        "exitCode": 1,
+        "finishedAt": "2026-10-05T09:53:24.622903+00:00"
+      },
+      "verifiedPayloadFileCount": 4540,
+      "verifiedListingDetailCount": 2123,
+      "verifiedSearchPageCount": 98,
+      "verifiedRequestCheckpointCount": 2222,
+      "capturedPayloadBytes": 181140398,
+      "failedRequestCount": 1,
+      "failures": [
+        {
+          "url": "https://www.daft.ie/property-for-sale/ireland?page=50",
+          "httpStatus": 403,
+          "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=50",
+          "error": "HTTP 403; response not saved as listing JSON"
+        }
+      ],
+      "skippedUrlCount": 41,
+      "skippedReasons": {
+        "provider-blocked": 41
+      },
+      "limitations": [
+        "Daft HTTP 403 on sale search page 50 stopped discovery; 41 queued URLs skipped. No access controls bypassed."
+      ]
+    },
+    "myhome": {
+      "manifestPath": "myhome/manifest.json",
+      "sourceRunId": "2026-10-05T08-57-48-181Z-d757eecf",
+      "status": "incomplete",
+      "startedAt": "2026-10-05T08:57:48.182Z",
+      "resumedAt": "2026-10-05T11:00:59.660Z",
+      "finishedAt": "2026-10-05T14:33:13.499Z",
+      "supervisorResult": {
+        "exitCode": 1,
+        "finishedAt": "2026-10-05T14:33:13.542757+00:00",
+        "recovery": "resume-interrupted-run"
+      },
+      "verifiedPayloadFileCount": 11373,
+      "verifiedListingDetailCount": 10307,
+      "verifiedSearchPageCount": 533,
+      "verifiedRequestCheckpointCount": 10854,
+      "capturedPayloadBytes": 389115797,
+      "failedRequestCount": 14,
+      "failures": [
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/a-exchequer-street-dublin-2/5003877",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin/apartment-to-rent-in-dublin-2",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/greenore-terrace-grand-canal-dock-dublin-2/4914070",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin-2/house-to-rent-in-grand-canal-dk",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/unit-1-john-broderick-street-athlone-westmeath/4905481",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/westmeath/apartment-to-rent-in-athlone",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/castlegate-walk-lucan-co-dublin/4898731",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin-county/house-to-rent-in-lucan",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/the-windmill-lane-apartments-windmill-lane-dublin-2/4800681",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin/apartment-to-rent-in-dublin-2",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/31-the-crescent-robswall-malahide-co-dublin/4798509",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin-county/house-to-rent-in-malahide",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/71-fairview-strand-fairview-dublin-3/4798504",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin-3/apartment-to-rent-in-fairview",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/the-hutchins-lansdowne-place-ballsbridge-dublin-4/4784664",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin-4/apartment-to-rent-in-ballsbridge",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/1-granby-villas-granby-row-carlow-carlow-town-carlow-r93p8c5/4771904",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/carlow/semi-detached-to-rent-in-carlow-town",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/entire-8-flats-53-grove-park-rathmines-dublin-6-dublin/4714483",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin/apartment-to-rent-in-dublin-6",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/entire-9-apartments-60-61-middle-abbey-street-dublin-1-dublin/4714467",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin/apartment-to-rent-in-dublin-1",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/entire-7-apartments-58-59-abbey-street-middle-dublin-1-dublin/4714409",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin/apartment-to-rent-in-dublin-1",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/rentals/brochure/entire-8-apartments-38-39-abbey-street-upper-dublin-1-dublin/4714399",
+          "httpStatus": 200,
+          "finalUrl": "https://www.myhome.ie/rentals/dublin/apartment-to-rent-in-dublin-1",
+          "error": "Detail URL returned a search page; detail completeness unverified"
+        },
+        {
+          "url": "https://www.myhome.ie/residential/brochure/223-castlecurragh-vale-blanchardstown-dublin-15/5029749",
+          "error": "The operation was aborted."
+        }
+      ],
+      "skippedUrlCount": 0,
+      "skippedReasons": {},
+      "limitations": [
+        "13 detail URLs redirected to search pages; one request timed out.",
+        "MyHome was resumed in the same run after interruption, retaining and verifying previously saved files.",
+        "The remaining timeout is retained: the resume command also retries permanent redirects, which were already retried during recovery."
+      ]
+    }
+  },
+  "totals": {
+    "verifiedPayloadFileCount": 15913,
+    "verifiedListingDetailCount": 12430,
+    "verifiedSearchPageCount": 631,
+    "verifiedRequestCheckpointCount": 13076,
+    "capturedPayloadBytes": 570256195,
+    "failedRequestCount": 15,
+    "skippedUrlCount": 41
+  }
+}

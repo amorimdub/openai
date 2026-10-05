@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ard-bracken-kilteragh-ballinacurra-co-limerick/6686133",
+  "fetchedAt": "2026-10-05T09:16:22.992Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ard-bracken-kilteragh-ballinacurra-co-limerick/6686133",
+  "kind": "listing",
+  "responseSha256": "05310f6fd30f7db931b262d67cde66e587d87417b7aff415e38ff2e7f9e39534",
+  "files": [
+    {
+      "path": "daft/00743-e5430b0bffc1ba9b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "25cc1d2a7d1a69d74f5cf5c451a07c161b126d96c034ac67526ed1e61e09eba5",
+      "bytes": 33670
+    },
+    {
+      "path": "daft/00743-e5430b0bffc1ba9b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "53356b4a6be3f3fd1a74cd317eed9dded7e82149078c8c4a035b2d11d4bb3cdd",
+      "bytes": 8031
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

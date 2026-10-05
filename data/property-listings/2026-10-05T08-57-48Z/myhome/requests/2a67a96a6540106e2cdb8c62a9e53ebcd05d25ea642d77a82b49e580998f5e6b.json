@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=399",
+  "fetchedAt": "2026-10-05T13:40:10.591Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=399",
+  "kind": "search",
+  "responseSha256": "df8c7858d4360800d4325df4cbc8152cc72cf89f12140ae000444eeea79f47ef",
+  "files": [
+    {
+      "path": "myhome/08737-2a67a96a6540106e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=399\"].SearchResults",
+      "sha256": "b978d298b45ff60e6937c3f0fea7e342afffbd28fc0e38a1e371660db97904a5",
+      "bytes": 108211
+    },
+    {
+      "path": "myhome/08737-2a67a96a6540106e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=399\"] (paging fields)",
+      "sha256": "490a11fe537fce8f6de4c8ddd27a42e899a7221521c7d1871cd4620e1493b1bc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/one-bedroom-apartment-yourell-s-meadows-the-back-road-malahide-county-dublin/5011998",
+    "https://www.myhome.ie/residential/brochure/two-bedroom-duplex-yourell-s-meadows-the-back-road-malahide-county-dublin/5012033",
+    "https://www.myhome.ie/residential/brochure/133-windmill-park-crumlin-dublin-12/5015270",
+    "https://www.myhome.ie/residential/brochure/type-b-yourell-s-meadow-malahide-county-dublin/5012146",
+    "https://www.myhome.ie/residential/brochure/44-the-green-lennonstown-manor-dundalk-louth/5015256",
+    "https://www.myhome.ie/residential/brochure/type-a-yourell-s-meadows-the-back-road-malahide-county-dublin/5012142",
+    "https://www.myhome.ie/residential/brochure/apartment-23-willow-grove-clane-road-sallins-kildare/5011691",
+    "https://www.myhome.ie/residential/brochure/mullaghlea-bawnboy-cavan/5015272",
+    "https://www.myhome.ie/residential/brochure/23-la-touche-drive-bluebell-dublin-12/5015263",
+    "https://www.myhome.ie/residential/brochure/marmion-walk-clane-co-kildare-2-bedroom-apartment/5015265",
+    "https://www.myhome.ie/residential/brochure/ardgort-3-ard-cleire-schull-co-cork/5015266",
+    "https://www.myhome.ie/residential/brochure/mount-alexander-gorey-wexford/5015250",
+    "https://www.myhome.ie/residential/brochure/corrimbla-south-ballina-co-mayo/5015259",
+    "https://www.myhome.ie/residential/brochure/fear-an-flainn-kilflynn-tralee-kerry/4912762",
+    "https://www.myhome.ie/residential/brochure/46-cill-cais-oldbawn-dublin-24/5015255",
+    "https://www.myhome.ie/residential/brochure/20-saint-davids-terrace-blackhorse-avenue-dublin-7/4827391",
+    "https://www.myhome.ie/residential/brochure/st-margaret-s-15-lakyle-heights-ardnacrusha-co-clare/5015240",
+    "https://www.myhome.ie/residential/brochure/10-islandganniv-place-listowel-co-kerry/5010780",
+    "https://www.myhome.ie/residential/brochure/no-6-chapel-hill-old-chapel-bandon-cork/5015234",
+    "https://www.myhome.ie/residential/brochure/killeen-3-dooradoyle-road-limerick-county-limerick/5015235"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=400",
+  "paginationLimited": false
+}

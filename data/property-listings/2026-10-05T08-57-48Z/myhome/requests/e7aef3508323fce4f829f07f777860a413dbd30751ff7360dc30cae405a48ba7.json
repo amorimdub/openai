@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=168",
+  "fetchedAt": "2026-10-05T11:41:04.442Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=168",
+  "kind": "search",
+  "responseSha256": "7bc82f6a11c6c932ee926ece756374c6853066f1836dfa0400981a7b6e96e173",
+  "files": [
+    {
+      "path": "myhome/03988-e7aef3508323fce4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=168\"].SearchResults",
+      "sha256": "7c40f21c35fa525987f5827cd5ba524ef0aba3428c6712beb95181543eb1ad61",
+      "bytes": 117486
+    },
+    {
+      "path": "myhome/03988-e7aef3508323fce4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=168\"] (paging fields)",
+      "sha256": "5ef12456e8b5141707fcb8597f00ec372a51177ef27122723b6bd507e4179101",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-st-kevins-parade-portobello-dublin-8/4982975",
+    "https://www.myhome.ie/residential/brochure/2a-duncairn-lane-bray-wicklow/5028313",
+    "https://www.myhome.ie/residential/brochure/25-clos-emer-dundalk-louth/5028480",
+    "https://www.myhome.ie/residential/brochure/apt-26-woodview-court-glenalbyn-road-stillorgan-county-dublin/5014154",
+    "https://www.myhome.ie/residential/brochure/chapel-park-kinnegad-co-westmeath-the-willow-3-bedroom-townhouse/5028479",
+    "https://www.myhome.ie/residential/brochure/urcher-bailieborough-cavan/5028477",
+    "https://www.myhome.ie/residential/brochure/accony-louisburgh-mayo/5028446",
+    "https://www.myhome.ie/residential/brochure/castlecor-oldcastle-co-meath/4997673",
+    "https://www.myhome.ie/residential/brochure/16a-birchdale-road-kinsealy-co-dublin-swords-county-dublin/5028292",
+    "https://www.myhome.ie/residential/brochure/2-rosehaven-castleknock-dublin-15/5028478",
+    "https://www.myhome.ie/residential/brochure/monamolin-rathnure-enniscorthy-wexford/5028457",
+    "https://www.myhome.ie/residential/brochure/ballyscanlon-crossmolina-mayo/5028471",
+    "https://www.myhome.ie/residential/brochure/110-silverheights-avenue-mayfield-cork/5028470",
+    "https://www.myhome.ie/residential/brochure/coolaghmore-callan-co-kilkenny/4970937",
+    "https://www.myhome.ie/residential/brochure/1-bed-apartment-curragh-farm-newbridge-kildare/4721760",
+    "https://www.myhome.ie/residential/brochure/courtneys-cottage-bluepool-upper-kanturk-co-cork/5028475",
+    "https://www.myhome.ie/residential/brochure/4-manor-lawn-thornbury-view-rochestown-cork/5000429",
+    "https://www.myhome.ie/residential/brochure/22-st-aidan-s-park-marino-dublin-3/5028473",
+    "https://www.myhome.ie/residential/brochure/9-gilford-pines-gilford-road-sandymount-dublin-4/5028472",
+    "https://www.myhome.ie/residential/brochure/18-greenore-park-rossalre-harbour-rosslare-wexford/5028467"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=169",
+  "paginationLimited": false
+}

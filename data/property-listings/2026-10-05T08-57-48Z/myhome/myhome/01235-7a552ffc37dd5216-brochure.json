@@ -1,0 +1,164 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "test ballyfarnon roscommon",
+    "GroupId": 387566,
+    "Address": "Test",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/0/3/8/4459830/11c54d33-91de-4d99-b51d-e1d5d4ca8d0f_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/0/3/8/4459830/11c54d33-91de-4d99-b51d-e1d5d4ca8d0f_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/0/3/8/4459830/11c54d33-91de-4d99-b51d-e1d5d4ca8d0f_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "*** THIS IS A MYHOME.IE TEST PROPERTY ***"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "IsNewBER": false,
+    "CreatedOnDate": "2020-10-05T12:44:35.6570000+01:00",
+    "ModifiedOnDate": "2020-10-21T17:04:02.9170000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2020-10-05T12:44:47.0300000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": false,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "",
+    "IsTransact": false,
+    "PriceAsString": "POA",
+    "AuctionList": [],
+    "PropertyId": 4459830,
+    "DisplayAddress": "Test, Ballyfarnon, Roscommon",
+    "Eircode": "",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "RegionId": 3091,
+    "RegionName": "Roscommon",
+    "LocalityId": 4572,
+    "LocalityName": "Ballyfarnon",
+    "Price": {
+      "Period": "Monthly",
+      "ShowPrice": true,
+      "AvailableOn": "2020-10-05T00:00:00.0000000+01:00"
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/3/8/4459830/11c54d33-91de-4d99-b51d-e1d5d4ca8d0f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/3/8/4459830/11c54d33-91de-4d99-b51d-e1d5d4ca8d0f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/3/8/4459830/11c54d33-91de-4d99-b51d-e1d5d4ca8d0f_m.jpg"
+      }
+    ],
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": true
+    },
+    "PhotoCount": 1,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 387566,
+    "Name": "MyHome Test Agent 1",
+    "DisplayPhone": "01 827 9461",
+    "Email": "alan.coleman@myhome.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "myhome-test-agent-1",
+    "SeoName": "myhome-test-agent-1",
+    "Address": "24/28 Tara St",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballyfarnon/4572",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/test-ballyfarnon-roscommon/4459830",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 387566,
+    "MYH_LocalityID": 4572,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 3091,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [],
+    "MYH_PropertyFeatureIDListString": "",
+    "MYH_MinBeds": 0,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4459830
+  }
+}

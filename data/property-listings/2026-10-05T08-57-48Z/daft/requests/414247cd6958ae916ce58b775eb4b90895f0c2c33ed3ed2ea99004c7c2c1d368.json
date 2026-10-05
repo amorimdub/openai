@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-twin-bedroom-grand-canal-harbour-grand-canal-place-dublin-8/5810496",
+  "fetchedAt": "2026-10-05T08:59:42.308Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-twin-bedroom-grand-canal-harbour-grand-canal-place-dublin-8/5810496",
+  "kind": "listing",
+  "responseSha256": "99c79cec73734bf1c333abde288c95a082c2a9304d5db9615fabd406ad61e1c0",
+  "files": [
+    {
+      "path": "daft/00077-414247cd6958ae91-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d5b2af675fb6db57ea24f6b7709fe325676cbf4f246fa3453ff005ade8b7f8c3",
+      "bytes": 33135
+    },
+    {
+      "path": "daft/00077-414247cd6958ae91-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5c304dd961585df2ba12dd949e3fed4aadc55f677d54deae54a4a13bf36bc3d2",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

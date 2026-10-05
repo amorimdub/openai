@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/6-kenilworth-square-rathgar-co-dublin/6662807",
+  "fetchedAt": "2026-10-05T09:20:39.763Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/6-kenilworth-square-rathgar-co-dublin/6662807",
+  "kind": "listing",
+  "responseSha256": "0e8edbe4ba651cbcca2a722aa11bd444f5c3bf9408c6260b5189b71b1361d138",
+  "files": [
+    {
+      "path": "daft/00914-2aa97e36dc140763-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "79f19cfc1b7fb7bed5bb78faae1759655a3c4da1d6940ce3ade0e98f1ca66381",
+      "bytes": 86949
+    },
+    {
+      "path": "daft/00914-2aa97e36dc140763-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "694cd78f36ea3dcee68d243f89c7ebec44101fd523504daeddf32ca39516da67",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

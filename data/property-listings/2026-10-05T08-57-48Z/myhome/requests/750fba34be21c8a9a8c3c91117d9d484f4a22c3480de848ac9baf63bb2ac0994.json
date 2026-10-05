@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=171",
+  "fetchedAt": "2026-10-05T11:42:39.138Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=171",
+  "kind": "search",
+  "responseSha256": "1ee778359e106cc4c10e62e763678feae117575c8c54b025055cb8897ffc37e5",
+  "files": [
+    {
+      "path": "myhome/04051-750fba34be21c8a9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=171\"].SearchResults",
+      "sha256": "1732455036132863835374f0c04e837b0b45c095dad1015ba9b7f9e74b66bde6",
+      "bytes": 114976
+    },
+    {
+      "path": "myhome/04051-750fba34be21c8a9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=171\"] (paging fields)",
+      "sha256": "403dde8eb846ed3dc4db43413b8ecae2815e3fc68698a436f92fd9387ee1f956",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-rocky-valley-crescent-kilmacanogue-co-wicklow/4990927",
+    "https://www.myhome.ie/residential/brochure/14-bayside-crescent-sutton-dublin-13/4950105",
+    "https://www.myhome.ie/residential/brochure/the-bungalow-37-vernon-grove-clontarf-dublin-3/5028412",
+    "https://www.myhome.ie/residential/brochure/demailestown-wilkinstown-navan-meath/5007635",
+    "https://www.myhome.ie/residential/brochure/15-father-dominic-road-ballyphehane-cork/5028294",
+    "https://www.myhome.ie/residential/brochure/35-lower-churchtown-road-churchtown-dublin-14/5028140",
+    "https://www.myhome.ie/residential/brochure/1a-aghalative-creeslough-county-donegal/5028409",
+    "https://www.myhome.ie/residential/brochure/219-maolchnoc-ballymoneen-road-knocknacarra-galway/5014704",
+    "https://www.myhome.ie/residential/brochure/60-carysfort-park-blackrock-co-dublin/5028407",
+    "https://www.myhome.ie/residential/brochure/main-street-newcastle-county-wicklow/5007115",
+    "https://www.myhome.ie/residential/brochure/8-manor-court-maynooth-co-kildare-maynooth-kildare/5028404",
+    "https://www.myhome.ie/residential/brochure/9-rosemount-estate-dundrum-dublin-14/5026137",
+    "https://www.myhome.ie/residential/brochure/13-south-shore-drive-laytown-county-meath/5028403",
+    "https://www.myhome.ie/residential/brochure/51-seagrange-road-baldoyle-dublin-13/4996242",
+    "https://www.myhome.ie/residential/brochure/milleenawillin-skibbereen-west-cork/5027719",
+    "https://www.myhome.ie/residential/brochure/5-riversdale-grove-terenure-dublin-6w/5028398",
+    "https://www.myhome.ie/residential/brochure/14-greenlea-place-terenure-dublin-6w/4940606",
+    "https://www.myhome.ie/residential/brochure/6-mountpleasant-avenue-upper-ranelagh-dublin-6/5028242",
+    "https://www.myhome.ie/residential/brochure/34-bayside-square-north-sutton-dublin-13/5028394",
+    "https://www.myhome.ie/residential/brochure/rowallan-portmanna-clonee-co-meath/5027821"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=172",
+  "paginationLimited": false
+}

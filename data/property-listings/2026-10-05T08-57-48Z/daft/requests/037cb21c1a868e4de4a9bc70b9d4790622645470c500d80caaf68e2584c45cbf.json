@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/riverdale-house-lyrath-kilkenny/6666780",
+  "fetchedAt": "2026-10-05T09:09:44.931Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/riverdale-house-lyrath-kilkenny/6666780",
+  "kind": "listing",
+  "responseSha256": "c4c7cf3da362b644ba83c0981cde50922de1678d50026185f66446aefb997c29",
+  "files": [
+    {
+      "path": "daft/00478-037cb21c1a868e4d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "da83acbcef77e9cb8000365af527438c6b53518f3fdf39163c74abcc0f0bd79b",
+      "bytes": 82384
+    },
+    {
+      "path": "daft/00478-037cb21c1a868e4d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "04a2f97cba646ec0ddeb21f59c3542a4f492d334f5307daaaca586ed40f2c632",
+      "bytes": 8146
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

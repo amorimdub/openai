@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/inchwell-road-kanturk-co-cork/6684437",
+  "fetchedAt": "2026-10-05T09:42:37.030Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/inchwell-road-kanturk-co-cork/6684437",
+  "kind": "listing",
+  "responseSha256": "6114c37502b24c92838e8f02a267eb53dd6939bed9470bbd26a9b13b3850ec0d",
+  "files": [
+    {
+      "path": "daft/01791-ad67a1312b084dba-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "77e5f460892023f2ebf9a2614589226dfb491bea0ddd1de8a94d7d521a925142",
+      "bytes": 16919
+    },
+    {
+      "path": "daft/01791-ad67a1312b084dba-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2bf4ff0e62a667553e85d8dabff594345f9960890e7c2c48e4851be4705d644e",
+      "bytes": 8015
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

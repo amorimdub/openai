@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-1-southern-road-blackrock-co-cork/6683051",
+  "fetchedAt": "2026-10-05T09:51:54.473Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-1-southern-road-blackrock-co-cork/6683051",
+  "kind": "listing",
+  "responseSha256": "b014921dd80545b65e7602f470ee65e7deab3f7950c210206fb2a48d264b029d",
+  "files": [
+    {
+      "path": "daft/02162-f932ae41a5dad174-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e12a17c59fbab5187bd779a7304f02793b556dca10ab7a3e8499730143985ccb",
+      "bytes": 24704
+    },
+    {
+      "path": "daft/02162-f932ae41a5dad174-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f9127e06b21dd5419cc493572c538edcd92b433400734924796d356a28caf5d4",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

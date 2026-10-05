@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=5",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=5",
+  "fetchedAt": "2026-10-05T09:01:00.401Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "58bca39a082c283115ba9b41d37cc50c5862d89bb65af113b6b61e3525a31e87",
+  "files": [
+    {
+      "path": "myhome/00129-0db86df3f748e66e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=5\"].SearchResults",
+      "sha256": "ed37a4aec877015cbd3c4d4112e5d81144f900caeffcdcad17f51c7005d665c6",
+      "bytes": 91985
+    },
+    {
+      "path": "myhome/00129-0db86df3f748e66e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=5\"] (paging fields)",
+      "sha256": "24651a195910073f71cb10ade765105bc6b0c6db6a36c46adde0d8684989f36d",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/164-bachelors-walk-o-connell-street-dublin-1/5032073",
+    "https://www.myhome.ie/rentals/brochure/94-blackhall-square-dublin-7/5032069",
+    "https://www.myhome.ie/rentals/brochure/ballintyre-grove-ballinteer-dublin-16/5032054",
+    "https://www.myhome.ie/rentals/brochure/exchange-hall-tallaght-dublin-24/5032015",
+    "https://www.myhome.ie/rentals/brochure/11-delbrook-manor-ballinteer-dublin-16/5032010",
+    "https://www.myhome.ie/rentals/brochure/11-o-daly-terrace-rathdowney-laois/5031705",
+    "https://www.myhome.ie/rentals/brochure/millrace-court-saggart-co-dublin/5031987",
+    "https://www.myhome.ie/rentals/brochure/8-aderrig-park-avenue-adamstown-lucan-dublin/5031889",
+    "https://www.myhome.ie/rentals/brochure/47-distillery-court-the-maltings-ballincollig-cork/5031970",
+    "https://www.myhome.ie/rentals/brochure/45-belarmine-vale-belarmine-dublin-18-co-dublin/5031957",
+    "https://www.myhome.ie/rentals/brochure/belarmine-way-stepaside-dublin-18/5031930",
+    "https://www.myhome.ie/rentals/brochure/church-road-rathcoole-co-dublin/5031878",
+    "https://www.myhome.ie/rentals/brochure/stannaway-road-crumlin-dublin-12/5026697",
+    "https://www.myhome.ie/rentals/brochure/10-rock-street-cloyne-co-cork/5031854",
+    "https://www.myhome.ie/rentals/brochure/athgoe-newcastle-co-dublin/5031843",
+    "https://www.myhome.ie/rentals/brochure/15-the-crescent-highfield-park-ballincollig-cork/5031827",
+    "https://www.myhome.ie/rentals/brochure/ardbeg-road-artane-dublin-5/5031826",
+    "https://www.myhome.ie/rentals/brochure/apartment-2-24-25-esmonde-street-gorey-county-wexford/5031814",
+    "https://www.myhome.ie/rentals/brochure/elsmore-naas-naas-kildare/5031427",
+    "https://www.myhome.ie/rentals/brochure/65-cartron-drive-athlone-county-westmeath/5031771"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=6",
+  "paginationLimited": false
+}

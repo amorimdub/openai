@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=352",
+  "fetchedAt": "2026-10-05T13:15:54.197Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=352",
+  "kind": "search",
+  "responseSha256": "ba2c7238fb49b09bb17b9e93bc18ac1a8297121b49de0043edabe32acf8cb7e6",
+  "files": [
+    {
+      "path": "myhome/07768-c883a78c7dee0295-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=352\"].SearchResults",
+      "sha256": "747014e3bb9fba36825b4e2fff4197035c586e4f8944e658fe97886928b7cd73",
+      "bytes": 116390
+    },
+    {
+      "path": "myhome/07768-c883a78c7dee0295-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=352\"] (paging fields)",
+      "sha256": "83b229ef780efd808619161a594400fba4b56a56860ad0eca99d7741d5c80168",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/colligan-dungarvan-waterford/5019648",
+    "https://www.myhome.ie/residential/brochure/67-high-street-city-centre-sth-cork-city/4936140",
+    "https://www.myhome.ie/residential/brochure/point-road-crosshaven-cork/5017239",
+    "https://www.myhome.ie/residential/brochure/119-georgian-village-castleknock-dublin-15/5011868",
+    "https://www.myhome.ie/residential/brochure/4-castleknock-green-castleknock-dublin-15/5000285",
+    "https://www.myhome.ie/residential/brochure/cranny-lower-inver-co-donegal/5019641",
+    "https://www.myhome.ie/residential/brochure/apartment-3-7-main-street-clongriffin-dublin-13-co-dublin/5019640",
+    "https://www.myhome.ie/residential/brochure/abhaile-ratoath-road-baltrasna-ashbourne-co-meath/5019638",
+    "https://www.myhome.ie/residential/brochure/apartment-46-summer-haven-carrick-on-shannon-leitrim/5019631",
+    "https://www.myhome.ie/residential/brochure/8-moorefield-park-newbridge-co-kildare/5019627",
+    "https://www.myhome.ie/residential/brochure/83-an-sruthan-beag-clonakilty-co-cork/5019626",
+    "https://www.myhome.ie/residential/brochure/the-pond-house-narraghmore-kilcullen-kildare/5015526",
+    "https://www.myhome.ie/residential/brochure/ballynamona-co-sligo/4978008",
+    "https://www.myhome.ie/residential/brochure/tinnahinch-clonaslee-laois/5019424",
+    "https://www.myhome.ie/residential/brochure/57-white-oaks-wilton-cork/5019617",
+    "https://www.myhome.ie/residential/brochure/215-captains-road-crumlin-dublin-12/5015605",
+    "https://www.myhome.ie/residential/brochure/18-brookfield-ballinode-sligo/5019267",
+    "https://www.myhome.ie/residential/brochure/donoughboy-kilkee-co-clare/5019620",
+    "https://www.myhome.ie/residential/brochure/cl-s-dhromainn-riverside-road-carrickmacross-monaghan/5019591",
+    "https://www.myhome.ie/residential/brochure/knocknaclogher-ballyroe-tralee-kerry/5017541"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=353",
+  "paginationLimited": false
+}

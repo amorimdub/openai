@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/6-greenville-road-blackrock-co-dublin/6609748",
+  "fetchedAt": "2026-10-05T09:44:13.191Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/6-greenville-road-blackrock-co-dublin/6609748",
+  "kind": "listing",
+  "responseSha256": "322ab77a8ff91dc789f14ccdced65e84967c89283426f27df608e9be962741ce",
+  "files": [
+    {
+      "path": "daft/01855-2b3bdb5078306805-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d3ebcfc2b5f97a2b1a1a0a8e6751799c168c3c0db26bfd16b37779edb0966c26",
+      "bytes": 50038
+    },
+    {
+      "path": "daft/01855-2b3bdb5078306805-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "df7a37d7caef3c73bd8aff08cccfa3cdb67670918af16d3953dac3e221cbc84b",
+      "bytes": 8048
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

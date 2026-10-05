@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-no-9-blackrock-house-blackrock-co-cork/6601242",
+  "fetchedAt": "2026-10-05T09:38:09.667Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-no-9-blackrock-house-blackrock-co-cork/6601242",
+  "kind": "listing",
+  "responseSha256": "1b02210a976afa1c5fc0a4c496e1f063bed09a4a8e5ee6bbbe930423fe456bf9",
+  "files": [
+    {
+      "path": "daft/01613-b81d72296093a536-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e7b8301b2e3ece2b01fa93a6593cabd3aec4f44f2d1ee5c90f4a945c353da71b",
+      "bytes": 80901
+    },
+    {
+      "path": "daft/01613-b81d72296093a536-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b71215fa780fb9afea9ef2afa8f4ac35b0934e823d027c9f951316c1b9a7ebc0",
+      "bytes": 8007
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/blackwood-square-northwood-avenue-santry-demesne-dublin-9-dublin-9/6685135",
+  "fetchedAt": "2026-10-05T09:01:00.404Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/blackwood-square-northwood-avenue-santry-demesne-dublin-9-dublin-9/6685135",
+  "kind": "listing",
+  "responseSha256": "d018fa10bdcdfbc615282a2573f4f6247fcc8f50ecc0cb32cd4ae43b55386200",
+  "files": [
+    {
+      "path": "daft/00129-2482670e728a2b8b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f24d9b54cc76ff31376e200a2e119c28465de328b66df1a35702ba39c01b3c56",
+      "bytes": 253027
+    },
+    {
+      "path": "daft/00129-2482670e728a2b8b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a66192aa0a9757bd7900ec1e1a17f4d412e69bc5e1262f8441685ca972cda947",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-56-block-4-the-green-barnoaks-citywest-dublin-24/6685082",
+  "fetchedAt": "2026-10-05T09:38:47.209Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-56-block-4-the-green-barnoaks-citywest-dublin-24/6685082",
+  "kind": "listing",
+  "responseSha256": "33c27636a97c65d424d96cb23b5ebbe23e8ec6b72337f6c3c2ceae0c1282f485",
+  "files": [
+    {
+      "path": "daft/01638-b925e5b4abb97aa4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d544fa5cae8f6ac27a65954d911f8aec67379d5fcd9c36dc0b87cca09ef45bbf",
+      "bytes": 103211
+    },
+    {
+      "path": "daft/01638-b925e5b4abb97aa4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "24adfa6400e7bbfd9388c22eee4f00d05becaab9241b3b8e1482b51c48816555",
+      "bytes": 8011
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

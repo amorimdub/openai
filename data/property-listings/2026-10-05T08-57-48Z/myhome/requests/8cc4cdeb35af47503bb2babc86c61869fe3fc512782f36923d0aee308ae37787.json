@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=76",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=76",
+  "fetchedAt": "2026-10-05T09:50:55.129Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "fedee0cd76ea408683d4d0d80de1f2765cddd0c65a47e131a5a06e811b8182f1",
+  "files": [
+    {
+      "path": "myhome/02116-8cc4cdeb35af4750-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=76\"].SearchResults",
+      "sha256": "2832adbee786ab778fe16f54301303fa740ac0ac21673d659dc75e0d3ce08450",
+      "bytes": 111497
+    },
+    {
+      "path": "myhome/02116-8cc4cdeb35af4750-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=76\"] (paging fields)",
+      "sha256": "e6823a699aaf1400e4a23616a675e7dc2790f549758df599e92990a44418fb32",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-gleainn-daire-ardagh-village-limerick-co-limerick/5030891",
+    "https://www.myhome.ie/residential/brochure/10-na-hinsean-manorcunningham-co-donegal/5030889",
+    "https://www.myhome.ie/residential/brochure/37-saint-gabriels-cabinteely-dublin-18/4987665",
+    "https://www.myhome.ie/residential/brochure/inchamore-brosna-co-kerry/5030886",
+    "https://www.myhome.ie/residential/brochure/2-burnaby-mill-greystones-co-wicklow/5024485",
+    "https://www.myhome.ie/residential/brochure/50-the-way-dunboyne-castle-dunboyne-county-meath/5030882",
+    "https://www.myhome.ie/residential/brochure/44-brian-boru-avenue-clontarf-dublin-3/5030881",
+    "https://www.myhome.ie/residential/brochure/9-creadan-view-waterford-passage-east-co-waterford/5024251",
+    "https://www.myhome.ie/residential/brochure/3-sundays-gate-drogheda-co-louth/5030879",
+    "https://www.myhome.ie/residential/brochure/parkstown-lodge-trim-road-ballivor-co-meath/5030874",
+    "https://www.myhome.ie/residential/brochure/cragg-abbeyfeale-co-limerick/5030875",
+    "https://www.myhome.ie/residential/brochure/wild-rose-cottage-faus-croghan-boyle-co-roscommon/5030872",
+    "https://www.myhome.ie/residential/brochure/20-galtee-view-hospital-co-limerick/5030869",
+    "https://www.myhome.ie/residential/brochure/aghadegnan-longford-co-longford/5030870",
+    "https://www.myhome.ie/residential/brochure/glasnamullen-kilmacanogue-co-wicklow/5030866",
+    "https://www.myhome.ie/residential/brochure/9-spindlewood-graiguecullen-carlow/5030868",
+    "https://www.myhome.ie/residential/brochure/apt-4-liddiard-house-burrin-rd-carlow/5030867",
+    "https://www.myhome.ie/residential/brochure/4-riverside-crescent-marsh-road-drogheda-co-louth/5030861",
+    "https://www.myhome.ie/residential/brochure/6-maple-avenue-the-gallops-latt-co-cavan/5030862",
+    "https://www.myhome.ie/residential/brochure/no-39-bruach-na-gaile-moyvane-co-kerry/5023631"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=77",
+  "paginationLimited": false
+}

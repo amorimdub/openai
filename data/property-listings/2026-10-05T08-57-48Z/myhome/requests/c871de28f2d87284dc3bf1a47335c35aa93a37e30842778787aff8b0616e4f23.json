@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=289",
+  "fetchedAt": "2026-10-05T12:43:55.365Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=289",
+  "kind": "search",
+  "responseSha256": "25fcd215e3fda60e656bb4c55066a5bf3e557e9dce14d6d92bc0e6fde2bee733",
+  "files": [
+    {
+      "path": "myhome/06496-c871de28f2d87284-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=289\"].SearchResults",
+      "sha256": "b67d0973c6726bf7bced693eaf58e196027d04d764f0f709e9970e96088bed9e",
+      "bytes": 112755
+    },
+    {
+      "path": "myhome/06496-c871de28f2d87284-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=289\"] (paging fields)",
+      "sha256": "ecc9de19cfdeee186341d074e81178fb6550b37c736e81c414877eaf910fee13",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-16-whitehall-square-walkinstown-dublin-12/5024428",
+    "https://www.myhome.ie/residential/brochure/13-centenary-place-gorey-wexford/5024697",
+    "https://www.myhome.ie/residential/brochure/5-power-terrace-cork-hill-youghal-cork/5023374",
+    "https://www.myhome.ie/residential/brochure/4-chapel-street-sligo/5024389",
+    "https://www.myhome.ie/residential/brochure/ardauling-kilcoran-park-youghal-cork/5024692",
+    "https://www.myhome.ie/residential/brochure/25-crestwood-road-ashbourne-co-meath/5024705",
+    "https://www.myhome.ie/residential/brochure/8-chipping-terrace-ongar-dublin-15/5024700",
+    "https://www.myhome.ie/residential/brochure/10-springfield-park-nun-s-walk-drogheda-co-louth/5024699",
+    "https://www.myhome.ie/residential/brochure/enniscorthy-road-ferns-county-wexford/5024695",
+    "https://www.myhome.ie/residential/brochure/felton-road-boyle-co-roscommon/5024689",
+    "https://www.myhome.ie/residential/brochure/125-lurgan-park-renmore-galway/5024580",
+    "https://www.myhome.ie/residential/brochure/195-the-drumlins-virginia-co-cavan/5024686",
+    "https://www.myhome.ie/residential/brochure/18-swiftwood-saggart-dublin-24/5019101",
+    "https://www.myhome.ie/residential/brochure/apt-11-115-strand-road-sandymount-dublin-4/5024678",
+    "https://www.myhome.ie/residential/brochure/bellevista-36-wilton-road-wilton-cork-city/5024481",
+    "https://www.myhome.ie/residential/brochure/63-mount-prospect-drive-clontarf-dublin-3/5024666",
+    "https://www.myhome.ie/residential/brochure/100-custom-hall-block-3-gardiner-street-lower-dublin-1/5024676",
+    "https://www.myhome.ie/residential/brochure/dunreeth-35-wilton-road-cork-wilton-cork-city/5024471",
+    "https://www.myhome.ie/residential/brochure/27-st-patrick-s-terrace-nenagh-co-tipperary/5024672",
+    "https://www.myhome.ie/residential/brochure/ballybrack-firies-killarney-co-kerry/5024671"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=290",
+  "paginationLimited": false
+}

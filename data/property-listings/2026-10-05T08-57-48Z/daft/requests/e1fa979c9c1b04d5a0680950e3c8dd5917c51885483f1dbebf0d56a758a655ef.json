@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/craughans-butchers-33-hogan-avenue-kileely-co-limerick/6674458",
+  "fetchedAt": "2026-10-05T09:25:25.181Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/craughans-butchers-33-hogan-avenue-kileely-co-limerick/6674458",
+  "kind": "listing",
+  "responseSha256": "36cb6c0c8b70072d2d068dff87fbb1fb07809eb5defcd9f7d50958849f25b3f9",
+  "files": [
+    {
+      "path": "daft/01104-e1fa979c9c1b04d5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2dcc05d101f67bf7d4554ec127cc2f00c6a52fa5898acd0585b60c21a1e2278a",
+      "bytes": 46870
+    },
+    {
+      "path": "daft/01104-e1fa979c9c1b04d5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5cd544de8b7bd673dac2d0090c0308593b7c576861384632dcc68e836ec7596d",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

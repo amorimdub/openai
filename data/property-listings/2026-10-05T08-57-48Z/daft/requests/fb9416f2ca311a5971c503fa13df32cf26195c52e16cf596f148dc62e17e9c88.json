@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/13-heytesbury-street-dublin-2/6680502",
+  "fetchedAt": "2026-10-05T09:37:24.620Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/13-heytesbury-street-dublin-2/6680502",
+  "kind": "listing",
+  "responseSha256": "7a5ea9ba50956882190aa2fd949509a4b5072321cc4afaebebe27d365afd5f66",
+  "files": [
+    {
+      "path": "daft/01583-fb9416f2ca311a59-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0ef5bec9acffb378335cd5ee52c006073776ab595a0c5736ba5d9d19ede5c724",
+      "bytes": 24323
+    },
+    {
+      "path": "daft/01583-fb9416f2ca311a59-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7dafedcfd9510c96bf8106efb1ef9db694c28dcfd7a522a57887f07d25a03fb1",
+      "bytes": 8076
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

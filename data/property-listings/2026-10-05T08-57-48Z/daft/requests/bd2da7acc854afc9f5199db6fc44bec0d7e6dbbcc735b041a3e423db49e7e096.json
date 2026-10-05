@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-st-edmunds-st-edmunds-lucan-co-dublin/2559962",
+  "fetchedAt": "2026-10-05T09:10:08.956Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-st-edmunds-st-edmunds-lucan-co-dublin/2559962",
+  "kind": "listing",
+  "responseSha256": "45cf257f493b8a52ba27b18d56ab50257a170e6b6d22e2ef10184a8b9aca60a0",
+  "files": [
+    {
+      "path": "daft/00494-bd2da7acc854afc9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "608b39a32db605c1287f06cbc68552d8c7e50f0ae84842885c16e5a741c4a33d",
+      "bytes": 24970
+    },
+    {
+      "path": "daft/00494-bd2da7acc854afc9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e5585ba5091e4ef4afe24e4ae57650835f645b80ed452089947f48aa1f54a01e",
+      "bytes": 8231
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=28",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=28",
+  "fetchedAt": "2026-10-05T09:24:21.730Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "14221108c5b8077ba28bc997257b391281e89126531a0e7b0924e4d633ee8b43",
+  "files": [
+    {
+      "path": "myhome/01057-950bb8003ecc50bd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=28\"].SearchResults",
+      "sha256": "88ffbab32480232a58f1b46a36f8041e13a0a8aa89dc946f3fb8d12718a3219f",
+      "bytes": 91059
+    },
+    {
+      "path": "myhome/01057-950bb8003ecc50bd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=28\"] (paging fields)",
+      "sha256": "904f60a7bb4b955c9765cd31154261bcd5cbf8ce4ace53c1673ce80f06409e92",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/116-ath-lethan-racecourse-road-dundalk-co-louth/4775101",
+    "https://www.myhome.ie/rentals/brochure/76-castlegate-grove-lucan-county-dublin/4773583",
+    "https://www.myhome.ie/rentals/brochure/grand-canal-harbour-grand-canal-place-dublin-8/4772787",
+    "https://www.myhome.ie/rentals/brochure/grand-canal-harbour-grand-canal-place-dublin-8/4772782",
+    "https://www.myhome.ie/rentals/brochure/1-granby-villas-granby-row-carlow-carlow-town-carlow-r93p8c5/4771904",
+    "https://www.myhome.ie/rentals/brochure/the-barley-house-cork-street-cork-street-dublin-8/4768714",
+    "https://www.myhome.ie/rentals/brochure/10-the-new-houses-rathmullan-donegal/4763793",
+    "https://www.myhome.ie/rentals/brochure/the-oslo-sandyford-central-sandyford-dublin-18/4763311",
+    "https://www.myhome.ie/rentals/brochure/quayside-quarter-at-dublin-landings-docklands-dublin-1/4539791",
+    "https://www.myhome.ie/rentals/brochure/apt-5-57-bath-avenue-dublin-4/4752469",
+    "https://www.myhome.ie/rentals/brochure/unit-7-building-8-blanchardstown-corporate-park-dublin/4751963",
+    "https://www.myhome.ie/rentals/brochure/1-bedroom-apartments-griffith-wood-griffith-avenue-drumcondra-dublin-9/4540620",
+    "https://www.myhome.ie/rentals/brochure/the-oslo-sandyford-central-sandyford-dublin-18/4745025",
+    "https://www.myhome.ie/rentals/brochure/the-oslo-sandyford-central-sandyford-dublin-18/4745024",
+    "https://www.myhome.ie/rentals/brochure/the-oslo-sandyford-central-sandyford-dublin-18/4745023",
+    "https://www.myhome.ie/rentals/brochure/euro-park-baltinglass-wicklow/4744917",
+    "https://www.myhome.ie/rentals/brochure/scholarstown-wood-rathfarham-dublin-16/4737919",
+    "https://www.myhome.ie/rentals/brochure/newtown-holycross-thurles-tipperary/4736106",
+    "https://www.myhome.ie/rentals/brochure/5-kerry-lee-tralee-kerry/4704126",
+    "https://www.myhome.ie/rentals/brochure/adamstown-adamstown-boulevard/4721252"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=29",
+  "paginationLimited": false
+}

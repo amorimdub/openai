@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/9-the-spinnaker-arran-quay-dublin-7-smithfield-co-dublin/6664157",
+  "fetchedAt": "2026-10-05T09:13:15.210Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/9-the-spinnaker-arran-quay-dublin-7-smithfield-co-dublin/6664157",
+  "kind": "listing",
+  "responseSha256": "66f7875c75858f3a2d0bd980275beee3203ead1b0860cceb46ff1328b1c6b0d7",
+  "files": [
+    {
+      "path": "daft/00618-31658116177919e6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0ac8fe84b185af621d250360840e5acc4f82e676be7d2261ff3d2da88cddd89e",
+      "bytes": 31113
+    },
+    {
+      "path": "daft/00618-31658116177919e6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d49729e8d73f665ace3c35f97f37e8294ab6852f2d95ec7222c26730edc490d8",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

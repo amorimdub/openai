@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=230",
+  "fetchedAt": "2026-10-05T12:13:04.529Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=230",
+  "kind": "search",
+  "responseSha256": "e5f31178681f6d791cdf4fcd07a13881a487514917fd6e978d134cd3a3f4893a",
+  "files": [
+    {
+      "path": "myhome/05265-19f94274cbba16ed-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=230\"].SearchResults",
+      "sha256": "4f98227de696d8304e962e77486dea22307040939d9f19164341e802dda90399",
+      "bytes": 119461
+    },
+    {
+      "path": "myhome/05265-19f94274cbba16ed-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=230\"] (paging fields)",
+      "sha256": "eeb1722fa4fc6861fb1208eeec9c701930329ded3b18bc00f4a1dd374a6866da",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-clontarf-road-clontarf-dublin-3/5026779",
+    "https://www.myhome.ie/residential/brochure/138-killester-park-killester-dublin-5/5026778",
+    "https://www.myhome.ie/residential/brochure/lisduff-ballyhaunis-co-mayo/5026775",
+    "https://www.myhome.ie/residential/brochure/fennor-collinstown-mullingar-westmeath/5026686",
+    "https://www.myhome.ie/residential/brochure/ballintim-camolin-enniscorthy-co-wexford/5026773",
+    "https://www.myhome.ie/residential/brochure/smiths-road-charleville-cork/5026763",
+    "https://www.myhome.ie/residential/brochure/doony-milford-cork/5026759",
+    "https://www.myhome.ie/residential/brochure/9-bowling-court-mallow-cork/5023558",
+    "https://www.myhome.ie/residential/brochure/114-palmerstown-avenue-palmerstown-dublin-20/5026733",
+    "https://www.myhome.ie/residential/brochure/kiltoohig-liscullane-charleville-cork/5026754",
+    "https://www.myhome.ie/residential/brochure/cooleens-charleville-cork/5026753",
+    "https://www.myhome.ie/residential/brochure/93-lally-road-ballyfermot-dublin-10/5026721",
+    "https://www.myhome.ie/residential/brochure/298-greenacres-dundalk-louth/5026732",
+    "https://www.myhome.ie/residential/brochure/c-32-acres-moorhill-brannockstown-naas-kildare/5026730",
+    "https://www.myhome.ie/residential/brochure/amberhurst-greenhills-crecora-limerick/5026707",
+    "https://www.myhome.ie/residential/brochure/gortnalahee-carrignavar-cork/5014245",
+    "https://www.myhome.ie/residential/brochure/apartment-25-fairway-drive-rosslare-strand-wexford/5026706",
+    "https://www.myhome.ie/residential/brochure/22-crossneen-manor-leighlin-road-carlow/5026708",
+    "https://www.myhome.ie/residential/brochure/st-patrick-s-lahinch-lahinch-clare/5026682",
+    "https://www.myhome.ie/residential/brochure/47-burnell-square-northern-cross-dublin-17/5026700"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=231",
+  "paginationLimited": false
+}

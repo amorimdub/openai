@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=298",
+  "fetchedAt": "2026-10-05T12:48:38.671Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=298",
+  "kind": "search",
+  "responseSha256": "821291756896a2517925ab842ff9e809b6c4eae48bb5ea4825aca06b2c978040",
+  "files": [
+    {
+      "path": "myhome/06680-35e619aa62477cbe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=298\"].SearchResults",
+      "sha256": "a4a98509fa59e59ab29b11effe2179066cdec9686f01dbed1530f5dbe53c09e0",
+      "bytes": 113026
+    },
+    {
+      "path": "myhome/06680-35e619aa62477cbe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=298\"] (paging fields)",
+      "sha256": "2d12ea2505734c645e0edffef0cb9eb34f270ae7e0fab77478110821ded324c7",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/34-manor-street-waterford-city-co-waterford/5024278",
+    "https://www.myhome.ie/residential/brochure/garth-lodge-9-tivoli-terrace-south-dun-laoghaire-co-dublin/5024275",
+    "https://www.myhome.ie/residential/brochure/12-the-steeples-gowran-co-kilkenny/5024274",
+    "https://www.myhome.ie/residential/brochure/derrymore-killincarrig-village-greystones-co-wicklow/5024272",
+    "https://www.myhome.ie/residential/brochure/58-st-brendan-s-park-artane-dublin-5/4979416",
+    "https://www.myhome.ie/residential/brochure/2-garden-terrace-clanbrassil-street-upper-dublin-8/5024257",
+    "https://www.myhome.ie/residential/brochure/hillside-8-lake-lawn-well-road-douglas-cork/5023152",
+    "https://www.myhome.ie/residential/brochure/23-millfield-the-links-portmarnock-county-dublin/5024211",
+    "https://www.myhome.ie/residential/brochure/44-connolly-park-tralee-kerry/5023496",
+    "https://www.myhome.ie/residential/brochure/17-derrynane-square-dorset-street-lower-dublin-7/5024252",
+    "https://www.myhome.ie/residential/brochure/carrig-crest-ballygoman-barntown-wexford/5024213",
+    "https://www.myhome.ie/residential/brochure/16-maiden-hill-kells-road-kilkenny-town-kilkenny/5024246",
+    "https://www.myhome.ie/residential/brochure/apt-2-aubreyville-dublin-road-shankill-dublin-18/5024238",
+    "https://www.myhome.ie/residential/brochure/10-st-thomas-crescent-knock-mayo/5024233",
+    "https://www.myhome.ie/residential/brochure/1-washington-green-malahide-road-balgriffin-dublin-17/5024018",
+    "https://www.myhome.ie/residential/brochure/7-ballintine-park-allen-kilmeague-co-kildare/5024235",
+    "https://www.myhome.ie/residential/brochure/33-cloverhill-bailieborough-cavan/5024230",
+    "https://www.myhome.ie/residential/brochure/52-lurgan-park-renmore-galway/5024229",
+    "https://www.myhome.ie/residential/brochure/eddrim-glebe-donegal-mountcharles-co-donegal/5024222",
+    "https://www.myhome.ie/residential/brochure/72a-st-peter-s-terrace-howth-county-dublin/5023548"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=299",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/athgoe-newcastle-co-dublin/6685840",
+  "fetchedAt": "2026-10-05T09:34:15.417Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/athgoe-newcastle-co-dublin/6685840",
+  "kind": "listing",
+  "responseSha256": "7970f4409e4a03984419e58e0c8f94ef9c866703386bb72e0139a892d5e7ddba",
+  "files": [
+    {
+      "path": "daft/01457-b43da4e12f5f54af-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a09c2d611ccf11208a99fc99c07eae1590ce52a81f618d9046c6220adb8c1285",
+      "bytes": 17228
+    },
+    {
+      "path": "daft/01457-b43da4e12f5f54af-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4dcffc96ede3681345dff358baabcbbce696b843eaa9e723ff8197c9b708018d",
+      "bytes": 8129
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

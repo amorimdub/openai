@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/tysaxon-athenry-co-galway/6686808",
+  "fetchedAt": "2026-10-05T09:26:01.228Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/tysaxon-athenry-co-galway/6686808",
+  "kind": "listing",
+  "responseSha256": "39de119bc310df7894ac17a3b836603d10ec8331776ad8ed0154e1fa3cdb87ea",
+  "files": [
+    {
+      "path": "daft/01128-1b801923a3e7eb60-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "99a15df4db213fe9533ed4593c6ca36674a2279c5662ceb82ad4e8ac7f28edae",
+      "bytes": 29733
+    },
+    {
+      "path": "daft/01128-1b801923a3e7eb60-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "32d47a9a498f859db845c1bef1f081ea61cd9d2fe2ff6829c37c17e67bcd4ab1",
+      "bytes": 7970
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

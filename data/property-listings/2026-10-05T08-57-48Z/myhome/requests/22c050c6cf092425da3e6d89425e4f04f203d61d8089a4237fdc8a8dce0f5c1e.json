@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=83",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=83",
+  "fetchedAt": "2026-10-05T09:54:32.957Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "00dca674dcc8a6526a79bc7fc150179bd032ac7fe9106f999589b706dd6a3ccd",
+  "files": [
+    {
+      "path": "myhome/02261-22c050c6cf092425-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=83\"].SearchResults",
+      "sha256": "639b8e2d0354ce6ffc779968e08cedc861d614056c72f8fd8b03fb8022fe2ea0",
+      "bytes": 118973
+    },
+    {
+      "path": "myhome/02261-22c050c6cf092425-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=83\"] (paging fields)",
+      "sha256": "8c3d389ca4b524a805ef8b6e25f1fa123e559c26b1f6a9aee83975e7cc40a0fc",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-oxfield-road-lissadell-park-carney-sligo/5030721",
+    "https://www.myhome.ie/residential/brochure/apt-36a-lansdowne-valley-slievebloom-road-drimnagh-dublin-12/5030692",
+    "https://www.myhome.ie/residential/brochure/1-rahan-road-tullamore-co-offaly/5030689",
+    "https://www.myhome.ie/residential/brochure/10-warren-street-portobello-dublin-8/5030688",
+    "https://www.myhome.ie/residential/brochure/hillcroft-cottage-tinnycross-ballymore-eustace-kildare/5030687",
+    "https://www.myhome.ie/residential/brochure/24-churchwell-road-belmayne-dublin-13/5008231",
+    "https://www.myhome.ie/residential/brochure/13-clonminch-wood-tullamore-co-offaly/5030686",
+    "https://www.myhome.ie/residential/brochure/4-newbury-lawns-clonshaugh-dublin-17/5030298",
+    "https://www.myhome.ie/residential/brochure/13-edenmount-hall-brooklawns-first-sea-road-sligo/5024907",
+    "https://www.myhome.ie/residential/brochure/no-9-main-street-coolgreany-gorey-county-wexford/5030683",
+    "https://www.myhome.ie/residential/brochure/the-gate-lodge-molesworth-street-daingean-co-offaly/5030675",
+    "https://www.myhome.ie/residential/brochure/4-clarney-hall-rathdowney-laois/5030555",
+    "https://www.myhome.ie/residential/brochure/house-development-land-derrybeg-co-donegal/5030673",
+    "https://www.myhome.ie/residential/brochure/tanimar-bealnamulla-athlone-county-roscommon/5030671",
+    "https://www.myhome.ie/residential/brochure/pilltown-kinsalebeg-waterford/5030670",
+    "https://www.myhome.ie/residential/brochure/barryroe-tragumna-skibbereen-cork/5030668",
+    "https://www.myhome.ie/residential/brochure/305-harolds-cross-road-harold-s-cross-dublin-6/4990867",
+    "https://www.myhome.ie/residential/brochure/125-new-ireland-road-rialto-dublin-8/5009937",
+    "https://www.myhome.ie/residential/brochure/8-wellmount-park-finglas-dublin-11/5030667",
+    "https://www.myhome.ie/residential/brochure/no-10-tinteskin-close-kilmuckridge-gorey-county-wexford/5030666"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=84",
+  "paginationLimited": false
+}

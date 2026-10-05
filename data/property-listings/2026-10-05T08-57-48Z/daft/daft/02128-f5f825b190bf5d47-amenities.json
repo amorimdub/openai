@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "KILMESSAN NATIONAL SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 2.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.560610",
+        "lon": "-6.663323"
+      }
+    },
+    {
+      "schoolName": "DUNSANY NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 2.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.544044",
+        "lon": "-6.617460"
+      }
+    },
+    {
+      "schoolName": "LISMULLEN NATIONAL SCHOOL",
+      "numPupils": 245,
+      "distance": {
+        "value": 4.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.604390",
+        "lon": "-6.598838"
+      }
+    },
+    {
+      "schoolName": "SKRYNE NATIONAL SCHOOL",
+      "numPupils": 209,
+      "distance": {
+        "value": 5.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.575108",
+        "lon": "-6.556911"
+      }
+    },
+    {
+      "schoolName": "KILTALE NATIONAL SCHOOL",
+      "numPupils": 114,
+      "distance": {
+        "value": 5.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524376",
+        "lon": "-6.672858"
+      }
+    },
+    {
+      "schoolName": "CANNISTOWN NATIONAL SCHOOL",
+      "numPupils": 386,
+      "distance": {
+        "value": 6.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.621650",
+        "lon": "-6.665936"
+      }
+    },
+    {
+      "schoolName": "ROBINSTOWN NATIONAL SCHOOL",
+      "numPupils": 175,
+      "distance": {
+        "value": 6.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.593670",
+        "lon": "-6.728555"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S SPECIAL SCHOOL",
+      "numPupils": 79,
+      "distance": {
+        "value": 7.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.634476",
+        "lon": "-6.645032"
+      }
+    },
+    {
+      "schoolName": "DUNSHAUGHLIN COMMUNITY NATIONAL SCH",
+      "numPupils": 116,
+      "distance": {
+        "value": 7.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.516006",
+        "lon": "-6.551909"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL NA RITHE",
+      "numPupils": 218,
+      "distance": {
+        "value": 8.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513930",
+        "lon": "-6.543275"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COMMUNITY COLLEGE DUNSHAUGHLIN",
+      "numPupils": 1135,
+      "distance": {
+        "value": 8.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513973",
+        "lon": "-6.549007"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA MÍ",
+      "numPupils": 873,
+      "distance": {
+        "value": 8.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.643536",
+        "lon": "-6.652752"
+      }
+    },
+    {
+      "schoolName": "BEAUFORT COLLEGE",
+      "numPupils": 917,
+      "distance": {
+        "value": 9.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.643887",
+        "lon": "-6.683443"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE RIOGA",
+      "numPupils": 193,
+      "distance": {
+        "value": 9.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.506660",
+        "lon": "-6.536972"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S SECONDARY SCHOOL, NAVAN,",
+      "numPupils": 712,
+      "distance": {
+        "value": 9.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.650166",
+        "lon": "-6.689012"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 909,
+      "distance": {
+        "value": 9.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.652813",
+        "lon": "-6.676578"
+      }
+    },
+    {
+      "schoolName": "BOYNE COMMUNITY SCHOOL",
+      "numPupils": 998,
+      "distance": {
+        "value": 10.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.550640",
+        "lon": "-6.784260"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S CLASSICAL SCHOOL",
+      "numPupils": 938,
+      "distance": {
+        "value": 10.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.652570",
+        "lon": "-6.697665"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE TRIM",
+      "numPupils": 820,
+      "distance": {
+        "value": 10.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.552498",
+        "lon": "-6.789659"
+      }
+    },
+    {
+      "schoolName": "RATOATH COLLEGE",
+      "numPupils": 1112,
+      "distance": {
+        "value": 13.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.499630",
+        "lon": "-6.458262"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Swainstown",
+      "route": "109B",
+      "destination": "Athboy",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.555352",
+        "lon": "-6.646958"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmessan",
+      "route": "109B",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.559275",
+        "lon": "-6.660116"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunsany",
+      "route": "109B",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.541783",
+        "lon": "-6.621168"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lismullin",
+      "route": "109A",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.58953",
+        "lon": "-6.59691"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lismullin",
+      "route": "109",
+      "destination": "U C D Belfield",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.58953",
+        "lon": "-6.59691"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tara",
+      "route": "109A",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.592742",
+        "lon": "-6.60333"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tara",
+      "route": "109",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.592742",
+        "lon": "-6.60333"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cooljohn",
+      "route": "109B",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.568449",
+        "lon": "-6.685825"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ross Cross",
+      "route": "109A",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.567119",
+        "lon": "-6.579671"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ross Cross",
+      "route": "DY01",
+      "destination": "Dunboyne College of Further Education",
+      "provider": "McCaffrey Coaches",
+      "distance": {
+        "value": 3.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.567119",
+        "lon": "-6.579671"
+      }
+    }
+  ]
+}

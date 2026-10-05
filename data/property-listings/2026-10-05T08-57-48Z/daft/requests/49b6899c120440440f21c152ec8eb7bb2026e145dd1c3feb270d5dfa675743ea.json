@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=26",
+  "fetchedAt": "2026-10-05T09:28:55.535Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=26",
+  "kind": "search",
+  "responseSha256": "d2f0f4cb4e74b3ced53bcdc30e70d58e64451e4a2ff8833df32a9c599973823c",
+  "files": [
+    {
+      "path": "daft/01244-49b6899c12044044-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "1933c2586bbc70bf003532c48f20c1d3d6f5b8a8576401e49f21f7127a623732",
+      "bytes": 261337
+    },
+    {
+      "path": "daft/01244-49b6899c12044044-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01244-49b6899c12044044-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "dbc9dc2ef87ce9c419e0cbbf5170b2ab27cc016dda552584df96126733e630eb",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-2-brewers-irishtown-new-ross-co-wexford/6686286",
+    "https://www.daft.ie/for-rent/connaught-street-phibsborough-dublin-7/6686276",
+    "https://www.daft.ie/for-rent/garadice-kilcock-garadice-co-meath/6686282",
+    "https://www.daft.ie/for-rent/60-kylemore-hill-rathoe-rathoe-co-carlow/6686103",
+    "https://www.daft.ie/for-rent/harrington-street-portobello-dublin-8/6686265",
+    "https://www.daft.ie/for-rent/the-paddocks-view-adamstown-lucan-co-dublin/6686258",
+    "https://www.daft.ie/for-rent/apt-18-fair-street-drogheda-co-louth-drogheda-co-louth/6686241",
+    "https://www.daft.ie/for-rent/millrace-court-saggart-co-dublin/6686262",
+    "https://www.daft.ie/for-rent/millmount-grove-dublin-14-windy-arbour-dublin-14/6686251",
+    "https://www.daft.ie/for-rent/millwood-killacloran-aughrim-craffield-co-wicklow/6686242",
+    "https://www.daft.ie/for-rent/glenmalure-pines-ballintombay-lower-ballinderry-co-wicklow/6686235",
+    "https://www.daft.ie/for-rent/45-cloch-g-oranmore-oranmore-co-galway/6686014",
+    "https://www.daft.ie/for-rent/hybreasal-house-south-circular-road-kilmainham-dublin-8/6686200",
+    "https://www.daft.ie/for-rent/meadow-gate-marlton-road-wicklow-town-co-wicklow/6686211",
+    "https://www.daft.ie/for-rent/11-delbrook-manor-dublin-16/6686207",
+    "https://www.daft.ie/for-rent/apartment-55-the-alders-saint-edmunds-avenue-dublin-20/6686205",
+    "https://www.daft.ie/for-rent/18-fair-street-drogheda-co-louth-drogheda-co-louth/6686201",
+    "https://www.daft.ie/for-rent/8-aderrig-park-avenue-adamstown-lucan-co-dublin/6685927",
+    "https://www.daft.ie/for-rent/charter-house-dunboyne-road-maynooth-naas-co-kildare-maynooth-co-kildare/6686172",
+    "https://www.daft.ie/for-rent/14-renville-court-oranmore-oranmore-co-galway/6686181"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=27",
+  "paginationLimited": false
+}

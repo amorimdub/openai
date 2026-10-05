@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=286",
+  "fetchedAt": "2026-10-05T12:42:20.656Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=286",
+  "kind": "search",
+  "responseSha256": "b692635264fc1e684b1a54f66e2c73760940dbe601ea39ebea89f93f687563cb",
+  "files": [
+    {
+      "path": "myhome/06433-259c7a263f94cc51-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=286\"].SearchResults",
+      "sha256": "36abe0669d399669155d9533a836b37d1aec973f83ec6c091a777b0c1caa811a",
+      "bytes": 98405
+    },
+    {
+      "path": "myhome/06433-259c7a263f94cc51-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=286\"] (paging fields)",
+      "sha256": "48c1395203440b078257760baa23d76707109be5f67baa7bf0504fede8ebf4f6",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/44-johnsgate-village-johnsgate-limerick-city-limerick/5024817",
+    "https://www.myhome.ie/residential/brochure/apartment-19-laurel-house-carrickmines-dublin-18/5024829",
+    "https://www.myhome.ie/residential/brochure/19-fernwood-avenue-springfield-dublin-24/5024835",
+    "https://www.myhome.ie/residential/brochure/3-galtymore-road-drimnagh-dublin-12/5024823",
+    "https://www.myhome.ie/residential/brochure/apartment-4-shackleton-house-huntstown-huntstown-dublin/5024822",
+    "https://www.myhome.ie/residential/brochure/rosmoney-westport-co-mayo/5024820",
+    "https://www.myhome.ie/residential/brochure/24-saint-canice-s-square-finglas-dublin-11/5024814",
+    "https://www.myhome.ie/residential/brochure/cabinhill-ratoath-co-meath/5021172",
+    "https://www.myhome.ie/residential/brochure/apt-19-block-2-weaver-court-neilstown-road-d22-yc83-clondalkin-dublin-22/5024674",
+    "https://www.myhome.ie/residential/brochure/26-mountain-view-drive-rathfarnham-dublin-14/5018658",
+    "https://www.myhome.ie/residential/brochure/12-kingsbry-maynooth-co-kildare/5024811",
+    "https://www.myhome.ie/residential/brochure/11-kingston-court-rathfarnham-dublin-16/5007736",
+    "https://www.myhome.ie/residential/brochure/41-beaumont-avenue-churchtown-dublin-14/5006796",
+    "https://www.myhome.ie/residential/brochure/serviced-site-3-wimbletown-ballyboughal-co-dublin/4936888",
+    "https://www.myhome.ie/residential/brochure/21-castleview-walk-swords-co-dublin/5003157",
+    "https://www.myhome.ie/residential/brochure/22-windsor-terrace-portobello-dublin-8/5024809",
+    "https://www.myhome.ie/residential/brochure/13-arasain-na-mara-grattan-road-salthill-galway/5024807",
+    "https://www.myhome.ie/residential/brochure/8-whiterock-drive-whiterock-wexford-town-wexford/5024801",
+    "https://www.myhome.ie/residential/brochure/hollymount-house-cleighran-beg-ballinagleragh-leitrim/5024806",
+    "https://www.myhome.ie/residential/brochure/crossway-cottage-letterfine-keshcarrigan-carrick-on-shannon-leitrim/5024805"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=287",
+  "paginationLimited": false
+}

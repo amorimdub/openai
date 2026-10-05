@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=258",
+  "fetchedAt": "2026-10-05T12:27:47.201Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=258",
+  "kind": "search",
+  "responseSha256": "2ff29d77cc8fb84c1cab73833380901c4972e65fe9113afbad21b5e47de9a871",
+  "files": [
+    {
+      "path": "myhome/05852-22a0115995f817ff-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=258\"].SearchResults",
+      "sha256": "064f83a4675c16d229cfae086578e56e850d9b90385f08189598598358eddc5f",
+      "bytes": 127964
+    },
+    {
+      "path": "myhome/05852-22a0115995f817ff-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=258\"] (paging fields)",
+      "sha256": "f435786917e680f54de4afe16526b10f49d975d626d674aaaf976909f9f3b719",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1a-granville-lodge-granville-road-blackrock-co-dublin/4993089",
+    "https://www.myhome.ie/residential/brochure/78-greenhills-estate-ballina-co-mayo/5025800",
+    "https://www.myhome.ie/residential/brochure/glenair-house-and-gate-lodge-priory-road-delgany-co-wicklow/5025799",
+    "https://www.myhome.ie/residential/brochure/tig-na-carraig-goleen-west-cork/5025500",
+    "https://www.myhome.ie/residential/brochure/18-the-dell-grantstown-park-waterford-city-co-waterford/5025797",
+    "https://www.myhome.ie/residential/brochure/ballard-kilnaboy-ennis-county-clare/5025795",
+    "https://www.myhome.ie/residential/brochure/the-orchard-grove-ballyoulster-celbridge-naas-co-kildare/5025794",
+    "https://www.myhome.ie/residential/brochure/14-monamore-westport-co-mayo/5025793",
+    "https://www.myhome.ie/residential/brochure/13-oldbridge-view-lucan-co-dublin/5025792",
+    "https://www.myhome.ie/residential/brochure/apt-51-weavers-court-clondalkin-dublin-22/5025791",
+    "https://www.myhome.ie/residential/brochure/creagh-upper-gorey-co-wexford/5025787",
+    "https://www.myhome.ie/residential/brochure/tomgarrow-adamstown-wexford/5025779",
+    "https://www.myhome.ie/residential/brochure/crannmor-knapton-road-monkstown-co-dublin/5004966",
+    "https://www.myhome.ie/residential/brochure/emmel-castle-emmel-cloughjordan-co-tipperary/5025783",
+    "https://www.myhome.ie/residential/brochure/rathkyle-byrnesgrove-ballyragget-co-kilkenny/5025777",
+    "https://www.myhome.ie/residential/brochure/ballinagare-castlerea-roscommon/5025776",
+    "https://www.myhome.ie/residential/brochure/4-rockfield-close-maynooth-co-kildare/5025773",
+    "https://www.myhome.ie/residential/brochure/rathmoylan-dunmore-east-co-waterford/5018429",
+    "https://www.myhome.ie/residential/brochure/3-pavilion-gate-glenamuck-road-foxrock-dublin-18/5007142",
+    "https://www.myhome.ie/residential/brochure/swilly-view-carnamuggagh-letterkenny-co-donegal/5025772"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=259",
+  "paginationLimited": false
+}

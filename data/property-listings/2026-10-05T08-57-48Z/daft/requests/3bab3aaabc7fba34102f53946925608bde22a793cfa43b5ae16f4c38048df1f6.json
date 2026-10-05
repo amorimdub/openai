@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/6-dursey-the-headlands-wilton-co-cork/6685277",
+  "fetchedAt": "2026-10-05T09:37:32.126Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/6-dursey-the-headlands-wilton-co-cork/6685277",
+  "kind": "listing",
+  "responseSha256": "bcaa6a0b7fbc755f0381058a3073d31204a66bafac8b225bd5689a360ae0a77c",
+  "files": [
+    {
+      "path": "daft/01588-3bab3aaabc7fba34-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4f97d8c0949a322d2f9fbe5ec9f97b1990d9030e3105c6b409fc477574723e52",
+      "bytes": 26702
+    },
+    {
+      "path": "daft/01588-3bab3aaabc7fba34-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "491ccb80ede4319637ab916ce1177f3d9bb3a54159724cc95680d26bda6ed845",
+      "bytes": 8180
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/12-newenham-street-limerick-city-centre-co-limerick/6685248",
+  "fetchedAt": "2026-10-05T09:37:35.129Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/12-newenham-street-limerick-city-centre-co-limerick/6685248",
+  "kind": "listing",
+  "responseSha256": "cbe3d561d8eab2fe9042634ba12fbaeb0c86987e4668e052bdd6609d928b825e",
+  "files": [
+    {
+      "path": "daft/01590-511efdbb1452109e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bfb8e6531c4f3bfe769381662b5b4d262d4397612daa86e41746408849e16e96",
+      "bytes": 17244
+    },
+    {
+      "path": "daft/01590-511efdbb1452109e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8e575b975b3abc6ee41d7894fc0e9e2b9f7a2407c892c67bff33633181013579",
+      "bytes": 8007
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

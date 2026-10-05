@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=498",
+  "fetchedAt": "2026-10-05T14:31:08.558Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=498",
+  "kind": "search",
+  "responseSha256": "eb8609eb7c17e752661acb7212dc2acbc7bc6fd91c0014a9a26d12af3528b4a1",
+  "files": [
+    {
+      "path": "myhome/10771-d9399a8dec1b172a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=498\"].SearchResults",
+      "sha256": "92a2042a862b255e6a05e76aa978bb116e9ae0c239abc2a13e297f13e50a75cd",
+      "bytes": 117196
+    },
+    {
+      "path": "myhome/10771-d9399a8dec1b172a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=498\"] (paging fields)",
+      "sha256": "d54fe8697a9b41049df9b15fbb4a292da26a7d34bcbe5959e900d5d1b15bb9b2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/site-c-caherlissakill-monivea-galway/5002557",
+    "https://www.myhome.ie/residential/brochure/16-beaufort-abbey-navan-meath/5001589",
+    "https://www.myhome.ie/residential/brochure/no-60-the-drive-inis-alainn-cobh-cork/5002506",
+    "https://www.myhome.ie/residential/brochure/aghaloughan-ballyjamesduff-county-cavan/5002505",
+    "https://www.myhome.ie/residential/brochure/15-brabazon-bay-golf-links-road-bettystown-meath/5000982",
+    "https://www.myhome.ie/residential/brochure/18-whitethorns-castletroy-limerick-county-limerick/5002488",
+    "https://www.myhome.ie/residential/brochure/gortnamuckla-skibbereen-west-cork/5002235",
+    "https://www.myhome.ie/residential/brochure/4-foxrock-avenue-foxrock-co-dublin-dublin-18/5002462",
+    "https://www.myhome.ie/residential/brochure/5-railway-road-cavan/5002454",
+    "https://www.myhome.ie/residential/brochure/186-greencastle-road-clonshaugh-dublin-17/5002453",
+    "https://www.myhome.ie/residential/brochure/7-bower-villas-castlemaine-street-athlone-co-westmeath/5002450",
+    "https://www.myhome.ie/residential/brochure/85-meadow-grove-dundrum-dublin/5002424",
+    "https://www.myhome.ie/residential/brochure/apartment-2-john-barry-house-midleton-co-cork/5002431",
+    "https://www.myhome.ie/residential/brochure/rosebank-ballyconnell-cavan/5002417",
+    "https://www.myhome.ie/residential/brochure/1159-cawdor-street-rosslare-wexford/5002412",
+    "https://www.myhome.ie/residential/brochure/starbrook-clonlara-county-clare/5002407",
+    "https://www.myhome.ie/residential/brochure/32-oakwood-manor-kenmare-kerry/5002405",
+    "https://www.myhome.ie/residential/brochure/55-cluain-reidh-ballymakeera-ballyvourney-co-cork/5002404",
+    "https://www.myhome.ie/residential/brochure/crohane-old-head-of-kinsale-kinsale-west-cork/5000029",
+    "https://www.myhome.ie/residential/brochure/radharc-ceidin-woodfieldglen-baltinglass-co-wicklow/5002368"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=499",
+  "paginationLimited": false
+}

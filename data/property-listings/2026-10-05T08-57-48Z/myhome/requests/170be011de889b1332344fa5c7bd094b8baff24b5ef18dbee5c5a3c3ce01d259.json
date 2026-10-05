@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=262",
+  "fetchedAt": "2026-10-05T12:29:50.471Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=262",
+  "kind": "search",
+  "responseSha256": "c8047e6a45f5ff2cb661b51bc3826fdc48d490a0df782d7fa4667d0fadbb8a0a",
+  "files": [
+    {
+      "path": "myhome/05934-170be011de889b13-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=262\"].SearchResults",
+      "sha256": "d4b2840e9c97fc782d80a772ed0156e46efdb5f1646d34c62a904db0e458cddb",
+      "bytes": 100383
+    },
+    {
+      "path": "myhome/05934-170be011de889b13-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=262\"] (paging fields)",
+      "sha256": "50e3e57133bdee45adf81b635137280e11ebd2425ab30020e3d3fa7d6a6afd78",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/quay-road-westport-mayo/5025682",
+    "https://www.myhome.ie/residential/brochure/smyths-siopa-ol-main-street-ballinamore-co-leitrim/5025683",
+    "https://www.myhome.ie/residential/brochure/the-glebe-brides-glen-road-shankill-dublin-18/4982613",
+    "https://www.myhome.ie/residential/brochure/loughnavalley-mullingar-co-westmeath/5025679",
+    "https://www.myhome.ie/residential/brochure/no-13-lahard-ballinamore-leitrim/5025678",
+    "https://www.myhome.ie/residential/brochure/160-forest-hill-s-rathcoole-rathcoole-dublin/4998316",
+    "https://www.myhome.ie/residential/brochure/2-the-bridge-avila-convent-garden-kinsale-co-cork/5025677",
+    "https://www.myhome.ie/residential/brochure/ballyrobin-cloyne-cork/5025674",
+    "https://www.myhome.ie/residential/brochure/no-14-les-mouettes-crookhaven-west-cork/4824585",
+    "https://www.myhome.ie/residential/brochure/summerfield-colla-road-schull-west-cork/4930155",
+    "https://www.myhome.ie/residential/brochure/15-carlinn-hall-mullaharlin-road-dundalk-co-louth/5025672",
+    "https://www.myhome.ie/residential/brochure/la-nua-gubbeen-schull-west-cork/5011204",
+    "https://www.myhome.ie/residential/brochure/fern-cottage-13-ashfield-blackwater-wexford/5025666",
+    "https://www.myhome.ie/residential/brochure/apartment-2-glenveagh-court-letterkenny-donegal/5025386",
+    "https://www.myhome.ie/residential/brochure/church-street-louisburgh-mayo/5025657",
+    "https://www.myhome.ie/residential/brochure/17-the-discovery-royal-canal-park-dublin-15/5025668",
+    "https://www.myhome.ie/residential/brochure/21-the-hazels-ballinahinch-wood-ashford-co-wicklow/5025667",
+    "https://www.myhome.ie/residential/brochure/64-arthur-griffith-park-lucan-dublin/5025665",
+    "https://www.myhome.ie/residential/brochure/33-the-oval-tullyvale-cabinteely-dublin-18/5025664",
+    "https://www.myhome.ie/residential/brochure/85-danesfort-drive-loughrea-co-galway/5025661"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=263",
+  "paginationLimited": false
+}

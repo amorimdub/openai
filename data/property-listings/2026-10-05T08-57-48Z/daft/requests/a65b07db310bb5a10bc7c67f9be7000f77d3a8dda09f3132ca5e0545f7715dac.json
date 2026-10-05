@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-47-crescent-house-marino-dublin-3/6684015",
+  "fetchedAt": "2026-10-05T09:45:38.827Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-47-crescent-house-marino-dublin-3/6684015",
+  "kind": "listing",
+  "responseSha256": "5ef42079995ed2119e6e7738202b723df014c322a2ad4040b08662a3e240ca9e",
+  "files": [
+    {
+      "path": "daft/01912-a65b07db310bb5a1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9600367f424455f0351e7f4a03a617971da392c43721b0fe57d0b1858e4e0252",
+      "bytes": 26177
+    },
+    {
+      "path": "daft/01912-a65b07db310bb5a1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4bdac937bc7d25a23a962eb077a3b675ac5015153e24c3591c571791b0ee92a9",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

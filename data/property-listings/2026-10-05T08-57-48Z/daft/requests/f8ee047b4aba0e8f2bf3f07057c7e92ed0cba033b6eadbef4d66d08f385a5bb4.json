@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ardee-co-louth-ardee-co-louth/6664285",
+  "fetchedAt": "2026-10-05T09:26:02.731Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ardee-co-louth-ardee-co-louth/6664285",
+  "kind": "listing",
+  "responseSha256": "92645f8a64689b2cf731ed557b064e03893e7606f4cb644a39582171eeb430b8",
+  "files": [
+    {
+      "path": "daft/01129-f8ee047b4aba0e8f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5afeb3f5e4cc67db1f47cabcb85302704fc66e887ea312f8b90a2937ef5d4c97",
+      "bytes": 4607
+    },
+    {
+      "path": "daft/01129-f8ee047b4aba0e8f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

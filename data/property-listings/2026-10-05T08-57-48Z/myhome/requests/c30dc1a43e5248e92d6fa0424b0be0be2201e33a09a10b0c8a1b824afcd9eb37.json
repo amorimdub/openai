@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=287",
+  "fetchedAt": "2026-10-05T12:42:52.223Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=287",
+  "kind": "search",
+  "responseSha256": "8aeb1d7a5ae0ce3af9fff6009996bd3ed7c8bfae06f07a70450bd20395d024e4",
+  "files": [
+    {
+      "path": "myhome/06454-c30dc1a43e5248e9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=287\"].SearchResults",
+      "sha256": "59bdfa2c677c04fe06f664d41baf8348f138bc9f73765cdc2b6390aaf567dc7b",
+      "bytes": 115564
+    },
+    {
+      "path": "myhome/06454-c30dc1a43e5248e9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=287\"] (paging fields)",
+      "sha256": "24f93f6eaf69f228ad1d495b7d069ce02cf0b562e06b644270d430f4a25be6e6",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/31-glanntan-golf-links-road-castletroy-limerick/5024802",
+    "https://www.myhome.ie/residential/brochure/52-glenville-avenue-clonsilla-dublin-15/5024799",
+    "https://www.myhome.ie/residential/brochure/burren-view-creche-76a-burren-view-ennis-road-gort-co-galway/5006684",
+    "https://www.myhome.ie/residential/brochure/new-road-bailieborough-cavan/5024796",
+    "https://www.myhome.ie/residential/brochure/19-mountain-view-drive-churchtown-dublin-14/5024795",
+    "https://www.myhome.ie/residential/brochure/3-st-eunans-court-letterkenny-co-donegal/5024790",
+    "https://www.myhome.ie/residential/brochure/7-glenview-gormanstown-road-stamullen-meath/5011677",
+    "https://www.myhome.ie/residential/brochure/183-charlesland-park-charlesland-greystones-wicklow/5017510",
+    "https://www.myhome.ie/residential/brochure/evergreen-13-county-view-terrace-ballinacurra-road-limerick/5024785",
+    "https://www.myhome.ie/residential/brochure/main-street-killeshandra-county-cavan/5024780",
+    "https://www.myhome.ie/residential/brochure/cappaghavuckee-waterfall-castletown-berehaven-west-cork/5024774",
+    "https://www.myhome.ie/residential/brochure/38-pembroke-road-ballsbridge-dublin-4/5024735",
+    "https://www.myhome.ie/residential/brochure/the-elm-4-bedroom-semi-detached-oakmount-altidore-gardens-newtownmountkennedy-co-wicklow/5024769",
+    "https://www.myhome.ie/residential/brochure/glengesh-ardara-county-donegal/5024764",
+    "https://www.myhome.ie/residential/brochure/16-sidney-place-city-centre-nth-cork-city/5024748",
+    "https://www.myhome.ie/residential/brochure/163-biscayne-malahide-county-dublin/5024755",
+    "https://www.myhome.ie/residential/brochure/keekill-headford-county-galway/5024763",
+    "https://www.myhome.ie/residential/brochure/boynaghbought-kilmainhamwood-kells-co-meath/5024761",
+    "https://www.myhome.ie/residential/brochure/aghakista-ballybay-monaghan/5024757",
+    "https://www.myhome.ie/residential/brochure/oakwood-32a-kill-abbey-kill-o-the-grange-blackrock-co-dublin/5024756"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=288",
+  "paginationLimited": false
+}

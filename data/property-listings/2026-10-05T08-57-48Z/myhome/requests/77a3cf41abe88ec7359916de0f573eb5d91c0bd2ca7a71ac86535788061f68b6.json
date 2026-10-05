@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=426",
+  "fetchedAt": "2026-10-05T13:53:54.982Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=426",
+  "kind": "search",
+  "responseSha256": "06da0898f45234b2b5ef54b1be25ab9dc980902c2c02a5d658a895ee6a263dac",
+  "files": [
+    {
+      "path": "myhome/09285-77a3cf41abe88ec7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=426\"].SearchResults",
+      "sha256": "bd22a4afb85bb8cc12ef9214110e8d9a3fdca614767d27fc938b831e735961f9",
+      "bytes": 109496
+    },
+    {
+      "path": "myhome/09285-77a3cf41abe88ec7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=426\"] (paging fields)",
+      "sha256": "d1c07bf6b7226cb92b11beb0dca07081a73ebbfbbf86681e81dbd678eb1d2516",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tua-nua-cornakill-kingscourt-co-cavan-a82y9d3-kingscourt-cavan/5010724",
+    "https://www.myhome.ie/residential/brochure/6a-shangan-park-ballymun-dublin-9/5003283",
+    "https://www.myhome.ie/residential/brochure/curheen-ennis-clare/5011041",
+    "https://www.myhome.ie/residential/brochure/loughill-village-loughill-limerick/5011023",
+    "https://www.myhome.ie/residential/brochure/cuba-cottages-harbour-road-banagher-co-offaly/5011008",
+    "https://www.myhome.ie/residential/brochure/65-whitebrook-park-tallaght-dublin-24/5009721",
+    "https://www.myhome.ie/residential/brochure/8-geraldine-place-albert-road-cork-city-cork/5011003",
+    "https://www.myhome.ie/residential/brochure/32-abbeylands-mullingar-co-westmeath/5011016",
+    "https://www.myhome.ie/residential/brochure/apartment-121-east-courtyard-tullyvale-dublin-18-dublin/5010663",
+    "https://www.myhome.ie/residential/brochure/33-finglas-road-glasnevin-dublin-11/5010885",
+    "https://www.myhome.ie/residential/brochure/45a-elm-grove-gort-an-ir-castlemartyr-co-cork/5011000",
+    "https://www.myhome.ie/residential/brochure/47-the-meadows-ballymoney-co-wexford/5010998",
+    "https://www.myhome.ie/residential/brochure/14-ballyphilip-heights-kilmyshall-bunclody-co-wexford/5010997",
+    "https://www.myhome.ie/residential/brochure/apartment-5-pembroke-manor-64-66-pembroke-road-ballsbridge-dublin-4/5010996",
+    "https://www.myhome.ie/residential/brochure/244-shawbridge-chambers-park-kilcock-naas-co-kildare/5010993",
+    "https://www.myhome.ie/residential/brochure/28-ard-na-greine-seskin-bantry-co-cork/5010989",
+    "https://www.myhome.ie/residential/brochure/3a-shannon-cove-dromod-co-leitrim/5010988",
+    "https://www.myhome.ie/residential/brochure/44-galvone-rd-kennedy-park-limerick-county-limerick/5010987",
+    "https://www.myhome.ie/residential/brochure/apartment-1-14-market-street-clonmel-co-tipperary/5010983",
+    "https://www.myhome.ie/residential/brochure/5-castle-rock-avenue-midleton-cork/5010980"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=427",
+  "paginationLimited": false
+}

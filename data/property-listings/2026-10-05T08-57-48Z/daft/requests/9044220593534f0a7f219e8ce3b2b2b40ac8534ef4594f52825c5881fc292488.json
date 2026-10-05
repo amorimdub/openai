@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-laurels-regents-hall-ashbourne-co-meath-ashbourne-co-meath/6686933",
+  "fetchedAt": "2026-10-05T09:25:49.215Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-laurels-regents-hall-ashbourne-co-meath-ashbourne-co-meath/6686933",
+  "kind": "listing",
+  "responseSha256": "8918c1d059ab1cbe14afd27a0f296501ebcdc6b1618f906ce4b130a10c0c0bdc",
+  "files": [
+    {
+      "path": "daft/01120-9044220593534f0a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3bbed25325296c33cbe73e6c16e883b86b36dba6e5e85de0fa3aaf53556beb3c",
+      "bytes": 42798
+    },
+    {
+      "path": "daft/01120-9044220593534f0a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/two-bedroom-balroy-hall-carpenterstown-road-castleknock-co-dublin/5768232",
+  "fetchedAt": "2026-10-05T09:07:05.752Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/two-bedroom-balroy-hall-carpenterstown-road-castleknock-co-dublin/5768232",
+  "kind": "listing",
+  "responseSha256": "f82bb45d4e656baf877d25c4fffc7dd0f2be40e19d7fa3b07603d43b9ca65f69",
+  "files": [
+    {
+      "path": "daft/00372-cc01e41a555d75eb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d4dc2a2e0a88369ccc4f302f4d7ddfe907f544f8860586ca54a5d3d31b672256",
+      "bytes": 34661
+    },
+    {
+      "path": "daft/00372-cc01e41a555d75eb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "236d83a8fa4a579700659a51c355fadff8dc919e9fac09b5331ceb1b4b6f3e15",
+      "bytes": 8170
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

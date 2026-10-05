@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-b2-block-b-cormullen-foxford-co-mayo/6652810",
+  "fetchedAt": "2026-10-05T09:21:24.811Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-b2-block-b-cormullen-foxford-co-mayo/6652810",
+  "kind": "listing",
+  "responseSha256": "79f204c215acaa28384ffc6a7433815fd29dde9df9f6b58f97b7d988c982e8d2",
+  "files": [
+    {
+      "path": "daft/00944-94218519fa50201f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "40c2807bb33c01c9ecb037d0f3a583d11e468439497ab856377cca2a2a1d6a96",
+      "bytes": 80932
+    },
+    {
+      "path": "daft/00944-94218519fa50201f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7a557a280404a6a343ffe359ba5031b395918ccb5e22e9f67d2715bddfe3b2ad",
+      "bytes": 8022
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=177",
+  "fetchedAt": "2026-10-05T11:45:45.549Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=177",
+  "kind": "search",
+  "responseSha256": "edca8c4cf7f3da29d99bb527a3b064fa52058746fb4bf87faaca34ef053f1aa9",
+  "files": [
+    {
+      "path": "myhome/04175-dc37dcc928edad81-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=177\"].SearchResults",
+      "sha256": "c4d1b1e07bb4d2a26944078aa112d0feff9891abc74f03fabdd3ca010f06f172",
+      "bytes": 123515
+    },
+    {
+      "path": "myhome/04175-dc37dcc928edad81-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=177\"] (paging fields)",
+      "sha256": "c9e71e13e9d0a1f66c1da86726e90ad6cb6c1fe280059f7eceac06035fb6c048",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/kiltymoodan-ballinamore-leitrim/5028254",
+    "https://www.myhome.ie/residential/brochure/12-sarsfield-drive-ballinasloe-galway/5028248",
+    "https://www.myhome.ie/residential/brochure/93-the-watermill-raheny-dublin-5/5027781",
+    "https://www.myhome.ie/residential/brochure/melfort-shrewsbury-road-ballsbridge-dublin-4/4987957",
+    "https://www.myhome.ie/residential/brochure/1-gneevebane-tyrrellspass-mullingar-co-westmeath/5028251",
+    "https://www.myhome.ie/residential/brochure/46-milltown-gate-burgage-more-blessington-co-wicklow/5018662",
+    "https://www.myhome.ie/residential/brochure/55-anglers-walk-carlow-county-carlow/5028247",
+    "https://www.myhome.ie/residential/brochure/instow-riverbank-douglas-cork/5023086",
+    "https://www.myhome.ie/residential/brochure/duarigle-navigation-road-mallow-co-cork/4996585",
+    "https://www.myhome.ie/residential/brochure/68-hampton-square-navan-road-dublin-7/5028239",
+    "https://www.myhome.ie/residential/brochure/67-the-coombe-south-city-centre-dublin-8/5028216",
+    "https://www.myhome.ie/residential/brochure/21-rockford-manor-stradbrook-road-blackrock-county-dublin/5028238",
+    "https://www.myhome.ie/residential/brochure/17-the-crescent-carrickmines-manor-carrickmines-dublin-18/5028236",
+    "https://www.myhome.ie/residential/brochure/452-mill-street-callan-co-kilkenny/5017709",
+    "https://www.myhome.ie/residential/brochure/apartment-5-18-marrsfield-avenue-clongriffin-dublin-13-co-dublin/5028234",
+    "https://www.myhome.ie/residential/brochure/235-comeragh-park-the-glen-dillons-cross-blackpool-cork/4986667",
+    "https://www.myhome.ie/residential/brochure/18-renville-village-oranmore-co-galway/5028231",
+    "https://www.myhome.ie/residential/brochure/apartment-2-the-willow-rockfield-dublin-16/5028229",
+    "https://www.myhome.ie/residential/brochure/7-rockingham-newcastle-co-wicklow/5028225",
+    "https://www.myhome.ie/residential/brochure/1-mont-alto-sorrento-road-dalkey-co-dublin/5028224"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=178",
+  "paginationLimited": false
+}

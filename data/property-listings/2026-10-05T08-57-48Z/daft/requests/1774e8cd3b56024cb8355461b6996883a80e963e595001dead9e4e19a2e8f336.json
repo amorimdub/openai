@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/19-newcastle-road-galway-newcastle-co-galway/6678395",
+  "fetchedAt": "2026-10-05T09:18:18.619Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/19-newcastle-road-galway-newcastle-co-galway/6678395",
+  "kind": "listing",
+  "responseSha256": "af6cd82535c40998bf8602d408f91f3ac26d76edb4d9cc96ad90107f628cd8c3",
+  "files": [
+    {
+      "path": "daft/00820-1774e8cd3b56024c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9da23afa0a3d3113ff88775976061190b75ebe53ba77701427d9f46d276594b5",
+      "bytes": 40402
+    },
+    {
+      "path": "daft/00820-1774e8cd3b56024c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "018dfd500b3a2c8bed971fe3853211ca60f82dd1bd9862432b2d9856935fb990",
+      "bytes": 7974
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

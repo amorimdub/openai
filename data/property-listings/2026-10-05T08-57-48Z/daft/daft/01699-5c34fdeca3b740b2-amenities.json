@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SCOIL CHAOIMHÍN",
+      "numPupils": 63,
+      "distance": {
+        "value": 0.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.351295",
+        "lon": "-6.257690"
+      }
+    },
+    {
+      "schoolName": "CENTRAL MODEL INFANTS' SCHOOL",
+      "numPupils": 148,
+      "distance": {
+        "value": 0.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.351234",
+        "lon": "-6.255879"
+      }
+    },
+    {
+      "schoolName": "CENTRAL MODEL SENIOR SCHOOL",
+      "numPupils": 242,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.351470",
+        "lon": "-6.256000"
+      }
+    },
+    {
+      "schoolName": "CITY QUAY NATIONAL SCHOOL",
+      "numPupils": 156,
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.346615",
+        "lon": "-6.251296"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL CHOLÁSITE MHUIRE",
+      "numPupils": 161,
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.353590",
+        "lon": "-6.262092"
+      }
+    },
+    {
+      "schoolName": "GEORGES HILL SCHOOL",
+      "numPupils": 152,
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348305",
+        "lon": "-6.271778"
+      }
+    },
+    {
+      "schoolName": "RUTLAND NATIONAL SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.354397",
+        "lon": "-6.252514"
+      }
+    },
+    {
+      "schoolName": "AN TAONAD REAMHSCOIL",
+      "numPupils": 93,
+      "distance": {
+        "value": 0.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.354780",
+        "lon": "-6.252508"
+      }
+    },
+    {
+      "schoolName": "HENRIETTA STREET SCHOOL",
+      "numPupils": 20,
+      "distance": {
+        "value": 0.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352985",
+        "lon": "-6.270533"
+      }
+    },
+    {
+      "schoolName": "SOUTH CITY CNS",
+      "numPupils": 161,
+      "distance": {
+        "value": 0.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.340350",
+        "lon": "-6.267157"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "LARKIN COMMUNITY COLLEGE",
+      "numPupils": 414,
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352260",
+        "lon": "-6.257791"
+      }
+    },
+    {
+      "schoolName": "MOUNT CARMEL SECONDARY SCHOOL",
+      "numPupils": 398,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352020",
+        "lon": "-6.268332"
+      }
+    },
+    {
+      "schoolName": "C.B.S. WESTLAND ROW",
+      "numPupils": 202,
+      "distance": {
+        "value": 0.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342800",
+        "lon": "-6.249070"
+      }
+    },
+    {
+      "schoolName": "BELVEDERE COLLEGE S.J",
+      "numPupils": 1004,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.355510",
+        "lon": "-6.262116"
+      }
+    },
+    {
+      "schoolName": "THE BRUNNER",
+      "numPupils": 219,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.350590",
+        "lon": "-6.275703"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 584,
+      "distance": {
+        "value": 1.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336826",
+        "lon": "-6.256352"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS CATHEDRAL GRAMMAR SCHOOL",
+      "numPupils": 302,
+      "distance": {
+        "value": 1.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.339073",
+        "lon": "-6.271555"
+      }
+    },
+    {
+      "schoolName": "O'CONNELL SCHOOL",
+      "numPupils": 215,
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.358242",
+        "lon": "-6.250803"
+      }
+    },
+    {
+      "schoolName": "CATHOLIC UNIVERSITY SCHOOL",
+      "numPupils": 547,
+      "distance": {
+        "value": 1.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.335297",
+        "lon": "-6.255877"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPHS SECONDARY SCHOOL",
+      "numPupils": 238,
+      "distance": {
+        "value": 1.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352646",
+        "lon": "-6.281743"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "O'Connell Br",
+      "route": "19",
+      "destination": "Merrion Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347247",
+        "lon": "-6.258819"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Br",
+      "route": "700X",
+      "destination": "O'Connell Bridge",
+      "provider": "Aircoach",
+      "distance": {
+        "value": 0.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347247",
+        "lon": "-6.258819"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Br",
+      "route": "7A",
+      "destination": "Loughlinstown Pk",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347247",
+        "lon": "-6.258819"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Br",
+      "route": "700",
+      "destination": "Clayton Hotel",
+      "provider": "Aircoach",
+      "distance": {
+        "value": 0.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347247",
+        "lon": "-6.258819"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Br",
+      "route": "4",
+      "destination": "Monkstown Ave",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347247",
+        "lon": "-6.258819"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Br",
+      "route": "7",
+      "destination": "Brides Glen",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347247",
+        "lon": "-6.258819"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eden Quay",
+      "route": "735",
+      "destination": "Dublin Airport Zone 16",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3478",
+        "lon": "-6.258496"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eden Quay",
+      "route": "245X",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3478",
+        "lon": "-6.258496"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eden Quay",
+      "route": "22",
+      "destination": "Dublin Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3478",
+        "lon": "-6.258496"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eden Quay",
+      "route": "23",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3478",
+        "lon": "-6.258496"
+      }
+    }
+  ]
+}

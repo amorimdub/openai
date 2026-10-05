@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/terenure-road-east-rathgar-dublin-6/6687246",
+  "fetchedAt": "2026-10-05T09:23:58.035Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/terenure-road-east-rathgar-dublin-6/6687246",
+  "kind": "listing",
+  "responseSha256": "b8a16163b901f92869de3920f79e9a413e19a53e41b30a7cacb76a8061fcfec7",
+  "files": [
+    {
+      "path": "daft/01046-3ab0d8e0321b3da8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bd3395c57a771d590a847166995df0048b156bbf6a94da112c6166db31642eb7",
+      "bytes": 12125
+    },
+    {
+      "path": "daft/01046-3ab0d8e0321b3da8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c2054dea0da945924f9f8ce94d4fb25a2bb9edc98d5211e4087ec2a241186fc3",
+      "bytes": 8030
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

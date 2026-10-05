@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/newmarket-yards-1-bed-newmarket-yards-dublin-city-centre-dublin-8/5527308",
+  "fetchedAt": "2026-10-05T08:59:34.800Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/newmarket-yards-1-bed-newmarket-yards-dublin-city-centre-dublin-8/5527308",
+  "kind": "listing",
+  "responseSha256": "adf3527aa7cf4ec2d2bce8015c1fe7dc16f00e62cf314de628b3d412333d65d4",
+  "files": [
+    {
+      "path": "daft/00072-26b922f5da9f1d29-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9b762a9f79d1a12314b528bdcf4074ae3ffd410ed363a3c9eade57cf07c863b0",
+      "bytes": 51305
+    },
+    {
+      "path": "daft/00072-26b922f5da9f1d29-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0860233f2eaacb73408f75ed93768b804448ddbcf6d48b81ac7a6585096efccd",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

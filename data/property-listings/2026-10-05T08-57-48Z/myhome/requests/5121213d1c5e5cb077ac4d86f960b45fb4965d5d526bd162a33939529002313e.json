@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=2",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=2",
+  "fetchedAt": "2026-10-05T08:58:22.719Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "b0a46a2f87a8026aa0025d615a85721b45320e07d4e379dbe69972698c5fe060",
+  "files": [
+    {
+      "path": "myhome/00024-5121213d1c5e5cb0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=2\"].SearchResults",
+      "sha256": "903ebeb143c835e52e3fd6438353f9dddd904379b72391106e396c2ec760d101",
+      "bytes": 108679
+    },
+    {
+      "path": "myhome/00024-5121213d1c5e5cb0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=2\"] (paging fields)",
+      "sha256": "545b4b2ed56c6c9b5510d02ed2b084679af8ce19de2f30f33c9b8cb23a26120a",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/millwood-killacloran-aughrim-co-wicklow-aughrim-wicklow/5027597",
+    "https://www.myhome.ie/rentals/brochure/8-mount-prospect-house-438-clontarf-road-dublin-3-dublin-3-dublin/5028039",
+    "https://www.myhome.ie/rentals/brochure/140-custom-hall-dublin-1-dublin-1-dublin/5028256",
+    "https://www.myhome.ie/rentals/brochure/pintail-house-redcourt-oaks-clontarf-dublin-3/5028770",
+    "https://www.myhome.ie/rentals/brochure/43-georges-quay-dublin-2-dublin-2-dublin/5028774",
+    "https://www.myhome.ie/rentals/brochure/hadleigh-court-haddington-road-ballsbridge-dublin-4/5028823",
+    "https://www.myhome.ie/rentals/brochure/the-courtyard-stepaside-park-stepaside-dublin-18-dublin-18-dublin/5030362",
+    "https://www.myhome.ie/rentals/brochure/the-mews-sandycove-close-sandycove-co-dublin-dublin-county-dublin/5030654",
+    "https://www.myhome.ie/rentals/brochure/d-n-mhuire-seafield-road-killiney-co-dublin-killiney-county-dublin/5030655",
+    "https://www.myhome.ie/rentals/brochure/gilford-court-dublin-4/5030669",
+    "https://www.myhome.ie/rentals/brochure/cannon-mews-west-beggar-s-bush-ballsbridge-dublin-4-ballsbridge-dublin-4/5030811",
+    "https://www.myhome.ie/rentals/brochure/apartment-the-barrington-lansdowne-place-ballsbridge-dublin-4/5030917",
+    "https://www.myhome.ie/rentals/brochure/apt-towerville-st-john-s-road-dublin-4-sandymount-dublin-4/5030990",
+    "https://www.myhome.ie/rentals/brochure/faussagh-road-cabra-dublin-7/5031043",
+    "https://www.myhome.ie/rentals/brochure/3-grange-court-apartments-stoneybatter-d07-hx24-stoneybatter-dublin-7/5031112",
+    "https://www.myhome.ie/rentals/brochure/126-sweepstakes-ballsbridge-dublin-4/5031368",
+    "https://www.myhome.ie/rentals/brochure/cranmer-place-cranmer-lane-dublin-4-ballsbridge-dublin-4/5031496",
+    "https://www.myhome.ie/rentals/brochure/dock-mill-barrow-street-grand-canal-dk-dublin-4/5031748",
+    "https://www.myhome.ie/rentals/brochure/the-sweepstakes-ballsbridge-dublin-4-ballsbridge-dublin-4/5031985",
+    "https://www.myhome.ie/rentals/brochure/merrion-gardens-ballsbridge-dublin-4/4953838"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=3",
+  "paginationLimited": false
+}

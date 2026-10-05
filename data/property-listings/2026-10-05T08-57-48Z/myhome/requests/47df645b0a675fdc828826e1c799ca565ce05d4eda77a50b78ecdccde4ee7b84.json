@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=218",
+  "fetchedAt": "2026-10-05T12:06:47.235Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=218",
+  "kind": "search",
+  "responseSha256": "7605e07f570b6f14805d6ad11a95bd6064608686ed7cde1b4d6ea986c0c478df",
+  "files": [
+    {
+      "path": "myhome/05014-47df645b0a675fdc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=218\"].SearchResults",
+      "sha256": "a69fa49e851252d2eb35005f93a17804c8b7f18fda17fbc915853f42ea001032",
+      "bytes": 119823
+    },
+    {
+      "path": "myhome/05014-47df645b0a675fdc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=218\"] (paging fields)",
+      "sha256": "164c9d44a3a22f6c50d8abd722fed7b6e080d9a787723433d23e6eb717fe3f85",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-castleview-row-swords-dublin/5027093",
+    "https://www.myhome.ie/residential/brochure/apartment-4-block-f-milner-s-square-shanowen-road-santry-dublin-9/5027068",
+    "https://www.myhome.ie/residential/brochure/15-hanover-court-grand-canal-dk-dublin-2/5027092",
+    "https://www.myhome.ie/residential/brochure/230-st-brendans-park-tralee-kerry/5026920",
+    "https://www.myhome.ie/residential/brochure/1-maple-lawn-johnstown-wood-navan-co-meath/5027096",
+    "https://www.myhome.ie/residential/brochure/killascaul-esker-athenry-galway/5027042",
+    "https://www.myhome.ie/residential/brochure/14-woodford-meadows-clondalkin-dublin-22/5027090",
+    "https://www.myhome.ie/residential/brochure/knocknaskibbole-sarnaught-castlebar-mayo/5026180",
+    "https://www.myhome.ie/residential/brochure/49-carrowmore-drive-knock-county-mayo/5027082",
+    "https://www.myhome.ie/residential/brochure/apartment-5-larrissa-court-213a-kimmage-road-lower-kimmage-dublin/5027072",
+    "https://www.myhome.ie/residential/brochure/9-beechfield-heights-castaheany-clonee-dublin/5027080",
+    "https://www.myhome.ie/residential/brochure/dry-dock-tenacre-kilrane-rosslare-harbour-co-wexford/5027079",
+    "https://www.myhome.ie/residential/brochure/36-castlegardens-st-helens-kilrane-co-wexford/5027078",
+    "https://www.myhome.ie/residential/brochure/type-b-yourell-s-meadows-the-back-road-malahide-county-dublin/5027075",
+    "https://www.myhome.ie/residential/brochure/derrynamansher-annagry-county-donegal/5027076",
+    "https://www.myhome.ie/residential/brochure/36-lansdowne-road-ballsbridge-dublin-4/4827879",
+    "https://www.myhome.ie/residential/brochure/castleroberts-adare-county-limerick/5027074",
+    "https://www.myhome.ie/residential/brochure/1-glanntan-golf-links-road-castletroy-county-limerick/5027071",
+    "https://www.myhome.ie/residential/brochure/30-milltown-avenue-mount-st-annes-milltown-dublin-6/5027070",
+    "https://www.myhome.ie/residential/brochure/ceol-na-mara-ring-dungarvan-waterford/5027069"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=219",
+  "paginationLimited": false
+}

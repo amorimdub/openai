@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-hawthorn-drive-renmore-co-galway/6668295",
+  "fetchedAt": "2026-10-05T09:30:36.184Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-hawthorn-drive-renmore-co-galway/6668295",
+  "kind": "listing",
+  "responseSha256": "10a1bfc29b96bb85abec8d9557fdb495550844b1565c2c92d848f745c2478e55",
+  "files": [
+    {
+      "path": "daft/01311-2dfd989dd6a3cc72-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f246579b7a557b7fa273714656d4eface3601a62d9bf26daad4a72ca4d8a1d58",
+      "bytes": 85772
+    },
+    {
+      "path": "daft/01311-2dfd989dd6a3cc72-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c35fdd871271a0ee0a4edcc00ba7a129f2bd02998f79dee0c507ff1a134b0edc",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

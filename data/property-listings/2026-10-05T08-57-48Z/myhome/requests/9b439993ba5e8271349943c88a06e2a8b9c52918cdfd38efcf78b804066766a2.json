@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=53",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=53",
+  "fetchedAt": "2026-10-05T09:39:14.081Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "d1a890040b14bfb0dfba443369617b76d716c0ac915a40af012d8eeba94d5b8b",
+  "files": [
+    {
+      "path": "myhome/01651-9b439993ba5e8271-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=53\"].SearchResults",
+      "sha256": "2d32425977c3da74bba62eb9f8853564bf2510dbde5822eca6adae2ed289060b",
+      "bytes": 108078
+    },
+    {
+      "path": "myhome/01651-9b439993ba5e8271-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=53\"] (paging fields)",
+      "sha256": "8d148174cc4436756475f7e0778a185f21784fd55121326272e64d9c93d69e0f",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tiglinn-hollyfort-arklow-co-wexford/5031350",
+    "https://www.myhome.ie/residential/brochure/0-23-acre-plot-of-land-the-raven-curracloe-co-wexford/5031349",
+    "https://www.myhome.ie/residential/brochure/murrintown-upper-co-wexford/5031348",
+    "https://www.myhome.ie/residential/brochure/kilvoydan-south-folio-c-spancilhill-ennis-co-clare/5031346",
+    "https://www.myhome.ie/residential/brochure/34-wolseley-park-mount-wolseley-tullow-co-carlow/5031345",
+    "https://www.myhome.ie/residential/brochure/2-x-apartments-at-old-castle-view-kilgobbin-road-dublin-18-stepaside/5031343",
+    "https://www.myhome.ie/residential/brochure/bealaha-doonbeg-kilkee-co-clare/5031340",
+    "https://www.myhome.ie/residential/brochure/aberdares-13-seabury-heights-malahide-county-dublin/5027094",
+    "https://www.myhome.ie/residential/brochure/5-schooner-cove-avila-convent-garden-kinsale-cork/5031336",
+    "https://www.myhome.ie/residential/brochure/coolteige-bree-wexford/5031333",
+    "https://www.myhome.ie/residential/brochure/200-mc-kee-avenue-finglas-dublin-11/5031331",
+    "https://www.myhome.ie/residential/brochure/11-carraig-beag-ballynerrin-wicklow-town-co-wicklow/5026308",
+    "https://www.myhome.ie/residential/brochure/1-the-woods-rathdrum-co-wicklow/5026305",
+    "https://www.myhome.ie/residential/brochure/filbuckstown-mooncoin-kilkenny/5027671",
+    "https://www.myhome.ie/residential/brochure/brookview-bray-road-enniskerry-co-wicklow/5030572",
+    "https://www.myhome.ie/residential/brochure/40-dargan-street-bray-co-wicklow/5001818",
+    "https://www.myhome.ie/residential/brochure/3-soldiers-view-oldcourt-park-bray-co-wicklow/5025596",
+    "https://www.myhome.ie/residential/brochure/14-rosslyn-bray-co-wicklow/5025138",
+    "https://www.myhome.ie/residential/brochure/small-oaks-6-rathmichael-haven-rathmichael-dublin-18/5004689",
+    "https://www.myhome.ie/residential/brochure/lawn-view-church-hill-enniskerry-co-wicklow/5025888"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=54",
+  "paginationLimited": false
+}

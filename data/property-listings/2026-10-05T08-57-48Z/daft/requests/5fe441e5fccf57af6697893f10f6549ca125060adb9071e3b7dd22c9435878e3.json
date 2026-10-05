@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/bennetstown-bennetstown-dunboyne-co-meath/6682726",
+  "fetchedAt": "2026-10-05T09:01:04.908Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/bennetstown-bennetstown-dunboyne-co-meath/6682726",
+  "kind": "listing",
+  "responseSha256": "ad344a13669fd4e25d0b4ca99e8d34415844eef193e45630c7e55462d70f1b14",
+  "files": [
+    {
+      "path": "daft/00132-5fe441e5fccf57af-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1d62997c6171eaca73c9a0d11bc69c937e0ce9351973913a996ea3268c717af4",
+      "bytes": 27523
+    },
+    {
+      "path": "daft/00132-5fe441e5fccf57af-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ccc6bb31f4d7bbc3851d5172088cc5404dea260aabd174c0c7dd17de27454a23",
+      "bytes": 8195
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mountjoy-square-east-f3-dublin-1/6684737",
+  "fetchedAt": "2026-10-05T09:40:47.360Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mountjoy-square-east-f3-dublin-1/6684737",
+  "kind": "listing",
+  "responseSha256": "a51c210dc702c6ec2f1f50cd3d2894ec235c6f19be6d6fc21a6978ca744cd180",
+  "files": [
+    {
+      "path": "daft/01718-1c049d6330ead02a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a477fc8d0ec5675df0426513b8c0558ed3ed43306cfba77804b65075883e3d3b",
+      "bytes": 22771
+    },
+    {
+      "path": "daft/01718-1c049d6330ead02a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c0eeacb3f4a0246dbb29f1a2e245d6e43638d36dc2f50ac1ac770b9dce8ebf9f",
+      "bytes": 8035
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

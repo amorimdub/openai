@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=17",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=17",
+  "fetchedAt": "2026-10-05T09:12:31.063Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "41877d26fbcfc41c19508dcd6acb918dc5e3b3bcc01782897397a681e14b9c13",
+  "files": [
+    {
+      "path": "myhome/00588-a6bdcdb8e89eaefe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=17\"].SearchResults",
+      "sha256": "77162c215e91c9fa7fa4edde1e43eb647a3698d1c7f765197f0fbf3dc8cef8a2",
+      "bytes": 108068
+    },
+    {
+      "path": "myhome/00588-a6bdcdb8e89eaefe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=17\"] (paging fields)",
+      "sha256": "a718d070432157bd4048d07085ec24ee2b259c43757e744a9bf2e4b68bb5d12e",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/no-5-the-willows-monkstown-valley-dublin/5031951",
+    "https://www.myhome.ie/residential/brochure/apartment-6-mill-house-7273-o-connell-street-waterford-city-co-waterford/5031950",
+    "https://www.myhome.ie/residential/brochure/24-ard-lois-gorey-wexford/5031941",
+    "https://www.myhome.ie/residential/brochure/ballynahown-furbo-co-galway/5031949",
+    "https://www.myhome.ie/residential/brochure/narrabane-north-kilmacow-co-kilkenny/5021968",
+    "https://www.myhome.ie/residential/brochure/8-the-walk-ballinteer-dublin-16/5027977",
+    "https://www.myhome.ie/residential/brochure/5-the-mews-rath-rua-portlaoise-co-laois/5031946",
+    "https://www.myhome.ie/residential/brochure/184-cabra-road-cabra-dublin-7/5027234",
+    "https://www.myhome.ie/residential/brochure/claureen-shanaway-road-ennis-co-clare/5031944",
+    "https://www.myhome.ie/residential/brochure/randall-well-road-douglas-cork-city/5031129",
+    "https://www.myhome.ie/residential/brochure/detached-the-green-ballinageragh-lixnaw-co-kerry/5031942",
+    "https://www.myhome.ie/residential/brochure/7-bayview-court-2-tivoli-terrace-south-dun-laoghaire-co-dublin/5031940",
+    "https://www.myhome.ie/residential/brochure/semi-detached-the-green-ballinageragh-lixnaw-co-kerry/5031939",
+    "https://www.myhome.ie/residential/brochure/shielbaggan-ramsgrange-co-wexford/5031938",
+    "https://www.myhome.ie/residential/brochure/the-cross-knocklong-limerick/5031927",
+    "https://www.myhome.ie/residential/brochure/terraced-the-green-ballinageragh-lixnaw-co-kerry/5031937",
+    "https://www.myhome.ie/residential/brochure/58-st-donagh-s-road-donaghmede-dublin-13/5031913",
+    "https://www.myhome.ie/residential/brochure/21-willow-road-dundrum-dublin-16/5031931",
+    "https://www.myhome.ie/residential/brochure/gloria-cootehall-boyle-roscommon/5031936",
+    "https://www.myhome.ie/residential/brochure/22-easton-mews-leixlip-co-kildare/5004041"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=18",
+  "paginationLimited": false
+}

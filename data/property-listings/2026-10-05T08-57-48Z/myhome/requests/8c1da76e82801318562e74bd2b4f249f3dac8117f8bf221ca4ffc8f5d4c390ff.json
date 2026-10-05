@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=448",
+  "fetchedAt": "2026-10-05T14:05:20.336Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=448",
+  "kind": "search",
+  "responseSha256": "59efd7ee943ce297e13550a6861310e9a4cfa8db1a37944224a9edba46e72d8f",
+  "files": [
+    {
+      "path": "myhome/09741-8c1da76e82801318-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=448\"].SearchResults",
+      "sha256": "23dd139e680f640254d41b496f0ff619af4f573cf8b33ffa369b9cf9dd9ba374",
+      "bytes": 107180
+    },
+    {
+      "path": "myhome/09741-8c1da76e82801318-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=448\"] (paging fields)",
+      "sha256": "a56ec9b37387277b3250a9cb517f93beeaf07f1ccf138471aac196448fac331f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/killeary-lobinstown-navan-co-meath/5008937",
+    "https://www.myhome.ie/residential/brochure/13-glendower-court-ballincollig-cork/5008927",
+    "https://www.myhome.ie/residential/brochure/gleann-collooney-sligo/4992598",
+    "https://www.myhome.ie/residential/brochure/cornagunleog-townland-bawnboy-cavan/5008913",
+    "https://www.myhome.ie/residential/brochure/7-fernbrook-castlelake-carrigtwohill-cork/5008906",
+    "https://www.myhome.ie/residential/brochure/48-saint-brigid-s-drive-killester-dublin-5/5008898",
+    "https://www.myhome.ie/residential/brochure/quay-road-newport-westport-co-mayo/5008901",
+    "https://www.myhome.ie/residential/brochure/western-shore-ballyglass-ballycastle-co-mayo/5008894",
+    "https://www.myhome.ie/residential/brochure/cornagunleog-bawnboy-cavan/5008893",
+    "https://www.myhome.ie/residential/brochure/28-maunsells-park-galway-county-galway/5008882",
+    "https://www.myhome.ie/residential/brochure/drumree-road-dunshaughlin-meath/5006154",
+    "https://www.myhome.ie/residential/brochure/112-manor-village-westport-road-castlebar-co-mayo/5008878",
+    "https://www.myhome.ie/residential/brochure/209-brookville-drogheda-co-louth/5008877",
+    "https://www.myhome.ie/residential/brochure/134-palace-fields-tullinadaly-road-tuam-co-galway/5008873",
+    "https://www.myhome.ie/residential/brochure/101-earlwood-estate-the-lough-cork/5008854",
+    "https://www.myhome.ie/residential/brochure/castlecreevy-corrandulla-co-galway/5008845",
+    "https://www.myhome.ie/residential/brochure/27-garrai-broc-crooke-passage-east-waterford/5008823",
+    "https://www.myhome.ie/residential/brochure/73-merrion-court-montenotte-cork/5008834",
+    "https://www.myhome.ie/residential/brochure/knockalegan-house-drumnacarra-ravensdale-louth/5008778",
+    "https://www.myhome.ie/residential/brochure/33-loreto-crescent-rathfarnham-dublin-14/4968980"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=449",
+  "paginationLimited": false
+}

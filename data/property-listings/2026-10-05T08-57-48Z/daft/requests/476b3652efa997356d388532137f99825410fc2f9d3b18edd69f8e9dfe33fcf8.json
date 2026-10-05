@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rathangan-rathangan-co-kildare/6685422",
+  "fetchedAt": "2026-10-05T09:16:28.998Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rathangan-rathangan-co-kildare/6685422",
+  "kind": "listing",
+  "responseSha256": "1d14762a78fe6f690bd35e38141d78fbc9adaa1f1272ad8f2516a33c5195d5d2",
+  "files": [
+    {
+      "path": "daft/00747-476b3652efa99735-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "88c87280a95d967829322f5697d7a31e0378113a56098f1f1f673e8c98a01238",
+      "bytes": 9656
+    },
+    {
+      "path": "daft/00747-476b3652efa99735-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2712738ef46bd1fc9f42fa8135613e2275b839678ae4348a10c7442e5d423301",
+      "bytes": 8189
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

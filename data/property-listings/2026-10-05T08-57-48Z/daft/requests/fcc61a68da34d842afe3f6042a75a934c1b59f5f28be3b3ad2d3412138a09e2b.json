@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-oaks-carrington-park-dublin-9/6677370",
+  "fetchedAt": "2026-10-05T09:19:41.202Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-oaks-carrington-park-dublin-9/6677370",
+  "kind": "listing",
+  "responseSha256": "fb15d62496b966d6085d5b5de0b06d3e79520096b026d006e60cfc14d29f8463",
+  "files": [
+    {
+      "path": "daft/00875-fcc61a68da34d842-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9cc6de6a0acc588907b70c1d76830eed0ac991d676b244c14194b03b179fe5dd",
+      "bytes": 26465
+    },
+    {
+      "path": "daft/00875-fcc61a68da34d842-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "90abad15cc9b8b69d2db89b2ba80acce90d27352c5d960914f1a4c0ceb191f2d",
+      "bytes": 8074
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

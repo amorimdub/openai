@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ENNISCRONE NATIONAL SCHOOL",
+      "numPupils": 132,
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.213127",
+        "lon": "-9.087576"
+      }
+    },
+    {
+      "schoolName": "KILGLASS NATIONAL SCHOOL",
+      "numPupils": 115,
+      "distance": {
+        "value": 3.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.228300",
+        "lon": "-9.029140"
+      }
+    },
+    {
+      "schoolName": "STOKANE NATIONAL SCHOOL",
+      "numPupils": 33,
+      "distance": {
+        "value": 5.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.177715",
+        "lon": "-9.027292"
+      }
+    },
+    {
+      "schoolName": "LEAFFONEY NATIONAL SCHOOL",
+      "numPupils": 8,
+      "distance": {
+        "value": 5.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.256496",
+        "lon": "-9.030312"
+      }
+    },
+    {
+      "schoolName": "CORBALLA NATIONAL SCHOOL",
+      "numPupils": 120,
+      "distance": {
+        "value": 5.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.164770",
+        "lon": "-9.076434"
+      }
+    },
+    {
+      "schoolName": "NEWTOWNWHITE EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 54,
+      "distance": {
+        "value": 7.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.187004",
+        "lon": "-9.179442"
+      }
+    },
+    {
+      "schoolName": "RATHLEE NATIONAL SCHOOL",
+      "numPupils": 77,
+      "distance": {
+        "value": 7.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.275402",
+        "lon": "-9.025298"
+      }
+    },
+    {
+      "schoolName": "OWENBEG NATIONAL SCHOOL",
+      "numPupils": 39,
+      "distance": {
+        "value": 9.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.252968",
+        "lon": "-8.959275"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S NATIONAL SCHOOL",
+      "numPupils": 82,
+      "distance": {
+        "value": 9.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.213910",
+        "lon": "-9.225579"
+      }
+    },
+    {
+      "schoolName": "THE QUAY NATIONAL SCHOOL",
+      "numPupils": 364,
+      "distance": {
+        "value": 9.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.131702",
+        "lon": "-9.130512"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "JESUS & MARY SECONDARY SCHOOL",
+      "numPupils": 262,
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.215420",
+        "lon": "-9.092453"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IASCAIGH",
+      "numPupils": 247,
+      "distance": {
+        "value": 11.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.285860",
+        "lon": "-8.956183"
+      }
+    },
+    {
+      "schoolName": "ST MUREDACHS COLLEGE",
+      "numPupils": 401,
+      "distance": {
+        "value": 11.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.115510",
+        "lon": "-9.144240"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S SECONDARY SCHOOL",
+      "numPupils": 539,
+      "distance": {
+        "value": 12.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.117138",
+        "lon": "-9.162142"
+      }
+    },
+    {
+      "schoolName": "MOYNE COLLEGE",
+      "numPupils": 207,
+      "distance": {
+        "value": 12.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.113003",
+        "lon": "-9.147819"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S COLLEGE",
+      "numPupils": 203,
+      "distance": {
+        "value": 13.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.229404",
+        "lon": "-9.287921"
+      }
+    },
+    {
+      "schoolName": "GORTNOR ABBEY",
+      "numPupils": 604,
+      "distance": {
+        "value": 19.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.097478",
+        "lon": "-9.298888"
+      }
+    },
+    {
+      "schoolName": "ST. TIERNAN'S COLLEGE",
+      "numPupils": 237,
+      "distance": {
+        "value": 20.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.096840",
+        "lon": "-9.315385"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 26.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.981884",
+        "lon": "-9.111387"
+      }
+    },
+    {
+      "schoolName": "ST ATTRACTA'S COMMUNITY SCHOOL",
+      "numPupils": 710,
+      "distance": {
+        "value": 27.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.053448",
+        "lon": "-8.760024"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Enniscrone",
+      "route": "458",
+      "destination": "Enniskillen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.213488",
+        "lon": "-9.091729"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilglass",
+      "route": "458",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.230904",
+        "lon": "-9.061466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Quigabar",
+      "route": "458",
+      "destination": "Enniskillen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.242317",
+        "lon": "-9.055224"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bunnanilra",
+      "route": "458",
+      "destination": "Enniskillen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.171604",
+        "lon": "-9.101577"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathglass",
+      "route": "SI03",
+      "destination": "Markievicz Road",
+      "provider": "Barrett Coaches",
+      "distance": {
+        "value": 5.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.169824",
+        "lon": "-9.062674"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathglass",
+      "route": "SI11",
+      "destination": "Ballysadare",
+      "provider": "Treacy Coaches",
+      "distance": {
+        "value": 5.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.169824",
+        "lon": "-9.062674"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Carraun",
+      "route": "458",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.1506754299084",
+        "lon": "-9.10253672490522"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathlee",
+      "route": "458",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.277236",
+        "lon": "-9.023102"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killala",
+      "route": "499",
+      "destination": "Béal an Ghoile Thuaidh",
+      "provider": "McGrath Coaches",
+      "distance": {
+        "value": 9.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.2126192053212",
+        "lon": "-9.2215946138281"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killala",
+      "route": "436",
+      "destination": "Ballina Humbert Street",
+      "provider": "McGrath Coaches",
+      "distance": {
+        "value": 9.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.2126192053212",
+        "lon": "-9.2215946138281"
+      }
+    }
+  ]
+}

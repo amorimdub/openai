@@ -1,0 +1,812 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "mullaghlea bawnboy cavan",
+    "GroupId": 9788,
+    "Address": "Mullaghlea",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/b8af5597-27ef-4bbd-a29c-0b2e0c4f6619_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1bc9db8a-8af4-46fb-a26a-cf1740b58e77_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/08a41991-a7de-4fc6-9fcb-b4fc762002e6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6957f4c9-ea49-4cae-8c04-8defc18474a4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/74422300-ad98-4b23-879a-65c5226f4e85_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/fcd2428d-527c-44cd-a793-bcccfca6383a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1e63a6fd-a42e-4cef-ad08-0243b9f9713d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/e052b868-795e-4b3d-97eb-f7fb62b999db_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/38c4d908-a223-4941-8d9a-33bb22320f07_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/bde83bd0-7497-48be-9799-98fac017eae2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6723a511-d6b9-411e-ba04-575762e435fc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/ef6067cd-44eb-4b37-b10a-99aec7df839d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/5c93cd5b-b90a-47da-9671-d7a6b7c082a8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/f90d8bf6-7ade-42c4-b04e-304223ba9e6c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/33ce71f4-9fe8-45c6-a942-fb08c53f6add_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/44937bb4-e88b-4698-bf38-4fee918cbadb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/7/2/5015272/02a7d6ab-10b8-4fd4-846a-92eeb452247d_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 100,
+    "MaxSize": 100,
+    "BerRating": "G",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€180,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "100",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5015272,
+        "DisplayAddress": "Mullaghlea, Bawnboy, Cavan",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "193afd70-be41-4602-be87-045d275fd7d6",
+              "Filename": "10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d.jpg",
+              "Caption": "1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b426ef24-c6d1-4a75-9676-1b757556557a",
+              "Filename": "b8af5597-27ef-4bbd-a29c-0b2e0c4f6619.jpg",
+              "Caption": "2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "77c02e41-0e2f-42f5-98ef-73db63e5081b",
+              "Filename": "1bc9db8a-8af4-46fb-a26a-cf1740b58e77.jpg",
+              "Caption": "3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ac05ee5e-64a3-4685-be52-6224c3305ded",
+              "Filename": "08a41991-a7de-4fc6-9fcb-b4fc762002e6.jpg",
+              "Caption": "4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "759f8776-31d4-40b9-bbcc-cfd55f920fb2",
+              "Filename": "6957f4c9-ea49-4cae-8c04-8defc18474a4.jpg",
+              "Caption": "5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fc97c021-6ffc-47fe-8c08-09f2a5acf7fd",
+              "Filename": "74422300-ad98-4b23-879a-65c5226f4e85.jpg",
+              "Caption": "6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "00c32ddb-bdd6-48b4-92ff-e75cece30c67",
+              "Filename": "fcd2428d-527c-44cd-a793-bcccfca6383a.jpg",
+              "Caption": "7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "24a695ae-96b8-4bf5-991c-42260f24f4b2",
+              "Filename": "1e63a6fd-a42e-4cef-ad08-0243b9f9713d.jpg",
+              "Caption": "8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0dfb1935-89b5-4765-baae-40d6a4c83655",
+              "Filename": "e052b868-795e-4b3d-97eb-f7fb62b999db.jpg",
+              "Caption": "9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "68526d82-6f54-4ec0-9b11-273dbe1c6a2a",
+              "Filename": "38c4d908-a223-4941-8d9a-33bb22320f07.jpg",
+              "Caption": "10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4d43d40e-5c9d-42b8-bd3c-0dfcc3af796d",
+              "Filename": "bde83bd0-7497-48be-9799-98fac017eae2.jpg",
+              "Caption": "11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f4590d45-1606-41b4-a7b0-48390ab73e9e",
+              "Filename": "6723a511-d6b9-411e-ba04-575762e435fc.jpg",
+              "Caption": "12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0423a99c-f67a-498d-9fe6-8c48053e8de4",
+              "Filename": "ef6067cd-44eb-4b37-b10a-99aec7df839d.jpg",
+              "Caption": "13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3593dd59-c370-4415-b387-41cd66b30f82",
+              "Filename": "5c93cd5b-b90a-47da-9671-d7a6b7c082a8.jpg",
+              "Caption": "14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "359fef15-5a9a-4598-a769-8aad50c3aee6",
+              "Filename": "f90d8bf6-7ade-42c4-b04e-304223ba9e6c.jpg",
+              "Caption": "15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f7b128e6-a69b-4e43-b32a-f346c0cbf313",
+              "Filename": "33ce71f4-9fe8-45c6-a942-fb08c53f6add.jpg",
+              "Caption": "MAIN.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a3b1270a-7869-404e-adac-9e75a3aba8f2",
+              "Filename": "44937bb4-e88b-4698-bf38-4fee918cbadb.jpg",
+              "Caption": "REAR.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6896f99c-389a-4e53-9e9b-aa552e501fe6",
+              "Filename": "02a7d6ab-10b8-4fd4-846a-92eeb452247d.jpg",
+              "Caption": "REARVIEW.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "9b3b9d0a43104b96b0cb0eb7a40520d8",
+          "OriginalImagesSuffix": "9b3b9",
+          "MainPhoto": {
+            "Identifier": "193afd70-be41-4602-be87-045d275fd7d6",
+            "Filename": "10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d.jpg",
+            "Caption": "1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€180,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "100",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5019114,
+        "DisplayAddress": "Mullaghlea, Bawnboy, Co. Cavan",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "60ce482e-6817-477e-8424-c5832499d4ce",
+              "Filename": "b1714aba-a430-4611-bddd-e6e50f7da8cf.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_Rb.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a4a54954-844a-4482-ae43-66928dafb6ef",
+              "Filename": "b60d3acc-2e64-4f9d-9c7d-bb8a1af6ff6e.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31488.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "feeadcaa-b913-4644-8709-d56f732fef1f",
+              "Filename": "5b4833d7-355a-4713-bcc9-615218da6b3e.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31489.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f55c9b55-da2f-4523-8ac6-f7aa95a21d1d",
+              "Filename": "3bad6d07-2b9b-4657-a582-43c53db7dc80.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31493.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fc163d38-b39e-4bac-aa00-1dc630c45318",
+              "Filename": "b76bda60-dd0c-4f51-b702-74deec04faab.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31496.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "79af4d38-1f6f-4849-8ac5-53738fb33240",
+              "Filename": "7a0ae90c-aa75-486b-92d3-9c8301f2da73.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31495.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ad355780-a5cf-4062-8c87-058da748bfe0",
+              "Filename": "02a722f5-d6d7-40cc-a127-d1016e46d109.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31490.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "16942a83-0db0-4ba0-ae42-5a5d40eb4f5a",
+              "Filename": "6cc2ffb3-a215-4c64-ad53-741193991361.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31497.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4ab16d7f-fe97-4eea-a9d4-c8a8d2879a8d",
+              "Filename": "51223107-6b47-4133-aee3-0a39fa3925fc.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31492.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7c43d48d-2ff6-4809-9605-199c54a0a111",
+              "Filename": "f6915879-b82a-45e2-a5ae-143a16f0afb0.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31499.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "03ee0826-5d22-4c97-ac6d-5a38ac9d6d67",
+              "Filename": "87b27f40-897a-4394-9f72-2de05e536e9e.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31501.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f2336635-9f04-48e4-b7cc-f4309accd5c1",
+              "Filename": "d61bb9b9-aa9f-4531-a015-b64deda4fef7.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31498.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fcfa31e5-afa8-456b-87b1-7f88db44de0a",
+              "Filename": "c3cba810-b7d7-44ac-849d-63a6b80c3c7b.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31494.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2c65d391-e40f-4888-a240-0e1baf3dacaa",
+              "Filename": "832a2df2-4f7e-4e03-a46f-e1b65978c48d.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31502.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cdeda867-9890-4f7a-b586-1b5118a72ca2",
+              "Filename": "009900a9-8fa3-4900-adba-409e2ecee077.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31503.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ed8404af-35c2-4ac8-aaec-97147adaf90a",
+              "Filename": "9fdcca0b-4a38-4d84-920e-b5f93dc66193.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_RA_31491.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2e9543a8-4637-4b35-887f-ee280a37520a",
+              "Filename": "https://www.youtube.com/embed/TlJP0e__CXw",
+              "Caption": "https://www.youtube.com/embed/TlJP0e__CXw",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "4f683f5698c543968e3174e4764cdd99",
+          "OriginalImagesSuffix": "4f683",
+          "MainPhoto": {
+            "Identifier": "60ce482e-6817-477e-8424-c5832499d4ce",
+            "Filename": "b1714aba-a430-4611-bddd-e6e50f7da8cf.jpg",
+            "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2492_Rb.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/1/5019114/b1714aba-a430-4611-bddd-e6e50f7da8cf_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Gordon Hughes Estate Agents are delighted to present to the market this charming detached former schoolhouse dating back to circa 1840s, occupying a truly unique lakeside setting overlooking Brackley Lake in Bawnboy, Co. Cavan. Situated on a generous site this 2 bedroom property extending to approximately 0.33 hectares (0.82 acres) the property enjoys elevated lakeside views & is only a short drive from the village of Bawnboy & the nearby towns of Ballinamore & Ballyconnell.\r\n\r\nFull of character and charm throughout, this distinctive property offers cosy accommodation comprising an open plan kitchen/living/dining area featuring a traditional solid fuel stove set within a stone surround, shower room, bedroom and a mezzanine level with sitting area and further bedroom with WC.\r\n\r\nThe property benefits from Oil Fired Central Heating (OFCH), private bored well water supply and enjoys stunning views over Brackley Lake and the surrounding countryside.\r\n\r\nOffering a rare opportunity to acquire a property of immense character in a peaceful rural setting, this former schoolhouse would make an ideal permanent residence, holiday home or countryside retreat while enjoying the tranquillity of this beautiful lakeside location.\r\n\r\nViewing Strictly by Appointment Only with Sole Selling Agent."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall\r\nOpen Plan Kitchen/Living/Dining Area (Solid Fuel Stove)\r\nShower Room\r\nBedroom 1\r\nMezzanine Sitting Area\r\nBedroom 2 (WC)"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Charming detached former schoolhouse dating back to circa 1840s\r\nOccupying a beautiful lakeside setting overlooking Brackley Lake\r\nSite extending to approximately 0.33 hectares (0.82 acres)\r\nBright open plan kitchen/living/dining area\r\nTraditional solid fuel stove with attractive stone surround\r\nTwo-bedroom accommodation\r\nMezzanine level sitting area\r\nOil Fired Central Heating (OFCH)\r\nPrivate bored well water supply\r\nPeaceful countryside location\r\nFull of character and original charm\r\nIdeal as a permanent residence, holiday home or countryside retreat"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: G"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "Google Coordinates: 54.1434014, -7.700446\r\nEircode: H14 KF21"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 10,
+    "MaxEnergyRating": 10,
+    "BERGrade": "G",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-07-20T12:00:03.3000000+01:00",
+    "ModifiedOnDate": "2026-08-21T12:09:26.4900000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-07-20T12:02:14.7930000+01:00",
+    "RefreshedOn": "2026-07-20T12:02:14.7930000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+    "IsTransact": false,
+    "PriceAsString": "€180,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5015272,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 100,
+    "DisplayAddress": "Mullaghlea, Bawnboy, Cavan",
+    "Eircode": "H14 KF21",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Cottage",
+    "PropertyTypeId": 46,
+    "RegionId": 887,
+    "RegionName": "Cavan",
+    "LocalityId": 896,
+    "LocalityName": "Bawnboy",
+    "Price": {
+      "MinPrice": 180000,
+      "MaxPrice": 180000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/b8af5597-27ef-4bbd-a29c-0b2e0c4f6619_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/b8af5597-27ef-4bbd-a29c-0b2e0c4f6619_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/b8af5597-27ef-4bbd-a29c-0b2e0c4f6619_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1bc9db8a-8af4-46fb-a26a-cf1740b58e77_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1bc9db8a-8af4-46fb-a26a-cf1740b58e77_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1bc9db8a-8af4-46fb-a26a-cf1740b58e77_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/08a41991-a7de-4fc6-9fcb-b4fc762002e6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/08a41991-a7de-4fc6-9fcb-b4fc762002e6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/08a41991-a7de-4fc6-9fcb-b4fc762002e6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6957f4c9-ea49-4cae-8c04-8defc18474a4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6957f4c9-ea49-4cae-8c04-8defc18474a4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6957f4c9-ea49-4cae-8c04-8defc18474a4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/74422300-ad98-4b23-879a-65c5226f4e85_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/74422300-ad98-4b23-879a-65c5226f4e85_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/74422300-ad98-4b23-879a-65c5226f4e85_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/fcd2428d-527c-44cd-a793-bcccfca6383a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/fcd2428d-527c-44cd-a793-bcccfca6383a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/fcd2428d-527c-44cd-a793-bcccfca6383a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1e63a6fd-a42e-4cef-ad08-0243b9f9713d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1e63a6fd-a42e-4cef-ad08-0243b9f9713d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/1e63a6fd-a42e-4cef-ad08-0243b9f9713d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/e052b868-795e-4b3d-97eb-f7fb62b999db_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/e052b868-795e-4b3d-97eb-f7fb62b999db_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/e052b868-795e-4b3d-97eb-f7fb62b999db_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/38c4d908-a223-4941-8d9a-33bb22320f07_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/38c4d908-a223-4941-8d9a-33bb22320f07_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/38c4d908-a223-4941-8d9a-33bb22320f07_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/bde83bd0-7497-48be-9799-98fac017eae2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/bde83bd0-7497-48be-9799-98fac017eae2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/bde83bd0-7497-48be-9799-98fac017eae2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6723a511-d6b9-411e-ba04-575762e435fc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6723a511-d6b9-411e-ba04-575762e435fc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/6723a511-d6b9-411e-ba04-575762e435fc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/ef6067cd-44eb-4b37-b10a-99aec7df839d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/ef6067cd-44eb-4b37-b10a-99aec7df839d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/ef6067cd-44eb-4b37-b10a-99aec7df839d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/5c93cd5b-b90a-47da-9671-d7a6b7c082a8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/5c93cd5b-b90a-47da-9671-d7a6b7c082a8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/5c93cd5b-b90a-47da-9671-d7a6b7c082a8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/f90d8bf6-7ade-42c4-b04e-304223ba9e6c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/f90d8bf6-7ade-42c4-b04e-304223ba9e6c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/f90d8bf6-7ade-42c4-b04e-304223ba9e6c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/33ce71f4-9fe8-45c6-a942-fb08c53f6add_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/33ce71f4-9fe8-45c6-a942-fb08c53f6add_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/33ce71f4-9fe8-45c6-a942-fb08c53f6add_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/44937bb4-e88b-4698-bf38-4fee918cbadb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/44937bb4-e88b-4698-bf38-4fee918cbadb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/44937bb4-e88b-4698-bf38-4fee918cbadb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/02a7d6ab-10b8-4fd4-846a-92eeb452247d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/02a7d6ab-10b8-4fd4-846a-92eeb452247d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/02a7d6ab-10b8-4fd4-846a-92eeb452247d_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.686893200000001,
+      "latitude": 54.1466406
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 18,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9788,
+    "Name": "Gordon Hughes Estate Agents ",
+    "DisplayPhone": "071 964 5555",
+    "Email": "info@ghproperty.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "gordon-hughes-estates-agents",
+    "SeoName": "gordon-hughes-estates-agents",
+    "Address": "Main Street, Ballinamore, Co. Leitrim ",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/8/7/9788/logo.jpg",
+    "SalesLicense": "001320",
+    "RentalLicense": "001320",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "bawnboy/896",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024852,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Dereen, Aughacashel, Co.Leitrim , Ballinamore",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/5/8/5024852/6512fb69-5501-4214-af35-cd4006d0c9b8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/dereen-aughacashel-co-leitrim-ballinamore/5024852"
+    },
+    {
+      "PropertyId": 5024847,
+      "PropertyClassId": 1,
+      "DisplayAddress": "15 Drumcoura Lake Resort, Drumcoura, Ballinamore, Co. Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/4/8/5024847/eb40f985-6c6f-4c88-936d-a99d16721587_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/15-drumcoura-lake-resort-drumcoura-ballinamore-co-leitrim/5024847"
+    },
+    {
+      "PropertyId": 5024334,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Stradermot, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/3/5024334/e49c5f0e-efc7-48fa-8e7b-d02138fffd2e_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/stradermot-ballinamore-leitrim/5024334"
+    },
+    {
+      "PropertyId": 5023598,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apt. 3 The Archways, Bridge Street, Carrick On Shannon, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/5/5023598/5a7ab117-1c23-4f2c-9380-f4b5e7917603_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apt-3-the-archways-bridge-street-carrick-on-shannon-co-leitrim/5023598"
+    },
+    {
+      "PropertyId": 5023178,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Aughalough, Aughavas, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/7/1/5023178/dc2d3488-11f3-465f-a321-24481a0381c5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/aughalough-aughavas-leitrim/5023178"
+    },
+    {
+      "PropertyId": 5021716,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Apt 3 Golf Links Road, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/1/7/5021716/22d3af6f-2366-4327-a8d2-eada1db13fdb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/apt-3-golf-links-road-ballinamore-leitrim/5021716"
+    },
+    {
+      "PropertyId": 5021482,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Greaghnafarna, Ballinaglera, Co.Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/greaghnafarna-ballinaglera-co-leitrim/5021482"
+    },
+    {
+      "PropertyId": 5019114,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mullaghlea, Bawnboy, Co. Cavan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/1/5019114/b1714aba-a430-4611-bddd-e6e50f7da8cf_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mullaghlea-bawnboy-co-cavan/5019114"
+    },
+    {
+      "PropertyId": 5018985,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Fenaghbeg, Fenagh, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5018985/cadce2d6-86f6-4fd3-b151-ff6f7abeb6a0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/fenaghbeg-fenagh-ballinamore-leitrim/5018985"
+    },
+    {
+      "PropertyId": 5018540,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Greaghnafarna, Ballinaglera, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/4/5/5018540/73e9594a-7b49-4340-8952-db3464285ad0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/greaghnafarna-ballinaglera-leitrim/5018540"
+    },
+    {
+      "PropertyId": 5016985,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Aughacashel, Dereen, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5016985/65929a16-cc00-4e8b-89c8-7d0ddfe6e7e4_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/aughacashel-dereen-ballinamore-leitrim/5016985"
+    },
+    {
+      "PropertyId": 5016929,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Killaneen, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/9/5016929/9136b40a-7645-4368-9f39-d41cee56fb2c_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/killaneen-ballinamore-leitrim/5016929"
+    },
+    {
+      "PropertyId": 5014945,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Lios Na Coille, Keadue Road, Leitrim Village, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/9/5014945/d79ef632-9e0a-4b0f-9970-e0fd33d9723e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/lios-na-coille-keadue-road-leitrim-village-co-leitrim/5014945"
+    },
+    {
+      "PropertyId": 5012393,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mellican, Ballinamore, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/9/3/5012393/76038627-5170-4ec7-9613-bacc17e2a67d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mellican-ballinamore-co-leitrim/5012393"
+    },
+    {
+      "PropertyId": 5011813,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Aghrafinigan, Knockvicar, Boyle, Co. Roscommon",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/8/5011813/48f1744a-4fc7-4ef3-8738-095e6a918c1c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/aghrafinigan-knockvicar-boyle-co-roscommon/5011813"
+    },
+    {
+      "PropertyId": 5011423,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Coolmeen, Co. Sligo, Kilmactranny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/2/4/5011423/e4c46030-a1d4-420c-9c4f-a1d49c24b146_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/coolmeen-co-sligo-kilmactranny/5011423"
+    },
+    {
+      "PropertyId": 5010856,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Smyths, Main Street, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/8/5010856/0e3845c8-306a-4f6d-9d99-e143e1538122_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/smyths-main-street-ballinamore-leitrim/5010856"
+    },
+    {
+      "PropertyId": 5009591,
+      "PropertyClassId": 1,
+      "DisplayAddress": "No 9 Lakeside Cottages, Drumcong, Co.Leitrim , Drumshanbo",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/9/5/5009591/b84e8cfc-56f4-420a-ace7-a61c22fc1ec6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/no-9-lakeside-cottages-drumcong-co-leitrim-drumshanbo/5009591"
+    },
+    {
+      "PropertyId": 5009142,
+      "PropertyClassId": 3,
+      "DisplayAddress": "19 Páirc Feá, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/19-p-irc-fe-ballinamore-leitrim/5009142"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/mullaghlea-bawnboy-cavan/5015272",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9788,
+    "MYH_LocalityID": 896,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 887,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Central Heating",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Central Heating,Garden",
+    "MYH_MaxPrice": 200000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 10,
+    "MYH_MinPrice": 200000,
+    "MYH_MinSize": 100,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5015272,
+    "MYH_PropertyTypeID": 46
+  }
+}

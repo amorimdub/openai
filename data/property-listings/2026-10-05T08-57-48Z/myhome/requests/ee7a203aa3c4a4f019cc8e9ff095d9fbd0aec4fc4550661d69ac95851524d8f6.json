@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=460",
+  "fetchedAt": "2026-10-05T14:11:39.131Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=460",
+  "kind": "search",
+  "responseSha256": "eee3179ced9b5cc0ab343bf60f98964d784007995fac5417f6b12cde04734a2c",
+  "files": [
+    {
+      "path": "myhome/09993-ee7a203aa3c4a4f0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=460\"].SearchResults",
+      "sha256": "2b6d8d8636517d079ae109b7900faaab29c247d455ebf3e29f68d86a3cd07a38",
+      "bytes": 96562
+    },
+    {
+      "path": "myhome/09993-ee7a203aa3c4a4f0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=460\"] (paging fields)",
+      "sha256": "6d7873154c9a0500114703d7479f4175e2eb5cdb07c9c1745ba4d93a94f458b9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/o-connell-street-dungarvan-waterford/5007576",
+    "https://www.myhome.ie/residential/brochure/carrowmore-meadows-residents-centre-carrowmore-meadows-knock-mayo/5006520",
+    "https://www.myhome.ie/residential/brochure/cloongoonagh-tourlestrane-sligo/5007569",
+    "https://www.myhome.ie/residential/brochure/4-beech-drive-dundrum-dublin-16/5002459",
+    "https://www.myhome.ie/residential/brochure/main-street-ballindine-mayo/5006997",
+    "https://www.myhome.ie/residential/brochure/ballyhaunis-road-knock-mayo/5007003",
+    "https://www.myhome.ie/residential/brochure/19a-altbawn-cresent-kiltimagh-mayo/5007006",
+    "https://www.myhome.ie/residential/brochure/churchfield-knock-mayo/5007007",
+    "https://www.myhome.ie/residential/brochure/moneen-louisburgh-mayo/5007559",
+    "https://www.myhome.ie/residential/brochure/clonanav-guest-house-ballymacarbry-county-waterford/5007566",
+    "https://www.myhome.ie/residential/brochure/5-rockingham-newcastle-co-wicklow/5007560",
+    "https://www.myhome.ie/residential/brochure/kimehere-shanagolden-co-limerick/5007558",
+    "https://www.myhome.ie/residential/brochure/144-west-avenue-park-gate-frankfield-co-cork/5007545",
+    "https://www.myhome.ie/residential/brochure/38-the-haymarket-cathedral-place-limerick-county-limerick/5007550",
+    "https://www.myhome.ie/residential/brochure/ballyroe-williamstown-galway/5007021",
+    "https://www.myhome.ie/residential/brochure/carrownlough-irishtown-mayo/5007018",
+    "https://www.myhome.ie/residential/brochure/8-rosebank-kilmoney-carrigaline-cork/5007526",
+    "https://www.myhome.ie/residential/brochure/granagh-granagh-limerick/5007527",
+    "https://www.myhome.ie/residential/brochure/ballycurrane-ballydavid-kerry/5007047",
+    "https://www.myhome.ie/residential/brochure/kilmore-kilmore-avenue-killiney-co-dublin/4980779"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=461",
+  "paginationLimited": false
+}

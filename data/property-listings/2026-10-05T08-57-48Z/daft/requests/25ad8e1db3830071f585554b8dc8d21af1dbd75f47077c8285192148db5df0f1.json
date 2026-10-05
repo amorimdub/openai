@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-3-6-edward-street-tralee-co-kerry/6683563",
+  "fetchedAt": "2026-10-05T09:48:52.662Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-3-6-edward-street-tralee-co-kerry/6683563",
+  "kind": "listing",
+  "responseSha256": "ddd3e0f9f6cc64823201bf953895f3e0aac880c2181417128c71df2b95448acc",
+  "files": [
+    {
+      "path": "daft/02041-25ad8e1db3830071-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a78a39f027c62a60627edfec7d9897987502280b7aa07c7afc8068eddfdb7e44",
+      "bytes": 12826
+    },
+    {
+      "path": "daft/02041-25ad8e1db3830071-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0b9d5fb3f3c804f2613b4ae83fc3efdb6649cc88c7d5408f838799da8e71dfac",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/north-mall-cork-city-centre-co-cork/6682679",
+  "fetchedAt": "2026-10-05T09:53:20.063Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/north-mall-cork-city-centre-co-cork/6682679",
+  "kind": "listing",
+  "responseSha256": "b7a740614f5a48a085ddd37e67e56f6033d2b46599e1c4fc5cfe4afb941ac1bc",
+  "files": [
+    {
+      "path": "daft/02219-39847fb0d47879ec-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b361d13f2f3c64caa7d87f83a93eaa2b2dd575ce835af86d617739a2e6172b81",
+      "bytes": 25002
+    },
+    {
+      "path": "daft/02219-39847fb0d47879ec-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3dc0677b271a72ccbf1505650770c38f75cc1bc646373119e48eb8a39c5ce750",
+      "bytes": 8009
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=38",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=38",
+  "fetchedAt": "2026-10-05T09:31:34.514Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "6291c2fbd1114c6cec370d20654da49feeaf689397b402f3a77e315e58f81c91",
+  "files": [
+    {
+      "path": "myhome/01345-144a54d2cb697095-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=38\"].SearchResults",
+      "sha256": "614120543a0d1597ed0785e7bd60a11bd13cd0be307ec0e43dd8eb4c00bfff21",
+      "bytes": 117469
+    },
+    {
+      "path": "myhome/01345-144a54d2cb697095-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=38\"] (paging fields)",
+      "sha256": "2519627a8e7b9885e9277df37571327c7c11bb8cca4e82643ce349f174e1c157",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-clonfadda-wood-blackrock-co-dublin/5031578",
+    "https://www.myhome.ie/residential/brochure/35-sorrel-dale-clonsilla-dublin-15/5031575",
+    "https://www.myhome.ie/residential/brochure/gortanummera-ballyshrule-portumna-galway/5026438",
+    "https://www.myhome.ie/residential/brochure/9-seagreen-avenue-greystones-co-wicklow/5031577",
+    "https://www.myhome.ie/residential/brochure/49-mountpleasant-avenue-upper-ranelagh-dublin-6/5027466",
+    "https://www.myhome.ie/residential/brochure/13-ballymany-park-newbridge-co-kildare/5030022",
+    "https://www.myhome.ie/residential/brochure/3-cassell-house-ardilaun-court-patrick-street-dublin-8/5009510",
+    "https://www.myhome.ie/residential/brochure/1-knocknarea-road-drimnagh-dublin-12/5027147",
+    "https://www.myhome.ie/residential/brochure/65-the-willows-pollerton-carlow-town-carlow/5031572",
+    "https://www.myhome.ie/residential/brochure/75-the-eglinton-donnybrook-castle-donnybrook-dublin-4/5008589",
+    "https://www.myhome.ie/residential/brochure/site-ballinskelligs-kerry/5031571",
+    "https://www.myhome.ie/residential/brochure/4-anglesea-road-ballsbridge-dublin-4/4952804",
+    "https://www.myhome.ie/residential/brochure/mount-alexander-st-marys-road-ballsbridge-dublin-4/5024496",
+    "https://www.myhome.ie/residential/brochure/81-nutley-lane-donnybrook-dublin-4/5022637",
+    "https://www.myhome.ie/residential/brochure/138-the-sweepstakes-ballsbridge-dublin-4/5024201",
+    "https://www.myhome.ie/residential/brochure/4-bed-semi-type-b-138-sq-m-meadows-fort-graiguecullen-carlow/5014101",
+    "https://www.myhome.ie/residential/brochure/hadleigh-137-stillorgan-road-donnybrook-dublin-4/4980915",
+    "https://www.myhome.ie/residential/brochure/18-parsons-hall-maynooth-co-kildare/5031573",
+    "https://www.myhome.ie/residential/brochure/87-glendara-kill-county-kildare/5025711",
+    "https://www.myhome.ie/residential/brochure/16-lakelands-naas-county-kildare/5030060"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=39",
+  "paginationLimited": false
+}

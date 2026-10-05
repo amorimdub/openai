@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-39-hill-of-down-house-ifsc-dublin-1/6685792",
+  "fetchedAt": "2026-10-05T09:34:21.424Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-39-hill-of-down-house-ifsc-dublin-1/6685792",
+  "kind": "listing",
+  "responseSha256": "c761c3fa53967fef2bbc611259432bf1378885b32e82aabea61669b9c97b1e9d",
+  "files": [
+    {
+      "path": "daft/01461-79a4c8a46bf3ee5b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e39f822176e2997d3241d37a89009cc18c2e46c3350ecadc7847039001f3a6f",
+      "bytes": 36989
+    },
+    {
+      "path": "daft/01461-79a4c8a46bf3ee5b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0bb9ed30eca4010a7caecc37f9e595c9de13c750e213bf29511328aefa884276",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

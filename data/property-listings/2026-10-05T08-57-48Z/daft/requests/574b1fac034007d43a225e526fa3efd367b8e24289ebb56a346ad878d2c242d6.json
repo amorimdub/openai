@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ifsc-dublin-1/6683851",
+  "fetchedAt": "2026-10-05T09:46:38.948Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ifsc-dublin-1/6683851",
+  "kind": "listing",
+  "responseSha256": "e9fcb3d102995f773a8c87269f793db8c1b10b34d0d55375443bf0ffa85ef523",
+  "files": [
+    {
+      "path": "daft/01952-574b1fac034007d4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0fbf47e66f868c6f945c10405f26289394aa1bad021d98cae0174c62fdbe5de0",
+      "bytes": 23891
+    },
+    {
+      "path": "daft/01952-574b1fac034007d4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e402275f8ebcba24d37496159432a0a7d944dcb02380fc0ee54bf648f22c7451",
+      "bytes": 8081
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

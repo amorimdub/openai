@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=420",
+  "fetchedAt": "2026-10-05T13:50:59.103Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=420",
+  "kind": "search",
+  "responseSha256": "1b130df40a3acf115139e1643dc277eeff2d5e66fd03015b71d4593f70aa35dd",
+  "files": [
+    {
+      "path": "myhome/09168-07e7c1241ecbddce-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=420\"].SearchResults",
+      "sha256": "b7b81b70a69423d69744403bc9ac9f175721bf2f1f84bd749fdd3b836a5f98f5",
+      "bytes": 116929
+    },
+    {
+      "path": "myhome/09168-07e7c1241ecbddce-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=420\"] (paging fields)",
+      "sha256": "1618f59000a633557d73be9dfb37ec9cc67ef5db521db1bb965f7501555ef14c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/27-clog-na-l-inn-collinstown-mullingar-co-westmeath/5011622",
+    "https://www.myhome.ie/residential/brochure/8-mount-eaton-house-taylors-hill-road-taylor-s-hill-galway/5011619",
+    "https://www.myhome.ie/residential/brochure/ark-manor-boolamore-bunclody-co-wexford/5011613",
+    "https://www.myhome.ie/residential/brochure/corah-c-0-75-acre-site-ferns-county-wexford/5011600",
+    "https://www.myhome.ie/residential/brochure/rosebay-2-rocklow-road-fethard-county-tipperary/5011597",
+    "https://www.myhome.ie/residential/brochure/35-alexander-court-tallaght-dublin-24/5011596",
+    "https://www.myhome.ie/residential/brochure/24-white-oaks-wilton-cork/5011588",
+    "https://www.myhome.ie/residential/brochure/8-glencreagh-bantry-west-cork/5011581",
+    "https://www.myhome.ie/residential/brochure/45-dun-na-mara-drive-renmore-galway/5011535",
+    "https://www.myhome.ie/residential/brochure/duhan-kilballyowen-aughrim-co-wicklow/5011585",
+    "https://www.myhome.ie/residential/brochure/bayview-house-mill-road-mornington-co-meath/5005688",
+    "https://www.myhome.ie/residential/brochure/gorse-lodge-mountainstown-dunleer-louth/5010551",
+    "https://www.myhome.ie/residential/brochure/alverna-point-road-crosshaven-cork/4998424",
+    "https://www.myhome.ie/residential/brochure/13-churchview-ballymahon-longford/5011567",
+    "https://www.myhome.ie/residential/brochure/residence-on-c-8-10-acres-in-lots-ballynacorra-newbridge-county-galway/5011566",
+    "https://www.myhome.ie/residential/brochure/104-cedarwood-road-glasnevin-dublin-11/5011561",
+    "https://www.myhome.ie/residential/brochure/3-evenus-ville-albert-road-cork-city-cork/5011558",
+    "https://www.myhome.ie/residential/brochure/pottlebane-carnaross-kells-co-meath/5011557",
+    "https://www.myhome.ie/residential/brochure/17-kilbarron-road-coolock-dublin-5/5011552",
+    "https://www.myhome.ie/residential/brochure/rosses-point-604-fountain-courtyard-the-k-club-straffan-kildare/5011545"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=421",
+  "paginationLimited": false
+}

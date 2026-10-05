@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-burgage-dalkey-dalkey-co-dublin/6685845",
+  "fetchedAt": "2026-10-05T09:33:27.366Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-burgage-dalkey-dalkey-co-dublin/6685845",
+  "kind": "listing",
+  "responseSha256": "26a1e484dd65d1d3f84f70c421d92535fbf0cc77a46a006451ea5a9b5a0b8ad7",
+  "files": [
+    {
+      "path": "daft/01425-216bf3b96f69ccb1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b74cc3cf2c5e0c2a75cca42dfc5f090436af1137fa462befbf8710b32e53d3d3",
+      "bytes": 39870
+    },
+    {
+      "path": "daft/01425-216bf3b96f69ccb1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "590b04f8bcc454cc8f4834aa810ef9d43d9ddff9f0e9a548026dc5363f00a9cb",
+      "bytes": 8113
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

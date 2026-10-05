@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=347",
+  "fetchedAt": "2026-10-05T13:13:25.396Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=347",
+  "kind": "search",
+  "responseSha256": "8ed499dc856516ed8e197229aaa9b66a5dc9bb8e3898e3b9a5661b74cbd50af1",
+  "files": [
+    {
+      "path": "myhome/07669-609e56948ecc4916-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=347\"].SearchResults",
+      "sha256": "ae383619f2bf86b774d111b23777d8d59d7d21726fe00b3112c6782596126847",
+      "bytes": 119356
+    },
+    {
+      "path": "myhome/07669-609e56948ecc4916-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=347\"] (paging fields)",
+      "sha256": "75f244c933d0d5c1caf5517fd6878049c1803b3e159cadd00e565f1b616899b2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/graigues-robertstown-co-kildare/5020959",
+    "https://www.myhome.ie/residential/brochure/102-chord-road-drogheda-louth/5020941",
+    "https://www.myhome.ie/residential/brochure/gortacrossig-castletownshend-west-cork/4991679",
+    "https://www.myhome.ie/residential/brochure/3-coolgarten-villas-magazine-road-cork/5020944",
+    "https://www.myhome.ie/residential/brochure/2-castlepark-manor-castlepark-road-dalkey-dublin/5020938",
+    "https://www.myhome.ie/residential/brochure/apt-2-castlehill-centre-castle-hill-carlow-county-carlow/5020940",
+    "https://www.myhome.ie/residential/brochure/seaview-3-st-alban-s-newtownsmith-sandycove-co-dublin/4979588",
+    "https://www.myhome.ie/residential/brochure/11-royal-terrace-east-dun-laoghaire-co-dublin/4985017",
+    "https://www.myhome.ie/residential/brochure/apartment-10-block-f-smithfield-market-smithfield-dublin-7/5020935",
+    "https://www.myhome.ie/residential/brochure/hewitts-bridge-clancoolmore-bandon-cork/5020933",
+    "https://www.myhome.ie/residential/brochure/the-seasons-coynes-cross-ashford-co-wicklow/4830936",
+    "https://www.myhome.ie/residential/brochure/dunbell-big-dunbell-maddockstown-kilkenny-kilkenny/5019903",
+    "https://www.myhome.ie/residential/brochure/lahard-whitegate-cork/5019565",
+    "https://www.myhome.ie/residential/brochure/hillside-aghada-midleton-co-cork/5019898",
+    "https://www.myhome.ie/residential/brochure/keeper-view-clonbealy-newport-tipperary/5019896",
+    "https://www.myhome.ie/residential/brochure/green-road-portlaoise-co-laois/5019895",
+    "https://www.myhome.ie/residential/brochure/knockavallig-duagh-co-kerry/5013357",
+    "https://www.myhome.ie/residential/brochure/12-farnham-street-cavan-county-cavan/5019893",
+    "https://www.myhome.ie/residential/brochure/2-church-street-tipperary-county-tipperary/5019891",
+    "https://www.myhome.ie/residential/brochure/14-ard-riadha-geashill-co-offaly/5019890"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=348",
+  "paginationLimited": false
+}

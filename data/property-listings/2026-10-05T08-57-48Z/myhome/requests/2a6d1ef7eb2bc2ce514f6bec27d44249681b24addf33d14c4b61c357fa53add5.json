@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=231",
+  "fetchedAt": "2026-10-05T12:13:36.103Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=231",
+  "kind": "search",
+  "responseSha256": "c2d49f4e45bdf226d88e63d246044c79772a7b31f534c6e603d7ac4ce0381481",
+  "files": [
+    {
+      "path": "myhome/05286-2a6d1ef7eb2bc2ce-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=231\"].SearchResults",
+      "sha256": "c32b633d365c31c16b37fa9b30e06441c9a9d67fee679641134665b619de9980",
+      "bytes": 115137
+    },
+    {
+      "path": "myhome/05286-2a6d1ef7eb2bc2ce-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=231\"] (paging fields)",
+      "sha256": "df617ce05bb603c5888133f6789895f197fdba6394b61b3421522d4a5d504e56",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-lelia-street-dublin-road-limerick-city/5025910",
+    "https://www.myhome.ie/residential/brochure/3-rathmines-park-rathmines-dublin-6/5026692",
+    "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-kildare/5005218",
+    "https://www.myhome.ie/residential/brochure/7-the-avenue-cluain-glasan-kilkenny-kilkenny/5026689",
+    "https://www.myhome.ie/residential/brochure/43-st-joseph-s-street-limerick-city-limerick/5024184",
+    "https://www.myhome.ie/residential/brochure/apartment-58-shrewsbury-square-sandymount-avenue-dublin-4/5026690",
+    "https://www.myhome.ie/residential/brochure/33-colliers-brook-clonminch-road-tullamore-offaly/5026688",
+    "https://www.myhome.ie/residential/brochure/apt-36-riverview-st-nicholas-gardens-dundalk-co-louth/4983005",
+    "https://www.myhome.ie/residential/brochure/3-ashgrove-carlanstown-kells-meath/5026670",
+    "https://www.myhome.ie/residential/brochure/dunleckney-bagenalstown-co-carlow/5026676",
+    "https://www.myhome.ie/residential/brochure/22-park-drive-grove-castleknock-dublin-15-d15k103/5026672",
+    "https://www.myhome.ie/residential/brochure/castleview-bunavie-pallasgreen-co-limerick/5026674",
+    "https://www.myhome.ie/residential/brochure/4-manor-crest-monaghan-town/5026673",
+    "https://www.myhome.ie/residential/brochure/93-waterloo-lane-ballsbridge-dublin-4/5004777",
+    "https://www.myhome.ie/residential/brochure/ard-na-greine-2-owenriffe-park-oughterard-galway-county-galway/5026669",
+    "https://www.myhome.ie/residential/brochure/lugduff-tinahely-wicklow/5026640",
+    "https://www.myhome.ie/residential/brochure/6-mercer-drive-cherrywood-dublin-18/4986218",
+    "https://www.myhome.ie/residential/brochure/179-north-circular-road-dublin-7/5026665",
+    "https://www.myhome.ie/residential/brochure/35-rosehill-wicklow-town-co-wicklow/5026664",
+    "https://www.myhome.ie/residential/brochure/moress-inch-island-co-donegal/5026661"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=232",
+  "paginationLimited": false
+}

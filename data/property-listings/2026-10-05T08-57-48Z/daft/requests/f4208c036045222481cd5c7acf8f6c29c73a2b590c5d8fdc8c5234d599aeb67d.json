@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-castle-view-muirfield-drive-bluebell-dublin-12/4272066",
+  "fetchedAt": "2026-10-05T09:01:42.449Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-castle-view-muirfield-drive-bluebell-dublin-12/4272066",
+  "kind": "listing",
+  "responseSha256": "0bb5d6e129788c1faeb0bab5f5032138acc2bc2cba018d34ffd5cd51255395de",
+  "files": [
+    {
+      "path": "daft/00157-f4208c0360452224-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "da9c2dda409f554a5a91b95d3c87c9b2d4db4dce94de2bf5d4cf778b93209dcc",
+      "bytes": 44651
+    },
+    {
+      "path": "daft/00157-f4208c0360452224-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "26013f8b67ed526a6a108d7488666c530d54b053b293973fd4e136d871bde807",
+      "bytes": 8048
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/chancery-court-christchurch-dublin-8/6686354",
+  "fetchedAt": "2026-10-05T09:29:16.572Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/chancery-court-christchurch-dublin-8/6686354",
+  "kind": "listing",
+  "responseSha256": "c461c66770bd1d8dcb3bfae54fbc91e1e98a52e0e374d6dc9abf684a2b07e6d8",
+  "files": [
+    {
+      "path": "daft/01258-e32e40e2ee67a90a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "111786abbe50439a2bb0cfbe308a53fbba84bcc2ffe7e887a1a74a8d45dad51b",
+      "bytes": 29033
+    },
+    {
+      "path": "daft/01258-e32e40e2ee67a90a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "35ed1aba24d0fab08f9fddc9c4e6bf885f64fab85eaa1f54d1128f8a123d2ed0",
+      "bytes": 8055
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

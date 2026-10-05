@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/yellow-house-bunnanaddan-ballymote-co-sligo/6663759",
+  "fetchedAt": "2026-10-05T09:39:54.783Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/yellow-house-bunnanaddan-ballymote-co-sligo/6663759",
+  "kind": "listing",
+  "responseSha256": "f876e27d503c522155b3ea5d212bd012ce46c22cfc1424d2f069daedb74de13d",
+  "files": [
+    {
+      "path": "daft/01683-97e76b339b0a3ab3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4ac621ccc05d5075a4ae70da5c2cda45e3b15a1a18adce9c14b2fad9c9b22c8e",
+      "bytes": 70228
+    },
+    {
+      "path": "daft/01683-97e76b339b0a3ab3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "272750708b8f70b151b0498b1eebe80e4d8cf20ae10945b62ba18f72c12c1502",
+      "bytes": 8160
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

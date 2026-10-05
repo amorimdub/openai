@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/unit-8a-drynam-square-drynam-hall-kinsealy-co-dublin/6687255",
+  "fetchedAt": "2026-10-05T09:23:52.028Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/unit-8a-drynam-square-drynam-hall-kinsealy-co-dublin/6687255",
+  "kind": "listing",
+  "responseSha256": "9f0f6386273581cc8a780647576f4aa37bb2e4aea635b71398921038f881fd4c",
+  "files": [
+    {
+      "path": "daft/01042-acf87a67d9b1eab8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "99a49132579cf960c7b448f758b0525dc09a39c98bbb45f8cd7b2f8998853978",
+      "bytes": 15472
+    },
+    {
+      "path": "daft/01042-acf87a67d9b1eab8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e2947cae048a3329b5c000566f072d33b4a652f6c39b46aab2e23f4a71f6c68b",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

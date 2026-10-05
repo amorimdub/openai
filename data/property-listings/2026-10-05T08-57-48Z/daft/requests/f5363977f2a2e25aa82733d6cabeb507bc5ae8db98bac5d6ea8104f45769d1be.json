@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bedroom-2-storey-house-u-citywest-demesne-citywest-citywest-co-dublin/4572487",
+  "fetchedAt": "2026-10-05T09:08:53.872Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bedroom-2-storey-house-u-citywest-demesne-citywest-citywest-co-dublin/4572487",
+  "kind": "listing",
+  "responseSha256": "f5d77a44468a1b4f392cdd002abbed9dab1ab7535864e4ab62549bb53d18f598",
+  "files": [
+    {
+      "path": "daft/00444-f5363977f2a2e25a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4c233c833f22da92f4e3698ddf779d257fcd8f2afbe0aefea95e7f1162ea618f",
+      "bytes": 68293
+    },
+    {
+      "path": "daft/00444-f5363977f2a2e25a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a97b4a11a41d2cda5c2ac2dcb88b37c4befd680a73eb439860ea52ae3fc5b29a",
+      "bytes": 8025
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

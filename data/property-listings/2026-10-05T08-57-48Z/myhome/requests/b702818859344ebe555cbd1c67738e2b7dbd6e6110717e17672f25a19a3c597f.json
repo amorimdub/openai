@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=408",
+  "fetchedAt": "2026-10-05T13:44:53.124Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=408",
+  "kind": "search",
+  "responseSha256": "131299d254f299151cdd5a3c040c92d056ae82e5d5965a0e970ad570bdb218c2",
+  "files": [
+    {
+      "path": "myhome/08925-b702818859344ebe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=408\"].SearchResults",
+      "sha256": "dc0315b936cfd676ec0e60a543fd64a2f46e1afc48ccae8b88d43f0a8ff43b7b",
+      "bytes": 130737
+    },
+    {
+      "path": "myhome/08925-b702818859344ebe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=408\"] (paging fields)",
+      "sha256": "ea10797fc4addef0f7fb9ae55f6b37438b8d49fc047667e44b98765b13b6a06c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-thorncliffe-dundrum-road-dundrum-dublin-14/4984988",
+    "https://www.myhome.ie/residential/brochure/harvard-lodge-4-sydney-avenue-blackrock-co-dublin/4422131",
+    "https://www.myhome.ie/residential/brochure/15-salthill-monkstown-co-dublin/4999488",
+    "https://www.myhome.ie/residential/brochure/forge-house-newtown-park-blackrock-co-dublin/4960688",
+    "https://www.myhome.ie/residential/brochure/moyvoon-east-oughterard-co-galway/5014657",
+    "https://www.myhome.ie/residential/brochure/15-orchard-upper-kilkenny-kilkenny/5014650",
+    "https://www.myhome.ie/residential/brochure/4-alta-place-gardiners-hill-st-lukes-cork-city/5014649",
+    "https://www.myhome.ie/residential/brochure/illaunbaun-lahinch-clare/5014214",
+    "https://www.myhome.ie/residential/brochure/168-caisleann-na-habhann-castletroy-limerick-county-limerick/5014349",
+    "https://www.myhome.ie/residential/brochure/hazelwood-kilglass-mitchelstown-cork/5014299",
+    "https://www.myhome.ie/residential/brochure/fox-lodge-foxcovert-lane-kilteel-naas-kildare/5014096",
+    "https://www.myhome.ie/residential/brochure/cousinstown-bridgetown-wexford/5014296",
+    "https://www.myhome.ie/residential/brochure/36-anglers-walk-carlow-county-carlow/5014298",
+    "https://www.myhome.ie/residential/brochure/tra-beag-cottage-culfin-renvyle-galway-county-galway/5014291",
+    "https://www.myhome.ie/residential/brochure/ref-1237-dormer-bungalow-murreagh-waterville-kerry/5014253",
+    "https://www.myhome.ie/residential/brochure/14-fairfield-avenue-east-wall-dublin-3/4990025",
+    "https://www.myhome.ie/residential/brochure/12-racecourse-hill-clifden-co-galway/5014268",
+    "https://www.myhome.ie/residential/brochure/70-silken-park-avenue-kingswood-citywest-co-dublin/5014257",
+    "https://www.myhome.ie/residential/brochure/pier-road-murrisk-westport-co-mayo/5014246",
+    "https://www.myhome.ie/residential/brochure/17-curraheen-st-nessansroad-dooradoyle-limerick/5014210"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=409",
+  "paginationLimited": false
+}

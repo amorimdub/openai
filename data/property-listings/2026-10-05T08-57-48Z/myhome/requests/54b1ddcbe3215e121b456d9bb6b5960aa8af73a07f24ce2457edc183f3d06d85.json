@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=486",
+  "fetchedAt": "2026-10-05T14:24:57.293Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=486",
+  "kind": "search",
+  "responseSha256": "083d143cc93cccd36d0ed385e73e2c25ef0ed54dcb3f30b148821c1b73923680",
+  "files": [
+    {
+      "path": "myhome/10524-54b1ddcbe3215e12-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=486\"].SearchResults",
+      "sha256": "ed4e1c008fa67a3f41afb924441ae959678076005159c3166da6e4654ca7732c",
+      "bytes": 123643
+    },
+    {
+      "path": "myhome/10524-54b1ddcbe3215e12-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=486\"] (paging fields)",
+      "sha256": "ccb02ba295ea571efb8d81254b9316414e74016a2d0e53a19b68797d48e8814f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/long-acre-dysert-ardmore-waterford/5004244",
+    "https://www.myhome.ie/residential/brochure/baltyfarrell-craanford-gorey-county-wexford/5004243",
+    "https://www.myhome.ie/residential/brochure/drumathumper-frosses-county-donegal/5004241",
+    "https://www.myhome.ie/residential/brochure/tiknock-kinsalebeg-waterford/5004226",
+    "https://www.myhome.ie/residential/brochure/11-fernleigh-grange-carpenterstown-dublin-15/5003595",
+    "https://www.myhome.ie/residential/brochure/32-castleview-dunboyne-meath/5004159",
+    "https://www.myhome.ie/residential/brochure/shanballa-annacotty-castletroy-limerick-county-limerick/5004223",
+    "https://www.myhome.ie/residential/brochure/137-blarney-street-shanakiel-cork-city/5004205",
+    "https://www.myhome.ie/residential/brochure/110-griffith-hall-drumcondra-dublin-9/4985245",
+    "https://www.myhome.ie/residential/brochure/34-eastham-court-eastham-road-bettystown-meath/5003578",
+    "https://www.myhome.ie/residential/brochure/9-bayly-hill-bayly-douglas/4948522",
+    "https://www.myhome.ie/residential/brochure/no-2-old-chapel-bandon-cork/5004171",
+    "https://www.myhome.ie/residential/brochure/27-willowbank-court-midleton-cork/4915783",
+    "https://www.myhome.ie/residential/brochure/lisieux-athlumney-navan-meath/5003893",
+    "https://www.myhome.ie/residential/brochure/bohullion-upper-burt-co-donegal/5004162",
+    "https://www.myhome.ie/residential/brochure/gravelstown-kells-meath/5004151",
+    "https://www.myhome.ie/residential/brochure/apt-21-pier-19-bridgefoot-st-dublin-8/5004147",
+    "https://www.myhome.ie/residential/brochure/12-rathlawns-rathcoole-co-dublin/5004135",
+    "https://www.myhome.ie/residential/brochure/10-cedar-grove-bishopstown-cork/4899145",
+    "https://www.myhome.ie/residential/brochure/25-elder-heath-view-kiltipper-dublin-24/5004131"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=487",
+  "paginationLimited": false
+}

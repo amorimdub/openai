@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=36",
+  "fetchedAt": "2026-10-05T09:39:23.247Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=36",
+  "kind": "search",
+  "responseSha256": "48df319732cdaf77b97234cdba0f4aa2c1e1596cd0ceee51b48a563fa6139cb9",
+  "files": [
+    {
+      "path": "daft/01662-80e2ab04e83f98a7-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "cbfbb625f46f199da2fb1f7dd3b00b6659b8073fb8600e83bb97fdb9e37ab2ca",
+      "bytes": 239328
+    },
+    {
+      "path": "daft/01662-80e2ab04e83f98a7-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01662-80e2ab04e83f98a7-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "e1c5958e76167ae91f6a693d750840b01a4c5af19ee9a9ab8fd7647a25955c3e",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-28-downview-t12pf86-victoria-cross-co-cork/6684871",
+    "https://www.daft.ie/for-rent/main-street-kilmallock-co-limerick/6684867",
+    "https://www.daft.ie/for-rent/woodfield-knocknacarra-co-galway/6684872",
+    "https://www.daft.ie/for-rent/briar-wood-bray-bray-co-wicklow/6684760",
+    "https://www.daft.ie/for-rent/charleston-house-14-charleston-road-ranelagh-dublin-6/6684860",
+    "https://www.daft.ie/for-rent/tawnamachugh-manorhamilton-gurteen-co-leitrim/6684490",
+    "https://www.daft.ie/for-rent/-capel-street-smithfield-dublin-1/6684855",
+    "https://www.daft.ie/for-rent/blessington-street-dublin-7/6684851",
+    "https://www.daft.ie/for-rent/apartment-1-190-old-youghal-road-st-lukes-co-cork/6684842",
+    "https://www.daft.ie/for-rent/apartment-2-190-old-youghal-road-st-lukes-co-cork/6684823",
+    "https://www.daft.ie/for-rent/foxborough-rise-lucan-co-dublin/6684795",
+    "https://www.daft.ie/for-rent/robertstown-road-donaghmore-ashbourne-co-meath/6684686",
+    "https://www.daft.ie/for-rent/summer-st-north-north-circular-road-co-dublin/6684750",
+    "https://www.daft.ie/for-rent/flat-2-16-grove-park-rathmines-dublin-6/6684736",
+    "https://www.daft.ie/for-rent/bofin-house-harbour-road-tarmonbarry-co-roscommon/6684229",
+    "https://www.daft.ie/for-rent/mountjoy-square-east-f3-dublin-1/6684737",
+    "https://www.daft.ie/for-rent/mountjoy-square-east-f9-dublin-1/6684724",
+    "https://www.daft.ie/for-rent/23-monivea-park-ballybane-mervue-co-galway/6684671",
+    "https://www.daft.ie/for-rent/apartment-6-mariners-court-bayside-dublin-5/6684717",
+    "https://www.daft.ie/for-rent/86-tur-uisce-doughiska-galway/6635836"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=37",
+  "paginationLimited": false
+}

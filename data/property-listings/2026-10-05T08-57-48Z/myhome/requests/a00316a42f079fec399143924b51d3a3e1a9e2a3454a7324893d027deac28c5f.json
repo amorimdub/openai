@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=203",
+  "fetchedAt": "2026-10-05T11:58:58.289Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=203",
+  "kind": "search",
+  "responseSha256": "80f6c16bdee9098f5e4d8a91d3848330dd7fee91b8279d3fc395218b3cb890a8",
+  "files": [
+    {
+      "path": "myhome/04702-a00316a42f079fec-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=203\"].SearchResults",
+      "sha256": "3d61a4527f06b4a758f6961b1d82c31ec0fdd8509441260829d7787032655e6b",
+      "bytes": 112645
+    },
+    {
+      "path": "myhome/04702-a00316a42f079fec-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=203\"] (paging fields)",
+      "sha256": "d1b0dbc5c6c05dfc372cabce14fd8d9a8a8b12014c0f7579f3bbd4e761f306b4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-kinsealy-manor-chapel-road-kinsealy-malahide-county-dublin/5027463",
+    "https://www.myhome.ie/residential/brochure/22-glencairn-crescent-the-gallops-leopardstown-dublin-18/5027525",
+    "https://www.myhome.ie/residential/brochure/applewood-croaghta-park-glasheen-cork/5027473",
+    "https://www.myhome.ie/residential/brochure/2-kelston-avenue-foxrock-dublin-18/5017589",
+    "https://www.myhome.ie/residential/brochure/baldonnel-house-on-c-3-5-acres-baldonnel-lower-baldonnel-dublin-22/5027492",
+    "https://www.myhome.ie/residential/brochure/apartment-30-la-vallee-upper-dargle-road-bray-wicklow/5027442",
+    "https://www.myhome.ie/residential/brochure/14-cherryfield-park-clonsilla-dublin-15-co-dublin/5027521",
+    "https://www.myhome.ie/residential/brochure/7-ashgrove-monadreen-thurles-co-tipperary/5027520",
+    "https://www.myhome.ie/residential/brochure/14-colthurst-mews-lucan-co-dublin/5027519",
+    "https://www.myhome.ie/residential/brochure/2-beechgrove-bracknagh-rathangan-co-offaly/5027517",
+    "https://www.myhome.ie/residential/brochure/73-pembroke-lane-ballsbridge-dublin-4/5027515",
+    "https://www.myhome.ie/residential/brochure/1-richmond-hall-drumcondra-dublin-3/5027512",
+    "https://www.myhome.ie/residential/brochure/church-street-charlestown-co-mayo/5027511",
+    "https://www.myhome.ie/residential/brochure/3-cherrington-road-shankill-dublin-18/4995988",
+    "https://www.myhome.ie/residential/brochure/rahennduff-oulart-wexford/5027499",
+    "https://www.myhome.ie/residential/brochure/apartment-12-reeves-hall-rutland-street-cork/5027500",
+    "https://www.myhome.ie/residential/brochure/22-mount-andrew-court-lucan-co-dublin/5027505",
+    "https://www.myhome.ie/residential/brochure/3-the-granary-20-temple-lane-south-temple-bar-dublin-2/4993140",
+    "https://www.myhome.ie/residential/brochure/main-street-mullagh-cavan/5027494",
+    "https://www.myhome.ie/residential/brochure/128-hillcrest-park-glasnevin-dublin-11/5027503"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=204",
+  "paginationLimited": false
+}

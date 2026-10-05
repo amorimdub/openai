@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=44",
+  "fetchedAt": "2026-10-05T09:47:07.502Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=44",
+  "kind": "search",
+  "responseSha256": "9d6ec09d69c2e5b37c1bfb271960dd90a8e50839e5bd989d79b212794756073d",
+  "files": [
+    {
+      "path": "daft/01971-5c031ad8150021fa-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "6c2250e7ddae2d60c3f1d787be9649262e07dc8cbbd21e8e9d1328cd10976e53",
+      "bytes": 306023
+    },
+    {
+      "path": "daft/01971-5c031ad8150021fa-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01971-5c031ad8150021fa-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "911ec543da98b104a8b6d594e42ff7503a26b7dbf33538732ece567089dde9bc",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/apartment-152-the-anchorage-seabourne-view-charlesland-greystones-co-wicklow/6650800",
+    "https://www.daft.ie/for-sale/termon-beg-castlerea-castlerea-co-roscommon/6651298",
+    "https://www.daft.ie/for-sale/50-tarmon-manor-castlerea-co-roscommon/6651239",
+    "https://www.daft.ie/for-sale/20-oak-manor-mountmellick-co-laois/6651450",
+    "https://www.daft.ie/for-sale/110-mourne-road-drimnagh-dublin-12/6651411",
+    "https://www.daft.ie/for-sale/cill-n-cragg-limerick-birdhill-co-tipperary/6651081",
+    "https://www.daft.ie/for-sale/25-ard-na-habhann-newtown-road-wexford-town-co-wexford/6651109",
+    "https://www.daft.ie/for-sale/16-archersleas-callan-road-kilkenny-co-kilkenny/6572478",
+    "https://www.daft.ie/for-sale/thornberry-knocksink-enniskerry-co-wicklow/6650646",
+    "https://www.daft.ie/for-sale/apartment-1-southpoint-60-main-street-co-wicklow/6650645",
+    "https://www.daft.ie/for-sale/96-eallagh-headford-headford-co-galway/6650377",
+    "https://www.daft.ie/for-sale/148-cherryfield-road-dublin-12-walkinstown-dublin-12/6637925",
+    "https://www.daft.ie/for-sale/camelot-1-ailesbury-way-ailesbury-road-dublin-4/6522284",
+    "https://www.daft.ie/for-sale/103-rathmount-blackrock-co-louth/6558259",
+    "https://www.daft.ie/for-sale/63-james-connolly-park-clondalkin-dublin-22/6650150",
+    "https://www.daft.ie/for-sale/3-father-mcsweeney-terrace-ardbrack-kinsale-co-cork/6650091",
+    "https://www.daft.ie/for-sale/7-kilmalogue-downs-portarlington-co-offaly/6649815",
+    "https://www.daft.ie/for-sale/killeen-dunshaughlin-co-meath/6645989",
+    "https://www.daft.ie/for-sale/33-crescent-court-father-griffin-road-galway-city-centre-galway/6641382",
+    "https://www.daft.ie/for-sale/glenanaar-old-hospital-road-park-wexford-town-co-wexford/6566217"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=45",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-16-hazelbrook-kilmacud-road-upper-dundrum/6683021",
+  "fetchedAt": "2026-10-05T09:02:06.908Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-16-hazelbrook-kilmacud-road-upper-dundrum/6683021",
+  "kind": "listing",
+  "responseSha256": "f2d499e859747ef529b91bfc3966c5eadefb6629ac8ec4acf967c1164fd51209",
+  "files": [
+    {
+      "path": "daft/00173-3abccb35f4f73e56-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9de03dae3a9a952b0c938450f231e5eaa5e80ef9e3d8727b4c9bd6ee92a6bcc",
+      "bytes": 70786
+    },
+    {
+      "path": "daft/00173-3abccb35f4f73e56-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1dfa4ee0386ce1f4c4be131ebb9795dd8e675478b0a21c9cce3eb68f531e79b2",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

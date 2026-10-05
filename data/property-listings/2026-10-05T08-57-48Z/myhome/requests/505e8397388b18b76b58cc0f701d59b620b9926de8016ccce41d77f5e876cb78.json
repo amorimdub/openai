@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=495",
+  "fetchedAt": "2026-10-05T14:29:35.382Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=495",
+  "kind": "search",
+  "responseSha256": "5e67a0dd2987e06fcee3c48cabafde1045682802dd1470b8893730c9ff7eabfe",
+  "files": [
+    {
+      "path": "myhome/10709-505e8397388b18b7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=495\"].SearchResults",
+      "sha256": "f52d0a02d3449d0564e6840a4c16aa6ed6acf1a4af47714be2afbec312b5b56e",
+      "bytes": 104233
+    },
+    {
+      "path": "myhome/10709-505e8397388b18b7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=495\"] (paging fields)",
+      "sha256": "23f2cd48714e43dfd7945fc356c484c6e38ea7283b933d07e87bd17be1549201",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/quinns-bar-main-street-swinford-co-mayo/5003059",
+    "https://www.myhome.ie/residential/brochure/beagh-beg-caherlistrane-co-galway/5003058",
+    "https://www.myhome.ie/residential/brochure/7-ard-na-mara-youghal-cork/5003045",
+    "https://www.myhome.ie/residential/brochure/12-park-gate-verdemont-blanchardstown-dublin-15/5002092",
+    "https://www.myhome.ie/residential/brochure/24-skibbereen-retirement-village-baltimore-road-skibbereen-cork/5003025",
+    "https://www.myhome.ie/residential/brochure/19-the-spires-clifden-co-galway/5003005",
+    "https://www.myhome.ie/residential/brochure/41-whitestrand-park-galway-county-galway/5002998",
+    "https://www.myhome.ie/residential/brochure/apartment-66-dakota-court-phibsborough-dublin-7/5002996",
+    "https://www.myhome.ie/residential/brochure/site-off-stoney-boreen-myrtleville-co-cork/5002990",
+    "https://www.myhome.ie/residential/brochure/28-park-court-grangerath-drogheda-co-louth/5002986",
+    "https://www.myhome.ie/residential/brochure/rockwall-school-house-road-rosbercon-new-ross-co-wexford/5002976",
+    "https://www.myhome.ie/residential/brochure/1-old-mill-brownsmills-kinsale-cork/5002966",
+    "https://www.myhome.ie/residential/brochure/17-slip-lawn-slip-bantry-co-cork/5002968",
+    "https://www.myhome.ie/residential/brochure/139-blackditch-road-ballyfermot-dublin-10/5002965",
+    "https://www.myhome.ie/residential/brochure/48-the-fairways-rockshire-road-waterford-city-waterford/5002944",
+    "https://www.myhome.ie/residential/brochure/westpoint-donegal-town-co-donegal/5002959",
+    "https://www.myhome.ie/residential/brochure/111-clochr-n-kilcloghans-tuam-co-galway/5002953",
+    "https://www.myhome.ie/residential/brochure/land-at-killeendaniel-whitechurch-cork/5002952",
+    "https://www.myhome.ie/residential/brochure/ballinphellic-innishannon-west-cork/5002942",
+    "https://www.myhome.ie/residential/brochure/95-dorset-street-upper-north-city-centre-dublin-1/5002923"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=496",
+  "paginationLimited": false
+}

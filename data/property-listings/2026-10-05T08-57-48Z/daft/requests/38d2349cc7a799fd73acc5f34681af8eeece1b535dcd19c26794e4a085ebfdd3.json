@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/12-william-street-kilkenny-co-kilkenny/6661019",
+  "fetchedAt": "2026-10-05T09:41:15.899Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/12-william-street-kilkenny-co-kilkenny/6661019",
+  "kind": "listing",
+  "responseSha256": "51be0ba0aaab52c0f7cb91aaea2dbae1e311e7cbb77dd458e697d78f80699d92",
+  "files": [
+    {
+      "path": "daft/01737-38d2349cc7a799fd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8d231cd4577dadfd700a29996fcc3fd03fd59ab75ac883c1a0b9eeaa19208dec",
+      "bytes": 122558
+    },
+    {
+      "path": "daft/01737-38d2349cc7a799fd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3967c984629f656958baa2dca9fe7f21625967369be6b8c8bb099712383ad235",
+      "bytes": 8157
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

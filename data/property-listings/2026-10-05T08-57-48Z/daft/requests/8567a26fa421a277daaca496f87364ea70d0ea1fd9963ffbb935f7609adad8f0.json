@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/73-abberley-square-tallaght-dublin-24/6678402",
+  "fetchedAt": "2026-10-05T09:18:56.157Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/73-abberley-square-tallaght-dublin-24/6678402",
+  "kind": "listing",
+  "responseSha256": "89c9af913e51fe169226b99a392730adc718b70fe192b597266bbd4c3d019d9f",
+  "files": [
+    {
+      "path": "daft/00845-8567a26fa421a277-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "571f0415190556689bfdaab4b33f3fd71ed339eb12e1c85feb55ad43cf8df07f",
+      "bytes": 35753
+    },
+    {
+      "path": "daft/00845-8567a26fa421a277-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "04170d8d1cd9aaa43e475c1db6f2de3f8978b12872a888ae48edf008db4bec87",
+      "bytes": 8152
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

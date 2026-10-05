@@ -1,0 +1,448 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "4 corr castle howth road howth co dublin",
+    "GroupId": 5565,
+    "Address": "4 Corr Castle, Howth Road",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e1a119f6-2544-4043-8133-bb31b1e75bdc_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e1a119f6-2544-4043-8133-bb31b1e75bdc_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e1a119f6-2544-4043-8133-bb31b1e75bdc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d5ed1cad-889c-4c79-ab6c-278b0f053567_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7adcef2a-6c15-4a50-a7d9-e03fa2388afb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/f76a9192-3e48-4893-879a-1f8c6abb8488_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/10cbaf5a-0c20-4d73-a6df-90d8c34b86da_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9b6c0f4b-4de9-451d-b774-b1b257a17ae2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/922f26b9-d217-462d-9220-7dacee723c9a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/1417f1f8-4d6d-4e17-b8f1-b22d0780784b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/115f7555-eb8a-413f-8d3b-0c91feb6b4de_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/dc9b0c67-54b3-4e55-a98d-9b8d61d0a9cb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/3212c69f-4756-49db-895f-6684932ebd08_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9c3eb21d-bdf7-471c-938f-ab727e56948c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9e78af74-afa9-4da3-8dd9-8497b3ba2013_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/2311aea6-9ba1-4d17-a2a0-ce1c6e9aa8b8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7eb3d9e3-2b6e-4185-9f88-10cace9c9cda_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d742b426-76ac-4101-ae7b-e5f9071e0597_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a185c87-3395-4bf4-b3c8-748f6fe23c98_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/0e90d227-8c8a-4cae-9948-001bb62f4921_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d443b082-9de4-40a0-8d65-81969e86ba55_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/da8e84c2-831f-4a3e-b93c-d50d6afd3fdd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e7e60a19-4f68-4636-8e51-c77ad8056cb3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a8f12dd-4c74-4020-9030-49c96b489e64_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/73a922fc-f947-4307-8c86-e166a516318f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/b3371e7d-43af-4c22-b433-61e541830cec_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 247,
+    "MaxSize": 247,
+    "BerRating": "B",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "\nDistinguished Coastal Residence in an Exclusive Gated Setting.\nSet within a private, secure gated development along the prestigious Howth Road, this exceptional four-bedroom semi-detached family home combines generous proportions, elegant interiors, and a superb coastal location. Extending to approximately 247 sq.m (2,658 sq.ft.), the property is presented in excellent condition throughout and is further enhanced by a magnificent south-west facing rear garden, offering exceptional privacy and all-day sunshine.\nArranged over three spacious levels, the accommodation has been thoughtfully designed to cater for modern family living. A welcoming entrance hall leads to a guest WC, a comfortable family room, and an impressive interconnecting living room, creating a wonderful balance of formal and informal living space. To the rear, the generously proportioned kitchen/dining room forms the heart of the home, while both the kitchen and living room open into a large wraparound conservatory overlooking the beautifully maintained gardens. A separate utility room adds further practicality.\nThe first floor comprises three large double bedrooms, including a principal bedroom with en-suite, together with a stylish family shower room. The top floor provides a superb fourth double bedroom suite with its own en-suite bathroom, offering ideal accommodation for guests, older children, or a luxurious main bedroom retreat.\nOutside, the property enjoys a private driveway with ample car parking and a wonderfully secluded rear garden benefiting from a highly sought-after south-westerly aspect. The mature landscaped grounds surrounding the development create an attractive and peaceful environment, while modern comforts include gas-fired central heating, double-glazed windows, alarm system, and intercom access.\nThe location is simply outstanding. Positioned between the villages of Howth and Sutton, residents enjoy the very best of coastal living, with beaches, scenic cliff and harbour walks, cafés, restaurants, and a wealth of leisure amenities all within easy reach. Excellent transport links include nearby bus routes and both Howth and Sutton DART stations, while a selection of highly regarded primary and secondary schools serve the area. Golf, sailing, rugby, tennis, and a range of sports clubs are all close by, together with the leisure facilities at Sutton Cross including a gym, swimming pool, and spa.\nRarely does a home of this calibre, size, and setting come to the market. Offering spacious family accommodation within a prestigious gated coastal community, it presents a unique opportunity to acquire an exceptional home in one of North Dublin's most desirable residential locations."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "\nHall - \nSemi-solid timber floor, coving, recess lights, alarm control panel, phone point, under stairs storage, intercom.\n\nWC - 1.4m x 1.5m\nWHB with cabinet, WC, tiled floor, heated towel rail radiator, recess lights, extractor fan.\n\nFamily Room - 3.5m x 3.9m\nSemi-solid timber floor, coving, recess lights, built-in shelving display, box bay window, French doors through to ..\n\nLiving Room - 6.76m x 4.8m\nSemi-solid timber floor, coal effect gas fire, built-in shelving display, coving, recess lights, French doors out to conservatory, French doors through to...\n\nKitchen/Dining Room - 4.4m x 6.8m\nFitted kitchen, integrated double oven, microwave, 5 ring gas hob, extractor fan, integrated dish washer and fridge / freezer, island, with stone style counter tops, tiled floor, recess lights, French doors out to conservatory.\n\nUtility Room - 2.4m x 1.5m\nFitted cabinets with counter tops, sink, plumbed for washing machine, space for condenser dryer, tiled floor, recess lights.\n\nConservatory - 10.4m x 3.1m\nWrap around conservatory, tiled floor, stove, 2 x French doors out to rear garden.\n\nFirst Floor - \n\n\nLanding - \nHot press, recess lights, build in desk with shelving display.\n\nBedroom 1 - 4.4m x 4.8m\nFitted wardrobes, recess lights, tv point, walk-through wardrobes, recess lights.\n\nEnsuite - 2.1m x 1.8m\nWHB with cabinet, WC, corner shower, fully tiled, heated towel rail, recess lights, extractor fan.\n\nBedroom 2 - 3.6m x 4.0m\nFitted wardrobes, recess lights, French doors out to balcony with sea views.\n\nBedroom 3 - 3.8m x 4.5m\nFitted wardrobes.\n\nShower Room - 3.5m x 3.3m\nWHB with cabinet, WC, walk-in shower, heated towel rail radiator, tiled floor, part tiled walls, wood paneling, recess lights, extractor fan, wall lights.\n\nSecond Floor - \n\n\nLanding - 0.9m x 4.7m\nSide window, recess lights.\n\nBedroom 4 - 5.5m x 3.9m\nFitted wardrobes, dormer box bay window, skylight, acces to eaves storage.\n\nEnsuite - 2.5m x 1.6m\nWHB with cabinet, WC, bath with rain shower, fully tiled, heated towel rail, velux window.\n\nOutside - \n\n\nFront Garden - \nPrivate cobble-lock driveway with off street parking for 2 cars, gated side entrance plus an additional designated parking space, also visitor parking spaces.\n\nRear Garden - \nSouth west facing, not overlooked, walled, lawn, landscaped flower beds, steel shed, garden lighting, outdoor tap.\n\n"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "<ul><li> Exclusive secure gated development.</li><li> Approx. 247 sq.m / 2,658 sq.ft.</li><li> Four double bedrooms.</li><li> Three bathrooms plus guest WC</li><li> Three-storey semi-detached residence</li><li> Two elegant reception rooms</li><li> Large wraparound conservatory</li><li> Spacious kitchen/dining room</li><li> Separate utility room</li><li> South-west facing private rear garden</li><li> Private driveway with parking for three cars</li><li> Gas-fired central heating</li><li> Double-glazed windows</li><li> Alarm and intercom system</li><li> Landscaped communal grounds</li><li>-Secure, gated development</li><li> Minutes from beaches, DART stations, Howth and Sutton villages</li><li> Management fee approximately 1,300 per annum</ul>"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B\nBER No: 119847994\nEnergy Performance Indicator: 120.12 kwh/m2/yr"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "David R Blanc"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 602276,
+    "MinEnergyRating": 105,
+    "MaxEnergyRating": 105,
+    "BERGrade": "B",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-09-17T08:59:28.4200000+01:00",
+    "ModifiedOnDate": "2026-09-18T09:37:12.3400000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-17T08:59:28.4200000+01:00",
+    "RefreshedOn": "2026-09-17T08:59:28.4200000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+    "IsTransact": false,
+    "PriceAsString": "€1,250,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5028655,
+    "BedsString": "4 beds",
+    "SizeStringMeters": 247,
+    "DisplayAddress": "4 Corr Castle, Howth Road, Howth, Co. Dublin",
+    "Eircode": "D13X821",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Semi-Detached House",
+    "PropertyTypeId": 38,
+    "RegionId": 1463,
+    "RegionName": "Dublin 13",
+    "LocalityId": 1312,
+    "LocalityName": "Howth",
+    "Price": {
+      "MinPrice": 1250000,
+      "MaxPrice": 1250000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e1a119f6-2544-4043-8133-bb31b1e75bdc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e1a119f6-2544-4043-8133-bb31b1e75bdc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e1a119f6-2544-4043-8133-bb31b1e75bdc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d5ed1cad-889c-4c79-ab6c-278b0f053567_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d5ed1cad-889c-4c79-ab6c-278b0f053567_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d5ed1cad-889c-4c79-ab6c-278b0f053567_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7adcef2a-6c15-4a50-a7d9-e03fa2388afb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7adcef2a-6c15-4a50-a7d9-e03fa2388afb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7adcef2a-6c15-4a50-a7d9-e03fa2388afb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/f76a9192-3e48-4893-879a-1f8c6abb8488_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/f76a9192-3e48-4893-879a-1f8c6abb8488_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/f76a9192-3e48-4893-879a-1f8c6abb8488_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/10cbaf5a-0c20-4d73-a6df-90d8c34b86da_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/10cbaf5a-0c20-4d73-a6df-90d8c34b86da_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/10cbaf5a-0c20-4d73-a6df-90d8c34b86da_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9b6c0f4b-4de9-451d-b774-b1b257a17ae2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9b6c0f4b-4de9-451d-b774-b1b257a17ae2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9b6c0f4b-4de9-451d-b774-b1b257a17ae2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/922f26b9-d217-462d-9220-7dacee723c9a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/922f26b9-d217-462d-9220-7dacee723c9a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/922f26b9-d217-462d-9220-7dacee723c9a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/1417f1f8-4d6d-4e17-b8f1-b22d0780784b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/1417f1f8-4d6d-4e17-b8f1-b22d0780784b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/1417f1f8-4d6d-4e17-b8f1-b22d0780784b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/115f7555-eb8a-413f-8d3b-0c91feb6b4de_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/115f7555-eb8a-413f-8d3b-0c91feb6b4de_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/115f7555-eb8a-413f-8d3b-0c91feb6b4de_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/dc9b0c67-54b3-4e55-a98d-9b8d61d0a9cb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/dc9b0c67-54b3-4e55-a98d-9b8d61d0a9cb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/dc9b0c67-54b3-4e55-a98d-9b8d61d0a9cb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/3212c69f-4756-49db-895f-6684932ebd08_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/3212c69f-4756-49db-895f-6684932ebd08_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/3212c69f-4756-49db-895f-6684932ebd08_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9c3eb21d-bdf7-471c-938f-ab727e56948c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9c3eb21d-bdf7-471c-938f-ab727e56948c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9c3eb21d-bdf7-471c-938f-ab727e56948c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9e78af74-afa9-4da3-8dd9-8497b3ba2013_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9e78af74-afa9-4da3-8dd9-8497b3ba2013_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/9e78af74-afa9-4da3-8dd9-8497b3ba2013_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/2311aea6-9ba1-4d17-a2a0-ce1c6e9aa8b8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/2311aea6-9ba1-4d17-a2a0-ce1c6e9aa8b8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/2311aea6-9ba1-4d17-a2a0-ce1c6e9aa8b8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7eb3d9e3-2b6e-4185-9f88-10cace9c9cda_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7eb3d9e3-2b6e-4185-9f88-10cace9c9cda_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7eb3d9e3-2b6e-4185-9f88-10cace9c9cda_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d742b426-76ac-4101-ae7b-e5f9071e0597_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d742b426-76ac-4101-ae7b-e5f9071e0597_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d742b426-76ac-4101-ae7b-e5f9071e0597_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a185c87-3395-4bf4-b3c8-748f6fe23c98_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a185c87-3395-4bf4-b3c8-748f6fe23c98_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a185c87-3395-4bf4-b3c8-748f6fe23c98_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/0e90d227-8c8a-4cae-9948-001bb62f4921_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/0e90d227-8c8a-4cae-9948-001bb62f4921_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/0e90d227-8c8a-4cae-9948-001bb62f4921_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d443b082-9de4-40a0-8d65-81969e86ba55_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d443b082-9de4-40a0-8d65-81969e86ba55_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/d443b082-9de4-40a0-8d65-81969e86ba55_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/da8e84c2-831f-4a3e-b93c-d50d6afd3fdd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/da8e84c2-831f-4a3e-b93c-d50d6afd3fdd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/da8e84c2-831f-4a3e-b93c-d50d6afd3fdd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e7e60a19-4f68-4636-8e51-c77ad8056cb3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e7e60a19-4f68-4636-8e51-c77ad8056cb3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/e7e60a19-4f68-4636-8e51-c77ad8056cb3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a8f12dd-4c74-4020-9030-49c96b489e64_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a8f12dd-4c74-4020-9030-49c96b489e64_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/4a8f12dd-4c74-4020-9030-49c96b489e64_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/73a922fc-f947-4307-8c86-e166a516318f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/73a922fc-f947-4307-8c86-e166a516318f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/73a922fc-f947-4307-8c86-e166a516318f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/b3371e7d-43af-4c22-b433-61e541830cec_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/b3371e7d-43af-4c22-b433-61e541830cec_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/b3371e7d-43af-4c22-b433-61e541830cec_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/bb272fac-1b40-4db5-95bf-1d15ade5344e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/bb272fac-1b40-4db5-95bf-1d15ade5344e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/bb272fac-1b40-4db5-95bf-1d15ade5344e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7af1a354-36d4-4452-8b5d-0685cb828d41_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7af1a354-36d4-4452-8b5d-0685cb828d41_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7af1a354-36d4-4452-8b5d-0685cb828d41_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/eb121f33-50e1-4dbd-8004-deafcc1eca3b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/eb121f33-50e1-4dbd-8004-deafcc1eca3b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/5/6/5028655/eb121f33-50e1-4dbd-8004-deafcc1eca3b_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.094074,
+      "latitude": 53.389916
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 27,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/bb272fac-1b40-4db5-95bf-1d15ade5344e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/7af1a354-36d4-4452-8b5d-0685cb828d41_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/5/6/5028655/eb121f33-50e1-4dbd-8004-deafcc1eca3b_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "86776b6f-c723-4581-8773-9b02942cde66",
+        "Filename": "https://www.youtube.com/embed/1bkhf6VAAyM",
+        "Caption": "https://www.youtube.com/watch?v=1bkhf6VAAyM",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5565,
+    "Name": "Sherry FitzGerald Sutton",
+    "DisplayPhone": "01 839 4022",
+    "Email": "sutton@sherryfitz.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "sherry-fitzgerald-sutton",
+    "SeoName": "sherry-fitzgerald-sutton",
+    "Address": "11 Howth Road, Sutton Cross, Dublin 13",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/5/6/5/5565/logo.jpg",
+    "SalesLicense": "002183",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "howth/1312",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4993526,
+      "Address": "66 Balkhill Park , Howth, Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/2/5/4993526/d4ef52e3-7b88-4861-b665-912cf5a71a89_t.jpg",
+      "HasWebP": false,
+      "Price": 650000,
+      "PrevPrice": 710000,
+      "PriceChangeDelta": -60000,
+      "PriceChangePercentage": -8.4507,
+      "Created": "17th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E1.png",
+      "BerRating": "E1",
+      "SeoUrl": "/residential/brochure/66-balkhill-park-howth-dublin/4993526",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4955096,
+      "Address": "9 Dungriffin Villas, Howth,   Dublin 13",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/0/4955096/ffd2348a-e1d5-42f1-b8fb-8e28a92a7408_t.jpg",
+      "HasWebP": false,
+      "Price": 865000,
+      "PrevPrice": 850000,
+      "PriceChangeDelta": 15000,
+      "PriceChangePercentage": 1.7647,
+      "Created": "10th Mar 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/9-dungriffin-villas-howth-dublin-13/4955096",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/4-corr-castle-howth-road-howth-co-dublin/5028655",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 602276,
+    "Name": "David R Blanc",
+    "JobTitle": "Director",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/6/7/2/602276/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5565,
+    "MYH_LocalityID": 1312,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1463,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Central Heating",
+      "Garden",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Central Heating,Garden,Alarm",
+    "MYH_MaxPrice": 1250000,
+    "MYH_MinBeds": 4,
+    "MYH_MinEnergyRating": 105,
+    "MYH_MinPrice": 1250000,
+    "MYH_MinSize": 247,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5028655,
+    "MYH_PropertyTypeID": 38
+  }
+}

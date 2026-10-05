@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=220",
+  "fetchedAt": "2026-10-05T12:07:50.369Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=220",
+  "kind": "search",
+  "responseSha256": "9d8cd63e726fbe9744a54f25363f48c260bc0da719b7ffef63fb938173ec77af",
+  "files": [
+    {
+      "path": "myhome/05056-4a842b263a0f39aa-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=220\"].SearchResults",
+      "sha256": "5d5d57808dcfe6e390361ee693d2b40aac018a2f0f6d142333f5ee8fb2436067",
+      "bytes": 118000
+    },
+    {
+      "path": "myhome/05056-4a842b263a0f39aa-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=220\"] (paging fields)",
+      "sha256": "3e4f888a2d08b2eee712db967cbb49e7dc09259a177cdb8300dd76402487a999",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-woodville-rise-woodville-grange-athlone-co-westmeath/5027043",
+    "https://www.myhome.ie/residential/brochure/23-the-mills-old-navan-road-castleknock-dublin-15/5027036",
+    "https://www.myhome.ie/residential/brochure/arderawinny-schull-west-cork/5026931",
+    "https://www.myhome.ie/residential/brochure/1-chestnut-grove-tulsk-roscommon/5027040",
+    "https://www.myhome.ie/residential/brochure/3-scabeg-south-douglas-road-cork-city-cork/5026942",
+    "https://www.myhome.ie/residential/brochure/garveys-dew-drop-inn-market-square-charlestown-mayo/5027039",
+    "https://www.myhome.ie/residential/brochure/elderberry-court-shannon-road-sixmilebridge-clare/4977667",
+    "https://www.myhome.ie/residential/brochure/34-ard-thomain-limerick-county-limerick/5027038",
+    "https://www.myhome.ie/residential/brochure/elderberry-court-shannon-road-sixmilebridge-sixmilebridge-clare/5015117",
+    "https://www.myhome.ie/residential/brochure/72-allen-park-road-stillorgan-co-dublin/5027037",
+    "https://www.myhome.ie/residential/brochure/dun-na-coille-sixmilebridge-clare/4982823",
+    "https://www.myhome.ie/residential/brochure/22-cherryfield-drive-walkinstown-dublin-12/5027028",
+    "https://www.myhome.ie/residential/brochure/apartment-4-corry-shannon-court-carrick-on-shannon-leitrim/5027030",
+    "https://www.myhome.ie/residential/brochure/33-casement-drive-finglas-dublin-11-d11-ck8r/5027034",
+    "https://www.myhome.ie/residential/brochure/203-cappagh-road-finglas-dublin-11/5027033",
+    "https://www.myhome.ie/residential/brochure/cloonfane-charlestown-mayo/5027032",
+    "https://www.myhome.ie/residential/brochure/23-malone-gardens-sandymount-dublin-4/4995074",
+    "https://www.myhome.ie/residential/brochure/arburn-35-ballykeeffe-estate-dooradoyle-limerick/5027025",
+    "https://www.myhome.ie/residential/brochure/66-mangerton-road-drimnagh-dublin-12/4996452",
+    "https://www.myhome.ie/residential/brochure/30-st-laurence-park-drogheda-louth/5026781"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=221",
+  "paginationLimited": false
+}

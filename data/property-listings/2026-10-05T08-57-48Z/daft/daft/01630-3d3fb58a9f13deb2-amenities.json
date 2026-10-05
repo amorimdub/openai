@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SANDFORD PARISH NATIONAL SCHOOL",
+      "numPupils": 200,
+      "distance": {
+        "value": 0.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320880",
+        "lon": "-6.248163"
+      }
+    },
+    {
+      "schoolName": "KILDARE PLACE NATIONAL SCHOOL",
+      "numPupils": 191,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318540",
+        "lon": "-6.263615"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE",
+      "numPupils": 368,
+      "distance": {
+        "value": 1.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321865",
+        "lon": "-6.257225"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL LIOS NA NÓG",
+      "numPupils": 177,
+      "distance": {
+        "value": 1.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322155",
+        "lon": "-6.256788"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S NATIONAL SCHOOL CLONSKEAGH",
+      "numPupils": 192,
+      "distance": {
+        "value": 1.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301624",
+        "lon": "-6.249926"
+      }
+    },
+    {
+      "schoolName": "SAINT MARY'S NATIONAL SCHOOL",
+      "numPupils": 607,
+      "distance": {
+        "value": 1.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321064",
+        "lon": "-6.238921"
+      }
+    },
+    {
+      "schoolName": "ST PETERS SPECIAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 1.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310867",
+        "lon": "-6.269135"
+      }
+    },
+    {
+      "schoolName": "MUSLIM NATIONAL SCHOOL",
+      "numPupils": 423,
+      "distance": {
+        "value": 1.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303960",
+        "lon": "-6.234226"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S GROVE PRIMARY SCHOOL",
+      "numPupils": 417,
+      "distance": {
+        "value": 1.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.299950",
+        "lon": "-6.235786"
+      }
+    },
+    {
+      "schoolName": "STRATFORD NATIONAL SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 1.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309647",
+        "lon": "-6.274854"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ALEXANDRA COLLEGE",
+      "numPupils": 666,
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310493",
+        "lon": "-6.250001"
+      }
+    },
+    {
+      "schoolName": "GONZAGA COLLEGE SJ",
+      "numPupils": 573,
+      "distance": {
+        "value": 0.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316814",
+        "lon": "-6.249398"
+      }
+    },
+    {
+      "schoolName": "SANDFORD PARK SCHOOL",
+      "numPupils": 432,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322197",
+        "lon": "-6.250193"
+      }
+    },
+    {
+      "schoolName": "MUCKROSS PARK COLLEGE",
+      "numPupils": 712,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321667",
+        "lon": "-6.242540"
+      }
+    },
+    {
+      "schoolName": "THE TERESIAN SCHOOL",
+      "numPupils": 239,
+      "distance": {
+        "value": 1.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314938",
+        "lon": "-6.227954"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S GROVE SECONDARY SCHOOL",
+      "numPupils": 312,
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.300720",
+        "lon": "-6.235050"
+      }
+    },
+    {
+      "schoolName": "RATHMINES COLLEGE",
+      "numPupils": 55,
+      "distance": {
+        "value": 1.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324078",
+        "lon": "-6.264987"
+      }
+    },
+    {
+      "schoolName": "STRATFORD COLLEGE",
+      "numPupils": 191,
+      "distance": {
+        "value": 1.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309700",
+        "lon": "-6.274313"
+      }
+    },
+    {
+      "schoolName": "ST KILIAN'S DEUTSCHE SCHULE",
+      "numPupils": 478,
+      "distance": {
+        "value": 1.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303800",
+        "lon": "-6.229181"
+      }
+    },
+    {
+      "schoolName": "ST. LOUIS HIGH SCHOOL",
+      "numPupils": 684,
+      "distance": {
+        "value": 1.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321392",
+        "lon": "-6.270394"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Alexandra College",
+      "route": "44D",
+      "destination": "O'Connell Street",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.311166",
+        "lon": "-6.248162"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Alexandra College",
+      "route": "44",
+      "destination": "Enniskerry",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.311152",
+        "lon": "-6.247863"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bankside Cottages",
+      "route": "S4",
+      "destination": "UCD Belfield",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310269",
+        "lon": "-6.247103"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glenmalure Square",
+      "route": "44",
+      "destination": "Enniskerry",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314266",
+        "lon": "-6.246264"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glenmalure Square",
+      "route": "44D",
+      "destination": "Dundrum Luas",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314266",
+        "lon": "-6.246264"
+      }
+    },
+    {
+      "type": "Tram",
+      "stop": "Milltown",
+      "route": "Green",
+      "destination": "Parnell",
+      "provider": "LUAS",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.30967244",
+        "lon": "-6.251749984"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Shangarry",
+      "route": "S4",
+      "destination": "UCD Belfield",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.30928",
+        "lon": "-6.2498"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Milltown Luas",
+      "route": "S4",
+      "destination": "Liffey Valley SC",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.308248",
+        "lon": "-6.252664"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Milltown Road",
+      "route": "44",
+      "destination": "Enniskerry",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.315851",
+        "lon": "-6.245269"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Milltown Road",
+      "route": "44D",
+      "destination": "Dundrum Luas",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.315851",
+        "lon": "-6.245269"
+      }
+    }
+  ]
+}

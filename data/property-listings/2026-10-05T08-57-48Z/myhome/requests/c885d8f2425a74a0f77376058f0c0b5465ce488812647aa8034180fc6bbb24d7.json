@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=470",
+  "fetchedAt": "2026-10-05T14:16:36.754Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=470",
+  "kind": "search",
+  "responseSha256": "bc36f01fa4608770787a506edc19d5a36e1c24fe7d85a487eb2d96cb4983e0ce",
+  "files": [
+    {
+      "path": "myhome/10191-c885d8f2425a74a0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=470\"].SearchResults",
+      "sha256": "a24f6912c1c681b2bdbdddf196a8097cae0628d61df0af20ac6216815855e0f1",
+      "bytes": 126887
+    },
+    {
+      "path": "myhome/10191-c885d8f2425a74a0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=470\"] (paging fields)",
+      "sha256": "fad821f1509d913501636dc8d85bfa504cf0ff45200d2fd7fb93a57a3c50f4e9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/new-build-at-ballybrusa-west-ardmore-grange-co-waterford/5006269",
+    "https://www.myhome.ie/residential/brochure/2-academy-street-navan-meath/4948955",
+    "https://www.myhome.ie/residential/brochure/apt-2-castle-yard-enniscorthy-county-wexford/5006258",
+    "https://www.myhome.ie/residential/brochure/apartment-36-temple-court-dominick-street-upper-dublin-7-north-city-centre-dublin-7/5006101",
+    "https://www.myhome.ie/residential/brochure/kilcoe-new-westfields-north-circular-road-limerick/4999137",
+    "https://www.myhome.ie/residential/brochure/elgin-lodge-crosscoolharbour-blessington-wicklow/4997853",
+    "https://www.myhome.ie/residential/brochure/gortnacooheen-ballyshrule-portumna-co-galway/4999778",
+    "https://www.myhome.ie/residential/brochure/the-old-school-house-carnalway-kilcullen-kildare/5006239",
+    "https://www.myhome.ie/residential/brochure/beechwood-house-newtownpilsworth-maganey-kildare/5006236",
+    "https://www.myhome.ie/residential/brochure/19a-bealach-na-gaoithe-tuam-co-galway/5006232",
+    "https://www.myhome.ie/residential/brochure/36-the-anchorage-clarence-street-dun-laoghaire-co-dublin/5006230",
+    "https://www.myhome.ie/residential/brochure/castletown-kilberry-navan-meath/4986352",
+    "https://www.myhome.ie/residential/brochure/8-ardevan-grove-monasterevin-kildare/5006190",
+    "https://www.myhome.ie/residential/brochure/11-ailesbury-park-newbridge-co-kildare/5006198",
+    "https://www.myhome.ie/residential/brochure/181-ardilaun-portmarnock-dublin/5005907",
+    "https://www.myhome.ie/residential/brochure/3-rathmore-the-links-portmarnock-dublin/5005888",
+    "https://www.myhome.ie/residential/brochure/29-ellensborough-court-kiltipper-road-dublin-24/5006186",
+    "https://www.myhome.ie/residential/brochure/curraghdobbin-carrick-on-suir-tipperary/5006181",
+    "https://www.myhome.ie/residential/brochure/upper-church-st-listowel-co-kerry/5006132",
+    "https://www.myhome.ie/residential/brochure/130-clonlara-kerry-pike-co-cork/5006129"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=471",
+  "paginationLimited": false
+}

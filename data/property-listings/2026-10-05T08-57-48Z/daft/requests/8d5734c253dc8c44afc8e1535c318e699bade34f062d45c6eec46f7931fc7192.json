@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ardbeg-road-artane-dublin-5/6685786",
+  "fetchedAt": "2026-10-05T09:34:24.426Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ardbeg-road-artane-dublin-5/6685786",
+  "kind": "listing",
+  "responseSha256": "ee9ff288ae5e7409bb1d58b73df5dfe8381a2996b5a085392ecd90f638acac45",
+  "files": [
+    {
+      "path": "daft/01463-8d5734c253dc8c44-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "08b66126305e434bfb14f2a95f0e9a4747365a0e9a5c4202047bfdaea10a1992",
+      "bytes": 42348
+    },
+    {
+      "path": "daft/01463-8d5734c253dc8c44-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "28935bbcb321c01873c082d21e23afcbbdf5030263a93a2e8618db8190e8f9d3",
+      "bytes": 7964
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/15-maple-lawns-oldtown-demesne-naas-co-kildare/6686835",
+  "fetchedAt": "2026-10-05T09:25:58.224Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/15-maple-lawns-oldtown-demesne-naas-co-kildare/6686835",
+  "kind": "listing",
+  "responseSha256": "90fc63b376ffc62efbb368b40076e60c7243712cffd59104c1eb78753ba80bfe",
+  "files": [
+    {
+      "path": "daft/01126-1dfe3087c703f71c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "76bbb089a71eae550da4ad80625e25fa8101498c92eaf488fd1011f8ece3e33d",
+      "bytes": 29923
+    },
+    {
+      "path": "daft/01126-1dfe3087c703f71c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "778c4b315e81f3c4b9a625c045d37051eed72170b2b46e2cb9640339d203370b",
+      "bytes": 8127
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

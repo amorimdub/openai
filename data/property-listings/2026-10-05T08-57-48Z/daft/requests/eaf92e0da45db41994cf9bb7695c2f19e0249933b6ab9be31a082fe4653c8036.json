@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/main-street-kilkelly-co-mayo/6652004",
+  "fetchedAt": "2026-10-05T09:20:02.224Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/main-street-kilkelly-co-mayo/6652004",
+  "kind": "listing",
+  "responseSha256": "49444628ae8c904f99495e4b466553d0c045c48ba54ca4d4eb7da4a185b19e6c",
+  "files": [
+    {
+      "path": "daft/00889-eaf92e0da45db419-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4ecdda768003dbc7a70c07a7970d9858ff9e4bb36a730f09fda0d7b4feac7a15",
+      "bytes": 45905
+    },
+    {
+      "path": "daft/00889-eaf92e0da45db419-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9f7422f9b0db09f55cea737cfdf04cb3d6033a201ff407363f69afe0d7a43567",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

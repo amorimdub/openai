@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=349",
+  "fetchedAt": "2026-10-05T13:14:27.019Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=349",
+  "kind": "search",
+  "responseSha256": "fc08f703f1fa1f6b26d8e66f67348e11d6085db54c32c37810afcb530df1e066",
+  "files": [
+    {
+      "path": "myhome/07710-b61c79b132972adf-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=349\"].SearchResults",
+      "sha256": "1fb5b4e4b59664d4484ef4ffe14f79418b311657db49254998ce5b9cbe74b890",
+      "bytes": 110956
+    },
+    {
+      "path": "myhome/07710-b61c79b132972adf-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=349\"] (paging fields)",
+      "sha256": "edd88d7ebb078611f576a94d3df0fc93d44252f7e960e2fdde9f23e0f1a4a0de",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/gurtnageara-doon-limerick/5018756",
+    "https://www.myhome.ie/residential/brochure/rathmore-baltimore-cork/5019778",
+    "https://www.myhome.ie/residential/brochure/rahyvira-annacarty-donohill-tipperary/5019628",
+    "https://www.myhome.ie/residential/brochure/81-embassy-manor-kill-co-kildare/5019817",
+    "https://www.myhome.ie/residential/brochure/blackditch-newcastle-co-wicklow/5019815",
+    "https://www.myhome.ie/residential/brochure/4-oliver-plunkett-road-kells-meath/5019809",
+    "https://www.myhome.ie/residential/brochure/no-9-laurel-grove-tagoat-wexford/5019799",
+    "https://www.myhome.ie/residential/brochure/128-silverlawn-navan-meath/5019788",
+    "https://www.myhome.ie/residential/brochure/9-old-bundoran-road-sligo-sligo/5019768",
+    "https://www.myhome.ie/residential/brochure/glackbawn-glencar-sligo/5019376",
+    "https://www.myhome.ie/residential/brochure/the-beeches-drumcrin-kingscourt-co-cavan-a82k702/5019520",
+    "https://www.myhome.ie/residential/brochure/27-archers-wood-drive-delgany-wicklow/5014065",
+    "https://www.myhome.ie/residential/brochure/1-dean-cogan-place-navan-co-meath/5019771",
+    "https://www.myhome.ie/residential/brochure/519-mill-race-broadford-co-kildare-broadford-kildare/5019766",
+    "https://www.myhome.ie/residential/brochure/ballinaclose-kilmainhamwood-kells-county-meath/5019764",
+    "https://www.myhome.ie/residential/brochure/kiltipper-road-dublin-24/5019758",
+    "https://www.myhome.ie/residential/brochure/2-and-2a-park-terrace-sea-road-ferrybank-arklow-wicklow/4985967",
+    "https://www.myhome.ie/residential/brochure/apartment-1-inbhear-mews-old-chapel-ground-arklow-wicklow/4999319",
+    "https://www.myhome.ie/residential/brochure/glenogue-ballyfad-gorey-wexford/5005506",
+    "https://www.myhome.ie/residential/brochure/39-tinahask-arklow-wicklow/5019756"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=350",
+  "paginationLimited": false
+}

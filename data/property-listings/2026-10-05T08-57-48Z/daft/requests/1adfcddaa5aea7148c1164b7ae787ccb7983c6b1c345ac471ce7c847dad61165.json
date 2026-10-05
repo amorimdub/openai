@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/lilac-cottage-knocknagroagh-ballyvaughan-co-clare/6669513",
+  "fetchedAt": "2026-10-05T09:30:51.200Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/lilac-cottage-knocknagroagh-ballyvaughan-co-clare/6669513",
+  "kind": "listing",
+  "responseSha256": "bcabc895f884a1ddbf89cdb804f147efff1d9181d330717664cbfdab832d6b72",
+  "files": [
+    {
+      "path": "daft/01321-1adfcddaa5aea714-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fa98d5ca94e4a8e6bb73a0a468584278fee678defd3b01ccc5f81029a89ec1af",
+      "bytes": 63653
+    },
+    {
+      "path": "daft/01321-1adfcddaa5aea714-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5468bf28ba2f6b15301c6fe0261755facf88e0a756bbded30b039d71966016bd",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

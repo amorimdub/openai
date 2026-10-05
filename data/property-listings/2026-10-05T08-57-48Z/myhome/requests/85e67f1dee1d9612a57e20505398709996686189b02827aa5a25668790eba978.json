@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=227",
+  "fetchedAt": "2026-10-05T12:11:31.321Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=227",
+  "kind": "search",
+  "responseSha256": "b4ebde7e8df7bb37247d1ef0e60249744e6b02ce175178ad7a1180a3b3e18936",
+  "files": [
+    {
+      "path": "myhome/05203-85e67f1dee1d9612-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=227\"].SearchResults",
+      "sha256": "098d898548cbcec726fedaba5d24ccce1cc17a8204370f74c3f3afd89d2fa2e6",
+      "bytes": 119247
+    },
+    {
+      "path": "myhome/05203-85e67f1dee1d9612-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=227\"] (paging fields)",
+      "sha256": "08a4ca657200ab3392d46afbbd1965b6518973edb8657a618ccc5a9c172774c4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-whitebeam-avenue-clonskeagh-dublin-14/5026853",
+    "https://www.myhome.ie/residential/brochure/13-stradbrook-grove-blackrock-county-dublin/5022108",
+    "https://www.myhome.ie/residential/brochure/apartment-2-sidney-court-wellington-road-cork-city/4996337",
+    "https://www.myhome.ie/residential/brochure/64-castlelawn-heights-headford-road-galway/5026845",
+    "https://www.myhome.ie/residential/brochure/apt-26-block-c-church-court-naas-county-kildare/5011273",
+    "https://www.myhome.ie/residential/brochure/18-millbank-square-sallins-county-kildare/5021898",
+    "https://www.myhome.ie/residential/brochure/moneylahan-ballintrillick-co-sligo/4905431",
+    "https://www.myhome.ie/residential/brochure/belmont-road-castleconnell-limerick-county-limerick/5026840",
+    "https://www.myhome.ie/residential/brochure/76-glendale-lawn-old-singland-road-limerick-county-limerick/5026839",
+    "https://www.myhome.ie/residential/brochure/apartment-37-barons-hall-park-balbriggan-dublin/5026311",
+    "https://www.myhome.ie/residential/brochure/deerpark-mountrath-portlaoise-co-laois/5026838",
+    "https://www.myhome.ie/residential/brochure/47-chapel-lane-swords-dublin/5026835",
+    "https://www.myhome.ie/residential/brochure/11-cathedral-walk-latlorcan-monaghan-co-monaghan-monaghan-town-monaghan/5021424",
+    "https://www.myhome.ie/residential/brochure/132-carrig-court-saggart-citywest-dublin-24/5026685",
+    "https://www.myhome.ie/residential/brochure/11-belarmine-close-stepaside-dublin-18/5026832",
+    "https://www.myhome.ie/residential/brochure/lands-chapel-road-stradbally-co-waterford/4952805",
+    "https://www.myhome.ie/residential/brochure/springmount-house-church-road-greystones-co-wicklow/5026833",
+    "https://www.myhome.ie/residential/brochure/10-the-willows-dunstaffnage-hall-stillorgan-county-dublin/5026830",
+    "https://www.myhome.ie/residential/brochure/31a-glenageary-lodge-glenageary-co-dublin/5017151",
+    "https://www.myhome.ie/residential/brochure/23-mapas-road-dalkey-co-dublin/5018886"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=228",
+  "paginationLimited": false
+}

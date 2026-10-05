@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-15-priory-hall-dublin-road-drogheda-co-louth/6643599",
+  "fetchedAt": "2026-10-05T09:20:45.770Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-15-priory-hall-dublin-road-drogheda-co-louth/6643599",
+  "kind": "listing",
+  "responseSha256": "41c1411bf62cee77b651a6c2dfb8bdc727e91866726b841cfebbee2ef7dbee6f",
+  "files": [
+    {
+      "path": "daft/00918-0d903bc09fef6e62-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4eaa518bc513a7112bebc4a964e657629400d1d5759b4d03e36bfce4cc0fb20e",
+      "bytes": 48640
+    },
+    {
+      "path": "daft/00918-0d903bc09fef6e62-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8bcdc3b9c393c8846ac2ddeb1b6fc96dd6b7f3c932325db85292240305352716",
+      "bytes": 8175
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

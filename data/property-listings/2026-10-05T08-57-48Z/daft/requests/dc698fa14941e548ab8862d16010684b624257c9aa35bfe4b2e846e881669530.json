@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/21-shanowen-road-dublin-9-santry-dublin-9/6665828",
+  "fetchedAt": "2026-10-05T09:37:53.149Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/21-shanowen-road-dublin-9-santry-dublin-9/6665828",
+  "kind": "listing",
+  "responseSha256": "9686a895abf43ca0af4ed108b0d73b677bfa2d54896762f8ee8515618dfbf4d9",
+  "files": [
+    {
+      "path": "daft/01602-dc698fa14941e548-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ed699e0e2f32969d64d7556e82b4295ff4a4c23e166a7c0d36a059dc634f4ec8",
+      "bytes": 51437
+    },
+    {
+      "path": "daft/01602-dc698fa14941e548-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9e5ca3eae29bb0886fd174eac28cde392bc3686f3caebd4f9f47f0d6f5ce5169",
+      "bytes": 8092
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-a-2a-jamestown-road-inchicore-dublin-8/6676707",
+  "fetchedAt": "2026-10-05T09:12:37.651Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-a-2a-jamestown-road-inchicore-dublin-8/6676707",
+  "kind": "listing",
+  "responseSha256": "85197f98e34270729e46f2b3e819ff31eacc0688055711ae07ef9d7d80ce608d",
+  "files": [
+    {
+      "path": "daft/00593-9947181fdd310c75-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bb28e4c1dacf235655bbbaa8dffc698a9764ef9c67cf5e7cb2557411e1d1339c",
+      "bytes": 13639
+    },
+    {
+      "path": "daft/00593-9947181fdd310c75-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fa612062312ed67af68d4bb7e8f0162234d46b3e278b4b8f03a1983aba873912",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

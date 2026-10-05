@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=47",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=47",
+  "fetchedAt": "2026-10-05T09:36:06.345Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "cd3ada45180bad3d2ef09fe93d61c02ecd5d583bfad7689d13700e6c25d230f9",
+  "files": [
+    {
+      "path": "myhome/01526-50fdde65cbef2ad8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=47\"].SearchResults",
+      "sha256": "53301aa0b0bfce90bf2e839ddd208d3215e330982aa1e2440b1a04ba27a0b095",
+      "bytes": 116670
+    },
+    {
+      "path": "myhome/01526-50fdde65cbef2ad8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=47\"] (paging fields)",
+      "sha256": "4e68d152e9453ce39b109929a511c7f2614cb908cfc7789cbc84f2d1f3ca730c",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/claremount-clarecastle-ennis-co-clare/5031463",
+    "https://www.myhome.ie/residential/brochure/10-mahony-s-place-cork-city-cork/5031454",
+    "https://www.myhome.ie/residential/brochure/11-rugby-road-ranelagh-dublin-6/5031460",
+    "https://www.myhome.ie/residential/brochure/38-hampton-grace-park-road-drumcondra-dublin-9/5002239",
+    "https://www.myhome.ie/residential/brochure/25-strand-road-baldoyle-dublin-13/4995530",
+    "https://www.myhome.ie/residential/brochure/keady-galleon-stillorgan-park-blackrock-co-dublin/5018875",
+    "https://www.myhome.ie/residential/brochure/the-old-lodge-thormanby-road-howth-county-dublin/5004839",
+    "https://www.myhome.ie/residential/brochure/67-foster-avenue-mount-merrion-co-dublin/5024888",
+    "https://www.myhome.ie/residential/brochure/15-church-gate-greystones-co-wicklow/5031457",
+    "https://www.myhome.ie/residential/brochure/coleridge-mariners-cove-howth-county-dublin/5015807",
+    "https://www.myhome.ie/residential/brochure/35-geraldine-street-phibsborough-dublin-7/5031455",
+    "https://www.myhome.ie/residential/brochure/100-mulvey-park-dundrum-dublin-14/5026659",
+    "https://www.myhome.ie/residential/brochure/3-oak-hall-the-hill-malahide-dublin/5024506",
+    "https://www.myhome.ie/residential/brochure/46-the-terrace-robswall-malahide-co-dublin/5026121",
+    "https://www.myhome.ie/residential/brochure/whiting-bay-ardmore-waterford/5031440",
+    "https://www.myhome.ie/residential/brochure/17-the-shore-seamount-rise-apartments-malahide-co-dublin/5027467",
+    "https://www.myhome.ie/residential/brochure/126-chapel-park-kinnegad-westmeath/5031453",
+    "https://www.myhome.ie/residential/brochure/199-dun-na-coiribe-headford-road-galway/5031420",
+    "https://www.myhome.ie/residential/brochure/10-the-granary-bailick-road-midleton-cork/5001695",
+    "https://www.myhome.ie/residential/brochure/1-elm-park-kildare-town-kildare/5018987"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=48",
+  "paginationLimited": false
+}

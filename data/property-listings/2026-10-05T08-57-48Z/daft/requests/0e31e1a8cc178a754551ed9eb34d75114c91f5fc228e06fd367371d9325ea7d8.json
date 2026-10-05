@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/49-carrowmore-drive-knock-co-mayo/6665519",
+  "fetchedAt": "2026-10-05T09:37:15.610Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/49-carrowmore-drive-knock-co-mayo/6665519",
+  "kind": "listing",
+  "responseSha256": "1f0332e214691f3985b7447a5c7c01ac710eb5dd2843e37cf5a2c9334f4cc4fb",
+  "files": [
+    {
+      "path": "daft/01577-0e31e1a8cc178a75-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dce94ec4efb1215d503cd4eea95fe63caa224b39c7c2b064617603919572c8ff",
+      "bytes": 75685
+    },
+    {
+      "path": "daft/01577-0e31e1a8cc178a75-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cb7e8be5af7aeef4b15a459ae7d35a2582ae833b492f565aac5b4e45180b54eb",
+      "bytes": 8032
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

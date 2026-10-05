@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=31",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=31",
+  "fetchedAt": "2026-10-05T09:26:45.978Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "c99af7843e35d785982552238c7858a4558d870f630288a352d06eed4fbd5e03",
+  "files": [
+    {
+      "path": "myhome/01153-d5b7c2e1fbd28341-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=31\"].SearchResults",
+      "sha256": "fb76980a02549ef2619d19957f5489f4f8269307a1de6e7c0d638a1dcb1e55dc",
+      "bytes": 106821
+    },
+    {
+      "path": "myhome/01153-d5b7c2e1fbd28341-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=31\"] (paging fields)",
+      "sha256": "c6ec2b57cbb327463416f68d056d1f76646a2de09253309c34621daf8951d3c3",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/14-carrig-green-carraig-na-curra-carrigaline-cork/5029573",
+    "https://www.myhome.ie/residential/brochure/5-fairfield-green-farranree-cork-city/5031719",
+    "https://www.myhome.ie/residential/brochure/38-saint-anne-s-kimmage-dublin-12/5031696",
+    "https://www.myhome.ie/residential/brochure/glenageary-road-upper-glenageary-county-dublin/5031716",
+    "https://www.myhome.ie/residential/brochure/55-merrion-strand-sandymount-dublin-4/4997177",
+    "https://www.myhome.ie/residential/brochure/84-clonmore-hale-street-ardee-louth/5031713",
+    "https://www.myhome.ie/residential/brochure/2-dispensary-lane-rathfarnham-dublin-14/5031654",
+    "https://www.myhome.ie/residential/brochure/east-cottage-tulligmore-ballinhassig-cork/5031019",
+    "https://www.myhome.ie/residential/brochure/121-the-stiles-road-clontarf-dublin-3/5031361",
+    "https://www.myhome.ie/residential/brochure/8-lea-crescent-sandymount-dublin-4/5031579",
+    "https://www.myhome.ie/residential/brochure/glenanaar-old-hospital-road-park-wexford-town-wexford/4998588",
+    "https://www.myhome.ie/residential/brochure/rockville-manor-kilternan-dublin-18/4908480",
+    "https://www.myhome.ie/residential/brochure/friar-s-walk-abbeyside-dungarvan-co-waterford/5031715",
+    "https://www.myhome.ie/residential/brochure/41-fairview-close-drumcondra-dublin-3/4984794",
+    "https://www.myhome.ie/residential/brochure/219-woodfield-scholarstown-road-rathfarnham-dublin-16/5028795",
+    "https://www.myhome.ie/residential/brochure/apartment-13-the-paddocks-knockaulin-leixlip-co-kildare/5031714",
+    "https://www.myhome.ie/residential/brochure/4-castleland-court-balbriggan-co-dublin/5031709",
+    "https://www.myhome.ie/residential/brochure/11-canterbrook-trim-road-navan-meath/5021544",
+    "https://www.myhome.ie/residential/brochure/sunmount-25-lynn-avenue-mullingar-westmeath/5022967",
+    "https://www.myhome.ie/residential/brochure/71-bailis-manor-navan-athlumney-navan-meath/5025778"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=32",
+  "paginationLimited": false
+}

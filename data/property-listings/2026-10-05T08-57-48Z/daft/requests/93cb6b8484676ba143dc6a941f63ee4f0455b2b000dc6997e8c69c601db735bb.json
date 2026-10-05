@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/stockwell-sandyford-road-dundrum-dublin-16/6683214",
+  "fetchedAt": "2026-10-05T09:50:10.837Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/stockwell-sandyford-road-dundrum-dublin-16/6683214",
+  "kind": "listing",
+  "responseSha256": "1cec75964decb2721a2b749e30c4a47c224c3bac6296e9858187eacad27473db",
+  "files": [
+    {
+      "path": "daft/02093-93cb6b8484676ba1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "eeeeb94a014bfb46c46766a4100da4764524e1141913249389deed32292f4f92",
+      "bytes": 42401
+    },
+    {
+      "path": "daft/02093-93cb6b8484676ba1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "86291470e8a7552d0d96e31b22f8608ed344373db860f0c435c4622f38c5bacf",
+      "bytes": 8083
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

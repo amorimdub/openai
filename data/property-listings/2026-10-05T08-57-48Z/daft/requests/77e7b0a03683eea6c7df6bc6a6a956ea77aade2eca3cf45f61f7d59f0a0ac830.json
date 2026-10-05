@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/12-irishtown-central-golden-island-athlone-co-westmeath/6685550",
+  "fetchedAt": "2026-10-05T09:35:41.013Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/12-irishtown-central-golden-island-athlone-co-westmeath/6685550",
+  "kind": "listing",
+  "responseSha256": "8b08bb566dcee7c8916c90c4aac0b84bb57b497404418bc284665f5345b33242",
+  "files": [
+    {
+      "path": "daft/01514-77e7b0a03683eea6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "62ab2de73b21febc409a4c39fbea2e697d2869f5be8b17901b40344f36cf4a61",
+      "bytes": 43686
+    },
+    {
+      "path": "daft/01514-77e7b0a03683eea6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "281b081d4c31113200ffece7ad9825882dfd79ed30973bd6a00f95630e2bd927",
+      "bytes": 8059
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

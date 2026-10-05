@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=359",
+  "fetchedAt": "2026-10-05T13:19:27.643Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=359",
+  "kind": "search",
+  "responseSha256": "4febd1cda096f950635c6c4f6f0da9d226ff6b2a3d5ef9c1f0de7fc9fcece8a8",
+  "files": [
+    {
+      "path": "myhome/07910-6e8ea00c9b62c59d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=359\"].SearchResults",
+      "sha256": "322b8214e02147fecfcba96360481980337b190047b33f2f20ab3c60fe64f590",
+      "bytes": 118970
+    },
+    {
+      "path": "myhome/07910-6e8ea00c9b62c59d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=359\"] (paging fields)",
+      "sha256": "3e97b3fde928df916f32389a07b2ff85f0544683463682ea618ef63ae32d9702",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/castleboy-auburn-dublin-road-athlone-co-westmeath/5019229",
+    "https://www.myhome.ie/residential/brochure/rose-lodge-leganara-road-kentstown-meath/5019007",
+    "https://www.myhome.ie/residential/brochure/roseville-east-end-ballybunion-co-kerry/5014208",
+    "https://www.myhome.ie/residential/brochure/70-the-avenue-meadowvale-arklow-wicklow/5019209",
+    "https://www.myhome.ie/residential/brochure/rushveala-oughterard-co-galway/5019221",
+    "https://www.myhome.ie/residential/brochure/24-cluain-cairn-station-road-carrigtwohill-cork/5019210",
+    "https://www.myhome.ie/residential/brochure/55-glendale-grove-glasheen-cork/5019196",
+    "https://www.myhome.ie/residential/brochure/53-kilcronan-avenue-clondalkin-dublin-22/4999161",
+    "https://www.myhome.ie/residential/brochure/1-westfield-view-ashbourne-meath/4990232",
+    "https://www.myhome.ie/residential/brochure/45-seabury-glen-malahide-co-dublin/5019205",
+    "https://www.myhome.ie/residential/brochure/10-glasnevin-court-glasnevin-dublin-11/5019198",
+    "https://www.myhome.ie/residential/brochure/34-grenville-dublin-road-portlaoise-co-laois/5019197",
+    "https://www.myhome.ie/residential/brochure/cappagh-beg-kinvara-county-galway/5019190",
+    "https://www.myhome.ie/residential/brochure/water-lane-castlepollard-mullingar-co-westmeath/5019186",
+    "https://www.myhome.ie/residential/brochure/11-castlefield-stonebridge-dromahair-leitrim/5019184",
+    "https://www.myhome.ie/residential/brochure/81-derrygreenagh-park-rochfortbridge-westmeath/5019180",
+    "https://www.myhome.ie/residential/brochure/martry-house-navan-co-meath/5002969",
+    "https://www.myhome.ie/residential/brochure/4-burnaby-park-greystones-co-wicklow/5019178",
+    "https://www.myhome.ie/residential/brochure/23-convent-st-listowel-co-kerry/5019163",
+    "https://www.myhome.ie/residential/brochure/killaveenogue-drinagh-west-cork/5006506"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=360",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=361",
+  "fetchedAt": "2026-10-05T13:20:27.762Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=361",
+  "kind": "search",
+  "responseSha256": "ac19a35f37d157d7e219796c962d3ecdf587faa44e6c7b95e2b621449d5edd10",
+  "files": [
+    {
+      "path": "myhome/07950-a0c016ba2decf9bd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=361\"].SearchResults",
+      "sha256": "a73cf774398180dcaadd2d003e04edd773d7c9c1730167fd9fe2eeee43d90f15",
+      "bytes": 121378
+    },
+    {
+      "path": "myhome/07950-a0c016ba2decf9bd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=361\"] (paging fields)",
+      "sha256": "724b0cf9ed42b65437a26ae90d06f6c58b3cde14af86c9719964799a3cb7a6a0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-beeves-toomdeely-askeaton-limerick/4976825",
+    "https://www.myhome.ie/residential/brochure/c-irt-eorna-ballyboughal-co-dublin/4962698",
+    "https://www.myhome.ie/residential/brochure/64-ballygossan-park-skerries-co-dublin/5004069",
+    "https://www.myhome.ie/residential/brochure/49-tayleurs-point-rush-co-dublin/5006159",
+    "https://www.myhome.ie/residential/brochure/glebe-house-castle-ellis-the-ballagh-co-wexford/5001419",
+    "https://www.myhome.ie/residential/brochure/sheelin-lough-road-milford-co-donegal/4981970",
+    "https://www.myhome.ie/residential/brochure/47-kimmage-road-lower-harold-s-cross-dublin-6w/4988911",
+    "https://www.myhome.ie/residential/brochure/cloosh-kinvara-co-galway/5019158",
+    "https://www.myhome.ie/residential/brochure/ballintlea-south-cratloe-county-clare/5019155",
+    "https://www.myhome.ie/residential/brochure/28-rosewood-rise-bandon-cork/5019151",
+    "https://www.myhome.ie/residential/brochure/7-sessiagh-park-castlefin-co-donegal/5019150",
+    "https://www.myhome.ie/residential/brochure/main-street-clonmellon-county-westmeath/5019147",
+    "https://www.myhome.ie/residential/brochure/2-cuan-na-tr-kerrykeel-donegal/5019143",
+    "https://www.myhome.ie/residential/brochure/meenlougher-killygordon-donegal/5019142",
+    "https://www.myhome.ie/residential/brochure/corcreggan-dunfanaghy-co-donegal/5019140",
+    "https://www.myhome.ie/residential/brochure/14-comeragh-crescent-dungarvan-waterford/5019136",
+    "https://www.myhome.ie/residential/brochure/2-charnwood-grove-clonsilla-dublin/5019135",
+    "https://www.myhome.ie/residential/brochure/34-ceanann-view-carnamuggagh-upper-letterkenny-co-donegal/5019128",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-minnistown-drogheda-louth/5019119",
+    "https://www.myhome.ie/residential/brochure/15-tully-green-cherrywood-dublin-18/5019123"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=362",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/5a-killakee-drive-walkinstown-dublin-12/6685190",
+  "fetchedAt": "2026-10-05T09:02:08.409Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/5a-killakee-drive-walkinstown-dublin-12/6685190",
+  "kind": "listing",
+  "responseSha256": "67ed55fe12b9fcd1923014d9dcf503fd9ad347d6c32f93758e82c9633e5726b1",
+  "files": [
+    {
+      "path": "daft/00174-9835057e7f91a787-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "925911bee61245b4c60ccc6a2e1b0e70c258012859f7274521dacedaca8bea89",
+      "bytes": 56919
+    },
+    {
+      "path": "daft/00174-9835057e7f91a787-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8e4dc67cbb08c14c723dfca5f37bb20addf215c515556e7854f72b92a1e81ba8",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

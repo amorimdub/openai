@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-24-brookfield-donnybrook-dublin-4/6667929",
+  "fetchedAt": "2026-10-05T09:33:54.395Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-24-brookfield-donnybrook-dublin-4/6667929",
+  "kind": "listing",
+  "responseSha256": "3f0ac8f6560c1e2da2322855c7fca847c02ae09d2ef51748cf8656786a83ee1e",
+  "files": [
+    {
+      "path": "daft/01443-faf18e6b657560dd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d9e1afce96106ab4de6b419f34773b6c9f68a9e014dc6e16403968c3a7dbe063",
+      "bytes": 42889
+    },
+    {
+      "path": "daft/01443-faf18e6b657560dd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5c79030d43bacce5cabc46dd50ecb2a8c85fccf97a18722c2e85615565d2bae4",
+      "bytes": 8072
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

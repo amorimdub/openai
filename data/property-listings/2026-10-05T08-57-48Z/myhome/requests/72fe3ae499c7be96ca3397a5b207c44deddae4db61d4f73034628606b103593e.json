@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=415",
+  "fetchedAt": "2026-10-05T13:48:25.798Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=415",
+  "kind": "search",
+  "responseSha256": "7c1f481b4399a3f28e8adee04c22e1eaa45b1c63852fa48fe465cc406f87e43f",
+  "files": [
+    {
+      "path": "myhome/09066-72fe3ae499c7be96-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=415\"].SearchResults",
+      "sha256": "0aa9772101d56d2c48b27d74ceac187a05d51c8a8d35a795dcdb3ed22fb7a985",
+      "bytes": 103627
+    },
+    {
+      "path": "myhome/09066-72fe3ae499c7be96-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=415\"] (paging fields)",
+      "sha256": "5a5d42a7d6e036089b291de1aa17933b50173656bc0e5d861bbef2c953cb7777",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/29-fleurville-carysfort-avenue-co-dublin/5012265",
+    "https://www.myhome.ie/residential/brochure/no-35-stronveele-glenville-road-wexford-town-wexford/5012262",
+    "https://www.myhome.ie/residential/brochure/curraghanav-ballyduff-waterford/5012244",
+    "https://www.myhome.ie/residential/brochure/cornamona-village-cornamona-galway/5012217",
+    "https://www.myhome.ie/residential/brochure/lot-3-forestry-at-newtown-bonnettstown-co-kilkenny/5012228",
+    "https://www.myhome.ie/residential/brochure/lot-2-land-at-newtown-bonnettstown-co-kilkenny/5012207",
+    "https://www.myhome.ie/residential/brochure/liamor-ballinacubby-kinsale-co-cork/5012196",
+    "https://www.myhome.ie/residential/brochure/14-c-il-d-in-avenue-citywest-co-dublin/5012182",
+    "https://www.myhome.ie/residential/brochure/8-rosebank-court-ninth-lock-road-clondalkin-dublin-22/5011209",
+    "https://www.myhome.ie/residential/brochure/180-charlesland-grove-charlesland-greystones-wicklow/5011392",
+    "https://www.myhome.ie/residential/brochure/2c-city-gate-sligo-sligo/5012058",
+    "https://www.myhome.ie/residential/brochure/east-commons-ardfert-tralee-co-kerry/5012045",
+    "https://www.myhome.ie/residential/brochure/13-the-belfry-kilbarrack-road-kilbarrack-dublin-5/5011982",
+    "https://www.myhome.ie/residential/brochure/apartment-13-blackhall-square-dublin-7-dublin/5012024",
+    "https://www.myhome.ie/residential/brochure/apartment-82-hampton-square-dublin-7-navan-road/5012029",
+    "https://www.myhome.ie/residential/brochure/3-castleview-park-kinvara-co-galway/5012027",
+    "https://www.myhome.ie/residential/brochure/38-castlegrounds-cummer-corofin-co-galway/5012021",
+    "https://www.myhome.ie/residential/brochure/31-seskin-view-road-old-bawn-dublin-24/5012019",
+    "https://www.myhome.ie/residential/brochure/lot-1-land-at-newtown-bonnettstown-co-kilkenny/5012014",
+    "https://www.myhome.ie/residential/brochure/61-wilford-court-bray-dublin-south-county/5012001"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=416",
+  "paginationLimited": false
+}

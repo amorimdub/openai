@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/channonrock-chanonrock-co-louth/6669302",
+  "fetchedAt": "2026-10-05T09:14:18.311Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/channonrock-chanonrock-co-louth/6669302",
+  "kind": "listing",
+  "responseSha256": "33a50796f7abcd641d62f316d95743248f645bd5008c85c479a59afdc6e4d558",
+  "files": [
+    {
+      "path": "daft/00660-94ef711bf07f01ad-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ffd8a10757789b1b8f6dd3670a8e39b871eb6481c5c0b9ab9539e1fe0cbdd686",
+      "bytes": 8584
+    },
+    {
+      "path": "daft/00660-94ef711bf07f01ad-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "440bd9d1bf228de0ff8321ccd8ec6d046e70690996556cfdb86fbb58b256b760",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

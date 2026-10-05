@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=35",
+  "fetchedAt": "2026-10-05T09:38:21.683Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=35",
+  "kind": "search",
+  "responseSha256": "7ccb938a96e2a2f21e681a1784298482ccbc8266141994a59a15913d7e3030a0",
+  "files": [
+    {
+      "path": "daft/01621-91bea37558629cee-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "4c69864c5df38409707b6fc3a0833831cecbe18848313e97fcb0ae73297f4cdf",
+      "bytes": 271126
+    },
+    {
+      "path": "daft/01621-91bea37558629cee-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01621-91bea37558629cee-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "0a870272134fe47036422e2dec8b916601a88a49fb871c495ce9f3ce6b05f78b",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/longmeadow-islandbridge-dublin-8/6685071",
+    "https://www.daft.ie/for-rent/apartment-7-vale-view-apartments-main-street-stradbally-portlaoise-co-laois/6685044",
+    "https://www.daft.ie/for-rent/apartment-149-wyckham-point-dundrum-dublin-16/6685035",
+    "https://www.daft.ie/for-rent/6-sarsfield-quay-apartments-liffey-street-west-arbour-hill-dublin-7/6684983",
+    "https://www.daft.ie/for-rent/meath-road-bray-co-wicklow-bray-co-wicklow/6667643",
+    "https://www.daft.ie/for-rent/mount-prospect-house-dollymount-dublin-3/6684990",
+    "https://www.daft.ie/for-rent/coill-rua-dohassan-cootehill-co-cavan/6684995",
+    "https://www.daft.ie/for-rent/bishop-street-tuam-co-galway/6684982",
+    "https://www.daft.ie/for-rent/2-saint-lappans-place-little-island-little-island-co-cork/6684978",
+    "https://www.daft.ie/for-rent/-dromard-apartments-summerhill-co-meath/6684981",
+    "https://www.daft.ie/for-rent/the-dock-mill-grand-mill-quay-grand-canal-dock-dublin-4/6684953",
+    "https://www.daft.ie/for-rent/13-the-village-green-ratoath-ratoath-co-meath/6684913",
+    "https://www.daft.ie/for-rent/apartment-73-forbes-quay-apartments-grand-canal-dock-dublin-2/6684922",
+    "https://www.daft.ie/for-rent/1-fountain-view-bailieborough-bailieborough-co-cavan/6684920",
+    "https://www.daft.ie/for-rent/38-glenina-gort-road-ennis-co-clare/6684931",
+    "https://www.daft.ie/for-rent/apartment-1-aldborough-court-north-strand-dublin-1/6684918",
+    "https://www.daft.ie/for-rent/allendale-square-clonsilla-dublin-15/6684928",
+    "https://www.daft.ie/for-rent/the-crescent-building-parkwest-park-west-dublin-12/6684929",
+    "https://www.daft.ie/for-rent/millrace-green-saggart-co-dublin/6684902",
+    "https://www.daft.ie/for-rent/apartment-28-downview-t12pf86-victoria-cross-co-cork/6684871"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=36",
+  "paginationLimited": false
+}

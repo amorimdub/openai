@@ -1,0 +1,419 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "apartment 63 cremorne greenmount road terenure dublin",
+    "GroupId": 389546,
+    "Address": "Apartment 63, Cremorne, Greenmount Road",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f5c47d29-78eb-41e3-b825-61063d18947d_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f5c47d29-78eb-41e3-b825-61063d18947d_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f5c47d29-78eb-41e3-b825-61063d18947d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2cff1532-3d70-48a7-89e5-4a4b312040fa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/95d41d5c-46eb-4824-81be-41fecab6a761_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/7726eb1f-57cc-419c-8734-e4de04b7729a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/39835008-cac1-4d74-99fc-2cd313d410f8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/753881a3-a831-480f-bd75-d257295220e8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d9185d2f-c6f9-4cb3-9dbc-6336d20c9e0c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d039392b-bed3-41a0-b7ed-c187cb075c5b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/187db156-9190-4f70-9175-cd2fc34a40a8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0e666bf4-3cf7-4d86-840e-73b5465be07c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d432bed2-ee50-4db2-ba19-0399724e8d4f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/78d7eaa9-9db3-48b9-946a-1f4112b98166_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/64626c32-65c1-4e7f-8890-a5474268dbfd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0ced1b6a-6428-41a9-bfad-6d4edc3132a8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/9d3baedc-d776-40fd-ae97-d70aa3a63067_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/bcc1764d-00e4-4e9c-a102-42bb3f6b7289_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/a19baa84-3747-4582-bf8d-ed8830921b4e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/24cd9638-db92-4c0b-b0c1-1e06c0bedf64_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f86ece7b-7223-4037-abd5-529495c12e1f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2e6bf320-56f7-4521-8732-5dc704d9fd58_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d72d2994-b636-4857-8abe-c7f5ba9502cd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/9/1/5023195/ba756ee2-49bb-45e8-971d-4587d3a2c0ea_l.png"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 60,
+    "MaxSize": 60,
+    "BerRating": "D",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 20,
+        "Name": "Wheelchair Access",
+        "CreatedOn": "2018-03-20T10:30:38.1270000+00:00",
+        "IconName": "myh-icon-wheelchair-access",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Marion Earner and LWK Premium Collection are delighted to introduce Apartment 63, Cremorne, Greenmount Road, Terenure, to the market.\r\n\r\nNestled within the highly regarded Cremorne development, this superb ground-floor apartment enjoys a peaceful and private setting just off Greenmount Road, in the heart of Terenure.This is a rare opportunity to acquire a bright, spacious and beautifully presented one-bedroom apartment in one of Dublin’s most sought-after residential locations.\r\n\r\nExtensively upgraded in recent years, the apartment is presented in excellent condition with a stylish, contemporary feel throughout. Improvements include PVC double-glazed windows, new flooring, new energy-efficient electric heating, a modern fully fitted kitchen and a beautifully appointed bathroom. Clever storage solutions have also been incorporated throughout the property.\r\n\r\nEnjoying  a private, tranquil outlook, the apartment is not overlooked and provides a wonderful sense of peace and privacy. Bright and generously proportioned throughout, it offers an excellent balance of comfort, space and convenience.\r\n\r\nThe accommodation briefly comprises a welcoming entrance hall with excellent storage, an exceptionally generous living/dining room with ample space for a home office or work-from-home area, a separate modern fully fitted kitchen, a contemporary fully tiled bathroom and a large double bedroom with built-in wardrobes. The property also benefits from smart electric heating and a parking space.\r\n\r\nThe location is second to none, with both Terenure and Rathgar Villages within a short stroll. Cremorne is surrounded by an excellent selection of local shops, cafés, restaurants and everyday amenities. The extensive recreational facilities of Bushy Park are also within easy walking distance, while the property enjoys convenient access to the M50 and Dublin city centre. A wide range of bus routes provides excellent public transport connections.\r\n\r\nApartment 63 is an ideal home for a variety of purchasers, including first-time buyers, downsizers and investors seeking a quality property in a prime south Dublin location. With its generous proportions, extensive recent upgrades, peaceful landscaped setting and superb village location, this is a property that is sure to appeal to the discerning purchaser.\r\n\r\nEarly viewing is highly recommended to fully appreciate the quality, space and excellent location this wonderful apartment has to offer.\r\n\r\n***All information provided is to the best of our knowledge. The utmost of care and attention has been placed on providing factual and correct information. In certain cases some information may have been provided by the vendor to us. We do not hold any responsibility for mistakes, errors or inaccuracies in our online advertising and give each and every viewer the right to get an opinion on any concern they may have***"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: D"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 684727,
+    "MinEnergyRating": 55,
+    "MaxEnergyRating": 55,
+    "BERGrade": "D",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-08-21T10:50:24.9800000+01:00",
+    "ModifiedOnDate": "2026-08-24T08:41:16.5330000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-21T15:38:19.8800000+01:00",
+    "RefreshedOn": "2026-08-21T15:38:19.8800000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D.png",
+    "IsTransact": false,
+    "PriceAsString": "€389,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5023195,
+    "BedsString": "1 bed",
+    "SizeStringMeters": 60,
+    "DisplayAddress": "Apartment 63, Cremorne, Greenmount Road, Terenure, Dublin",
+    "Eircode": "D06A890",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1265,
+    "RegionName": "Dublin 6",
+    "LocalityId": 1415,
+    "LocalityName": "Terenure",
+    "Price": {
+      "MinPrice": 389000,
+      "MaxPrice": 389000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f5c47d29-78eb-41e3-b825-61063d18947d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f5c47d29-78eb-41e3-b825-61063d18947d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f5c47d29-78eb-41e3-b825-61063d18947d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2cff1532-3d70-48a7-89e5-4a4b312040fa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2cff1532-3d70-48a7-89e5-4a4b312040fa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2cff1532-3d70-48a7-89e5-4a4b312040fa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/95d41d5c-46eb-4824-81be-41fecab6a761_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/95d41d5c-46eb-4824-81be-41fecab6a761_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/95d41d5c-46eb-4824-81be-41fecab6a761_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/7726eb1f-57cc-419c-8734-e4de04b7729a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/7726eb1f-57cc-419c-8734-e4de04b7729a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/7726eb1f-57cc-419c-8734-e4de04b7729a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/39835008-cac1-4d74-99fc-2cd313d410f8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/39835008-cac1-4d74-99fc-2cd313d410f8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/39835008-cac1-4d74-99fc-2cd313d410f8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/753881a3-a831-480f-bd75-d257295220e8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/753881a3-a831-480f-bd75-d257295220e8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/753881a3-a831-480f-bd75-d257295220e8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d9185d2f-c6f9-4cb3-9dbc-6336d20c9e0c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d9185d2f-c6f9-4cb3-9dbc-6336d20c9e0c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d9185d2f-c6f9-4cb3-9dbc-6336d20c9e0c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d039392b-bed3-41a0-b7ed-c187cb075c5b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d039392b-bed3-41a0-b7ed-c187cb075c5b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d039392b-bed3-41a0-b7ed-c187cb075c5b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/187db156-9190-4f70-9175-cd2fc34a40a8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/187db156-9190-4f70-9175-cd2fc34a40a8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/187db156-9190-4f70-9175-cd2fc34a40a8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0e666bf4-3cf7-4d86-840e-73b5465be07c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0e666bf4-3cf7-4d86-840e-73b5465be07c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0e666bf4-3cf7-4d86-840e-73b5465be07c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d432bed2-ee50-4db2-ba19-0399724e8d4f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d432bed2-ee50-4db2-ba19-0399724e8d4f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d432bed2-ee50-4db2-ba19-0399724e8d4f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/78d7eaa9-9db3-48b9-946a-1f4112b98166_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/78d7eaa9-9db3-48b9-946a-1f4112b98166_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/78d7eaa9-9db3-48b9-946a-1f4112b98166_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/64626c32-65c1-4e7f-8890-a5474268dbfd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/64626c32-65c1-4e7f-8890-a5474268dbfd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/64626c32-65c1-4e7f-8890-a5474268dbfd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0ced1b6a-6428-41a9-bfad-6d4edc3132a8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0ced1b6a-6428-41a9-bfad-6d4edc3132a8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/0ced1b6a-6428-41a9-bfad-6d4edc3132a8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/9d3baedc-d776-40fd-ae97-d70aa3a63067_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/9d3baedc-d776-40fd-ae97-d70aa3a63067_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/9d3baedc-d776-40fd-ae97-d70aa3a63067_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/bcc1764d-00e4-4e9c-a102-42bb3f6b7289_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/bcc1764d-00e4-4e9c-a102-42bb3f6b7289_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/bcc1764d-00e4-4e9c-a102-42bb3f6b7289_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/a19baa84-3747-4582-bf8d-ed8830921b4e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/a19baa84-3747-4582-bf8d-ed8830921b4e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/a19baa84-3747-4582-bf8d-ed8830921b4e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/24cd9638-db92-4c0b-b0c1-1e06c0bedf64_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/24cd9638-db92-4c0b-b0c1-1e06c0bedf64_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/24cd9638-db92-4c0b-b0c1-1e06c0bedf64_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f86ece7b-7223-4037-abd5-529495c12e1f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f86ece7b-7223-4037-abd5-529495c12e1f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/f86ece7b-7223-4037-abd5-529495c12e1f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2e6bf320-56f7-4521-8732-5dc704d9fd58_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2e6bf320-56f7-4521-8732-5dc704d9fd58_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/2e6bf320-56f7-4521-8732-5dc704d9fd58_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d72d2994-b636-4857-8abe-c7f5ba9502cd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d72d2994-b636-4857-8abe-c7f5ba9502cd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/d72d2994-b636-4857-8abe-c7f5ba9502cd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/ba756ee2-49bb-45e8-971d-4587d3a2c0ea_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/ba756ee2-49bb-45e8-971d-4587d3a2c0ea_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/9/1/5023195/ba756ee2-49bb-45e8-971d-4587d3a2c0ea_m.png"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.27879,
+      "latitude": 53.3100518
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 22,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "2b8e445b-54bd-4e73-b608-9d4a7edbf26e",
+        "Filename": "https://youtube.com/embed/SBKx5OKo-Zg",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "59d0de31-d1a2-4122-adc3-13cc063427c3",
+        "Filename": "https://my.matterport.com/show/?m=FzzL7UBj3Vc",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 389546,
+    "Name": "LWK Premium Collection",
+    "DisplayPhone": "+353 153 10 777",
+    "Email": "premiumcollection@lwk.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "lwk-premium-collection-ltd",
+    "SeoName": "lwk-premium-collection-ltd",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/6/4/5/389546/logo.jpg",
+    "SalesLicense": "003566",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "terenure/1415",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5025410,
+      "Address": "Corrib Rd, Terenure, Dublin 6W",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/1/4/5025410/decd98f3-7acf-4a5c-b4e8-954a621c493c_t.jpg",
+      "HasWebP": false,
+      "Price": 575000,
+      "PrevPrice": 595000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -3.3613,
+      "Created": "23rd Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D2.png",
+      "BerRating": "D2",
+      "SeoUrl": "/residential/brochure/corrib-rd-terenure-dublin-6w/5025410",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/apartment-63-cremorne-greenmount-road-terenure-dublin/5023195",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 684727,
+    "Name": "Marion Earner",
+    "Email": "marion@lwk.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/7/2/7/684727/profile.jpg",
+    "Licence": "010204"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 389546,
+    "MYH_LocalityID": 1415,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1265,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Washing Machine",
+      "Dryer",
+      "Microwave",
+      "Walk In Shower",
+      "Wheelchair Access",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Washing Machine,Dryer,Microwave,Walk In Shower,Wheelchair Access,Dishwasher",
+    "MYH_MaxPrice": 400000,
+    "MYH_MinBeds": 1,
+    "MYH_MinEnergyRating": 55,
+    "MYH_MinPrice": 400000,
+    "MYH_MinSize": 60,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5023195,
+    "MYH_PropertyTypeID": 36
+  }
+}

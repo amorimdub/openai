@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/86-tur-uisce-doughiska-galway/6635836",
+  "fetchedAt": "2026-10-05T09:40:53.370Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/86-tur-uisce-doughiska-galway/6635836",
+  "kind": "listing",
+  "responseSha256": "222eafd3bc8248cf8d4ff0086ea0cdc0022abbfc9d5ccb9e603b0134720ac88f",
+  "files": [
+    {
+      "path": "daft/01722-ffe82dd3e43ea8a7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bde294e238e147ddb8c8cef73a2a565e36fc809a73bd9eb0bbab8df2379cc6a5",
+      "bytes": 20826
+    },
+    {
+      "path": "daft/01722-ffe82dd3e43ea8a7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9900ed0daab29093ceddc58e20cc4aa044aaa82435ad584e4585ad81fb01243",
+      "bytes": 8036
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

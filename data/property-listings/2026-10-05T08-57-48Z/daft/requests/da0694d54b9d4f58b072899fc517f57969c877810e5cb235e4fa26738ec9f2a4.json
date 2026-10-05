@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/67-coldcut-park-3-bed-clondalkin-co-dublin/6681461",
+  "fetchedAt": "2026-10-05T09:12:12.112Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/67-coldcut-park-3-bed-clondalkin-co-dublin/6681461",
+  "kind": "listing",
+  "responseSha256": "acbeb1675ba4ed0b0e2ecb2040932ca88f779223b88194f15a7cd10c23eba812",
+  "files": [
+    {
+      "path": "daft/00576-da0694d54b9d4f58-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "57191b563c592c0563ba57b9906fe2551502ff0fda40e5085876a25ee8c60345",
+      "bytes": 29181
+    },
+    {
+      "path": "daft/00576-da0694d54b9d4f58-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "34c2bf2e2dc78506a5e2209e7a8aeb901008c56429794caee2f1a9eb0c6573ca",
+      "bytes": 8125
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

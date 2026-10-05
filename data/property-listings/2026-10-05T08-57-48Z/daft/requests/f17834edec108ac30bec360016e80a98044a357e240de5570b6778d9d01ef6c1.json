@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-16-oak-glade-court-blessington-road-naas-co-kildare/6684102",
+  "fetchedAt": "2026-10-05T09:44:52.252Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-16-oak-glade-court-blessington-road-naas-co-kildare/6684102",
+  "kind": "listing",
+  "responseSha256": "451c1cbd191e4e75a4434c744c0c3fdf0047bacb014e305739f43dfb15efc702",
+  "files": [
+    {
+      "path": "daft/01881-f17834edec108ac3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8979fd0af538c4d3a8aa08566f7c3d1e5365bc424a0d40b8ec102cb229967ba3",
+      "bytes": 28852
+    },
+    {
+      "path": "daft/01881-f17834edec108ac3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e0c73b7a326abb69ca4b2f840bdab9c7ce46926829b1202fb6c1fd249e43cb09",
+      "bytes": 8122
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

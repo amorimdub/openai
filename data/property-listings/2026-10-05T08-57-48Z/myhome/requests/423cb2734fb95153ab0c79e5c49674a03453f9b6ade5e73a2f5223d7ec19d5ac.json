@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=233",
+  "fetchedAt": "2026-10-05T12:14:39.244Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=233",
+  "kind": "search",
+  "responseSha256": "262fc7646647919cb99a083d94cdaef2f29f42fe0319964d9c6a84f1903d92ba",
+  "files": [
+    {
+      "path": "myhome/05328-423cb2734fb95153-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=233\"].SearchResults",
+      "sha256": "447cd2edcebbd78ad8d4b9bd00356761a2f78a8abec90da056417082b0184f20",
+      "bytes": 111117
+    },
+    {
+      "path": "myhome/05328-423cb2734fb95153-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=233\"] (paging fields)",
+      "sha256": "c4b3b38620b5f9036a21b549ac93878254b737e90b1372fe33807ae3cdb699ee",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/aylmer-lodge-kilcock-kildare/5021337",
+    "https://www.myhome.ie/residential/brochure/penthouse-57-143-merrion-road-ballsbridge-dublin-4/5026619",
+    "https://www.myhome.ie/residential/brochure/14-d-n-coran-sweetfields-youghal-cork/5025352",
+    "https://www.myhome.ie/residential/brochure/4-longwood-wynnsward-park-clonskeagh-dublin/5026611",
+    "https://www.myhome.ie/residential/brochure/killeenmore-sallins-county-kildare/5026618",
+    "https://www.myhome.ie/residential/brochure/penthouse-45-ballintyre-square-ballinteer-dublin-16/5026617",
+    "https://www.myhome.ie/residential/brochure/19-waterside-park-malahide-county-dublin/5026612",
+    "https://www.myhome.ie/residential/brochure/apartment-2-the-wellington-riverpark-apartments-coyningham-road-islandbridge-dublin-8/5023456",
+    "https://www.myhome.ie/residential/brochure/halltown-house-hallstown-skryne-road-ratoath-meath/5026606",
+    "https://www.myhome.ie/residential/brochure/11-canon-sheehan-place-mallow-cork/5025610",
+    "https://www.myhome.ie/residential/brochure/2-jervis-place-abbey-street-dublin-1/5024498",
+    "https://www.myhome.ie/residential/brochure/cushinstown-killucan-westmeath/5026596",
+    "https://www.myhome.ie/residential/brochure/13-glenpark-close-palmerstown-dublin-20/5010706",
+    "https://www.myhome.ie/residential/brochure/46-fortfield-drive-terenure-dublin-6w/5016121",
+    "https://www.myhome.ie/residential/brochure/12-woodbrook-southfields-rosslare-strand-co-wexford/5026597",
+    "https://www.myhome.ie/residential/brochure/64-elm-mount-park-beaumont-dublin-9/5019767",
+    "https://www.myhome.ie/residential/brochure/14-fawn-lodge-castleknock-dublin-15/4911165",
+    "https://www.myhome.ie/residential/brochure/sweetbank-kilmartin-newcastle-wicklow/5026584",
+    "https://www.myhome.ie/residential/brochure/89-holywell-drive-swords-co-dublin/5009361",
+    "https://www.myhome.ie/residential/brochure/7-wadelai-road-glasnevin-dublin-11/5021361"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=234",
+  "paginationLimited": false
+}

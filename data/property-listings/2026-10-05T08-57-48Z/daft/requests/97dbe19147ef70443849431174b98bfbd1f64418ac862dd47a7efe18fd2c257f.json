@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-u-maynooth-moyglare-road-maynooth-co-kildare/4514013",
+  "fetchedAt": "2026-10-05T09:06:20.696Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-u-maynooth-moyglare-road-maynooth-co-kildare/4514013",
+  "kind": "listing",
+  "responseSha256": "9a96a579b76f6edcc214d2763085af266fba3d176ff49461e7fd98e7a2bb72d8",
+  "files": [
+    {
+      "path": "daft/00342-97dbe19147ef7044-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "39dd44cd01f50a04c04672fa668dbcc2dc6523f66d6a1f337ed8a471c17b7603",
+      "bytes": 42991
+    },
+    {
+      "path": "daft/00342-97dbe19147ef7044-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "93c985efe2c49a69d7d2c4e84be5f470fbf60d081674328f4f8882e045497444",
+      "bytes": 8179
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

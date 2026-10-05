@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/pine-valley-grove-rathfarnham-rathfarnham-dublin-16/6681782",
+  "fetchedAt": "2026-10-05T09:16:50.021Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/pine-valley-grove-rathfarnham-rathfarnham-dublin-16/6681782",
+  "kind": "listing",
+  "responseSha256": "9e7dc8ba5013764ceaa58a1f4cc274370b0dde29622ceb42a84428d4048d1d92",
+  "files": [
+    {
+      "path": "daft/00761-e0fd564be07595df-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "68f327b633e2f63bb7eee555776b1809cd84878d78f06e00aa8c84f200ba03d9",
+      "bytes": 40854
+    },
+    {
+      "path": "daft/00761-e0fd564be07595df-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "55b7cb8c66db92f7b816815c1d2ed377eeffd1259a1b3f1c9c61734e1429805b",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SANDFORD PARISH NATIONAL SCHOOL",
+      "numPupils": 200,
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320880",
+        "lon": "-6.248163"
+      }
+    },
+    {
+      "schoolName": "SAINT MARY'S NATIONAL SCHOOL",
+      "numPupils": 607,
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321064",
+        "lon": "-6.238921"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL LIOS NA NÓG",
+      "numPupils": 177,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322155",
+        "lon": "-6.256788"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE",
+      "numPupils": 368,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321865",
+        "lon": "-6.257225"
+      }
+    },
+    {
+      "schoolName": "RANELAGH MULTI DENOM NATIONAL SCHOOL",
+      "numPupils": 220,
+      "distance": {
+        "value": 1.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326797",
+        "lon": "-6.257682"
+      }
+    },
+    {
+      "schoolName": "KILDARE PLACE NATIONAL SCHOOL",
+      "numPupils": 191,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318540",
+        "lon": "-6.263615"
+      }
+    },
+    {
+      "schoolName": "SHELLYBANKS EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 342,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326550",
+        "lon": "-6.226161"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL EOIN",
+      "numPupils": 50,
+      "distance": {
+        "value": 1.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.334230",
+        "lon": "-6.240513"
+      }
+    },
+    {
+      "schoolName": "ST CHRISTOPHER'S PRIMARY SCHOOL",
+      "numPupils": 567,
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.334410",
+        "lon": "-6.241022"
+      }
+    },
+    {
+      "schoolName": "ST. LOUIS NATIONAL SCHOOL",
+      "numPupils": 622,
+      "distance": {
+        "value": 1.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324657",
+        "lon": "-6.267558"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MUCKROSS PARK COLLEGE",
+      "numPupils": 712,
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321667",
+        "lon": "-6.242540"
+      }
+    },
+    {
+      "schoolName": "SANDFORD PARK SCHOOL",
+      "numPupils": 432,
+      "distance": {
+        "value": 0.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322197",
+        "lon": "-6.250193"
+      }
+    },
+    {
+      "schoolName": "GONZAGA COLLEGE SJ",
+      "numPupils": 573,
+      "distance": {
+        "value": 0.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316814",
+        "lon": "-6.249398"
+      }
+    },
+    {
+      "schoolName": "ST CONLETHS COLLEGE",
+      "numPupils": 325,
+      "distance": {
+        "value": 0.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.327965",
+        "lon": "-6.240348"
+      }
+    },
+    {
+      "schoolName": "ALEXANDRA COLLEGE",
+      "numPupils": 666,
+      "distance": {
+        "value": 1.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310493",
+        "lon": "-6.250001"
+      }
+    },
+    {
+      "schoolName": "THE TERESIAN SCHOOL",
+      "numPupils": 239,
+      "distance": {
+        "value": 1.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314938",
+        "lon": "-6.227954"
+      }
+    },
+    {
+      "schoolName": "RATHMINES COLLEGE",
+      "numPupils": 55,
+      "distance": {
+        "value": 1.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324078",
+        "lon": "-6.264987"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE C.S.SP., RATHMINES",
+      "numPupils": 498,
+      "distance": {
+        "value": 1.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.327423",
+        "lon": "-6.266934"
+      }
+    },
+    {
+      "schoolName": "ST. LOUIS HIGH SCHOOL",
+      "numPupils": 684,
+      "distance": {
+        "value": 1.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321392",
+        "lon": "-6.270394"
+      }
+    },
+    {
+      "schoolName": "ST MICHAELS COLLEGE",
+      "numPupils": 726,
+      "distance": {
+        "value": 1.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320038",
+        "lon": "-6.216689"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Norwood Park",
+      "route": "44D",
+      "destination": "O'Connell Street",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.319997",
+        "lon": "-6.244213"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Norwood Park",
+      "route": "44",
+      "destination": "DCU",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.319997",
+        "lon": "-6.244213"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Norwood Park",
+      "route": "11",
+      "destination": "Phoenix Pk",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.319997",
+        "lon": "-6.244213"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hollybank Ave Lower",
+      "route": "11",
+      "destination": "Phoenix Pk",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321259",
+        "lon": "-6.246293"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hollybank Ave Lower",
+      "route": "44D",
+      "destination": "O'Connell Street",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321259",
+        "lon": "-6.246293"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hollybank Ave Lower",
+      "route": "44",
+      "destination": "DCU",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321259",
+        "lon": "-6.246293"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Larch Grove",
+      "route": "11",
+      "destination": "Sandyford B.D.",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321632",
+        "lon": "-6.246578"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Larch Grove",
+      "route": "44",
+      "destination": "Enniskerry",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321632",
+        "lon": "-6.246578"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Larch Grove",
+      "route": "44D",
+      "destination": "Dundrum Luas",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321632",
+        "lon": "-6.246578"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Eglinton Road",
+      "route": "11",
+      "destination": "Phoenix Pk",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.317685",
+        "lon": "-6.241036"
+      }
+    }
+  ]
+}

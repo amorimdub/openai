@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/holywell-stillorgan-road-dundrum-co-dublin/6678397",
+  "fetchedAt": "2026-10-05T09:18:54.655Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/holywell-stillorgan-road-dundrum-co-dublin/6678397",
+  "kind": "listing",
+  "responseSha256": "28dde33f072c2214e1d7fa343077c8c6a41dce32462923c0aa1ddc7db8b42b95",
+  "files": [
+    {
+      "path": "daft/00844-98eb94e54fa4ffc0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d30a42785d18dfa24ba96be5728f3de592cf475f9e60b411c95094471d003eb5",
+      "bytes": 42561
+    },
+    {
+      "path": "daft/00844-98eb94e54fa4ffc0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dc87a1eff07c889cd7002dfe6444ff882b27fa944dfbc97480a9dfbaff5846d4",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

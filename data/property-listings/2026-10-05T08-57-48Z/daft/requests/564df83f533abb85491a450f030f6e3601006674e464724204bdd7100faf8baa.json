@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/vevay-road-bray-co-wicklow/6684654",
+  "fetchedAt": "2026-10-05T09:41:35.435Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/vevay-road-bray-co-wicklow/6684654",
+  "kind": "listing",
+  "responseSha256": "ed9f5df0346c4e082ccb3c7a3ea11762a84c6e84eb6b410437e500a72dc63b45",
+  "files": [
+    {
+      "path": "daft/01750-564df83f533abb85-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6362704358326ea1c27dd05d5526b2ea5920b2725a8b1b43bfe93ba59eab3129",
+      "bytes": 27727
+    },
+    {
+      "path": "daft/01750-564df83f533abb85-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "44aec575359a9fb4c67a85f01c7d881a0695f0b097e75e631eb97c9cbe998e2a",
+      "bytes": 8205
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

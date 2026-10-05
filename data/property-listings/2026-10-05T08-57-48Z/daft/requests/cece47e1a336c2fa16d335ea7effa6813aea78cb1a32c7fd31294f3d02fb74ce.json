@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-3a-francis-street-dundalk-co-louth-dundalk-co-louth/6649160",
+  "fetchedAt": "2026-10-05T09:19:47.210Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-3a-francis-street-dundalk-co-louth-dundalk-co-louth/6649160",
+  "kind": "listing",
+  "responseSha256": "9089f0505b9ff7dae80b70a072638be69bf667d030a771488fb8a3458fe837d9",
+  "files": [
+    {
+      "path": "daft/00879-cece47e1a336c2fa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f0035c933d3ebd018a1f61cad8cacbb9ee8e33887c1aeb1b437eb5f7ac0ff0f2",
+      "bytes": 17906
+    },
+    {
+      "path": "daft/00879-cece47e1a336c2fa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

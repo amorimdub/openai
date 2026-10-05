@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-the-ironworks-dundrum-town-dundrum-dublin-14/6282326",
+  "fetchedAt": "2026-10-05T09:00:36.372Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-the-ironworks-dundrum-town-dundrum-dublin-14/6282326",
+  "kind": "listing",
+  "responseSha256": "37fe195640e71e52a963f8c86c85cfb7123be7edbeb69f0c19707ce567380412",
+  "files": [
+    {
+      "path": "daft/00113-2682a5a18b759f15-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8c8738e8d02f1c22be48e13bc0d610000e1efbbbd158d12715095862c81b5e14",
+      "bytes": 48522
+    },
+    {
+      "path": "daft/00113-2682a5a18b759f15-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c0cae33431f62afda8b60932eb389b53c8d187bfae0d8d09832c16a60a48c70f",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

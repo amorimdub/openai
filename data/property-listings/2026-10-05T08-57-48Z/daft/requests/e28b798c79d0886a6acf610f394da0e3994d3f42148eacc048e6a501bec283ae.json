@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/broadfield-close-rathcoole-co-dublin/6685185",
+  "fetchedAt": "2026-10-05T09:37:48.642Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/broadfield-close-rathcoole-co-dublin/6685185",
+  "kind": "listing",
+  "responseSha256": "195199ff34b21c05b8283f396dbe8c3b88c47fc8af14bcac43c096b10e14fcd9",
+  "files": [
+    {
+      "path": "daft/01599-e28b798c79d0886a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "49b00a0b0448eb8f0c0b448e0479074cd3644a3b6d939df59117374ea221ecfc",
+      "bytes": 8497
+    },
+    {
+      "path": "daft/01599-e28b798c79d0886a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2d56abb1de22b816237dc7d13838f929b6e1de3fa2810989ad2b1bbf33a230bf",
+      "bytes": 8054
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

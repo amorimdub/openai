@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-elmfield-by-havitat-ballyogan-road-leopardstown-co-dublin/2314855",
+  "fetchedAt": "2026-10-05T09:06:31.207Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-elmfield-by-havitat-ballyogan-road-leopardstown-co-dublin/2314855",
+  "kind": "listing",
+  "responseSha256": "430a483205ae83af085766311281f30b31dac453128aec65eb5ce43eda4673b9",
+  "files": [
+    {
+      "path": "daft/00349-6eec2d39c16e5708-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6cc8be9e557492ec37e07c9c42832d51ae4f2f9d8d63bb404b4e463cd183f46a",
+      "bytes": 30811
+    },
+    {
+      "path": "daft/00349-6eec2d39c16e5708-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8e31ca465efbe2cf9dc7791fb9e2182db4f6a211297552514a4f05f77e3e92fb",
+      "bytes": 8003
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

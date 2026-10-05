@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/south-hill-dublin-6-dartry-dublin-6/6686053",
+  "fetchedAt": "2026-10-05T09:32:04.786Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/south-hill-dublin-6-dartry-dublin-6/6686053",
+  "kind": "listing",
+  "responseSha256": "70edb78912a24b1860567c258fb38439ed4869d5a177890d86944cae3d0de295",
+  "files": [
+    {
+      "path": "daft/01370-bc4bea339e717f36-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fc02f4520be59c277bc562ddb771d4f6b03cd04f4f843a781bd98fb0398a7f1f",
+      "bytes": 56129
+    },
+    {
+      "path": "daft/01370-bc4bea339e717f36-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f354fd7d3099e5646ef09fcd416a769e762093b9b54b7d260951fb3e40a6ed86",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

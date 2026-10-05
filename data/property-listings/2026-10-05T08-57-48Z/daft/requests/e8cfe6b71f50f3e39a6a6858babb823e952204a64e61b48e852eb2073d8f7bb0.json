@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ardeevin-williamstown-co-galway/6685216",
+  "fetchedAt": "2026-10-05T09:37:38.133Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ardeevin-williamstown-co-galway/6685216",
+  "kind": "listing",
+  "responseSha256": "07cedcc2a5f0435362a2fbc295564478b044136b1c7c208c67851fad950bf1ef",
+  "files": [
+    {
+      "path": "daft/01592-e8cfe6b71f50f3e3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3f6b87762e8998e050f191bd98a22d76683197d95ebe1372199222a044a1882e",
+      "bytes": 49312
+    },
+    {
+      "path": "daft/01592-e8cfe6b71f50f3e3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e080ae299ae0d54be375f1697103389c13ebbb1f0c55509fe3fac50c66f15fbe",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

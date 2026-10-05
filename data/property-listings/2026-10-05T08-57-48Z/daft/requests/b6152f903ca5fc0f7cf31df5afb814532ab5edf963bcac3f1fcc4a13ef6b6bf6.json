@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/botanic-rd-phibsborough-co-dublin/6639962",
+  "fetchedAt": "2026-10-05T09:22:03.863Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/botanic-rd-phibsborough-co-dublin/6639962",
+  "kind": "listing",
+  "responseSha256": "b2732d7df91b563fb0027ba0855c310d628a9b1822370b789d74c44cb831f2f6",
+  "files": [
+    {
+      "path": "daft/00970-b6152f903ca5fc0f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e7ac846db1fbef9d8c92ecfddf424c3ae02493d87c330e59c4cc5825b69c5b06",
+      "bytes": 18144
+    },
+    {
+      "path": "daft/00970-b6152f903ca5fc0f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8c0e74c6d30aea7d9209a30da434afd8f040adb9a87b7ecccae3dfc172236d58",
+      "bytes": 8029
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

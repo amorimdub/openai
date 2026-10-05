@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=66",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=66",
+  "fetchedAt": "2026-10-05T09:45:53.798Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "01986b1c247c2b7bbd1c9e706881c22f7e7018077b068713148fc1acb77e4b79",
+  "files": [
+    {
+      "path": "myhome/01917-1089ae110a30f4e5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=66\"].SearchResults",
+      "sha256": "e1311e49a1c0b5f4b2ad931937c07d22293b55df71a5df735a122776d0ca5119",
+      "bytes": 131243
+    },
+    {
+      "path": "myhome/01917-1089ae110a30f4e5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=66\"] (paging fields)",
+      "sha256": "4594d2d66789a1481cd69855a7f0bf358bfa32c1636b0bfb40182b89ee28aa6d",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-the-mews-pelletstown-manor-ashtown-dublin-15/5031117",
+    "https://www.myhome.ie/residential/brochure/1-shandon-drive-phibsboro-dublin-7/5029232",
+    "https://www.myhome.ie/residential/brochure/53-the-rise-glasnevin-dublin-9/5024090",
+    "https://www.myhome.ie/residential/brochure/knockmanagh-tiernaboul-killarney-co-kerry/5031121",
+    "https://www.myhome.ie/residential/brochure/no-1-southbay-rosslare-wexford/5031110",
+    "https://www.myhome.ie/residential/brochure/bluebell-lodge-old-dublin-road-carlow-town-carlow/5031120",
+    "https://www.myhome.ie/residential/brochure/apt-18-the-belfry-cock-hill-cavan/5031119",
+    "https://www.myhome.ie/residential/brochure/24-endsleigh-estate-douglas-road-douglas-cork/5031116",
+    "https://www.myhome.ie/residential/brochure/apt-1-seabury-sydney-parade-avenue-sandymount-dublin-4/5031106",
+    "https://www.myhome.ie/residential/brochure/cloonmullen-loughglynn-co-roscommon/5031115",
+    "https://www.myhome.ie/residential/brochure/newtown-road-maynooth-county-kildare/5031114",
+    "https://www.myhome.ie/residential/brochure/13-errew-drive-lough-rinn-mohill-leitrim/5031090",
+    "https://www.myhome.ie/residential/brochure/6-warwick-terrace-ranelagh-dublin-6/5007961",
+    "https://www.myhome.ie/residential/brochure/38-shanagarry-milltown-dublin-6/5011826",
+    "https://www.myhome.ie/residential/brochure/51-marlmount-park-marlmount-dundalk-co-louth/5031111",
+    "https://www.myhome.ie/residential/brochure/moanmore-commons-callan-co-kilkenny-callan-kilkenny/5031097",
+    "https://www.myhome.ie/residential/brochure/35-riverbank-hall-addison-park-glasnevin-dublin-11/5029409",
+    "https://www.myhome.ie/residential/brochure/66-downpatrick-road-crumlin-dublin-12/5031053",
+    "https://www.myhome.ie/residential/brochure/27-broadway-park-clonsilla-dublin-15/5031070",
+    "https://www.myhome.ie/residential/brochure/106-ashefield-mullingar-westmeath/5031088"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=67",
+  "paginationLimited": false
+}

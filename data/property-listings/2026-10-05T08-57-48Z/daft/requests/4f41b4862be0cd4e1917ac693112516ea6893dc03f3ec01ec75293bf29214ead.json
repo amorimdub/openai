@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=32",
+  "fetchedAt": "2026-10-05T09:35:12.478Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=32",
+  "kind": "search",
+  "responseSha256": "f385761e5cc47ce8b387a4b2a2558c0fb082c29bcc23dcc60bff726786e615a1",
+  "files": [
+    {
+      "path": "daft/01495-4f41b4862be0cd4e-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "36f63fc62648a0c9cc42b43f6a70a3fc39d8b49da55489c07c26493d91cf17fe",
+      "bytes": 218508
+    },
+    {
+      "path": "daft/01495-4f41b4862be0cd4e-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01495-4f41b4862be0cd4e-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "f1c6cea9ba3925d29db51c854d4745619c598551d8b1578987a0d4c72252f875",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/studio-apartment-kilcloon-co-meath-kilcloon-co-meath/6685527",
+    "https://www.daft.ie/for-rent/19-kilcarrig-avenue-tallaght-dublin-24/6685055",
+    "https://www.daft.ie/for-rent/the-cubes-6-beacon-south-quarter-dublin-18-stillorgan-dublin-18/6685407",
+    "https://www.daft.ie/for-rent/apartment-the-forum-ballymoss-road-sandyford-business-park-dublin-18-stillorgan-dublin-18/6685488",
+    "https://www.daft.ie/for-rent/sunbird-studio-oranmore-care-complex-bushfield-oranmore-co-galway/6682316",
+    "https://www.daft.ie/for-rent/rose-court-greenhills-drogheda-co-louth/6685346",
+    "https://www.daft.ie/for-rent/ballinhassig-ballinhassig-co-cork/6685512",
+    "https://www.daft.ie/for-rent/riverside-drive-the-quay-ballina-co-mayo/6685484",
+    "https://www.daft.ie/for-rent/kimmage-grove-dublin-6w-kimmage-dublin-6w/6685494",
+    "https://www.daft.ie/for-rent/bright-1-bed-apartment-with-balcony-parking-the-island-chapelizod-dublin-20/6685477",
+    "https://www.daft.ie/for-rent/56-ellensborough-lodge-kiltipper-dublin-24/6685480",
+    "https://www.daft.ie/for-rent/ardra-union-hall-skibbereen-union-hall-co-cork/6685474",
+    "https://www.daft.ie/for-rent/apartment-80-block-m-hanover-riverside-hanover-quay-dublin-2/6685446",
+    "https://www.daft.ie/for-rent/10-camden-buildings-camden-street-lower-dublin-2/6685430",
+    "https://www.daft.ie/for-rent/cruicetown-nobber-nobber-co-meath/6684652",
+    "https://www.daft.ie/for-rent/2a-cedar-grove-bishopstown-wilton-co-cork/6685367",
+    "https://www.daft.ie/for-rent/annagellia-tedavnet-tydavnet-co-monaghan/6685326",
+    "https://www.daft.ie/for-rent/apartment-50-hyde-square-kilmainham-dublin-8/6685349",
+    "https://www.daft.ie/for-rent/-clanbrassil-street-lower-portobello-dublin-8/6685339",
+    "https://www.daft.ie/for-rent/drynam-square-drynam-hall-kinsealy-co-dublin/6685330"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=33",
+  "paginationLimited": false
+}

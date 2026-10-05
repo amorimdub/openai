@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=152",
+  "fetchedAt": "2026-10-05T11:32:46.869Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=152",
+  "kind": "search",
+  "responseSha256": "91c079dd25933ee06c5bf621fd334f59f581b1080467f05beb18581501a39c24",
+  "files": [
+    {
+      "path": "myhome/03657-8bbb795e5cf2a524-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=152\"].SearchResults",
+      "sha256": "91a19ada1c527193ac974914b52c09e89615e903c4df8a724a047213f92520ac",
+      "bytes": 128204
+    },
+    {
+      "path": "myhome/03657-8bbb795e5cf2a524-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=152\"] (paging fields)",
+      "sha256": "2aa5dc47840ca999ff9f75a80f99165f2536b1cbc87a9c3c905d5d254458f665",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-castletimon-park-kilmore-dublin-5/5028447",
+    "https://www.myhome.ie/residential/brochure/10-fairview-cresent-monaghan/5028914",
+    "https://www.myhome.ie/residential/brochure/22-halpin-park-tinakilly-park-rathnew-co-wicklow/5028913",
+    "https://www.myhome.ie/residential/brochure/laurel-lodge-kildavin-murrintown-co-wexford/5028912",
+    "https://www.myhome.ie/residential/brochure/3-the-pillar-king-street-wexford-town-co-wexford/5028911",
+    "https://www.myhome.ie/residential/brochure/114-the-green-clonard-village-wexford-town-co-wexford/5028910",
+    "https://www.myhome.ie/residential/brochure/corner-house-blackstoops-enniscorthy-wexford/5028902",
+    "https://www.myhome.ie/residential/brochure/80-viewmount-park-waterford-city-co-waterford/5028907",
+    "https://www.myhome.ie/residential/brochure/22-corbally-rise-citywest-dublin-24/5028904",
+    "https://www.myhome.ie/residential/brochure/12-streamstown-wood-malahide-co-dublin-malahide-county-dublin/5022597",
+    "https://www.myhome.ie/residential/brochure/69-crosforge-saggart-co-dublin/5028899",
+    "https://www.myhome.ie/residential/brochure/1-delgany-hills-church-road-delgany-wicklow/4994633",
+    "https://www.myhome.ie/residential/brochure/8-castle-mews-castle-street-dalkey-co-dublin/5028897",
+    "https://www.myhome.ie/residential/brochure/24-melville-park-dublin-11-co-dublin/5020990",
+    "https://www.myhome.ie/residential/brochure/springfields-lisheenaleen-kilbrittain-west-cork/5027044",
+    "https://www.myhome.ie/residential/brochure/3-annville-ballinlough-road-cork/5028895",
+    "https://www.myhome.ie/residential/brochure/drung-vicarage-coravahan-drung-co-cavan/5028894",
+    "https://www.myhome.ie/residential/brochure/bayview-windgates-bray-co-wicklow/4993496",
+    "https://www.myhome.ie/residential/brochure/34-limekiln-road-walkinstown-dublin-12/5021332",
+    "https://www.myhome.ie/residential/brochure/dooreagh-canningstown-cootehill-county-cavan/5028890"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=153",
+  "paginationLimited": false
+}

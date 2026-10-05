@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/58-conquer-hill-road-clontarf-dublin-3/6685779",
+  "fetchedAt": "2026-10-05T09:00:24.360Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/58-conquer-hill-road-clontarf-dublin-3/6685779",
+  "kind": "listing",
+  "responseSha256": "23c41c00f29d3decdc51b27dc55fcfce1da17278a83c3deccd1ec73b1551dffd",
+  "files": [
+    {
+      "path": "daft/00105-7f34d93cba1ebc22-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3c82575255d461d16e27b3a4a2b2d0147348d0e87ada741621ae3791e54c96e0",
+      "bytes": 36090
+    },
+    {
+      "path": "daft/00105-7f34d93cba1ebc22-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ad570c5c1bb7eaa012efffb74e8afd252a9ebddf68c591e22468698e2b0e5445",
+      "bytes": 8019
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-lime-house-lime-house-glass-bottle-avenue-dublin-4-d04-yrv1-dublin-4/6346433",
+  "fetchedAt": "2026-10-05T08:59:01.764Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-lime-house-lime-house-glass-bottle-avenue-dublin-4-d04-yrv1-dublin-4/6346433",
+  "kind": "listing",
+  "responseSha256": "e0b78959f4e6e8cfa428bd1f1e8f9bc62b814157a064027872b9817f1292fc48",
+  "files": [
+    {
+      "path": "daft/00050-a2282f84fe8d6a59-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d8e12c9c08f0f29b7219684d522a93d23a05bad7216f19abe76a59301beecb87",
+      "bytes": 35358
+    },
+    {
+      "path": "daft/00050-a2282f84fe8d6a59-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f38cac1e9a0ae84e46138173cadba01d0db203a15d928187473528b7e3d8cc3",
+      "bytes": 8125
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=90",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=90",
+  "fetchedAt": "2026-10-05T09:57:55.733Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "15986ef44388929f81f54e562a6465cfaa8fa1dbb1a6126836716e5f5c3ccf54",
+  "files": [
+    {
+      "path": "myhome/02396-8a2737cc706c3b44-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=90\"].SearchResults",
+      "sha256": "b459fda2ef3f445e0c8f5ad4deff28901a9d7eac2cfa1b0bf6c35beba23a1d4e",
+      "bytes": 113625
+    },
+    {
+      "path": "myhome/02396-8a2737cc706c3b44-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=90\"] (paging fields)",
+      "sha256": "8d01c49ebe5d06f465097bfd3a13624bbd388dbae6a95637aba7c8ec67bc8bda",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-somerton-off-rochestown-avenue-dun-laoghaire-county-dublin/5030565",
+    "https://www.myhome.ie/residential/brochure/8-woodvale-carrickmacross-monaghan/5030569",
+    "https://www.myhome.ie/residential/brochure/53-cherrywood-grove-clondalkin-dublin-22/5029313",
+    "https://www.myhome.ie/residential/brochure/the-hill-arda-na-deirge-killaloe-clare/5030506",
+    "https://www.myhome.ie/residential/brochure/37b-hayestown-rush-county-dublin/5030562",
+    "https://www.myhome.ie/residential/brochure/apartment-3-college-view-all-hallows-griffith-avenue-drumcondra-dublin-9/5028520",
+    "https://www.myhome.ie/residential/brochure/13-the-crescent-meadowvale-arklow-co-wicklow/5030559",
+    "https://www.myhome.ie/residential/brochure/48-ruanbeg-close-ruanbeg-manor-kildare-town-co-kildare/5030556",
+    "https://www.myhome.ie/residential/brochure/11-rosse-court-terrace-lucan-co-dublin/5030554",
+    "https://www.myhome.ie/residential/brochure/5-clabby-drive-legion-terrace-longford-longford/5030541",
+    "https://www.myhome.ie/residential/brochure/gahanive-castlefreke-clonakilty-cork/5030540",
+    "https://www.myhome.ie/residential/brochure/8-emmet-road-kilmainham-dublin-8/5030546",
+    "https://www.myhome.ie/residential/brochure/harbour-court-lecarrow-athlone-co-westmeath/5030550",
+    "https://www.myhome.ie/residential/brochure/12f-north-street-ongar-village-ongar-dublin-15/5030539",
+    "https://www.myhome.ie/residential/brochure/17-the-arches-castle-farm-naas-co-kildare/5030549",
+    "https://www.myhome.ie/residential/brochure/5-maplewood-close-springfield-tallaght-dublin-24/5030548",
+    "https://www.myhome.ie/residential/brochure/4-the-dunes-aylesbridge-riverchapel-gorey-wexford/4993001",
+    "https://www.myhome.ie/residential/brochure/30-elm-park-gort-road-ennis-co-clare/5030544",
+    "https://www.myhome.ie/residential/brochure/21-westcourt-ballincollig-cork/5030542",
+    "https://www.myhome.ie/residential/brochure/71-old-county-glen-crumlin-dublin-12/4967047"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=91",
+  "paginationLimited": false
+}

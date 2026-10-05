@@ -1,0 +1,426 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "apartment 46 sandyford view blackglen road sandyford dublin 18  sandyford dublin 18",
+    "GroupId": 387978,
+    "Address": "Apartment 46 Sandyford View, Blackglen Road, Sandyford, Dublin 18 ",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/cc545a29-42c2-4929-a556-55775b425fcf_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/cc545a29-42c2-4929-a556-55775b425fcf_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/cc545a29-42c2-4929-a556-55775b425fcf_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c71ce9cd-84da-426e-a316-4cd089a9e695_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/197d5235-70bf-4ca0-85e0-d4cb141b286e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/199dcb4c-8f7b-4711-801a-cf78f7b63a33_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/fc878582-1fac-489a-b8e3-ad9257a31d3b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2a3000ac-4e46-422b-8129-ed39347af728_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/3d2774a4-5455-467b-9888-71dfa5794c33_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2d26d34a-1c20-4441-9f8d-ecdb568ad0e1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/95f43192-a9ce-44d9-b8e0-9a85f8afede7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0b2a7b1b-b54f-4c24-b925-b31eee67cfb9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/ad45b7a0-6ee8-4d8b-8fd0-dd9d42a2c0c9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a8e1042d-f3cd-4704-86ab-620171cc4513_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a85bdda8-f77a-4fbd-aff8-daa59cb0e83a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/66fd2836-371b-4eae-8f6d-2258930fe49a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c1a88774-376c-40ea-bace-6711e73eb463_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/729f2513-ea43-48e5-92e6-e275ae2b4aef_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0d092b60-f129-4540-9c9b-efc569eabf32_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/1/7/5005714/b70cadbd-fed4-4664-afff-0d4e5049e8e4_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "BerRating": "B3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 21,
+        "Name": "Half Furnished",
+        "CreatedOn": "2018-09-11T10:18:50.7330000+01:00",
+        "IconName": "myh-icon-half-furnished",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Burrows Estates are delighted to present this very spacious, bright dual aspect apartment overlooking Dublin City. This two bedroom apartment offers very spacious living accommodation with the added convenience of an allocated parking space. Overlooking Dublin city, it is conveniently located very close to shops, restaurants, creches, M50, N11 and well serviced by bus routes to the city and Luas. Accommodation comprises entrance hall, a bright and large living room with corner balcony, fully fitted kitchen and dining area, master bedroom with ensuite bathroom and fitted wardrobes, second double bedroom with fitted wardrobes, main bathroom.  Storage room and additional hall storage. Wooden floors throughout. GFCH. Allocated parking space. Excellent investment opportunity or suit owner occupiers."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall, \r\nLarge living room with corner wrap around balcony\r\nFully fitted kitchen with dining area as part of open plan living room \r\nMaster bedroom with ensuite bathroom and fitted wardrobes \r\nSecond double bedroom \r\nMain Bathroom \r\nStorage room \r\nadditional hall storage"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Spacious accommodation with views over Dublin City \r\nBright  apartment \r\nReady to occupy\r\nExcellent for both owner occupiers or as Investment Opportunity  \r\nAllocated parking space"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B3"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Viewing is by appointment"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 473349,
+    "MinEnergyRating": 100,
+    "MaxEnergyRating": 100,
+    "BERGrade": "B",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-11T11:23:36.0430000+01:00",
+    "ModifiedOnDate": "2026-09-08T12:17:57.3230000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-11T11:44:58.2470000+01:00",
+    "RefreshedOn": "2026-09-08T12:18:10.1070000+01:00",
+    "AgreedOn": "2026-07-09T17:13:43.4570000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+    "IsTransact": false,
+    "PriceAsString": "€405,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5005714,
+    "BedsString": "2 beds",
+    "DisplayAddress": "Apartment 46 Sandyford View, Blackglen Road, Sandyford, Dublin 18 , Sandyford, Dublin 18",
+    "Eircode": "D18 RP8D",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1459,
+    "RegionName": "Dublin 16",
+    "LocalityId": 1400,
+    "LocalityName": "Sandyford",
+    "Price": {
+      "MinPrice": 405000,
+      "MaxPrice": 405000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/cc545a29-42c2-4929-a556-55775b425fcf_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/cc545a29-42c2-4929-a556-55775b425fcf_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/cc545a29-42c2-4929-a556-55775b425fcf_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c71ce9cd-84da-426e-a316-4cd089a9e695_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c71ce9cd-84da-426e-a316-4cd089a9e695_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c71ce9cd-84da-426e-a316-4cd089a9e695_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/197d5235-70bf-4ca0-85e0-d4cb141b286e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/197d5235-70bf-4ca0-85e0-d4cb141b286e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/197d5235-70bf-4ca0-85e0-d4cb141b286e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/199dcb4c-8f7b-4711-801a-cf78f7b63a33_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/199dcb4c-8f7b-4711-801a-cf78f7b63a33_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/199dcb4c-8f7b-4711-801a-cf78f7b63a33_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/fc878582-1fac-489a-b8e3-ad9257a31d3b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/fc878582-1fac-489a-b8e3-ad9257a31d3b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/fc878582-1fac-489a-b8e3-ad9257a31d3b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2a3000ac-4e46-422b-8129-ed39347af728_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2a3000ac-4e46-422b-8129-ed39347af728_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2a3000ac-4e46-422b-8129-ed39347af728_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/3d2774a4-5455-467b-9888-71dfa5794c33_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/3d2774a4-5455-467b-9888-71dfa5794c33_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/3d2774a4-5455-467b-9888-71dfa5794c33_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2d26d34a-1c20-4441-9f8d-ecdb568ad0e1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2d26d34a-1c20-4441-9f8d-ecdb568ad0e1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/2d26d34a-1c20-4441-9f8d-ecdb568ad0e1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/95f43192-a9ce-44d9-b8e0-9a85f8afede7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/95f43192-a9ce-44d9-b8e0-9a85f8afede7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/95f43192-a9ce-44d9-b8e0-9a85f8afede7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0b2a7b1b-b54f-4c24-b925-b31eee67cfb9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0b2a7b1b-b54f-4c24-b925-b31eee67cfb9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0b2a7b1b-b54f-4c24-b925-b31eee67cfb9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/ad45b7a0-6ee8-4d8b-8fd0-dd9d42a2c0c9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/ad45b7a0-6ee8-4d8b-8fd0-dd9d42a2c0c9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/ad45b7a0-6ee8-4d8b-8fd0-dd9d42a2c0c9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a8e1042d-f3cd-4704-86ab-620171cc4513_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a8e1042d-f3cd-4704-86ab-620171cc4513_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a8e1042d-f3cd-4704-86ab-620171cc4513_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a85bdda8-f77a-4fbd-aff8-daa59cb0e83a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a85bdda8-f77a-4fbd-aff8-daa59cb0e83a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/a85bdda8-f77a-4fbd-aff8-daa59cb0e83a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/66fd2836-371b-4eae-8f6d-2258930fe49a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/66fd2836-371b-4eae-8f6d-2258930fe49a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/66fd2836-371b-4eae-8f6d-2258930fe49a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c1a88774-376c-40ea-bace-6711e73eb463_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c1a88774-376c-40ea-bace-6711e73eb463_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/c1a88774-376c-40ea-bace-6711e73eb463_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/729f2513-ea43-48e5-92e6-e275ae2b4aef_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/729f2513-ea43-48e5-92e6-e275ae2b4aef_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/729f2513-ea43-48e5-92e6-e275ae2b4aef_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0d092b60-f129-4540-9c9b-efc569eabf32_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0d092b60-f129-4540-9c9b-efc569eabf32_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/0d092b60-f129-4540-9c9b-efc569eabf32_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/b70cadbd-fed4-4664-afff-0d4e5049e8e4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/b70cadbd-fed4-4664-afff-0d4e5049e8e4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/1/7/5005714/b70cadbd-fed4-4664-afff-0d4e5049e8e4_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2397452,
+      "latitude": 53.2702324
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 18,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 387978,
+    "Name": "Burrows Estates",
+    "DisplayPhone": "01 833 9637",
+    "Email": "info@burrowsestates.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "burrows-estates",
+    "SeoName": "burrows-estates",
+    "Address": "49 Clontarf Road, Clontarf, Dublin 3",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/7/9/387978/logo.jpg",
+    "SalesLicense": "003160",
+    "RentalLicense": "003160",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "sandyford/1400",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5002138,
+      "Address": "14 Kilcross Lawn, Sandyford, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/3/1/5002138/9ff727d3-4c10-4125-82b6-4c7d26d2165b_t.jpg",
+      "HasWebP": false,
+      "Price": 500000,
+      "PrevPrice": 575000,
+      "PriceChangeDelta": -75000,
+      "PriceChangePercentage": -13.0435,
+      "Created": "8th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+      "BerRating": "C1",
+      "SeoUrl": "/residential/brochure/14-kilcross-lawn-sandyford-dublin-18/5002138",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/apartment-46-sandyford-view-blackglen-road-sandyford-dublin-18-sandyford-dublin-18/5005714",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 473349,
+    "Name": "Karen Burrows",
+    "Phone": "01 833 9637 /  086 2219913",
+    "Email": "karen@burrowsestaes.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 387978,
+    "MYH_LocalityID": 1400,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1459,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Balcony",
+      "Half Furnished",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Balcony,Half Furnished,Dishwasher",
+    "MYH_MaxPrice": 425000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 100,
+    "MYH_MinPrice": 425000,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5005714,
+    "MYH_PropertyTypeID": 36
+  }
+}

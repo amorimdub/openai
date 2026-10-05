@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=94",
+  "fetchedAt": "2026-10-05T11:02:21.078Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=94",
+  "kind": "search",
+  "responseSha256": "edadd08315206dcc07f4ad7014ac865ba2e16a8a320a18393724e70d2f51b7f7",
+  "files": [
+    {
+      "path": "myhome/02461-d3331a26bde86ba2-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=94\"].SearchResults",
+      "sha256": "ee4b75db6fdeb448bf1fc12fd60e8945aba3a8a7e5c52ef1829b4b5ef332ba18",
+      "bytes": 109411
+    },
+    {
+      "path": "myhome/02461-d3331a26bde86ba2-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=94\"] (paging fields)",
+      "sha256": "59fe39c1e0b5a879bd777c0de18866c85ef0b2d465f3b381d208ded0f7ebf814",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-arranmore-avenue-phibsborough-dublin-7/5011321",
+    "https://www.myhome.ie/residential/brochure/24-the-willows-ballinahinch-wood-ashford-co-wicklow/5023342",
+    "https://www.myhome.ie/residential/brochure/10-the-downs-lakepoint-park-mullingar-westmeath/5030502",
+    "https://www.myhome.ie/residential/brochure/32-tymon-farm-tallaght-dublin-24/5030496",
+    "https://www.myhome.ie/residential/brochure/apartment-67-the-old-distillery-anne-street-north-smithfield-dublin-7/5030482",
+    "https://www.myhome.ie/residential/brochure/2-firecastle-lane-kildare-co-kildare/5030500",
+    "https://www.myhome.ie/residential/brochure/carrabane-athenry-co-galway/5030499",
+    "https://www.myhome.ie/residential/brochure/37-lake-drive-kilminchy-portlaoise-co-laois/5030498",
+    "https://www.myhome.ie/residential/brochure/42-foyle-view-manor-carrigans-county-donegal/5030493",
+    "https://www.myhome.ie/residential/brochure/apartment-5-22-railway-road-baldoyle-dublin-13/5030456",
+    "https://www.myhome.ie/residential/brochure/160-gleann-dara-bishop-o-donnell-road-rahoon-co-galway/5030491",
+    "https://www.myhome.ie/residential/brochure/11-ardbrae-park-athlone-co-westmeath/5030490",
+    "https://www.myhome.ie/residential/brochure/cuilmore-gurteen-sligo/5030489",
+    "https://www.myhome.ie/residential/brochure/38-grosvenor-court-templeogue-dublin-6w/5030478",
+    "https://www.myhome.ie/residential/brochure/glenbrack-gort-galway/5030421",
+    "https://www.myhome.ie/residential/brochure/149-cremona-road-ballyfermot-dublin-10/5030484",
+    "https://www.myhome.ie/residential/brochure/apartment-139-burnell-court-northern-cross-dublin-17/5030476",
+    "https://www.myhome.ie/residential/brochure/33-college-green-dunmore-road-tuam-co-galway/5030479",
+    "https://www.myhome.ie/residential/brochure/47-cedarwood-avenue-waterpark-carrigaline-cork/5030083",
+    "https://www.myhome.ie/residential/brochure/eden-vale-ballysimon-road-limerick/4999800"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=95",
+  "paginationLimited": false
+}

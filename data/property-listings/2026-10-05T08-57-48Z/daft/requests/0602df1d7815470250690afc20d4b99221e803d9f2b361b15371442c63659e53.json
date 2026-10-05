@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-13-block-b3-richmond-gardens-fairview-dublin-3/6673038",
+  "fetchedAt": "2026-10-05T09:19:42.704Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-13-block-b3-richmond-gardens-fairview-dublin-3/6673038",
+  "kind": "listing",
+  "responseSha256": "a670fab2c2d7a6dc44a78f0af2a57a03f9c17b7a729c7936cf237a77a00cb3a7",
+  "files": [
+    {
+      "path": "daft/00876-0602df1d78154702-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c0b9dbb89ffba21e75e9306cbc889ad5d9f517c316713bcf592536a3d35922c1",
+      "bytes": 20775
+    },
+    {
+      "path": "daft/00876-0602df1d78154702-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8069f2f5816b2b597e0713f953dea0a5782b07478c7a310c31c19012dc6e8e85",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

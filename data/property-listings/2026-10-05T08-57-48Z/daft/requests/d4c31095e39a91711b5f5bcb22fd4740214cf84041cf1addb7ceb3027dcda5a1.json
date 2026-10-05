@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/boyne-road-navan-co-meath/6661279",
+  "fetchedAt": "2026-10-05T09:41:23.413Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/boyne-road-navan-co-meath/6661279",
+  "kind": "listing",
+  "responseSha256": "3811a2255c3bfafe33c7ec3cedae94c893ea716d2856a58b373cf1c54a9d3fb8",
+  "files": [
+    {
+      "path": "daft/01742-d4c31095e39a9171-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2015fe9e88cf360622d5b21d9df7d657dc1b4dcf6f08724738c58a366890794a",
+      "bytes": 76006
+    },
+    {
+      "path": "daft/01742-d4c31095e39a9171-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f8ee5eb6fd294e60ae864cec491677805a674cd7a7f3650c1bd36db683358ca",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

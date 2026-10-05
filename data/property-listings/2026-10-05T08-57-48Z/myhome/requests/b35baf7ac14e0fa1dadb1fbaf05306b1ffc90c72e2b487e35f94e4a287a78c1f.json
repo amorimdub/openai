@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=15",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=15",
+  "fetchedAt": "2026-10-05T09:10:57.909Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "c727582e75324990255dd64e962e909835f69127c7ee8da5b02fb0ccfd271ca0",
+  "files": [
+    {
+      "path": "myhome/00526-b35baf7ac14e0fa1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=15\"].SearchResults",
+      "sha256": "70d849b8da121c7a4dbf65a8e8cf7f4a6900db4cb341a63537405032cd4121c5",
+      "bytes": 97733
+    },
+    {
+      "path": "myhome/00526-b35baf7ac14e0fa1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=15\"] (paging fields)",
+      "sha256": "2cff41455144515d1213dc08ba2c59372f87f160b8c0824bd42e83da82df1759",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/apartment-53-hillview-mount-talbot-clondalkin-dublin-22/5028476",
+    "https://www.myhome.ie/rentals/brochure/ardagh-rosscarbery-west-cork/5028262",
+    "https://www.myhome.ie/rentals/brochure/castle-lawns-tallaght-dublin-24/5028340",
+    "https://www.myhome.ie/rentals/brochure/98-riverdale-court-castlebar-co-mayo/5028273",
+    "https://www.myhome.ie/rentals/brochure/5-caslin-way-5-caslin-way-strokestown-strokestown-co-roscommon/5028269",
+    "https://www.myhome.ie/rentals/brochure/avonmore-grove-tallaght-dublin-24/5028232",
+    "https://www.myhome.ie/rentals/brochure/40-block-a-the-bottleworks-ringsend-dublin-4/5022036",
+    "https://www.myhome.ie/rentals/brochure/kingsbry-maynooth-co-kildare/5028203",
+    "https://www.myhome.ie/rentals/brochure/the-discovery-building-ashtown-dublin-15/5028162",
+    "https://www.myhome.ie/rentals/brochure/20-irishtown-central-golden-island-athlone-county-westmeath/5028119",
+    "https://www.myhome.ie/rentals/brochure/dromore-bailieborough-county-cavan/5028099",
+    "https://www.myhome.ie/rentals/brochure/greeg-court-parnell-street-dublin-1/5028086",
+    "https://www.myhome.ie/rentals/brochure/sacre-coeur-north-road-dromcolliher-county-limerick/5028063",
+    "https://www.myhome.ie/rentals/brochure/22-tully-park-view-dublin-18/5028060",
+    "https://www.myhome.ie/rentals/brochure/christchurch-place-dublin-8/5027998",
+    "https://www.myhome.ie/rentals/brochure/the-academy-building-parkwest-dublin-12/5027994",
+    "https://www.myhome.ie/rentals/brochure/rowanville-kildare-town-co-kildare/5027956",
+    "https://www.myhome.ie/rentals/brochure/saint-bernadette-hall-richmond-hall-dublin-6/5027876",
+    "https://www.myhome.ie/rentals/brochure/apartment-1-knockadoon-navan-meath/5027836",
+    "https://www.myhome.ie/rentals/brochure/apartment-1-the-railings-old-cornmarket-navan-meath/5027835"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=16",
+  "paginationLimited": false
+}

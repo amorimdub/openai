@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/russell-crescent-russell-square-tallaght-dublin-24/6687184",
+  "fetchedAt": "2026-10-05T09:24:46.113Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/russell-crescent-russell-square-tallaght-dublin-24/6687184",
+  "kind": "listing",
+  "responseSha256": "727ec515375293a68a15685fbaf27c60a47606cfb2fa7b6196113f41e1952d8c",
+  "files": [
+    {
+      "path": "daft/01078-0f4eb956d4eefcf5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "58b3671f8fe9bc376ca2559f8a26153d7a901e153b389c418b28b944de783452",
+      "bytes": 17669
+    },
+    {
+      "path": "daft/01078-0f4eb956d4eefcf5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "104e4f5f97bc54c85ae97ad51565d462feafd1ec9c40a6e855518cbc4c480732",
+      "bytes": 8013
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

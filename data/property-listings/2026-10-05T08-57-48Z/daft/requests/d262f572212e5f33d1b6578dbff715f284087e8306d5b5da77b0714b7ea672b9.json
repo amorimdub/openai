@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/harrington-street-portobello-dublin-8/6686265",
+  "fetchedAt": "2026-10-05T09:30:04.650Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/harrington-street-portobello-dublin-8/6686265",
+  "kind": "listing",
+  "responseSha256": "91647eff9ead44392431e957b83519205c1674d5318af9b1a74fe43cc4d78d3b",
+  "files": [
+    {
+      "path": "daft/01290-d262f572212e5f33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "64a982978bfd1bfa26a7ee521889912cc6c1fe036d1a1de486ca8b75d5a70362",
+      "bytes": 31655
+    },
+    {
+      "path": "daft/01290-d262f572212e5f33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b453d74faea78695119932dff800968e6b0419ead81f381ecf100efbb42ab91b",
+      "bytes": 8188
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

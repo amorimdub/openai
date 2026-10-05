@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/hybreasal-house-south-circular-road-kilmainham-dublin-8/6686200",
+  "fetchedAt": "2026-10-05T09:30:16.668Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/hybreasal-house-south-circular-road-kilmainham-dublin-8/6686200",
+  "kind": "listing",
+  "responseSha256": "5bc5d30dc0670f3a3a327d9887eab85f91d33d382624dab2cd98ed5dadf6eb29",
+  "files": [
+    {
+      "path": "daft/01298-6d0e4acbd4a221ce-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9ab7051dc00054a2ee37820e3b7fa1742c6eaf98c1b403a98636ffb2f2ac8bb1",
+      "bytes": 34991
+    },
+    {
+      "path": "daft/01298-6d0e4acbd4a221ce-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3a3d33a3b2a57aedf900b6a1f92b5493264445c762e40c930c25f0d90b6bda2d",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

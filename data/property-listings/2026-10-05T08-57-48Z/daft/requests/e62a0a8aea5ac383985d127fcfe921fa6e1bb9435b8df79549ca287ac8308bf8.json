@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/shannon-oaks-apartments-saint-josephs-road-portumna-portumna-co-galway/6683104",
+  "fetchedAt": "2026-10-05T09:51:04.902Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/shannon-oaks-apartments-saint-josephs-road-portumna-portumna-co-galway/6683104",
+  "kind": "listing",
+  "responseSha256": "bcea613906cfd1e26c4182b82650cc0da8d716957b39b3c57d0fe9f0296a6587",
+  "files": [
+    {
+      "path": "daft/02129-e62a0a8aea5ac383-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ae9fa9fc6a53205a8355df9b2741533724beeb966dfd9f16dc1f7a5968e8003d",
+      "bytes": 11509
+    },
+    {
+      "path": "daft/02129-e62a0a8aea5ac383-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b210a182de4787448d8846f162cd32d93669b851aea375ad95b2d5b51384bbdb",
+      "bytes": 8039
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

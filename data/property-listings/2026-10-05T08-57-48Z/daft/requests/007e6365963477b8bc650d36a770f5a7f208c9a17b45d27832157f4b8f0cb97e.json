@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mayor-square-mayor-street-lower-ifsc-dublin-1-dublin-1/6035838",
+  "fetchedAt": "2026-10-05T09:02:39.945Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mayor-square-mayor-street-lower-ifsc-dublin-1-dublin-1/6035838",
+  "kind": "listing",
+  "responseSha256": "f80f990a0d26f2fdbf25f15c33ae35e266caab2dee56cdbd8ef5a1681a10b6f2",
+  "files": [
+    {
+      "path": "daft/00195-007e6365963477b8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8b66c2c3d0e43665ac83fbfc49289e2e8f10fc628e43f3bcbc6e8360c94c181c",
+      "bytes": 86525
+    },
+    {
+      "path": "daft/00195-007e6365963477b8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7b8948e67e4d8718f9c45042d43459ef7361fef69bc4c4fe9005b2b65a05b18b",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

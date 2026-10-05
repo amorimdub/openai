@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-2-1-drummond-house-chapelizod-dublin-20/6648946",
+  "fetchedAt": "2026-10-05T09:18:51.649Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-2-1-drummond-house-chapelizod-dublin-20/6648946",
+  "kind": "listing",
+  "responseSha256": "579395236008684156c5dee4e8fd26c0af98dedb127baccd4696bd6e8ff88258",
+  "files": [
+    {
+      "path": "daft/00842-5c963e4871048c11-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9259f394533c6c7c4b81f0d53bdacd6a2071fddbab9179a5713e0859fe5f223d",
+      "bytes": 44515
+    },
+    {
+      "path": "daft/00842-5c963e4871048c11-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d3e775a82d023149d86018084543bfcd2913d38da2cb675624da7017636a49e6",
+      "bytes": 8130
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

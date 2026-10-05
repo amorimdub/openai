@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/exchange-hall-tallaght-dublin-24/6686378",
+  "fetchedAt": "2026-10-05T09:29:15.071Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/exchange-hall-tallaght-dublin-24/6686378",
+  "kind": "listing",
+  "responseSha256": "3695f4f94b3c0bbf9c02ba681983b3b22d4fd4af8e8f716df7c6111b706d857b",
+  "files": [
+    {
+      "path": "daft/01257-95d9a3c8920633b5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e78ebef4b47601e2d32e56034b589daedac910047595a4c554350f67dd0740e",
+      "bytes": 9029
+    },
+    {
+      "path": "daft/01257-95d9a3c8920633b5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "eebfff8ff38d4d252bb53d9ead8346a0afbbd3a3a9fea05ea76a1db7db4e49b8",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=54",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=54",
+  "fetchedAt": "2026-10-05T09:39:45.622Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "a7428076f83070ce981e181ad9c02b1edeea872c916d759a4225e7b2aea4828b",
+  "files": [
+    {
+      "path": "myhome/01672-5f7a96855b150ecb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=54\"].SearchResults",
+      "sha256": "19272f829835d8c43f6ea0cd182192d612cd0fa575e16501f93e05963626af06",
+      "bytes": 118544
+    },
+    {
+      "path": "myhome/01672-5f7a96855b150ecb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=54\"] (paging fields)",
+      "sha256": "d90092bcca1d094e85654c5c14cdd3ee031ecb1a99db0ab9243aa3752491f079",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/18-king-edward-lawn-bray-co-wicklow/5025227",
+    "https://www.myhome.ie/residential/brochure/57b-sidmonton-gardens-bray-co-wicklow/5025912",
+    "https://www.myhome.ie/residential/brochure/1-davitt-road-bray-co-wicklow/5025087",
+    "https://www.myhome.ie/residential/brochure/cloona-glencap-road-kilmacanogue-co-wicklow/5011681",
+    "https://www.myhome.ie/residential/brochure/ivy-cottage-2-meath-place-bray-co-wicklow/5027408",
+    "https://www.myhome.ie/residential/brochure/190-clonmore-ballyviniter-mallow-cork/5031089",
+    "https://www.myhome.ie/residential/brochure/32-highfield-lawns-forest-road-swords-co-dublin/5007845",
+    "https://www.myhome.ie/residential/brochure/1125-walterstown-nurney-kildare/5031319",
+    "https://www.myhome.ie/residential/brochure/7-beverton-close-turvey-avenue-donabate-co-dublin/5017756",
+    "https://www.myhome.ie/residential/brochure/18-the-avenue-lutterell-hall-dunboyne-co-meath/5025049",
+    "https://www.myhome.ie/residential/brochure/7-millers-avenue-millers-glen-swords-co-dublin/5023446",
+    "https://www.myhome.ie/residential/brochure/tall-trees-whitestown-oldtown-dublin/5026318",
+    "https://www.myhome.ie/residential/brochure/10-fairyhouse-lodge-fairyhouse-road-ratoath-co-meath/5031328",
+    "https://www.myhome.ie/residential/brochure/33-southbank-swords-co-dublin/5026654",
+    "https://www.myhome.ie/residential/brochure/4-fairfields-close-adamstown-wexford/5031320",
+    "https://www.myhome.ie/residential/brochure/51-cedar-grove-ridgewood-swords-co-dublin/5028175",
+    "https://www.myhome.ie/residential/brochure/117-faussagh-avenue-cabra-dublin-7/5031327",
+    "https://www.myhome.ie/residential/brochure/27-clarinda-park-west-dun-laoghaire-co-dublin/5031326",
+    "https://www.myhome.ie/residential/brochure/20-the-village-green-ratoath-co-meath/5031325",
+    "https://www.myhome.ie/residential/brochure/6-ridgewood-square-ridgewood-swords-co-dublin/5029782"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=55",
+  "paginationLimited": false
+}

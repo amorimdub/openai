@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/4-bedroom-house-occu-hollywoodrath-hollywoodrath-hollystown-co-dublin/5742818",
+  "fetchedAt": "2026-10-05T09:06:55.238Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/4-bedroom-house-occu-hollywoodrath-hollywoodrath-hollystown-co-dublin/5742818",
+  "kind": "listing",
+  "responseSha256": "8383b7f1e64b67238e9bb66d6f55c5bcf647c8d659916c84df771c987a8c912e",
+  "files": [
+    {
+      "path": "daft/00365-28e179b3cfb4f873-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ee7c8415cb05071a367cbc7c8bfe14821196896b010f2a7cfe0ab7606e7fc909",
+      "bytes": 27990
+    },
+    {
+      "path": "daft/00365-28e179b3cfb4f873-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "606dcb78a2cedf12a8bbc95e6fcc7a6213ed467faef8b26385f7b0c6f0c1af87",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=11",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=11",
+  "fetchedAt": "2026-10-05T09:06:47.032Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "01876406b26acfdfeb7a43c33be5d5272974735b39990e2d9d1ac7c4b25fb5e5",
+  "files": [
+    {
+      "path": "myhome/00359-4a3bacfb737905dd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=11\"].SearchResults",
+      "sha256": "1fa92a399831805c5329fe6f117457052e97560e41688b9772d19135f8239297",
+      "bytes": 97329
+    },
+    {
+      "path": "myhome/00359-4a3bacfb737905dd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=11\"] (paging fields)",
+      "sha256": "4e4296a278cd4acbaa41b6451682f04df7105b61abd5242d1ecd0e63ff667882",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/melville-cove-finglas-dublin-11/5030292",
+    "https://www.myhome.ie/rentals/brochure/27-the-court-bettyglen-raheny-dublin-5/5030273",
+    "https://www.myhome.ie/rentals/brochure/coultry-forum-centre-santry-dublin-9/5030272",
+    "https://www.myhome.ie/rentals/brochure/castle-avenue-leixlip-co-kildare/5030267",
+    "https://www.myhome.ie/rentals/brochure/monksfield-heights-clondalkin-dublin-22/5030161",
+    "https://www.myhome.ie/rentals/brochure/thompson-cottages-north-city-centre-dublin-1/5030135",
+    "https://www.myhome.ie/rentals/brochure/hampton-court-bushfield-avenue-donnybrook-dublin-4-dublin/5030129",
+    "https://www.myhome.ie/rentals/brochure/8-beechwood-park-tinahely-wicklow/5030108",
+    "https://www.myhome.ie/rentals/brochure/67-rann-m-r-walk-crievesmith-letterkenny-county-donegal/5030101",
+    "https://www.myhome.ie/rentals/brochure/killannin-house-killeencoff-westport-co-mayo/5030082",
+    "https://www.myhome.ie/rentals/brochure/house-d-carnamuggagh-upper-letterkenny-county-donegal/5030078",
+    "https://www.myhome.ie/rentals/brochure/apartment-1-block-b-smithfield-gate-smithfield-dublin-7/5030057",
+    "https://www.myhome.ie/rentals/brochure/36-woodbank-avenue-finglas-dublin-11/5030024",
+    "https://www.myhome.ie/rentals/brochure/12-beau-park-crescent-clongriffin-dublin-13-co-dublin/5030007",
+    "https://www.myhome.ie/rentals/brochure/cape-clear-island-baltimore-west-cork/5030005",
+    "https://www.myhome.ie/rentals/brochure/apartment-3-friary-close-christchurch-dublin-8/5029973",
+    "https://www.myhome.ie/rentals/brochure/140-glencarrig-sutton-dublin-13/5029939",
+    "https://www.myhome.ie/rentals/brochure/seagrave-drive-finglas-dublin-11/5029949",
+    "https://www.myhome.ie/rentals/brochure/laurel-house-carrickmines-dublin-18/5029936",
+    "https://www.myhome.ie/rentals/brochure/apartment-235-opus-6-hanover-quay-grand-canal-dk-dublin-2/5029879"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=12",
+  "paginationLimited": false
+}

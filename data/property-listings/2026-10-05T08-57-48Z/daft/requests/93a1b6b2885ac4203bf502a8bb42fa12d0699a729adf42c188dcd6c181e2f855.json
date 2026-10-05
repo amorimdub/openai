@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-paddocks-view-adamstown-lucan-co-dublin/6686258",
+  "fetchedAt": "2026-10-05T09:30:06.151Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-paddocks-view-adamstown-lucan-co-dublin/6686258",
+  "kind": "listing",
+  "responseSha256": "f608aeae6d1c3ec7190840cd052ef483d7ac0f5e0d923a825ea95d9098f84d7f",
+  "files": [
+    {
+      "path": "daft/01291-93a1b6b2885ac420-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "644db0210d5aa05a4335d18b9702129e9d86928264a032af36de4bf6b637d9e2",
+      "bytes": 57796
+    },
+    {
+      "path": "daft/01291-93a1b6b2885ac420-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ae01e22c0b4872157fd240dcf919f62b29755cff89cbbdb5d7be9effb456cf2f",
+      "bytes": 8197
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

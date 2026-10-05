@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=459",
+  "fetchedAt": "2026-10-05T14:11:07.564Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=459",
+  "kind": "search",
+  "responseSha256": "f8a30758a2bc66ad220202f51dca1d9e0f264712f35bcb6f3972749616d23fe6",
+  "files": [
+    {
+      "path": "myhome/09972-7f497e040e09237a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=459\"].SearchResults",
+      "sha256": "51baf0df1c985d930bd8c171adf1df1b91480b97bd4a88a90bd55e7298e1da47",
+      "bytes": 110898
+    },
+    {
+      "path": "myhome/09972-7f497e040e09237a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=459\"] (paging fields)",
+      "sha256": "e691f986e91a7bf6849cf169b20060cfe6b0e74aa30924a7562ddf660aa07819",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/12-laurel-hill-court-summerville-avenue-south-circular-road-county-limerick/5007649",
+    "https://www.myhome.ie/residential/brochure/hillside-on-c-15-91acres-glenbeg-dungarvan-county-waterford/5007647",
+    "https://www.myhome.ie/residential/brochure/54-pairc-brouen-cloughduv-crookstown-co-cork/5007644",
+    "https://www.myhome.ie/residential/brochure/stonepark-aclare-sligo/5007640",
+    "https://www.myhome.ie/residential/brochure/ballymorris-cratloe-co-clare/5007625",
+    "https://www.myhome.ie/residential/brochure/106-academy-square-academy-street-navan-co-meath/5007621",
+    "https://www.myhome.ie/residential/brochure/apartment-6-6-mcdonagh-street-nenagh-co-tipperary/5007618",
+    "https://www.myhome.ie/residential/brochure/5-sandeel-cottages-hookless-village-fethard-on-sea-wexford/5007614",
+    "https://www.myhome.ie/residential/brochure/92-rafters-road-drimnagh-dublin-12/4999022",
+    "https://www.myhome.ie/residential/brochure/leenane-road-carrowbaun-westport-co-mayo/5007612",
+    "https://www.myhome.ie/residential/brochure/212-mullantine-rathangan-kildare/5007610",
+    "https://www.myhome.ie/residential/brochure/dorothy-wall-house-knockroe-castlerea-roscommon/5006930",
+    "https://www.myhome.ie/residential/brochure/ballycotton-north-liscannor-clare/5007606",
+    "https://www.myhome.ie/residential/brochure/20-hibernian-buildings-albert-street-city-centre-sth-cork-city/5006935",
+    "https://www.myhome.ie/residential/brochure/42-o-carolan-s-court-kilronan-ballyfarnon-roscommon/5006931",
+    "https://www.myhome.ie/residential/brochure/62-cooley-road-drimnagh-dublin-12/4998469",
+    "https://www.myhome.ie/residential/brochure/bridget-cronin-house-main-street-castlerea-roscommon/5006933",
+    "https://www.myhome.ie/residential/brochure/18-griffen-glen-crescent-lucan-co-dublin/5007593",
+    "https://www.myhome.ie/residential/brochure/ballynamuddagh-house-farm-approx-62-9-ha-155-4-acres-dromin-kilmallock-county-limerick/5007592",
+    "https://www.myhome.ie/residential/brochure/120-kickham-road-inchicore-dublin-8/4973691"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=460",
+  "paginationLimited": false
+}

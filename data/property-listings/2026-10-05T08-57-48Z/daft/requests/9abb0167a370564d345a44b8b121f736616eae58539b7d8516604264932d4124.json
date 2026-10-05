@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apt-4-langford-hall-langford-row-cork-city-centre-co-cork/6685925",
+  "fetchedAt": "2026-10-05T09:32:30.312Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apt-4-langford-hall-langford-row-cork-city-centre-co-cork/6685925",
+  "kind": "listing",
+  "responseSha256": "d177407443caaaefc8b0553c2e86c22b80123c57035164384eaadc68eda1b828",
+  "files": [
+    {
+      "path": "daft/01387-9abb0167a370564d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8bd1497e4bf2d40acc42883940c01e3d7fd130618b8c0a0a510aad56f3b8b983",
+      "bytes": 22394
+    },
+    {
+      "path": "daft/01387-9abb0167a370564d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a8facd9d7afb756b6cd4d64a396bde8dbbe439f6973bfe3f2b645a6b5ad7177d",
+      "bytes": 8004
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

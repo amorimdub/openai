@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=225",
+  "fetchedAt": "2026-10-05T12:10:28.198Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=225",
+  "kind": "search",
+  "responseSha256": "b614ce78afbfd4801fa4eff19e0bdfbefbc780086a56398b9fe0dd73bb6086e3",
+  "files": [
+    {
+      "path": "myhome/05161-778817ef873aa741-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=225\"].SearchResults",
+      "sha256": "22fe6d0c8bd23d4949ec6e7d5ef09122405c9fb93c57a7bab94bfb310976318e",
+      "bytes": 117256
+    },
+    {
+      "path": "myhome/05161-778817ef873aa741-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=225\"] (paging fields)",
+      "sha256": "d6fa4648e47678c2fac6cdda960357db89f896090c6aaa9a70e80c8b42c239df",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/41-churchview-park-watson-estate-killiney-county-dublin/5026907",
+    "https://www.myhome.ie/residential/brochure/4-merton-hall-mount-st-anne-s-milltown-dublin-6/5026915",
+    "https://www.myhome.ie/residential/brochure/manor-house-bellvue-cobh-co-cork-cobh-cork/5026909",
+    "https://www.myhome.ie/residential/brochure/400-mourne-road-drimnagh-dublin-12/5026882",
+    "https://www.myhome.ie/residential/brochure/1-spire-view-patrick-street-mountrath-laois/5026891",
+    "https://www.myhome.ie/residential/brochure/12-portersgate-close-portersgate-clonsilla-dublin-15-dublin/5026905",
+    "https://www.myhome.ie/residential/brochure/9a-oaklawn-pearse-road-sligo-sligo/5025432",
+    "https://www.myhome.ie/residential/brochure/16-swift-hall-collegewood-castleknock-dublin-15/5026895",
+    "https://www.myhome.ie/residential/brochure/1-redford-park-greystones-co-wicklow/5026901",
+    "https://www.myhome.ie/residential/brochure/12-huband-court-percy-place-dublin-4/5026898",
+    "https://www.myhome.ie/residential/brochure/apartment-20-the-moore-gresham-house-cathal-brugha-street-dublin-1-d01dh67/5026896",
+    "https://www.myhome.ie/residential/brochure/124-aylmer-park-naas-co-kildare/5026194",
+    "https://www.myhome.ie/residential/brochure/bellamar-main-street-commons-little-newcastle-co-dublin/5026245",
+    "https://www.myhome.ie/residential/brochure/1-glebe-green-newcastle-dublin-22/5026767",
+    "https://www.myhome.ie/residential/brochure/stradbally-north-clarinbridge-county-galway/5026894",
+    "https://www.myhome.ie/residential/brochure/45-hazelwood-taylors-hill-galway/5026893",
+    "https://www.myhome.ie/residential/brochure/36-wilson-road-mount-merrion-co-dublin/5026889",
+    "https://www.myhome.ie/residential/brochure/carrigaunroe-shanballymore-co-cork/5026888",
+    "https://www.myhome.ie/residential/brochure/2-clogheen-grove-clonakilty-west-cork/5025843",
+    "https://www.myhome.ie/residential/brochure/8-woodlands-green-renmore-galway-city/5026884"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=226",
+  "paginationLimited": false
+}

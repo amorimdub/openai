@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bedroom-house-occu-strand-view-howth-road-raheny-co-dublin/5344120",
+  "fetchedAt": "2026-10-05T09:09:56.944Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bedroom-house-occu-strand-view-howth-road-raheny-co-dublin/5344120",
+  "kind": "listing",
+  "responseSha256": "c142fcdff8fce2bb6972bba3815ab1be71a6ee48ccf475051aebc032b4a3d95c",
+  "files": [
+    {
+      "path": "daft/00486-d7fafbb3f460a0e8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9d098c1c6b1cb065fb4849d4290be75800ad367df1622cac9788d15ecacfd619",
+      "bytes": 52557
+    },
+    {
+      "path": "daft/00486-d7fafbb3f460a0e8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5ed06c9bec09e39f743cbd1a3cc3cc93e345650124c7948f6de66cbfe718fd44",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

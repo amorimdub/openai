@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-3-lock-mills-grove-island-corbally-co-limerick/6679006",
+  "fetchedAt": "2026-10-05T09:17:20.051Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-3-lock-mills-grove-island-corbally-co-limerick/6679006",
+  "kind": "listing",
+  "responseSha256": "fbf02fd4e19b1b7684cda2f74aab5dd082fb5ae024bdab3a577ed3d7798f6e4b",
+  "files": [
+    {
+      "path": "daft/00781-dedd4b4d8c4b8c8c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "21d0b77b79161713acb71e05458b4d9b540eed0380bb60c17d5b90046cf87671",
+      "bytes": 36949
+    },
+    {
+      "path": "daft/00781-dedd4b4d8c4b8c8c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "98de930c98d8be312e5667af6ad0e7560707785ad332736545fef3a07d65e24b",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

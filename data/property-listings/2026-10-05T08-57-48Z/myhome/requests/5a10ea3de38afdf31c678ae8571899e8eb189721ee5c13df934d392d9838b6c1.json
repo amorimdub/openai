@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=456",
+  "fetchedAt": "2026-10-05T14:09:32.879Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=456",
+  "kind": "search",
+  "responseSha256": "7ee3b0096469839ec352fce0036021da74a8f7197f6fb4a073584f25cfdcbdd4",
+  "files": [
+    {
+      "path": "myhome/09909-5a10ea3de38afdf3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=456\"].SearchResults",
+      "sha256": "c85997fbb9e5ccb0bd30d81ea3c0e0e065c82a9926eb2d6fbd62cba64a3c604f",
+      "bytes": 97472
+    },
+    {
+      "path": "myhome/09909-5a10ea3de38afdf3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=456\"] (paging fields)",
+      "sha256": "e3651076c847d07ce5d8ce5b4242767c0897bce093a0aace1e65e23156bec31c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-alderpark-court-tallaght-dublin-24/4999705",
+    "https://www.myhome.ie/residential/brochure/ballea-carrigaline-cork/5007756",
+    "https://www.myhome.ie/residential/brochure/lackagh-doon-co-offaly/5007873",
+    "https://www.myhome.ie/residential/brochure/dra-ocht-na-scealg-moyrisk-killonecaha-ballinskelligs-kerry/5007889",
+    "https://www.myhome.ie/residential/brochure/edmund-rice-pastoral-centre-rosary-place-midleton-co-cork/5007883",
+    "https://www.myhome.ie/residential/brochure/8-washington-court-annes-street-city-centre-sth-cork-city/5007866",
+    "https://www.myhome.ie/residential/brochure/lands-coolroe-graiguenamanagh-co-kilkenny/5007867",
+    "https://www.myhome.ie/residential/brochure/12-hampton-wood-park-finglas-dublin-11/5007849",
+    "https://www.myhome.ie/residential/brochure/19-newpark-close-chapel-road-kinsealy-malahide-dublin/5007341",
+    "https://www.myhome.ie/residential/brochure/3-an-reilean-cul-ard-carrigtwohill-cork/5007851",
+    "https://www.myhome.ie/residential/brochure/apartment-3-219-clontarf-road-clontarf-dublin-3/5007848",
+    "https://www.myhome.ie/residential/brochure/site-at-ballyeagh-ballybunion-co-kerry/5005415",
+    "https://www.myhome.ie/residential/brochure/62-ballyowen-hall-lucan-dublin/5007839",
+    "https://www.myhome.ie/residential/brochure/5-woodpark-quay-road-westport-co-mayo/5007832",
+    "https://www.myhome.ie/residential/brochure/the-virginia-white-pines-central-rathfarnham-dublin-16/4999760",
+    "https://www.myhome.ie/residential/brochure/the-anchor-the-docks-graiguenamanagh-kilkenny/5005777",
+    "https://www.myhome.ie/residential/brochure/10-saint-jospeh-s-terrace-carrickmacross-monaghan/5007740",
+    "https://www.myhome.ie/residential/brochure/7-slade-castle-heights-saggart-dublin/5007818",
+    "https://www.myhome.ie/residential/brochure/type-b3-bellingham-manor-dundalk-road-castlebellingham-louth/5000611",
+    "https://www.myhome.ie/residential/brochure/type-c2-bellingham-manor-dundalk-road-castlebellingham-louth/5000608"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=457",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/town-centre-mitchelstown-mitchelstown-co-cork/6685778",
+  "fetchedAt": "2026-10-05T09:34:22.924Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/town-centre-mitchelstown-mitchelstown-co-cork/6685778",
+  "kind": "listing",
+  "responseSha256": "87134a5b74602ad92d974a63fa5c3bc845373e1558cf45b3fe3b3ea4db2bcbae",
+  "files": [
+    {
+      "path": "daft/01462-9d3f34eadb96521a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4a47c350efd3d4133f82d57ea0527ed572f4372e47b908012e72391e670f105a",
+      "bytes": 9301
+    },
+    {
+      "path": "daft/01462-9d3f34eadb96521a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f8e727a57e99deab8a6347178c92f89e5de46947753d9cf37cb5808dcb5a3c69",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

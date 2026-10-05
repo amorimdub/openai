@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=492",
+  "fetchedAt": "2026-10-05T14:28:00.676Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=492",
+  "kind": "search",
+  "responseSha256": "848c86aea202e62ca4c98555aa2945fbc56940490eb9314b64dcc59f853abe59",
+  "files": [
+    {
+      "path": "myhome/10646-ed3659d86e8738c6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=492\"].SearchResults",
+      "sha256": "5e411c09feec7ace8360f62ef27470b9531ed87d2e07dfb4e9340a01bf05985f",
+      "bytes": 124627
+    },
+    {
+      "path": "myhome/10646-ed3659d86e8738c6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=492\"] (paging fields)",
+      "sha256": "ed1fb626f440ebee52433c3c512b12cfe24ef1af719952b676b7bc0cec56a32d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ardskea-beg-ballyglunin-co-galway/5003441",
+    "https://www.myhome.ie/residential/brochure/131-lissadyra-tuam-co-galway/5003440",
+    "https://www.myhome.ie/residential/brochure/carrowreagh-ballyhaunis-mayo/5003436",
+    "https://www.myhome.ie/residential/brochure/scilly-kinsale-cork/5003394",
+    "https://www.myhome.ie/residential/brochure/an-droichead-marlfield-clonmel-tipperary/5003420",
+    "https://www.myhome.ie/residential/brochure/inish-turbot-island-clifden-galway/5003418",
+    "https://www.myhome.ie/residential/brochure/16-gilford-terrace-sandymount-dublin-4/5003417",
+    "https://www.myhome.ie/residential/brochure/4-carraig-dun-kells-meath/5003401",
+    "https://www.myhome.ie/residential/brochure/templetown-fethard-co-wexford/4965997",
+    "https://www.myhome.ie/residential/brochure/rosebrook-cottage-carrigeen-kilglass-co-roscommon/5003395",
+    "https://www.myhome.ie/residential/brochure/ave-maria-baileborough-road-kingscourt-co-cavan-a82-f767/5003176",
+    "https://www.myhome.ie/residential/brochure/6-cluain-doire-newtownforbes-co-longford/5003393",
+    "https://www.myhome.ie/residential/brochure/rookery-house-rookery-road-killarney-co-kerry/5003391",
+    "https://www.myhome.ie/residential/brochure/48-park-vale-grange-rath-colpe-east-drogheda-meath/5003381",
+    "https://www.myhome.ie/residential/brochure/hampden-hill-donabate-dublin/5003373",
+    "https://www.myhome.ie/residential/brochure/hampden-hill-donabate-dublin/5003379",
+    "https://www.myhome.ie/residential/brochure/9-cathair-con-raoi-dingle-kerry/5003359",
+    "https://www.myhome.ie/residential/brochure/7-college-green-dunshaughlin-meath/5003370",
+    "https://www.myhome.ie/residential/brochure/544-courtown-road-kilcock-naas-co-kildare/5003371",
+    "https://www.myhome.ie/residential/brochure/sraleigh-waterfall-cork/5003287"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=493",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/allenstown-bohermeen-co-meath/6580821",
+  "fetchedAt": "2026-10-05T09:39:20.244Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/allenstown-bohermeen-co-meath/6580821",
+  "kind": "listing",
+  "responseSha256": "5038937fa3a8ca52245ade63c7460f606058699b0ad061e937036a2432387c5e",
+  "files": [
+    {
+      "path": "daft/01660-a53ff69eab1244ea-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "42c0c165877d2f29da6b56424ae31c0ed403300750f2809e64aa0dcbcbcd3bf7",
+      "bytes": 62424
+    },
+    {
+      "path": "daft/01660-a53ff69eab1244ea-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "276f573e1214da856a820638993af94165365fcfc7411972fd79e948ecff3152",
+      "bytes": 8016
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

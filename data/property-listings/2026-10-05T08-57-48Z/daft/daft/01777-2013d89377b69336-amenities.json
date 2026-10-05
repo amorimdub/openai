@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SETANTA SPECIAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.282413",
+        "lon": "-6.188391"
+      }
+    },
+    {
+      "schoolName": "ST. AUGUSTINE'S SCHOOL",
+      "numPupils": 159,
+      "distance": {
+        "value": 0.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288353",
+        "lon": "-6.181879"
+      }
+    },
+    {
+      "schoolName": "HOLLYPARK BOYS NATIONAL SCHOOL",
+      "numPupils": 512,
+      "distance": {
+        "value": 0.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280193",
+        "lon": "-6.174952"
+      }
+    },
+    {
+      "schoolName": "HOLLYPARK GIRLS NATIONAL SCHOOL",
+      "numPupils": 487,
+      "distance": {
+        "value": 0.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279633",
+        "lon": "-6.175485"
+      }
+    },
+    {
+      "schoolName": "ALL SAINTS NATIONAL SCHOOL BLACKROCK",
+      "numPupils": 50,
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289375",
+        "lon": "-6.180872"
+      }
+    },
+    {
+      "schoolName": "ST BRIGIDS NATIONAL SCHOOL",
+      "numPupils": 102,
+      "distance": {
+        "value": 0.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285316",
+        "lon": "-6.196701"
+      }
+    },
+    {
+      "schoolName": "GUARDIAN ANGELS' NATIONAL SCHOOL",
+      "numPupils": 430,
+      "distance": {
+        "value": 1.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292507",
+        "lon": "-6.171458"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL LAIGHEAN",
+      "numPupils": 105,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280205",
+        "lon": "-6.162594"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S NATIONAL SCHOOL",
+      "numPupils": 408,
+      "distance": {
+        "value": 1.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.281870",
+        "lon": "-6.204956"
+      }
+    },
+    {
+      "schoolName": "KILL O' THE GRANGE NATIONAL SCHOOL",
+      "numPupils": 208,
+      "distance": {
+        "value": 1.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278220",
+        "lon": "-6.161892"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "NEWPARK COMPREHENSIVE SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 1.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289818",
+        "lon": "-6.173190"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE FOXROCK",
+      "numPupils": 637,
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272797",
+        "lon": "-6.176822"
+      }
+    },
+    {
+      "schoolName": "ROCKFORD MANOR SECONDARY SCHOOL",
+      "numPupils": 285,
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287060",
+        "lon": "-6.163007"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S SECONDARY SCHOOL",
+      "numPupils": 631,
+      "distance": {
+        "value": 1.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283104",
+        "lon": "-6.205334"
+      }
+    },
+    {
+      "schoolName": "OATLANDS COLLEGE",
+      "numPupils": 634,
+      "distance": {
+        "value": 1.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292484",
+        "lon": "-6.202487"
+      }
+    },
+    {
+      "schoolName": "NORD ANGLIA INTERNATIONAL SCHOOL DUBLIN",
+      "numPupils": 630,
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2669",
+        "lon": "-6.1986"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE SION HILL",
+      "numPupils": 508,
+      "distance": {
+        "value": 2.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301594",
+        "lon": "-6.189679"
+      }
+    },
+    {
+      "schoolName": "CLONKEEN COLLEGE",
+      "numPupils": 630,
+      "distance": {
+        "value": 2.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269830",
+        "lon": "-6.157335"
+      }
+    },
+    {
+      "schoolName": "BLACKROCK COLLEGE",
+      "numPupils": 1053,
+      "distance": {
+        "value": 2.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303650",
+        "lon": "-6.190333"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS COLLEGE",
+      "numPupils": 564,
+      "distance": {
+        "value": 2.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289770",
+        "lon": "-6.148046"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Granville Park",
+      "route": "114",
+      "destination": "Ticknock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.282148",
+        "lon": "-6.180121"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Granville Park",
+      "route": "S8",
+      "destination": "Citywest",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.282148",
+        "lon": "-6.180121"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Holly Park Avenue",
+      "route": "114",
+      "destination": "Blackrock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283261",
+        "lon": "-6.178844"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Holly Park Avenue",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283261",
+        "lon": "-6.178844"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Newtownpark Avenue",
+      "route": "114",
+      "destination": "Blackrock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279834",
+        "lon": "-6.183338"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Newtownpark Avenue",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279834",
+        "lon": "-6.183338"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Road",
+      "route": "114",
+      "destination": "Ticknock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27962",
+        "lon": "-6.183452"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stillorgan Road",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27919",
+        "lon": "-6.18431"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Meadow Close",
+      "route": "114",
+      "destination": "Blackrock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284895",
+        "lon": "-6.177544"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Meadow Close",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284895",
+        "lon": "-6.177544"
+      }
+    }
+  ]
+}

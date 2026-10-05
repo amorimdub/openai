@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=198",
+  "fetchedAt": "2026-10-05T11:56:41.502Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=198",
+  "kind": "search",
+  "responseSha256": "11372488387ba2bddb73241ec69719310ec3c697b9118428093f201a2c9d84d2",
+  "files": [
+    {
+      "path": "myhome/04611-ac684249e1e418de-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=198\"].SearchResults",
+      "sha256": "a84aad18c205a6b4ca7bd20cf190a3039492505420a5037f7f81abf31a7488d0",
+      "bytes": 121662
+    },
+    {
+      "path": "myhome/04611-ac684249e1e418de-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=198\"] (paging fields)",
+      "sha256": "80a11a88a1839cf8d70f116f6b7b863901a5403802a5e3c4f5e6fddb3f0a1baf",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-the-sycamores-freshford-road-kilkenny-kilkenny/5027684",
+    "https://www.myhome.ie/residential/brochure/12-primrose-crescent-the-pastures-charleville-cork/5027685",
+    "https://www.myhome.ie/residential/brochure/onagh-farm-lodge-enniskerry-co-wicklow/5027681",
+    "https://www.myhome.ie/residential/brochure/8-laraghcon-lucan-co-dublin/5011656",
+    "https://www.myhome.ie/residential/brochure/2580-dara-park-newbridge-co-kildare/5027680",
+    "https://www.myhome.ie/residential/brochure/74-de-selby-crescent-citywest-dublin-24/5003252",
+    "https://www.myhome.ie/residential/brochure/7-hardy-s-lane-blackrock-louth/5027676",
+    "https://www.myhome.ie/residential/brochure/22-ardrew-heights-dun-brinn-athy-county-kildare/5027678",
+    "https://www.myhome.ie/residential/brochure/115-castlegate-way-adamstown-co-dublin/5022095",
+    "https://www.myhome.ie/residential/brochure/27-ardbeg-park-artane-dublin-5/5027626",
+    "https://www.myhome.ie/residential/brochure/tonniscoffy-dunraymond-ballybay-monaghan/4980714",
+    "https://www.myhome.ie/residential/brochure/10-shanliss-gardens-santry-dublin-9/5027658",
+    "https://www.myhome.ie/residential/brochure/narin-portnoo-county-donegal/5027672",
+    "https://www.myhome.ie/residential/brochure/lock-gates-lohercannon-tralee-kerry/5027670",
+    "https://www.myhome.ie/residential/brochure/13-the-drive-boden-park-rathfarnham-dublin-16/5027621",
+    "https://www.myhome.ie/residential/brochure/21-broad-street-limerick-city-limerick/5027640",
+    "https://www.myhome.ie/residential/brochure/17-treada-na-r-kilfinane-limerick/5027668",
+    "https://www.myhome.ie/residential/brochure/45-barrowvale-graiguecullen-carlow-county-laois/5027667",
+    "https://www.myhome.ie/residential/brochure/apartment-96-altan-western-distributor-road-knocknacarra-galway/5027665",
+    "https://www.myhome.ie/residential/brochure/3-dromhale-close-countess-road-killarney-co-kerry/5027662"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=199",
+  "paginationLimited": false
+}

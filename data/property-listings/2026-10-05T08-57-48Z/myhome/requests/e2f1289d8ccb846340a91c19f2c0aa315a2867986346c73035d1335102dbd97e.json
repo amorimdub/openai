@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=244",
+  "fetchedAt": "2026-10-05T12:20:24.980Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=244",
+  "kind": "search",
+  "responseSha256": "33a228efed105f51fc3728098b13097d0f6764adb5074cf07bd1f2ae252ade91",
+  "files": [
+    {
+      "path": "myhome/05558-e2f1289d8ccb8463-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=244\"].SearchResults",
+      "sha256": "c8590521e85086dc51241978f93908573899ffe42b77a10c1b9482290e0beee5",
+      "bytes": 122659
+    },
+    {
+      "path": "myhome/05558-e2f1289d8ccb8463-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=244\"] (paging fields)",
+      "sha256": "13e7f87e9107580cf4518b0a35b726143fb6bdb13cd908bc0c81b5e9728a6599",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/oakfield-dunboyne-co-meath-the-beech-2-bedroom-apartment/5026271",
+    "https://www.myhome.ie/residential/brochure/14-meadows-lane-arklow-co-wicklow/5026274",
+    "https://www.myhome.ie/residential/brochure/harpur-house-william-street-drogheda-louth/5025655",
+    "https://www.myhome.ie/residential/brochure/oakfield-dunboyne-meath-the-willow-2-bedroom-apartment/4913077",
+    "https://www.myhome.ie/residential/brochure/71-hazelbury-park-clonee-dublin-15/5026266",
+    "https://www.myhome.ie/residential/brochure/site-at-blackdown-kilteel-kildare/5026261",
+    "https://www.myhome.ie/residential/brochure/1-park-glen-grange-rath-drogheda-meath/5026259",
+    "https://www.myhome.ie/residential/brochure/9-moore-street-kilrush-co-clare/5026263",
+    "https://www.myhome.ie/residential/brochure/broher-curry-charlestown-sligo/5026260",
+    "https://www.myhome.ie/residential/brochure/11-deerpark-road-tallaght-dublin-24/5026255",
+    "https://www.myhome.ie/residential/brochure/baden-lodge-the-curragh-co-kildare/5026252",
+    "https://www.myhome.ie/residential/brochure/11-castletown-manor-athboy-meath/5025619",
+    "https://www.myhome.ie/residential/brochure/8-allendale-elms-clonsilla-dublin-15/5026250",
+    "https://www.myhome.ie/residential/brochure/22-the-arches-castle-farm-naas-co-kildare/5021976",
+    "https://www.myhome.ie/residential/brochure/16-cleevaun-naas-co-kildare/5018282",
+    "https://www.myhome.ie/residential/brochure/barrack-house-rathdangan-village-baltinglass-wicklow/5026247",
+    "https://www.myhome.ie/residential/brochure/41-nutley-avenue-ballsbridge-dublin-4/5026244",
+    "https://www.myhome.ie/residential/brochure/47-priorsgate-tallaght-dublin-24/5026240",
+    "https://www.myhome.ie/residential/brochure/apt-11-52-mountjoy-square-south-dublin-1-dublin/5026238",
+    "https://www.myhome.ie/residential/brochure/12-sean-bothar-latt-cavan-county-cavan/5026236"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=245",
+  "paginationLimited": false
+}

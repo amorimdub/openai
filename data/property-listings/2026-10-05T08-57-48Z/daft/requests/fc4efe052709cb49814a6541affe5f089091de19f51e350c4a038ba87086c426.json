@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/alto-vetro-grand-canal-square-dublin-2/2316503",
+  "fetchedAt": "2026-10-05T09:01:16.921Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/alto-vetro-grand-canal-square-dublin-2/2316503",
+  "kind": "listing",
+  "responseSha256": "f0433bad3ad086685a1df699754e4c735f7d5777e85886a68621b76793cb18f7",
+  "files": [
+    {
+      "path": "daft/00140-fc4efe052709cb49-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a024f4b581e7880224f04aa5c8554fa1f156e483d468d6cbf11e8801c5dfd44b",
+      "bytes": 105961
+    },
+    {
+      "path": "daft/00140-fc4efe052709cb49-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4a699cb1d08893a8251b08309849cb36540ddc90587bdc439dd2d304bb013abc",
+      "bytes": 8039
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-leicester-avenue-rathgar-dublin-6/6671956",
+  "fetchedAt": "2026-10-05T09:11:49.584Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-leicester-avenue-rathgar-dublin-6/6671956",
+  "kind": "listing",
+  "responseSha256": "3bf132a7f11f29aea4fb436aa7dd86a72ee1b20ed68bfa75027453ea56ae8387",
+  "files": [
+    {
+      "path": "daft/00561-f8775d7c9e8092e8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4f580881abbed5898261bceb2b77dc09477d5c625882e303ffc875f2af27acc0",
+      "bytes": 77017
+    },
+    {
+      "path": "daft/00561-f8775d7c9e8092e8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5c7a02d7c417f91060872c5b95dccd3d9ec98766598bce50da2385f75d55807b",
+      "bytes": 8027
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/off-borris-road-portlaoise-co-laois/6686373",
+  "fetchedAt": "2026-10-05T09:28:10.452Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/off-borris-road-portlaoise-co-laois/6686373",
+  "kind": "listing",
+  "responseSha256": "7f237671cab89cb205addd7020a4a6667cf17473fad3e0a9553ff197e0ec560e",
+  "files": [
+    {
+      "path": "daft/01214-876ffa249bc7ed13-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1b71328af8f2544d3262db4d91dd61d07b049e77a4d8da499ce14461f1426442",
+      "bytes": 10878
+    },
+    {
+      "path": "daft/01214-876ffa249bc7ed13-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-celtic-nest-main-street-ahascragh-ahascragh-co-galway/6665556",
+  "fetchedAt": "2026-10-05T09:13:21.220Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-celtic-nest-main-street-ahascragh-ahascragh-co-galway/6665556",
+  "kind": "listing",
+  "responseSha256": "b4328edcfb5b703ced4604929bf5db54d7ccf3eeadf7afea1f2982244d842a54",
+  "files": [
+    {
+      "path": "daft/00622-4bf472da6afb368f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "59d8688140199eb1519bcfcf9f149c5d5be6f408e1e0e9f6415cd85f1d7a3243",
+      "bytes": 30616
+    },
+    {
+      "path": "daft/00622-4bf472da6afb368f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9827b2a4b58a6aabb3cfd6dc770b4317244cf7542e5a48eebcd122b765ceb765",
+      "bytes": 8059
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

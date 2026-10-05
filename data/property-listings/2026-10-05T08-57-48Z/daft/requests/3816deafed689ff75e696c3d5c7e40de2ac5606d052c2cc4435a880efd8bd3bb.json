@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/hali-cherrywood-dublin-18-cherrywood-dublin-18/3652525",
+  "fetchedAt": "2026-10-05T09:02:33.937Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/hali-cherrywood-dublin-18-cherrywood-dublin-18/3652525",
+  "kind": "listing",
+  "responseSha256": "e31aab94540a2a562829c8e25b24aefa53ca985659606b117ef573bbf7199c29",
+  "files": [
+    {
+      "path": "daft/00191-3816deafed689ff7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e953891d8adfc4c68975d56e9455857b1a6e1dbee7508982795369ee091bda68",
+      "bytes": 341836
+    },
+    {
+      "path": "daft/00191-3816deafed689ff7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "927f3e8d0aea400253a5f5431a9943877a10ab9bc0a28905eb0360b1d8465918",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

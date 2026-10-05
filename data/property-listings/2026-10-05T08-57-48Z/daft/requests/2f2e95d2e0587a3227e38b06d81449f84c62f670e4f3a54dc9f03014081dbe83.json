@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/29-oakview-avenue-hartstown-dublin-15/6672514",
+  "fetchedAt": "2026-10-05T09:27:35.895Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/29-oakview-avenue-hartstown-dublin-15/6672514",
+  "kind": "listing",
+  "responseSha256": "c6127dd7efcdc76d218216beb67423d34138817e5dcad0c70023326c09b264e6",
+  "files": [
+    {
+      "path": "daft/01191-2f2e95d2e0587a32-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "afb7a5452b7915098c74132eb45aa79a9e87a775b59c394dd398855eb2299434",
+      "bytes": 66667
+    },
+    {
+      "path": "daft/01191-2f2e95d2e0587a32-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f068e1e1a3a5c61778a503d903fd1d098a438b3c2782dc027d82fc0bdd6c68f",
+      "bytes": 8096
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SCREEN NATIONAL SCHOOL",
+      "numPupils": 123,
+      "distance": {
+        "value": 1.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.411522",
+        "lon": "-6.408344"
+      }
+    },
+    {
+      "schoolName": "CASTLEBRIDGE NATIONAL SCHOOL",
+      "numPupils": 219,
+      "distance": {
+        "value": 2.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.387012",
+        "lon": "-6.450351"
+      }
+    },
+    {
+      "schoolName": "CURRACLOE NATIONAL SCHOOL",
+      "numPupils": 87,
+      "distance": {
+        "value": 3.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.392662",
+        "lon": "-6.391872"
+      }
+    },
+    {
+      "schoolName": "BALLYMURN NATIONAL SCHOOL",
+      "numPupils": 116,
+      "distance": {
+        "value": 4.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.441086",
+        "lon": "-6.474653"
+      }
+    },
+    {
+      "schoolName": "GOREY HILL SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 5.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.359875",
+        "lon": "-6.451888"
+      }
+    },
+    {
+      "schoolName": "CROSSABEG NATIONAL SCHOOL",
+      "numPupils": 214,
+      "distance": {
+        "value": 5.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.388626",
+        "lon": "-6.507845"
+      }
+    },
+    {
+      "schoolName": "OYLEGATE NATIONAL SCHOOL",
+      "numPupils": 145,
+      "distance": {
+        "value": 6.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.424618",
+        "lon": "-6.524560"
+      }
+    },
+    {
+      "schoolName": "BLACKWATER NATIONAL SCHOOL",
+      "numPupils": 232,
+      "distance": {
+        "value": 7.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.445663",
+        "lon": "-6.347638"
+      }
+    },
+    {
+      "schoolName": "MERCY SCHOOL, WEXFORD",
+      "numPupils": 380,
+      "distance": {
+        "value": 7.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.337880",
+        "lon": "-6.471257"
+      }
+    },
+    {
+      "schoolName": "DAVITT ROAD NATIONAL SCHOOL",
+      "numPupils": 79,
+      "distance": {
+        "value": 8.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.337020",
+        "lon": "-6.468993"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 930,
+      "distance": {
+        "value": 7.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.343796",
+        "lon": "-6.473906"
+      }
+    },
+    {
+      "schoolName": "SELSKAR COLLEGE (COLÁISTE SHEILSCIRE)",
+      "numPupils": 390,
+      "distance": {
+        "value": 7.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.341330",
+        "lon": "-6.467307"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 981,
+      "distance": {
+        "value": 8.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.336018",
+        "lon": "-6.464567"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS SECONDARY SCHOOL",
+      "numPupils": 721,
+      "distance": {
+        "value": 8.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.333530",
+        "lon": "-6.463419"
+      }
+    },
+    {
+      "schoolName": "ST. PETER'S COLLEGE",
+      "numPupils": 784,
+      "distance": {
+        "value": 8.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.335050",
+        "lon": "-6.472298"
+      }
+    },
+    {
+      "schoolName": "MEANSCOIL GHARMAN",
+      "numPupils": 228,
+      "distance": {
+        "value": 10.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.465145",
+        "lon": "-6.555841"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S C.B.S.",
+      "numPupils": 772,
+      "distance": {
+        "value": 13.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.497444",
+        "lon": "-6.569224"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BRÍDE",
+      "numPupils": 753,
+      "distance": {
+        "value": 13.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502815",
+        "lon": "-6.559186"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN ÁTHA",
+      "numPupils": 366,
+      "distance": {
+        "value": 15.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.511658",
+        "lon": "-6.285835"
+      }
+    },
+    {
+      "schoolName": "ENNISCORTHY COMMUNITY COLLEGE",
+      "numPupils": 472,
+      "distance": {
+        "value": 15.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.509655",
+        "lon": "-6.585215"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Screen",
+      "route": "WX91",
+      "destination": "Enniscorthy",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 1.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.41164",
+        "lon": "-6.40876"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebridge",
+      "route": "379",
+      "destination": "Gorey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.382226",
+        "lon": "-6.450364"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebridge",
+      "route": "877",
+      "destination": "Wexford O'Hanrahan Station",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 2.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.38114",
+        "lon": "-6.450272"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "WX91",
+      "destination": "Curracloe Beach",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393108",
+        "lon": "-6.391278"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393108",
+        "lon": "-6.391278"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "WX90",
+      "destination": "Curracloe Beach",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393108",
+        "lon": "-6.391278"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebridge",
+      "route": "884",
+      "destination": "Main Street",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 3.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.380664",
+        "lon": "-6.450461"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fairyhill",
+      "route": "877",
+      "destination": "Wexford O'Hanrahan Station",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 3.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.386257",
+        "lon": "-6.46647"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "875",
+      "destination": "Clonard Village",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 3.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.39295",
+        "lon": "-6.38824"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "872",
+      "destination": "Blackwater",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 3.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393016",
+        "lon": "-6.387976"
+      }
+    }
+  ]
+}

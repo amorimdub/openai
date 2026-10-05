@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/15-the-crescent-highfield-park-ballincollig-co-cork/6685740",
+  "fetchedAt": "2026-10-05T09:34:31.935Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/15-the-crescent-highfield-park-ballincollig-co-cork/6685740",
+  "kind": "listing",
+  "responseSha256": "465a36682dbfee22c8daf263988cd9c936fba0b0635fcf413b39aa71e5f5a9e1",
+  "files": [
+    {
+      "path": "daft/01468-968c96b5e3118ea0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5aa289b06cc0a365a37b4198e347c5a769dc368b522b73350ddc7d391a32bd56",
+      "bytes": 24888
+    },
+    {
+      "path": "daft/01468-968c96b5e3118ea0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3db95e8ef6ac1caccecd939c41804255e61750dc658c1abbe35b8d1f0f199db5",
+      "bytes": 8014
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mill-parade-lower-bridge-street-athboy-co-meath/6683555",
+  "fetchedAt": "2026-10-05T09:48:07.592Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mill-parade-lower-bridge-street-athboy-co-meath/6683555",
+  "kind": "listing",
+  "responseSha256": "fef3b71fd6bc6c85449e411ed603682036e6aa7be85827108ec4128349fa04a5",
+  "files": [
+    {
+      "path": "daft/02011-e053f52f58295a39-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f637617305a8a8010b0e9b4ced86878f598225b6167671bad8507ab27b099aac",
+      "bytes": 14800
+    },
+    {
+      "path": "daft/02011-e053f52f58295a39-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "51c51227159314be5793e81bfaf8b0c414dfa5a99cd6795e8b511b7a0eb846f4",
+      "bytes": 8160
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "53 the waterfront grand canal dk dublin 2",
+    "GroupId": 9680,
+    "Address": "53 The Waterfront",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/1e187c57-cca5-4326-b06b-f30cf908dea2_l.png",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/1e187c57-cca5-4326-b06b-f30cf908dea2_x.png",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/1e187c57-cca5-4326-b06b-f30cf908dea2_l.png",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/35507438-2e2b-4c31-8845-4c5f37b33784_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/e2f3efb0-a003-40de-bb49-352d825645e7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f03adfdf-39f9-4efe-8ecc-b9e133dd32e9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/ef2b63fa-e79b-42a6-8899-3a34478e0d7c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/955c79c9-ebb7-4519-9d3f-4be57aff6a25_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f817b53b-a412-4189-9b81-9f392583c6af_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/89a7a0f8-4d41-41da-945c-d33d41e2343f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/25cf16c2-bee9-431e-914c-a76f7f0ec0a8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/b92bf8bc-a7b4-4f0f-8065-684b2dc8edb6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f3d93f7b-3700-48f5-a09d-56fdb4e4c517_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fa216a1d-904d-4aad-b8f0-76ceb8df3719_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/7347435b-d93b-4828-9c13-0e22725d4809_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/d173c4c6-b205-462d-9cbf-cc7d2ac16e78_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/8e194641-38b4-4486-b261-4753eb028575_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fba8f117-6158-4b04-89f7-f21d37765779_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/3/5029367/04711019-021f-4c0c-8e13-99e7bc176004_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 75,
+    "MaxSize": 75,
+    "BerRating": "B",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Owen Reilly is delighted to present No. 53 The Waterfront, an exceptional two-bedroom, two-bathroom apartment in one of Grand Canal Dock's most prestigious residential developments. Occupying a prime fourth-floor position, this beautifully presented home combines generous proportions, impressive ceiling heights, and outstanding outdoor space (19 sq. m.) to create a truly exceptional city residence.\r\n\r\nPresented in immaculate condition, the apartment is flooded with natural light through extensive floor-to-ceiling glazing, creating a wonderful sense of space throughout. A standout feature is the exceptionally large full-length terrace, accessed directly from the living room and both bedrooms, providing an outstanding extension of the living space and the perfect setting for outdoor dining, entertaining, or simply relaxing.\r\n\r\nThe accommodation is centred around a superb open-plan living, dining, and kitchen space, enjoying attractive views towards the River Liffey. The SieMatic kitchen is finished to the highest specification with premium NEFF appliances, granite worktops, and excellent storage. Two generous double bedrooms include a luxurious principal suite with a walk-in wardrobe and en-suite bathroom, while a stylish main bathroom completes the accommodation.\r\n\r\nAdditional features include gas-fired underfloor heating, one designated underground parking space, and access to an impressive communal rooftop terrace.\r\n\r\nMore about the location...\r\n\r\nThe Waterfront enjoys an unrivalled position in the heart of Grand Canal Dock, one of Dublin's most desirable waterfront neighbourhoods. Residents are surrounded by an outstanding selection of cafés, restaurants, bars, and cultural attractions, including the Bord Gáis Energy Theatre, the Marker Hotel, and the iconic waterfront plaza. St. Stephen's Green, Ballsbridge, Sandymount, and the IFSC are all within walking distance, while Grand Canal Dock DART station provides excellent connectivity throughout the city. The area is also home to many of Dublin's leading multinational employers, including Google, PwC, Meta, and Accenture.\r\n\r\nA rare opportunity to acquire a spacious, light-filled apartment with exceptional outdoor space in one of Dublin's premier residential developments."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hallway (3.18m x 3.50m) Max\r\nInviting L-shaped entrance hall with intercom, carpet flooring, two generous storage units.\r\n\r\nLiving/Dining Room (4.57m x 4.11m) Max\r\nBright and spacious living area with carpet flooring, floor-to-ceiling glazing, access to the terrace and a contemporary decorative feature fireplace.\r\n\r\nKitchen (2.90m x 2.37m)\r\nFully equipped high spec SieMatic kitchen, granite countertops and Neff appliances to include fridge freezer, dishwasher, oven, hob & extractor fan.\r\n\r\nMain Bedroom (4.75m x 2.86m)\r\nSpacious double bedroom with direct access to the terrace and a walk-in dressing area fitted with modern sliding robes.\r\n\r\nEn-suite (2.39m x 1.70m)\r\nFully tiled en-suite with WC, WHB, bath/shower unit and mirrored cabinet.\r\n\r\nBedroom 2 (3.81m x 3.43m)\r\nDouble bedroom with slide robes and access to the terrace.\r\n\r\nBathroom (2.55m x 1.90m) \r\nFully tiled bathroom with WC, WHB, mirrored cabinet and shower cubicle.\r\n\r\nTerrace (11.21m X 1.66m)\r\nSpacious terrace spanning the full length of the apartment overlooking the soon to be opened Benson Park.\r\n\r\nALL MEASUREMENTS ARE APPROXIMTE AND FOR GUIDANCE ONLY."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Stylish two-bedroom apartment.\r\nFourth-floor setting.\r\nGenerous terrace (11.21m x 1.66m) accessed from the living room and both bedrooms.\r\nAttractive views towards the River Liffey.\r\nPrincipal bedroom with walk-in wardrobe.\r\nGas underfloor heating.\r\nFloor-to-ceiling glazing.\r\nSieMatic kitchen with NEFF appliances and granite worktop.\r\nGenerous storage spaces.\r\nCommunal rooftop terrace.\r\nOne designated car parking space.\r\nIn the heart of Grand Canal Dock.\r\nManagement charge of approximately €3,488 per annum."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 265138,
+    "MinEnergyRating": 105,
+    "MaxEnergyRating": 105,
+    "BERGrade": "B",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-09-21T13:16:34.6400000+01:00",
+    "ModifiedOnDate": "2026-09-21T14:00:51.5670000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-21T14:00:29.3600000+01:00",
+    "RefreshedOn": "2026-10-02T15:37:52.1330000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+    "IsTransact": false,
+    "PriceAsString": "€690,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5029367,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 75,
+    "DisplayAddress": "53 The Waterfront, Grand Canal Dk, Dublin 2",
+    "Eircode": "D02 F785",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1442,
+    "RegionName": "Dublin 2",
+    "LocalityId": 1401,
+    "LocalityName": "Grand Canal Dk",
+    "Price": {
+      "MinPrice": 690000,
+      "MaxPrice": 690000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/1e187c57-cca5-4326-b06b-f30cf908dea2_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/1e187c57-cca5-4326-b06b-f30cf908dea2_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/1e187c57-cca5-4326-b06b-f30cf908dea2_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/35507438-2e2b-4c31-8845-4c5f37b33784_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/35507438-2e2b-4c31-8845-4c5f37b33784_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/35507438-2e2b-4c31-8845-4c5f37b33784_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/e2f3efb0-a003-40de-bb49-352d825645e7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/e2f3efb0-a003-40de-bb49-352d825645e7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/e2f3efb0-a003-40de-bb49-352d825645e7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f03adfdf-39f9-4efe-8ecc-b9e133dd32e9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f03adfdf-39f9-4efe-8ecc-b9e133dd32e9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f03adfdf-39f9-4efe-8ecc-b9e133dd32e9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/ef2b63fa-e79b-42a6-8899-3a34478e0d7c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/ef2b63fa-e79b-42a6-8899-3a34478e0d7c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/ef2b63fa-e79b-42a6-8899-3a34478e0d7c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/955c79c9-ebb7-4519-9d3f-4be57aff6a25_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/955c79c9-ebb7-4519-9d3f-4be57aff6a25_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/955c79c9-ebb7-4519-9d3f-4be57aff6a25_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f817b53b-a412-4189-9b81-9f392583c6af_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f817b53b-a412-4189-9b81-9f392583c6af_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f817b53b-a412-4189-9b81-9f392583c6af_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/89a7a0f8-4d41-41da-945c-d33d41e2343f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/89a7a0f8-4d41-41da-945c-d33d41e2343f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/89a7a0f8-4d41-41da-945c-d33d41e2343f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/25cf16c2-bee9-431e-914c-a76f7f0ec0a8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/25cf16c2-bee9-431e-914c-a76f7f0ec0a8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/25cf16c2-bee9-431e-914c-a76f7f0ec0a8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/b92bf8bc-a7b4-4f0f-8065-684b2dc8edb6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/b92bf8bc-a7b4-4f0f-8065-684b2dc8edb6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/b92bf8bc-a7b4-4f0f-8065-684b2dc8edb6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f3d93f7b-3700-48f5-a09d-56fdb4e4c517_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f3d93f7b-3700-48f5-a09d-56fdb4e4c517_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/f3d93f7b-3700-48f5-a09d-56fdb4e4c517_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fa216a1d-904d-4aad-b8f0-76ceb8df3719_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fa216a1d-904d-4aad-b8f0-76ceb8df3719_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fa216a1d-904d-4aad-b8f0-76ceb8df3719_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/7347435b-d93b-4828-9c13-0e22725d4809_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/7347435b-d93b-4828-9c13-0e22725d4809_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/7347435b-d93b-4828-9c13-0e22725d4809_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/d173c4c6-b205-462d-9cbf-cc7d2ac16e78_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/d173c4c6-b205-462d-9cbf-cc7d2ac16e78_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/d173c4c6-b205-462d-9cbf-cc7d2ac16e78_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/8e194641-38b4-4486-b261-4753eb028575_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/8e194641-38b4-4486-b261-4753eb028575_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/8e194641-38b4-4486-b261-4753eb028575_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fba8f117-6158-4b04-89f7-f21d37765779_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fba8f117-6158-4b04-89f7-f21d37765779_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/fba8f117-6158-4b04-89f7-f21d37765779_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/04711019-021f-4c0c-8e13-99e7bc176004_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/04711019-021f-4c0c-8e13-99e7bc176004_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/3/5029367/04711019-021f-4c0c-8e13-99e7bc176004_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2343287,
+      "latitude": 53.3440785
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 17,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "2e461527-fa4a-4e20-903c-b5844a5cd2be",
+        "Filename": "https://youtube.com/embed/J6xwNWvAJ_g?si=Chv-H8k_G5vE_-rd",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "92f8c2bb-e2a0-418a-accc-d493d1dfc1ba",
+        "Filename": "https://my.matterport.com/show/?m=xZGDuuKxf9K",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9680,
+    "Name": "Owen Reilly ",
+    "DisplayPhone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "owen-reilly-property-consultants",
+    "SeoName": "owen-reilly-property-consultants",
+    "Address": "3 Forbes Street, Grand Canal Dock, Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/8/6/9680/logo.jpg",
+    "SalesLicense": "002370",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "grand-canal-dk/1401",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/53-the-waterfront-grand-canal-dk-dublin-2/5029367",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 265138,
+    "Name": "Owen Reilly  Sales ",
+    "Phone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/8/3/1/265138/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9680,
+    "MYH_LocalityID": 1401,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1442,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Microwave",
+      "Garden",
+      "Balcony",
+      "Walk In Shower",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Microwave,Garden,Balcony,Walk In Shower,Dishwasher",
+    "MYH_MaxPrice": 700000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 105,
+    "MYH_MinPrice": 700000,
+    "MYH_MinSize": 75,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5029367,
+    "MYH_PropertyTypeID": 36
+  }
+}

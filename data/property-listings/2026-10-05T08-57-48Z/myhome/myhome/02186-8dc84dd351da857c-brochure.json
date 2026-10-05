@@ -1,0 +1,410 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "12 park boulevard tyrrelstown dublin 15",
+    "GroupId": 6130,
+    "Address": "12 Park Boulevard",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c1d7d27a-3b2d-42f1-ab9a-24a2bfdd3960_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c1d7d27a-3b2d-42f1-ab9a-24a2bfdd3960_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c1d7d27a-3b2d-42f1-ab9a-24a2bfdd3960_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0581fc55-1ed6-4db5-abf8-7c55c59ea5af_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/36cc71ae-4cdf-4ef6-a245-06dc749b9d36_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/bd57decf-c4d2-4570-bf72-a59c294e9f97_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/b9715702-da5d-4fa9-8378-ccb25aa6c18d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7813962a-f77a-48ce-b748-8f36ad7b720a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0c355694-e5bb-43c9-b091-9ff53f2a585b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/58f6199d-61a3-4b86-b259-d55b079328e0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/32b81d26-4217-4d7a-8d4e-f19c154ef43b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e1803b65-7fe3-427c-8cb0-4388366c8b1d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f314e9f3-193d-4f47-b265-7e79a5f98f93_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f301f3bc-9c22-45a9-90f7-d37fd631f641_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0124f9aa-ed60-4d41-9020-43aab184a2d6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/88b23f63-f1db-4ab1-9c9f-ae2aac8efdb5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5cee89f7-3b7a-4103-be89-8ac983ef76b3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5d1faa51-c76a-4186-a254-5a10e12577e3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/40cfe1b3-4379-4490-9291-ea48c667bfb7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e56b3b98-4505-4a54-9b28-af6de076c2b0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/91c4c881-8f39-4fc7-bc49-9e28591c704d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f568947e-7fb6-49dd-9d21-ad9103007129_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/24c36ca9-d50a-473a-a766-06637fa3edb7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f2890a32-8b42-4252-a568-596e3ae96be2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c46a251a-e69a-4b34-b914-81e6d97b8ea1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7f365ad0-42db-40a4-90fc-26d57f1b9805_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 90,
+    "MaxSize": 90,
+    "BerRating": "B",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "McPeake Auctioneers are delighted to present 12 Park Boulevard this bright and well-maintained two-bedroom, three-bathroom duplex apartment to the market, ideally located in the Tyrrelstown development.\r\n\r\nThis attractive property offers well-proportioned accommodation throughout and is presented in good condition, making it an excellent choice for a wide range of purchasers. The property features two double bedrooms, both benefiting from ensuite bathrooms, along with a further main bathroom.\r\n\r\nThe property also benefits from a private rear garden, while to the front it overlooks a park.\r\n\r\nThe property is ideally located in Tyrrelstown, approximately 14km from Dublin City Centre, with easy access to the N2, N3, N3 link road and M50 motorway. Tyrrelstown Town Centre is just a short walk away and offers a good range of shops and local amenities.\r\n\r\nThe property is also within easy reach of schools, public transport and recreational facilities. Blanchardstown Shopping Centre and the adjoining retail parks are a short drive away, while Dublin Airport and Dublin City Centre are both easily accessible. There are also regular bus services operating from Tyrrelstown to the City Centre and surrounding areas.\r\n\r\nThis property would make an ideal first-time purchase, family home or investment opportunity, offering a combination of bright living accommodation, private outdoor space and a highly convenient location."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Accommodation \r\n\r\nHallway (4.21m x 1.07m) Solid wood oak flooring, under stairs storage \r\nGuest wc (1.52m x 1.10m) tiled floor and splashback, WC, WHB \r\nKitchen (4.52m x 3.28m) Tiled floor & splashback, fitted kitchen, washing machine, Dishwasher, full electric cooker, microwave, fridge freezer\r\nLiving room (4.40m x 3.62m) Solid Oak Wood Flooring, Feature fireplace \r\nBedroom 1 (3.41m x 3.64m) Solid wood floors, fitted wardrobes\r\nEnsuite (3.22m x 1.07m) Tiled floor and splashback, shower, wc, whb\r\nBedroom 2 (3.27m x 4.42m) Solid floors, fitted wardrobes) \r\nBathroom (2.74m x 1.37m) – Ensuite, tiled floor and splashback, bath with shower, whb wc\r\n\r\nGarden – South east facing, decking area, shrubbery"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Two Double Bedrooms\r\nTwo Ensuites\r\nOver Looking Park Area\r\nPrivate Rear Garden\r\nLocated within walking distance of local shops\r\nGas Fired Central Heating"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "D15 HH33"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "By Private Appointment"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 157155,
+    "MinEnergyRating": 105,
+    "MaxEnergyRating": 105,
+    "BERGrade": "B",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-09-15T10:00:08.0330000+01:00",
+    "ModifiedOnDate": "2026-09-24T15:58:56.7800000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-15T15:14:35.5030000+01:00",
+    "RefreshedOn": "2026-09-28T12:07:40.9300000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+    "IsTransact": false,
+    "PriceAsString": "€345,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5028168,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 90,
+    "DisplayAddress": "12 Park Boulevard, Tyrrelstown, Dublin 15",
+    "Eircode": "D15 HH33",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Duplex",
+    "PropertyTypeId": 47,
+    "RegionId": 1456,
+    "RegionName": "Dublin 15",
+    "LocalityId": 1417,
+    "LocalityName": "Tyrrelstown",
+    "Price": {
+      "MinPrice": 345000,
+      "MaxPrice": 345000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c1d7d27a-3b2d-42f1-ab9a-24a2bfdd3960_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c1d7d27a-3b2d-42f1-ab9a-24a2bfdd3960_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c1d7d27a-3b2d-42f1-ab9a-24a2bfdd3960_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0581fc55-1ed6-4db5-abf8-7c55c59ea5af_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0581fc55-1ed6-4db5-abf8-7c55c59ea5af_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0581fc55-1ed6-4db5-abf8-7c55c59ea5af_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/36cc71ae-4cdf-4ef6-a245-06dc749b9d36_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/36cc71ae-4cdf-4ef6-a245-06dc749b9d36_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/36cc71ae-4cdf-4ef6-a245-06dc749b9d36_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/bd57decf-c4d2-4570-bf72-a59c294e9f97_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/bd57decf-c4d2-4570-bf72-a59c294e9f97_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/bd57decf-c4d2-4570-bf72-a59c294e9f97_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/b9715702-da5d-4fa9-8378-ccb25aa6c18d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/b9715702-da5d-4fa9-8378-ccb25aa6c18d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/b9715702-da5d-4fa9-8378-ccb25aa6c18d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7813962a-f77a-48ce-b748-8f36ad7b720a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7813962a-f77a-48ce-b748-8f36ad7b720a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7813962a-f77a-48ce-b748-8f36ad7b720a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0c355694-e5bb-43c9-b091-9ff53f2a585b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0c355694-e5bb-43c9-b091-9ff53f2a585b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0c355694-e5bb-43c9-b091-9ff53f2a585b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/58f6199d-61a3-4b86-b259-d55b079328e0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/58f6199d-61a3-4b86-b259-d55b079328e0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/58f6199d-61a3-4b86-b259-d55b079328e0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/32b81d26-4217-4d7a-8d4e-f19c154ef43b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/32b81d26-4217-4d7a-8d4e-f19c154ef43b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/32b81d26-4217-4d7a-8d4e-f19c154ef43b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e1803b65-7fe3-427c-8cb0-4388366c8b1d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e1803b65-7fe3-427c-8cb0-4388366c8b1d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e1803b65-7fe3-427c-8cb0-4388366c8b1d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f314e9f3-193d-4f47-b265-7e79a5f98f93_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f314e9f3-193d-4f47-b265-7e79a5f98f93_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f314e9f3-193d-4f47-b265-7e79a5f98f93_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f301f3bc-9c22-45a9-90f7-d37fd631f641_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f301f3bc-9c22-45a9-90f7-d37fd631f641_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f301f3bc-9c22-45a9-90f7-d37fd631f641_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0124f9aa-ed60-4d41-9020-43aab184a2d6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0124f9aa-ed60-4d41-9020-43aab184a2d6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/0124f9aa-ed60-4d41-9020-43aab184a2d6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/88b23f63-f1db-4ab1-9c9f-ae2aac8efdb5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/88b23f63-f1db-4ab1-9c9f-ae2aac8efdb5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/88b23f63-f1db-4ab1-9c9f-ae2aac8efdb5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5cee89f7-3b7a-4103-be89-8ac983ef76b3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5cee89f7-3b7a-4103-be89-8ac983ef76b3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5cee89f7-3b7a-4103-be89-8ac983ef76b3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5d1faa51-c76a-4186-a254-5a10e12577e3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5d1faa51-c76a-4186-a254-5a10e12577e3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/5d1faa51-c76a-4186-a254-5a10e12577e3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/40cfe1b3-4379-4490-9291-ea48c667bfb7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/40cfe1b3-4379-4490-9291-ea48c667bfb7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/40cfe1b3-4379-4490-9291-ea48c667bfb7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e56b3b98-4505-4a54-9b28-af6de076c2b0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e56b3b98-4505-4a54-9b28-af6de076c2b0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/e56b3b98-4505-4a54-9b28-af6de076c2b0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/91c4c881-8f39-4fc7-bc49-9e28591c704d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/91c4c881-8f39-4fc7-bc49-9e28591c704d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/91c4c881-8f39-4fc7-bc49-9e28591c704d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f568947e-7fb6-49dd-9d21-ad9103007129_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f568947e-7fb6-49dd-9d21-ad9103007129_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f568947e-7fb6-49dd-9d21-ad9103007129_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/24c36ca9-d50a-473a-a766-06637fa3edb7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/24c36ca9-d50a-473a-a766-06637fa3edb7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/24c36ca9-d50a-473a-a766-06637fa3edb7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f2890a32-8b42-4252-a568-596e3ae96be2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f2890a32-8b42-4252-a568-596e3ae96be2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/f2890a32-8b42-4252-a568-596e3ae96be2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c46a251a-e69a-4b34-b914-81e6d97b8ea1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c46a251a-e69a-4b34-b914-81e6d97b8ea1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/c46a251a-e69a-4b34-b914-81e6d97b8ea1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7f365ad0-42db-40a4-90fc-26d57f1b9805_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7f365ad0-42db-40a4-90fc-26d57f1b9805_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/6/1/5028168/7f365ad0-42db-40a4-90fc-26d57f1b9805_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.387446,
+      "latitude": 53.419197
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 24,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "4426beff-3e16-43db-b7f1-2912c06c62eb",
+        "Filename": "https://www.youtube.com/embed/IjAnoAM1VqY",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 6130,
+    "Name": "McPeake Auctioneers",
+    "DisplayPhone": "01 827 2300",
+    "Email": "info@mcpeakeauctioneers.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "mcpeake-auctioneers",
+    "SeoName": "mcpeake-auctioneers",
+    "Address": "The Plaza, Tyrrelstown Town Centre, Tyrrelstown, Dublin 15",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/3/1/6130/logo.jpg",
+    "SalesLicense": "001012",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "tyrrelstown/1417",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/12-park-boulevard-tyrrelstown-dublin-15/5028168",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 157155,
+    "Name": "Hilary Sheridan",
+    "Phone": "01 8272300",
+    "Email": "hilary@mcpeakeauctioneers.com"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 6130,
+    "MYH_LocalityID": 1417,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1456,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "En-suite",
+      "Washing Machine",
+      "Central Heating",
+      "Garden",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "En-suite,Washing Machine,Central Heating,Garden,Alarm",
+    "MYH_MaxPrice": 350000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 105,
+    "MYH_MinPrice": 350000,
+    "MYH_MinSize": 90,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5028168,
+    "MYH_PropertyTypeID": 47
+  }
+}

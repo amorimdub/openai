@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-acorn-house-seven-oaks-rathmines-dublin-6/6683514",
+  "fetchedAt": "2026-10-05T09:49:09.187Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-acorn-house-seven-oaks-rathmines-dublin-6/6683514",
+  "kind": "listing",
+  "responseSha256": "67283399e8544c2df471e34bfde1170fc838124ea11be8781205dc20310f8d08",
+  "files": [
+    {
+      "path": "daft/02052-016d63d9a7ed4884-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d82461a082e590a27141c623ad9e075a13b2dc8210365327a767bd76ce541968",
+      "bytes": 33784
+    },
+    {
+      "path": "daft/02052-016d63d9a7ed4884-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "649db41795e359686622b7d5102af4f153d725afbc6570fea59c46d8daee5ebb",
+      "bytes": 8028
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

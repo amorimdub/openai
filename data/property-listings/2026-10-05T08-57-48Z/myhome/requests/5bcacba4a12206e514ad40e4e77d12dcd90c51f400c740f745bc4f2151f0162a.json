@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=273",
+  "fetchedAt": "2026-10-05T12:35:37.775Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=273",
+  "kind": "search",
+  "responseSha256": "8020f070a7b9b051c52621c9b5b4d7a3caf2fe17515207dca9ba4e00a32c5fc0",
+  "files": [
+    {
+      "path": "myhome/06165-5bcacba4a12206e5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=273\"].SearchResults",
+      "sha256": "877ec41daabe19e233cf532b8478634f7b1c1801dee19e92831402f02615bd28",
+      "bytes": 112057
+    },
+    {
+      "path": "myhome/06165-5bcacba4a12206e5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=273\"] (paging fields)",
+      "sha256": "d78a72590cc1a295e495cb41abf7ca48baa2003fc8f79433d2022b578838b110",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-bellefield-springs-enniscorthy-co-wexford/5025282",
+    "https://www.myhome.ie/residential/brochure/80-knockmoyle-tralee-co-kerry/5025281",
+    "https://www.myhome.ie/residential/brochure/187-mount-prospect-avenue-clontarf-dublin-3/5014204",
+    "https://www.myhome.ie/residential/brochure/derrynane-273-harolds-grange-road-rathfarnham-dublin-16/5009459",
+    "https://www.myhome.ie/residential/brochure/6-bayside-boulevard-south-sutton-dublin-13/5017128",
+    "https://www.myhome.ie/residential/brochure/34-merchamp-seafield-road-east-clontarf-dublin-3/5019861",
+    "https://www.myhome.ie/residential/brochure/c-l-na-dtonn-130-carrickbrack-road-sutton-dublin-13/4981599",
+    "https://www.myhome.ie/residential/brochure/6-castaheany-clonee-dublin-15/5009201",
+    "https://www.myhome.ie/residential/brochure/belgree-house-on-approx-1-67-hec-4-12-acres-kilmartin-lane-hollystown-dublin-15/4961148",
+    "https://www.myhome.ie/residential/brochure/6-the-way-dunboyne-castle-dunboyne-co-meath/5000321",
+    "https://www.myhome.ie/residential/brochure/nampara-10-woodberry-greenfields-ballincollig-cork/5025277",
+    "https://www.myhome.ie/residential/brochure/apartment-20b-balnagowan-palmerston-park-dublin-6-co-dublin/5025275",
+    "https://www.myhome.ie/residential/brochure/apartment-5-436-north-circular-road-dublin-7-co-dublin/5025274",
+    "https://www.myhome.ie/residential/brochure/19-riverview-rowlestown-east-swords-county-dublin/5025259",
+    "https://www.myhome.ie/residential/brochure/11-abbotstown-drive-finglas-dublin-11/5025272",
+    "https://www.myhome.ie/residential/brochure/ballyweelin-rosses-point-sligo/5025271",
+    "https://www.myhome.ie/residential/brochure/107-finglas-park-finglas-dublin/5025257",
+    "https://www.myhome.ie/residential/brochure/46-drumnavanagh-cavan-co-cavan/5025268",
+    "https://www.myhome.ie/residential/brochure/2-knocknarea-road-drimnagh-dublin-12/5025251",
+    "https://www.myhome.ie/residential/brochure/the-willows-daars-north-sallins-county-kildare/5016767"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=274",
+  "paginationLimited": false
+}

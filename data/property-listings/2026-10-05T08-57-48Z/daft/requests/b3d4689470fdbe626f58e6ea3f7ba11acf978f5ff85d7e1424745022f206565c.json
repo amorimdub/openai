@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/3-saint-james-court-ennis-road-north-circular-road-co-limerick/6650600",
+  "fetchedAt": "2026-10-05T09:30:52.701Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/3-saint-james-court-ennis-road-north-circular-road-co-limerick/6650600",
+  "kind": "listing",
+  "responseSha256": "2202764471df233880e02620dcb2037ed4db37a54e693bb3185ace96a5f10ed5",
+  "files": [
+    {
+      "path": "daft/01322-b3d4689470fdbe62-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0daef801433881b4789e7d67f4c8bb75f1cb399014fbdf096a3219d84d62c6b7",
+      "bytes": 110287
+    },
+    {
+      "path": "daft/01322-b3d4689470fdbe62-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "565728dc68daa1deff4fe4e16e73619ff57c2729e33578e2091d0018fe2aaa19",
+      "bytes": 8076
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

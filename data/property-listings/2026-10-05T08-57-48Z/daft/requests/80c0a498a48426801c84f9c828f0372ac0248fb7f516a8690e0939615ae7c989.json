@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-u-charlestown-st-margarets-road-finglas-north-dublin-finglas-co-dublin/4519610",
+  "fetchedAt": "2026-10-05T09:06:11.688Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-u-charlestown-st-margarets-road-finglas-north-dublin-finglas-co-dublin/4519610",
+  "kind": "listing",
+  "responseSha256": "043bf687660a1abdebd60f5158ada6038a394ba8c7611cb7dd4bf92376a0582d",
+  "files": [
+    {
+      "path": "daft/00336-80c0a498a4842680-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "11087dedf51c64a0210b56310168d6027bb51bf1bd49266d6ff9435dc2475ab5",
+      "bytes": 48211
+    },
+    {
+      "path": "daft/00336-80c0a498a4842680-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0fc0f7cf49b7ecdeb541069af18f33adb32dd00c2355a55e8f2fba148eb87d84",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=419",
+  "fetchedAt": "2026-10-05T13:50:27.544Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=419",
+  "kind": "search",
+  "responseSha256": "31e4c31f1ad8019f87ea0f34d6e5f130e7c465eb3e968087c7b1af3455823df5",
+  "files": [
+    {
+      "path": "myhome/09147-4c9772845cb1b224-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=419\"].SearchResults",
+      "sha256": "7803ae3cbfa146f728f50ab166d77b770d59c10d28ab3d4a2117c4255bc114d9",
+      "bytes": 107913
+    },
+    {
+      "path": "myhome/09147-4c9772845cb1b224-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=419\"] (paging fields)",
+      "sha256": "d1ce6b7769c05376a8352e540156b888695fcf142189776c3a0c8a1c6eb1bbf5",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-11b-brooklawn-ballaghaderreen-co-roscommon/5011699",
+    "https://www.myhome.ie/residential/brochure/82-block-5a-the-casino-dublin-road-malahide-malahide-county-dublin/5011671",
+    "https://www.myhome.ie/residential/brochure/bru-na-sionna-shannon-town-centre-shannon-co-clare-shannon-clare/5011687",
+    "https://www.myhome.ie/residential/brochure/171-caireal-mor-headford-road-castlegar-galway/5011679",
+    "https://www.myhome.ie/residential/brochure/blue-quay-rooms-seaview-clifden-co-galway/5011676",
+    "https://www.myhome.ie/residential/brochure/18-parkview-robswall-malahide-dublin/5007973",
+    "https://www.myhome.ie/residential/brochure/18-railway-court-malahide-county-dublin/5011608",
+    "https://www.myhome.ie/residential/brochure/8-aderrig-walk-adamstown-lucan-co-dublin/5006888",
+    "https://www.myhome.ie/residential/brochure/11-buttercup-drive-darndale-dublin-17/5011651",
+    "https://www.myhome.ie/residential/brochure/ballygroman-upper-cork-ovens-co-cork/5011648",
+    "https://www.myhome.ie/residential/brochure/15-red-arches-close-the-coast-baldoyle-dublin-13/4997983",
+    "https://www.myhome.ie/residential/brochure/11-rosemount-gardens-ballymurn-co-wexford/5011643",
+    "https://www.myhome.ie/residential/brochure/portnablagh-dunfanaghy-donegal/5011638",
+    "https://www.myhome.ie/residential/brochure/3-willsbrook-grove-lucan-co-dublin/5011641",
+    "https://www.myhome.ie/residential/brochure/sycamore-house-134-cabra-road-cabra-dublin/5011624",
+    "https://www.myhome.ie/residential/brochure/gortnaclohy-skibbereen-cork/5011636",
+    "https://www.myhome.ie/residential/brochure/dursey-north-circular-road-limerick-city/5008050",
+    "https://www.myhome.ie/residential/brochure/21-sandycove-owenahincha-rosscarbery-west-cork/5011625",
+    "https://www.myhome.ie/residential/brochure/apt-212-beechwood-court-stillorgan-county-dublin/5011633",
+    "https://www.myhome.ie/residential/brochure/site-at-bridge-street-ballineen-west-cork/5006850"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=420",
+  "paginationLimited": false
+}

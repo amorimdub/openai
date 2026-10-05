@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/manor-court-knocknacarra-co-galway/6682786",
+  "fetchedAt": "2026-10-05T09:17:39.571Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/manor-court-knocknacarra-co-galway/6682786",
+  "kind": "listing",
+  "responseSha256": "18255d0c54f8422fd6b0a226674e26a9255fd4b37544d053c46406298924db8b",
+  "files": [
+    {
+      "path": "daft/00794-dc4903cb58a6e0cb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "419f57349a8a443e8722a7aa69f43b346e356760d23085005369253b36006266",
+      "bytes": 19554
+    },
+    {
+      "path": "daft/00794-dc4903cb58a6e0cb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5ee7803b05210fb5cebb4792c7566a305623c3911d167261c32b06878e89ec2e",
+      "bytes": 8026
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

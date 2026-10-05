@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "MILLTOWN NATIONAL SCHOOL",
+      "numPupils": 98,
+      "distance": {
+        "value": 1.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.602810",
+        "lon": "-8.886033"
+      }
+    },
+    {
+      "schoolName": "BELMONT NATIONAL SCHOOL",
+      "numPupils": 36,
+      "distance": {
+        "value": 4.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.607230",
+        "lon": "-8.964162"
+      }
+    },
+    {
+      "schoolName": "GARRAFRAUNS NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 5.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.632755",
+        "lon": "-8.825359"
+      }
+    },
+    {
+      "schoolName": "IRISHTOWN NATIONAL SCHOOL",
+      "numPupils": 64,
+      "distance": {
+        "value": 5.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.662575",
+        "lon": "-8.890258"
+      }
+    },
+    {
+      "schoolName": "KILCONLY NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 6.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.573200",
+        "lon": "-8.977610"
+      }
+    },
+    {
+      "schoolName": "ST BENIN'S NATIONAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 7.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.548904",
+        "lon": "-8.897804"
+      }
+    },
+    {
+      "schoolName": "BALLINDINE NATIONAL SCHOOL",
+      "numPupils": 137,
+      "distance": {
+        "value": 7.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.672560",
+        "lon": "-8.957118"
+      }
+    },
+    {
+      "schoolName": "GARDENFIELD NATIONAL SCHOOL",
+      "numPupils": 205,
+      "distance": {
+        "value": 7.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.546580",
+        "lon": "-8.849854"
+      }
+    },
+    {
+      "schoolName": "BROWNSGROVE NATIONAL SCHOOL",
+      "numPupils": 60,
+      "distance": {
+        "value": 8.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.565884",
+        "lon": "-8.792521"
+      }
+    },
+    {
+      "schoolName": "GORTSKEHY NATIONAL SCHOOL",
+      "numPupils": 75,
+      "distance": {
+        "value": 8.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.631350",
+        "lon": "-9.028337"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "DUNMORE COMMUNITY SCHOOL",
+      "numPupils": 353,
+      "distance": {
+        "value": 10.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.616550",
+        "lon": "-8.739240"
+      }
+    },
+    {
+      "schoolName": "HIGH CROSS COLLEGE",
+      "numPupils": 827,
+      "distance": {
+        "value": 10.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.517776",
+        "lon": "-8.850113"
+      }
+    },
+    {
+      "schoolName": "ST. JARLATH'S COLLEGE",
+      "numPupils": 706,
+      "distance": {
+        "value": 11.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.515810",
+        "lon": "-8.846010"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COLLEGE",
+      "numPupils": 499,
+      "distance": {
+        "value": 11.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513935",
+        "lon": "-8.848675"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S SCHOOL",
+      "numPupils": 391,
+      "distance": {
+        "value": 11.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.512794",
+        "lon": "-8.847919"
+      }
+    },
+    {
+      "schoolName": "ARCHBISHOP MCHALE COLLEGE",
+      "numPupils": 471,
+      "distance": {
+        "value": 11.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.510475",
+        "lon": "-8.845329"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOLMÁIN",
+      "numPupils": 378,
+      "distance": {
+        "value": 14.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.735443",
+        "lon": "-8.980459"
+      }
+    },
+    {
+      "schoolName": "MOUNT ST MICHAEL",
+      "numPupils": 404,
+      "distance": {
+        "value": 14.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.732270",
+        "lon": "-9.001320"
+      }
+    },
+    {
+      "schoolName": "Ballyhaunis Community School, Knock Road, Ballyhaunis, Mayo",
+      "numPupils": 750,
+      "distance": {
+        "value": 18.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.765923",
+        "lon": "-8.780561"
+      }
+    },
+    {
+      "schoolName": "BALLINROBE COMMUNITY SCHOOL",
+      "numPupils": 840,
+      "distance": {
+        "value": 20.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.623000",
+        "lon": "-9.212629"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Milltown",
+      "route": "430",
+      "destination": "Galway Cathedral",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6144957447243",
+        "lon": "-8.89970257128284"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Milltown",
+      "route": "UL05",
+      "destination": "Westport",
+      "provider": "Michael Moran",
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6144957447243",
+        "lon": "-8.89970257128284"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Milltown",
+      "route": "64",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.614514",
+        "lon": "-8.899733"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ardcloon",
+      "route": "488",
+      "destination": "Glennaneeny",
+      "provider": "Farragher Travel",
+      "distance": {
+        "value": 4.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.620264",
+        "lon": "-8.826394"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Garrafrauns",
+      "route": "488",
+      "destination": "Glennaneeny",
+      "provider": "Farragher Travel",
+      "distance": {
+        "value": 5.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.633795",
+        "lon": "-8.825449"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gortnagoyne",
+      "route": "488",
+      "destination": "Glennaneeny",
+      "provider": "Farragher Travel",
+      "distance": {
+        "value": 7.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.62568",
+        "lon": "-8.786831"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballindine",
+      "route": "430",
+      "destination": "Ballina Humbert Street",
+      "provider": "Citylink",
+      "distance": {
+        "value": 7.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6702294223409",
+        "lon": "-8.95795805280028"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballindine",
+      "route": "64",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6702294223409",
+        "lon": "-8.95795805280028"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloondergan",
+      "route": "488",
+      "destination": "Glennaneeny",
+      "provider": "Farragher Travel",
+      "distance": {
+        "value": 7.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.65429",
+        "lon": "-8.8041"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Brownsgrove",
+      "route": "427",
+      "destination": "Eyre Square",
+      "provider": "Burkesbus",
+      "distance": {
+        "value": 8.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.56822",
+        "lon": "-8.789342"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/kavanagh-cottage-fethard-co-wexford/6596900",
+  "fetchedAt": "2026-10-05T09:29:36.102Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/kavanagh-cottage-fethard-co-wexford/6596900",
+  "kind": "listing",
+  "responseSha256": "e67634255deb0d2f020adba8ba36bf98701d732df7aa846e054182e264f95f59",
+  "files": [
+    {
+      "path": "daft/01271-eafbfaa4c85c628a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "71ea6f850f1f680e41c231eafaa674c82fab3ef6d218f9614e91228b9c77394b",
+      "bytes": 122013
+    },
+    {
+      "path": "daft/01271-eafbfaa4c85c628a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2646cbd131c857d310cc37aeb5dbc27372d10598b57a9c8bac27b3b610af6b23",
+      "bytes": 8115
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

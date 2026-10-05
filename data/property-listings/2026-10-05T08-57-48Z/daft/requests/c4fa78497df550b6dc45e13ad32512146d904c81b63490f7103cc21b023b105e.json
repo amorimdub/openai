@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-hali-cherrywood-dublin-18-cherrywood-dublin-18/5876745",
+  "fetchedAt": "2026-10-05T09:02:38.443Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-hali-cherrywood-dublin-18-cherrywood-dublin-18/5876745",
+  "kind": "listing",
+  "responseSha256": "7e5c8b8f4d43227bbdef7e9efbb0096ec01acc3ca7be0c6f3c75b148260bbb8f",
+  "files": [
+    {
+      "path": "daft/00194-c4fa78497df550b6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "88ae36a9e6b5fceb8d8dd3f1ebc7bc77ea6683daa608beb8bbc5d235241d3077",
+      "bytes": 64146
+    },
+    {
+      "path": "daft/00194-c4fa78497df550b6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "927f3e8d0aea400253a5f5431a9943877a10ab9bc0a28905eb0360b1d8465918",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

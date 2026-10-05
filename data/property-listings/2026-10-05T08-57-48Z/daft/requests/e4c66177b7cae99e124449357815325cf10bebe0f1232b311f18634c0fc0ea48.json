@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/archway-court-student-accommodation-mountjoy-st-dublin-1/5382570",
+  "fetchedAt": "2026-10-05T09:08:35.850Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/archway-court-student-accommodation-mountjoy-st-dublin-1/5382570",
+  "kind": "listing",
+  "responseSha256": "1a876e12368c26db40793e6d81ea1b4adf0278b0b16177c4762a477acfe44a7d",
+  "files": [
+    {
+      "path": "daft/00432-e4c66177b7cae99e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2adc46737133117387e71fd3a1074c117f76bf746729086362edcd6cf68597c7",
+      "bytes": 83736
+    },
+    {
+      "path": "daft/00432-e4c66177b7cae99e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8535525ad1694f48a2dbabd31e59bc128045ee43d658d268c498f5def153f859",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

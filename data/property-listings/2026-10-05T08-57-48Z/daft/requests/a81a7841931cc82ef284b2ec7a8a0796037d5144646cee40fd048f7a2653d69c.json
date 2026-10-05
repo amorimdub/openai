@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/malin-hall-waterville-terrace-ballycoolin-dublin-15/6685776",
+  "fetchedAt": "2026-10-05T09:34:19.922Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/malin-hall-waterville-terrace-ballycoolin-dublin-15/6685776",
+  "kind": "listing",
+  "responseSha256": "17bc44430ad8c5b1d1667def93c628c547d29e1af7d9f51a2b45ab4f739a14c1",
+  "files": [
+    {
+      "path": "daft/01460-a81a7841931cc82e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0a20473f0b49fd859a05416202b927eae03d2261ab4ba555c4863667a1ab8196",
+      "bytes": 46752
+    },
+    {
+      "path": "daft/01460-a81a7841931cc82e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ea9691962e6c82fb3684496bc914d911454d7a88b603de4e414885bccb9a3aa1",
+      "bytes": 8213
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

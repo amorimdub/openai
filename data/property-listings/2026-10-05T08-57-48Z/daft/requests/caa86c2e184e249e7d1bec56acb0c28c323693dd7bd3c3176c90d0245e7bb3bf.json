@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/7-sheepmoor-green-dublin-15-blanchardstown-dublin-15/6684718",
+  "fetchedAt": "2026-10-05T09:05:53.671Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/7-sheepmoor-green-dublin-15-blanchardstown-dublin-15/6684718",
+  "kind": "listing",
+  "responseSha256": "4f5e2e47b255b2133e9ea120da2051508d87b39f8c952f4daed845a2fb04a891",
+  "files": [
+    {
+      "path": "daft/00324-caa86c2e184e249e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e67ead0d6e25616144106d77d66d9a6bc6171eaa55ee724d8607794b45003bbe",
+      "bytes": 68681
+    },
+    {
+      "path": "daft/00324-caa86c2e184e249e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d44dcbe74ae2ce2b56f6f4c29e4c0d9380c0a24b762c051e1538a0146815d6e7",
+      "bytes": 8149
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

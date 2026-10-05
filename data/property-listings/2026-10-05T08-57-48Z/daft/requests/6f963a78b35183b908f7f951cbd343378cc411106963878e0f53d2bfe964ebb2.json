@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ard-mor-close-tallaght-dublin-24/6684034",
+  "fetchedAt": "2026-10-05T09:45:43.336Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ard-mor-close-tallaght-dublin-24/6684034",
+  "kind": "listing",
+  "responseSha256": "490dd07d8ccdb499e85dbe1a093c68692453be189dbe9d7216e545765aa651e3",
+  "files": [
+    {
+      "path": "daft/01915-6f963a78b35183b9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d912dd979b4d0c82f22c988fb4ff65f2baf9af06543de1559154be2f95b4f2e8",
+      "bytes": 19252
+    },
+    {
+      "path": "daft/01915-6f963a78b35183b9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a4636dd274f997cde2af0782d581b939043355254e7bb433e6cb093a3791c6d5",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

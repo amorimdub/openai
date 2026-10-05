@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/quayside-quarter-dublin-landings-north-wall-quay-dublin-1-dublin-1/6683310",
+  "fetchedAt": "2026-10-05T09:00:55.899Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/quayside-quarter-dublin-landings-north-wall-quay-dublin-1-dublin-1/6683310",
+  "kind": "listing",
+  "responseSha256": "811ff52092bc7b0f8a7ef1d80b4f43f5d5f97eda6040c75795c6f3d77ecb9d77",
+  "files": [
+    {
+      "path": "daft/00126-a592f7b3d3931f22-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bd3bb8f4af2b238a56649cce53f7f9dfdc93f78455405e84597c94c5ac406162",
+      "bytes": 203701
+    },
+    {
+      "path": "daft/00126-a592f7b3d3931f22-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1c0f77995786aa319eb956703345eadb3eba9bb3e7213299fbbe03de7db55e65",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

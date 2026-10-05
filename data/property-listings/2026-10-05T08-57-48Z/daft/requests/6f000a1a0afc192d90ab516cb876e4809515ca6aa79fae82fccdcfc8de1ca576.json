@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/32-windmill-avenue-dublin-12-crumlin-dublin-12/6684212",
+  "fetchedAt": "2026-10-05T09:07:26.775Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/32-windmill-avenue-dublin-12-crumlin-dublin-12/6684212",
+  "kind": "listing",
+  "responseSha256": "a8a1258725acb4d5e275101ec105a80d479d9c40771af54ffa19146dc4a6c5a9",
+  "files": [
+    {
+      "path": "daft/00386-6f000a1a0afc192d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f35885223993a7ab8424df5e604dc26ae859862c61139e74da222d3e5528407c",
+      "bytes": 76745
+    },
+    {
+      "path": "daft/00386-6f000a1a0afc192d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2d0ff9c77803948b59b5c5b7c92684891c1c5f6725d29f7a1133ac5dd3bdeb53",
+      "bytes": 8106
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

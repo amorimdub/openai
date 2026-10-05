@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=338",
+  "fetchedAt": "2026-10-05T13:08:41.304Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=338",
+  "kind": "search",
+  "responseSha256": "444e3789bd8f7bca7b22402e6a8569dbe066ab809fa602ed311a45235b91235c",
+  "files": [
+    {
+      "path": "myhome/07480-8d34c4a98467a239-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=338\"].SearchResults",
+      "sha256": "d0c9b90ee51b7faf7a4513e035317bdb614a855d5c9b98d29da8a8d44d8a0e6d",
+      "bytes": 120792
+    },
+    {
+      "path": "myhome/07480-8d34c4a98467a239-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=338\"] (paging fields)",
+      "sha256": "9d4a500b0519a2dd5e7241266fcaaafeabc7d39b0df5888de91c8289e540dc41",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/moycola-craughwell-county-galway/5021428",
+    "https://www.myhome.ie/residential/brochure/37-sundale-grove-tallaght-dublin-24/5021426",
+    "https://www.myhome.ie/residential/brochure/2-harbour-view-market-square-clifden-galway/5021423",
+    "https://www.myhome.ie/residential/brochure/tombrack-ferns-county-wexford/5021419",
+    "https://www.myhome.ie/residential/brochure/cork-road-skibbereen-skibbereen-west-cork/5021185",
+    "https://www.myhome.ie/residential/brochure/78-whatley-hall-archers-wood-clonee-dublin-15-d15xy95/5021414",
+    "https://www.myhome.ie/residential/brochure/7-oldtown-cavan-co-cavan/5021413",
+    "https://www.myhome.ie/residential/brochure/no-1-st-ann-s-apartments-ailesbury-road-ballsbridge-dublin-4/5006503",
+    "https://www.myhome.ie/residential/brochure/40-beaufield-park-stillorgan-county-dublin/5006946",
+    "https://www.myhome.ie/residential/brochure/39-beaufield-park-stillorgan-county-dublin/5010655",
+    "https://www.myhome.ie/residential/brochure/19-railway-cottages-sandymount-dublin-4/5018949",
+    "https://www.myhome.ie/residential/brochure/30-the-grove-saint-marnock-s-bay-portmarnock-county-dublin/5018751",
+    "https://www.myhome.ie/residential/brochure/realtogue-navan-co-meath/5021403",
+    "https://www.myhome.ie/residential/brochure/cottage-on-c-0-25-acre-at-carlow-road-ballylynan-laois/4991910",
+    "https://www.myhome.ie/residential/brochure/sheeaun-ballycrissane-ballinasloe-co-galway/5021401",
+    "https://www.myhome.ie/residential/brochure/deansfield-seapoint-balbriggan-balbriggan-dublin/5021390",
+    "https://www.myhome.ie/residential/brochure/21-knightswood-santry-dublin-9/5010694",
+    "https://www.myhome.ie/residential/brochure/9-park-lane-bishopslough-kilkenny-kilkenny/5021389",
+    "https://www.myhome.ie/residential/brochure/falcon-rise-lisduvogue-knockmore-ballina-co-mayo/5021388",
+    "https://www.myhome.ie/residential/brochure/24-croftwood-gardens-ballyfermot-dublin-10/5021270"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=339",
+  "paginationLimited": false
+}

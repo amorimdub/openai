@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/bofin-house-harbour-road-tarmonbarry-co-roscommon/6684229",
+  "fetchedAt": "2026-10-05T09:40:45.858Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/bofin-house-harbour-road-tarmonbarry-co-roscommon/6684229",
+  "kind": "listing",
+  "responseSha256": "a7f9119f10238a2aa02f7cd364aff490b9bf65b74b98d711baa4c986beaee2d0",
+  "files": [
+    {
+      "path": "daft/01717-5ed91ff2d60afbc7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9860d9b32d97fe7390030b8f4ab3332636349e7d40ebf85e3d53fb88583f353",
+      "bytes": 35927
+    },
+    {
+      "path": "daft/01717-5ed91ff2d60afbc7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9f84aba6ee156913ab46bb12d92987a8cfbe7fabc1a856d00004080f3ad3f6ee",
+      "bytes": 8175
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

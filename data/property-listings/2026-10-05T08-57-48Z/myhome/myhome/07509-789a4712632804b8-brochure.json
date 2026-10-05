@@ -1,0 +1,837 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "no1 st anns apartments ailesbury road ballsbridge dublin 4",
+    "GroupId": 5556,
+    "Address": "No.1 St. Ann's Apartments, Ailesbury Road",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5296e6bc-dc86-439c-a06a-29d15c450adf_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5919a30d-bf04-4081-890c-9b71f72f8faf_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/28c73fbd-9855-49b0-87f1-17236851a97e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e5c5a6f4-1a13-4cce-8283-90c34e6bd9ac_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/df6da949-1161-4c57-b3df-569728df4c8d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e8e5a8fb-6edf-4a88-9d68-4096594b4976_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/6658d1c9-7cae-4e14-89db-f9f243651f90_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/0f8c03a9-fd94-47e0-a330-36a23054a907_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/a36f405f-d614-4ffc-b4e6-b7ddfc66f647_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/1779c238-9032-4395-8dc8-27b82688d7e7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/43786010-f195-4191-84bb-024b0ca72219_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/dada6f95-8e6f-44df-bfe5-bbcde85679c5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/0/5/5006503/abbc27f2-86ec-433f-ae49-04edc5a4b3fe_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 34,
+    "MaxSize": 34,
+    "BerRating": "F",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€395,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "34",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 5006503,
+        "DisplayAddress": "No.1 St. Ann's Apartments, Ailesbury Road, Ballsbridge, Dublin 4",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/F.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "5907743d-6d3e-42b0-910e-56875393cffc",
+              "Filename": "504f8670-5240-401c-a0ff-d9948c782113.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3423520c-c099-4b49-afd5-a6985fa9d5b0",
+              "Filename": "5296e6bc-dc86-439c-a06a-29d15c450adf.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8e595b67-3304-4f57-84c2-976c3c435835",
+              "Filename": "5919a30d-bf04-4081-890c-9b71f72f8faf.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bbaaef27-65ca-411c-a9df-7f5c01409324",
+              "Filename": "28c73fbd-9855-49b0-87f1-17236851a97e.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ca15cad8-9a59-4583-8ec1-ab8afd9960b6",
+              "Filename": "e5c5a6f4-1a13-4cce-8283-90c34e6bd9ac.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "407752a9-193e-4fa4-9f59-79af4fa63e40",
+              "Filename": "df6da949-1161-4c57-b3df-569728df4c8d.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b08296c7-3295-49b3-9cd4-8e01f33f0705",
+              "Filename": "e8e5a8fb-6edf-4a88-9d68-4096594b4976.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4d371e3b-709d-4206-ac72-355a097c7dd8",
+              "Filename": "6658d1c9-7cae-4e14-89db-f9f243651f90.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ea003883-25c3-400e-a71c-302dc606a39b",
+              "Filename": "0f8c03a9-fd94-47e0-a330-36a23054a907.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "57f72302-c07d-4635-b615-c4bd55de2c0c",
+              "Filename": "a36f405f-d614-4ffc-b4e6-b7ddfc66f647.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "706562fa-ccf5-4011-8819-3682fc03fb6e",
+              "Filename": "1779c238-9032-4395-8dc8-27b82688d7e7.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7df8b762-88f1-43f8-9bc0-d48bda56faf3",
+              "Filename": "43786010-f195-4191-84bb-024b0ca72219.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "026977f6-d174-4515-a770-72a9553cd3ee",
+              "Filename": "dada6f95-8e6f-44df-bfe5-bbcde85679c5.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ca2c9235-efe8-4c29-8ca6-a41f4282ff5d",
+              "Filename": "abbc27f2-86ec-433f-ae49-04edc5a4b3fe.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dfde97f3-1b76-48ee-9ba4-47b2d4119b09",
+              "Filename": "https://youtube.com/embed/NPuRcyqtGaw",
+              "Caption": "https://youtu.be/NPuRcyqtGaw",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "015260a5b4de4cf4909bee1e928898f6",
+          "OriginalImagesSuffix": "01526",
+          "MainPhoto": {
+            "Identifier": "5907743d-6d3e-42b0-910e-56875393cffc",
+            "Filename": "504f8670-5240-401c-a0ff-d9948c782113.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/BAL/26/BAL260016_09.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€300,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "31",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 5010996,
+        "DisplayAddress": "Apartment 5, Pembroke Manor, 64/66 Pembroke Road, Ballsbridge, Dublin 4",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "6934921c-3912-4afc-9ce4-a9369d229558",
+              "Filename": "ad5a2399-7e7f-4934-a508-43014a3456b5.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a821f6c0-1771-4ff0-801e-7b635ea3f426",
+              "Filename": "eb519ee3-2276-47e6-b6f1-1feb3c2c1941.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a6ce94e2-7967-4dfb-9171-3dc26e05ce6b",
+              "Filename": "8a5c287e-800d-4ea4-a2c1-488ecdf3ef18.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d9eb5d18-2e4f-478a-82ff-668d3a13a3be",
+              "Filename": "fa977264-de81-454a-baae-0ea78ebd244d.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2412faf8-2189-4dce-ad8b-90c8441cc075",
+              "Filename": "902283ad-fb23-4e69-9ef3-b22d5205a3b9.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "14cf80f1-2f03-426e-bab4-c6eaa7af711e",
+              "Filename": "c8def71b-1dc3-4c74-bcb6-5167cfcf8efd.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "efa5c83f-f608-4258-b7b8-b08c40fbba93",
+              "Filename": "ec40a2ca-63f4-4aee-a504-181564afe318.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "05c911ee-1ab0-47f9-8d13-ae043d9be4ab",
+              "Filename": "4d8ce0fa-fed9-42c8-a27f-43e1a84471e7.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "336021d2-3505-4a2c-9ade-ea9d32f2d7df",
+              "Filename": "a9d9d002-dfdf-439c-92a7-87414e0260a4.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "182d6fee-1a6e-4f89-9bcf-651f2ed4bab3",
+              "Filename": "3d583c91-c2d1-423b-8536-3e0c019e0498.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "824bb6ff-aee1-41fc-a1ea-f760f88fa0a7",
+              "Filename": "b45b5741-58fa-466c-9d52-243b364215d5.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ca3c6b94-be6f-4ca3-bb75-11f3ff919771",
+              "Filename": "a0ea2e14-53e4-4427-85ca-c172000a4713.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7682ff61-3d0d-4a7c-b8c3-855cc2dd5342",
+              "Filename": "24a3c7c9-2e6c-46de-9b02-1b88930fdb3c.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f5334bb1-a210-40d5-b2e6-e72d2ef86126",
+              "Filename": "37ccabd2-741d-4cf2-8f14-73957e6e15ac.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "004251eb-1b8a-4d7d-af3e-820b282d3859",
+              "Filename": "d0d51533-af43-42d7-9177-8e407e3061ee.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "05732c39-4620-46a0-bd82-63ae9d73a9c9",
+              "Filename": "aa94b736-0915-4a46-b497-8ba51e778619.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2d8b7990-7f6b-409d-93b3-e24bcdd4b888",
+              "Filename": "f43cf00e-d061-48e9-be74-57dc147bd454.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "87c7d921-83a3-49a7-9ff1-743f82d95135",
+              "Filename": "4b814f66-5d96-445c-98da-e4f78178ae39.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2afdb709-dbba-491f-a216-2dd01bfd0bfd",
+              "Filename": "d1feca34-491d-408d-8ae3-79b5ad2de113.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bdf92c3d-6da3-4d38-a5e1-ab1ed3dc50c9",
+              "Filename": "eabcb996-b8ff-4586-849e-d911963d3740.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "29d233ef-a66d-4d88-8a3e-bcbdfa1e0b28",
+              "Filename": "e20a5d3b-2ccb-46e3-9262-339cc4c34b4b.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-21.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1a162f3c-c837-445b-999b-8b7b61a31814",
+              "Filename": "689e268e-1e98-4f6f-b1a8-6bbc8c9ede2f.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-FP.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "03704c51453347eaab0390dc032812ca",
+          "OriginalImagesSuffix": "03704",
+          "MainPhoto": {
+            "Identifier": "6934921c-3912-4afc-9ce4-a9369d229558",
+            "Filename": "ad5a2399-7e7f-4934-a508-43014a3456b5.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/KNAM/upload/3116-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/9/5010996/ad5a2399-7e7f-4934-a508-43014a3456b5_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "St. Ann's is a well-established and highly regarded development superbly positioned just off the prestigious Ailesbury Road in the heart of Ballsbridge, Dublin 4. This studio apartment extends to approximately 34 sq. m / 365 sq. ft. and presents an excellent opportunity for first-time buyers, investors, or those seeking a convenient pied-à-terre in one of Dublin's most sought-after residential locations.\r\n\r\nA studio apartment offers a wonderfully warm and inviting living environment, where comfort and practicality combine seamlessly. Designed to maximise space and functionality, the open-plan layout creates a bright and versatile home that is easy to maintain and enjoyable to live in. Whether used as a primary residence, a city base, or an investment property, a well-designed studio apartment provides a comfortable and welcoming retreat, perfectly suited to modern urban living.\r\n\r\nThe accommodation comprises an entrance hall with useful storage, a bathroom, and a bright living space incorporating a cleverly designed Murphy bed, which folds neatly away into the wall to maximise the living area during the day. The living room/bedroom leads through to a separate kitchen, creating a practical and functional layout. While the apartment would benefit from modernisation and updating, it offers enormous potential for an incoming purchaser to create a stylish city residence tailored to their own tastes.\r\n\r\nResidents benefit from a centralised heating system, with both heating and hot water included within the service charge, currently approximately 424 per quarter. Additional advantages include surface resident parking, visitor parking, and beautifully maintained communal grounds.\r\n\r\nAlthough there is no private outdoor space, the exceptional location more than compensates, with Ballsbridge and Donnybrook villages, Herbert Park, the Aviva Stadium, and an array of excellent cafés, restaurants, shops and transport links all within easy reach.\r\n\r\nThis is a rare opportunity to acquire an affordable home in one of Dublin's premier residential addresses, offering tremendous potential and an enviable lifestyle in the heart of Dublin 4."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall - \r\nBuilt in cupboards, with shelving, plumbed for washing machine. Centre light\r\n\r\nLiving Room - \r\nLaminate flooring, 'Murphys bed, built - in floor to ceiling shelving and drawers, wall lights. Centre light\r\n\r\nKitchen - \r\nLaminate flooring, tiled splash back, stainless steel sink, free standing fridge, PowerPoint hob and oven. Centre light\r\n\r\nBathroom - \r\nWhite bathroom suite with telephone shower, tiled floor, partly tiled walls, wash hand basin, WC, heated towel rail. Centre light"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "<ul><li>Superb location</li><li>Studio apartment extending to approx. 34 sq.m / 365 sq.ft</li><li>Private communal car park Parking permit for owners within the development </li><li>Plenty of visitors parking</li><li>Lovely mature gardens</li><li>Centralized heating system </li><li>Heating and hot water included in service charge</li><li>Ideal home or investment</li><li>Service charge 424 paid quarterly</li><li>Caretaker</li></ul>"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: F\r\nBER No: 107105934\r\nEnergy Performance Indicator: 12,933 kWh/y"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Catherine O'Connor"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 667864,
+    "MinEnergyRating": 20,
+    "MaxEnergyRating": 20,
+    "BERGrade": "F",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-15T20:52:35.5530000+01:00",
+    "ModifiedOnDate": "2026-06-15T20:58:18.0600000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-15T20:52:35.5530000+01:00",
+    "RefreshedOn": "2026-08-13T12:08:55.1970000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/F.png",
+    "IsTransact": false,
+    "PriceAsString": "€395,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5006503,
+    "BedsString": "1 bed",
+    "SizeStringMeters": 34,
+    "DisplayAddress": "No.1 St. Ann's Apartments, Ailesbury Road, Ballsbridge, Dublin 4",
+    "Eircode": "D04 FP62",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Studio",
+    "PropertyTypeId": 50,
+    "RegionId": 1444,
+    "RegionName": "Dublin 4",
+    "LocalityId": 1253,
+    "LocalityName": "Ballsbridge",
+    "Price": {
+      "MinPrice": 395000,
+      "MaxPrice": 395000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/504f8670-5240-401c-a0ff-d9948c782113_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5296e6bc-dc86-439c-a06a-29d15c450adf_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5296e6bc-dc86-439c-a06a-29d15c450adf_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5296e6bc-dc86-439c-a06a-29d15c450adf_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5919a30d-bf04-4081-890c-9b71f72f8faf_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5919a30d-bf04-4081-890c-9b71f72f8faf_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/5919a30d-bf04-4081-890c-9b71f72f8faf_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/28c73fbd-9855-49b0-87f1-17236851a97e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/28c73fbd-9855-49b0-87f1-17236851a97e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/28c73fbd-9855-49b0-87f1-17236851a97e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e5c5a6f4-1a13-4cce-8283-90c34e6bd9ac_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e5c5a6f4-1a13-4cce-8283-90c34e6bd9ac_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e5c5a6f4-1a13-4cce-8283-90c34e6bd9ac_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/df6da949-1161-4c57-b3df-569728df4c8d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/df6da949-1161-4c57-b3df-569728df4c8d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/df6da949-1161-4c57-b3df-569728df4c8d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e8e5a8fb-6edf-4a88-9d68-4096594b4976_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e8e5a8fb-6edf-4a88-9d68-4096594b4976_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/e8e5a8fb-6edf-4a88-9d68-4096594b4976_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/6658d1c9-7cae-4e14-89db-f9f243651f90_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/6658d1c9-7cae-4e14-89db-f9f243651f90_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/6658d1c9-7cae-4e14-89db-f9f243651f90_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/0f8c03a9-fd94-47e0-a330-36a23054a907_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/0f8c03a9-fd94-47e0-a330-36a23054a907_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/0f8c03a9-fd94-47e0-a330-36a23054a907_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/a36f405f-d614-4ffc-b4e6-b7ddfc66f647_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/a36f405f-d614-4ffc-b4e6-b7ddfc66f647_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/a36f405f-d614-4ffc-b4e6-b7ddfc66f647_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/1779c238-9032-4395-8dc8-27b82688d7e7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/1779c238-9032-4395-8dc8-27b82688d7e7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/1779c238-9032-4395-8dc8-27b82688d7e7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/43786010-f195-4191-84bb-024b0ca72219_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/43786010-f195-4191-84bb-024b0ca72219_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/43786010-f195-4191-84bb-024b0ca72219_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/dada6f95-8e6f-44df-bfe5-bbcde85679c5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/dada6f95-8e6f-44df-bfe5-bbcde85679c5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/dada6f95-8e6f-44df-bfe5-bbcde85679c5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/abbc27f2-86ec-433f-ae49-04edc5a4b3fe_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/abbc27f2-86ec-433f-ae49-04edc5a4b3fe_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/0/5/5006503/abbc27f2-86ec-433f-ae49-04edc5a4b3fe_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.230494,
+      "latitude": 53.319888
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 14,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "dfde97f3-1b76-48ee-9ba4-47b2d4119b09",
+        "Filename": "https://youtube.com/embed/NPuRcyqtGaw",
+        "Caption": "https://youtu.be/NPuRcyqtGaw",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5556,
+    "Name": "Sherry FitzGerald Ballsbridge",
+    "DisplayPhone": "01 269 8888",
+    "Email": "ballsbridge@sherryfitz.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "sherry-fitzgerald-ballsbridge",
+    "SeoName": "sherry-fitzgerald-ballsbridge",
+    "Address": "176 Pembroke Road, Ballsbridge, Dublin 4",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/6/5/5/5556/logo.jpg",
+    "SalesLicense": "002183",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballsbridge/1253",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 4995222,
+      "PropertyClassId": 1,
+      "DisplayAddress": "28 St Ann's, Ailesbury Road, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/2/4995222/191eced0-1c92-49cd-97ce-10f1aed3c373_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/28-st-ann-s-ailesbury-road-donnybrook-dublin-4/4995222"
+    },
+    {
+      "PropertyId": 5024551,
+      "PropertyClassId": 1,
+      "DisplayAddress": "9 Dunluce, Anglesea Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/5/5/5024551/8d824ae6-100f-4272-9977-ded6e68a66c0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/9-dunluce-anglesea-road-ballsbridge-dublin-4/5024551"
+    },
+    {
+      "PropertyId": 5024543,
+      "PropertyClassId": 1,
+      "DisplayAddress": "42 Pembroke Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/4/5/5024543/2de36862-d0b0-4055-bc1d-7424b54031e2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/42-pembroke-road-ballsbridge-dublin-4/5024543"
+    },
+    {
+      "PropertyId": 5024542,
+      "PropertyClassId": 1,
+      "DisplayAddress": "20 Edward Square, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/5/5024542/2058c09c-2479-4601-9126-f392ee6002bb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/20-edward-square-donnybrook-dublin-4/5024542"
+    },
+    {
+      "PropertyId": 5024496,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mount Alexander, St Marys Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/4/5024496/172248f2-4183-4c22-8ba7-74ab452f7c16_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mount-alexander-st-marys-road-ballsbridge-dublin-4/5024496"
+    },
+    {
+      "PropertyId": 4996336,
+      "PropertyClassId": 1,
+      "DisplayAddress": "7 Airfield Manor, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/3/3/4996336/323475dd-4b31-486c-8b95-f0dc5af78032_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/7-airfield-manor-donnybrook-dublin-4/4996336"
+    },
+    {
+      "PropertyId": 5024201,
+      "PropertyClassId": 1,
+      "DisplayAddress": "138 The Sweepstakes, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/0/2/5024201/e08bfbf0-5a3b-4045-b2b4-29dc8c02e9cd_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/138-the-sweepstakes-ballsbridge-dublin-4/5024201"
+    },
+    {
+      "PropertyId": 4964510,
+      "PropertyClassId": 1,
+      "DisplayAddress": "26 Leeson Park, Ranelagh, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/1/5/4964510/684a52b0-cb80-4d81-9450-c40f146b5b21_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/26-leeson-park-ranelagh-dublin-6/4964510"
+    },
+    {
+      "PropertyId": 5023231,
+      "PropertyClassId": 1,
+      "DisplayAddress": "22 Cannon Mews West, Beggar's Bush, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/2/5023231/2a8c0786-cd9b-4aba-8379-6f77e9dd0454_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/22-cannon-mews-west-beggar-s-bush-ballsbridge-dublin-4/5023231"
+    },
+    {
+      "PropertyId": 5022769,
+      "PropertyClassId": 1,
+      "DisplayAddress": "24 Dunloe Hall, 27 Merrion Street Upper, Dublin 2",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/6/7/5022769/5b9a3e76-8cd3-4c62-ab50-403c309bd2cc_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/24-dunloe-hall-27-merrion-street-upper-dublin-2/5022769"
+    },
+    {
+      "PropertyId": 5022637,
+      "PropertyClassId": 1,
+      "DisplayAddress": "81 Nutley Lane, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/3/6/5022637/f15665d1-2062-4e7c-9b22-08ad187992ed_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/81-nutley-lane-donnybrook-dublin-4/5022637"
+    },
+    {
+      "PropertyId": 4952804,
+      "PropertyClassId": 1,
+      "DisplayAddress": "4 Anglesea Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/0/8/4952804/c8d8911f-6c0f-466d-b81d-e16d82df74c8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/4-anglesea-road-ballsbridge-dublin-4/4952804"
+    },
+    {
+      "PropertyId": 4987992,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Melfort, 19 Shrewsbury Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/9/9/4987992/8201e528-cd0d-4411-a53f-ba74a3fb7c0e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/melfort-19-shrewsbury-road-ballsbridge-dublin-4/4987992"
+    },
+    {
+      "PropertyId": 4996572,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Manaton, 124 Stillorgan Road, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/5/4996572/2f0e4215-7912-4e4b-aef3-e091a3a4889a_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/manaton-124-stillorgan-road-donnybrook-dublin-4/4996572"
+    },
+    {
+      "PropertyId": 5021295,
+      "PropertyClassId": 1,
+      "DisplayAddress": "13 Lower Grand Canal Street, Dublin 2",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/2/5021295/822c32e2-bdcf-46ee-a42b-c1539d77e667_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/13-lower-grand-canal-street-dublin-2/5021295"
+    },
+    {
+      "PropertyId": 5019246,
+      "PropertyClassId": 1,
+      "DisplayAddress": "3 Emerald Cottages, Off Grand Canal Street, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/4/2/5019246/9a9a6cea-5d99-46bc-8c38-6a41db2c6f0d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/3-emerald-cottages-off-grand-canal-street-dublin-4/5019246"
+    },
+    {
+      "PropertyId": 5018694,
+      "PropertyClassId": 1,
+      "DisplayAddress": "1 Shrewsbury Square, Sandymount Avenue, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/9/6/5018694/65264292-4af2-4b3b-8cf0-575f8a21db72_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/1-shrewsbury-square-sandymount-avenue-ballsbridge-dublin-4/5018694"
+    },
+    {
+      "PropertyId": 5011840,
+      "PropertyClassId": 1,
+      "DisplayAddress": "9 St Ann's, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/4/8/5011840/836ed735-6d2f-49e7-a670-e4b96dab16e5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/9-st-ann-s-donnybrook-dublin-4/5011840"
+    },
+    {
+      "PropertyId": 5004777,
+      "PropertyClassId": 1,
+      "DisplayAddress": "93 Waterloo Lane, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/7/7/5004777/18165704-3cf1-4715-844f-a9aaa98bd2b2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/93-waterloo-lane-ballsbridge-dublin-4/5004777"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4488729,
+      "Address": "2 Bedroom Apartment -143 Merrion Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/7/4488729/04b3ad28-8e54-4fee-951c-b05ff94e4eb7_t.jpg",
+      "HasWebP": false,
+      "Price": 775000,
+      "PrevPrice": 695000,
+      "PriceChangeDelta": 80000,
+      "PriceChangePercentage": 11.5108,
+      "Created": "30th Jul 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "SeoUrl": "/residential/brochure/2-bedroom-apartment-143-merrion-road-ballsbridge-dublin-4/4488729",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4488726,
+      "Address": "1 Bedroom Apartment -143 Merrion Road, Ballsbridge, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/2/7/4488726/f31fdf0b-b104-4bfa-b907-ba3980a650de_t.jpg",
+      "HasWebP": false,
+      "Price": 625000,
+      "PrevPrice": 595000,
+      "PriceChangeDelta": 30000,
+      "PriceChangePercentage": 5.042,
+      "Created": "21st Apr 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "SeoUrl": "/residential/brochure/1-bedroom-apartment-143-merrion-road-ballsbridge-dublin-4/4488726",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/no-1-st-ann-s-apartments-ailesbury-road-ballsbridge-dublin-4/5006503",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 667864,
+    "Name": "Catherine O'Connor",
+    "JobTitle": "Associate Director",
+    "Email": "catherine.oconnor@sherryfitz.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/4/6/8/667864/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5556,
+    "MYH_LocalityID": 1253,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1444,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Garden",
+    "MYH_MaxPrice": 400000,
+    "MYH_MinBeds": 1,
+    "MYH_MinEnergyRating": 20,
+    "MYH_MinPrice": 400000,
+    "MYH_MinSize": 34,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5006503,
+    "MYH_PropertyTypeID": 50
+  }
+}

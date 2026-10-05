@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/block-3-watermill-apartments-raheny-co-dublin/6665090",
+  "fetchedAt": "2026-10-05T09:13:24.225Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/block-3-watermill-apartments-raheny-co-dublin/6665090",
+  "kind": "listing",
+  "responseSha256": "8b178b837d79682a82fca8661f89279fcc601cd8899f71cfed9a26a05954e868",
+  "files": [
+    {
+      "path": "daft/00624-cff59de1d3fb7707-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9770364839ac06592083b7ed002a5ffae53aca7eaa1ad11e88db17dfe9588f6d",
+      "bytes": 52985
+    },
+    {
+      "path": "daft/00624-cff59de1d3fb7707-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dc00b5d94ee3821cbf896470b96a910929a64dea2dba64f84033ad4cb2ff3d7a",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

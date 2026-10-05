@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-9-malton-dublin-4/6650309",
+  "fetchedAt": "2026-10-05T09:22:47.430Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-9-malton-dublin-4/6650309",
+  "kind": "listing",
+  "responseSha256": "d5c84548a6a930af7ae28b0235fb6b80bdaa7a28be571ac90271a70d6aa6d508",
+  "files": [
+    {
+      "path": "daft/00999-abfa049b912ec0e9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "65330a871b43618a6d85a71db4fb30292646b196fce195c5b4e635b80425e915",
+      "bytes": 48132
+    },
+    {
+      "path": "daft/00999-abfa049b912ec0e9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "472dbdf67dbcb2ce89847ce61a09722a9a400012c38f348ce30f059043eebf4c",
+      "bytes": 8122
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

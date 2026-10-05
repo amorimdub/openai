@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-12-bayview-court-main-street-inniscrone-enniscrone-co-sligo/6683382",
+  "fetchedAt": "2026-10-05T09:46:58.488Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-12-bayview-court-main-street-inniscrone-enniscrone-co-sligo/6683382",
+  "kind": "listing",
+  "responseSha256": "02e81638325b911193ff03b9a70f07e772efc26effa443c417242294a38d250f",
+  "files": [
+    {
+      "path": "daft/01965-1b38ec60f08c3a3a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1f220e2b0290d4ed9736e0d4cbe3ccb43aed5952538859594ed014337467f299",
+      "bytes": 35666
+    },
+    {
+      "path": "daft/01965-1b38ec60f08c3a3a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bbb3ba70844c0d661211fceff08fe89ee2987714a69bb4ff6366ad947d50924d",
+      "bytes": 8056
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

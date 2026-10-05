@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=188",
+  "fetchedAt": "2026-10-05T11:51:30.385Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=188",
+  "kind": "search",
+  "responseSha256": "d16d3d58ad95ebbf810c009cc5a8275450282006b7737f7fa992e2289740ebd6",
+  "files": [
+    {
+      "path": "myhome/04404-853d382543b39e58-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=188\"].SearchResults",
+      "sha256": "e43d5da39f6ce387868cd8a565caf7a044875ef5f1d00937d6ca9fd394f25dbd",
+      "bytes": 118314
+    },
+    {
+      "path": "myhome/04404-853d382543b39e58-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=188\"] (paging fields)",
+      "sha256": "1b4f439a113a7ebbd99fcaf4ce90d8104caf27ed2b2c292d9029792d398f9d2e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/belmont-mews-galloping-green-stillorgan-road-blackrock-co-dublin/5024719",
+    "https://www.myhome.ie/residential/brochure/197glenwood-dublin-road-dundalk-louth/5027006",
+    "https://www.myhome.ie/residential/brochure/leampreaghane-kilflynn-tralee-co-kerry/5027936",
+    "https://www.myhome.ie/residential/brochure/rockhill-ballintra-ballintra-donegal/5027931",
+    "https://www.myhome.ie/residential/brochure/6-oldbawn-way-tallaght-dublin-24/5027935",
+    "https://www.myhome.ie/residential/brochure/98-mount-albany-blackrock-co-dublin/5027933",
+    "https://www.myhome.ie/residential/brochure/7-grange-oaks-avenue-kilternan-dublin-18/5027930",
+    "https://www.myhome.ie/residential/brochure/8-cairnbrook-hall-glenamuck-road-carrickmines-dublin-18/5027924",
+    "https://www.myhome.ie/residential/brochure/10-mill-grove-killincarrig-delgany-greystones-co-wicklow/5027923",
+    "https://www.myhome.ie/residential/brochure/26-mask-avenue-artane-dublin-5/5024718",
+    "https://www.myhome.ie/residential/brochure/college-house-rock-street-midleton-cloyne-cork/5007144",
+    "https://www.myhome.ie/residential/brochure/49-kinvara-avenue-navan-road-dublin-7/5008088",
+    "https://www.myhome.ie/residential/brochure/40-dakota-court-phibsboro-dublin-7/4992068",
+    "https://www.myhome.ie/residential/brochure/15-corcoran-s-terrace-ballina-co-mayo/5027913",
+    "https://www.myhome.ie/residential/brochure/15-millwood-bunclody-co-carlow/5027912",
+    "https://www.myhome.ie/residential/brochure/121-shanliss-avenue-santry-dublin-9/5021221",
+    "https://www.myhome.ie/residential/brochure/glencairn-ballyduff-waterford/5027910",
+    "https://www.myhome.ie/residential/brochure/92-grange-abbey-drive-baldoyle-dublin-13/5007414",
+    "https://www.myhome.ie/residential/brochure/137-grange-abbey-crescent-donaghmede-dublin-13/5026302",
+    "https://www.myhome.ie/residential/brochure/apt-7-ornamental-gardens-oldtown-demesne-naas-county-kildare/5027176"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=189",
+  "paginationLimited": false
+}

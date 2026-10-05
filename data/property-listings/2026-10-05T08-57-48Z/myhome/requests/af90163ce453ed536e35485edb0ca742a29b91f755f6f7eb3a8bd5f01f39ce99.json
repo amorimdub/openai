@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=402",
+  "fetchedAt": "2026-10-05T13:41:45.277Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=402",
+  "kind": "search",
+  "responseSha256": "439fe02e3440ff8ce628a8dc616013890d2b0d53a467cf24eb87c2bcf758a469",
+  "files": [
+    {
+      "path": "myhome/08800-af90163ce453ed53-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=402\"].SearchResults",
+      "sha256": "e40d5bf0059df7c290aa3cade6d3e52df7ecc9591521bbcc06a31614aa9f206f",
+      "bytes": 108173
+    },
+    {
+      "path": "myhome/08800-af90163ce453ed53-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=402\"] (paging fields)",
+      "sha256": "713d835811d752a9a6ab2877117c295d64d787add1e5e997f8473a8899136fd6",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-saint-helen-s-street-galway-city-centre-galway/5015101",
+    "https://www.myhome.ie/residential/brochure/apartment-107-35-38-mountjoy-square-dublin-1/5015097",
+    "https://www.myhome.ie/residential/brochure/earlspark-ballinasloe-taghmaconnell-roscommon/4999394",
+    "https://www.myhome.ie/residential/brochure/3-dunbur-terrace-wicklow-town-co-wicklow/5015089",
+    "https://www.myhome.ie/residential/brochure/tacumshin-tomhaggard-wexford/5015083",
+    "https://www.myhome.ie/residential/brochure/ballinamona-park-tuam-co-galway/5015086",
+    "https://www.myhome.ie/residential/brochure/derryhillagh-castlehill-ballina-co-mayo/5015082",
+    "https://www.myhome.ie/residential/brochure/no-10-rose-hill-mews-rose-hill-kells-road-kilkenny-kilkenny/5013650",
+    "https://www.myhome.ie/residential/brochure/killaneen-ballinamore-leitrim/5015074",
+    "https://www.myhome.ie/residential/brochure/20-brookfield-carnew-wicklow/5015060",
+    "https://www.myhome.ie/residential/brochure/no-2-keenaghan-close-carrick-road-kilcar-co-donegal/5015066",
+    "https://www.myhome.ie/residential/brochure/65-westend-gate-tallaght-dublin-24/5015065",
+    "https://www.myhome.ie/residential/brochure/3-ard-na-laoi-clash-road-little-island-cork/5014984",
+    "https://www.myhome.ie/residential/brochure/patena-tinnaculla-askeaton-limerick/5015026",
+    "https://www.myhome.ie/residential/brochure/53-clearstream-court-finglas-dublin-11/5015062",
+    "https://www.myhome.ie/residential/brochure/8-greenmount-park-green-road-curragh-co-kildare/5015054",
+    "https://www.myhome.ie/residential/brochure/33-gleann-rua-letterkenny-co-donegal/5015053",
+    "https://www.myhome.ie/residential/brochure/60-ridgewood-square-swords-county-dublin/5015049",
+    "https://www.myhome.ie/residential/brochure/rathlumber-edenderry-offaly/5015040",
+    "https://www.myhome.ie/residential/brochure/25-bunbury-gate-avenue-swords-county-dublin/5015048"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=403",
+  "paginationLimited": false
+}

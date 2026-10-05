@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-15-steamboat-quay-limerick-city-centre-co-limerick/6670944",
+  "fetchedAt": "2026-10-05T09:28:48.023Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-15-steamboat-quay-limerick-city-centre-co-limerick/6670944",
+  "kind": "listing",
+  "responseSha256": "c1d06c402fbb3412b2a039d08dd28c9e5dac7cb02fc9deec8c93b789585269f3",
+  "files": [
+    {
+      "path": "daft/01239-8b8fb50f6037feb8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ba0f2281d9def6593b0a7d795bdde320ad2a1f4150f963d0ed8eda1af65a776f",
+      "bytes": 42951
+    },
+    {
+      "path": "daft/01239-8b8fb50f6037feb8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3443d777dae65b3309cba356b84eb05104e59e75536066e6f23b6223c8ab98ba",
+      "bytes": 7986
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

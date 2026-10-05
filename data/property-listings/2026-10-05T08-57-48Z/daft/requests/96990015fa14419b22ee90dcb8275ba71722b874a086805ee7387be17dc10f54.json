@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/33-cliona-park-moyross-moyross-co-limerick/6682890",
+  "fetchedAt": "2026-10-05T09:11:00.013Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/33-cliona-park-moyross-moyross-co-limerick/6682890",
+  "kind": "listing",
+  "responseSha256": "7b92501b807d754bcea8c4ae2bc95c582ce5434e0322fba4183124c8938cb57a",
+  "files": [
+    {
+      "path": "daft/00528-96990015fa14419b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c78d3809492336a0ce73fb81b3426ccc07b9ee0887dcea43693acc3508689124",
+      "bytes": 40806
+    },
+    {
+      "path": "daft/00528-96990015fa14419b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1a3d25cb393c5dffed8071d8d1770d7879d6baf723f9cbb39e626cf2efbbfa3e",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,2332 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "apt 11 the oaks rockfield dundrum   dublin 16",
+    "GroupId": 6462,
+    "Address": "Apt 11 The Oaks, Rockfield",
+    "SoldPrice": 500000,
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/74596e05-b9e4-454e-9e2b-23656e84f451_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/74596e05-b9e4-454e-9e2b-23656e84f451_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/74596e05-b9e4-454e-9e2b-23656e84f451_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/1ca1709e-318a-49e8-93f1-05c4a1058842_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/57dc17db-5ab3-48c2-8d15-f167796d8993_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/6020ef2c-d52e-43e9-8826-b284e5a854e4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/35d5c310-27e2-4a52-9ded-b0725684de25_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/8fff5137-d4ba-423a-8b1f-a238aa9a68b4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/836b40b8-e8c2-44a4-9e92-8980d3f8bbee_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/ddbbb16d-9406-424f-9d62-5637f46408d9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/26866d93-3a50-4e86-b446-7c7f66e8db08_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/c93eb168-d9b8-41dd-bf16-4ffb883a98c7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/3e9d05c2-852e-4031-91b5-328096957eea_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 69,
+    "MaxSize": 69,
+    "BerRating": "B",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€500,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "84",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5001507,
+        "DisplayAddress": "46 Dundrum Gate, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "4c3a78c9-b2fa-4833-af91-d2a71e3afb9c",
+              "Filename": "82ecaff0-2080-4d53-a35b-943154e7ee50.jpg",
+              "Caption": "20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "074dfa4a-ebb5-4e72-b040-f334ba2a3c63",
+              "Filename": "5f0a969c-4720-457b-866d-d37db1d0b235.jpg",
+              "Caption": "30.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9d282698-a678-4626-b973-84bd48b3d06e",
+              "Filename": "8309f7c8-1a3d-4364-acd6-10d5ed061627.jpg",
+              "Caption": "40.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "60aa20f3-c1af-4f81-a131-93b2b587b177",
+              "Filename": "45c69c15-fbde-4649-b58c-2b34a3efe616.jpg",
+              "Caption": "50.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa288730-5598-436a-a2ce-cb393dfe0f90",
+              "Filename": "621fd1e9-ab01-4776-b653-562ea89c286b.jpg",
+              "Caption": "60.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8e68d569-7456-412c-a16b-d1d22892d78a",
+              "Filename": "e72ebbf9-7a2a-47d6-aedf-4c8cc5d61011.jpg",
+              "Caption": "70.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "751c4f2a-9e99-40d1-9049-e00d9d24bdef",
+              "Filename": "379f0213-d3de-4b02-a021-d8dfbf74b1d2.jpg",
+              "Caption": "80.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "37ec86da-b2b4-4742-bc5c-3fcfbc8d808f",
+              "Filename": "992e8aee-49ac-454e-9036-2cf10625531a.jpg",
+              "Caption": "90.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ce11b8e6-f309-4bf5-9b46-c5729ead99af",
+              "Filename": "bae4ce94-bf98-4876-9139-83b49e6f2c62.jpg",
+              "Caption": "100.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "983ce31c-b741-4faf-ac85-919d7f735fce",
+              "Filename": "dc2ae81a-bbc4-4420-939e-2ccfdfdc993b.jpg",
+              "Caption": "110.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d9871326-624d-426a-a8fb-4e462cd5dba4",
+              "Filename": "e9b36215-3dad-4496-8f16-797536cce021.jpg",
+              "Caption": "120.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b44f772d-386f-4823-b2eb-a3bbcb1eb034",
+              "Filename": "79b697d5-def4-4de5-a3b7-734e0f4d1135.jpg",
+              "Caption": "130.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7617180e-be2d-48b9-b554-22178d04c8ca",
+              "Filename": "0e027139-dd30-43fd-a769-83b95df26615.jpg",
+              "Caption": "140.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d1eecf38-4240-467e-b9dc-e11e3f679b57",
+              "Filename": "50ad16cf-58f4-4708-84a7-e5e0f39a0668.jpg",
+              "Caption": "150.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0cdd6213-8aaf-443e-9786-ee0f4ea57de1",
+              "Filename": "04184c3c-ae8f-41f7-a235-6f8cab045338.jpg",
+              "Caption": "160.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "79776c4a-a1b7-43f0-a216-a9054b04ede5",
+              "Filename": "768e7314-9c29-4572-8128-a84c21ee8db0.jpg",
+              "Caption": "170.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "45a27f55-b0aa-485e-8f76-d76ef6c17d0e",
+              "Filename": "2fb4ee76-2230-4eb9-a0c1-afc2a8266ee8.jpg",
+              "Caption": "180.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4f541ceb-3cdc-4c47-8151-2648e6ae97fc",
+              "Filename": "43074614-22ee-4988-836f-e5d80f642893.jpg",
+              "Caption": "190.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c80b5845-9fba-4872-91da-f49693cfd6dd",
+              "Filename": "781c71d8-5832-414f-bbdf-b66e7683690a.jpg",
+              "Caption": "200.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2e7948a8-428b-49da-ba18-2a7b6f49eea6",
+              "Filename": "1082ec2d-160d-4aaa-8d8d-8e2e26cc0077.jpg",
+              "Caption": "210.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7fe16e5d-4dc3-4112-a766-863fc287c896",
+              "Filename": "e66ecefa-dd86-431f-bea6-e534cb6b7704.jpg",
+              "Caption": "220.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2c316900-9dc0-425a-a060-05f25291bcc3",
+              "Filename": "36a21e7f-dbfb-49b0-aaf2-bab5c8762c61.jpg",
+              "Caption": "230.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c84eea53-84d3-4e20-a430-4dee32558176",
+              "Filename": "5d2f20cd-d5e0-4b16-86d7-030bef05f494.jpg",
+              "Caption": "240.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f342501d-ed9d-4f61-a3b1-ea6045ba5614",
+              "Filename": "bc97f4d2-8900-4f68-b490-8cf766e3aef8.jpg",
+              "Caption": "250.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6e809633-a341-44a2-8645-c11af8b0ea98",
+              "Filename": "cf174b05-8064-48fa-8b87-aa9eb9a886ac.jpg",
+              "Caption": "Floorplan 10.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5f867884-24ac-4318-ac86-810ded1657ea",
+              "Filename": "https://my.matterport.com/show/?m=5vEtFucqRLA",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "a82bf0d6cdd14e7f85fafa525d9d3215",
+          "OriginalImagesSuffix": "a82bf",
+          "MainPhoto": {
+            "Identifier": "4c3a78c9-b2fa-4833-af91-d2a71e3afb9c",
+            "Filename": "82ecaff0-2080-4d53-a35b-943154e7ee50.jpg",
+            "Caption": "20.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/0/5/5001507/82ecaff0-2080-4d53-a35b-943154e7ee50_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€495,000",
+        "PropertyClassId": 1,
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5010739,
+        "DisplayAddress": "44 The Rowan Rockfield Dundrum, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "b306ee6b-752a-4f86-a44a-6fc8b529ffde",
+              "Filename": "36b3f6e1-f05f-45aa-b00e-db60b0586815.jpg",
+              "Caption": "Rockfield.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "40c226fe-0014-4fcd-bcb4-cc96497176dd",
+              "Filename": "b80be90c-878a-429f-8c8c-db77e2b4434d.jpg",
+              "Caption": "RockfieldMeas.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2896fe1a-78a6-4901-a335-f019aaa659cd",
+              "Filename": "0f1dfae6-6ef7-40b5-a39d-3ac18a11108f.jpg",
+              "Caption": "2I6A1941.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7b604d0b-689c-4f34-b8fb-421a212c6a1c",
+              "Filename": "a377b499-c2c9-46ee-8e39-9e7ffdc4bdda.jpg",
+              "Caption": "2I6A1942.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aff67ee3-db2c-452c-a861-727e58541d8b",
+              "Filename": "860f3e3f-6693-40ee-acb2-2f57324bd462.jpg",
+              "Caption": "2I6A1943.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "269fe7e8-c5d9-48c6-8cb7-164dd00c1782",
+              "Filename": "a08241ad-ca16-4e83-9e8a-281b9bbf1e8e.jpg",
+              "Caption": "2I6A1944.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0c740d05-8e1b-4355-89a8-da664cab0a99",
+              "Filename": "92173b95-2dff-4fc2-8ac8-acf0566ed827.jpg",
+              "Caption": "2I6A1950.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "95f2e703-ca32-4af1-a50f-dddca1d184a1",
+              "Filename": "bce0c9e5-f484-4c08-b92a-1b3881e75535.jpg",
+              "Caption": "2I6A1952.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2c3cf887-f371-45cc-a7c5-85541d14e7fb",
+              "Filename": "2bf0b837-fb93-4dd7-a624-0963ef0cbfa2.jpg",
+              "Caption": "2I6A1955.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "88cef24c-d596-436c-b9b0-9cc8da8a17cf",
+              "Filename": "c3fb3ed1-fa66-4607-b6e7-021bd75878ea.jpg",
+              "Caption": "2I6A1956.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5c46113a-2442-4c16-a0d1-15a3e9510a94",
+              "Filename": "ae5a1b53-bc22-46d2-a8be-4b37719b3cd6.jpg",
+              "Caption": "2I6A1959.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9d3c92a4-c622-481d-9454-6b05efcdc4e2",
+              "Filename": "5d5df3bb-9e93-411d-844d-269aabf987a4.jpg",
+              "Caption": "2I6A1963.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8b57e277-5b24-47d3-be88-0d1db247df9c",
+              "Filename": "6e47e71b-2ca8-4366-b6bc-88f0e4427528.jpg",
+              "Caption": "2I6A1965-Red.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2f361568-d81c-4bb8-82ac-67792118f94b",
+              "Filename": "855709dd-81c9-4330-b060-f57bfab0231b.jpg",
+              "Caption": "2I6A1940.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b8ac532a-da1e-4e4a-81eb-81eeda858349",
+              "Filename": "7aa04102-3eda-4174-8df9-d242cd047ade.jpg",
+              "Caption": "2I6A1945.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4057f459-e44f-432b-b36a-f195f487209f",
+              "Filename": "3bb7f63e-4acf-4492-a797-308aa4367b8a.jpg",
+              "Caption": "2I6A1946.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "121aac39-051c-4f6b-bad4-e7880eb200e3",
+              "Filename": "28eae3c1-c7cd-48f7-a86d-72583084b121.jpg",
+              "Caption": "2I6A1947.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3404109d-130e-422a-aabf-f1b6490c1b09",
+              "Filename": "353e62e9-454a-41f3-8b87-afd9f9ef6027.jpg",
+              "Caption": "2I6A1948.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6cc74b92-ee54-4538-a616-906bb5d91cd6",
+              "Filename": "874d1870-cf4f-44bd-b08d-34115d5dd673.jpg",
+              "Caption": "2I6A1949.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e31df256-5eac-4998-80b4-18d8f7e36919",
+              "Filename": "9144ace0-134d-443e-b437-a2bf340b5535.jpg",
+              "Caption": "2I6A1951.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "39b0244b-c9c9-47b4-b0fd-8c9eb91bdb36",
+              "Filename": "66b692c2-c3ad-4c99-817d-8b66b3369db8.jpg",
+              "Caption": "2I6A1953.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dd88f649-e15f-43be-999b-24041ac6374a",
+              "Filename": "17523fb3-cb59-459e-bb40-e4aa6b8c441c.jpg",
+              "Caption": "2I6A1954.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "025e4fd6-f5e6-4254-aecf-3968d1c67b82",
+              "Filename": "5c7c6e93-5ac8-4907-adef-431f5013cca2.jpg",
+              "Caption": "2I6A1957.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a17cb978-fbd9-4b2d-996c-a3519d836db8",
+              "Filename": "c3a02bb2-0797-4063-9971-e86073698d73.jpg",
+              "Caption": "2I6A1958.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7b7fd002-f4f6-4c00-acef-75684eadb6be",
+              "Filename": "99494e0b-c568-47e8-a03a-8ff6c1f9f060.jpg",
+              "Caption": "2I6A1960.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5ddd0ee4-6b85-4be1-b254-e1ec79c46bb4",
+              "Filename": "f0f78d3d-cd8f-4c8a-93c5-e73d25138d48.jpg",
+              "Caption": "2I6A1961.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "80c64b54-96b2-4ec6-8844-e6f2295de430",
+              "Filename": "bb4fafb0-69d8-44a4-b8e5-20394857f22a.jpg",
+              "Caption": "2I6A1965.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "e388b9cf988b44a9bdd69b6d0fd7fc2d",
+          "OriginalImagesSuffix": "e388b",
+          "MainPhoto": {
+            "Identifier": "2896fe1a-78a6-4901-a335-f019aaa659cd",
+            "Filename": "0f1dfae6-6ef7-40b5-a39d-3ac18a11108f.jpg",
+            "Caption": "2I6A1941.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/3/7/5010739/0f1dfae6-6ef7-40b5-a39d-3ac18a11108f_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€495,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "87",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5010882,
+        "DisplayAddress": "Apt 11 Altamont Hall, Dundrum,   Dublin 14",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "53df3719-992a-4a29-874b-8f1f54c94e02",
+              "Filename": "97cfeced-1f7b-4541-85de-4a9618bc8fa7.jpg",
+              "Caption": "45015_R_1_3A5A2082.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ce529ed0-7329-4c75-b995-e1c83379a3e5",
+              "Filename": "6c04b8df-7994-4473-8d51-352b39d998af.jpg",
+              "Caption": "45015_R_1_3A5A2140.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "30621580-6f0c-4fd5-a029-911b0e786ac6",
+              "Filename": "41dcaab7-1e53-435f-8321-278ed1856834.jpg",
+              "Caption": "45015_R_1_3A5A2119.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bbc2b994-2735-4891-a602-e1241a381454",
+              "Filename": "dd365f66-b154-43a7-9d40-11338e51ad9d.jpg",
+              "Caption": "45015_R_1_3A5A2133.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "da25912c-1aff-4ec0-8bd1-23a2d88db315",
+              "Filename": "8143af91-a729-47ca-9012-6e4ed25980af.jpg",
+              "Caption": "45015_R_1_3A5A2116.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8d69e1ae-fc7f-4ebd-bd9d-6a58848c4b74",
+              "Filename": "b0e03a6a-5b61-4147-adc0-638ae8991fe2.png",
+              "Caption": "ChatGPT Image Aug 6, 2026, 09_56_46 AM.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0b8ea03b-d1b4-4cea-b66d-d5f1ff7c829b",
+              "Filename": "c6398620-a377-4b1e-a38b-e94f0bd42052.jpg",
+              "Caption": "45015_R_1_3A5A2099 (1).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b63dce2e-1b56-435f-831f-0f2afc8aba07",
+              "Filename": "9eb1acab-15ef-47e9-a6b5-c19cbd33177c.jpg",
+              "Caption": "45015_R_1_3A5A2124.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "533be0e7-05e1-48ea-9172-1d99668e17de",
+              "Filename": "f2079013-c53a-4ba6-a807-8597f65a6ed9.jpg",
+              "Caption": "1000109958.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b9837d01-165e-44ec-af89-e42f36c7546c",
+              "Filename": "d3503399-3f74-4471-8d66-88f450bd585b.jpg",
+              "Caption": "45015_R_1_3A5A2112.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aebff1ff-2820-41af-b75a-7e48d33eb3b7",
+              "Filename": "20f05c37-6637-4c0d-9525-f6ffa39b29c4.jpg",
+              "Caption": "45015_R_1_3A5A2143.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4ad1e0a5-fccd-40f9-8639-1a4669f0457a",
+              "Filename": "0a962a26-5915-4e74-b884-af9f95c450ec.jpg",
+              "Caption": "45015_R_1_3A5A2087.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "de6bf6c5786f43518e133da2fc9f9d55",
+          "OriginalImagesSuffix": "de6bf",
+          "MainPhoto": {
+            "Identifier": "53df3719-992a-4a29-874b-8f1f54c94e02",
+            "Filename": "97cfeced-1f7b-4541-85de-4a9618bc8fa7.jpg",
+            "Caption": "45015_R_1_3A5A2082.JPG",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/8/5010882/97cfeced-1f7b-4541-85de-4a9618bc8fa7_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€475,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "71",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5014220,
+        "DisplayAddress": "Apartment 38, The Rowan, Rockfield, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "56d83c0f-4a3e-4c67-acb9-a284632f905b",
+              "Filename": "78e5c6d5-7883-40d3-8406-ecfde97682b9.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "008afa46-da33-4ca9-aed5-4d3b18e42aab",
+              "Filename": "1b6d7699-8927-4ff8-a9f8-129b7436e4cb.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6181635b-5d54-4935-b370-e6f3d59f0537",
+              "Filename": "02457537-6153-49f9-b146-bdd47d252597.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "28f84f5f-4edc-45fb-b04a-3a3b1b2326e8",
+              "Filename": "a04ed718-c9de-4e22-9011-191f9cde44fe.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "27e1c3cd-90f7-46a9-8bb4-7572bb07a60d",
+              "Filename": "31a756dd-5aa5-48e5-be13-c1cba6e4776d.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "030d8764-3237-4683-930e-bbf4bdc0d4eb",
+              "Filename": "b8922334-5976-4d46-a07e-787ce2804c33.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "23aa81dd-fa7e-4b56-be71-56eb9b38e4dc",
+              "Filename": "3c092a9a-0d57-4c63-b3df-4472ba58be0c.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "22bf7212-b07b-4f15-b8a2-dd396825ece8",
+              "Filename": "2e8e0675-f51e-4cd1-9f3d-fd6f095f1ec3.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa8e85fa-808c-433c-80bb-2cb721206dcc",
+              "Filename": "a4db22e8-a845-43ef-8d8f-92881bda946e.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b9495b81-e44f-456e-a753-e87b79dfe8ec",
+              "Filename": "0b7b577c-6f58-4edd-80e7-47c338598a7d.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "157a3e61-2914-465d-958a-0e7177c416b9",
+              "Filename": "d2fb4d26-bfac-4dbe-81fb-18aae1e55a92.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2f263e25-0af9-4bbc-90ee-013e44b9c71b",
+              "Filename": "b4680d7e-e5c9-49a5-a02a-19e90dad20f1.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "55d122be-4427-44aa-8cd7-4a9b7b7fb790",
+              "Filename": "15d717e7-c4aa-4eff-96aa-58e25f4b1583.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9c7fbcf5-8b79-433c-97a2-c89fe88f0313",
+              "Filename": "4fea0bc8-d286-43b5-b0fb-6c0788c33dbf.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "46f6403f-8ebf-463c-99a0-41860322b05e",
+              "Filename": "ded6d909-7edf-4f26-bf56-69d30fa66cdb.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6fba4227-bb28-4514-96de-3ebbc820577e",
+              "Filename": "68ca225d-ffb2-4c61-867b-52d43964c131.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "60c797b9-1258-4ec6-aa06-204de3220bd4",
+              "Filename": "457b776e-f635-4e73-acb6-10bbc0d86546.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a10f7232-b275-42b3-a7d7-93ff0cefc021",
+              "Filename": "6d90c8ea-a821-4e13-9f95-8d006ac62a8a.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "684e039c-1ab1-4eca-b568-b40deaded4f7",
+              "Filename": "2af22258-b396-4e83-a8b5-e04de3d1d47b.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fff5cddd-d632-418e-bcc9-46af8914cef4",
+              "Filename": "4ba2de45-a383-412f-ba60-2cced9fadd6a.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a363472c-f50a-4143-8bb0-75be1a9ac552",
+              "Filename": "d77d62f2-8a5a-4373-8233-741e70d41b43.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-21.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "503fe6d1-cc12-46c4-9b8f-38d4e8e592c3",
+              "Filename": "11881646-fa50-4d9e-a8e2-accf80990075.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-22.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7e7ec9cf-8f33-4cbf-9630-67d54a08ed0b",
+              "Filename": "0e8c167e-ab73-4077-ad6e-80ebad309fe5.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-23.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bcb66126-9975-407f-89db-ee2117bacae6",
+              "Filename": "20d886d6-e1af-419e-99c0-36349d15e6a0.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-FP.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5fbb7a67-b32c-42ee-a945-b500679359a7",
+              "Filename": "https://my.matterport.com/show/?m=ULLntsL3s1g",
+              "Caption": "https://my.matterport.com/show/?m=ULLntsL3s1g",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            },
+            {
+              "Identifier": "ddb6d3a9-73d3-47c1-a25e-55463ff3177b",
+              "Filename": "https://www.youtube.com/embed/F45fzL8SgqY",
+              "Caption": "https://www.youtube.com/watch?v=F45fzL8SgqY",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "e6eb6ac45ebf4e848095d92a3e8ddfbb",
+          "OriginalImagesSuffix": "e6eb6",
+          "MainPhoto": {
+            "Identifier": "56d83c0f-4a3e-4c67-acb9-a284632f905b",
+            "Filename": "78e5c6d5-7883-40d3-8406-ecfde97682b9.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/MEST/upload/4233-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5014220/78e5c6d5-7883-40d3-8406-ecfde97682b9_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€450,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "55",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5017781,
+        "DisplayAddress": "16 Wyckham Point, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "af8beb7a-1602-42c5-8771-5910ffd9c7be",
+              "Filename": "21f17948-a574-4641-8ce0-5b990d848d33.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5399c3fe-c440-4109-a4a1-fa45758c1c0a",
+              "Filename": "451269f5-551b-4262-b644-515120aed88e.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "af0bb673-f7cf-4040-a225-210ebfff0809",
+              "Filename": "05890c1e-3f23-41cc-9e40-28f1ef1a25ba.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1b666ed2-ab5c-4500-bbea-c0987c8c1379",
+              "Filename": "36394991-3342-4591-a059-ccbd80bf8fee.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "113670b9-798a-429f-af2d-6e436fe90733",
+              "Filename": "78a81fb8-cebd-4f3f-9ebe-69ac2844a00c.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "af637a95-12e8-4e90-851c-f6a96ec9e9f0",
+              "Filename": "bd972282-e61a-4b58-8d6d-08f818ea818e.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fb47bbbe-2728-47f2-9299-04987c9fe383",
+              "Filename": "0f7fe3c5-6eca-4b0b-bc30-1e41ae27a796.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7c7ea79c-f108-49f3-8c76-596d75896166",
+              "Filename": "b2741016-0cbe-4be8-93d9-24749fba8e02.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9cdf39cc-1a7e-4901-8f6c-9101d62ecc46",
+              "Filename": "ec3fb168-798f-436e-aa0a-97cf4b9185f9.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c2c4feda-f5cc-4dbb-9264-5ad9bfe69ec1",
+              "Filename": "57db6868-6b45-496f-bb81-7f075a1f84fe.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d78fc540-e1ef-4e33-850c-21b97a44c8c2",
+              "Filename": "45cb08da-603e-4f19-a80a-a91a188a0202.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "11d93727-b404-46f5-87de-3ae9dfb8cb26",
+              "Filename": "2f432ae7-7da6-42f1-8462-ffcb29421c08.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_01.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "34642255-2efb-4cff-949a-b2e06250e68b",
+              "Filename": "https://www.youtube.com/embed/QwUrH1pDVW4",
+              "Caption": "https://www.youtube.com/watch?v=QwUrH1pDVW4",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "fd1c762efd604ea68882bf7fc4c54406",
+          "OriginalImagesSuffix": "fd1c7",
+          "MainPhoto": {
+            "Identifier": "af8beb7a-1602-42c5-8771-5910ffd9c7be",
+            "Filename": "21f17948-a574-4641-8ce0-5b990d848d33.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260169_02.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/8/7/5017781/21f17948-a574-4641-8ce0-5b990d848d33_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€485,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "78",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5017868,
+        "DisplayAddress": "86 Wyckham Place, Wyckham Way, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "1d8f848d-8589-49c0-ac47-70f09de2186e",
+              "Filename": "1fcba713-ba31-4638-9c24-928e1525d207.png",
+              "Caption": "Front refreshed.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "55d258f8-ba9f-455b-a161-11d12dace137",
+              "Filename": "1071b846-9485-44f1-8eda-f2ef358bf7ed.jpg",
+              "Caption": "virtually-staged-living-room-angle-1-daft.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4fc13f4e-90c2-44d6-b6e6-c23af9483a4f",
+              "Filename": "f02edca5-6594-4d32-9f5f-722c14ae21ae.jpg",
+              "Caption": "3-web-or-mls-DSC01494.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7a82f811-f2d4-4127-99ee-e40a63410d20",
+              "Filename": "739df920-3be1-4103-9d5f-ffea8829f7cf.jpg",
+              "Caption": "4-web-or-mls-DSC01536.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "56be986f-8afe-4748-b15a-ff65661c8d25",
+              "Filename": "d82ffb94-9813-41b5-ad0d-7b6992251441.jpg",
+              "Caption": "virtually-staged tv-unit-daft.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d6bd52be-2596-4725-92c4-1704a2ff6219",
+              "Filename": "0298135a-c627-4893-87dd-b81699f99be8.jpg",
+              "Caption": "5-web-or-mls-DSC01512.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "548ba4dc-09fe-4591-98ce-46651effbd6a",
+              "Filename": "d38e95cc-e202-47f0-b7c4-54d1ce8fce21.jpg",
+              "Caption": "ChatGPT Image Jul 29, 2026, 03_28_02 PM.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "65ee6eae-ec93-43b5-bc53-3f835c3728ee",
+              "Filename": "436e076e-50c5-46fc-926c-6799a653f0d0.jpg",
+              "Caption": "6-web-or-mls-DSC01521.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "edfaeeeb-a6d9-42d2-8e05-3afb76831313",
+              "Filename": "cd818262-7f49-464f-8759-cb4c876dd394.jpg",
+              "Caption": "7-web-or-mls-DSC01551.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "32e2cb98-6f5f-4946-b3d5-83d4f74496bd",
+              "Filename": "05269f9c-af93-486d-976c-c0c56f88b50c.jpg",
+              "Caption": "8-web-or-mls-DSC01557.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b5d4672f-2793-4ce2-bee6-ff9f94e42ec3",
+              "Filename": "83cc4222-ad38-4290-867c-e03b08a6cdd4.jpg",
+              "Caption": "Hall.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9d7d96ce-7c90-4264-9323-37ca01f1f7b7",
+              "Filename": "0783afa0-82c3-417e-a981-895a95bb6259.jpg",
+              "Caption": "9-web-or-mls-DSC01479.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ec86b754-4cfb-4a94-93ba-a1af3ec3295d",
+              "Filename": "113a15bc-d7a3-458c-b276-33ec32864f4a.jpg",
+              "Caption": "Bedroom.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2e23e1cb-2ec5-446a-b597-d6fbeda241ae",
+              "Filename": "8162ead5-bde7-49b7-a63e-0fdd7b0c8697.jpg",
+              "Caption": "14-web-or-mls-DSC01431.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f159536d-e5e6-491c-9914-1fdc80aa7d36",
+              "Filename": "5de7c5ec-fc4e-49cc-ae82-51e8d224278c.jpg",
+              "Caption": "10-web-or-mls-DSC01440.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "47c878bf-3857-414e-8398-9089a650f9b9",
+              "Filename": "2e8edb12-2367-4270-bfb9-5dff6748b54a.jpg",
+              "Caption": "17-web-or-mls-DSC01461.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bf632755-906e-4577-a563-65c54768502a",
+              "Filename": "2b565f93-461d-4acc-af68-ab17885335e6.jpg",
+              "Caption": "15-web-or-mls-DSC01374.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a4bd158f-8933-4151-8ed2-1cd28bdd9fb0",
+              "Filename": "00c7c380-1b74-43a0-9a17-c21dabfe8433.jpg",
+              "Caption": "12-web-or-mls-DSC01392.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8685035d-9338-487a-9fb5-c0916557011b",
+              "Filename": "f4cdc3f8-60ff-4c41-88e3-855d701ceb80.jpg",
+              "Caption": "16-web-or-mls-DSC01470.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "984090c4-afeb-4914-9f00-ff2da5b42da0",
+              "Filename": "1f3c1c33-04bd-4420-8a89-a237c91f7ac9.jpg",
+              "Caption": "ChatGPT Image Jul 29, 2026, 04_06_40 PM.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7deeb5ab-373e-47ce-8df9-05b8b2181a55",
+              "Filename": "62d4bf4d-35c5-412b-bff6-402b029dae3c.jpg",
+              "Caption": "Garden image.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "47a7a9b2-b5d1-48e0-b87f-9bfc5ce68ccb",
+              "Filename": "61c56f5c-330f-4237-9fbf-4010fb8a92e9.jpg",
+              "Caption": "19-web-or-mls-Image-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "59d880d4-3aa0-49da-b60b-d52766aed91a",
+              "Filename": "11cdbdd0-a4f3-4cce-afce-ca9ee10e8197.jpg",
+              "Caption": "22-web-or-mls-Image-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6514e99a-924f-4a82-abdc-a397c96bdec5",
+              "Filename": "779f5783-123b-4191-bf4b-333a65c1bc41.jpg",
+              "Caption": "21-web-or-mls-Image-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4ca9c763-6846-49c4-88a4-681696f9ea1f",
+              "Filename": "0c5375a4-ad06-4def-b729-1e6a23d76b5a.jpg",
+              "Caption": "2-web-or-mls-Image-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e473f29f-2562-4fe8-9b0d-0fa9a53c96ad",
+              "Filename": "4c3ec6e6-db71-449b-94f5-317fd4cff973.jpg",
+              "Caption": "all_floors_wyckham_way_apt_86_ballinteer_with_dim.",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "15af8290b2ae4c4699ce3fe8be0884cc",
+          "OriginalImagesSuffix": "15af8",
+          "MainPhoto": {
+            "Identifier": "1d8f848d-8589-49c0-ac47-70f09de2186e",
+            "Filename": "1fcba713-ba31-4638-9c24-928e1525d207.png",
+            "Caption": "Front refreshed.png",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/6/8/5017868/1fcba713-ba31-4638-9c24-928e1525d207_l.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€435,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "6.5",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5018431,
+        "DisplayAddress": "Apartment 11, The Elm, Rockfield, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "6ef15fb7-744f-42d4-b762-9d4ee9a7f9cb",
+              "Filename": "50c754c5-1031-4995-9a8f-20a02f2537c5.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "35f25597-8519-4aef-bb4c-18b5c6f22fd5",
+              "Filename": "4dc94933-4ef4-4e6f-b04f-244a179eab4c.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d2cac752-4b4b-4435-862b-2e125aeebedf",
+              "Filename": "b74a3ddd-d6b3-42bb-a993-1b9fdf74a8c2.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a8da231c-18de-4744-af71-313d793ae037",
+              "Filename": "7fff0d89-6dc0-4946-a8ce-173d86c56b5a.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f9ef1f3a-1c97-46ce-aeaa-2e5df5521660",
+              "Filename": "5a2a560a-fe70-4641-a815-4397a0c976d0.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b457fa55-bc4b-4bf3-9017-ae85dcf64652",
+              "Filename": "8c2cc12a-cc3f-4c84-91da-6def2525b256.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dc156c1a-86cd-4719-b6cf-5f6f71340b55",
+              "Filename": "e7b1ea88-f9db-4c9d-a5c4-7aedccbd6548.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3d6759f9-c05c-44b9-a23f-c66a711d7f6b",
+              "Filename": "d70de1f1-3e38-4a3e-9fcf-a47d425c3ded.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "02a22977-3ca8-4459-825c-564278599747",
+              "Filename": "925d41a0-5c1b-443b-9b94-9ac9571bd9c9.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "366f6a41-023c-44a8-b3dc-4e317a623892",
+              "Filename": "2f6907f8-5cf9-4bb3-a882-8900497e772b.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c20e6a5a-e89e-44d4-8b35-1b63d3dcf11e",
+              "Filename": "c859ca71-e9b4-427a-879d-004ed02dbe49.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7d18ad9a-3fa8-4ca1-9e23-5059a0b8ecd1",
+              "Filename": "04832bb3-aa67-4aeb-8be9-a08a69829ab1.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ec8021b0-3ab3-4196-9a65-36a201e77e1e",
+              "Filename": "8f2d1ded-334e-4bf3-9551-094200da5e7c.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "df62298e-c62a-4699-99c7-cd93f04b09ed",
+              "Filename": "51704894-f194-4e85-8bc1-4f434ac4c216.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a172f3d7-7415-4d71-8cba-eeaa8785e7db",
+              "Filename": "9aaa98c3-bea8-4f75-939e-d0e6be5565d2.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eba1e360-f456-446f-90b7-e379400e0bd2",
+              "Filename": "5ada0fbe-16b6-45b5-8e8a-531a6dd96025.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "982c16a1-356d-477a-b1dc-4bc94ff8bab5",
+              "Filename": "c4768ba9-1e0a-49d2-aa36-6b2ca7c0b951.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1daf6255-7840-4820-9570-f6f4cd6f1cc8",
+              "Filename": "9103bb7d-7b91-458b-92fc-adf6dbb13b9a.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f3498b85-b410-4ff4-8b7c-fdd066bb21dc",
+              "Filename": "367f01ed-e476-437b-a077-2c416ff33a77.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fab85767-36e1-453d-b5f7-a6beff403d59",
+              "Filename": "3b4e0955-e2b2-47c3-8401-4ec87b553505.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "375948d9-3ec1-425d-ba2f-eac3de8fca1e",
+              "Filename": "9850439f-0fbf-4f23-bbe7-c1c168e032e7.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-21.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b019117a-bb1f-4be4-bdd6-36e092907e9b",
+              "Filename": "fdc838b2-4a46-4e2f-aad2-d5e9aa2ce300.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-22.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "44f45349-9119-43df-826d-8c3df7fbc4b3",
+              "Filename": "https://youtube.com/embed/PgqzShl_FlE",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "d57b46a60314430eb14c30aa5dd56e19",
+          "OriginalImagesSuffix": "d57b4",
+          "MainPhoto": {
+            "Identifier": "6ef15fb7-744f-42d4-b762-9d4ee9a7f9cb",
+            "Filename": "50c754c5-1031-4995-9a8f-20a02f2537c5.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/CCP2/upload/577-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/4/5018431/50c754c5-1031-4995-9a8f-20a02f2537c5_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€475,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "73",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5021164,
+        "DisplayAddress": "Apartment 60, The Holly, Rockfield, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "24b56baf-fd34-4e2d-a489-d79cdad63f5e",
+              "Filename": "72b09f9e-0ef8-47bb-8655-bd2fca1fe5ca.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/001-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6cdbbfbd-760d-4eb7-bcfc-fffae1ca191a",
+              "Filename": "ec8dcc45-06df-4cdd-8c4b-c40674872cfc.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/003-15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a01b4dec-2285-43c5-8f7b-2bf724662ade",
+              "Filename": "dea29037-99c2-4d41-ba91-bf376cf346eb.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/004-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "27ceede8-7e91-4c01-b3ca-425d943b5659",
+              "Filename": "eca01819-6c3a-4145-8d1c-84a7986fdf97.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/006-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9c21198f-1997-4239-9442-ae46cb1055f7",
+              "Filename": "281c3cb0-f5f6-493b-ad43-c1c85c1c4c91.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/7-20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8305d8d6-0ce4-4fe3-8764-42598e4833f6",
+              "Filename": "008ddeb1-9d90-4f6b-bca4-149da4706d17.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/8-25.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "10e3379b-de68-4192-a55e-4ac62ae0d36a",
+              "Filename": "a72c5e50-ccd6-4727-8c8b-e3e2ab477b89.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/009-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1b5cc5b5-d0c5-4dbe-8de5-10dcfeffe4f1",
+              "Filename": "552cff4f-fc74-4068-a4e3-9f7336bdff46.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/010-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "73186186-d6c7-48d8-ada5-e4e2ad57ad5b",
+              "Filename": "33d183f2-a8d2-4b02-9d29-aecf4e5f7910.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/011-15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1378b697-dee2-43b2-8db7-aafd35ea8bed",
+              "Filename": "aa7a0414-7413-4da9-9dc5-6f32ded10d22.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/12-21.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "84f6d285-e79a-4c51-a865-48c9e2a57950",
+              "Filename": "2ffbc238-4de9-4dfe-b26b-cb56b8006ba1.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/13-23.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b9a7e0cc-787d-4345-b613-8b1c3d72f23d",
+              "Filename": "30ac50bd-7872-4609-8785-5b9577928f02.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/14-24.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4a41e027-2fce-4c54-a745-52cf8a328e1d",
+              "Filename": "e4d6c4b5-1dc0-4ecb-b728-c2f83e3cfaf4.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/015-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "180bea50-e7b9-40e6-b3e5-9e5ee97c3ce2",
+              "Filename": "47dc46c5-f8b9-4dcb-ad28-ff22658fd39b.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/016-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9ae76bc1-81c0-4732-addc-4c4b75895965",
+              "Filename": "ed221d4a-8944-4e7f-908f-966f1f740a5f.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/17-20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "454d3152-6246-4cd7-9bd3-6efaa9d72818",
+              "Filename": "b419fc65-269d-4a90-9970-8b7578bc2401.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/018-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8a88517f-04af-44d6-a392-c5c957bf2c07",
+              "Filename": "5f6a3ccb-3ac7-4c0e-b9c5-4ccc6f75f4aa.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/019-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a533b39b-360d-46e0-99ca-9290fe5e6edd",
+              "Filename": "c2a2cf9c-7fae-4593-8d2c-95b5021b1ff8.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/020-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a7bfa0c4-0aa3-4b35-9a23-d2767baeaeb6",
+              "Filename": "9b145166-dfaa-4a27-83db-2b16d629010e.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/021-12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a537995c-e561-4ea7-be13-5d773214f488",
+              "Filename": "e04a67f9-0655-48b9-9fe1-c88bc1c98ce5.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/022-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6dc41b31-8a4a-4fe8-aa17-cb9d0cc94e5c",
+              "Filename": "047e0c58-4307-46ad-9dc8-f4b0a9df6e2b.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/023-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "de77b1ba-672c-470b-b250-cf90d2d5718a",
+              "Filename": "fea34a89-7d3c-4bde-81f0-bb51a35c25ac.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/024-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bb03f721-1875-4c00-9687-6b54d8d1f4d0",
+              "Filename": "c134e677-9a41-4197-ae8f-0c127c04539f.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/025-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "801f5ad2-e642-43fd-a02b-16407b8c231d",
+              "Filename": "385f8a7b-7fe3-44ad-971d-fcf45c4759b7.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/026-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c48dc4e3-57d4-4a29-be44-3762db6c3c50",
+              "Filename": "6885194d-386d-47cb-95f3-016142f4454b.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/027-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1bcafde1-3f8d-4630-bb2d-5e88ccfb7a8a",
+              "Filename": "734723c6-dc60-4d94-b378-ab3584c39766.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/028-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b10980f1-4ec6-44fc-b6cf-d0aca3b4e579",
+              "Filename": "f0f0cc6e-74e4-4c0f-97a5-335602955890.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/all_floors_60_the_holly_rockfield_dublin_with_dim-scaled.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a20866eb-ba68-4c71-9f04-5f1d1f15b7de",
+              "Filename": "17bca099-0109-460c-bea9-92ebeaed5ab3.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/13Ag-39-of-41.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "976584fe-7a52-46cf-8395-f18105af8de4",
+              "Filename": "7981ad9e-094e-4bf0-b70e-023b153e1b56.jpg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/13Ag-41-of-41.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "e0c7f0e685104d80adb16007f4c77606",
+          "OriginalImagesSuffix": "e0c7f",
+          "MainPhoto": {
+            "Identifier": "24b56baf-fd34-4e2d-a489-d79cdad63f5e",
+            "Filename": "72b09f9e-0ef8-47bb-8655-bd2fca1fe5ca.jpg",
+            "Caption": "https://raycooke.ie/wp-content/uploads/2026/08/001-14.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/4/6/1/5021164/72b09f9e-0ef8-47bb-8655-bd2fca1fe5ca_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€525,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "78",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5022623,
+        "DisplayAddress": "132 Wyckham Point, Wyckham Way, Dundrum, Dublin 16",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "1a76dd35-57fc-417c-8e5d-ce0135d9390c",
+              "Filename": "0bb40c10-1249-4870-a083-3d43e12fb96c.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2dd70eea-b46c-44ea-9ca6-98124fa7ef3c",
+              "Filename": "2c7ba5f4-fcae-4cce-80d6-d2267d4fa426.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "42558b28-6b28-4575-a72c-14bc4bef5412",
+              "Filename": "a7ec5845-a26a-44d1-9fa9-85d1305cf9d1.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "73cb9b15-5c56-421b-b9c4-64033931044f",
+              "Filename": "1bbfd86d-ef91-4eb2-841a-e7510142a18b.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3d9ceb44-bbe6-4c6e-948a-61adbeda5de5",
+              "Filename": "8000b084-cf70-4c1a-9442-6f8702a23782.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a474fc72-b719-4491-bb83-d6f964f83867",
+              "Filename": "c52afb4c-7730-4d72-8910-06be874146d9.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "18f4d2a2-0174-42f3-b35c-a2c0e96e3f3b",
+              "Filename": "a49659f4-7f38-4672-90b5-ee16009cd3e9.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ea9dd3dd-05ee-4af2-89c0-41bfabdb05f2",
+              "Filename": "3733a421-88ed-46f3-afdd-071f927aa2d6.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "57372261-14b3-4abc-ba72-b2aa8eb23905",
+              "Filename": "e01a81a4-5071-4087-b7ff-5a575eb28738.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cf54dc7d-5cd5-433b-9ae1-c88c31165d84",
+              "Filename": "2c5897b9-2880-4c48-8fdf-2c8c2b97fc1e.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_11.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9a24cca3-ba78-489f-85dc-fa63826bdccf",
+              "Filename": "626a2838-096b-4737-8bf5-2cd41c45e71b.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2ff4c4a2-cc45-4354-84b0-abdd684c2bba",
+              "Filename": "592f2650-c554-48eb-91cf-0dd992e5e99b.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3285ece9-a3d8-4460-a4e0-acbdde497e98",
+              "Filename": "a18f3728-2e28-40dc-9426-8a1674775f60.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1cca7566-2a8a-4341-9a6e-b2583b8d1ef3",
+              "Filename": "79cd06a4-25b3-434d-93c3-76a26e34cbeb.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4aaf2196-4963-4c2b-8803-cca3436bf2e2",
+              "Filename": "https://youtube.com/embed/CG07aLlsEZc",
+              "Caption": "https://youtu.be/CG07aLlsEZc",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "547afdab33334a60ac7545c3830a07b3",
+          "OriginalImagesSuffix": "547af",
+          "MainPhoto": {
+            "Identifier": "1a76dd35-57fc-417c-8e5d-ce0135d9390c",
+            "Filename": "0bb40c10-1249-4870-a083-3d43e12fb96c.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/23/DND230179_13.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/2/6/5022623/0bb40c10-1249-4870-a083-3d43e12fb96c_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€495,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "86",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5024557,
+        "DisplayAddress": "36 The Blackthorn, Sandyford Road, Dundrum",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "9123b383-7568-4b86-8e53-e81cf657ac99",
+              "Filename": "304a0829-6340-4da0-b475-3ef8f8e42662.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c13e9ee4-8f79-46b9-b664-cb5ce0592867",
+              "Filename": "def00622-2924-4529-889c-9610399a01df.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2cb937f9-0d11-43ae-a152-74568837ca1d",
+              "Filename": "68a8cf83-0213-42a9-8644-6f6ac3c41065.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c211ce83-79e4-41fb-bd8e-1b33fa66ed25",
+              "Filename": "a88f4d5b-6d7f-46d4-9bb3-3cf8db587756.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a8cd0042-e363-4f88-92d6-7b410d74092c",
+              "Filename": "59ba1908-3440-4555-a47a-c70613f2c006.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "adbe926e-bb40-4410-a59f-9e4c51ddcc1f",
+              "Filename": "8b415a39-78e8-4cd8-8304-832760fb2436.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c8bc0366-d9b6-4ed9-970d-ec4ba564794c",
+              "Filename": "9f9254b4-0ecf-47c3-b501-8fef5b6a2c15.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5c04bed9-4365-4673-9c0b-350a6a3d8c25",
+              "Filename": "25c0dc6f-2acd-4756-9896-e53af5274332.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9c8666bc-e631-4117-ad57-1eea24f2def5",
+              "Filename": "597948d8-adf3-4a5b-81b6-f95217592ca6.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "14009d50-7132-4cfd-a489-4a471f38ada7",
+              "Filename": "81054d26-1b7d-4593-897e-ff872d7a62b0.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "386d70c8-f801-497c-99c0-58c1575448a1",
+              "Filename": "5aa90889-18d0-4f86-855c-f13772a7f85f.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_11.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6cc122d9-d201-45c3-9792-0da06c6aa77b",
+              "Filename": "https://youtube.com/embed/PK2wGtMjNIY",
+              "Caption": "https://youtu.be/PK2wGtMjNIY",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "8bdbf9ee97554826a1939efa258de8ce",
+          "OriginalImagesSuffix": "8bdbf",
+          "MainPhoto": {
+            "Identifier": "9123b383-7568-4b86-8e53-e81cf657ac99",
+            "Filename": "304a0829-6340-4da0-b475-3ef8f8e42662.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/DND/26/DND260168_10.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/5/5/5024557/304a0829-6340-4da0-b475-3ef8f8e42662_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Lynam Auctioneers are delighted to introduce this light filled 2 bedroom, 2 bathroom apartment to the market. Located in the heart of Dundrum and beside the LUAS at Balally, No. 11 The Oaks, Rockfield is sure to appeal to a wide range of purchasers. \r\n\r\nExtending to 69m2, accommodation comprises a welcoming entrance hall leading to an open plan living, dining and kitchen area. The private balcony overlooks well kept communal areas. No. 11 has 2 well appointed double bedrooms, the master boasting an en suite bathroom with a shower. Accommodation is completed by a family bathroom with a bath.\r\n\r\nThe location of No 11 The Oaks is second to none, located within a 2 minute walk to the Dundrum Town centre and its extensive offering of shops, restaurants,  a cinema and more. The LUAS at Balally and multiple bus routes offer easy access to the city centre and beyond. The M50 is also a short drive away. \r\n\r\nEarly viewing advised."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Hallway: c. 3.86m x 5.46m\r\n\r\nLiving/dining room: c. 7.27m x 4.50m\r\n\r\nKitchen: c. 1.85m x 2.57m\r\n\r\nBedroom 1: c. 5.05m x 2.74m \r\n\r\nEn suite: c. 1.70m x 1.87m\r\n\r\nBedroom 2: c. 3.89m max x 2.62m\r\n\r\nBathroom: c. 1.77m x 2.43m\r\n\r\nDisclaimer: Whilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements of doors, windows, rooms and any other item are approximate and no responsibility is taken for any error, omission, or misstatement. This plan is for illustrative purposes only and should only be used as such by any prospective purchaser."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Private parking\r\nSecure electronic gates\r\nExtensive public transport links\r\nGFCH\r\nService charge €2,567 annually"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 282593,
+    "MinEnergyRating": 105,
+    "MaxEnergyRating": 105,
+    "BERGrade": "B",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-05-15T16:15:58.7370000+01:00",
+    "ModifiedOnDate": "2026-08-07T14:06:35.9600000+01:00",
+    "IsPremiumAd": false,
+    "InstructedOn": "2026-06-04T10:07:57.8670000+01:00",
+    "ActivatedOn": "2026-06-23T10:00:06.0070000+01:00",
+    "RefreshedOn": "2026-06-23T10:00:06.0070000+01:00",
+    "EstimatedClosedOn": "2026-09-30T00:00:00.0000000+01:00",
+    "ValuedOn": "2026-05-19T13:04:04.0900000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+    "IsTransact": false,
+    "PriceAsString": "€470,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5000263,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 69,
+    "DisplayAddress": "Apt 11 The Oaks, Rockfield, Dundrum,   Dublin 16",
+    "Eircode": "D16 W426",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1457,
+    "RegionName": "Dublin 14",
+    "LocalityId": 1294,
+    "LocalityName": "Dundrum",
+    "Price": {
+      "MinPrice": 470000,
+      "MaxPrice": 470000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/74596e05-b9e4-454e-9e2b-23656e84f451_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/74596e05-b9e4-454e-9e2b-23656e84f451_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/74596e05-b9e4-454e-9e2b-23656e84f451_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/1ca1709e-318a-49e8-93f1-05c4a1058842_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/1ca1709e-318a-49e8-93f1-05c4a1058842_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/1ca1709e-318a-49e8-93f1-05c4a1058842_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/57dc17db-5ab3-48c2-8d15-f167796d8993_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/57dc17db-5ab3-48c2-8d15-f167796d8993_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/57dc17db-5ab3-48c2-8d15-f167796d8993_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/6020ef2c-d52e-43e9-8826-b284e5a854e4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/6020ef2c-d52e-43e9-8826-b284e5a854e4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/6020ef2c-d52e-43e9-8826-b284e5a854e4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/35d5c310-27e2-4a52-9ded-b0725684de25_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/35d5c310-27e2-4a52-9ded-b0725684de25_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/35d5c310-27e2-4a52-9ded-b0725684de25_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/8fff5137-d4ba-423a-8b1f-a238aa9a68b4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/8fff5137-d4ba-423a-8b1f-a238aa9a68b4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/8fff5137-d4ba-423a-8b1f-a238aa9a68b4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/836b40b8-e8c2-44a4-9e92-8980d3f8bbee_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/836b40b8-e8c2-44a4-9e92-8980d3f8bbee_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/836b40b8-e8c2-44a4-9e92-8980d3f8bbee_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/ddbbb16d-9406-424f-9d62-5637f46408d9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/ddbbb16d-9406-424f-9d62-5637f46408d9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/ddbbb16d-9406-424f-9d62-5637f46408d9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/26866d93-3a50-4e86-b446-7c7f66e8db08_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/26866d93-3a50-4e86-b446-7c7f66e8db08_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/26866d93-3a50-4e86-b446-7c7f66e8db08_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/c93eb168-d9b8-41dd-bf16-4ffb883a98c7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/c93eb168-d9b8-41dd-bf16-4ffb883a98c7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/c93eb168-d9b8-41dd-bf16-4ffb883a98c7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/3e9d05c2-852e-4031-91b5-328096957eea_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/3e9d05c2-852e-4031-91b5-328096957eea_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/3e9d05c2-852e-4031-91b5-328096957eea_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/9a70cda7-be75-4676-b6d0-f734756a9126_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/9a70cda7-be75-4676-b6d0-f734756a9126_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/2/5000263/9a70cda7-be75-4676-b6d0-f734756a9126_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2535892,
+      "latitude": 53.2873877
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 11,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/3/6/2/5000263/9a70cda7-be75-4676-b6d0-f734756a9126_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "30a1ae94-44e9-462d-a840-1c1ce66c43d0",
+        "Filename": "https://youtube.com/embed/1kr-i3HaXnI",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 6462,
+    "Name": "Lynam Auctioneers & Estate Agents",
+    "DisplayPhone": "01 296 5374",
+    "Email": "info@lynam.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "lynam-auctioneers-estate-agents",
+    "SeoName": "lynam-auctioneers-estate-agents",
+    "Address": "5 Farmhill Road, Goatstown, Dublin 14",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/2/6/4/6462/logo.jpg",
+    "SalesLicense": "003286",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "dundrum/1294",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 4973629,
+      "PropertyClassId": 1,
+      "DisplayAddress": "32 Farmhill Road, Goatstown,   Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/6/4973629/dd49dd30-ca24-4d7d-b94e-bb837021b405_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/32-farmhill-road-goatstown-dublin-14/4973629"
+    },
+    {
+      "PropertyId": 5016120,
+      "PropertyClassId": 3,
+      "DisplayAddress": "6 Robswall (just beside the village & Sea views), Malahide,   County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/2/1/5016120/0363eba5-0196-4d4f-b2be-52762ae44d43_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/6-robswall-just-beside-the-village-sea-views-malahide-county-dublin/5016120"
+    },
+    {
+      "PropertyId": 5015734,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 56 The Sycamore, Trimbleston, Goatstown,   Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/7/5015734/a266ea79-b5ac-4872-9273-6623a181157e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-56-the-sycamore-trimbleston-goatstown-dublin-14/5015734"
+    },
+    {
+      "PropertyId": 5008595,
+      "PropertyClassId": 1,
+      "DisplayAddress": "58 Glenabbey Road, Mount Merrion,   County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/5/5008595/d990c69a-0d4d-4151-847c-9fdb5f6c6cb4_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/58-glenabbey-road-mount-merrion-county-dublin/5008595"
+    },
+    {
+      "PropertyId": 5015729,
+      "PropertyClassId": 1,
+      "DisplayAddress": "14 South Avenue w/attic room, Mount Merrion, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/7/5015729/3d5f4455-caca-4500-9c63-e365f8db365a_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/14-south-avenue-w-attic-room-mount-merrion-county-dublin/5015729"
+    },
+    {
+      "PropertyId": 4844164,
+      "PropertyClassId": 1,
+      "DisplayAddress": "24 Nutgrove Park, Clonskeagh, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/6/1/4844164/a4c1a26b-87d7-438e-bfe1-ad1b1865d84a_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/24-nutgrove-park-clonskeagh-dublin-14/4844164"
+    },
+    {
+      "PropertyId": 4973127,
+      "PropertyClassId": 1,
+      "DisplayAddress": "33 Ballinteer Crescent, Ballinteer, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/2/1/4973127/7113ce11-0dd2-4109-a4ab-6d660313c5ba_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/33-ballinteer-crescent-ballinteer-dublin-16/4973127"
+    },
+    {
+      "PropertyId": 4997501,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 7 Turnstone, Thornwood , Booterstown, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/0/5/4997501/fa2baaa7-d1b2-4f73-9298-aba05a0e7aa8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-7-turnstone-thornwood-booterstown-county-dublin/4997501"
+    },
+    {
+      "PropertyId": 5013472,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Larchfield Road, Goatstown, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/4/5013472/16a2e852-6c68-41a5-b43e-6725dec50556_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/larchfield-road-goatstown-dublin-14/5013472"
+    },
+    {
+      "PropertyId": 5021000,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Marine Lodge, Seafield Road, Killiney,   County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/0/0/5021000/34aca4e7-cef3-4250-a7aa-cb4f4dd4dfcd_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/marine-lodge-seafield-road-killiney-county-dublin/5021000"
+    },
+    {
+      "PropertyId": 5015675,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Acorn Road, 34, Dundrum, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/7/6/5015675/7209e4dd-1310-4d40-8edc-e64c213693d2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/acorn-road-34-dundrum-dublin-16/5015675"
+    },
+    {
+      "PropertyId": 4985156,
+      "PropertyClassId": 1,
+      "DisplayAddress": "1 Braemor Avenue, Churchtown, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/1/4985156/39e469d3-badc-4a2b-b7c6-b29286d2e065_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/1-braemor-avenue-churchtown-dublin-14/4985156"
+    },
+    {
+      "PropertyId": 5010882,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apt 11 Altamont Hall, Dundrum,   Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/8/5010882/97cfeced-1f7b-4541-85de-4a9618bc8fa7_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apt-11-altamont-hall-dundrum-dublin-14/5010882"
+    },
+    {
+      "PropertyId": 4950783,
+      "PropertyClassId": 1,
+      "DisplayAddress": "208 Lower Kilmacud Road, Goatstown,   Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/8/7/4950783/8433f44b-4bcf-4e1e-b5a5-362f1c6fa542_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/208-lower-kilmacud-road-goatstown-dublin-14/4950783"
+    },
+    {
+      "PropertyId": 4977749,
+      "PropertyClassId": 1,
+      "DisplayAddress": "243 Kilmacud Road Upper, Goatstown, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/4/7/4977749/4c8b88a8-7d67-4abf-8ed8-0cfc00995399_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/243-kilmacud-road-upper-goatstown-dublin-14/4977749"
+    },
+    {
+      "PropertyId": 4986421,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Gledswood Avenue, 19a, Clonskeagh, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/2/4/4986421/288a1012-e1a1-4d6c-94c9-062701522cd4_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/gledswood-avenue-19a-clonskeagh-dublin-14/4986421"
+    },
+    {
+      "PropertyId": 4767438,
+      "PropertyClassId": 1,
+      "DisplayAddress": "12 Alexandra Terrace , Dundrum, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/3/4/4767438/00171081-fd29-4784-8bd5-440d60881484_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/12-alexandra-terrace-dundrum-dublin-14/4767438"
+    },
+    {
+      "PropertyId": 4998138,
+      "PropertyClassId": 1,
+      "DisplayAddress": "1 Lakelands Grove, Stillorgan, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/3/1/4998138/df616284-2314-4206-8d67-288b96c7ff31_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/1-lakelands-grove-stillorgan-county-dublin/4998138"
+    },
+    {
+      "PropertyId": 5002459,
+      "PropertyClassId": 1,
+      "DisplayAddress": "4 Beech Drive, Dundrum, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/5/4/5002459/d1220df7-dfb2-427a-8f75-16a6d5e85b09_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/4-beech-drive-dundrum-dublin-16/5002459"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5031674,
+      "Address": "25 Dun Emer Drive, Dundrum, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/7/6/5031674/80141e6a-cb69-4819-970a-b25d61dc78f5_t.jpeg",
+      "HasWebP": false,
+      "Price": 875000,
+      "PrevPrice": 795000,
+      "PriceChangeDelta": 80000,
+      "PriceChangePercentage": 10.0629,
+      "Created": "2nd Oct 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+      "BerRating": "C",
+      "SeoUrl": "/residential/brochure/25-dun-emer-drive-dundrum-dublin-16/5031674",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 5031674,
+      "Address": "25 Dun Emer Drive, Dundrum, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/7/6/5031674/80141e6a-cb69-4819-970a-b25d61dc78f5_t.jpeg",
+      "HasWebP": false,
+      "Price": 795000,
+      "PrevPrice": 875000,
+      "PriceChangeDelta": -80000,
+      "PriceChangePercentage": -9.1429,
+      "Created": "2nd Oct 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+      "BerRating": "C",
+      "SeoUrl": "/residential/brochure/25-dun-emer-drive-dundrum-dublin-16/5031674",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 5031674,
+      "Address": "25 Dun Emer Drive, Dundrum, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/7/6/5031674/80141e6a-cb69-4819-970a-b25d61dc78f5_t.jpeg",
+      "HasWebP": false,
+      "Price": 875000,
+      "PrevPrice": 895000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -2.2346,
+      "Created": "1st Oct 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+      "BerRating": "C",
+      "SeoUrl": "/residential/brochure/25-dun-emer-drive-dundrum-dublin-16/5031674",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4976245,
+      "Address": "13 Taney Court, Dundrum,   Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/2/4976245/b1a9e20d-0afb-40b2-850e-ae8aca3140bd_t.jpg",
+      "HasWebP": false,
+      "Price": 475000,
+      "PrevPrice": 395000,
+      "PriceChangeDelta": 80000,
+      "PriceChangePercentage": 20.2532,
+      "Created": "15th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/13-taney-court-dundrum-dublin-14/4976245",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4976546,
+      "Address": "Dundrum Castle, Dundrum, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/4/5/4976546/875bef4d-c3dd-4e53-a0d6-fb16ea25a549_t.jpg",
+      "HasWebP": false,
+      "Price": 350000,
+      "PrevPrice": 500000,
+      "PriceChangeDelta": -150000,
+      "PriceChangePercentage": -30,
+      "Created": "27th Mar 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/EXEMPT.png",
+      "BerRating": "EXEMPT",
+      "SeoUrl": "/residential/brochure/dundrum-castle-dundrum-dublin-14-dublin-co-dublin/4976546",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/apt-11-the-oaks-rockfield-dundrum-dublin-16/5000263",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 282593,
+    "Name": "Rachel Mulvey",
+    "Phone": "01 296 5374",
+    "Email": "sales@lynam.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 6462,
+    "MYH_LocalityID": 1294,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1457,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite",
+    "MYH_MaxPrice": 475000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 105,
+    "MYH_MinPrice": 475000,
+    "MYH_MinSize": 69,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5000263,
+    "MYH_PropertyTypeID": 36
+  }
+}

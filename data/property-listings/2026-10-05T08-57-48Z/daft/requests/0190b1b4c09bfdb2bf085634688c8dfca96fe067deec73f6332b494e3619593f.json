@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-glenview-house-161-upper-salthill-road-salthill-galway-city/6662654",
+  "fetchedAt": "2026-10-05T09:30:46.696Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-glenview-house-161-upper-salthill-road-salthill-galway-city/6662654",
+  "kind": "listing",
+  "responseSha256": "dd9fdbe4604073905db8b559505fa932386054b7e6eec0cb858d6947d3aafaac",
+  "files": [
+    {
+      "path": "daft/01318-0190b1b4c09bfdb2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f79f7c5ed1e39cb220728360e933a7ff8fc104bfccd5e429b12c825f25e0ca47",
+      "bytes": 30511
+    },
+    {
+      "path": "daft/01318-0190b1b4c09bfdb2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c4c0ea8ea74361d22ac25acca03566464ce1e8d33e3167b873d63a00d23ec06d",
+      "bytes": 7965
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

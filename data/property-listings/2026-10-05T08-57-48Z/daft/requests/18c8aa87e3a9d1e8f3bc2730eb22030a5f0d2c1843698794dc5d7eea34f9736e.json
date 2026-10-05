@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-10-130-rathmines-road-lower-rathmines-dublin-6/6686027",
+  "fetchedAt": "2026-10-05T09:32:09.289Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-10-130-rathmines-road-lower-rathmines-dublin-6/6686027",
+  "kind": "listing",
+  "responseSha256": "5dd07ebabc630d1f980c29c53c9fbe4ef0a47d0cacd8edc8db9b6e44360d09db",
+  "files": [
+    {
+      "path": "daft/01373-18c8aa87e3a9d1e8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "975193102d441237fd2d9a19eff3f3140ece4a323e57de229a4489c34e9a1286",
+      "bytes": 24067
+    },
+    {
+      "path": "daft/01373-18c8aa87e3a9d1e8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bc8e9a4e17920bb14393fc5d51f519732af3fe88c6a26b4ea58d81bab1916a11",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

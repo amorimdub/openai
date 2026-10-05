@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=37",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=37",
+  "fetchedAt": "2026-10-05T09:31:02.979Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "187a4788849bb787354aa6f7947e1bf1e7d1939e64642dce8bf825b67cf241f1",
+  "files": [
+    {
+      "path": "myhome/01324-eac91575863bdb14-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=37\"].SearchResults",
+      "sha256": "22ec935698512e59d5f0eb97788a52e73116a71419e60c86e33b274b7b58793b",
+      "bytes": 113896
+    },
+    {
+      "path": "myhome/01324-eac91575863bdb14-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=37\"] (paging fields)",
+      "sha256": "b4202ff3acedcadbc044b72c4630cc2963144c1208c7f2a90d6f7a4ba80e4ed1",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/35-manor-view-park-letterkenny-donegal/5021146",
+    "https://www.myhome.ie/residential/brochure/105-loreto-avenue-rathfarnham-dublin-14/5031621",
+    "https://www.myhome.ie/residential/brochure/5-ellensborough-lodge-kingswood-dublin-24/5017654",
+    "https://www.myhome.ie/residential/brochure/11-ard-na-greine-seskin-bantry-west-cork/5031442",
+    "https://www.myhome.ie/residential/brochure/14-roebuck-park-roebuck-goatstown-dublin-14/5008304",
+    "https://www.myhome.ie/residential/brochure/reenacappul-ahakista-west-cork/5031593",
+    "https://www.myhome.ie/residential/brochure/garrantrowlan-kilcotty-enniscorthy-co-wexford/5031617",
+    "https://www.myhome.ie/residential/brochure/61-barton-road-east-churchtown-upper-dublin-14/5018890",
+    "https://www.myhome.ie/residential/brochure/the-anchorage-portmarnock-county-dublin/5001041",
+    "https://www.myhome.ie/residential/brochure/drishogue-oldtown-co-dublin/5031609",
+    "https://www.myhome.ie/residential/brochure/14-newhaven-bay-balbriggan-dublin/5031611",
+    "https://www.myhome.ie/residential/brochure/1-mitchel-house-appian-way-ranelagh-dublin-6/5017065",
+    "https://www.myhome.ie/residential/brochure/18-railway-cottages-sandymount-dublin-4/5025332",
+    "https://www.myhome.ie/residential/brochure/43-fr-redmond-park-arklow-wicklow/5025717",
+    "https://www.myhome.ie/residential/brochure/30-main-street-howth-co-dublin/5031606",
+    "https://www.myhome.ie/residential/brochure/dunbrody-torquay-road-foxrock-dublin-18/5031605",
+    "https://www.myhome.ie/residential/brochure/75-renville-village-oranmore-co-galway/5031596",
+    "https://www.myhome.ie/residential/brochure/drumconnick-cavan-co-cavan/5031590",
+    "https://www.myhome.ie/residential/brochure/20-tirellan-heights-headford-road-co-galway/5031587",
+    "https://www.myhome.ie/residential/brochure/43-grosvenor-road-rathgar-dublin-6/5031324"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=38",
+  "paginationLimited": false
+}

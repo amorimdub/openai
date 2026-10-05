@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=434",
+  "fetchedAt": "2026-10-05T13:57:58.451Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=434",
+  "kind": "search",
+  "responseSha256": "fc87833123dbbce44bd0da7f25abcfb0b065e385c7c069724779f2af95d38964",
+  "files": [
+    {
+      "path": "myhome/09447-9aef167c5bb7a2e5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=434\"].SearchResults",
+      "sha256": "f7a47ea9773eca0208f7de5a258df1673eb613281eb91d9857ebd713a52ac55a",
+      "bytes": 123363
+    },
+    {
+      "path": "myhome/09447-9aef167c5bb7a2e5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=434\"] (paging fields)",
+      "sha256": "ba123be09782a8708caa192575efdee749738153a94a2914a58d08671841c785",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tullagower-cooraclare-kilrush-co-clare/5010382",
+    "https://www.myhome.ie/residential/brochure/13-the-beeches-drumgola-wood-drumalee-cavan-cavan/5010374",
+    "https://www.myhome.ie/residential/brochure/59b-cromwellsfort-road-walkinstown-dublin-12/5007722",
+    "https://www.myhome.ie/residential/brochure/13-bective-place-kells-meath/5009476",
+    "https://www.myhome.ie/residential/brochure/136-mount-garrett-park-tyrrelstown-dublin-15/5009481",
+    "https://www.myhome.ie/residential/brochure/kilcorkey-ballinagare-castlerea-co-roscommon/5010362",
+    "https://www.myhome.ie/residential/brochure/teddington-cottage-woodstock-inistioge-co-kilkenny/5010352",
+    "https://www.myhome.ie/residential/brochure/3-maudlin-road-kells-meath/5010175",
+    "https://www.myhome.ie/residential/brochure/10-st-jospehs-terrace-carrickmacross-monaghan/5010339",
+    "https://www.myhome.ie/residential/brochure/shore-road-belmullet-co-mayo/5010334",
+    "https://www.myhome.ie/residential/brochure/50-thorn-chase-woodale-road-rush-co-dublin/5010332",
+    "https://www.myhome.ie/residential/brochure/barnhill-brae-38-killyconnigan-monaghan-co-monaghan/5010331",
+    "https://www.myhome.ie/residential/brochure/19-radharc-na-coille-drumkeen-co-donegal/5010324",
+    "https://www.myhome.ie/residential/brochure/9a-ardbrack-heights-kinsale-cork/5010310",
+    "https://www.myhome.ie/residential/brochure/29-hunters-way-hunters-wood-ballycullen-dublin-24/5010313",
+    "https://www.myhome.ie/residential/brochure/93-ballygossan-park-skerries-co-dublin/5010315",
+    "https://www.myhome.ie/residential/brochure/knockwilliam-ballyhale-co-kilkenny/5010314",
+    "https://www.myhome.ie/residential/brochure/bothar-gl-s-kilmoney-carrigaline-cork/5006441",
+    "https://www.myhome.ie/residential/brochure/cairn-woods-cottage-cairn-woods-mallow-co-cork/5010306",
+    "https://www.myhome.ie/residential/brochure/23-greenville-court-enniscorthy-co-wexford/5010295"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=435",
+  "paginationLimited": false
+}

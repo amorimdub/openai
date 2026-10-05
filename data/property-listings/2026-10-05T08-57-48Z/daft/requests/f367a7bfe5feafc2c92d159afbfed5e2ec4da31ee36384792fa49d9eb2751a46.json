@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/7-esker-pines-lucan-co-dublin/6659359",
+  "fetchedAt": "2026-10-05T09:13:13.708Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/7-esker-pines-lucan-co-dublin/6659359",
+  "kind": "listing",
+  "responseSha256": "debcb9cad88d0defe6091d96c62b001d73f424b41a8992ea8ad8cee3e57c3c22",
+  "files": [
+    {
+      "path": "daft/00617-f367a7bfe5feafc2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "902da82e52223738036aec816b4ef5763eaf440cf2a68816e975b437b95d1a8b",
+      "bytes": 54396
+    },
+    {
+      "path": "daft/00617-f367a7bfe5feafc2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "26e377ae698dd545ce5a5882be124125168ed11cdcb57132fba4efbddef460cb",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

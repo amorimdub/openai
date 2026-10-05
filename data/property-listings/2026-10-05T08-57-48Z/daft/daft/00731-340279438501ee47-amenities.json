@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST ETCHENS NATIONAL SCHOOL",
+      "numPupils": 411,
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.456596",
+        "lon": "-7.102985"
+      }
+    },
+    {
+      "schoolName": "ST. FINIAN'S NATIONAL SCHOOL",
+      "numPupils": 61,
+      "distance": {
+        "value": 5.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.451992",
+        "lon": "-7.024246"
+      }
+    },
+    {
+      "schoolName": "ST CIARÁN'S NATIONAL SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 6.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.397160",
+        "lon": "-7.121818"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S NATIONAL SCHOOL",
+      "numPupils": 290,
+      "distance": {
+        "value": 6.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.507550",
+        "lon": "-7.139018"
+      }
+    },
+    {
+      "schoolName": "CORALSTOWN NATIONAL SCHOOL",
+      "numPupils": 83,
+      "distance": {
+        "value": 6.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.484844",
+        "lon": "-7.191141"
+      }
+    },
+    {
+      "schoolName": "KILLYON NATIONAL SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 7.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.486023",
+        "lon": "-7.002429"
+      }
+    },
+    {
+      "schoolName": "RAHARNEY NATIONAL SCHOOL",
+      "numPupils": 61,
+      "distance": {
+        "value": 7.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524730",
+        "lon": "-7.097691"
+      }
+    },
+    {
+      "schoolName": "CLOCHA RINCE NATIONAL SCHOOL",
+      "numPupils": 141,
+      "distance": {
+        "value": 8.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.397808",
+        "lon": "-7.014976"
+      }
+    },
+    {
+      "schoolName": "MILLTOWNPASS NATIONAL SCHOOL",
+      "numPupils": 66,
+      "distance": {
+        "value": 9.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.442610",
+        "lon": "-7.248214"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S NATIONAL SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 9.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.532997",
+        "lon": "-7.169678"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLUMBA COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 7.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.516510",
+        "lon": "-7.139881"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CLAVIN",
+      "numPupils": 517,
+      "distance": {
+        "value": 12.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.454970",
+        "lon": "-6.922248"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S SECONDARY SCHOOL",
+      "numPupils": 1015,
+      "distance": {
+        "value": 13.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.339684",
+        "lon": "-7.059996"
+      }
+    },
+    {
+      "schoolName": "OAKLANDS COMMUNITY COLLEGE",
+      "numPupils": 804,
+      "distance": {
+        "value": 13.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.337128",
+        "lon": "-7.062681"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 1125,
+      "distance": {
+        "value": 13.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.413857",
+        "lon": "-7.301681"
+      }
+    },
+    {
+      "schoolName": "MULLINGAR COMMUNITY COLLEGE",
+      "numPupils": 375,
+      "distance": {
+        "value": 16.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524193",
+        "lon": "-7.334495"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHUIRE,",
+      "numPupils": 835,
+      "distance": {
+        "value": 17.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.527280",
+        "lon": "-7.346868"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 839,
+      "distance": {
+        "value": 17.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.529697",
+        "lon": "-7.346145"
+      }
+    },
+    {
+      "schoolName": "ENFIELD COMMUNITY COLLEGE",
+      "numPupils": 532,
+      "distance": {
+        "value": 18.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.414413",
+        "lon": "-6.828750"
+      }
+    },
+    {
+      "schoolName": "ST. FINIAN'S COLLEGE",
+      "numPupils": 877,
+      "distance": {
+        "value": 18.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539017",
+        "lon": "-7.355277"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Kinnegad",
+      "route": "UM02",
+      "destination": "Columcille Street, stop 104531",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4546320083705",
+        "lon": "-7.10101499714886"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kinnegad",
+      "route": "845",
+      "destination": "Kinnegad",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4546320083705",
+        "lon": "-7.10101499714886"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kinnegad",
+      "route": "115X",
+      "destination": "Mullingar",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4546320083705",
+        "lon": "-7.10101499714886"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kinnegad",
+      "route": "115",
+      "destination": "Mullingar",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4546320083705",
+        "lon": "-7.10101499714886"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kinnegad",
+      "route": "847",
+      "destination": "Bachelors Walk",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4546178099968",
+        "lon": "-7.1003226882956"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kinnegad",
+      "route": "763",
+      "destination": "Dublin Airport",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4546178099968",
+        "lon": "-7.1003226882956"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Coralstown",
+      "route": "115X",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4811009328527",
+        "lon": "-7.1709043544505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Coralstown",
+      "route": "115",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4811009328527",
+        "lon": "-7.1709043544505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clonard",
+      "route": "115X",
+      "destination": "U C D Belfield",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.451184",
+        "lon": "-7.020315"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clonard",
+      "route": "115",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.451184",
+        "lon": "-7.020315"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/116-saint-johns-wood-west-clondalkin-dublin-22/6662568",
+  "fetchedAt": "2026-10-05T09:41:03.884Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/116-saint-johns-wood-west-clondalkin-dublin-22/6662568",
+  "kind": "listing",
+  "responseSha256": "feff56f14135b63f38ad6dd421072197b714483b5160033bc669de7b4effd48f",
+  "files": [
+    {
+      "path": "daft/01729-48bec4d736e6f1ae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "10339c28390e3b99fdc41d9b04519e8be2e8ae9482a17a7abdb939a70866c450",
+      "bytes": 75302
+    },
+    {
+      "path": "daft/01729-48bec4d736e6f1ae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5d108dad65220d5caf91e931d0ea40b32b95fe7d29d9427d5c07f3f23a3faa3c",
+      "bytes": 8097
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/basement-buckingham-street-lower-dublin-1-dublin-1/6686495",
+  "fetchedAt": "2026-10-05T09:28:20.970Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/basement-buckingham-street-lower-dublin-1-dublin-1/6686495",
+  "kind": "listing",
+  "responseSha256": "92f116bad5cf0884038c325d256a66f67edab306f3461100aa0a47b964e64c43",
+  "files": [
+    {
+      "path": "daft/01221-c5b134c3dacee393-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a0793e1d7e0177e2b46c8355879fccf2a38a34b32e7f2011a29b3176a3a708a3",
+      "bytes": 34444
+    },
+    {
+      "path": "daft/01221-c5b134c3dacee393-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bf8922c0a486a76fab491e43e398a0111919f7252230c40d91e05caf62fa050a",
+      "bytes": 7978
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

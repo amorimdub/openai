@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-22-longford-house-ifsc-dublin-1/6672477",
+  "fetchedAt": "2026-10-05T09:00:12.350Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-22-longford-house-ifsc-dublin-1/6672477",
+  "kind": "listing",
+  "responseSha256": "17aba41c0aac5f07b29441048170a38134a7b606b75d009028f550bd663852cd",
+  "files": [
+    {
+      "path": "daft/00097-a134e25d202ff975-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a75c8fa8a2e2af5605a9e0d836c367e4eaf3bbdf5e12eb30324120941c8d0218",
+      "bytes": 51192
+    },
+    {
+      "path": "daft/00097-a134e25d202ff975-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f70f003c75e38a66dff1c4560ef0447833fa7ae52eec5dfd0f0bc35fa78ea6f5",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

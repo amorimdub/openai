@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-marker-residences-forbes-street-dublin-2-grand-canal-dock-dublin-2/6657241",
+  "fetchedAt": "2026-10-05T09:24:10.053Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-marker-residences-forbes-street-dublin-2-grand-canal-dock-dublin-2/6657241",
+  "kind": "listing",
+  "responseSha256": "80bd811105fb0605888c5c8b2ef1dc93545f0c436c72f30b8d386b02d3b3b9a6",
+  "files": [
+    {
+      "path": "daft/01054-4d91dc2cdc06c2dc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e32c333071968ed12c0138f11a491fe78da228034606b502fe222a0a01f7fddc",
+      "bytes": 35688
+    },
+    {
+      "path": "daft/01054-4d91dc2cdc06c2dc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-clonsilla-windmill-lodge-coolmine-co-dublin/4626710",
+  "fetchedAt": "2026-10-05T09:08:19.331Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-clonsilla-windmill-lodge-coolmine-co-dublin/4626710",
+  "kind": "listing",
+  "responseSha256": "29cda6d1cf75ef122389687f6a3665969233cf45f65ef595a5b2d7418e57c0bf",
+  "files": [
+    {
+      "path": "daft/00421-b842f8463dba3443-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e9dbff4c3c8084923816d9b53df9c245f9ca9858e47a302275d1f65d0209e24",
+      "bytes": 235125
+    },
+    {
+      "path": "daft/00421-b842f8463dba3443-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8c92fde21a7797382d0d0bdda86fdc5427b147daad0a20dc08848f79fdc6bc9f",
+      "bytes": 8134
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

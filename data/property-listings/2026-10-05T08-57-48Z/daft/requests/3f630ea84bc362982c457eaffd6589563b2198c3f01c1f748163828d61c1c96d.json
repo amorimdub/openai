@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-cubes-6-sandyford-dublin-18/6677144",
+  "fetchedAt": "2026-10-05T09:19:45.708Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-cubes-6-sandyford-dublin-18/6677144",
+  "kind": "listing",
+  "responseSha256": "12edc4d9c5a2af9585d3983367f05b6eee02d2419620fe198fe9c61ce47751b3",
+  "files": [
+    {
+      "path": "daft/00878-3f630ea84bc36298-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "60d987204e3112e354b1b393c821e8a6133946e5cb58072a9426be5b5ddef399",
+      "bytes": 26823
+    },
+    {
+      "path": "daft/00878-3f630ea84bc36298-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b1169d30f3212439123c2dc95e62abf52ef91e504e923b9449742f2d8cb508bc",
+      "bytes": 8107
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

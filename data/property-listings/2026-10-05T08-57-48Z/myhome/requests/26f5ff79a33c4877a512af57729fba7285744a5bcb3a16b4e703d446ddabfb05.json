@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=282",
+  "fetchedAt": "2026-10-05T12:40:14.380Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=282",
+  "kind": "search",
+  "responseSha256": "3d9da81d469d250c9023e735ec76ef09947171e7446030bf567ec6defa4c967e",
+  "files": [
+    {
+      "path": "myhome/06349-26f5ff79a33c4877-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=282\"].SearchResults",
+      "sha256": "0be45f71c3ef205f9ea1453d35a8541dce21ea302ecbb74338b1d2b5d0c6466c",
+      "bytes": 113585
+    },
+    {
+      "path": "myhome/06349-26f5ff79a33c4877-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=282\"] (paging fields)",
+      "sha256": "ad91c264fc435c7092383b78d07662e12958ef33fad097dcdd9eb5b3c08fccfc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-connaught-parade-phibsborough-dublin-7/5021674",
+    "https://www.myhome.ie/residential/brochure/8-mill-street-westport-co-mayo/5024982",
+    "https://www.myhome.ie/residential/brochure/31-inis-f-il-converted-garage-oldbawn-dublin-24/5024255",
+    "https://www.myhome.ie/residential/brochure/55-knights-wood-plus-attic-conversion-drogheda-louth/5024503",
+    "https://www.myhome.ie/residential/brochure/29-the-crescent-larch-hill-santry-dublin-17/5024884",
+    "https://www.myhome.ie/residential/brochure/young-grove-midleton-cork/5023897",
+    "https://www.myhome.ie/residential/brochure/42a-fairyhouse-lodge-ratoath-meath/5024975",
+    "https://www.myhome.ie/residential/brochure/ballinakill-garryhill-co-carlow/5024968",
+    "https://www.myhome.ie/residential/brochure/ardnasmole-seskin-bantry-cork/5024933",
+    "https://www.myhome.ie/residential/brochure/apartment-78-kiln-view-clay-farm-leopardstown-dublin-18/5024747",
+    "https://www.myhome.ie/residential/brochure/23-yellow-clay-manor-commons-road-navan-co-meath/5024965",
+    "https://www.myhome.ie/residential/brochure/6-o-connell-sreet-blackpool-cork/5024587",
+    "https://www.myhome.ie/residential/brochure/42-dun-esker-ballinasloe-galway/5024944",
+    "https://www.myhome.ie/residential/brochure/4-killenure-court-knockavilla-cashel-tipperary/5024952",
+    "https://www.myhome.ie/residential/brochure/317-redford-park-greystones-wicklow/5024953",
+    "https://www.myhome.ie/residential/brochure/apt-4-low-rock-apartments-coast-road-malahide-county-dublin/5003052",
+    "https://www.myhome.ie/residential/brochure/11-elm-gardens-balla-mayo/5011711",
+    "https://www.myhome.ie/residential/brochure/2-mask-drive-artane-dublin-5/5024948",
+    "https://www.myhome.ie/residential/brochure/1-cois-teannaire-cork-aherla-co-cork/5024947",
+    "https://www.myhome.ie/residential/brochure/apartment-602-maritana-gate-canada-street-waterford-city-waterford/5024876"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=283",
+  "paginationLimited": false
+}

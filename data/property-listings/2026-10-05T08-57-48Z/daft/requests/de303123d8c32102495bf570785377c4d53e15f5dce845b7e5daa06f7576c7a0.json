@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/8-millers-wood-herbert-road-co-wicklow/6664173",
+  "fetchedAt": "2026-10-05T09:39:11.233Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/8-millers-wood-herbert-road-co-wicklow/6664173",
+  "kind": "listing",
+  "responseSha256": "7ec080c15a2cb5cf1e2497650adc542a41e982ab4e2a6da78b8415b8f244350d",
+  "files": [
+    {
+      "path": "daft/01654-de303123d8c32102-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6299eb7ec2bbd745e0b6e5d624cab2533c42525f9e3ca56b4fe5894727541ef2",
+      "bytes": 111923
+    },
+    {
+      "path": "daft/01654-de303123d8c32102-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "981d4e88b1404d2058e8d2b775caadc915301915bcc1ee37de365294deb3d7ae",
+      "bytes": 8170
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

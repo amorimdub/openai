@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=96",
+  "fetchedAt": "2026-10-05T11:03:21.155Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=96",
+  "kind": "search",
+  "responseSha256": "f53a2935d16ded6bbf559744c393cffe57b7511263ff5abf8c91b62a2321483c",
+  "files": [
+    {
+      "path": "myhome/02501-43497d1348594103-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=96\"].SearchResults",
+      "sha256": "548cd5c9745c2969ae4e31c1265184a802aa30822c379e9f8c3ae7c94d5c164b",
+      "bytes": 111885
+    },
+    {
+      "path": "myhome/02501-43497d1348594103-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=96\"] (paging fields)",
+      "sha256": "8ed5bacfafd200a3f45a1ab4f245a2d43983ef9045ef8afb270c0644333700c1",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/81-gleann-na-ri-valley-avenue-druid-valley-dublin-18/5030458",
+    "https://www.myhome.ie/residential/brochure/12-upper-bridge-street-belturbet-cavan/5023579",
+    "https://www.myhome.ie/residential/brochure/16-st-patrick-s-terrace-cavan-cavan/5029048",
+    "https://www.myhome.ie/residential/brochure/68-landen-road-ballyfermot-dublin-10/5030457",
+    "https://www.myhome.ie/residential/brochure/swarra-house-drumbo-cavan-cavan/5030389",
+    "https://www.myhome.ie/residential/brochure/7a-binn-eadair-view-sutton-dublin-13/4998826",
+    "https://www.myhome.ie/residential/brochure/apt-7-victoria-house-4-6-haddington-road-ballsbridge-dublin-4/5030448",
+    "https://www.myhome.ie/residential/brochure/5-leopardstown-drive-blackrock-co-dublin/5030452",
+    "https://www.myhome.ie/residential/brochure/3-dangan-park-kimmage-road-west-dublin-12/5030450",
+    "https://www.myhome.ie/residential/brochure/baile-ghaire-89-claremont-court-glasnevin-dublin-11/5030439",
+    "https://www.myhome.ie/residential/brochure/44-spiddal-road-ballyfermot-dublin-10/5030449",
+    "https://www.myhome.ie/residential/brochure/19-gladesville-castlebar-co-mayo/5030446",
+    "https://www.myhome.ie/residential/brochure/18-chelmsford-lane-ranelagh-dublin-6/5030445",
+    "https://www.myhome.ie/residential/brochure/fohenagh-caltra-ballinasloe-co-galway/5030444",
+    "https://www.myhome.ie/residential/brochure/marsville-house-kill-kildare/5030442",
+    "https://www.myhome.ie/residential/brochure/shangarry-loughrea-galway/5030246",
+    "https://www.myhome.ie/residential/brochure/4-vernon-court-seafield-road-west-clontarf-dublin-3/5021027",
+    "https://www.myhome.ie/residential/brochure/52-cloncurry-house-ifsc-dublin-1/5029512",
+    "https://www.myhome.ie/residential/brochure/118-the-glen-alderbrook-ashbourne-co-meath/5025377",
+    "https://www.myhome.ie/residential/brochure/69-castletown-manor-athboy-meath/5030293"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=97",
+  "paginationLimited": false
+}

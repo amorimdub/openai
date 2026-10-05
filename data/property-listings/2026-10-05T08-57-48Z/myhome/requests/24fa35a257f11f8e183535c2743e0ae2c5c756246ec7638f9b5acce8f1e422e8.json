@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=255",
+  "fetchedAt": "2026-10-05T12:26:12.225Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=255",
+  "kind": "search",
+  "responseSha256": "bd66d283a530b880a96da25a01d2cc8859706f57ea750b7b864846bc8c71561e",
+  "files": [
+    {
+      "path": "myhome/05789-24fa35a257f11f8e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=255\"].SearchResults",
+      "sha256": "92874573e3dcdf69f26311917c7be4bef1a2c17f85d37b310abf17996abd616a",
+      "bytes": 124594
+    },
+    {
+      "path": "myhome/05789-24fa35a257f11f8e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=255\"] (paging fields)",
+      "sha256": "0db7d7897f6d598a492d9e184851a5ca191eeb291c4431b162fb28564d43af9b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/22-bellevue-rise-delgany-co-wicklow/5010664",
+    "https://www.myhome.ie/residential/brochure/101-ardoyne-house-pembroke-park-dublin-4/5025895",
+    "https://www.myhome.ie/residential/brochure/2-ardoyne-house-pembroke-park-ballsbridge-dublin-4/5025894",
+    "https://www.myhome.ie/residential/brochure/apartment-21-saddlers-court-ardee-road-rathmines-dublin-6/5024169",
+    "https://www.myhome.ie/residential/brochure/74-knockmaree-chapelizod-dublin-20/5025893",
+    "https://www.myhome.ie/residential/brochure/89-clonlea-mount-oval-rochestown-cork/5025889",
+    "https://www.myhome.ie/residential/brochure/gortbeg-cummer-tuam-co-galway/5025891",
+    "https://www.myhome.ie/residential/brochure/21-newcastle-park-lower-newcastle-road-newcastle-galway-city/5025887",
+    "https://www.myhome.ie/residential/brochure/carriglea-harbour-road-skerries-dublin/5025886",
+    "https://www.myhome.ie/residential/brochure/7-belvedere-terrace-mullingar-westmeath/5025819",
+    "https://www.myhome.ie/residential/brochure/meenacreeve-annagry-county-donegal/5025885",
+    "https://www.myhome.ie/residential/brochure/kilmore-14-willow-grove-foxrock-dublin-18/5003442",
+    "https://www.myhome.ie/residential/brochure/23-long-meadows-sion-road-kilkenny-co-kilkenny/5025883",
+    "https://www.myhome.ie/residential/brochure/2-villa-crescent-prosperous-co-kildare/5025882",
+    "https://www.myhome.ie/residential/brochure/10-corr-na-meala-birr-co-offaly/5025880",
+    "https://www.myhome.ie/residential/brochure/fort-house-blackfort-castlebar-co-mayo/5025878",
+    "https://www.myhome.ie/residential/brochure/lands-knocknagin-road-balbriggan-co-dublin/5025877",
+    "https://www.myhome.ie/residential/brochure/hillcrest-house-the-rock-road-blackrock-louth/5025789",
+    "https://www.myhome.ie/residential/brochure/9-inis-sioda-clonakilty-west-cork/5025871",
+    "https://www.myhome.ie/residential/brochure/13-owenmore-paddock-ballinacarrow-co-sligo/5025872"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=256",
+  "paginationLimited": false
+}

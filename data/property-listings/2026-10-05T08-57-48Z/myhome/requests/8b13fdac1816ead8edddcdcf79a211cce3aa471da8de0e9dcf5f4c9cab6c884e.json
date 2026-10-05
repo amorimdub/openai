@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=444",
+  "fetchedAt": "2026-10-05T14:03:14.083Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=444",
+  "kind": "search",
+  "responseSha256": "201c00fc1fc2a12f1f2805e4853c9149603671268761f0c63547832c71708f09",
+  "files": [
+    {
+      "path": "myhome/09657-8b13fdac1816ead8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=444\"].SearchResults",
+      "sha256": "31029a8cce8199304921b526c42670813d58f1d2ce7b27c62ba8dc1274e4ec29",
+      "bytes": 116076
+    },
+    {
+      "path": "myhome/09657-8b13fdac1816ead8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=444\"] (paging fields)",
+      "sha256": "358115e99609b9e2c80672a8fa64091ea17b652f052ea8b9b6181acfbdb01b57",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/22-lifford-park-south-circular-road-limerick-city/4832244",
+    "https://www.myhome.ie/residential/brochure/16-river-village-athlone-roscommon/5009421",
+    "https://www.myhome.ie/residential/brochure/41-carrigeen-street-wexford-town-wexford/5009416",
+    "https://www.myhome.ie/residential/brochure/44-whitethorn-douglas-road-douglas-cork/5009403",
+    "https://www.myhome.ie/residential/brochure/152-edgewood-lawns-blanchardstown-dublin-15/5009402",
+    "https://www.myhome.ie/residential/brochure/leastown-lane-oldtown-dublin/5009393",
+    "https://www.myhome.ie/residential/brochure/ard-choille-templenaboe-st-mullins-carlow/5009341",
+    "https://www.myhome.ie/residential/brochure/apartment-36-the-casino-dublin-road-malahide-county-dublin/5009391",
+    "https://www.myhome.ie/residential/brochure/129-heather-hill-court-graiguecullen-carlow-county-carlow/5009389",
+    "https://www.myhome.ie/residential/brochure/altar-stone-house-toormore-goleen-west-cork/5009263",
+    "https://www.myhome.ie/residential/brochure/dunquin-house-knockane-road-newcastle-west-limerick/5009373",
+    "https://www.myhome.ie/residential/brochure/south-straleel-carrick-co-donegal/5009368",
+    "https://www.myhome.ie/residential/brochure/1-nottingham-street-north-strand-dublin-3/5009365",
+    "https://www.myhome.ie/residential/brochure/1-saint-fintans-terrace-mountrath-co-laois/5009363",
+    "https://www.myhome.ie/residential/brochure/killasser-mews-24-morehampton-lane-donnybrook-dublin-4/4989184",
+    "https://www.myhome.ie/residential/brochure/balmoral-lodge-17-castle-avenue-clontarf-dublin-3/5008450",
+    "https://www.myhome.ie/residential/brochure/54-the-green-college-road-galway-city-centre-galway/5009336",
+    "https://www.myhome.ie/residential/brochure/gledswood-avenue-19a-clonskeagh-dublin-14/4986421",
+    "https://www.myhome.ie/residential/brochure/40-barrack-street-dundalk-co-louth/5009319",
+    "https://www.myhome.ie/residential/brochure/23-woodford-view-clondalkin-dublin-22/5007946"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=445",
+  "paginationLimited": false
+}

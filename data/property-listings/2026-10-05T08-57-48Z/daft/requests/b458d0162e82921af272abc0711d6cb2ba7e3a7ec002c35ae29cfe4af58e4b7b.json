@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-meadow-avenue-churchtown-dublin-16/6683633",
+  "fetchedAt": "2026-10-05T09:05:59.676Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-meadow-avenue-churchtown-dublin-16/6683633",
+  "kind": "listing",
+  "responseSha256": "0f26fa192fb9ec356132da686cb5ecd98bf8a3c9cf3802a33e730ee34ed6bb05",
+  "files": [
+    {
+      "path": "daft/00328-b458d0162e82921a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2fd32564b96f34b76153eb8dcc337ccaf49d03513a4b0759db2d166b3cf44c78",
+      "bytes": 77485
+    },
+    {
+      "path": "daft/00328-b458d0162e82921a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b388cdf54a1d85a89076c8f8e51804ab1ac2aeba2abf7e33ac8731d83db5c96e",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

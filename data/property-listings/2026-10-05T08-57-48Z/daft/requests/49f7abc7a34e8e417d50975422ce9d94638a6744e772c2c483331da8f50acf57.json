@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/3-castlebrook-rise-castletroy-limerick/6666179",
+  "fetchedAt": "2026-10-05T09:18:14.114Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/3-castlebrook-rise-castletroy-limerick/6666179",
+  "kind": "listing",
+  "responseSha256": "d7c40eb2c76bcd7ae201324b6f679912d1584259f8adba2902790bb6498ac49e",
+  "files": [
+    {
+      "path": "daft/00817-49f7abc7a34e8e41-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3d7f31f9252e4bf2b7a3e2485d3c1685fb4309d4adcae03632aff7d47180d0f5",
+      "bytes": 80711
+    },
+    {
+      "path": "daft/00817-49f7abc7a34e8e41-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "80753b3a53ddf1f44721a33b63a12b1bf190c99f0dbc570634cd9f95b2a10f95",
+      "bytes": 8027
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

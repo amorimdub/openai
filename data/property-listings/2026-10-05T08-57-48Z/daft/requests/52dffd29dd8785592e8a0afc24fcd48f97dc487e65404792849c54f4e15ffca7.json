@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/13-orlagh-avenue-scholarstown-road-dublin-16/6657407",
+  "fetchedAt": "2026-10-05T09:17:59.094Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/13-orlagh-avenue-scholarstown-road-dublin-16/6657407",
+  "kind": "listing",
+  "responseSha256": "80c3d5491706c5451d292ce6c62e3443b8c49daa7017e318ce6e64bd4a1ce755",
+  "files": [
+    {
+      "path": "daft/00807-52dffd29dd878559-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fa74e28bf6a594b6c9b7ee2ba160027bee7d9ef99959defc03b35151b35acf27",
+      "bytes": 60665
+    },
+    {
+      "path": "daft/00807-52dffd29dd878559-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "486e42d9dff19ecf09169bf9ccd0ef2ac1d442185d7523d66f19bfa7855e7b43",
+      "bytes": 8147
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-the-maples-orchard-square-clonskeagh-dublin-14/6682791",
+  "fetchedAt": "2026-10-05T09:52:13.993Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-the-maples-orchard-square-clonskeagh-dublin-14/6682791",
+  "kind": "listing",
+  "responseSha256": "28082926b6627e15880dc83577d8e3c6a3478e4119946fb85dd2ad936ad2d783",
+  "files": [
+    {
+      "path": "daft/02175-60a562e3ba9d9ec4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "99963e94aaa875524d8f2bad5d633ef9237509d5e0aa3e6d846c58098a1296ae",
+      "bytes": 22946
+    },
+    {
+      "path": "daft/02175-60a562e3ba9d9ec4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "19fbbe048c9c57f13a173c4170d158d56f43cfeb2e847dde7b58c3942c32c3d2",
+      "bytes": 8084
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

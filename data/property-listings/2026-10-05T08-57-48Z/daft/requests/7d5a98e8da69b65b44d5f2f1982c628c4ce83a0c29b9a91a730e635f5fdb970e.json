@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-5-57-bath-avenue-ballsbridge-dublin-4/6686937",
+  "fetchedAt": "2026-10-05T09:25:47.715Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-5-57-bath-avenue-ballsbridge-dublin-4/6686937",
+  "kind": "listing",
+  "responseSha256": "e329a8336050047f608f3d0e9f06aea2a607ca2869368641dc7a70beb77bfb27",
+  "files": [
+    {
+      "path": "daft/01119-7d5a98e8da69b65b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "feb2c3c8258b072d995092e58d65aefa23a1e85f42139f28ca883666629a9aaa",
+      "bytes": 28456
+    },
+    {
+      "path": "daft/01119-7d5a98e8da69b65b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "918eacfc60af1a4f65b8622b888801e393f2cbe3eb0304c19939e5bceb1abe51",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

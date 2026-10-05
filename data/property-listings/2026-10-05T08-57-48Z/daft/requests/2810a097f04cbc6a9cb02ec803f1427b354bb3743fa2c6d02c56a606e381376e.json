@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/fitzwilliam-quay-apartments-fitzwilliam-quay-dublin-4-irishtown-dublin-4/6671302",
+  "fetchedAt": "2026-10-05T09:13:34.741Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/fitzwilliam-quay-apartments-fitzwilliam-quay-dublin-4-irishtown-dublin-4/6671302",
+  "kind": "listing",
+  "responseSha256": "2fd2e4c4966486d3aba32b945073e851681c729577e97c65a7288af7ab27461e",
+  "files": [
+    {
+      "path": "daft/00631-2810a097f04cbc6a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "74c506d2d7bfb299b27c46197c361f64bb720935b671c13a65bb060e7d692d5c",
+      "bytes": 86722
+    },
+    {
+      "path": "daft/00631-2810a097f04cbc6a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

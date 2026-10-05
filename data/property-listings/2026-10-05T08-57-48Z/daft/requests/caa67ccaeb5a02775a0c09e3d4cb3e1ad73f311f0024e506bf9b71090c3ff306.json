@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-the-bay-elm-park-merrion-road-dublin-4/6686046",
+  "fetchedAt": "2026-10-05T09:31:16.729Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-the-bay-elm-park-merrion-road-dublin-4/6686046",
+  "kind": "listing",
+  "responseSha256": "e045c9049cf948b2f2f6e9673db444b10f5ab14a7e1ec7b327000f060ceed3f6",
+  "files": [
+    {
+      "path": "daft/01338-caa67ccaeb5a0277-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3fb9404f25d308d33741e43f2d3449a7c159a01a6d000026e83004c14c16ff45",
+      "bytes": 22718
+    },
+    {
+      "path": "daft/01338-caa67ccaeb5a0277-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "539dbda6efe97ff2b26d46a0cbe35e3e41222bc355ad1ee65952020855af751d",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-oaks-the-oaks-porterstown-road-clonsilla-co-dublin/6562200",
+  "fetchedAt": "2026-10-05T09:04:38.590Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-oaks-the-oaks-porterstown-road-clonsilla-co-dublin/6562200",
+  "kind": "listing",
+  "responseSha256": "bd271758b4192e227fd8042749486ce1cf6d7672e81449e5ce7bdbc5632b0c6c",
+  "files": [
+    {
+      "path": "daft/00274-143f9a1c49a12a70-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f0afac81be5bec30ee2ea770d5135de792b62f8430e06b90bd9ab41e5e4a8cc0",
+      "bytes": 34909
+    },
+    {
+      "path": "daft/00274-143f9a1c49a12a70-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8009ad09a6654af54e8de66a686846989750af73e580d2e0d9a73a3584515b76",
+      "bytes": 8129
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

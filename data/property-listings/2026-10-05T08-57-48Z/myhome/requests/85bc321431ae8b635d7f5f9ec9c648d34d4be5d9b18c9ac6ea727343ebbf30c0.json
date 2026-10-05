@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=209",
+  "fetchedAt": "2026-10-05T12:02:06.127Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=209",
+  "kind": "search",
+  "responseSha256": "f44850dd25d4970894c7654b315940afdb204c6ddd80c5209b10c797990aa6ee",
+  "files": [
+    {
+      "path": "myhome/04827-85bc321431ae8b63-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=209\"].SearchResults",
+      "sha256": "8fdd856030885b9df0985902f72a54fb6e7150ec71b2d160d570c2abb6d92adc",
+      "bytes": 127364
+    },
+    {
+      "path": "myhome/04827-85bc321431ae8b63-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=209\"] (paging fields)",
+      "sha256": "f0dac6d430a0337d52cc8d0af94704ecf1178532999452bc90b7c350252a9b26",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/both-n-gainn-ad-seeaghanbaun-kincon-ballina-co-mayo/5027354",
+    "https://www.myhome.ie/residential/brochure/gowlane-north-cork-donoughmore-co-cork/5027353",
+    "https://www.myhome.ie/residential/brochure/66-parklands-northwood-santry-dublin-9/5027343",
+    "https://www.myhome.ie/residential/brochure/dunderrow-kinsale-cork/5027341",
+    "https://www.myhome.ie/residential/brochure/apartment-1-garrison-house-church-terrace-main-street-bray-co-wicklow/5003977",
+    "https://www.myhome.ie/residential/brochure/garrison-house-church-terrace-main-street-bray-co-wicklow/5003979",
+    "https://www.myhome.ie/residential/brochure/shelmaliere-commons-barntown-wexford-co-wexford/5027342",
+    "https://www.myhome.ie/residential/brochure/rossbeigh-bendemeer-park-magazine-road-glasheen-cork/5027338",
+    "https://www.myhome.ie/residential/brochure/601-the-cubes-5-beacon-south-quarter-sandyford-dublin-18/5027339",
+    "https://www.myhome.ie/residential/brochure/shelmaliere-commons-barntown-wexford-co-wexford/5027336",
+    "https://www.myhome.ie/residential/brochure/6-forest-ridge-doughcloyne-wilton-cork/5004658",
+    "https://www.myhome.ie/residential/brochure/11-orwell-bank-orwell-park-rathgar/5004442",
+    "https://www.myhome.ie/residential/brochure/7-rochford-place-kilcock-county-kildare/5027332",
+    "https://www.myhome.ie/residential/brochure/apartment-12-kirkpatrick-house-spencer-dock-ifsc-dublin-1-d01n201/5027303",
+    "https://www.myhome.ie/residential/brochure/5-martello-mews-sydney-parade-sandymount-dublin-4/4996779",
+    "https://www.myhome.ie/residential/brochure/120-charlesland-wood-charlesland-greystones-co-wicklow/5004971",
+    "https://www.myhome.ie/residential/brochure/113-welwyn-road-maryborough-woods-douglas-cork/5023310",
+    "https://www.myhome.ie/residential/brochure/3-elder-heath-villas-tallaght-dublin-24/5021875",
+    "https://www.myhome.ie/residential/brochure/apartment-4-sycamore-hall-leopardstown-dublin-18/5008748",
+    "https://www.myhome.ie/residential/brochure/56-ticknock-way-ticknock-hill-sandyford/4966144"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=210",
+  "paginationLimited": false
+}

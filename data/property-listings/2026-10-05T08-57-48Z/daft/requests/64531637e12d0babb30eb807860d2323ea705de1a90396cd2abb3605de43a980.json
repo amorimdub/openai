@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-the-alliance-the-gasworks-barrow-street-dublin-4/2315170",
+  "fetchedAt": "2026-10-05T09:01:15.419Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-the-alliance-the-gasworks-barrow-street-dublin-4/2315170",
+  "kind": "listing",
+  "responseSha256": "6fbcc349a3ac9fd74def9d422a2ae395c51a2021c05b6dc7740be5bc2cd38b6a",
+  "files": [
+    {
+      "path": "daft/00139-64531637e12d0bab-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0f886282c9215011fe3f6fa7836f702786f782ebe732125a696cb6bc4a7394a2",
+      "bytes": 54118
+    },
+    {
+      "path": "daft/00139-64531637e12d0bab-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c65dc483eeffeccc8650455738e51a30164c5f51899d5278fa2e11262468ff27",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

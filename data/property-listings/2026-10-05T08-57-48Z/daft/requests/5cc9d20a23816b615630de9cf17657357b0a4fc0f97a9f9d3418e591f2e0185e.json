@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-108-maritana-gate-waterford-city-centre-co-waterford/6673803",
+  "fetchedAt": "2026-10-05T09:53:08.048Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-108-maritana-gate-waterford-city-centre-co-waterford/6673803",
+  "kind": "listing",
+  "responseSha256": "90b678f6b6d92db7bcfaa1bc6c107fae1cb8ef4da2719e49d3e47b4d9428853f",
+  "files": [
+    {
+      "path": "daft/02211-5cc9d20a23816b61-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1e102ceb710f554ae627f4985ece9b401cba57681522e1fe5d155f6f9d3730e4",
+      "bytes": 28285
+    },
+    {
+      "path": "daft/02211-5cc9d20a23816b61-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7d3775254e5ac3a0910cd8703f97f2db14c78a0d40f37c26a1414a2d2405e8ef",
+      "bytes": 8106
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

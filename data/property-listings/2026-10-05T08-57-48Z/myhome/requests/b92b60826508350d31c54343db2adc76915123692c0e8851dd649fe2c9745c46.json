@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=293",
+  "fetchedAt": "2026-10-05T12:45:54.126Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=293",
+  "kind": "search",
+  "responseSha256": "7009697e4cc523c7e0504ecb8cac3c0380972fbf58df75c91c01fc14f21a9157",
+  "files": [
+    {
+      "path": "myhome/06575-b92b60826508350d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=293\"].SearchResults",
+      "sha256": "d0e0eb5cdc4da91d3cbad6fc28eec67a2af662a234ad1a8cf21cfde43be8a601",
+      "bytes": 126751
+    },
+    {
+      "path": "myhome/06575-b92b60826508350d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=293\"] (paging fields)",
+      "sha256": "f33ed111baa4090d2ba51f2eee0f4f9ce0570bb611ad15d20da0764a91ee9e8f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/61-the-glade-athenry-galway/5024517",
+    "https://www.myhome.ie/residential/brochure/25-willowbrook-mullingar-co-westmeath/5024521",
+    "https://www.myhome.ie/residential/brochure/12-clonmore-heights-mullingar-co-westmeath/5024520",
+    "https://www.myhome.ie/residential/brochure/4-the-close-river-park-gracedieu-gracedieu-waterford/5024216",
+    "https://www.myhome.ie/residential/brochure/4-jamesmont-garryduff-rochestown-cork/5024516",
+    "https://www.myhome.ie/residential/brochure/brackloon-south-charlestown-co-mayo-claremorris/5024514",
+    "https://www.myhome.ie/residential/brochure/the-gables-new-cork-road-midleton-co-cork/5024510",
+    "https://www.myhome.ie/residential/brochure/apartment-15-stone-court-the-square-roscommon-town-roscommon/5024504",
+    "https://www.myhome.ie/residential/brochure/4-acres-avenue-acres-cove-drumshanbo-co-leitrim/5024500",
+    "https://www.myhome.ie/residential/brochure/no-2-an-caireal-mounthawk-tralee-co-kerry/5024499",
+    "https://www.myhome.ie/residential/brochure/springhill-cottage-coolmeen-ballyhale-co-kilkenny/5006290",
+    "https://www.myhome.ie/residential/brochure/dunard-oakpark-road-tralee-co-kerry/5024494",
+    "https://www.myhome.ie/residential/brochure/18-inbhear-sceine-kenmare-kerry/5024491",
+    "https://www.myhome.ie/residential/brochure/15-st-joseph-s-avenue-clonliffe-road-drumcondra-dublin-3/5000842",
+    "https://www.myhome.ie/residential/brochure/3-the-cottages-lower-windmill-lane-windmill-hill-youghal-co-cork/5024490",
+    "https://www.myhome.ie/residential/brochure/belass-foxford-mayo/5024486",
+    "https://www.myhome.ie/residential/brochure/apt-45-the-strand-149-north-strand-road-north-strand-dublin-3/5024489",
+    "https://www.myhome.ie/residential/brochure/glenbrook-at-ballymakenny-park-drogheda-co-louth/5024480",
+    "https://www.myhome.ie/residential/brochure/lorrha-nenagh-co-tipperary/5024472",
+    "https://www.myhome.ie/residential/brochure/the-waterways-belcarra-mayo/5024470"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=294",
+  "paginationLimited": false
+}

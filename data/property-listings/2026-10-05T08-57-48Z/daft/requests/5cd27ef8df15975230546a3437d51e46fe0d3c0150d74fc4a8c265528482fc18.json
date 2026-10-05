@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sherrard-street-lower-dublin-1/6684010",
+  "fetchedAt": "2026-10-05T09:45:47.846Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sherrard-street-lower-dublin-1/6684010",
+  "kind": "listing",
+  "responseSha256": "81656fd92a591092fea4966b7782bd9af3e4c4ebc155b5c2066a9c00ae66e266",
+  "files": [
+    {
+      "path": "daft/01918-5cd27ef8df159752-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d6bfb98071113696445072c9fbfff0fc3a0d376ab6eb7c79b671c28d19a392b1",
+      "bytes": 14063
+    },
+    {
+      "path": "daft/01918-5cd27ef8df159752-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a149800ef62aca91c9f97c29f54ca68e542adffe12ff8c733abf9c6f46c3efb9",
+      "bytes": 8048
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

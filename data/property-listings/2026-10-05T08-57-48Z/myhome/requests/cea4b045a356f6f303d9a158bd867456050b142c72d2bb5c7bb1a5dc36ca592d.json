@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=310",
+  "fetchedAt": "2026-10-05T12:54:42.493Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=310",
+  "kind": "search",
+  "responseSha256": "29d5500ba09be633165abc4092b46a91e7ef34cbb42c7a133bd6c597bef73b32",
+  "files": [
+    {
+      "path": "myhome/06922-cea4b045a356f6f3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=310\"].SearchResults",
+      "sha256": "1841b3ee45afad7ab3f3b9826c811a92a667da4bf947b1b6792bb147846b8b12",
+      "bytes": 115963
+    },
+    {
+      "path": "myhome/06922-cea4b045a356f6f3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=310\"] (paging fields)",
+      "sha256": "804cb6346d4cd435c1c83889652ca9d36f0c756f8b425729479ac26ea2f72b5c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/35-manor-view-roxborough-manor-wexford-town-wexford/5023317",
+    "https://www.myhome.ie/residential/brochure/the-old-school-house-kilvemnon-mullinahone-tipperary/5023315",
+    "https://www.myhome.ie/residential/brochure/14-fermoyle-manor-kilanerin-gorey-wexford/5023299",
+    "https://www.myhome.ie/residential/brochure/28-shackleton-house-clonee-dublin-15/5023313",
+    "https://www.myhome.ie/residential/brochure/cill-n-cragg-via-limerick-birdhill-tipperary/5021326",
+    "https://www.myhome.ie/residential/brochure/derryfadda-bofeenaun-ballina-co-mayo/5023308",
+    "https://www.myhome.ie/residential/brochure/4-the-ash-clonard-village-wexford/5023307",
+    "https://www.myhome.ie/residential/brochure/59-st-fintan-s-park-deansgrange-dublin/5023210",
+    "https://www.myhome.ie/residential/brochure/stoneyisland-cottage-stoneyisland-portumna-galway/5022798",
+    "https://www.myhome.ie/residential/brochure/parkmore-athleague-roscommon/5023302",
+    "https://www.myhome.ie/residential/brochure/main-street-pallaskenry-limerick/5023297",
+    "https://www.myhome.ie/residential/brochure/5-bower-court-prosperous-co-kildare/5023298",
+    "https://www.myhome.ie/residential/brochure/95-ashfield-avenue-ridgewood-swords-dublin/5023293",
+    "https://www.myhome.ie/residential/brochure/39-the-croft-parc-na-silla-avenue-loughlinstown-dublin-18/5023294",
+    "https://www.myhome.ie/residential/brochure/apartment-2-brooklawn-house-brooklawn-wood-stradbrook-road-blackrock-co-dublin/5023288",
+    "https://www.myhome.ie/residential/brochure/holly-hill-convent-road-delgany-co-wicklow/5023287",
+    "https://www.myhome.ie/residential/brochure/25-ard-na-habhann-newtown-road-wexford-town-wexford/5023263",
+    "https://www.myhome.ie/residential/brochure/an-gleann-m-r-carraroe-co-galway/5023286",
+    "https://www.myhome.ie/residential/brochure/thornhill-westport-mayo/5023284",
+    "https://www.myhome.ie/residential/brochure/21-cluain-aoibhinn-court-swellan-lower-cavan/5023281"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=311",
+  "paginationLimited": false
+}

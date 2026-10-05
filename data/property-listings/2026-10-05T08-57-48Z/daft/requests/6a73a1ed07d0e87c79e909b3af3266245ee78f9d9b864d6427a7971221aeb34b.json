@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/48-elm-mount-road-beaumont-dublin-9/6647048",
+  "fetchedAt": "2026-10-05T09:50:27.360Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/48-elm-mount-road-beaumont-dublin-9/6647048",
+  "kind": "listing",
+  "responseSha256": "63e146c127e15819c91f9eb443fbe8eea402d5ee9f67b4d3b52cca23725bc1fe",
+  "files": [
+    {
+      "path": "daft/02104-6a73a1ed07d0e87c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4174917cba08118a227aa46691a289c84a040bb9b74cf252bc57f7af49fedc53",
+      "bytes": 48926
+    },
+    {
+      "path": "daft/02104-6a73a1ed07d0e87c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "281d9e8a5078d92ad2bf6deec0e3273d090bfdbc7600a77fe6877d3d72efe4e9",
+      "bytes": 7989
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

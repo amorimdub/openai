@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST PAUL'S SPECIAL SCHOOL",
+      "numPupils": 54,
+      "distance": {
+        "value": 0.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.389957",
+        "lon": "-6.230706"
+      }
+    },
+    {
+      "schoolName": "BEAUMONT HOSPITAL SCHOOL",
+      "numPupils": 7,
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.390728",
+        "lon": "-6.220881"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL CHOLMCILLE",
+      "numPupils": 221,
+      "distance": {
+        "value": 0.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.396010",
+        "lon": "-6.230591"
+      }
+    },
+    {
+      "schoolName": "SCOIL ÍDE GIRLS NATIONAL SCHOOL",
+      "numPupils": 156,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.394860",
+        "lon": "-6.220003"
+      }
+    },
+    {
+      "schoolName": "SCOIL FHURSA",
+      "numPupils": 185,
+      "distance": {
+        "value": 0.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.395157",
+        "lon": "-6.219961"
+      }
+    },
+    {
+      "schoolName": "ST FIACHRAS SNS",
+      "numPupils": 633,
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.387672",
+        "lon": "-6.224397"
+      }
+    },
+    {
+      "schoolName": "ST. FIACHRA'S JUNIOR SCHOOL",
+      "numPupils": 582,
+      "distance": {
+        "value": 0.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.387215",
+        "lon": "-6.226649"
+      }
+    },
+    {
+      "schoolName": "ST JOHN OF GOD ARTANE",
+      "numPupils": 189,
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.389652",
+        "lon": "-6.217318"
+      }
+    },
+    {
+      "schoolName": "ST DAVID'S BOYS NATIONAL SCHOOL",
+      "numPupils": 278,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.385810",
+        "lon": "-6.217242"
+      }
+    },
+    {
+      "schoolName": "HOLY CHILD NATIONAL SCHOOL",
+      "numPupils": 495,
+      "distance": {
+        "value": 1.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.385933",
+        "lon": "-6.245113"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OUR LADY OF MERCY COLLEGE",
+      "numPupils": 379,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.386738",
+        "lon": "-6.230722"
+      }
+    },
+    {
+      "schoolName": "COOLOCK COMMUNITY COLLEGE",
+      "numPupils": 192,
+      "distance": {
+        "value": 1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.396805",
+        "lon": "-6.213115"
+      }
+    },
+    {
+      "schoolName": "ELLENFIELD COMMUNITY COLLEGE",
+      "numPupils": 103,
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384003",
+        "lon": "-6.240496"
+      }
+    },
+    {
+      "schoolName": "ST. DAVID'S COLLEGE",
+      "numPupils": 505,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.381030",
+        "lon": "-6.217639"
+      }
+    },
+    {
+      "schoolName": "CHANEL COLLEGE",
+      "numPupils": 466,
+      "distance": {
+        "value": 1.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.388016",
+        "lon": "-6.203971"
+      }
+    },
+    {
+      "schoolName": "MARYFIELD COLLEGE",
+      "numPupils": 546,
+      "distance": {
+        "value": 1.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.375980",
+        "lon": "-6.235139"
+      }
+    },
+    {
+      "schoolName": "ST. AIDAN'S C.B.S",
+      "numPupils": 728,
+      "distance": {
+        "value": 1.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384350",
+        "lon": "-6.252124"
+      }
+    },
+    {
+      "schoolName": "MERCY COLLEGE COOLOCK",
+      "numPupils": 420,
+      "distance": {
+        "value": 2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.386040",
+        "lon": "-6.198316"
+      }
+    },
+    {
+      "schoolName": "CLONTURK COMMUNITY COLLEGE",
+      "numPupils": 939,
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.379530",
+        "lon": "-6.248287"
+      }
+    },
+    {
+      "schoolName": "PLUNKET COLLEGE OF FURTHER EDUCATION",
+      "numPupils": 40,
+      "distance": {
+        "value": 2.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.379448",
+        "lon": "-6.248265"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Castletimon Grn",
+      "route": "27B",
+      "destination": "Harristown",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.394312",
+        "lon": "-6.225426"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castletimon Grn",
+      "route": "N6",
+      "destination": "Finglas Village",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.394312",
+        "lon": "-6.225426"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Hospital",
+      "route": "27B",
+      "destination": "Coolock Lane",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.390765",
+        "lon": "-6.225157"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilbarron Pk",
+      "route": "27B",
+      "destination": "Coolock Lane",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.393493",
+        "lon": "-6.222979"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilbarron Pk",
+      "route": "N6",
+      "destination": "Naomh Barróg GAA",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.393457",
+        "lon": "-6.222379"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Hospital",
+      "route": "104",
+      "destination": "DCU Helix",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.390251",
+        "lon": "-6.224317"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Hospital",
+      "route": "14",
+      "destination": "Beaumont",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.390265",
+        "lon": "-6.224106"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Hospital",
+      "route": "N6",
+      "destination": "Naomh Barróg GAA",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.389963",
+        "lon": "-6.224299"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castletimon Road",
+      "route": "27B",
+      "destination": "Coolock Lane",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.395489",
+        "lon": "-6.227843"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dundaniel Road",
+      "route": "N6",
+      "destination": "Finglas Village",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.395709",
+        "lon": "-6.225098"
+      }
+    }
+  ]
+}

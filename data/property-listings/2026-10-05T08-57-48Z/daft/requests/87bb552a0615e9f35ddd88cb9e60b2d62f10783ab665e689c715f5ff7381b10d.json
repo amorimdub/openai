@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/kiltipper-gate-kiltipper-tallaght-dublin-24/6684294",
+  "fetchedAt": "2026-10-05T09:43:44.647Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/kiltipper-gate-kiltipper-tallaght-dublin-24/6684294",
+  "kind": "listing",
+  "responseSha256": "1f8ee0ee142416dffd7f7a89a262a06f2a9518144bf47685eb4bd6d408689a9b",
+  "files": [
+    {
+      "path": "daft/01836-87bb552a0615e9f3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "97bcadf86de21fc4545007b057c0d90aca002e33adad179124080fefafe867c7",
+      "bytes": 25338
+    },
+    {
+      "path": "daft/01836-87bb552a0615e9f3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c9f94212cc0c7d1135c8413f345789a4e4d7d25a6a9fd0768f755f17f24d5b97",
+      "bytes": 8005
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

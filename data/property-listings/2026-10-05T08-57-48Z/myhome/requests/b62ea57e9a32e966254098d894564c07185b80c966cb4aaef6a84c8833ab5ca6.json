@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=167",
+  "fetchedAt": "2026-10-05T11:40:32.880Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=167",
+  "kind": "search",
+  "responseSha256": "cf9cdbead379c89685420016045790cf4b77855c2f89a5148121fc211ceaec0d",
+  "files": [
+    {
+      "path": "myhome/03967-b62ea57e9a32e966-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=167\"].SearchResults",
+      "sha256": "fbdc973eed888b63be50679c48487c71249d81e300bd74a68b5b3cf55ba19b2f",
+      "bytes": 111493
+    },
+    {
+      "path": "myhome/03967-b62ea57e9a32e966-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=167\"] (paging fields)",
+      "sha256": "dbed679c916fdada3d508fdfc1ff51b891af7abbb1d64cf00ca9e01202883c13",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1653-pairc-mhuire-newbridge-co-kildare/5028515",
+    "https://www.myhome.ie/residential/brochure/43-abbeygate-dublin-road-monasterevin-kildare/5028513",
+    "https://www.myhome.ie/residential/brochure/20a-renville-village-oranmore-galway/5028508",
+    "https://www.myhome.ie/residential/brochure/62-cabinteely-avenue-cabinteely-dublin-18/5028512",
+    "https://www.myhome.ie/residential/brochure/136-old-county-road-crumlin-dublin-12/4783190",
+    "https://www.myhome.ie/residential/brochure/croughtabeg-callan-kilkenny/5028509",
+    "https://www.myhome.ie/residential/brochure/40-archers-wood-drive-delgany-co-wicklow/5023323",
+    "https://www.myhome.ie/residential/brochure/clooneen-westport-co-mayo/5028507",
+    "https://www.myhome.ie/residential/brochure/58-collins-park-beaumont-dublin-9/5028504",
+    "https://www.myhome.ie/residential/brochure/drummod-bodyke-co-clare/5028502",
+    "https://www.myhome.ie/residential/brochure/65-the-beeches-ballybofey-co-donegal/5028501",
+    "https://www.myhome.ie/residential/brochure/13-templeacre-avenue-gurranabraher-cork-city/5028372",
+    "https://www.myhome.ie/residential/brochure/7-highfields-maryborough-woods-douglas-cork-city/5028374",
+    "https://www.myhome.ie/residential/brochure/tullynamoltra-swanlinbar-cavan/5028499",
+    "https://www.myhome.ie/residential/brochure/gurtacrissane-listowel-co-kerry/5028494",
+    "https://www.myhome.ie/residential/brochure/52-broadmeadow-castle-ashbourne-meath/5028491",
+    "https://www.myhome.ie/residential/brochure/4-calderwood-avenue-drumcondra-dublin-9/5019435",
+    "https://www.myhome.ie/residential/brochure/5-upper-clevedon-carrigaline-cork/5024171",
+    "https://www.myhome.ie/residential/brochure/96-haddington-road-ballsbridge-dublin-4/5028488",
+    "https://www.myhome.ie/residential/brochure/1-the-fairway-dunshaughlin-meath/5028482"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=168",
+  "paginationLimited": false
+}

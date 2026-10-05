@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=346",
+  "fetchedAt": "2026-10-05T13:12:53.826Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=346",
+  "kind": "search",
+  "responseSha256": "b55af92eb3ca07e5ce571462ae0b37fc92def6656017be5b73ff13c98ec7db90",
+  "files": [
+    {
+      "path": "myhome/07648-9e6095b313cafc04-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=346\"].SearchResults",
+      "sha256": "9e77577829ee6e860bbb5087c647a6d8114d0668a7025e5234d66942a8414ece",
+      "bytes": 114056
+    },
+    {
+      "path": "myhome/07648-9e6095b313cafc04-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=346\"] (paging fields)",
+      "sha256": "25a82789c8f607e086af1ce041a7185c178f7150df5b9ce65efffd924bba1f89",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/18a-clonliffe-avenue-drumcondra-dublin-3/5019906",
+    "https://www.myhome.ie/residential/brochure/no-10-coote-s-lane-kilkenny-kilkenny/5020962",
+    "https://www.myhome.ie/residential/brochure/33-wellfield-park-avenue-streamstown-malahide-county-dublin/5019218",
+    "https://www.myhome.ie/residential/brochure/slaney-cottage-ouragh-tullow-co-carlow/5021019",
+    "https://www.myhome.ie/residential/brochure/44-the-rise-kingswood-heights-tallaght-dublin-24/5021018",
+    "https://www.myhome.ie/residential/brochure/1-bedroom-showunit-with-contents-harbour-gate-naas-co-kildare/4925506",
+    "https://www.myhome.ie/residential/brochure/plot-of-land-in-old-russian-village-kilquade-co-wicklow/5021009",
+    "https://www.myhome.ie/residential/brochure/marine-lodge-seafield-road-killiney-county-dublin/5021000",
+    "https://www.myhome.ie/residential/brochure/178-burnell-square-northern-cross-dublin-17/5021007",
+    "https://www.myhome.ie/residential/brochure/34-hamilton-hill-barnageeragh-skerries-co-dublin/4946731",
+    "https://www.myhome.ie/residential/brochure/3-an-lagan-killylastin-letterkenny-co-donegal/5020993",
+    "https://www.myhome.ie/residential/brochure/124-mount-prospect-clonard-wexford-town-wexford/5020992",
+    "https://www.myhome.ie/residential/brochure/23-tower-house-new-quay-clonmel-co-tipperary/5020986",
+    "https://www.myhome.ie/residential/brochure/drinagh-west-dunmanway-west-cork/5020969",
+    "https://www.myhome.ie/residential/brochure/5-morton-hall-brewshill-navan-meath/5020973",
+    "https://www.myhome.ie/residential/brochure/an-sean-scoil-farravaun-oughterard-galway-county-galway/5020971",
+    "https://www.myhome.ie/residential/brochure/27-oak-park-court-oak-park-naas-co-kildare/5020967",
+    "https://www.myhome.ie/residential/brochure/glenbower-inchiquin-killeagh-cork/5008995",
+    "https://www.myhome.ie/residential/brochure/41-cill-cais-oldbawn-dublin-24/5020953",
+    "https://www.myhome.ie/residential/brochure/graigues-robertstown-co-kildare/5020959"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=347",
+  "paginationLimited": false
+}

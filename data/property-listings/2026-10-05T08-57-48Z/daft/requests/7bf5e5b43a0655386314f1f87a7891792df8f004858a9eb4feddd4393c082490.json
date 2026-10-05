@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/one-bedroom-apartment-phase-1-clancy-quay-by-kennedy-wilson-south-circular-road-dublin-8/5895389",
+  "fetchedAt": "2026-10-05T08:59:12.275Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/one-bedroom-apartment-phase-1-clancy-quay-by-kennedy-wilson-south-circular-road-dublin-8/5895389",
+  "kind": "listing",
+  "responseSha256": "34c7c8cc4b1b5dcd476aa9e21296e99be808c7b9ee72ecb2c9c8652fdf7315f2",
+  "files": [
+    {
+      "path": "daft/00057-7bf5e5b43a065538-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cd73a914a1c6409ba214a7c37ba64d26e7c2d809efdef301384a2392901ebc1e",
+      "bytes": 37429
+    },
+    {
+      "path": "daft/00057-7bf5e5b43a065538-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bdebf3173ac79f5023434c6a48b158c8835af22b0e5f12ef252854c1d9e5c3a6",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=334",
+  "fetchedAt": "2026-10-05T13:06:41.048Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=334",
+  "kind": "search",
+  "responseSha256": "9daccb08f00d95445d37192346bdf55bd1d14bc0c9d9fa5a26cbe99b983d2f81",
+  "files": [
+    {
+      "path": "myhome/07400-d740a391f6c3ce2b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=334\"].SearchResults",
+      "sha256": "3d78da19431631e31da64abcb04bf5b9656231aded47534e4f0ad8e14a051a0d",
+      "bytes": 113516
+    },
+    {
+      "path": "myhome/07400-d740a391f6c3ce2b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=334\"] (paging fields)",
+      "sha256": "685d1f4ffac5d4c0da1f997161e81d7c979aef2e21a16b0890547d1b7efab049",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rathdown-house-rahdown-park-greystones-wicklow/5021634",
+    "https://www.myhome.ie/residential/brochure/slattamore-kilglass-co-roscommon/5021636",
+    "https://www.myhome.ie/residential/brochure/23-cherry-lodge-farmleigh-woods-castleknock-dublin-15/5018539",
+    "https://www.myhome.ie/residential/brochure/5-fairgreen-row-dundalk-county-louth/5021631",
+    "https://www.myhome.ie/residential/brochure/three-storey-residence-on-c-1-acre-ballinastockan-blessington-lacken-wicklow/5021623",
+    "https://www.myhome.ie/residential/brochure/terargus-churchill-letterkenny-co-donegal/5021627",
+    "https://www.myhome.ie/residential/brochure/18-ballyowen-square-lucan-dublin/5021006",
+    "https://www.myhome.ie/residential/brochure/shannapheasteen-costelloe-co-galway/5021620",
+    "https://www.myhome.ie/residential/brochure/27-bellevue-park-rathdown-lower-greystones-co-wicklow/5021619",
+    "https://www.myhome.ie/residential/brochure/apartment-7-christchurch-view-christchurch-dublin-8/5018906",
+    "https://www.myhome.ie/residential/brochure/apartment-16-maryland-house-shankill-dublin-18/5021614",
+    "https://www.myhome.ie/residential/brochure/69-fairview-close-dublin-3-dublin/5021606",
+    "https://www.myhome.ie/residential/brochure/164-carraig-cluain-tullamore-co-offaly/5021612",
+    "https://www.myhome.ie/residential/brochure/267-boulevard-mount-eustace-tyrrelstown-dublin-15/5021609",
+    "https://www.myhome.ie/residential/brochure/27-rath-bawn-portnick-ballinasloe-co-galway/5021607",
+    "https://www.myhome.ie/residential/brochure/98-white-oaks-wilton-cork/5016850",
+    "https://www.myhome.ie/residential/brochure/the-chestnuts-drogheda-street-monasterevin-co-kildare/5021600",
+    "https://www.myhome.ie/residential/brochure/stripe-cottage-stripe-furbo-co-galway/5021595",
+    "https://www.myhome.ie/residential/brochure/18-wadelai-road-glasnevin-dublin-11/5021592",
+    "https://www.myhome.ie/residential/brochure/inisfraoigh-kilmacanogue-south-kilmacanogue-wicklow/5021585"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=335",
+  "paginationLimited": false
+}

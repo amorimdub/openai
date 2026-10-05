@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-19-fishermans-wharf-cork-city-centre-co-cork/6682782",
+  "fetchedAt": "2026-10-05T09:53:03.545Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-19-fishermans-wharf-cork-city-centre-co-cork/6682782",
+  "kind": "listing",
+  "responseSha256": "6aad18bef0f3d5fa630bdbbc5e40ee4b1b84064d8ad2967aac30348a0da3541c",
+  "files": [
+    {
+      "path": "daft/02208-b1c8ae2973489983-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a9ca82d361d0d19883786e70a8f4583c1f87a3a035de14ab8d25857d7663e5a7",
+      "bytes": 54374
+    },
+    {
+      "path": "daft/02208-b1c8ae2973489983-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3a347dd1c2049bfe9b0de35cb4c846c78ab51904334fb3ebe82184bb2bea684b",
+      "bytes": 8261
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

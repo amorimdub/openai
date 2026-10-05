@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/riverdale-dublin-road-galway-city-centre-co-galway/6608595",
+  "fetchedAt": "2026-10-05T09:15:24.422Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/riverdale-dublin-road-galway-city-centre-co-galway/6608595",
+  "kind": "listing",
+  "responseSha256": "1d650c0aa94757e55a16f898414a10ae622f5fcab84927305c7f7ab62aee33f5",
+  "files": [
+    {
+      "path": "daft/00704-0394fff55feeee37-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e42a1100084cddd2eef10ab97f113e3d59a7d943214dda995dfdc9d78c482690",
+      "bytes": 31872
+    },
+    {
+      "path": "daft/00704-0394fff55feeee37-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "905b38ab259889ef0c8edb69b67c6be88ee8bf7becefeb9da0a1865ddb0afafc",
+      "bytes": 8043
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

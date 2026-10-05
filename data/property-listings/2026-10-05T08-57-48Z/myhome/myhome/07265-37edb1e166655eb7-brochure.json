@@ -1,0 +1,614 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "22 the meadows smithborough monaghan",
+    "GroupId": 6509,
+    "Address": "22 The Meadows",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/0c847262-cb00-44e5-a366-d82f1074b46a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/3b025b48-260e-41ca-97cf-c53d09aeb70f_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f316c751-6480-4613-b23f-6116fcf240d7_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/7ce740e8-8db4-4240-b68a-7368574b65d8_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/23325543-dac7-43ba-a8e9-1d25c90cd646_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/87182063-7e0e-4cb4-8f52-e338d6040855_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/cebab289-4e3c-4fc8-9ea6-1b12c86266f5_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/26fd3de8-9014-4642-adc4-2e7c5c5ff335_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f5df6b9b-61ee-4edf-b23c-62aa5cc73a62_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5e0dc75a-db80-48e5-8a9b-7fc21e5ef7c5_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/25d0836c-7031-4dcf-93f7-7ad1b0054242_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/848b4039-a16a-475e-a5c6-03937e004ff4_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/51bb571a-0421-4bf6-ab9b-b16834b962dc_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5de3f475-9127-44d9-8200-5e9f6de34525_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/3/7/0/5022073/ef33eb7a-210b-41ee-ac49-f79d629c013f_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 110,
+    "MaxSize": 110,
+    "BerRating": "B",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€200,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "110",
+        "BedsString": "4 beds",
+        "IsTransact": false,
+        "PropertyId": 5022073,
+        "DisplayAddress": "22 The Meadows, Smithborough, Monaghan",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "4f9cbdd8-22d4-47f0-a849-c67df3cda6e3",
+              "Filename": "d43dee91-a94f-44a2-8d03-071abce80e7a.jpeg",
+              "Caption": "1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "46db5713-1db2-4eb8-a20b-c15cdda56151",
+              "Filename": "0c847262-cb00-44e5-a366-d82f1074b46a.jpeg",
+              "Caption": "2.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "759efa34-595b-40d5-b293-062c6336d60a",
+              "Filename": "3b025b48-260e-41ca-97cf-c53d09aeb70f.jpeg",
+              "Caption": "3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3eabcc90-3011-48e2-8dc7-9adc6b9944c8",
+              "Filename": "f316c751-6480-4613-b23f-6116fcf240d7.jpeg",
+              "Caption": "4.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "485d42d3-7872-4da4-a8b0-70fdbf7a0c31",
+              "Filename": "7ce740e8-8db4-4240-b68a-7368574b65d8.jpeg",
+              "Caption": "5.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0a2c7377-aebc-4e04-a4e0-376ce3e8e3ea",
+              "Filename": "23325543-dac7-43ba-a8e9-1d25c90cd646.jpeg",
+              "Caption": "6.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2739d5df-61a1-4b55-a0f5-7016d6171e57",
+              "Filename": "87182063-7e0e-4cb4-8f52-e338d6040855.jpeg",
+              "Caption": "7.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "588e38c3-5f3d-41c4-ba93-737e0047b2e1",
+              "Filename": "cebab289-4e3c-4fc8-9ea6-1b12c86266f5.jpeg",
+              "Caption": "8.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "943e4f6c-b08b-4ee6-a021-638c758cfb0a",
+              "Filename": "26fd3de8-9014-4642-adc4-2e7c5c5ff335.jpeg",
+              "Caption": "9.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "50bcabb3-f658-4d2f-b7f7-1bc16be44de9",
+              "Filename": "f5df6b9b-61ee-4edf-b23c-62aa5cc73a62.jpeg",
+              "Caption": "10.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa8c2c25-5797-40a0-97dd-994c49121a9c",
+              "Filename": "5e0dc75a-db80-48e5-8a9b-7fc21e5ef7c5.jpeg",
+              "Caption": "11.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f83baf85-62df-4e65-b9ee-6df95d66be00",
+              "Filename": "25d0836c-7031-4dcf-93f7-7ad1b0054242.jpeg",
+              "Caption": "12.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c9ac199b-d45a-4ff0-8387-206bf0d40d8e",
+              "Filename": "848b4039-a16a-475e-a5c6-03937e004ff4.jpeg",
+              "Caption": "13.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "55a27d70-1155-4a93-9ffc-cd3100e8d9b3",
+              "Filename": "51bb571a-0421-4bf6-ab9b-b16834b962dc.jpeg",
+              "Caption": "14.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0e1eeaf9-612b-4b77-9a3d-18325cf1bfb9",
+              "Filename": "5de3f475-9127-44d9-8200-5e9f6de34525.jpeg",
+              "Caption": "15.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cf455c59-03d4-4457-8306-4e5345089ee1",
+              "Filename": "ef33eb7a-210b-41ee-ac49-f79d629c013f.jpg",
+              "Caption": "16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "d7a117a02d8c42cfabc6f37815bc450a",
+          "OriginalImagesSuffix": "d7a11",
+          "MainPhoto": {
+            "Identifier": "4f9cbdd8-22d4-47f0-a849-c67df3cda6e3",
+            "Filename": "d43dee91-a94f-44a2-8d03-071abce80e7a.jpeg",
+            "Caption": "1.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_l.jpeg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Situated within the established and popular residential development of The Meadows, No. 22 is a well-proportioned four-bedroom semi-detached residence extending to approximately 110 m², offering an excellent combination of generous accommodation, private outdoor space and convenient village living.\r\n\r\nThe property is presented in good condition throughout and provides a practical and versatile layout ideally suited to modern family life. The accommodation briefly comprises an entrance hallway with guest WC, a comfortable sitting room and a well-proportioned kitchen/dining room, while upstairs there are four bedrooms, including three double bedrooms and a single bedroom, together with the family bathroom.\r\n\r\nOne of the property's notable features is the generous enclosed rear garden, predominantly laid in lawn and providing an excellent private outdoor space for families, children or entertaining during the summer months. To the front, an extended driveway provides off-street parking, while the rear garden also benefits from a timber garden shed providing useful additional storage.\r\n\r\nThe property enjoys an exceptionally convenient position within Smithborough, with the village centre and a range of local amenities within easy reach. Smithborough provides a strong community environment with local retail facilities, a pub, takeaway and a range of sporting and community amenities, while primary education and childcare facilities are also available locally.\r\n\r\nFor commuters, the property's position on the N54 provides excellent connectivity to both Monaghan and Cavan, while Clones is also readily accessible. This combination of village convenience and regional connectivity makes Smithborough an increasingly attractive location for those seeking a more relaxed setting without sacrificing accessibility to larger towns and employment centres.\r\n\r\nWith its generous accommodation, four-bedroom layout, substantial rear garden and excellent location within an established residential development, No. 22 The Meadows represents an excellent opportunity for first-time buyers, families and those seeking a well-connected home within a welcoming village environment.\r\n\r\nEarly viewing is highly recommended and is strictly by appointment with the sole selling agents, Monaghan Property Sales\r\n\r\nGround Floor\r\nEntrance Hall\t\t\t\t\t4.81m x 2.17m\r\nLaminated flooring. T.P point. Smoke alarm.\r\n\r\nUnderstair w/c\t\t\t\t\t0.99m x 1.94m\r\nSuite comprises of a low flush w/c and a pedestal wash hand basin.\r\n\r\nSitting Room\t\t\t\t\t4.83m x 3.66m\r\nComfortable sitting room with ornate fireplace. Attractive wall lighting. Laminated flooring. T.V point.\r\n\r\nKitchen/Dining Room\t\t\t\t5.94m x 3.55m\r\nModern fully fitted kitchen with a range of high and low level units.\r\nAppliances include, electric cooker with extractor fan. Decorative ceramic flooring throughout and complimentary wall tiling to kitchen unit area. T.V point.\r\n\r\nFirst Floor\r\nLanding\t\t\t\t\t\t\r\nCarpeted stair and laminated landing flooring. Smoke alarm. Large hotpress.\r\n\r\nBedroom 1\t\t\t\t\t3.37m x 3.02m\r\nCarpet flooring. T.V point. Telephone point.\r\nEn-suite\t\t\t\t\t1.56m x 2.41m\r\nSuite comprises electric shower enclosure, low flush w/c and pedestal wash hand basin. Full height PVC wall tiling and ceramic tiled flooring.\r\n\r\nBedroom 2\t\t\t\t\t2.84m x 2.07\r\nCarpet flooring. T.V point.\r\n\r\nBedroom 3\t\t\t\t\t2.85m x 2.26m\r\nCarpet flooring. T.V point.\r\n\r\nBedroom 4\t\t\t\t\t3.01m x 3.36m\r\nCarpet flooring. T.V point.\r\n\r\nBathroom\t\t\t\t\t1.98m x 1.68\r\nSuite comprises low flush w/c, panel bath and pedestal wash hand basin. Full height PVC wall tiling and ceramic tiled flooring.\r\n\r\nExternals\r\nFront\r\nParking space to the front of the house with garden to the side.\r\n\r\nRear\r\nAmple side access from front, with a large fully enclosed rear garden with timber fence surround."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 105,
+    "MaxEnergyRating": 105,
+    "BERGrade": "B",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-08-17T17:00:23.0300000+01:00",
+    "ModifiedOnDate": "2026-08-17T17:09:35.7330000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-17T17:03:26.6400000+01:00",
+    "RefreshedOn": "2026-08-17T17:03:26.6400000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+    "IsTransact": false,
+    "PriceAsString": "€200,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5022073,
+    "BedsString": "4 beds",
+    "SizeStringMeters": 110,
+    "DisplayAddress": "22 The Meadows, Smithborough, Monaghan",
+    "Eircode": "H18X290",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Semi-Detached House",
+    "PropertyTypeId": 38,
+    "RegionId": 2771,
+    "RegionName": "Monaghan",
+    "LocalityId": 2765,
+    "LocalityName": "Smithborough",
+    "Price": {
+      "MinPrice": 200000,
+      "MaxPrice": 200000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/d43dee91-a94f-44a2-8d03-071abce80e7a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/0c847262-cb00-44e5-a366-d82f1074b46a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/0c847262-cb00-44e5-a366-d82f1074b46a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/0c847262-cb00-44e5-a366-d82f1074b46a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/3b025b48-260e-41ca-97cf-c53d09aeb70f_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/3b025b48-260e-41ca-97cf-c53d09aeb70f_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/3b025b48-260e-41ca-97cf-c53d09aeb70f_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f316c751-6480-4613-b23f-6116fcf240d7_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f316c751-6480-4613-b23f-6116fcf240d7_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f316c751-6480-4613-b23f-6116fcf240d7_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/7ce740e8-8db4-4240-b68a-7368574b65d8_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/7ce740e8-8db4-4240-b68a-7368574b65d8_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/7ce740e8-8db4-4240-b68a-7368574b65d8_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/23325543-dac7-43ba-a8e9-1d25c90cd646_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/23325543-dac7-43ba-a8e9-1d25c90cd646_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/23325543-dac7-43ba-a8e9-1d25c90cd646_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/87182063-7e0e-4cb4-8f52-e338d6040855_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/87182063-7e0e-4cb4-8f52-e338d6040855_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/87182063-7e0e-4cb4-8f52-e338d6040855_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/cebab289-4e3c-4fc8-9ea6-1b12c86266f5_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/cebab289-4e3c-4fc8-9ea6-1b12c86266f5_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/cebab289-4e3c-4fc8-9ea6-1b12c86266f5_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/26fd3de8-9014-4642-adc4-2e7c5c5ff335_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/26fd3de8-9014-4642-adc4-2e7c5c5ff335_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/26fd3de8-9014-4642-adc4-2e7c5c5ff335_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f5df6b9b-61ee-4edf-b23c-62aa5cc73a62_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f5df6b9b-61ee-4edf-b23c-62aa5cc73a62_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/f5df6b9b-61ee-4edf-b23c-62aa5cc73a62_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5e0dc75a-db80-48e5-8a9b-7fc21e5ef7c5_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5e0dc75a-db80-48e5-8a9b-7fc21e5ef7c5_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5e0dc75a-db80-48e5-8a9b-7fc21e5ef7c5_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/25d0836c-7031-4dcf-93f7-7ad1b0054242_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/25d0836c-7031-4dcf-93f7-7ad1b0054242_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/25d0836c-7031-4dcf-93f7-7ad1b0054242_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/848b4039-a16a-475e-a5c6-03937e004ff4_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/848b4039-a16a-475e-a5c6-03937e004ff4_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/848b4039-a16a-475e-a5c6-03937e004ff4_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/51bb571a-0421-4bf6-ab9b-b16834b962dc_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/51bb571a-0421-4bf6-ab9b-b16834b962dc_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/51bb571a-0421-4bf6-ab9b-b16834b962dc_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5de3f475-9127-44d9-8200-5e9f6de34525_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5de3f475-9127-44d9-8200-5e9f6de34525_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/5de3f475-9127-44d9-8200-5e9f6de34525_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/ef33eb7a-210b-41ee-ac49-f79d629c013f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/ef33eb7a-210b-41ee-ac49-f79d629c013f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/7/0/5022073/ef33eb7a-210b-41ee-ac49-f79d629c013f_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.1031089,
+      "latitude": 54.2190994
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 16,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 6509,
+    "Name": "Monaghan Property Sales",
+    "DisplayPhone": "047 72 323",
+    "Email": "info@monaghanproperty.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "monaghan-property-sales",
+    "SeoName": "monaghan-property-sales",
+    "Address": "Dawson House, Dawson Street, Monaghan, Co. Monaghan",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/9/0/5/6509/logo.jpg",
+    "SalesLicense": "001407",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "smithborough/2765",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5023497,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Abbey Street, Clones, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/9/4/5023497/859d746b-c469-49e5-9579-39c0a91efb6f_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/abbey-street-clones-monaghan/5023497"
+    },
+    {
+      "PropertyId": 5022629,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Derelict Georgian Dwelling, Clontibret, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/6/5022629/bdf35d6a-b759-451a-9100-2d453629d965_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/derelict-georgian-dwelling-clontibret-monaghan/5022629"
+    },
+    {
+      "PropertyId": 5019459,
+      "PropertyClassId": 1,
+      "DisplayAddress": "13 Legar Crescent, Clones, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/5/4/5019459/73baa4d6-e4a6-4a7c-bda2-e0d396c12ac2_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/13-legar-crescent-clones-monaghan/5019459"
+    },
+    {
+      "PropertyId": 5017118,
+      "PropertyClassId": 1,
+      "DisplayAddress": "13 Magherarney, Smithborough, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/1/1/5017118/c14d75ba-4658-4357-81a5-e6c9df6b67e7_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/13-magherarney-smithborough-monaghan/5017118"
+    },
+    {
+      "PropertyId": 5008504,
+      "PropertyClassId": 1,
+      "DisplayAddress": "1 Foxwood, Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/0/5/5008504/a6b7b550-7996-4f99-b376-e768ccdd033d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/1-foxwood-monaghan-town-monaghan/5008504"
+    },
+    {
+      "PropertyId": 5015456,
+      "PropertyClassId": 1,
+      "DisplayAddress": "106 Riverside, Coolshanngh, Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/4/5015456/b9135f27-d191-471e-93df-5aae039acce6_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/106-riverside-coolshanngh-monaghan-town-monaghan/5015456"
+    },
+    {
+      "PropertyId": 5010331,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Barnhill Brae, 38 Killyconnigan, Monaghan, Co. Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/3/5010331/cb78e08b-b1d5-4d17-a63d-7de778ad2464_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/barnhill-brae-38-killyconnigan-monaghan-co-monaghan/5010331"
+    },
+    {
+      "PropertyId": 4997059,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Residential Site, Drumbear, Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/5/0/4997059/b48959b9-0822-455a-94bd-6f46e4d80b01_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/residential-site-drumbear-monaghan-town-monaghan/4997059"
+    },
+    {
+      "PropertyId": 4983992,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Diamond, Clones, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/9/9/4983992/f41cd24b-774e-45d1-90bd-c001b83ea32a_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-diamond-clones-monaghan/4983992"
+    },
+    {
+      "PropertyId": 4981936,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mullanavannog, Three Mile House, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/3/9/4981936/853086b5-6741-488f-bf6e-7ee92ff77fc7_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mullanavannog-three-mile-house-monaghan/4981936"
+    },
+    {
+      "PropertyId": 4980714,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Tonniscoffy, Dunraymond, Ballybay, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/7/4980714/3591e687-0e94-401b-b8cf-5a84c5babe1f_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/tonniscoffy-dunraymond-ballybay-monaghan/4980714"
+    },
+    {
+      "PropertyId": 4945840,
+      "PropertyClassId": 1,
+      "DisplayAddress": "MACARTAN VIEW, Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/4/8/4945840/962bc07c-a2a7-4701-a582-972d047a8a09_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/macartan-view-monaghan-town-monaghan/4945840"
+    },
+    {
+      "PropertyId": 4937510,
+      "PropertyClassId": 1,
+      "DisplayAddress": "1 Old Park Court, Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/1/5/4937510/d9d59626-f6d8-47d4-b839-63b3191665e0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/1-old-park-court-monaghan-town-monaghan/4937510"
+    },
+    {
+      "PropertyId": 4935553,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Site Subject to F.P.P. at Lisnalee, Scotshouse, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/5/5/4935553/1c7af22e-4e3d-4b9f-8f47-a0266bce0702_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/site-subject-to-f-p-p-at-lisnalee-scotshouse-monaghan/4935553"
+    },
+    {
+      "PropertyId": 4835257,
+      "PropertyClassId": 1,
+      "DisplayAddress": "3 Sites at Dromore Stranooden, Rockcorry, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/5/2/4835257/d309c912-fad7-43f9-aea9-f7210de17c9d_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/3-sites-at-dromore-stranooden-rockcorry-monaghan/4835257"
+    },
+    {
+      "PropertyId": 4803308,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Site With F.P.P. at Carrowkeel, Castleshane, , Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/0/3/4803308/0c2ce994-8466-4001-baf0-4e3a94d15a1b_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/site-with-f-p-p-at-carrowkeel-castleshane-monaghan-town-monaghan/4803308"
+    },
+    {
+      "PropertyId": 4764811,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Dromore, Stranooden, Monaghan Town, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/1/8/4764811/30e95b6a-78a5-452f-b369-db7df88ed952_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/dromore-stranooden-monaghan-town-monaghan/4764811"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5017118,
+      "Address": "13 Magherarney, Smithborough, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/1/1/5017118/c14d75ba-4658-4357-81a5-e6c9df6b67e7_t.jpeg",
+      "HasWebP": false,
+      "Price": 150000,
+      "PrevPrice": 170000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -11.7647,
+      "Created": "11th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E2.png",
+      "BerRating": "E2",
+      "SeoUrl": "/residential/brochure/13-magherarney-smithborough-monaghan/5017118",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/22-the-meadows-smithborough-monaghan/5022073",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 6509,
+    "MYH_LocalityID": 2765,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2771,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Garden",
+    "MYH_MaxPrice": 200000,
+    "MYH_MinBeds": 4,
+    "MYH_MinEnergyRating": 105,
+    "MYH_MinPrice": 200000,
+    "MYH_MinSize": 110,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5022073,
+    "MYH_PropertyTypeID": 38
+  }
+}

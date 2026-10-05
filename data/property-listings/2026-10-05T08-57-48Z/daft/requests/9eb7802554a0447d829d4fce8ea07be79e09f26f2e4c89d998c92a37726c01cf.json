@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/11-charles-street-west-smithfield-dublin-7/6675789",
+  "fetchedAt": "2026-10-05T09:07:41.791Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/11-charles-street-west-smithfield-dublin-7/6675789",
+  "kind": "listing",
+  "responseSha256": "c1117528e44041443f7a1243cb444f6d79ff2face8f1cd9eebb6b163a8384bdb",
+  "files": [
+    {
+      "path": "daft/00396-9eb7802554a0447d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f74f75ab2d9c9b78d4ad50ddfa04e279c8e0ef5f69520eb1014f1948914bf3fe",
+      "bytes": 26546
+    },
+    {
+      "path": "daft/00396-9eb7802554a0447d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ed159a1025d52007e7d18dd294efe0ca08b5d1f6ec5efc7f8c078ff33f95ca68",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/136-old-youghal-road-cork-ballyvolane-co-cork/6603207",
+  "fetchedAt": "2026-10-05T09:12:33.144Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/136-old-youghal-road-cork-ballyvolane-co-cork/6603207",
+  "kind": "listing",
+  "responseSha256": "1eb5b97ebf14d788374874e6a0e46a6cbb369face5f19a71a2bcf2d10b294e44",
+  "files": [
+    {
+      "path": "daft/00590-6383657ba3fbfde9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ecf022cba0f549d1fc36463ae04a004f2e07ab6b00898e574d93f93073b28a58",
+      "bytes": 23854
+    },
+    {
+      "path": "daft/00590-6383657ba3fbfde9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bd3c4fb00ad456365fb5c62e976a5385616924d78a887d591d9a64b302fa6e8e",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

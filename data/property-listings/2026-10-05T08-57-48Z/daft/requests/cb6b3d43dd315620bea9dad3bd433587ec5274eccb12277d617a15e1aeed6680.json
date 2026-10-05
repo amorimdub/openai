@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2f-an-d-n-church-road-raheen-limeric-mungret-co-limerick/6686169",
+  "fetchedAt": "2026-10-05T09:27:55.427Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2f-an-d-n-church-road-raheen-limeric-mungret-co-limerick/6686169",
+  "kind": "listing",
+  "responseSha256": "13b19e2de7e77f97809f4312187d47e4397c67df4b5e1704f9341e9ac771f534",
+  "files": [
+    {
+      "path": "daft/01204-cb6b3d43dd315620-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "38d3d5e7dbb02bf549eab87580372f7f479b686056460df987fb5e50abf1dca0",
+      "bytes": 15014
+    },
+    {
+      "path": "daft/01204-cb6b3d43dd315620-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "512d5d4222f04efa96d155f1f9e69a0dbd37c7d7f0f65f49e3bf0c446eaec926",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

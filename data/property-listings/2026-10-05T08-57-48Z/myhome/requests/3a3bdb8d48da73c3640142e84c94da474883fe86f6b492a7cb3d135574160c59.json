@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=403",
+  "fetchedAt": "2026-10-05T13:42:16.844Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=403",
+  "kind": "search",
+  "responseSha256": "38d2b848fd01f5470f15082ab4c3772fcfb8f732f97a93983a4224b952b9412b",
+  "files": [
+    {
+      "path": "myhome/08821-3a3bdb8d48da73c3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=403\"].SearchResults",
+      "sha256": "4484ff698f69886a15eecf49710d21411e45b4dc7d51574444aff50f8010f674",
+      "bytes": 118370
+    },
+    {
+      "path": "myhome/08821-3a3bdb8d48da73c3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=403\"] (paging fields)",
+      "sha256": "1bfd85d80fe0c5e7caaa973d154f0b28af268ab43af8672c539508ad49ffa59d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/lackan-edgeworthstown-co-longford/5015038",
+    "https://www.myhome.ie/residential/brochure/5-keenaghan-close-kilcar-co-donegal/5015037",
+    "https://www.myhome.ie/residential/brochure/apartment-98-the-old-distillery-smithfield-dublin-7/5008958",
+    "https://www.myhome.ie/residential/brochure/5-dromin-green-ballygologue-road-listowel-co-kerry/5015035",
+    "https://www.myhome.ie/residential/brochure/apt-24-block-c-the-timber-mill-artane-dublin-5/5015034",
+    "https://www.myhome.ie/residential/brochure/cloongee-foxford-co-mayo/5015029",
+    "https://www.myhome.ie/residential/brochure/turlough-rosmuc-co-galway/5015020",
+    "https://www.myhome.ie/residential/brochure/20-john-dillon-street-the-liberties-dublin-8/5015019",
+    "https://www.myhome.ie/residential/brochure/32-the-mews-baker-hall-navan-meath/5015018",
+    "https://www.myhome.ie/residential/brochure/40-ladycove-palmer-road-rush-co-dublin/5015014",
+    "https://www.myhome.ie/residential/brochure/barntick-clarecastle-ennis-co-clare/5015012",
+    "https://www.myhome.ie/residential/brochure/harrylock-fethard-co-wexford/4987919",
+    "https://www.myhome.ie/residential/brochure/cooltubrid-house-on-approx-11acres-cooltubrid-east-kilmacthomas-co-waterford/5015005",
+    "https://www.myhome.ie/residential/brochure/25a-blackberry-glade-arklow-co-wicklow/5015002",
+    "https://www.myhome.ie/residential/brochure/derryloughan-doochary-co-donegal/5014998",
+    "https://www.myhome.ie/residential/brochure/15-ard-chleire-schull-west-cork/5012377",
+    "https://www.myhome.ie/residential/brochure/18-the-funshion-river-valley-mallow-cork/5013405",
+    "https://www.myhome.ie/residential/brochure/35-glendale-leixlip-kildare/5014947",
+    "https://www.myhome.ie/residential/brochure/8-cluain-craoibh-kinnegad-westmeath/5014965",
+    "https://www.myhome.ie/residential/brochure/1-2-3-saint-michael-s-terrace-blackrock-road-blackrock-co-cork/4764205"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=404",
+  "paginationLimited": false
+}

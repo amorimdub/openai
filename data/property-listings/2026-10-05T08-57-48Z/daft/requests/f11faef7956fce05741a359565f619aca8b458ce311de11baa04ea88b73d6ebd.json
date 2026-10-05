@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=11",
+  "fetchedAt": "2026-10-05T09:12:39.153Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=11",
+  "kind": "search",
+  "responseSha256": "559e3bfe7478576ef18020cc0ed3eafa703de495e826f8453e75e4a1107c8da3",
+  "files": [
+    {
+      "path": "daft/00594-f11faef7956fce05-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "b9cf3b6638e9dbd807ff944c35ecb73a2368f17ca080bc54db1d27f192e18919",
+      "bytes": 302989
+    },
+    {
+      "path": "daft/00594-f11faef7956fce05-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00594-f11faef7956fce05-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "f1c9411fd05380c22915b653c4dacce1922a47f60ee5a132153c007d89e80599",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/beechmount-house-garryhankard-innishannon-cork/6631380",
+    "https://www.daft.ie/for-sale/proby-cottage-2-killiney-road-dalkey-co-dublin/6666613",
+    "https://www.daft.ie/for-sale/cavan-road-ballinagh-ballinagh-co-cavan/6680620",
+    "https://www.daft.ie/for-sale/33-philips-vale-daingean-co-offaly/6681160",
+    "https://www.daft.ie/for-sale/-48-griffin-rath-manor-maynooth-maynooth-co-kildare/6679738",
+    "https://www.daft.ie/for-sale/4-millbrook-village-milltown-milltown-co-kerry/6675652",
+    "https://www.daft.ie/for-sale/1-woodlawn-castlecountess-ballinahow-co-kerry/6674450",
+    "https://www.daft.ie/for-sale/65-lorcan-crescent-santry-dublin-9/6667117",
+    "https://www.daft.ie/for-sale/28-shanliss-way-dublin-9-santry-dublin-9/6680051",
+    "https://www.daft.ie/for-sale/43-ard-rua-meadows-claremorris-co-mayo/6679970",
+    "https://www.daft.ie/for-sale/23-ard-na-mara-salthill-co-galway/6578581",
+    "https://www.daft.ie/for-sale/5-shangort-park-knocknacarra-co-galway/6679698",
+    "https://www.daft.ie/for-sale/1-rahan-road-tullamore-co-offaly/6665219",
+    "https://www.daft.ie/for-sale/13-clonminch-wood-tullamore-co-offaly/6665525",
+    "https://www.daft.ie/for-sale/parkswood-passage-east-co-waterford/6678107",
+    "https://www.daft.ie/for-sale/112-castleland-court-balbriggan-co-dublin/6515233",
+    "https://www.daft.ie/for-sale/zenda-south-circular-road-south-circular-road-co-limerick/6667940",
+    "https://www.daft.ie/for-sale/19-castletroy-heights-golf-links-road-castletroy-co-limerick/6666481",
+    "https://www.daft.ie/for-sale/46-parkview-robswall-malahide-co-dublin/6647509",
+    "https://www.daft.ie/for-sale/9-park-court-phelim-wood-tullow-co-carlow/6635204"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=12",
+  "paginationLimited": false
+}

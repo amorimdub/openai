@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ballintra-ballintra-co-donegal/6681050",
+  "fetchedAt": "2026-10-05T09:18:32.133Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ballintra-ballintra-co-donegal/6681050",
+  "kind": "listing",
+  "responseSha256": "7f6671dc1ef8d34bc7f937c31f01452a82d574d9682279763bc947dea401e496",
+  "files": [
+    {
+      "path": "daft/00829-4c600ee94161380b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c4a6b7039bee443aba81047bfd8882516e296097fe020cc9b12a2590960fcae8",
+      "bytes": 19660
+    },
+    {
+      "path": "daft/00829-4c600ee94161380b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "33284640a7d5a6d4846e860f0165911322d94915922980cd6029910a15d37626",
+      "bytes": 8212
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

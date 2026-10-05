@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=314",
+  "fetchedAt": "2026-10-05T12:56:48.785Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=314",
+  "kind": "search",
+  "responseSha256": "edb03b6749261b204e49a0e6d2e8c9ef3dfabc9323818eaa9e7320a553f7415c",
+  "files": [
+    {
+      "path": "myhome/07006-cee52a9920d45807-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=314\"].SearchResults",
+      "sha256": "dd50470f57b012dedd44b2558ca0203b166e3ad3b9c87bc6a02d29cc07836ec6",
+      "bytes": 114742
+    },
+    {
+      "path": "myhome/07006-cee52a9920d45807-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=314\"] (paging fields)",
+      "sha256": "d1fd40be92a3c63f54e51e4420839b3a0bd2df25f8bdf2f59ca1e2a79e65acb0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/coolkirky-riverstick-cork/5021728",
+    "https://www.myhome.ie/residential/brochure/45-coole-haven-crowe-street-gort-co-galway/5023159",
+    "https://www.myhome.ie/residential/brochure/1-lorrin-lodge-rathnew-co-wicklow/5023154",
+    "https://www.myhome.ie/residential/brochure/apartment-152-the-anchorage-seabourne-view-charlesland-greystones-co-wicklow/5023149",
+    "https://www.myhome.ie/residential/brochure/3-applewood-lawn-swords-county-dublin/5023145",
+    "https://www.myhome.ie/residential/brochure/60-boroimhe-maples-swords-county-dublin/5023142",
+    "https://www.myhome.ie/residential/brochure/34-tayleurs-point-rush-co-dublin/5023138",
+    "https://www.myhome.ie/residential/brochure/17-willowmere-drive-thurles-co-tipperary/5023137",
+    "https://www.myhome.ie/residential/brochure/thornberry-knocksink-enniskerry-bray-co-wicklow/5023136",
+    "https://www.myhome.ie/residential/brochure/apartment-1-southpoint-60-main-street-bray-co-wicklow/5023135",
+    "https://www.myhome.ie/residential/brochure/knockahaw-dublin-road-longford-longford/5023132",
+    "https://www.myhome.ie/residential/brochure/9-rathmore-church-hill-meadows-raheen-county-limerick/5023127",
+    "https://www.myhome.ie/residential/brochure/132-somerville-ratoath-co-meath/5023125",
+    "https://www.myhome.ie/residential/brochure/79-cruachan-knockateemore-dungarvan-waterford/5023124",
+    "https://www.myhome.ie/residential/brochure/9-sefton-hall-kelston-foxrock-dublin-18/4998379",
+    "https://www.myhome.ie/residential/brochure/10-kilbelin-close-newbridge-co-kildare/5023123",
+    "https://www.myhome.ie/residential/brochure/4-arthlunkard-street-limerick-county-limerick/5023120",
+    "https://www.myhome.ie/residential/brochure/apartment-26-melrose-court-wexford-town-wexford/5022949",
+    "https://www.myhome.ie/residential/brochure/140-oakleigh-wood-dooradoyle-limerick/4634629",
+    "https://www.myhome.ie/residential/brochure/no-78-ashbrook-enniscorthy-wexford/5023110"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=315",
+  "paginationLimited": false
+}

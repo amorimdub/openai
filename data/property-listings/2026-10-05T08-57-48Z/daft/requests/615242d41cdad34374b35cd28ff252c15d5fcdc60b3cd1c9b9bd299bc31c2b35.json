@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/28-park-avenue-clongriffin-clongriffin-dublin-13/6684369",
+  "fetchedAt": "2026-10-05T09:42:52.061Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/28-park-avenue-clongriffin-clongriffin-dublin-13/6684369",
+  "kind": "listing",
+  "responseSha256": "3445fa49ffa1c47250bf085a111409507a2b278c4724d7f81deb4bbe59720da7",
+  "files": [
+    {
+      "path": "daft/01801-615242d41cdad343-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6e251eebfbbe28b41856e61142129daff60ead5d26d1e0f9f23472f31af67dc1",
+      "bytes": 38311
+    },
+    {
+      "path": "daft/01801-615242d41cdad343-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9449e3645a156265b4c4f18492b72006cb57da5c16f2565c629b2f8189fd334",
+      "bytes": 8139
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/carrick-edenderry-grange-co-kildare/6653315",
+  "fetchedAt": "2026-10-05T09:34:03.405Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/carrick-edenderry-grange-co-kildare/6653315",
+  "kind": "listing",
+  "responseSha256": "e75742e0306bd7e8c8728aa23c4ae59ccba0823d5d24a42a3d25dc600e6e4dff",
+  "files": [
+    {
+      "path": "daft/01449-8034ee07b76d764b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b5ec372bbafbeeca95fb29713df6901ec02995847b459a1c448478f16c50ca59",
+      "bytes": 65191
+    },
+    {
+      "path": "daft/01449-8034ee07b76d764b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "09a332103c419575719b9df388eb68c868514986b3f98b981a4d35bd65b3a6b7",
+      "bytes": 8106
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

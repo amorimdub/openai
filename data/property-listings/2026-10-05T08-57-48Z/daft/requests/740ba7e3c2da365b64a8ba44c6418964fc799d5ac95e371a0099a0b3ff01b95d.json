@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/39-palace-fields-tuam-co-galway/6645423",
+  "fetchedAt": "2026-10-05T09:36:08.040Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/39-palace-fields-tuam-co-galway/6645423",
+  "kind": "listing",
+  "responseSha256": "8afc1f0ef4d3fe0a1970ce212fb0274c01f01fc17d298a50a9f436adfa850166",
+  "files": [
+    {
+      "path": "daft/01532-740ba7e3c2da365b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "95ad24301aad208b1bc74c4319c48a9eb0885245dd9f547ee64b7741b194eb90",
+      "bytes": 65283
+    },
+    {
+      "path": "daft/01532-740ba7e3c2da365b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1625dd36d79db5567b19822e9e1caa4cd1eab4ba63338028c5abf5cbece1c516",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

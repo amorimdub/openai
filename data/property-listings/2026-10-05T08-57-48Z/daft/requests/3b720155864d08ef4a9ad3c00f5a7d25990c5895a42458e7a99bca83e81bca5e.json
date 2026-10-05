@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bedroom-apartment-occu-hayfield-churchview-road-killiney/5900759",
+  "fetchedAt": "2026-10-05T09:01:58.964Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bedroom-apartment-occu-hayfield-churchview-road-killiney/5900759",
+  "kind": "listing",
+  "responseSha256": "d7b3f1b7ac031397841ad726838e95e51264c00e7c585e10211fd8475d503562",
+  "files": [
+    {
+      "path": "daft/00168-3b720155864d08ef-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e95b378410c4ed64ec6c8827f68c022e6b2f30d367d443cc8abcd65dd430f584",
+      "bytes": 48592
+    },
+    {
+      "path": "daft/00168-3b720155864d08ef-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "635c7192e7a2effa8e2ae1a4d61ba7881aa919e513dbbb9dfa75c9cc4201f2e5",
+      "bytes": 8091
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

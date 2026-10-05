@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/bloomfield-hollymount-hollymount-co-mayo/6668620",
+  "fetchedAt": "2026-10-05T09:32:57.337Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/bloomfield-hollymount-hollymount-co-mayo/6668620",
+  "kind": "listing",
+  "responseSha256": "4a76d91a3c8b5b5387179df3ada1208c8171228943c55359102ca126d8dce427",
+  "files": [
+    {
+      "path": "daft/01405-95b6b5a1096fa967-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a11dd1b48a157ed9c792fe6bd858a0efc3f45a661cfbb6072740aba1f9c9ee2c",
+      "bytes": 67119
+    },
+    {
+      "path": "daft/01405-95b6b5a1096fa967-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1d636cb47c5ddf33fdace712414e44850450dad3f2887086e4ef218be56aaafd",
+      "bytes": 8001
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=9",
+  "fetchedAt": "2026-10-05T09:10:32.985Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=9",
+  "kind": "search",
+  "responseSha256": "036d7d5df39731b0b63269e8b48ae351688ae673f940815869c0f059aa949172",
+  "files": [
+    {
+      "path": "daft/00510-054525c66aec0942-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "6647f0701d32fef515ce7b8746d855a43b21bfe87ac8a074377cd43b1f180fce",
+      "bytes": 296731
+    },
+    {
+      "path": "daft/00510-054525c66aec0942-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00510-054525c66aec0942-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "9031e878fe528a5179bd09361ea9af83210c5db677d333b9e2e9578d9337daa7",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/clogheen-blarney-co-cork/6547089",
+    "https://www.daft.ie/for-sale/strand-road-annagassan-dunleer-co-louth/6680466",
+    "https://www.daft.ie/for-sale/coolaw-taghmon-co-wexford/6637897",
+    "https://www.daft.ie/for-sale/67-leeson-street-upper-dublin-4-donnybrook-dublin-4/6670831",
+    "https://www.daft.ie/for-sale/saint-martins-41-monkstown-avenue-monkstown-co-dublin/6661232",
+    "https://www.daft.ie/for-sale/8-mount-eaton-house-taylors-hill-road-taylors-hill-galway/6615904",
+    "https://www.daft.ie/for-sale/171-caireal-mor-headford-road-castlegar-galway/6612261",
+    "https://www.daft.ie/for-sale/54-nephin-road-dublin-7/6682603",
+    "https://www.daft.ie/for-sale/4-leicester-avenue-rathgar-dublin-6/6671956",
+    "https://www.daft.ie/for-sale/2-forrest-close-rowley-s-lock-navan-co-meath/6680246",
+    "https://www.daft.ie/for-sale/16a-birchdale-road-kinsealy-swords-co-dublin/6671939",
+    "https://www.daft.ie/for-sale/apartment-3-70-leeson-close-dublin-2/6672511",
+    "https://www.daft.ie/for-sale/119-carysfort-park-blackrock-blackrock-co-dublin/6661600",
+    "https://www.daft.ie/for-sale/-c-8-acre-residential-farm-at-knockaunakill-mayo-abbey-mayo-co-mayo/6682360",
+    "https://www.daft.ie/for-sale/63-p-irc-na-r-athenry-athenry-co-galway/6618816",
+    "https://www.daft.ie/for-sale/bungalow-on-c-24-3-acres-carn-beg-aghamore-ballyhaunis-co-mayo/6661967",
+    "https://www.daft.ie/for-sale/belisker-kilbagh-brickeens-co-mayo/6656076",
+    "https://www.daft.ie/for-sale/30-saint-johns-wood-castle-avenue-clontarf-dublin-3/6580647",
+    "https://www.daft.ie/for-sale/9-sycamore-walk-the-park-cabinteely-dublin-18/6580324",
+    "https://www.daft.ie/for-sale/18-leopardstown-avenue-blackrock-co-dublin/6661945"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=10",
+  "paginationLimited": false
+}

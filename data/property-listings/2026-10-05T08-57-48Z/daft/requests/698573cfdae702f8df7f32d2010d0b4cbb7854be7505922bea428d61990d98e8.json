@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/millrace-green-saggart-co-dublin/6684902",
+  "fetchedAt": "2026-10-05T09:39:50.276Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/millrace-green-saggart-co-dublin/6684902",
+  "kind": "listing",
+  "responseSha256": "06e76f41c736ea6e1a4d6bfd8ff6bb9267d53fe4e8da41e92aa64b404ab1f0bb",
+  "files": [
+    {
+      "path": "daft/01680-698573cfdae702f8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cc9d7793e2efa7b09dd8c50482a645ef8e4e9eb9b02f662c3414f5a1902d6e82",
+      "bytes": 29982
+    },
+    {
+      "path": "daft/01680-698573cfdae702f8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2226a7cfdbbf0a9f85f8511a366103ce42f087e7cd124fb0a0ff16103fdbeea4",
+      "bytes": 8072
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=196",
+  "fetchedAt": "2026-10-05T11:55:39.873Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=196",
+  "kind": "search",
+  "responseSha256": "dc94a54d8dd80ef91de8d82379d72c11130a146c64bd8afd1b58140889a0c8df",
+  "files": [
+    {
+      "path": "myhome/04570-5456ced3e9b0e3cc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=196\"].SearchResults",
+      "sha256": "2312473c62d49db8c574d2a01073a40a24f36166f39d418dc2adb66584e7f58a",
+      "bytes": 121636
+    },
+    {
+      "path": "myhome/04570-5456ced3e9b0e3cc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=196\"] (paging fields)",
+      "sha256": "5bb8ecee7b6297c6c23c2dd2205ab82f92185f93e36c732f243bc47809beb9df",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/carrigrenane-st-george-s-avenue-killiney-co-dublin/5027740",
+    "https://www.myhome.ie/residential/brochure/50-dromard-lahinch-road-ennis-co-clare/5027739",
+    "https://www.myhome.ie/residential/brochure/kovara-8-loughminane-green-kildare-co-kildare/5027738",
+    "https://www.myhome.ie/residential/brochure/rathcore-enfield-co-meath/5027735",
+    "https://www.myhome.ie/residential/brochure/96-station-court-gorey-wexford/5027729",
+    "https://www.myhome.ie/residential/brochure/24-castlemill-balbriggan-co-dublin/5027733",
+    "https://www.myhome.ie/residential/brochure/apt-12b-metropolitan-apartments-inchicore-road-inchicore-dublin-8/5021402",
+    "https://www.myhome.ie/residential/brochure/28-danesfort-court-loughrea-co-galway/5027728",
+    "https://www.myhome.ie/residential/brochure/78-woodlawn-park-avenue-firhouse-dublin-24/5027727",
+    "https://www.myhome.ie/residential/brochure/42-hollywoodrath-avenue-hollystown-dublin-15/5025048",
+    "https://www.myhome.ie/residential/brochure/11-stratton-drive-adamstown-lucan-co-dublin/5027723",
+    "https://www.myhome.ie/residential/brochure/15-glenwood-road-raheny-dublin-5/5027721",
+    "https://www.myhome.ie/residential/brochure/virgina-lodge-barroe-sligo/5027677",
+    "https://www.myhome.ie/residential/brochure/tullykeel-ardee-louth/5011666",
+    "https://www.myhome.ie/residential/brochure/15-hillcrest-manor-templeogue-dublin-6w/5027720",
+    "https://www.myhome.ie/residential/brochure/apartment-116-the-oval-tullyvale-cherrywood-dublin-18/5027594",
+    "https://www.myhome.ie/residential/brochure/hartwell-lower-kill-co-kildare/5027717",
+    "https://www.myhome.ie/residential/brochure/apt-3-woodbrook-rivervale-upper-dargle-road-bray-wicklow/5027700",
+    "https://www.myhome.ie/residential/brochure/18-doolin-house-clare-village-malahide-road-dublin-17/5027707",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-brackenstown-road-swords-county-dublin/5027706"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=197",
+  "paginationLimited": false
+}

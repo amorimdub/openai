@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-dock-mill-grand-mill-quay-grand-canal-dock-dublin-4/6684953",
+  "fetchedAt": "2026-10-05T09:39:38.264Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-dock-mill-grand-mill-quay-grand-canal-dock-dublin-4/6684953",
+  "kind": "listing",
+  "responseSha256": "9fbcc89d56a64276479b044dfecfda8fb4d03b21f80729ec72d1f46e229959d4",
+  "files": [
+    {
+      "path": "daft/01672-dd84e5138d912be3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "321a0a04a3252e86ab262400e4b997e15dc75dad8e5a923a49a5e25a28e2418f",
+      "bytes": 25885
+    },
+    {
+      "path": "daft/01672-dd84e5138d912be3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c41c5bb5695b9c0a369e581650a13fa2113b23876c7d67c235b150fc20486848",
+      "bytes": 8049
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

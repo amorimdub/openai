@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=46",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=46",
+  "fetchedAt": "2026-10-05T09:35:34.802Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "0b07e2f7784f0cbc129b2d14f65bd215fa1e95503a7eaa51d40de7e37aef3efb",
+  "files": [
+    {
+      "path": "myhome/01505-f81815f1fa1d3bd2-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=46\"].SearchResults",
+      "sha256": "d26ec60b2d679d098bddc62a1594969df90f350a8f9106a6b5f56a44c77caa8a",
+      "bytes": 116911
+    },
+    {
+      "path": "myhome/01505-f81815f1fa1d3bd2-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=46\"] (paging fields)",
+      "sha256": "f88ae944e4403b831184f5fa79c3ddd42cf504186125a7150de3ffa701965650",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/st-pio-knockskimolin-oulart-gorey-wexford/5030672",
+    "https://www.myhome.ie/residential/brochure/kilcoole-house-site-main-street-kilcoole-co-wicklow/4990094",
+    "https://www.myhome.ie/residential/brochure/15-woodstock-kilcoole-co-wicklow/5025046",
+    "https://www.myhome.ie/residential/brochure/30-churchlands-delgany-co-wicklow/5017066",
+    "https://www.myhome.ie/residential/brochure/173-charlesland-court-greystones-co-wicklow/5019241",
+    "https://www.myhome.ie/residential/brochure/36-alexandra-walk-adelaide-square-dublin-8/5031482",
+    "https://www.myhome.ie/residential/brochure/former-garda-station-muckanagh-glenisland-castlebar-co-mayo/5031481",
+    "https://www.myhome.ie/residential/brochure/32-windmill-avenue-crumlin-dublin-12/5031461",
+    "https://www.myhome.ie/residential/brochure/rayconor-house-gurtymadden-co-galway/5031477",
+    "https://www.myhome.ie/residential/brochure/11-tullyhall-crescent-lucan-co-dublin/5031476",
+    "https://www.myhome.ie/residential/brochure/hadley-rille-kimberley-road-greystones-co-wicklow/5013484",
+    "https://www.myhome.ie/residential/brochure/mulgannon-wexford-town-wexford/5031370",
+    "https://www.myhome.ie/residential/brochure/19-clos-brid-saltown-dundalk-louth/5031339",
+    "https://www.myhome.ie/residential/brochure/35-willsbrook-dooradoyle-limerick/5031473",
+    "https://www.myhome.ie/residential/brochure/ladyrath-wilkinstown-navan-county-meath/5029112",
+    "https://www.myhome.ie/residential/brochure/erriff-brooklodge-east-glanmire-co-cork/5031468",
+    "https://www.myhome.ie/residential/brochure/3-garra-broc-crooke-passage-east-co-waterford/5031467",
+    "https://www.myhome.ie/residential/brochure/driftwood-cottage-ballyara-killybegs-co-donegal/5031465",
+    "https://www.myhome.ie/residential/brochure/grangegodden-glebe-kells-co-meath/5031464",
+    "https://www.myhome.ie/residential/brochure/the-hawthorn-end-of-terrace-clover-lawn-summerfields-kilbarry-waterford-city-waterford/5031462"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=47",
+  "paginationLimited": false
+}

@@ -1,0 +1,742 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "2 bed apartment at adelphi boulevard park avenue dundalk louth",
+    "GroupId": 256778,
+    "Address": "2 Bed Apartment at Adelphi Boulevard, Park Avenue",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f3ba9ba1-8116-45b4-ad7b-74cd43fc3560_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/34ad1387-30dd-48f6-9635-72f293198835_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/909cbb54-f617-41b7-a3d8-7a181096be0a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a8041f9-5629-4602-9916-d5fb3494d4c8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/688d84ef-6d27-499d-a4da-cf495ffe7ea5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/dd2ca425-956a-4fa3-a679-ae60088b9d71_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/202c8097-c513-4189-b106-095e46c1547e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/0f57e715-e25e-4cb4-befd-bd3537414c6c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c208c6d0-5beb-4012-90a9-fd0625b863ab_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/bc808bc8-4f3e-4a8c-8660-e8ce202b2e0f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a07db22-8c1a-45c2-b6c0-98f5d55b308f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/4506c80e-32c5-44c5-ac1c-ae3eb3e51aa0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c1f74922-1a29-4e91-b02c-f1b8bd44a313_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/36e5c1f0-7367-4821-8426-059332330104_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ddd5f630-592b-43a3-9d8f-7fb429453e6a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/84d65838-84ba-46db-88c8-923cbdb62160_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/265512fe-bef1-496b-84e0-7c9c58175f6b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f1c5a2c9-65d4-4b63-ab55-7c1ced5d6973_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ceb54a28-2c6b-44b1-8404-ec340b36490b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/7/1322738/6164b2b6-b8c8-4498-b39b-403326875b28_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 110,
+    "MaxSize": 110,
+    "BerRating": "C2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 15,
+        "Name": "Non Smoker",
+        "CreatedOn": "2018-03-20T10:28:47.7000000+00:00",
+        "IconName": "myh-icon-non-smoker",
+        "IsRequirement": true
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 24,
+        "Name": "Email Only",
+        "CreatedOn": "2018-09-11T10:19:36.4900000+01:00",
+        "IconName": "myh-icon-email",
+        "IsRequirement": false
+      },
+      {
+        "Id": 28,
+        "Name": "No Pets",
+        "CreatedOn": "2018-09-11T10:20:24.0170000+01:00",
+        "IconName": "myh-icon-no-pets",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€1,600 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "110",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 1322738,
+        "DisplayAddress": "2 Bed Apartment at Adelphi Boulevard, Park Avenue, Dundalk, Louth",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "5a256cb9-2dc8-4977-b40c-085aefb0db74",
+              "Filename": "2630d8aa-a4fa-4609-8a68-1b4fd0e57d8a.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f7ab0053-35fc-41c2-a91a-e2d9ca4685c7",
+              "Filename": "86381a07-cf19-4964-9e6f-603177d77ef5.jpg",
+              "Caption": "Adelphi Apartment (26).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ce998168-ff70-4b03-8f4e-7d133098170b",
+              "Filename": "f3ba9ba1-8116-45b4-ad7b-74cd43fc3560.jpg",
+              "Caption": "Adelphi_Apartment__6_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8675ac8b-9dce-486b-97aa-09972bf5b729",
+              "Filename": "34ad1387-30dd-48f6-9635-72f293198835.jpg",
+              "Caption": "DSC_0002.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "41f6f322-73e4-4505-bda4-2a5a98edb9f4",
+              "Filename": "909cbb54-f617-41b7-a3d8-7a181096be0a.jpg",
+              "Caption": "DSC_0001.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "50d22d20-0310-4256-9934-5574e99e54a7",
+              "Filename": "2a8041f9-5629-4602-9916-d5fb3494d4c8.jpg",
+              "Caption": "Adelphi_Apartment__9_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b2285a84-955a-487d-ae0a-0ab9449fa462",
+              "Filename": "688d84ef-6d27-499d-a4da-cf495ffe7ea5.jpg",
+              "Caption": "Adelphi_Apartment__10_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "86d67b6c-df3a-4088-9b8b-f342d8c7938e",
+              "Filename": "dd2ca425-956a-4fa3-a679-ae60088b9d71.jpg",
+              "Caption": "Adelphi_Apartment__11_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9761034f-2293-4c58-ae52-804ca04b6532",
+              "Filename": "202c8097-c513-4189-b106-095e46c1547e.jpg",
+              "Caption": "DSC_0003.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "01cb3a50-9968-4f20-9240-f7e212a8f2eb",
+              "Filename": "0f57e715-e25e-4cb4-befd-bd3537414c6c.jpg",
+              "Caption": "Adelphi_Apartment__12_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fec53328-079e-4f5d-92be-87b81f68cc5c",
+              "Filename": "c208c6d0-5beb-4012-90a9-fd0625b863ab.jpg",
+              "Caption": "Adelphi_Apartment__13_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "918b731b-9b8f-41d5-9689-26a91849d87e",
+              "Filename": "bc808bc8-4f3e-4a8c-8660-e8ce202b2e0f.jpg",
+              "Caption": "Adelphi_Apartment__14_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f6a1166a-bd55-4feb-a14c-9352c5dc02c6",
+              "Filename": "2a07db22-8c1a-45c2-b6c0-98f5d55b308f.jpg",
+              "Caption": "Adelphi_Apartment__15_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "61994f2e-d3dc-4b5e-9bcf-b6c0aa91e267",
+              "Filename": "4506c80e-32c5-44c5-ac1c-ae3eb3e51aa0.jpg",
+              "Caption": "Adelphi_Apartment__16_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c40f4150-8d06-49b5-86b7-96614ecf2365",
+              "Filename": "c1f74922-1a29-4e91-b02c-f1b8bd44a313.jpg",
+              "Caption": "DSC_0011.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2c1ff7d1-630a-48cf-a350-61927addd3f6",
+              "Filename": "36e5c1f0-7367-4821-8426-059332330104.jpg",
+              "Caption": "DSC_0008.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bb3232a0-94a3-44be-8e56-af9d74f3eadf",
+              "Filename": "ddd5f630-592b-43a3-9d8f-7fb429453e6a.jpg",
+              "Caption": "Adelphi_Apartment__25_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "25ade6e1-ade2-4e29-8ae4-7f0a7861ea63",
+              "Filename": "84d65838-84ba-46db-88c8-923cbdb62160.jpg",
+              "Caption": "Adelphi_Apartment__23_.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "488a9d38-1eca-4ca2-8c2c-713d70662c60",
+              "Filename": "265512fe-bef1-496b-84e0-7c9c58175f6b.jpg",
+              "Caption": "Adelphi Apartment (27).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "89c1c8d7-3fba-4b71-902c-da17b9a462ca",
+              "Filename": "f1c5a2c9-65d4-4b63-ab55-7c1ced5d6973.jpg",
+              "Caption": "Adelphi Apartment (31).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3064f41c-f022-4218-93d1-147e74c2f046",
+              "Filename": "ceb54a28-2c6b-44b1-8404-ec340b36490b.jpg",
+              "Caption": "Adelphi Apartment (30).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "192d0344-ca5f-410b-af1c-2f067e65080f",
+              "Filename": "6164b2b6-b8c8-4498-b39b-403326875b28.jpg",
+              "Caption": "Adelphi Apartment (32).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "04b618769fbd4558baebf8bbdc862f09",
+          "OriginalImagesSuffix": "04b61",
+          "MainPhoto": {
+            "Identifier": "f7ab0053-35fc-41c2-a91a-e2d9ca4685c7",
+            "Filename": "86381a07-cf19-4964-9e6f-603177d77ef5.jpg",
+            "Caption": "Adelphi Apartment (26).jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "To Rent, this fully furnished, bright and modern 2 bedroom, apartment in a secure and popular town center apartment complex.\r\nAttractive and De-Luxe apartment offering turn key finish within walking distance of all town amenities and having the benefit of a rooftop garden which offers panoramic views over the town of Dundalk.\r\nThe apartment which has a bright and modern lay-out comprises entrance hall, living room, fully fitted kitchen two bedrooms (both ensuite) and guest bathroom.\r\nThis spacious apartment offers total convenience, being located in the heart of the town, within walking distance of all amenities and within easy access of bus terminus and train station. *Strictly No Pets* Photographs for Identification Purposes Only"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Town centre - quiet and secure location\r\nLift access\r\nTurn key finish\r\nRooftop gardens\r\nConvenient to all town centre amenities"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C2"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "By Appointment Only"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 80,
+    "MaxEnergyRating": 80,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2011-04-07T14:53:15.5900000+01:00",
+    "ModifiedOnDate": "2026-08-26T16:16:19.3200000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2011-04-07T14:53:30.6130000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+    "IsTransact": false,
+    "PriceAsString": "€1,600 / month",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 1322738,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 110,
+    "DisplayAddress": "2 Bed Apartment at Adelphi Boulevard, Park Avenue, Dundalk, Louth",
+    "Eircode": "A91 DK8V",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 2535,
+    "RegionName": "Louth",
+    "LocalityId": 2548,
+    "LocalityName": "Dundalk",
+    "Price": {
+      "MinRentalPrice": 1600,
+      "MaxRentalPrice": 1600,
+      "Period": "Monthly",
+      "Deposit": 1600,
+      "ShowPrice": true,
+      "AvailableOn": "2026-09-28T00:00:00.0000000+01:00",
+      "MinMonthlyRentalPrice": 1600,
+      "MaxMonthlyRentalPrice": 1600
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/86381a07-cf19-4964-9e6f-603177d77ef5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f3ba9ba1-8116-45b4-ad7b-74cd43fc3560_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f3ba9ba1-8116-45b4-ad7b-74cd43fc3560_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f3ba9ba1-8116-45b4-ad7b-74cd43fc3560_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/34ad1387-30dd-48f6-9635-72f293198835_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/34ad1387-30dd-48f6-9635-72f293198835_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/34ad1387-30dd-48f6-9635-72f293198835_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/909cbb54-f617-41b7-a3d8-7a181096be0a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/909cbb54-f617-41b7-a3d8-7a181096be0a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/909cbb54-f617-41b7-a3d8-7a181096be0a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a8041f9-5629-4602-9916-d5fb3494d4c8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a8041f9-5629-4602-9916-d5fb3494d4c8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a8041f9-5629-4602-9916-d5fb3494d4c8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/688d84ef-6d27-499d-a4da-cf495ffe7ea5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/688d84ef-6d27-499d-a4da-cf495ffe7ea5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/688d84ef-6d27-499d-a4da-cf495ffe7ea5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/dd2ca425-956a-4fa3-a679-ae60088b9d71_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/dd2ca425-956a-4fa3-a679-ae60088b9d71_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/dd2ca425-956a-4fa3-a679-ae60088b9d71_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/202c8097-c513-4189-b106-095e46c1547e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/202c8097-c513-4189-b106-095e46c1547e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/202c8097-c513-4189-b106-095e46c1547e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/0f57e715-e25e-4cb4-befd-bd3537414c6c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/0f57e715-e25e-4cb4-befd-bd3537414c6c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/0f57e715-e25e-4cb4-befd-bd3537414c6c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c208c6d0-5beb-4012-90a9-fd0625b863ab_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c208c6d0-5beb-4012-90a9-fd0625b863ab_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c208c6d0-5beb-4012-90a9-fd0625b863ab_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/bc808bc8-4f3e-4a8c-8660-e8ce202b2e0f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/bc808bc8-4f3e-4a8c-8660-e8ce202b2e0f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/bc808bc8-4f3e-4a8c-8660-e8ce202b2e0f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a07db22-8c1a-45c2-b6c0-98f5d55b308f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a07db22-8c1a-45c2-b6c0-98f5d55b308f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2a07db22-8c1a-45c2-b6c0-98f5d55b308f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/4506c80e-32c5-44c5-ac1c-ae3eb3e51aa0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/4506c80e-32c5-44c5-ac1c-ae3eb3e51aa0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/4506c80e-32c5-44c5-ac1c-ae3eb3e51aa0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c1f74922-1a29-4e91-b02c-f1b8bd44a313_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c1f74922-1a29-4e91-b02c-f1b8bd44a313_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/c1f74922-1a29-4e91-b02c-f1b8bd44a313_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/36e5c1f0-7367-4821-8426-059332330104_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/36e5c1f0-7367-4821-8426-059332330104_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/36e5c1f0-7367-4821-8426-059332330104_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ddd5f630-592b-43a3-9d8f-7fb429453e6a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ddd5f630-592b-43a3-9d8f-7fb429453e6a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ddd5f630-592b-43a3-9d8f-7fb429453e6a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/84d65838-84ba-46db-88c8-923cbdb62160_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/84d65838-84ba-46db-88c8-923cbdb62160_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/84d65838-84ba-46db-88c8-923cbdb62160_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/265512fe-bef1-496b-84e0-7c9c58175f6b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/265512fe-bef1-496b-84e0-7c9c58175f6b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/265512fe-bef1-496b-84e0-7c9c58175f6b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f1c5a2c9-65d4-4b63-ab55-7c1ced5d6973_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f1c5a2c9-65d4-4b63-ab55-7c1ced5d6973_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/f1c5a2c9-65d4-4b63-ab55-7c1ced5d6973_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ceb54a28-2c6b-44b1-8404-ec340b36490b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ceb54a28-2c6b-44b1-8404-ec340b36490b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/ceb54a28-2c6b-44b1-8404-ec340b36490b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/6164b2b6-b8c8-4498-b39b-403326875b28_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/6164b2b6-b8c8-4498-b39b-403326875b28_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/6164b2b6-b8c8-4498-b39b-403326875b28_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.40322685241701,
+      "latitude": 54.0059780822096
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 21,
+    "Pdfs": [
+      {
+        "Name": "Brochure",
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/7/1322738/2630d8aa-a4fa-4609-8a68-1b4fd0e57d8a.pdf"
+      }
+    ],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 256778,
+    "Name": "Property Partners Laurence Gunne",
+    "DisplayPhone": "042 933 4414 ",
+    "Email": "reception@laurencegunne.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "property-partners-laurence-gunne",
+    "SeoName": "property-partners-laurence-gunne",
+    "Address": "5 Francis Street, Dundalk, Co. Louth",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/7/7/256778/logo.jpg",
+    "SalesLicense": "001699",
+    "RentalLicense": "001699",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "dundalk/2548",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5021691,
+      "PropertyClassId": 1,
+      "DisplayAddress": "3 Griffith Court, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/9/6/5021691/6166656b-6dd0-45c5-b04b-3c9a8157b6b6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/3-griffith-court-dundalk-louth/5021691"
+    },
+    {
+      "PropertyId": 5019316,
+      "PropertyClassId": 1,
+      "DisplayAddress": "32 Castle Heights, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/1/3/5019316/5230b359-2e17-4c06-a1a5-557ded227ed7_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/32-castle-heights-dundalk-louth/5019316"
+    },
+    {
+      "PropertyId": 5002034,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Maddoxland, Gyles Quay, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/0/5002034/95b6c176-8271-4fce-9faa-3ac042f1c74b_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/maddoxland-gyles-quay-dundalk-louth/5002034"
+    },
+    {
+      "PropertyId": 5009696,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Balmoral House, Castlebellingham, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/6/5009696/d8463510-1c37-4848-a8e2-bf38650e4dd2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/balmoral-house-castlebellingham-louth/5009696"
+    },
+    {
+      "PropertyId": 5009868,
+      "PropertyClassId": 1,
+      "DisplayAddress": "46 The Saltings, Annagassan, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/6/8/5009868/e6ffc1b6-c18f-4804-a878-e3947a2d964f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/46-the-saltings-annagassan-louth/5009868"
+    },
+    {
+      "PropertyId": 5010696,
+      "PropertyClassId": 1,
+      "DisplayAddress": "22 Windmill Court, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/6/5010696/6e5b277a-51e7-4f02-9397-7fb16636fe20_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/22-windmill-court-dundalk-louth/5010696"
+    },
+    {
+      "PropertyId": 5006385,
+      "PropertyClassId": 1,
+      "DisplayAddress": "14 St Marys Road, Dundalk, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/3/5006385/9471c692-345b-4bbc-8bb4-a7d4c68390ca_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/14-st-marys-road-dundalk-dundalk-louth/5006385"
+    },
+    {
+      "PropertyId": 4998995,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Old School House, Dublin Road, Kilsaran, Castlebellingham, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/9/4998995/9b55dfc3-7437-466e-8ead-9f12fa4841b9_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/old-school-house-dublin-road-kilsaran-castlebellingham-louth/4998995"
+    },
+    {
+      "PropertyId": 4957671,
+      "PropertyClassId": 1,
+      "DisplayAddress": "164 Ath Lethan, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/7/6/4957671/7ad4d4c4-56b7-4f70-a3b8-af6b6e23a038_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/164-ath-lethan-dundalk-louth/4957671"
+    },
+    {
+      "PropertyId": 4970574,
+      "PropertyClassId": 1,
+      "DisplayAddress": "\"Serondella,\" Dublin Road, Dundalk, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/7/5/4970574/4c60af8a-c358-4e3b-ba14-cdeaa661095e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/serondella-dublin-road-dundalk-louth/4970574"
+    },
+    {
+      "PropertyId": 4525545,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballyoonan, Omeath, Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/5/4525545/e48cb6a6-d021-42be-b5a4-e3c4ff8dafb1_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballyoonan-omeath-louth/4525545"
+    },
+    {
+      "PropertyId": 3064348,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Lake Avenue Lodge, Lossets Lough Fea, Kingscourt Road, Carrickmacross, Monaghan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/4/3/3064348/b893c80d-680c-4103-84f9-e8e79935f324_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/lake-avenue-lodge-lossets-lough-fea-kingscourt-road-carrickmacross-monaghan/3064348"
+    }
+  ],
+  "PropertyHistories": [
+    {
+      "PropertyId": 1322738,
+      "HasWebP": false,
+      "Price": 1600,
+      "PrevPrice": 1800,
+      "PriceChangeDelta": -200,
+      "PriceChangePercentage": -11.1111,
+      "Created": "26th Aug 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+      "BerRating": "C2",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 1322738,
+      "HasWebP": false,
+      "Price": 1800,
+      "PrevPrice": 2000,
+      "PriceChangeDelta": -200,
+      "PriceChangePercentage": -10,
+      "Created": "5th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+      "BerRating": "C2",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 1322738,
+      "HasWebP": false,
+      "Price": 2000,
+      "PrevPrice": 1323,
+      "PriceChangeDelta": 677,
+      "PriceChangePercentage": 51.1716,
+      "Created": "24th Mar 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+      "BerRating": "C2",
+      "IsActive": true
+    }
+  ],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/2-bed-apartment-at-adelphi-boulevard-park-avenue-dundalk-louth/1322738",
+  "Features": [
+    "Furnished",
+    "Central Heating",
+    "Washing Machine",
+    "Dishwasher",
+    "References Required"
+  ],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "-€200.00 5th May 26",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 256778,
+    "MYH_LocalityID": 2548,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2535,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Central Heating",
+      "References Required",
+      "Non Smoker",
+      "Dishwasher",
+      "Email Only",
+      "No Pets"
+    ],
+    "MYH_PropertyFeatureIDListString": "En-suite,Washing Machine,Dryer,Central Heating,References Required,Non Smoker,Dishwasher,Email Only,No Pets",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 80,
+    "MYH_MinSize": 110,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 1322738,
+    "MYH_PropertyTypeID": 74
+  }
+}

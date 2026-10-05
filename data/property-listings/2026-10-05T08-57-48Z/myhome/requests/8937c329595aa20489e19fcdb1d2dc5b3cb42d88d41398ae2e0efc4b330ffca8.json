@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=186",
+  "fetchedAt": "2026-10-05T11:50:27.251Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=186",
+  "kind": "search",
+  "responseSha256": "f28a9145e5fe240faf9bf2f0708c0856d2ab301686c4c5757eee0fb191261fc7",
+  "files": [
+    {
+      "path": "myhome/04362-8937c329595aa204-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=186\"].SearchResults",
+      "sha256": "618cd5ac7f9259959624e3d9046318fcafc268feb77b8504178e326b3c5ec534",
+      "bytes": 119011
+    },
+    {
+      "path": "myhome/04362-8937c329595aa204-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=186\"] (paging fields)",
+      "sha256": "2e443f57ce4bf44c399a69b9839fa5b691733d4eaee57a0a1363bf61c507d178",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/73-friars-green-carlow-town-carlow/5007183",
+    "https://www.myhome.ie/residential/brochure/14-haddington-square-beggars-bush-ballsbridge-dublin-4/5027946",
+    "https://www.myhome.ie/residential/brochure/30-saint-kevin-s-bloomfield-avenue-portobello-dublin-8/5027926",
+    "https://www.myhome.ie/residential/brochure/7-rathmines-town-centre-rathmines-dublin-6/5027915",
+    "https://www.myhome.ie/residential/brochure/saint-philomena-s-fair-green-rathdrum-co-wicklow/5027997",
+    "https://www.myhome.ie/residential/brochure/8-riverview-abbeyfarm-celbridge-co-kildare/5023285",
+    "https://www.myhome.ie/residential/brochure/apartment-105-block-a-the-park-dublin-18-co-dublin/5027996",
+    "https://www.myhome.ie/residential/brochure/10-highfield-court-wicklow-bollarney-co-wicklow/5027995",
+    "https://www.myhome.ie/residential/brochure/aghnameal-clontibret-monaghan/5027992",
+    "https://www.myhome.ie/residential/brochure/12-leopardstown-gardens-stillorgan-co-dublin/5008538",
+    "https://www.myhome.ie/residential/brochure/7-stratton-close-adamstown-square-lucan-co-dublin/5027991",
+    "https://www.myhome.ie/residential/brochure/17-dodder-court-dodder-valley-firhouse-dublin-24/5025095",
+    "https://www.myhome.ie/residential/brochure/60-monalea-grove-firhouse-dublin-24/5020983",
+    "https://www.myhome.ie/residential/brochure/67-summerseat-way-clonee-dublin-15/5027989",
+    "https://www.myhome.ie/residential/brochure/seaflower-cottage-10-pigeon-house-road-ringsend-dublin-4/5025336",
+    "https://www.myhome.ie/residential/brochure/28-the-nurseries-taney-road-dundrum/5027985",
+    "https://www.myhome.ie/residential/brochure/16-priory-east-navan-road-dublin-7/5017668",
+    "https://www.myhome.ie/residential/brochure/lagore-little-ratoath-co-meath/5025897",
+    "https://www.myhome.ie/residential/brochure/stradbally-north-castleconnell-co-limerick/5027978",
+    "https://www.myhome.ie/residential/brochure/mullenroe-clondrohid-macroom-cork/5011394"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=187",
+  "paginationLimited": false
+}

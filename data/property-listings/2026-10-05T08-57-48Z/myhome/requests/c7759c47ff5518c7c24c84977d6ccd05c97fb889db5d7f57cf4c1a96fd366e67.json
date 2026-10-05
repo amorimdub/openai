@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=368",
+  "fetchedAt": "2026-10-05T13:24:05.714Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=368",
+  "kind": "search",
+  "responseSha256": "9f371fe46f680c5aad9c16c0d4522fff038e88bc8fff61d39f5c4f887fba5582",
+  "files": [
+    {
+      "path": "myhome/08095-c7759c47ff5518c7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=368\"].SearchResults",
+      "sha256": "ff036b055cb5ac80aa9f3cb626cb9965fb696d6b30913be95f8fe26aafabca1e",
+      "bytes": 115545
+    },
+    {
+      "path": "myhome/08095-c7759c47ff5518c7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=368\"] (paging fields)",
+      "sha256": "af4262e03149a456514d090e864bcc8e5a6b678a7a2b12514c9f6e004db09262",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-elm-stronveele-glenville-road-wexford-town-wexford/5010960",
+    "https://www.myhome.ie/residential/brochure/28-longstone-naas-kildare/5006616",
+    "https://www.myhome.ie/residential/brochure/tuogh-adare-limerick/5010266",
+    "https://www.myhome.ie/residential/brochure/1-breathnach-court-ferbane-offaly/5018707",
+    "https://www.myhome.ie/residential/brochure/house-type-b-an-goirtin-glas-blackwater-wexford/5010385",
+    "https://www.myhome.ie/residential/brochure/the-willow-stronveele-glenville-road-wexford-town-wexford/5010958",
+    "https://www.myhome.ie/residential/brochure/house-type-c-an-goirtin-glas-blackwater-wexford/5010372",
+    "https://www.myhome.ie/residential/brochure/16-an-doir-n-green-street-dingle-kerry/5018704",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-homes-palmer-gardens-rush-county-dublin/4979707",
+    "https://www.myhome.ie/residential/brochure/house-type-a-an-goirtin-glas-blackwater-wexford/5010389",
+    "https://www.myhome.ie/residential/brochure/4-morell-manor-monread-road-naas-kildare/4997851",
+    "https://www.myhome.ie/residential/brochure/lough-north-doolin-co-clare/5018692",
+    "https://www.myhome.ie/residential/brochure/21-castlerock-road-castleconnell-limerick/5018691",
+    "https://www.myhome.ie/residential/brochure/85-bangor-road-crumlin-dublin-12/5018688",
+    "https://www.myhome.ie/residential/brochure/turrishill-mountcharles-co-donegal/5018683",
+    "https://www.myhome.ie/residential/brochure/carhoovauler-rossmore-clonakilty-co-cork/5018680",
+    "https://www.myhome.ie/residential/brochure/ballinafad-lodge-ballinafad-recess-galway/5018669",
+    "https://www.myhome.ie/residential/brochure/apartment-16-the-quay-market-point-mullingar-co-westmeath/5018670",
+    "https://www.myhome.ie/residential/brochure/goggins-hill-ballinhassig-cork/5018661",
+    "https://www.myhome.ie/residential/brochure/11-maoilin-ballymoneen-road-knocknacarra-galway/5018665"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=369",
+  "paginationLimited": false
+}

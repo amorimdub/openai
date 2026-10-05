@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=441",
+  "fetchedAt": "2026-10-05T14:01:39.386Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=441",
+  "kind": "search",
+  "responseSha256": "40ebbc97152a95b9701a2146263514f23d29e1d0c74520f75246920393e35153",
+  "files": [
+    {
+      "path": "myhome/09594-a0d767e4df3d0e00-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=441\"].SearchResults",
+      "sha256": "a1d25099389fa7ba218db84749db427a0fa35ad71eb970406a03bbe81aad97aa",
+      "bytes": 112960
+    },
+    {
+      "path": "myhome/09594-a0d767e4df3d0e00-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=441\"] (paging fields)",
+      "sha256": "f0242981211e017f6cd4dd928ddf058756fb6524a9e407b73af2ba5e1aaf4172",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rathoran-listowel-co-kerry/5009734",
+    "https://www.myhome.ie/residential/brochure/meenlaragh-gortahork-co-donegal/5009731",
+    "https://www.myhome.ie/residential/brochure/lisheen-ennis-co-clare/5009726",
+    "https://www.myhome.ie/residential/brochure/clogher-carrick-co-donegal/5009724",
+    "https://www.myhome.ie/residential/brochure/57-mornington-court-mornington-meath/5009708",
+    "https://www.myhome.ie/residential/brochure/1163-cawdor-street-rosslare-harbour-rosslare-wexford/5009698",
+    "https://www.myhome.ie/residential/brochure/58-lus-mor-whiterock-hill-wexford/5009699",
+    "https://www.myhome.ie/residential/brochure/test-child-bunglow-co-tipperary-glynn-carlow/5009695",
+    "https://www.myhome.ie/residential/brochure/pollnagarragh-west-ardrahan-galway/5009675",
+    "https://www.myhome.ie/residential/brochure/10-kilfergus-glin-co-limerick/5009674",
+    "https://www.myhome.ie/residential/brochure/rackardstown-kilmore-kilmore-village-co-wexford/5009673",
+    "https://www.myhome.ie/residential/brochure/shaneen-killag-kilmore-quay-co-wexford/5009672",
+    "https://www.myhome.ie/residential/brochure/test-c1-test-cavan-cavan/5009667",
+    "https://www.myhome.ie/residential/brochure/12a-the-slade-tassagard-green-garters-lane-saggart-co-dublin/5009653",
+    "https://www.myhome.ie/residential/brochure/farrell-street-kells-meath/4998285",
+    "https://www.myhome.ie/residential/brochure/19-duke-street-athy-co-kildare/5009636",
+    "https://www.myhome.ie/residential/brochure/emlagharan-ballyconneely-clifden-co-galway/5009632",
+    "https://www.myhome.ie/residential/brochure/cahirdown-listowel-co-kerry/5009630",
+    "https://www.myhome.ie/residential/brochure/32a-laghtagoona-corofin-co-clare/5009629",
+    "https://www.myhome.ie/residential/brochure/apartment-14-waterloo-way-wexford-town-wexford/5009615"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=442",
+  "paginationLimited": false
+}

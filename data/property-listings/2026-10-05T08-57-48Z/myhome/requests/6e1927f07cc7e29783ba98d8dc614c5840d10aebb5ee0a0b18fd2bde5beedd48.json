@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=457",
+  "fetchedAt": "2026-10-05T14:10:04.442Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=457",
+  "kind": "search",
+  "responseSha256": "857fc13026104d819412fe7dcf803ba7ce409003cd54da1a2dd9f77ff497d986",
+  "files": [
+    {
+      "path": "myhome/09930-6e1927f07cc7e297-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=457\"].SearchResults",
+      "sha256": "d1fefa60f4fb8b18036743c8dedb185d67c63274d44b63a0b9b30f150d48a1ee",
+      "bytes": 110561
+    },
+    {
+      "path": "myhome/09930-6e1927f07cc7e297-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=457\"] (paging fields)",
+      "sha256": "83e9c86839e358d65d78252c378f1331544991b1c5af83276ed3f12bc0292d1b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-cedar-type-d-e-droim-an-ir-nenagh-tipperary/4992043",
+    "https://www.myhome.ie/residential/brochure/100-sonesta-malahide-county-dublin/4986140",
+    "https://www.myhome.ie/residential/brochure/11-athmore-church-road-athy-athy-kildare/5003453",
+    "https://www.myhome.ie/residential/brochure/type-a1-bellingham-manor-dundalk-road-castlebellingham-louth/5000621",
+    "https://www.myhome.ie/residential/brochure/type-b1-mid-terraced-bellingham-manor-dundalk-road-castlebellingham-louth/5000614",
+    "https://www.myhome.ie/residential/brochure/apt-3-5a-george-s-street-upper-dun-laoghaire-co-dublin/5007797",
+    "https://www.myhome.ie/residential/brochure/lung-ballaghaderreen-roscommon/5007786",
+    "https://www.myhome.ie/residential/brochure/26-stocking-wood-copse-stocking-avenue-rathfarnham-dublin-16/5007782",
+    "https://www.myhome.ie/residential/brochure/main-street-clogheen-tipperary/5007777",
+    "https://www.myhome.ie/residential/brochure/274-merrion-road-ballsbridge-dublin-4/5007779",
+    "https://www.myhome.ie/residential/brochure/58-townparks-skerries-county-dublin/5003693",
+    "https://www.myhome.ie/residential/brochure/2-ard-na-coille-lisnennan-letterkenny-co-donegal/5007762",
+    "https://www.myhome.ie/residential/brochure/6-station-road-castlegregory-co-kerry/5007752",
+    "https://www.myhome.ie/residential/brochure/109-the-pines-sea-road-arklow-wicklow/5007737",
+    "https://www.myhome.ie/residential/brochure/12-the-kybe-skerries-skerries-county-dublin/5007744",
+    "https://www.myhome.ie/residential/brochure/the-mill-ballinluig-west-ballyfeard-cork/5007536",
+    "https://www.myhome.ie/residential/brochure/no-10a-newline-castlebar-mayo/5007270",
+    "https://www.myhome.ie/residential/brochure/4-tolka-road-off-clonliffe-road-clonliffe-dublin-3/5006106",
+    "https://www.myhome.ie/residential/brochure/1-lagan-house-mayor-street-lower-ifsc-dublin-1-dublin/5006293",
+    "https://www.myhome.ie/residential/brochure/prescott-coill-ballinruane-kilmeedy-limerick/5007707"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=458",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-1-2-swallows-nest-dalton-street-claremorris-co-mayo/6638632",
+  "fetchedAt": "2026-10-05T09:20:03.725Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-1-2-swallows-nest-dalton-street-claremorris-co-mayo/6638632",
+  "kind": "listing",
+  "responseSha256": "34f3962acdef55f827c31917153bb29f13c7eb14ca943c55a1fac728dcd6f00c",
+  "files": [
+    {
+      "path": "daft/00890-897f1d2663b01f96-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c0cc67ec8681a516d1cd919714de56f8dc8903ea7c51b9664d2e0f63d52bf8b5",
+      "bytes": 63741
+    },
+    {
+      "path": "daft/00890-897f1d2663b01f96-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "04e2b87834f7cdca8eb5254727a82e9fac7978a4fc7fc1990178950765ef1a66",
+      "bytes": 8036
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

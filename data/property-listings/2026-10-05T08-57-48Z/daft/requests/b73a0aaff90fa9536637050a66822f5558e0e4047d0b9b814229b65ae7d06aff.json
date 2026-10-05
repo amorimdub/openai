@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/lower-road-bunratty-east-bunratty-co-clare/6685892",
+  "fetchedAt": "2026-10-05T09:33:16.857Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/lower-road-bunratty-east-bunratty-co-clare/6685892",
+  "kind": "listing",
+  "responseSha256": "21bd2b0c372b33d1cc71bda1f44f049afa14ceab028ae92a142f06642b82bf44",
+  "files": [
+    {
+      "path": "daft/01418-b73a0aaff90fa953-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a8bb80112ca16d251e0f3e907c7fdd8fc86ac664544908da81423718a18eb135",
+      "bytes": 30296
+    },
+    {
+      "path": "daft/01418-b73a0aaff90fa953-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a0b830c3329caf5b8eb7c47896340284e74bb01083533a259e5363629560a03f",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

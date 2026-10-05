@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/13-slieve-bloom-heights-rathdowney-co-laois/6684242",
+  "fetchedAt": "2026-10-05T09:43:55.161Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/13-slieve-bloom-heights-rathdowney-co-laois/6684242",
+  "kind": "listing",
+  "responseSha256": "8c20f326070fa1d621100bc7f153b2e5585533cf95c9f124e72fbb2d4e24412c",
+  "files": [
+    {
+      "path": "daft/01843-5634bdeaaa734151-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a49cea3eee12fcfb503256704291d89c138bb4294e4e462b12d58b9d5bce431c",
+      "bytes": 32342
+    },
+    {
+      "path": "daft/01843-5634bdeaaa734151-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "00070f1ce0d31b0f31c5916cf4b5d24d95a35b802b883d146fa7100b1e2c9cd2",
+      "bytes": 8129
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

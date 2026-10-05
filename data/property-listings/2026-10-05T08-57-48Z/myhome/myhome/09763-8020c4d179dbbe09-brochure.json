@@ -1,0 +1,640 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "killeary lobinstown navan co meath",
+    "GroupId": 5708,
+    "Address": "Killeary",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a7c025e3-578e-4b33-b8e5-9883a8c6901a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a57b9144-bc33-4025-9c7f-48d64d3938ca_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3e3b4dd1-5236-4b88-b969-d86f95784e01_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/83edaf9c-22a6-4762-9015-601a9da1fef2_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/9df5de3c-31a8-4111-a0fd-032a3e9d6507_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8996e7ed-a944-47f7-aacc-454d9d37c08d_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/f2f66027-5310-4b3d-802c-467a1cf51a8b_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/82d44fe3-aabb-4cb7-944a-5f5662fb1ad4_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/cf672137-8cde-43fc-ba0f-e9cbe11d5dc7_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/95cb60af-e4f0-4623-8779-31e3ee6fb0fe_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/5477375f-c0c9-47aa-a16a-713fea6308ff_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3c7cc246-6b67-4515-8461-587158463737_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8ff1f27a-f64d-4d12-b1f5-0e7366dcb6a2_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/c6924567-5efc-4dd3-bc67-040df3a90c94_l.jpeg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 125,
+    "MaxSize": 125,
+    "BerRating": "E",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€375,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "125",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5008937,
+        "DisplayAddress": "Killeary, Lobinstown, Navan, Co. Meath",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "78ddda64-0234-487c-920b-039d82188cc8",
+              "Filename": "e65f7083-6ce2-47e0-b46f-e2bd6a1aa9cc.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/b06bd895-7c6c-4d10-9315-1707305fbaed.jpeg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7ffb5f09-2a02-4bce-8a19-a109f75e11a9",
+              "Filename": "e04da834-fd7f-42ff-a0eb-092562378430.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/11376729-31c0-41af-889c-bcfbcb557684.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d4b722b3-c4ff-4190-ac40-ebdd11322c29",
+              "Filename": "a7c025e3-578e-4b33-b8e5-9883a8c6901a.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/3386db19-7bc2-4064-a221-dcda4ffc9099.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3baabf76-d5e8-4a06-a6bb-09c05d83e5ba",
+              "Filename": "a57b9144-bc33-4025-9c7f-48d64d3938ca.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/c6fbafe4-2691-48b0-b383-50699814efd3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "42156b24-b994-4b12-99d6-511f72e8d0e0",
+              "Filename": "3e3b4dd1-5236-4b88-b969-d86f95784e01.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/c09d50c6-49f2-4a62-9ba2-05ab363955ec.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8b707f44-5ff3-4b96-ae3d-ab51b51f21e1",
+              "Filename": "83edaf9c-22a6-4762-9015-601a9da1fef2.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/f3ed5e87-c468-4e8b-8829-30960a390a86.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dc8abdc1-346b-4cfb-aacd-5df313f05d26",
+              "Filename": "9df5de3c-31a8-4111-a0fd-032a3e9d6507.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/c6feb255-c962-42ee-93a9-4ebcc2801fea.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "406498f6-686d-4171-a4f9-bfb0d9776d79",
+              "Filename": "8996e7ed-a944-47f7-aacc-454d9d37c08d.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/2205c385-ab5e-4557-9371-ce73b8d819f3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cc389242-5871-4081-bb21-9a29b17a4668",
+              "Filename": "f2f66027-5310-4b3d-802c-467a1cf51a8b.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/cdadb995-1f82-4135-8fd8-b83b7180f3af.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d40f0cda-9a3b-4e9e-aba3-a72c50e8bb96",
+              "Filename": "82d44fe3-aabb-4cb7-944a-5f5662fb1ad4.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/666447e3-ffb6-4cb6-8e4e-ce59ec35794e.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1ce2f778-105b-4d6d-9d77-7557b5095581",
+              "Filename": "cf672137-8cde-43fc-ba0f-e9cbe11d5dc7.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/8c31ce2e-165d-4912-b0e2-463181a0ff4a.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f1ed674d-9d66-4e24-9e25-4e9c8d48cb6d",
+              "Filename": "95cb60af-e4f0-4623-8779-31e3ee6fb0fe.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/563e8e99-a8e1-4059-a464-f1ab8be67e08.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4c847e40-91b1-4b2b-a29f-315041cb6b40",
+              "Filename": "5477375f-c0c9-47aa-a16a-713fea6308ff.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/2ef99297-68ee-480f-bf06-e0cfce7710b3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3d639210-d43a-4c5a-bba7-9f8b3dd57341",
+              "Filename": "3c7cc246-6b67-4515-8461-587158463737.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/b97895c5-6d09-4f17-a7a3-b77dabd55728.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e82cb1ba-08e8-4998-9faa-9a8d07b41005",
+              "Filename": "8ff1f27a-f64d-4d12-b1f5-0e7366dcb6a2.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/2b16ed10-b4ca-4402-8bfe-63d69db2810c.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "afa25100-0670-48cd-98b6-cd8537ff77ca",
+              "Filename": "c6924567-5efc-4dd3-bc67-040df3a90c94.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/19f8a189-a877-44d9-99d3-0186cec5c51c.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "67c282c4-c501-4fa3-8e72-9cb64ebb55da",
+              "Filename": "https://my.matterport.com/show/?m=fvTMRCC7MCw",
+              "Caption": "https://my.matterport.com/show/?m=fvTMRCC7MCw",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            },
+            {
+              "Identifier": "52eb3ae4-5c89-4465-8bfc-a238e70f0081",
+              "Filename": "https://www.youtube.com/embed/JLqs2y_Yl3k",
+              "Caption": "https://www.youtube.com/embed/JLqs2y_Yl3k",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "21bd9808e9e94c9cb334d73fa02eaabf",
+          "OriginalImagesSuffix": "21bd9",
+          "MainPhoto": {
+            "Identifier": "7ffb5f09-2a02-4bce-8a19-a109f75e11a9",
+            "Filename": "e04da834-fd7f-42ff-a0eb-092562378430.jpeg",
+            "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/3/2/5/64523/11376729-31c0-41af-889c-bcfbcb557684.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_l.jpeg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "This charming detached residence extending to c. 125 sq.m. (1,345 sq.ft.) located in Killeary Lobinstown, 15kms from Navan and less than an hour from Dublin. The property offers bright, spacious accommodation throughout, potential for an extension and presents an excellent opportunity for purchasers seeking a peaceful countryside home with excellent access to the Towns of Navan and Ardee.\n\nOccupying a superb site of approximately 0.7 acres, the property is surrounded by mature woodland, established trees and natural greenery, creating a wonderfully private setting. The generous grounds provide ample outdoor space for gardening enthusiasts, families or those simply looking to enjoy country living in a tranquil environment.\n\nThe accommodation is well laid out and includes a spacious open-plan living and dining area, kitchen, sunroom, two bedrooms and family bathroom. The property benefits from excellent natural light throughout, while\nthe attractive sunroom overlooks the gardens.\n\nIdeally located in the peaceful rural setting of Killeary, Lobinstown, the nearby villages of Lobinstown and Wilkinstown provide everyday amenities, schools, shops and sporting facilities, while Navan is within easy reach for\na wider range of services, retail and leisure options.\n\nExcellent road connectivity via the M2 ensures straightforward access to Dublin, Drogheda and surrounding commuter centres, with Dublin Airport reachable in under an hour.\n\nAccommodation includes: Entrance Hall, Open Plan Living / Dining Room, Kitchen, Sunroom, 2 Bedrooms, Bathroom and Landing Area.\n\nFEATURES\n• Private site of c. 0.7 acres\n• Surrounded by mature woodland\n• Bright and spacious accommodation\n• Large sunroom overlooking surrounding\ngardens\n• Open-plan living and dining area\n• Solar panels\n• Solid fuel heating\n• Mains water & septic tank\n• Peaceful countryside setting\n• Easy access to the M2 motorway\n\n"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "- Parking\n- Garden"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: E"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Raymond Potterton and Co."
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 0,
+    "MinEnergyRating": 35,
+    "MaxEnergyRating": 35,
+    "BERGrade": "E",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-06-25T17:22:28.8070000+01:00",
+    "ModifiedOnDate": "2026-06-26T15:58:54.8370000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-25T17:22:28.8070000+01:00",
+    "RefreshedOn": "2026-06-25T17:22:28.8070000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E.png",
+    "IsTransact": false,
+    "PriceAsString": "€375,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5008937,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 125,
+    "DisplayAddress": "Killeary, Lobinstown, Navan, Co. Meath",
+    "Eircode": "C15 T934",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 2712,
+    "RegionName": "Meath",
+    "LocalityId": 7830,
+    "LocalityName": "Lobinstown",
+    "Price": {
+      "MinPrice": 375000,
+      "MaxPrice": 375000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e04da834-fd7f-42ff-a0eb-092562378430_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a7c025e3-578e-4b33-b8e5-9883a8c6901a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a7c025e3-578e-4b33-b8e5-9883a8c6901a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a7c025e3-578e-4b33-b8e5-9883a8c6901a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a57b9144-bc33-4025-9c7f-48d64d3938ca_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a57b9144-bc33-4025-9c7f-48d64d3938ca_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/a57b9144-bc33-4025-9c7f-48d64d3938ca_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3e3b4dd1-5236-4b88-b969-d86f95784e01_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3e3b4dd1-5236-4b88-b969-d86f95784e01_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3e3b4dd1-5236-4b88-b969-d86f95784e01_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/83edaf9c-22a6-4762-9015-601a9da1fef2_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/83edaf9c-22a6-4762-9015-601a9da1fef2_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/83edaf9c-22a6-4762-9015-601a9da1fef2_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/9df5de3c-31a8-4111-a0fd-032a3e9d6507_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/9df5de3c-31a8-4111-a0fd-032a3e9d6507_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/9df5de3c-31a8-4111-a0fd-032a3e9d6507_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8996e7ed-a944-47f7-aacc-454d9d37c08d_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8996e7ed-a944-47f7-aacc-454d9d37c08d_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8996e7ed-a944-47f7-aacc-454d9d37c08d_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/f2f66027-5310-4b3d-802c-467a1cf51a8b_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/f2f66027-5310-4b3d-802c-467a1cf51a8b_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/f2f66027-5310-4b3d-802c-467a1cf51a8b_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/82d44fe3-aabb-4cb7-944a-5f5662fb1ad4_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/82d44fe3-aabb-4cb7-944a-5f5662fb1ad4_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/82d44fe3-aabb-4cb7-944a-5f5662fb1ad4_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/cf672137-8cde-43fc-ba0f-e9cbe11d5dc7_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/cf672137-8cde-43fc-ba0f-e9cbe11d5dc7_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/cf672137-8cde-43fc-ba0f-e9cbe11d5dc7_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/95cb60af-e4f0-4623-8779-31e3ee6fb0fe_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/95cb60af-e4f0-4623-8779-31e3ee6fb0fe_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/95cb60af-e4f0-4623-8779-31e3ee6fb0fe_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/5477375f-c0c9-47aa-a16a-713fea6308ff_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/5477375f-c0c9-47aa-a16a-713fea6308ff_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/5477375f-c0c9-47aa-a16a-713fea6308ff_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3c7cc246-6b67-4515-8461-587158463737_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3c7cc246-6b67-4515-8461-587158463737_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/3c7cc246-6b67-4515-8461-587158463737_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8ff1f27a-f64d-4d12-b1f5-0e7366dcb6a2_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8ff1f27a-f64d-4d12-b1f5-0e7366dcb6a2_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/8ff1f27a-f64d-4d12-b1f5-0e7366dcb6a2_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/c6924567-5efc-4dd3-bc67-040df3a90c94_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/c6924567-5efc-4dd3-bc67-040df3a90c94_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/c6924567-5efc-4dd3-bc67-040df3a90c94_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e65f7083-6ce2-47e0-b46f-e2bd6a1aa9cc_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e65f7083-6ce2-47e0-b46f-e2bd6a1aa9cc_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e65f7083-6ce2-47e0-b46f-e2bd6a1aa9cc_m.jpeg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.658773,
+      "latitude": 53.777914
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 16,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/7/3/9/5008937/e65f7083-6ce2-47e0-b46f-e2bd6a1aa9cc_l.jpeg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "67c282c4-c501-4fa3-8e72-9cb64ebb55da",
+        "Filename": "https://my.matterport.com/show/?m=fvTMRCC7MCw",
+        "Caption": "https://my.matterport.com/show/?m=fvTMRCC7MCw",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "52eb3ae4-5c89-4465-8bfc-a238e70f0081",
+        "Filename": "https://www.youtube.com/embed/JLqs2y_Yl3k",
+        "Caption": "https://www.youtube.com/embed/JLqs2y_Yl3k",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5708,
+    "Name": "Raymond Potterton & Company",
+    "DisplayPhone": "046 902 7666",
+    "Email": "info@raymondpotterton.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "raymond-potterton-and-company",
+    "SeoName": "raymond-potterton-and-company",
+    "Address": "38 Watergate Street, Navan, Co. Meath",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/0/7/5708/logo.jpg",
+    "SalesLicense": "002488",
+    "RentalLicense": "002488",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "lobinstown/7830",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024761,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Boynaghbought, Kilmainhamwood, Kells, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/6/7/5024761/31a47e1e-44fd-40b8-90b6-9f93168b6ecc_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/boynaghbought-kilmainhamwood-kells-co-meath/5024761"
+    },
+    {
+      "PropertyId": 5024362,
+      "PropertyClassId": 1,
+      "DisplayAddress": "4 Canterbrook, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/6/3/5024362/13f258c1-4cde-44c5-9441-a56269780d7f_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/4-canterbrook-navan-co-meath/5024362"
+    },
+    {
+      "PropertyId": 5023841,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Anneville, Clonard, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/4/8/5023841/165e80f1-e1b0-4347-8e87-fdebf6677a57_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/anneville-clonard-meath/5023841"
+    },
+    {
+      "PropertyId": 5023635,
+      "PropertyClassId": 1,
+      "DisplayAddress": "73 Academy Square, Academy Street, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/3/6/5023635/90355448-6fe0-4259-ad0d-c026b95f12b2_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/73-academy-square-academy-street-navan-co-meath/5023635"
+    },
+    {
+      "PropertyId": 5006137,
+      "PropertyClassId": 1,
+      "DisplayAddress": "3 Effernock Crescent, Trim, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/3/1/5006137/023cea6d-0dc7-4f61-b934-8010c65090a6_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/3-effernock-crescent-trim-co-meath/5006137"
+    },
+    {
+      "PropertyId": 5023125,
+      "PropertyClassId": 1,
+      "DisplayAddress": "132 Somerville, Ratoath, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/2/1/5023125/998fad47-f7e4-4805-9814-dd033cf7a584_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/132-somerville-ratoath-co-meath/5023125"
+    },
+    {
+      "PropertyId": 5022063,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Gleann Na Bhfiach, Moorechurch, Julianstown, Drogheda, Co. Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/6/0/5022063/8fa0fa5d-575d-4d51-9bcc-70c6fc5c17e4_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/gleann-na-bhfiach-moorechurch-julianstown-drogheda-co-louth/5022063"
+    },
+    {
+      "PropertyId": 5022005,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Cregg, Nobber, Co. Meath, Kells",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/0/0/5022005/8ae795e6-bac5-405a-b55d-e329d913db2e_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/cregg-nobber-co-meath-kells/5022005"
+    },
+    {
+      "PropertyId": 5021788,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Kilmainham, Kells, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/8/7/5021788/93cf6867-d4c2-4af1-b329-ec157591bb7a_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/kilmainham-kells-co-meath/5021788"
+    },
+    {
+      "PropertyId": 5019779,
+      "PropertyClassId": 1,
+      "DisplayAddress": "65 Blackcastle Lodge, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/7/7/5019779/2bc0dab7-ecb2-4acd-a27b-6e8eb06229d3_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/65-blackcastle-lodge-navan-co-meath/5019779"
+    },
+    {
+      "PropertyId": 5019381,
+      "PropertyClassId": 1,
+      "DisplayAddress": "5 Bridgegate Drive, Ardee, Co. Louth",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/8/3/5019381/bbf9fdb1-e621-4944-bf95-f29f95b28457_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/5-bridgegate-drive-ardee-co-louth/5019381"
+    },
+    {
+      "PropertyId": 5017833,
+      "PropertyClassId": 1,
+      "DisplayAddress": "91 Abbeygrove, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/3/8/5017833/bc0a1c0f-4f7a-4a76-8cbe-4128fd8883ee_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/91-abbeygrove-navan-co-meath/5017833"
+    },
+    {
+      "PropertyId": 5017139,
+      "PropertyClassId": 1,
+      "DisplayAddress": "84 Clonmagadden Fort, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/3/1/5017139/f360fd26-aa2f-428e-aa3a-ab196d158583_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/84-clonmagadden-fort-navan-co-meath/5017139"
+    },
+    {
+      "PropertyId": 5016992,
+      "PropertyClassId": 1,
+      "DisplayAddress": "84 Abbeyfields, Clonard, Co. Meath, Enfield",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/9/9/5016992/3ed675aa-7250-4a17-81f6-4374e1566c08_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/84-abbeyfields-clonard-co-meath-enfield/5016992"
+    },
+    {
+      "PropertyId": 5015385,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Castlebridge House, Athlumney, Navan, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/3/5015385/fc263cc6-9a6e-42f5-878b-743d2edf5a5b_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/castlebridge-house-athlumney-navan-meath/5015385"
+    },
+    {
+      "PropertyId": 5015920,
+      "PropertyClassId": 1,
+      "DisplayAddress": "7 Troytown Heights, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/2/9/5015920/e967802b-a0ff-4cbd-9138-6774fb081ef5_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/7-troytown-heights-navan-co-meath/5015920"
+    },
+    {
+      "PropertyId": 5011822,
+      "PropertyClassId": 1,
+      "DisplayAddress": "45 Blackcastle Demesne, Navan, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/8/5011822/e777f53f-414f-441d-8146-9e33cdfac2e3_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/45-blackcastle-demesne-navan-co-meath/5011822"
+    },
+    {
+      "PropertyId": 5011557,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Pottlebane, Carnaross, Kells, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/5/5/5011557/ce27d74d-3b3f-425a-8400-70efaaf1b576_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/pottlebane-carnaross-kells-co-meath/5011557"
+    },
+    {
+      "PropertyId": 5011508,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Hearst House, Clondoogan, Summerhill, Enfield, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/0/5/5011508/a8cb36f5-c9d9-4bf8-8296-8288ea4849bd_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/hearst-house-clondoogan-summerhill-enfield-co-meath/5011508"
+    },
+    {
+      "PropertyId": 5004282,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Darnley Grove, Athboy, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/2/5004282/234c9c79-306d-4e2e-8bbb-e89d66a58cf1_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/darnley-grove-athboy-meath/5004282"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/killeary-lobinstown-navan-co-meath/5008937",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5708,
+    "MYH_LocalityID": 7830,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2712,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking",
+    "MYH_MaxPrice": 375000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 35,
+    "MYH_MinPrice": 375000,
+    "MYH_MinSize": 125,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5008937,
+    "MYH_PropertyTypeID": 39
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/arkendale-road-glenageary-sandycove-co-dublin/6686031",
+  "fetchedAt": "2026-10-05T09:31:27.239Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/arkendale-road-glenageary-sandycove-co-dublin/6686031",
+  "kind": "listing",
+  "responseSha256": "cd9e7864f25281f8eeff93fa3c1548cec6115e9ecc3032511b1609dbcdc1d27c",
+  "files": [
+    {
+      "path": "daft/01345-6692dea6ae0ef380-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d3fb5af4234031b2fa5385113a8e9ee81efe17d3e0518031d72a0488d0640b7d",
+      "bytes": 23127
+    },
+    {
+      "path": "daft/01345-6692dea6ae0ef380-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3ca138eb3594093c6646d96d9af7f65837d9b99a8f91356068d85c344dd5219",
+      "bytes": 8143
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

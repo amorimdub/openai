@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "LIMERICK SCHOOL PROJECT",
+      "numPupils": 210,
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.657234",
+        "lon": "-8.633695"
+      }
+    },
+    {
+      "schoolName": "ST MICHAELS LIM CITY",
+      "numPupils": 113,
+      "distance": {
+        "value": 0.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.657578",
+        "lon": "-8.629729"
+      }
+    },
+    {
+      "schoolName": "SALESIAN PRIMARY SCHOOL",
+      "numPupils": 389,
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.665330",
+        "lon": "-8.636772"
+      }
+    },
+    {
+      "schoolName": "ST AUGUSTINE'S SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 0.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.662680",
+        "lon": "-8.627315"
+      }
+    },
+    {
+      "schoolName": "AN MHODHSCOIL",
+      "numPupils": 578,
+      "distance": {
+        "value": 0.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655180",
+        "lon": "-8.633831"
+      }
+    },
+    {
+      "schoolName": "ST MICHAEL'S INFANT SCHOOL",
+      "numPupils": 115,
+      "distance": {
+        "value": 0.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659023",
+        "lon": "-8.622787"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY SCHOOL",
+      "numPupils": 281,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659298",
+        "lon": "-8.622314"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOSAGAIN CBS",
+      "numPupils": 228,
+      "distance": {
+        "value": 0.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658850",
+        "lon": "-8.622306"
+      }
+    },
+    {
+      "schoolName": "J F K MEMORIAL SCHOOL",
+      "numPupils": 220,
+      "distance": {
+        "value": 0.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666160",
+        "lon": "-8.644519"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHÁTHAIR DÉ",
+      "numPupils": 414,
+      "distance": {
+        "value": 0.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.652412",
+        "lon": "-8.638428"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "LIMERICK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 714,
+      "distance": {
+        "value": 0.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.664608",
+        "lon": "-8.639804"
+      }
+    },
+    {
+      "schoolName": "ST CLEMENTS COLLEGE",
+      "numPupils": 411,
+      "distance": {
+        "value": 0.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655870",
+        "lon": "-8.638259"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL COLÁISTE FCJ",
+      "numPupils": 343,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655130",
+        "lon": "-8.638703"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL RIS",
+      "numPupils": 747,
+      "distance": {
+        "value": 0.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.665417",
+        "lon": "-8.641246"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL SECONDARY SCHOOL FCJ",
+      "numPupils": 725,
+      "distance": {
+        "value": 0.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.654990",
+        "lon": "-8.639504"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NANO NAGLE",
+      "numPupils": 356,
+      "distance": {
+        "value": 0.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.660180",
+        "lon": "-8.622252"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHICHIL",
+      "numPupils": 346,
+      "distance": {
+        "value": 0.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659195",
+        "lon": "-8.621262"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE LUIMNIGH",
+      "numPupils": 616,
+      "distance": {
+        "value": 1.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666676",
+        "lon": "-8.619911"
+      }
+    },
+    {
+      "schoolName": "VILLIERS SECONDARY SCHOOL",
+      "numPupils": 526,
+      "distance": {
+        "value": 1.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661747",
+        "lon": "-8.657543"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 574,
+      "distance": {
+        "value": 1.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670030",
+        "lon": "-8.614521"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "The Crescent",
+      "route": "304",
+      "destination": "University",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6588261273079",
+        "lon": "-8.63203677969028"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Henry Street",
+      "route": "301",
+      "destination": "Westbury",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661834",
+        "lon": "-8.631016"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Henry Street",
+      "route": "304",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661834",
+        "lon": "-8.631016"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Henry Street",
+      "route": "306",
+      "destination": "Whitecross Gds",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661834",
+        "lon": "-8.631016"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Henry Street",
+      "route": "251",
+      "destination": "Cork Airport",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661834",
+        "lon": "-8.631016"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Crescent",
+      "route": "321",
+      "destination": "Newcastlewest",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658297",
+        "lon": "-8.631778"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Crescent",
+      "route": "320",
+      "destination": "Charleville",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658297",
+        "lon": "-8.631778"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Crescent",
+      "route": "314",
+      "destination": "Foynes",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658297",
+        "lon": "-8.631778"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Crescent",
+      "route": "304A",
+      "destination": "University",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658361",
+        "lon": "-8.631601"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Crescent",
+      "route": "301",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658361",
+        "lon": "-8.631601"
+      }
+    }
+  ]
+}

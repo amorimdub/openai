@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-crescent-building-parkwest-park-west-dublin-12/6684929",
+  "fetchedAt": "2026-10-05T09:39:48.774Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-crescent-building-parkwest-park-west-dublin-12/6684929",
+  "kind": "listing",
+  "responseSha256": "278e0d2985023292b330f67b65482afbbd0c8bf11e1cb4de2ddb90b7d35b8d4f",
+  "files": [
+    {
+      "path": "daft/01679-db0e7d0b328581fc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2e731e3131f382431177473b7dc608c6e0885f69d31e187cd15eaf2af427a4b4",
+      "bytes": 17526
+    },
+    {
+      "path": "daft/01679-db0e7d0b328581fc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b87dcd057eb436292063a2d84092efd6bd06a06b28daa5e2ec8486e54eb8ba4a",
+      "bytes": 8096
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bed-duplex-u-maynooth-moyglare-road-maynooth-co-kildare/4514016",
+  "fetchedAt": "2026-10-05T09:06:22.198Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bed-duplex-u-maynooth-moyglare-road-maynooth-co-kildare/4514016",
+  "kind": "listing",
+  "responseSha256": "91f1707021382c5a5e3b970939ec9fdaf8e91a4abbe8788b8e21c4204cbb7c05",
+  "files": [
+    {
+      "path": "daft/00343-648ffafd841221c8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f241efe0b2b64abe726452698c1fa3e2aaab064bda18e7b38b1a678f078fab3f",
+      "bytes": 41198
+    },
+    {
+      "path": "daft/00343-648ffafd841221c8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "93c985efe2c49a69d7d2c4e84be5f470fbf60d081674328f4f8882e045497444",
+      "bytes": 8179
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

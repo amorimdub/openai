@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/36-merlyn-road-ballsbridge-dublin-4/6679977",
+  "fetchedAt": "2026-10-05T09:14:46.860Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/36-merlyn-road-ballsbridge-dublin-4/6679977",
+  "kind": "listing",
+  "responseSha256": "7453b1248de619ced16a20403bedd863f5a68ba7817b249a3360a4151b054697",
+  "files": [
+    {
+      "path": "daft/00679-d2b885a99f928272-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b1d7463ebb3dc33b5c549a67b2586addd71d79c832fa72ec3e4ed92daf142e6a",
+      "bytes": 47876
+    },
+    {
+      "path": "daft/00679-d2b885a99f928272-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f096175b9e568b9b641d51c0e588e86897c280e9c251dc9855248b5ecea0c465",
+      "bytes": 8095
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

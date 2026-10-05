@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-priory-rathfarnham-dublin-16/6677398",
+  "fetchedAt": "2026-10-05T09:18:27.628Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-priory-rathfarnham-dublin-16/6677398",
+  "kind": "listing",
+  "responseSha256": "72b2dd742e86a486383508858f85bf3c32a92768162c7c09c697fdf8f5ccf324",
+  "files": [
+    {
+      "path": "daft/00826-1082a068028032f2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8ef64155722e793e7a9fd02be3bf62c859ad98b58dabdc31c42bcfe3a948aa9f",
+      "bytes": 52904
+    },
+    {
+      "path": "daft/00826-1082a068028032f2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "03c78fdf4c9a968ae58cd7e44f210a2a9444d5a8d11f7ed87a4c52ede499e355",
+      "bytes": 8072
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

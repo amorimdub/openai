@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cregmore-cregmore-co-galway/6675606",
+  "fetchedAt": "2026-10-05T09:10:14.962Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cregmore-cregmore-co-galway/6675606",
+  "kind": "listing",
+  "responseSha256": "c99b3e89079ddcb9fe4be1dd9a54ac0cd0f9775139208815b27f02d5b33a6259",
+  "files": [
+    {
+      "path": "daft/00498-278a0a738c95b804-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b6fdcb802e701d297ace8fd2ad813da88bbc8bb0d298255bfaa201a3af85e16d",
+      "bytes": 20701
+    },
+    {
+      "path": "daft/00498-278a0a738c95b804-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0dbb7d48da57ea347e00fcc6ed2d313e2bbbca165da357855d672fbda8a95460",
+      "bytes": 7965
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

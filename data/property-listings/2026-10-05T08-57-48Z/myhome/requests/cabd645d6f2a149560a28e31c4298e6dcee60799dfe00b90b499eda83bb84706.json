@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=491",
+  "fetchedAt": "2026-10-05T14:27:29.114Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=491",
+  "kind": "search",
+  "responseSha256": "38ab17319c6c632ae393c8799ce561d457f02d4ce22e0177343d1d7ff6b1ae65",
+  "files": [
+    {
+      "path": "myhome/10625-cabd645d6f2a1495-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=491\"].SearchResults",
+      "sha256": "3fc7485cf63bd787263fa0e1da4ad0cddd289c3af86a6f0a4bcaa8fa907fe505",
+      "bytes": 111768
+    },
+    {
+      "path": "myhome/10625-cabd645d6f2a1495-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=491\"] (paging fields)",
+      "sha256": "e3ab9f824a3e4ddc574977e9d213a4544be86867b709a8f318a13b0e3fcbdab4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/carraig-bhan-three-mile-water-brittas-bay-wicklow/5002132",
+    "https://www.myhome.ie/residential/brochure/gortnalaragh-termon-kilmacrennan-co-donegal/5003589",
+    "https://www.myhome.ie/residential/brochure/dunard-meeleen-t56k883-knockraha-cork/5003543",
+    "https://www.myhome.ie/residential/brochure/3-port-arthur-lunnaigh-derrybeg-county-donegal/5003560",
+    "https://www.myhome.ie/residential/brochure/1-hamlet-wood-hamlet-lane-balbriggan-county-dublin/5003553",
+    "https://www.myhome.ie/residential/brochure/tirhillion-termon-kilmacrennan-co-donegal/5003528",
+    "https://www.myhome.ie/residential/brochure/no-1-michael-burke-place-cobh-co-cork-cobh-east-cork/5003505",
+    "https://www.myhome.ie/residential/brochure/the-beech-3-bedroom-semi-detached-oakmount-altidore-gardens-newtownmountkennedy-wicklow/4971731",
+    "https://www.myhome.ie/residential/brochure/apartment-23-canon-court-christchurch-dublin-8/5003514",
+    "https://www.myhome.ie/residential/brochure/55-the-crescent-millbrook-lawns-tallaght-dublin-24/4990841",
+    "https://www.myhome.ie/residential/brochure/39-strand-road-baldoyle-dublin-13/4960486",
+    "https://www.myhome.ie/residential/brochure/no-52-rushbrook-manor-cobh-co-cork-cobh-east-cork/5003464",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-oughtdarra-lisdoonvarna-county-clare/5003499",
+    "https://www.myhome.ie/residential/brochure/rosemount-cappagh-limerick-county-limerick/5003491",
+    "https://www.myhome.ie/residential/brochure/18-meadow-springs-clareview-limerick-county-limerick/5003489",
+    "https://www.myhome.ie/residential/brochure/belville-mews-4-stillorgan-road-donnybrook-dublin-4/5003468",
+    "https://www.myhome.ie/residential/brochure/swift-mews-4b-stillorgan-road-donnybrook-dublin-4/5003467",
+    "https://www.myhome.ie/residential/brochure/whitehill-st-johnston-co-donegal/5003449",
+    "https://www.myhome.ie/residential/brochure/9-sirius-heights-church-hill-passage-west-cork/5001979",
+    "https://www.myhome.ie/residential/brochure/foxcliff-colla-schull-west-cork/5002957"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=492",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/robertstown-road-donaghmore-ashbourne-co-meath/6684686",
+  "fetchedAt": "2026-10-05T09:40:41.352Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/robertstown-road-donaghmore-ashbourne-co-meath/6684686",
+  "kind": "listing",
+  "responseSha256": "9ca844158b36c3f801339db3dfd1c8f88e526f709127c79dbcc57f2e791bc9cb",
+  "files": [
+    {
+      "path": "daft/01714-5074b86328f235f1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bfbba7fb80b40273fd0de15cedd1b27ed083ddb9524f7cd32aa9778bcba8870b",
+      "bytes": 27723
+    },
+    {
+      "path": "daft/01714-5074b86328f235f1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "68a5653a596dbec3ae18dedfac13918e10513c0c417706af60cd6cb1c5c5c5fb",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

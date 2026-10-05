@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=371",
+  "fetchedAt": "2026-10-05T13:25:40.427Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=371",
+  "kind": "search",
+  "responseSha256": "f8501a55cc7dc0270abb2e5fc4c112bb435ded7cefcba31c94b4c7ab4cc75aed",
+  "files": [
+    {
+      "path": "myhome/08158-ab29c61175b1ceeb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=371\"].SearchResults",
+      "sha256": "62bd0fd3c380c0859258763218db71a3f7cb44971d7d096e20dc84fd941e112d",
+      "bytes": 101660
+    },
+    {
+      "path": "myhome/08158-ab29c61175b1ceeb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=371\"] (paging fields)",
+      "sha256": "5f24b941f5a05fbafc29480e90755f0193e29468de3fc411a02ed9c7e1ec3fca",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rathkeale-road-adare-county-limerick/5018550",
+    "https://www.myhome.ie/residential/brochure/site-ballymabin-dunmore-east-waterford/5018543",
+    "https://www.myhome.ie/residential/brochure/greaghnafarna-ballinaglera-leitrim/5018540",
+    "https://www.myhome.ie/residential/brochure/5-saint-joseph-s-square-clontarf-dublin-3/5018535",
+    "https://www.myhome.ie/residential/brochure/plot-of-land-at-kilcullen-upper-faithlegg-waterford/5018533",
+    "https://www.myhome.ie/residential/brochure/the-hill-abbeyfeale-co-limerick/5018531",
+    "https://www.myhome.ie/residential/brochure/12-rock-court-slane-co-meath/5018523",
+    "https://www.myhome.ie/residential/brochure/seacrest-sandy-hills-south-shore-road-rush-dublin/5018505",
+    "https://www.myhome.ie/residential/brochure/12-saint-finbarr-s-place-proby-s-quay-cork-city-cork/5018481",
+    "https://www.myhome.ie/residential/brochure/apt-4-block-a-lansdowne-valley-slievebloom-road-drimnagh-dublin-12/5018430",
+    "https://www.myhome.ie/residential/brochure/2-mariners-cove-mariners-point-wicklow-town-co-wicklow/5018488",
+    "https://www.myhome.ie/residential/brochure/33-d-n-saithne-view-balbriggan-dublin/5018474",
+    "https://www.myhome.ie/residential/brochure/16-kingshall-chapelizod-dublin-20/5018480",
+    "https://www.myhome.ie/residential/brochure/34-st-michael-s-terrace-arklow-co-wicklow/5018477",
+    "https://www.myhome.ie/residential/brochure/amberley-glenascaul-oranmore-galway/5018466",
+    "https://www.myhome.ie/residential/brochure/3-milehouse-mews-milehouse-mews-bellefield-enniscorthy/5018464",
+    "https://www.myhome.ie/residential/brochure/67-knockaverry-estate-youghal-cork/4910669",
+    "https://www.myhome.ie/residential/brochure/no-3-knockthomas-drive-castlebar-mayo/5017761",
+    "https://www.myhome.ie/residential/brochure/killasser-swinford-co-mayo/5018460",
+    "https://www.myhome.ie/residential/brochure/carroweena-killasser-swinford-co-mayo/5018458"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=372",
+  "paginationLimited": false
+}

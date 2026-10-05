@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=49",
+  "fetchedAt": "2026-10-05T09:52:53.034Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=49",
+  "kind": "search",
+  "responseSha256": "5c7e5821ca3fe4cde76c8e19c8fe259199c69c5418258c0fc829658a31d440b0",
+  "files": [
+    {
+      "path": "daft/02201-feda570598344d25-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "1e2f9380552926fffc00404fbc03c0960959d8d8102265052526d12c4efec160",
+      "bytes": 252876
+    },
+    {
+      "path": "daft/02201-feda570598344d25-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02201-feda570598344d25-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "6f3f48aaee720eb1b55bff85a80e7a9da4e031634435789f190f82cf0372be97",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/heuston-south-quarter-kilmainham-dublin-8/6682674",
+    "https://www.daft.ie/for-rent/apt-102-the-chandler-d07-wv09-smithfield-dublin-7/6682672",
+    "https://www.daft.ie/for-rent/the-times-building-11-12-d-olier-street-dublin-2/6682656",
+    "https://www.daft.ie/for-rent/flat-1-42-gardiner-street-upper-dublin-1/6682659",
+    "https://www.daft.ie/for-rent/32-friars-street-cork-city-centre-co-cork/6682637",
+    "https://www.daft.ie/for-rent/apartment-1-46-south-mall-cork-city-centre-co-cork/6682570",
+    "https://www.daft.ie/for-rent/berkeley-street-dublin-7-north-circular-road-dublin-7/6682596",
+    "https://www.daft.ie/for-rent/rathmines-road-lower-rathmines-dublin-6/6682543",
+    "https://www.daft.ie/for-rent/flat-6-46-rathmines-road-upper-rathmines-dublin-6/6682577",
+    "https://www.daft.ie/for-rent/laundry-cottage-barrogstown-maynooth-co-kildare/6682580",
+    "https://www.daft.ie/for-rent/14-crannagh-hall-landscape-road-churchtown-dublin-14-co-dublin/6682579",
+    "https://www.daft.ie/for-rent/mount-hanover-courtyard-bellewstown-co-meath/6682546",
+    "https://www.daft.ie/for-rent/apt-5-riverfront-howleys-quay-limerick-city-centre-co-limerick/6682528",
+    "https://www.daft.ie/for-rent/moyne-road-ranelagh-dublin-6/6682513",
+    "https://www.daft.ie/for-rent/no-4-station-road-kingscourt-kingscourt-co-cavan/6657741",
+    "https://www.daft.ie/for-rent/6-station-road-kingscourt-kingscourt-co-cavan/6657750",
+    "https://www.daft.ie/for-rent/sraith-fhada-doughiska-co-galway/6682525",
+    "https://www.daft.ie/for-rent/sheerwater-house-galway-city-centre-co-galway/6682491",
+    "https://www.daft.ie/for-rent/faussagh-road-dublin-7-phibsborough-dublin-7/6682509",
+    "https://www.daft.ie/for-rent/bloomfield-avenue-portobello-dublin-8/6682487"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=50",
+  "paginationLimited": false
+}

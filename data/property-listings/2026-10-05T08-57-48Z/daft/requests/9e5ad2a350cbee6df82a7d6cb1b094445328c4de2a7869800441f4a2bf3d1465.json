@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-occu-owenmore-station-road-raheny-co-dublin/6116517",
+  "fetchedAt": "2026-10-05T09:03:43.018Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-occu-owenmore-station-road-raheny-co-dublin/6116517",
+  "kind": "listing",
+  "responseSha256": "060644120f7b8fb2db93dc9c12f240692de1e884c4a5d221da8ce866aef993b7",
+  "files": [
+    {
+      "path": "daft/00237-9e5ad2a350cbee6d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "52f1c2d44b315a19cda099d337599085a54b0dd49a5768525ef517b5accd3ec5",
+      "bytes": 66834
+    },
+    {
+      "path": "daft/00237-9e5ad2a350cbee6d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "eb8f7f52dae19bc2f4cda097c673ed03210fdcd4a76530b8c8355674939bd641",
+      "bytes": 8107
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

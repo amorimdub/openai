@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-60-the-sycamore-trimbleston-clonskeagh-dublin-14/6659641",
+  "fetchedAt": "2026-10-05T09:32:52.833Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-60-the-sycamore-trimbleston-clonskeagh-dublin-14/6659641",
+  "kind": "listing",
+  "responseSha256": "ee8493a015ac73c12449a8c8fd2d04dac4fb9ba3426e72a552be2f9575636976",
+  "files": [
+    {
+      "path": "daft/01402-4a843bf8f1890dfd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ad9c61580c3537912ffe2f17cdb901df91e342f48797d9f1a754d08f8420d402",
+      "bytes": 20525
+    },
+    {
+      "path": "daft/01402-4a843bf8f1890dfd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7aac6f0aa90fb5326a15d2508458a49aa80aac5f83630b440c9445795b36c23b",
+      "bytes": 8069
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=246",
+  "fetchedAt": "2026-10-05T12:21:28.111Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=246",
+  "kind": "search",
+  "responseSha256": "46d85de30339bdbf488ca15e8775d24c50054a23430d1cad88e2cb4feb224947",
+  "files": [
+    {
+      "path": "myhome/05600-0375c12f22184614-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=246\"].SearchResults",
+      "sha256": "84a9d1c1edcfaf83b13cecb0cdba47ed5a8f24c3a89b20631548f0064764ce64",
+      "bytes": 115898
+    },
+    {
+      "path": "myhome/05600-0375c12f22184614-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=246\"] (paging fields)",
+      "sha256": "681ddebb42016d1d9996992f54a40b54e2edc00b75268a53436be6037384af7f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-habour-hampton-demesne-dublin-north-county-dublin/5026190",
+    "https://www.myhome.ie/residential/brochure/41b-the-bottleworks-dermot-o-hurley-avenue-irishtown-dublin-4/5004407",
+    "https://www.myhome.ie/residential/brochure/60-jamestown-park-ratoath-co-meath/5026188",
+    "https://www.myhome.ie/residential/brochure/22-carrabeag-newport-road-castlebar-co-mayo/5026185",
+    "https://www.myhome.ie/residential/brochure/the-shoal-hampton-demesne-balbriggan-county-dublin/5026175",
+    "https://www.myhome.ie/residential/brochure/main-street-ardara-co-donegal/5026184",
+    "https://www.myhome.ie/residential/brochure/the-shoal-hampton-demesne-balbriggan-county-dublin/5026179",
+    "https://www.myhome.ie/residential/brochure/56-finlay-park-naas-kildare/5026168",
+    "https://www.myhome.ie/residential/brochure/the-red-door-old-chapel-lane-tullow-co-carlow/5026178",
+    "https://www.myhome.ie/residential/brochure/22-graydon-crescent-newcastle-co-dublin/5026172",
+    "https://www.myhome.ie/residential/brochure/baunaughra-rathdowney-laois/5026167",
+    "https://www.myhome.ie/residential/brochure/ashbrook-ballycorus-road-kilternan-co-dublin/5026170",
+    "https://www.myhome.ie/residential/brochure/103-fort-hill-moneygourney-douglas-cork/5026166",
+    "https://www.myhome.ie/residential/brochure/3-strangford-drive-newcastle-dublin/5024667",
+    "https://www.myhome.ie/residential/brochure/the-square-mountbellew-co-galway/5026164",
+    "https://www.myhome.ie/residential/brochure/baybush-3-hamlet-close-bremore-balbriggan-co-dublin/5026162",
+    "https://www.myhome.ie/residential/brochure/44-cherry-house-mespil-estate-sussex-road-dublin-4/5026159",
+    "https://www.myhome.ie/residential/brochure/8-mount-gerard-court-south-circular-road-limerick/5026157",
+    "https://www.myhome.ie/residential/brochure/4-glendine-court-glendine-kilkenny/5026156",
+    "https://www.myhome.ie/residential/brochure/10-grove-court-blanchardstown-dublin-15/5026153"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=247",
+  "paginationLimited": false
+}

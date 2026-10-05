@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "KILMUCKRIDGE NATIONAL SCHOOL",
+      "numPupils": 205,
+      "distance": {
+        "value": 2.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.508694",
+        "lon": "-6.288386"
+      }
+    },
+    {
+      "schoolName": "BALLYGARRETT NATIONAL SCHOOL",
+      "numPupils": 210,
+      "distance": {
+        "value": 6.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.576420",
+        "lon": "-6.230647"
+      }
+    },
+    {
+      "schoolName": "COURT NATIONAL SCHOOL",
+      "numPupils": 110,
+      "distance": {
+        "value": 7.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.553944",
+        "lon": "-6.342172"
+      }
+    },
+    {
+      "schoolName": "KILNAMANAGH NATIONAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 7.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.518920",
+        "lon": "-6.363914"
+      }
+    },
+    {
+      "schoolName": "OULART NATIONAL SCHOOL",
+      "numPupils": 138,
+      "distance": {
+        "value": 9.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502644",
+        "lon": "-6.389896"
+      }
+    },
+    {
+      "schoolName": "BLACKWATER NATIONAL SCHOOL",
+      "numPupils": 232,
+      "distance": {
+        "value": 9.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.445663",
+        "lon": "-6.347638"
+      }
+    },
+    {
+      "schoolName": "BALLYCANEW NATIONAL SCHOOL",
+      "numPupils": 230,
+      "distance": {
+        "value": 11.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.610470",
+        "lon": "-6.306575"
+      }
+    },
+    {
+      "schoolName": "BOOLAVOGUE NATIONAL SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 11.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.555145",
+        "lon": "-6.420285"
+      }
+    },
+    {
+      "schoolName": "BALLAGHKEENE NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 12.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.481407",
+        "lon": "-6.428665"
+      }
+    },
+    {
+      "schoolName": "BALLYOUGHTER NATIONAL SCHOOL",
+      "numPupils": 48,
+      "distance": {
+        "value": 13.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.614570",
+        "lon": "-6.366071"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLÁISTE AN ÁTHA",
+      "numPupils": 366,
+      "distance": {
+        "value": 2.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.511658",
+        "lon": "-6.285835"
+      }
+    },
+    {
+      "schoolName": "GOREY COMMUNITY SCHOOL",
+      "numPupils": 1536,
+      "distance": {
+        "value": 17.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.673805",
+        "lon": "-6.287406"
+      }
+    },
+    {
+      "schoolName": "CREAGH COLLEGE",
+      "numPupils": 1067,
+      "distance": {
+        "value": 18.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.675350",
+        "lon": "-6.314063"
+      }
+    },
+    {
+      "schoolName": "GOREY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 260,
+      "distance": {
+        "value": 18.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.681640",
+        "lon": "-6.299700"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BRÍDE",
+      "numPupils": 753,
+      "distance": {
+        "value": 20.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502815",
+        "lon": "-6.559186"
+      }
+    },
+    {
+      "schoolName": "MEANSCOIL GHARMAN",
+      "numPupils": 228,
+      "distance": {
+        "value": 21.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.465145",
+        "lon": "-6.555841"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S C.B.S.",
+      "numPupils": 772,
+      "distance": {
+        "value": 21.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.497444",
+        "lon": "-6.569224"
+      }
+    },
+    {
+      "schoolName": "ENNISCORTHY COMMUNITY COLLEGE",
+      "numPupils": 472,
+      "distance": {
+        "value": 22.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.509655",
+        "lon": "-6.585215"
+      }
+    },
+    {
+      "schoolName": "SELSKAR COLLEGE (COLÁISTE SHEILSCIRE)",
+      "numPupils": 390,
+      "distance": {
+        "value": 24.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.341330",
+        "lon": "-6.467307"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 930,
+      "distance": {
+        "value": 24.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.343796",
+        "lon": "-6.473906"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Kilmuckridge",
+      "route": "872",
+      "destination": "Ballyvaldon",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 1.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.51401100000001",
+        "lon": "-6.28324"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmuckridge",
+      "route": "379",
+      "destination": "Gorey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.514061",
+        "lon": "-6.283281"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clonevin",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.557487",
+        "lon": "-6.235836"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyedmond",
+      "route": "886",
+      "destination": "Boolavogue",
+      "provider": "Matt Whelan Mini Bus Hire",
+      "distance": {
+        "value": 6.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.541811",
+        "lon": "-6.342236"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyedmond",
+      "route": "884",
+      "destination": "Main Street",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 6.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.542066",
+        "lon": "-6.342159"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballygarrett",
+      "route": "879",
+      "destination": "Gorey Shopping Centre",
+      "provider": "Gorey Bus Links",
+      "distance": {
+        "value": 6.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.57347",
+        "lon": "-6.22996"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyvaldon",
+      "route": "872",
+      "destination": "Ballyvaldon",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 6.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.467186211443",
+        "lon": "-6.31450052132911"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballygarrett",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.574016",
+        "lon": "-6.229699"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Courtballyedmond",
+      "route": "884",
+      "destination": "Main Street",
+      "provider": "Wexford Bus",
+      "distance": {
+        "value": 7.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.553258",
+        "lon": "-6.341833"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Monamolin",
+      "route": "886",
+      "destination": "Rafter Street",
+      "provider": "Matt Whelan Mini Bus Hire",
+      "distance": {
+        "value": 7.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.55618",
+        "lon": "-6.34853"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=467",
+  "fetchedAt": "2026-10-05T14:15:20.089Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=467",
+  "kind": "search",
+  "responseSha256": "f8e405b1f02173a174bef843ebae3c26ac0d6c2ec6265e71720c1253597955a1",
+  "files": [
+    {
+      "path": "myhome/10140-2bc5e3612131693a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=467\"].SearchResults",
+      "sha256": "8bbb8ad7ea36ebd8a5da8d2731264b658a0b043ff5e63262671e3612f5dfa85b",
+      "bytes": 125563
+    },
+    {
+      "path": "myhome/10140-2bc5e3612131693a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=467\"] (paging fields)",
+      "sha256": "b70e4d2742d471ab9ce640c3066dc63560c2402a1923829c24e10abef36055b3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/foirnis-burtonport-county-donegal/5006620",
+    "https://www.myhome.ie/residential/brochure/site-ballydevlin-goleen-west-cork/5005553",
+    "https://www.myhome.ie/residential/brochure/16-morton-street-clonmel-co-tipperary/5006618",
+    "https://www.myhome.ie/residential/brochure/ballyoliver-house-ballyoliver-rathvilly-co-carlow/5006614",
+    "https://www.myhome.ie/residential/brochure/115-walkinstown-drive-walkinstown-dublin-12/4955975",
+    "https://www.myhome.ie/residential/brochure/annagh-corrigeenroe-boyle-co-roscommon/5006594",
+    "https://www.myhome.ie/residential/brochure/7-water-street-castlepollard-co-westmeath-mullingar/5006588",
+    "https://www.myhome.ie/residential/brochure/48-betaghstown-wood-bettystown-drogheda-co-louth/5006584",
+    "https://www.myhome.ie/residential/brochure/50-the-avenue-bellingsfield-naas-co-kildare/5006581",
+    "https://www.myhome.ie/residential/brochure/clonkeen-portlaoise-laois/5006557",
+    "https://www.myhome.ie/residential/brochure/82-ballisk-court-donabate-co-dublin/4985399",
+    "https://www.myhome.ie/residential/brochure/ballymaquirk-kanturk/5006562",
+    "https://www.myhome.ie/residential/brochure/drumminnamuckla-south-woodford-galway/5006550",
+    "https://www.myhome.ie/residential/brochure/260-drumnigh-manor-portmarnock-co-dublin/5006554",
+    "https://www.myhome.ie/residential/brochure/257-drumnigh-manor-portmarnock-co-dublin/5006553",
+    "https://www.myhome.ie/residential/brochure/5-cahergal-terrace-old-youghal-road-cork/5000728",
+    "https://www.myhome.ie/residential/brochure/7-wallace-court-ballinlough-county-roscommon/5006510",
+    "https://www.myhome.ie/residential/brochure/shanahoe-lane-shanahoe-co-laois/5006507",
+    "https://www.myhome.ie/residential/brochure/199-the-oaks-newbridge-co-kildare/4990368",
+    "https://www.myhome.ie/residential/brochure/ryehill-monivea-co-galway/5001934"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=468",
+  "paginationLimited": false
+}

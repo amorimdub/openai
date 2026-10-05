@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-118-120-cabra-park-dublin-7-phibsborough-dublin-7/6683846",
+  "fetchedAt": "2026-10-05T09:46:41.951Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-118-120-cabra-park-dublin-7-phibsborough-dublin-7/6683846",
+  "kind": "listing",
+  "responseSha256": "97cb360fd9eef182038bed6d3369eef05e96d1d222cb754b7593a20fb587eae8",
+  "files": [
+    {
+      "path": "daft/01954-0d050dc2606e0b0c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0ce991a53e3dd66c623d09356c4ca53b4037c3049e0ff79b38ba45c6ec863474",
+      "bytes": 23753
+    },
+    {
+      "path": "daft/01954-0d050dc2606e0b0c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "82540d6c08083742f72fd4b588eea9c792a75c6e252e091d09be1499ffef58be",
+      "bytes": 7951
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

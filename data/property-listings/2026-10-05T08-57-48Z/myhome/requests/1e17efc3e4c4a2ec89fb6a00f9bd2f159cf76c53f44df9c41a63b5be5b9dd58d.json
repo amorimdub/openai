@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=100",
+  "fetchedAt": "2026-10-05T11:05:27.341Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=100",
+  "kind": "search",
+  "responseSha256": "3c9e1660424eff8b912ac1ebd9352cb00c13a892482a90230d2d26eceb666816",
+  "files": [
+    {
+      "path": "myhome/02585-1e17efc3e4c4a2ec-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=100\"].SearchResults",
+      "sha256": "89ede45c7b731e11d65b712def195f6062ca0875572f3ea6a8cfd302f956b2ba",
+      "bytes": 111417
+    },
+    {
+      "path": "myhome/02585-1e17efc3e4c4a2ec-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=100\"] (paging fields)",
+      "sha256": "49bd0a95c5c060d8c6af9c4927d440598ddd88593e041005c98b75a415171828",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-2-the-barge-market-point-mullingar-co-westmeath/5030372",
+    "https://www.myhome.ie/residential/brochure/2-stocking-well-close-stocking-avenue-rathfarnham-dublin-16/5030368",
+    "https://www.myhome.ie/residential/brochure/site-14-lakeview-hill-barnacranny-bushy-park-galway-bushypark-galway-city/5030210",
+    "https://www.myhome.ie/residential/brochure/3-castlequarter-clohamon-bunclody-enniscorthy-co-wexford/5030366",
+    "https://www.myhome.ie/residential/brochure/10-kingsmill-court-with-parking-option-bolton-street-north-city-centre-dublin-1/4961912",
+    "https://www.myhome.ie/residential/brochure/meadow-cottage-acres-burtonport-county-donegal/5030365",
+    "https://www.myhome.ie/residential/brochure/1-quinn-terrace-mervue-galway/5030364",
+    "https://www.myhome.ie/residential/brochure/newcastle-cleariestown-wexford/5030340",
+    "https://www.myhome.ie/residential/brochure/coosan-athlone-co-westmeath/5030363",
+    "https://www.myhome.ie/residential/brochure/53-booterstown-avenue-booterstown-county-dublin/5030357",
+    "https://www.myhome.ie/residential/brochure/47-hibernian-buildings-albert-road-ballintemple-cork/5021964",
+    "https://www.myhome.ie/residential/brochure/23-vavasour-square-sandymount-dublin-4/5024646",
+    "https://www.myhome.ie/residential/brochure/2-sarsfield-park-lucan-dublin/5030358",
+    "https://www.myhome.ie/residential/brochure/11-woodstown-lane-woodstown-village-knocklyon-dublin-16/5030356",
+    "https://www.myhome.ie/residential/brochure/13-moat-lane-knocksedan-demesne-swords-county-dublin/5030329",
+    "https://www.myhome.ie/residential/brochure/17-belvedere-square-parnell-square-dublin-1/5014800",
+    "https://www.myhome.ie/residential/brochure/36-waterside-park-malahide-county-dublin/5017496",
+    "https://www.myhome.ie/residential/brochure/apartment-23-shelbourne-park-apartments-ringsend-dublin-4/5028201",
+    "https://www.myhome.ie/residential/brochure/glenmore-aughnacliffe-co-longford/5030354",
+    "https://www.myhome.ie/residential/brochure/13-the-crescent-miltown-malbay-clare/5030342"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=101",
+  "paginationLimited": false
+}

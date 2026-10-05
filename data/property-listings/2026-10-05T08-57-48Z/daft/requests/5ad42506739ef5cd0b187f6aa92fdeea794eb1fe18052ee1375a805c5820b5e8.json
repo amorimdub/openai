@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/grange-bohermeen-co-meath/6671105",
+  "fetchedAt": "2026-10-05T09:29:31.594Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/grange-bohermeen-co-meath/6671105",
+  "kind": "listing",
+  "responseSha256": "e6cb843555d1667e5420c983f6cb93cf3030e4473da3665b230f37e61fe71866",
+  "files": [
+    {
+      "path": "daft/01268-5ad42506739ef5cd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "356ebf6e4d69b5367e48bcc20491bf67439d374543f9822232eb1208e10e51d0",
+      "bytes": 60413
+    },
+    {
+      "path": "daft/01268-5ad42506739ef5cd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "29650c686af478b5f09cd7ceee3fe67268a676daa5507afa6bb299852f415e2b",
+      "bytes": 8043
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

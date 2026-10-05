@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-61-block-10a-tallaght-cross-west-tallaght-dublin-24/6681526",
+  "fetchedAt": "2026-10-05T09:11:34.548Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-61-block-10a-tallaght-cross-west-tallaght-dublin-24/6681526",
+  "kind": "listing",
+  "responseSha256": "991d61e7f2e773e33ec68d2eb7a425d18d11e6230a170a1ad742e23ef538a6d0",
+  "files": [
+    {
+      "path": "daft/00551-b7988c77804f5404-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "29674e4ed5a1031f918828a65b55590e88426dd7cb6eb22b8b9cbc6c9c5e8ad4",
+      "bytes": 16566
+    },
+    {
+      "path": "daft/00551-b7988c77804f5404-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "82cbd9ddadf76d479b4765cee7a20e6fddc7724ff606bbdbcd03b5d29be84b7e",
+      "bytes": 8091
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/roselawn-knocksinna-court-foxrock-co-dublin/6606884",
+  "fetchedAt": "2026-10-05T09:22:45.928Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/roselawn-knocksinna-court-foxrock-co-dublin/6606884",
+  "kind": "listing",
+  "responseSha256": "b4d3c57bf8ceee074fb3469fb4954bc1d237c7dd1aafe9186c40f307007e900d",
+  "files": [
+    {
+      "path": "daft/00998-eb545405f9b27345-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8d4c5f0557c156a20bb2bc05cb36a2a93ce8396766044e637802405c4958d38e",
+      "bytes": 37188
+    },
+    {
+      "path": "daft/00998-eb545405f9b27345-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "69243a85685f81a414b28bc659fa059140b307cb712e622a792dcc701ba85f24",
+      "bytes": 8183
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

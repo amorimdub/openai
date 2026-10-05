@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=82",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=82",
+  "fetchedAt": "2026-10-05T09:54:02.881Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "3f0c11d569672c8f8b7dc0dbc71f8b8ed808c169d909163775eac371dc42d926",
+  "files": [
+    {
+      "path": "myhome/02241-e821fbb765f1558a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=82\"].SearchResults",
+      "sha256": "244ea373bf780bdffcb98d4497f39278975eda2e9ac1ffa2ba430c4e09564452",
+      "bytes": 127993
+    },
+    {
+      "path": "myhome/02241-e821fbb765f1558a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=82\"] (paging fields)",
+      "sha256": "93bc65595c58a27412f67d31d316919d90e4ce2dd10a9cd0cd5e116ee7c34981",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-kiltipper-gate-tallaght-dublin-24/5023147",
+    "https://www.myhome.ie/residential/brochure/6-millfield-the-links-portmarnock-county-dublin/5023037",
+    "https://www.myhome.ie/residential/brochure/1-castleland-park-walk-balbriggan-dublin/5030753",
+    "https://www.myhome.ie/residential/brochure/baltrasna-mullingar-mullingar-co-westmeath-mullingar-westmeath/5030744",
+    "https://www.myhome.ie/residential/brochure/rathnamuddagh-dysart-castletown-westmeath/5030742",
+    "https://www.myhome.ie/residential/brochure/kilcurry-colehill-moydow-ballymahon-longford/5030741",
+    "https://www.myhome.ie/residential/brochure/155-ratoath-road-cabra-dublin-7/5030740",
+    "https://www.myhome.ie/residential/brochure/38-rockfield-avenue-perrystown-dublin-12/5030739",
+    "https://www.myhome.ie/residential/brochure/apt-268-parklands-northwood-santry-dublin-9/5023753",
+    "https://www.myhome.ie/residential/brochure/11-tegan-court-screggan-tullamore-co-offaly/5030738",
+    "https://www.myhome.ie/residential/brochure/4-roseville-terrace-dundrum-road-dundrum-dublin-14/4996450",
+    "https://www.myhome.ie/residential/brochure/21-shannon-haven-dromod-co-leitrim/5030736",
+    "https://www.myhome.ie/residential/brochure/7-meadowbrook-marshalstown-enniscorthy-co-wexford/5030735",
+    "https://www.myhome.ie/residential/brochure/canal-view-sallins-co-kildare/5025526",
+    "https://www.myhome.ie/residential/brochure/22-brickfield-drive-drimnagh-dublin-12/5030734",
+    "https://www.myhome.ie/residential/brochure/17-glentow-road-whitehall-dublin-9/5030733",
+    "https://www.myhome.ie/residential/brochure/24-the-dunes-portmarnock-county-dublin/4999875",
+    "https://www.myhome.ie/residential/brochure/river-cottage-feorus-east-kenmare-co-kerry/5030732",
+    "https://www.myhome.ie/residential/brochure/kilpatrick-13-albert-road-upper-glenageary-co-dublin/5000619",
+    "https://www.myhome.ie/residential/brochure/1-irishtown-road-irishtown-dublin-4/5027523"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=83",
+  "paginationLimited": false
+}

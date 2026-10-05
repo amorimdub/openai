@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=232",
+  "fetchedAt": "2026-10-05T12:14:07.673Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=232",
+  "kind": "search",
+  "responseSha256": "eabe36da8bd79858cc51b4da42f03c8ea2a4f745174e076b4efb1e3bf66830f3",
+  "files": [
+    {
+      "path": "myhome/05307-462a3c061a78be9f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=232\"].SearchResults",
+      "sha256": "f2c5b88ffdd952cbfbaaaa1b9ee30d4896d8f5ba4c3c2a86d4e39c4746061049",
+      "bytes": 111013
+    },
+    {
+      "path": "myhome/05307-462a3c061a78be9f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=232\"] (paging fields)",
+      "sha256": "c6e2335b59bfe20053461e58f05fb312248acca19821b612e995436cb4915068",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/255-swords-road-whitehall-dublin-9/5026651",
+    "https://www.myhome.ie/residential/brochure/cherryvalley-park-rathmolyon-co-meath-3-bedroom-semi-detached/4967647",
+    "https://www.myhome.ie/residential/brochure/cherryvalley-park-rathmolyon-co-meath-4-bedroom-semi-detached/4967657",
+    "https://www.myhome.ie/residential/brochure/5-woodbine-grove-ballygannon-rathdrum-wicklow/5017575",
+    "https://www.myhome.ie/residential/brochure/house-workshop-yard-gardens-mullagh-lane-dromiskin-co-louth/5026652",
+    "https://www.myhome.ie/residential/brochure/98-aghnaharna-drive-stradbally-road-portlaoise-co-laois/5019683",
+    "https://www.myhome.ie/residential/brochure/233-grace-park-heights-drumcondra-dublin-9/5026459",
+    "https://www.myhome.ie/residential/brochure/45-home-farm-park-drumcondra-dublin-9/5026646",
+    "https://www.myhome.ie/residential/brochure/brohatna-ravensdale-louth/5006694",
+    "https://www.myhome.ie/residential/brochure/8-inchicronan-crusheen-county-clare/5026642",
+    "https://www.myhome.ie/residential/brochure/79-avondale-park-raheny-dublin-5/5026641",
+    "https://www.myhome.ie/residential/brochure/2-aglish-roscrea-tipperary/5026637",
+    "https://www.myhome.ie/residential/brochure/1-roshine-acres-burtonport-county-donegal/5026635",
+    "https://www.myhome.ie/residential/brochure/39-racecourse-heights-tralee-kerry/5026561",
+    "https://www.myhome.ie/residential/brochure/lurganboy-drum-monaghan/5024684",
+    "https://www.myhome.ie/residential/brochure/forties-ferns-enniscorthy-county-wexford/5026630",
+    "https://www.myhome.ie/residential/brochure/11-kickham-road-inchicore-dublin-8/5026605",
+    "https://www.myhome.ie/residential/brochure/moanmore-commons-callan-kilkenny/5026593",
+    "https://www.myhome.ie/residential/brochure/39-trinity-garden-drogheda-louth/5026620",
+    "https://www.myhome.ie/residential/brochure/33-beech-park-blackrock-co-louth/5026622"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=233",
+  "paginationLimited": false
+}

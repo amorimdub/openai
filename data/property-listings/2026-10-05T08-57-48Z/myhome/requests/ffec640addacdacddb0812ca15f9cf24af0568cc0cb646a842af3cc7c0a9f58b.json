@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=397",
+  "fetchedAt": "2026-10-05T13:39:11.974Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=397",
+  "kind": "search",
+  "responseSha256": "99949b83658946117c4681c78beb77ad68e6ea01156c123a15afbd94c719c056",
+  "files": [
+    {
+      "path": "myhome/08698-ffec640addacdacd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=397\"].SearchResults",
+      "sha256": "c3b7723c5324a6b1d4d01ea762d429098776ba2528c2b3c63e030f0ef0982fd8",
+      "bytes": 113749
+    },
+    {
+      "path": "myhome/08698-ffec640addacdacd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=397\"] (paging fields)",
+      "sha256": "47635afc2b394e9085dcf03c338ae9599b9139fffdc0b01916e1c4e324f75602",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/209-brandon-road-drimnagh-dublin-12/5004980",
+    "https://www.myhome.ie/residential/brochure/mountain-park-house-mountain-park-carlingford-county-louth/5015459",
+    "https://www.myhome.ie/residential/brochure/139-fearann-ri-doughiska-galway/5015449",
+    "https://www.myhome.ie/residential/brochure/21-canterbrook-trim-road-navan-co-meath/5015445",
+    "https://www.myhome.ie/residential/brochure/sligo-bay-lodge-rosses-point-co-sligo/5015443",
+    "https://www.myhome.ie/residential/brochure/37-heathfield-close-kinnegad-co-westmeath-mullingar/5015442",
+    "https://www.myhome.ie/residential/brochure/apt-40-hunters-hall-ballycullen-dublin-24/5015436",
+    "https://www.myhome.ie/residential/brochure/kilbeg-adare-limerick/5015433",
+    "https://www.myhome.ie/residential/brochure/107-castle-farm-shankill-dublin-18/5015430",
+    "https://www.myhome.ie/residential/brochure/willow-cottage-lickowen-castletownshend-west-cork/5015429",
+    "https://www.myhome.ie/residential/brochure/243-kilmacud-road-upper-goatstown-dublin-14/4977749",
+    "https://www.myhome.ie/residential/brochure/11-an-rath-bheag-longford-abbeylara-co-longford/5015426",
+    "https://www.myhome.ie/residential/brochure/6-cappa-drive-cappa-kilrush-co-clare/5015404",
+    "https://www.myhome.ie/residential/brochure/ballybay-road-carrickmacross-co-monaghan/5015401",
+    "https://www.myhome.ie/residential/brochure/10-kinvara-close-ballyvolane-cork/5015376",
+    "https://www.myhome.ie/residential/brochure/altnagapple-killybegs-county-donegal/5015382",
+    "https://www.myhome.ie/residential/brochure/53-ballyfermot-crescent-ballyfermot-dublin-10/4990711",
+    "https://www.myhome.ie/residential/brochure/15-fort-village-cavan-county-cavan/5015369",
+    "https://www.myhome.ie/residential/brochure/house-no-4-willowview-the-colt-collection-torquay-road-golf-lane-foxrock-dublin/5008113",
+    "https://www.myhome.ie/residential/brochure/6-ballycullen-green-ballycullen-dublin-24/5015366"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=398",
+  "paginationLimited": false
+}

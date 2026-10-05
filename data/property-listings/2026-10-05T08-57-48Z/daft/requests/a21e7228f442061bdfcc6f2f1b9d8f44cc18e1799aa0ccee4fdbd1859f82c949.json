@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/killedmond-borris-killedmond-co-carlow/6677019",
+  "fetchedAt": "2026-10-05T09:19:48.711Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/killedmond-borris-killedmond-co-carlow/6677019",
+  "kind": "listing",
+  "responseSha256": "3ab5f121f413d1fee5b686cbb1dd63439e52b3c9632cca87301fb628d9cf33e2",
+  "files": [
+    {
+      "path": "daft/00880-a21e7228f442061b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c50cd9941e4e10e203141dd59816b41f310eae42fdf60ae930a55acee6cd20e1",
+      "bytes": 67513
+    },
+    {
+      "path": "daft/00880-a21e7228f442061b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1a3456e0eb507e1343f774498b747007f8e5684c460757a971c9a72f23b45653",
+      "bytes": 8137
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

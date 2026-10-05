@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/34-birch-house-red-arches-park-baldoyle-dublin-13/6662038",
+  "fetchedAt": "2026-10-05T09:22:41.420Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/34-birch-house-red-arches-park-baldoyle-dublin-13/6662038",
+  "kind": "listing",
+  "responseSha256": "49f0b3e8ce5980fd8cf2f1f5ed2941821760a464ec1be7c9ae03e8b9dab0c36c",
+  "files": [
+    {
+      "path": "daft/00995-c927b8c878a62e82-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "74d47fc173e9197efe71fafed2c3fb9f366a8797d719db64dee5c02884d5f94c",
+      "bytes": 84104
+    },
+    {
+      "path": "daft/00995-c927b8c878a62e82-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7e04ea0b81c64c6bed956a48a99621ba2555a03dd6c305e2e0b00b0d5470a821",
+      "bytes": 8130
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=176",
+  "fetchedAt": "2026-10-05T11:45:15.479Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=176",
+  "kind": "search",
+  "responseSha256": "f9bbfa1df489b038aa422fc7984efd119e0a8df32de51094bc2481dd3afd4edd",
+  "files": [
+    {
+      "path": "myhome/04155-c1e453a53f2aa608-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=176\"].SearchResults",
+      "sha256": "8b3d6a53a370f724d931701652f2f6c2971504cbb7ef00ab2ee3b92ec2aa98e9",
+      "bytes": 108051
+    },
+    {
+      "path": "myhome/04155-c1e453a53f2aa608-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=176\"] (paging fields)",
+      "sha256": "5d0ab275aa41e1b084c54b2e090d6f565148db087798a26a9deff107d140920f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/43-the-phoenix-riverpark-apartments-islandbridge-dublin-8/4989572",
+    "https://www.myhome.ie/residential/brochure/6-cuala-road-cabra-dublin-7/5004884",
+    "https://www.myhome.ie/residential/brochure/3-parkside-view-off-nephin-road-navan-road-dublin-7/5017211",
+    "https://www.myhome.ie/residential/brochure/51-nephin-road-navan-road-dublin-7/5004993",
+    "https://www.myhome.ie/residential/brochure/32-castleview-lawns-swords-county-dublin/5028272",
+    "https://www.myhome.ie/residential/brochure/73-hampton-square-navan-road-dublin-7/5022030",
+    "https://www.myhome.ie/residential/brochure/15-oak-lawn-tanyard-wood-millstreet-cork/5027402",
+    "https://www.myhome.ie/residential/brochure/36-dunbur-glen-wicklow-town-wicklow/5028271",
+    "https://www.myhome.ie/residential/brochure/apartment-58-turveywoods-donabate-county-dublin/5027628",
+    "https://www.myhome.ie/residential/brochure/136-kilmacud-road-upper-kilmacud-dublin/5027364",
+    "https://www.myhome.ie/residential/brochure/17-castle-village-crescent-celbridge-county-kildare/5028268",
+    "https://www.myhome.ie/residential/brochure/18-deerpark-ballinasloe-co-galway/5028266",
+    "https://www.myhome.ie/residential/brochure/32-forest-crescent-swords-co-dublin/5028264",
+    "https://www.myhome.ie/residential/brochure/139a-walkinstown-drive-walkinstown-dublin-12/4963501",
+    "https://www.myhome.ie/residential/brochure/103-rockford-manor-blackrock-county-dublin/5028259",
+    "https://www.myhome.ie/residential/brochure/4-cypress-grove-north-templeogue-dublin-6w/5028261",
+    "https://www.myhome.ie/residential/brochure/2-connolly-gardens-inchicore-dublin-8/5028260",
+    "https://www.myhome.ie/residential/brochure/leadon-navigation-road-mallow-co-cork/5028257",
+    "https://www.myhome.ie/residential/brochure/12-ballard-road-miltown-malbay-co-clare-miltown-malbay-clare/5028244",
+    "https://www.myhome.ie/residential/brochure/27-woodbine-avenue-booterstown-co-dublin/5028255"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=177",
+  "paginationLimited": false
+}

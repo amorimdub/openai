@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-23-block-a-south-terrace-court-cork-city-centre-co-cork/6683676",
+  "fetchedAt": "2026-10-05T09:48:04.590Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-23-block-a-south-terrace-court-cork-city-centre-co-cork/6683676",
+  "kind": "listing",
+  "responseSha256": "f797a2a11d9ebeaeb19cb7adcf57257971ae056446fa108ae3cb803c99b84cba",
+  "files": [
+    {
+      "path": "daft/02009-ec8acd829448011e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "50211faf5f24077c4b599acf1369cc7d7f26135711368c09009ae68f22140c3f",
+      "bytes": 17444
+    },
+    {
+      "path": "daft/02009-ec8acd829448011e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5e3b3ce7218ca3b1247c3bc47a20113f9501e327496c208d03715afaf9391337",
+      "bytes": 8169
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

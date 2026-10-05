@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/dungourney-midleton-co-cork/6665164",
+  "fetchedAt": "2026-10-05T09:12:16.618Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/dungourney-midleton-co-cork/6665164",
+  "kind": "listing",
+  "responseSha256": "0828a15aead5f962ed11fc2e481025167b8044544443806570167985c36fc100",
+  "files": [
+    {
+      "path": "daft/00579-bde861aa7bc65f11-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9c8c88233ebe69af5601411b8fb4d31c78ef72ed5cd5020c784626961d39ad25",
+      "bytes": 55573
+    },
+    {
+      "path": "daft/00579-bde861aa7bc65f11-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2a4ebb8706a9af688fd74d3f480c3de878e111065f6b8e471809084a1667bd32",
+      "bytes": 7995
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

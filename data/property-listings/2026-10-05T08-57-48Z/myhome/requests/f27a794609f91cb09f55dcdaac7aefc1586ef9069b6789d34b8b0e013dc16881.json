@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=134",
+  "fetchedAt": "2026-10-05T11:23:18.852Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=134",
+  "kind": "search",
+  "responseSha256": "b74350b4ceddbc85623836ec3dca43e5c29a340711a21942683b6bd2d0ae248e",
+  "files": [
+    {
+      "path": "myhome/03279-f27a794609f91cb0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=134\"].SearchResults",
+      "sha256": "fa7637fe4ad4b1cb129d4c674496da3e1766b78e5d1c679aef40cfe064b49479",
+      "bytes": 105110
+    },
+    {
+      "path": "myhome/03279-f27a794609f91cb0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=134\"] (paging fields)",
+      "sha256": "049068d0a2c79e850d8d1994eedf06c53ce9c70f642b31b84d3498217d7f4a8e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/64-clonattin-village-gorey-wexford/5008433",
+    "https://www.myhome.ie/residential/brochure/sandyhill-westport-mayo/5029389",
+    "https://www.myhome.ie/residential/brochure/36-college-manor-drumcondra-dublin-9/5016674",
+    "https://www.myhome.ie/residential/brochure/1-ardevan-rise-monasterevin-co-kildare/5029379",
+    "https://www.myhome.ie/residential/brochure/croneyhorn-upper-carnew-county-wicklow/5029391",
+    "https://www.myhome.ie/residential/brochure/124-butler-s-view-ballinglanna-glanmire-cork/5029383",
+    "https://www.myhome.ie/residential/brochure/circa-0-75-acre-site-at-cloonacurry-bekan-claremorris-mayo/5013410",
+    "https://www.myhome.ie/residential/brochure/40-cammock-purcell-kilmainham-dublin-8-co-dublin/5029385",
+    "https://www.myhome.ie/residential/brochure/3-ardagh-drive-blackrock-county-dublin/5024979",
+    "https://www.myhome.ie/residential/brochure/apartment-40-westend-gate-tallaght-dublin-24/5029375",
+    "https://www.myhome.ie/residential/brochure/71-the-clayton-the-gasworks-ringsend-dublin-4/5017859",
+    "https://www.myhome.ie/residential/brochure/44-the-clayton-the-gasworks-ringsend-dublin-4/5019463",
+    "https://www.myhome.ie/residential/brochure/15-merrion-court-ailesbury-road-ballsbridge-dublin-4/5029372",
+    "https://www.myhome.ie/residential/brochure/1-knockmaree-chapelizod-dublin-20/5029371",
+    "https://www.myhome.ie/residential/brochure/5-the-thicket-hainault-road-foxrock-dublin-18/5026836",
+    "https://www.myhome.ie/residential/brochure/16-burnaby-mill-greystones-wicklow/5029305",
+    "https://www.myhome.ie/residential/brochure/34-straffan-avenue-straffan-wood-maynooth-co-kildare/5029368",
+    "https://www.myhome.ie/residential/brochure/4-orchard-close-kinnegad-westmeath/5029361",
+    "https://www.myhome.ie/residential/brochure/carnamuggagh-letterkenny-co-donegal/5029365",
+    "https://www.myhome.ie/residential/brochure/150-clonkeen-road-blackrock-co-dublin/5026892"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=135",
+  "paginationLimited": false
+}

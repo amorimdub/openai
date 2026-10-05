@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/18-castleview-park-swords-co-dublin/6683076",
+  "fetchedAt": "2026-10-05T09:51:16.916Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/18-castleview-park-swords-co-dublin/6683076",
+  "kind": "listing",
+  "responseSha256": "e58f5174911369aee0b91a02f4e817ba87870414642bc85f0e9c4bfa9afe3e02",
+  "files": [
+    {
+      "path": "daft/02137-ab587bc06b169858-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dec5ad256ee86a4633de5e6de3d1a74152d1654a962afa8e45eacaff996d128a",
+      "bytes": 28139
+    },
+    {
+      "path": "daft/02137-ab587bc06b169858-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1371f38597bff92677d68b3561e324eea7736f1c426578157bd7f72f00a9acbc",
+      "bytes": 8119
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/25-fitzwilliam-court-winton-road-ranelagh-dublin-6/6682993",
+  "fetchedAt": "2026-10-05T09:51:57.477Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/25-fitzwilliam-court-winton-road-ranelagh-dublin-6/6682993",
+  "kind": "listing",
+  "responseSha256": "0fd01a2f350fd1587fcaeaebe77a5184dbe923c3d0a932bf908ac7b9620ce9c5",
+  "files": [
+    {
+      "path": "daft/02164-a3f5cac077d4f8c3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "34f5296c67a66df435b5da4cce28a3e511194d41922e46d8afa87dfdf6194466",
+      "bytes": 46822
+    },
+    {
+      "path": "daft/02164-a3f5cac077d4f8c3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "adb30f83fa3b14a3e2d1938889049c3cd7d8be72ba1391ce3445dff1f7d1b246",
+      "bytes": 8142
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

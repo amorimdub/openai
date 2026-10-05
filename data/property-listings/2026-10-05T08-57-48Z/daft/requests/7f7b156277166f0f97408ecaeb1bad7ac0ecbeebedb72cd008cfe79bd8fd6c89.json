@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ennis-ruan-co-clare/6652998",
+  "fetchedAt": "2026-10-05T09:15:21.417Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ennis-ruan-co-clare/6652998",
+  "kind": "listing",
+  "responseSha256": "a21f3abb44c54609dc8ed4aa59577dd865ff58a88fe2a9773fc6c5e257853676",
+  "files": [
+    {
+      "path": "daft/00702-7f7b156277166f0f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "771fbef563c781b495e75568aff097609017788a825866866174be35ebc86bc1",
+      "bytes": 34366
+    },
+    {
+      "path": "daft/00702-7f7b156277166f0f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "913583065e0bb2eb4208fa0429bdfebbbb6a27a297d78e1b424ddacf9e190386",
+      "bytes": 8049
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

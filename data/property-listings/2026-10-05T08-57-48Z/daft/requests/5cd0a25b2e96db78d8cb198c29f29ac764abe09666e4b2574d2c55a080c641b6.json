@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/6-oldbawn-way-tallaght-dublin-24/6670541",
+  "fetchedAt": "2026-10-05T09:29:48.123Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/6-oldbawn-way-tallaght-dublin-24/6670541",
+  "kind": "listing",
+  "responseSha256": "baaeeae5314523c97850038b9d242db88cf91063528984e10cb54973a0737ad7",
+  "files": [
+    {
+      "path": "daft/01279-5cd0a25b2e96db78-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d962dc4a4074aa020b234440060b95c1d05ee7fc89e517dd865fa63ff052d418",
+      "bytes": 144118
+    },
+    {
+      "path": "daft/01279-5cd0a25b2e96db78-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2b84ca243b23ca09d826711f1733eb594918f67e49a09677f7c43a8ab2fbf5b0",
+      "bytes": 8153
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

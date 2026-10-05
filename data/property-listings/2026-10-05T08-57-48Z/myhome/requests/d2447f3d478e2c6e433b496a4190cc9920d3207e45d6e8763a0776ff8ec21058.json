@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=159",
+  "fetchedAt": "2026-10-05T11:36:24.835Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=159",
+  "kind": "search",
+  "responseSha256": "ddd7a3b4ebb87f706a8fe6f4e7922f83ae4f2063b61d84d8e317c8e7c10ee607",
+  "files": [
+    {
+      "path": "myhome/03802-d2447f3d478e2c6e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=159\"].SearchResults",
+      "sha256": "a202d9c8b30619fe6fdf53f76b73bea04b70395d4c6692123ba5c53e5e85ba4a",
+      "bytes": 120636
+    },
+    {
+      "path": "myhome/03802-d2447f3d478e2c6e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=159\"] (paging fields)",
+      "sha256": "f9855383f7a8c11cac2919d7b8f7538e2f539275507343a9939bba9efa42adca",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-earsfield-court-79-87-francis-street-south-city-centre-dublin-8/5028737",
+    "https://www.myhome.ie/residential/brochure/30-courtyard-lodges-fota-cork/5028744",
+    "https://www.myhome.ie/residential/brochure/18-stationcourt-way-coolmine-dublin-15/5028736",
+    "https://www.myhome.ie/residential/brochure/69-welwyn-road-maryborough-woods-douglas-cork/5028305",
+    "https://www.myhome.ie/residential/brochure/24-holly-court-broomfield-village-midleton-cork/5028739",
+    "https://www.myhome.ie/residential/brochure/14-healthfield-road-terenure-dublin-6/5003301",
+    "https://www.myhome.ie/residential/brochure/carrigeen-belgooly-co-cork/5028743",
+    "https://www.myhome.ie/residential/brochure/23-knocknamona-crescent-letterkenny-county-donegal/5028741",
+    "https://www.myhome.ie/residential/brochure/green-edge-shanaghy-heights-ballina-co-mayo/5028740",
+    "https://www.myhome.ie/residential/brochure/apartment-55-abberley-square-tallaght-dublin-24/5028729",
+    "https://www.myhome.ie/residential/brochure/4-ashbrook-castlelake-carrigtwohill-cork/5028733",
+    "https://www.myhome.ie/residential/brochure/2-rooskey-lock-rooskey-co-leitrim/5028735",
+    "https://www.myhome.ie/residential/brochure/30-vevay-crescent-bray-co-wicklow/5028732",
+    "https://www.myhome.ie/residential/brochure/72-shrewsbury-park-ballsbridge-dublin-4/4989744",
+    "https://www.myhome.ie/residential/brochure/fahee-kilmacow-co-kilkenny/5024616",
+    "https://www.myhome.ie/residential/brochure/2-coultry-drive-dublin-9/5001949",
+    "https://www.myhome.ie/residential/brochure/3-great-western-villas-phibsboro-dublin-7/5028727",
+    "https://www.myhome.ie/residential/brochure/bergheim-baily-howth-county-dublin/4991664",
+    "https://www.myhome.ie/residential/brochure/sebring-claremont-rd-howth-county-dublin/5001358",
+    "https://www.myhome.ie/residential/brochure/2-ferndale-court-rathmichael-allies-river-road-bray-dublin/5028721"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=160",
+  "paginationLimited": false
+}

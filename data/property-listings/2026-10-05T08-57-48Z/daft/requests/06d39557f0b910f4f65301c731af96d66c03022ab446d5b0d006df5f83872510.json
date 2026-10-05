@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=29",
+  "fetchedAt": "2026-10-05T09:32:03.285Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=29",
+  "kind": "search",
+  "responseSha256": "95b483a019911cd90d95892bda60678775797c3358cba5bbe6fcf3db628b8fbe",
+  "files": [
+    {
+      "path": "daft/01369-06d39557f0b910f4-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "0b2833e4b3079039a53a60ad6095bacd8beac514ab7a271cbaed6deb524ec5c2",
+      "bytes": 284452
+    },
+    {
+      "path": "daft/01369-06d39557f0b910f4-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01369-06d39557f0b910f4-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "09703ae20d16870a1de85e558312c8126fab7b84185eb65fbb56b922449469a7",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/6-bridgets-court-longford-road-drumlish-co-longford/6685889",
+    "https://www.daft.ie/for-rent/102-fort-hill-moneygurney-rochestown-co-cork/6685881",
+    "https://www.daft.ie/for-rent/42-meadow-walk-castle-heights-kilmoney-carrigaline-co-cork/6684975",
+    "https://www.daft.ie/for-rent/the-gables-castle-avenue-silversprings-co-cork/6685885",
+    "https://www.daft.ie/for-rent/fishermans-green-strand-street-malahide-co-dublin-malahide-co-dublin/6684534",
+    "https://www.daft.ie/for-rent/mountain-view-headlands-putland-road-bray-co-wicklow/6685848",
+    "https://www.daft.ie/for-rent/lower-road-bunratty-east-bunratty-co-clare/6685892",
+    "https://www.daft.ie/for-rent/51-the-steeples-chapelizod-chapelizod-dublin-20/6685891",
+    "https://www.daft.ie/for-rent/2-bed-apartment-culvert-apartments-the-coombe-dublin-8/6685868",
+    "https://www.daft.ie/for-rent/saint-marys-3-laburnum-park-wilton-co-cork/6685876",
+    "https://www.daft.ie/for-rent/belfry-hall-block-d-dublin-24/6685875",
+    "https://www.daft.ie/for-rent/black-quay-hollyhill-kinsale-co-cork-kinsale-co-cork/6685866",
+    "https://www.daft.ie/for-rent/jamess-street-dublin-8/6685870",
+    "https://www.daft.ie/for-rent/the-burgage-dalkey-dalkey-co-dublin/6685845",
+    "https://www.daft.ie/for-rent/block-4-parklands-northwood-santry-dublin-9/6685861",
+    "https://www.daft.ie/for-rent/church-road-kilmuckridge-gorey-co-wexford/6685859",
+    "https://www.daft.ie/for-rent/10-rock-street-cloyne-co-cork/6682598",
+    "https://www.daft.ie/for-rent/17-vicar-street-cork-cork-city-centre-co-cork/6685846",
+    "https://www.daft.ie/for-rent/17-lima-lawn-magazine-road-cork-city-centre-co-cork/6685154",
+    "https://www.daft.ie/for-rent/33-oldcourt-ballincollig-co-cork/6685839"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=30",
+  "paginationLimited": false
+}

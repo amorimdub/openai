@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-fountain-view-bailieborough-bailieborough-co-cavan/6684920",
+  "fetchedAt": "2026-10-05T09:39:42.768Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-fountain-view-bailieborough-bailieborough-co-cavan/6684920",
+  "kind": "listing",
+  "responseSha256": "08c2ff73f9511b41b8fb3eead273792e8bdf6c4ab4bafd57176e1ebb224b7534",
+  "files": [
+    {
+      "path": "daft/01675-d61cd144f4ed8c9a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "498070afde6af2a0aa0d9f58535cc0573e09ca1d6a64567f40cc85004aa791a7",
+      "bytes": 16781
+    },
+    {
+      "path": "daft/01675-d61cd144f4ed8c9a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "84f361433c238786426f6951f51fedec6aefcccbf1a04d1f3f83c477ae18d2d6",
+      "bytes": 8228
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

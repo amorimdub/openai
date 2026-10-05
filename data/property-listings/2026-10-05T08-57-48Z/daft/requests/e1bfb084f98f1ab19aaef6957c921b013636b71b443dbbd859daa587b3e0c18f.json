@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/129-griffith-avenue-dublin-9/6660695",
+  "fetchedAt": "2026-10-05T09:42:19.000Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/129-griffith-avenue-dublin-9/6660695",
+  "kind": "listing",
+  "responseSha256": "8c42031f74332a853df0328110d90e5cf7fcde77b48dd2890947f0dba0493781",
+  "files": [
+    {
+      "path": "daft/01779-e1bfb084f98f1ab1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "66f1652ead424ed9d1b04fc775bb5c0c581410bd0bb0df64362dbc1665b98413",
+      "bytes": 41483
+    },
+    {
+      "path": "daft/01779-e1bfb084f98f1ab1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "93247a7f4a7688d56b4ccd4c9677c0f3760949a3d63821ed751d62ac573c12fb",
+      "bytes": 8180
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

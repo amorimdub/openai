@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-ailesbury-road-ballsbridge-dublin-4/6282607",
+  "fetchedAt": "2026-10-05T09:35:45.519Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-ailesbury-road-ballsbridge-dublin-4/6282607",
+  "kind": "listing",
+  "responseSha256": "6c65073f99801f95329f97ac859fe0e01800a6ccbdeab81fbd8fa41adb9a62d7",
+  "files": [
+    {
+      "path": "daft/01517-930c236238e8a531-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8812075b877358ee87540d8fa01a4b75194e24114a74db220f66b0a8f583a59d",
+      "bytes": 117510
+    },
+    {
+      "path": "daft/01517-930c236238e8a531-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7c33afd57090c31e0d053380d0412b4a7fec6596b1ba5b28b402cb8c6309829b",
+      "bytes": 8279
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/scholarstown-wood-scholarstown-road-rathfarnham-co-dublin/6046072",
+  "fetchedAt": "2026-10-05T09:06:34.212Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/scholarstown-wood-scholarstown-road-rathfarnham-co-dublin/6046072",
+  "kind": "listing",
+  "responseSha256": "76f971a949a108021e2a8ae795672924a7b0392c052081baed32984e4ed32905",
+  "files": [
+    {
+      "path": "daft/00351-e973876d0f6b9095-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "316117cac3c6fbece116501667dc576c6acbf15e730fdf2f7a538cdc93831232",
+      "bytes": 197009
+    },
+    {
+      "path": "daft/00351-e973876d0f6b9095-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f7b04c284012c8608ecb118fb5a6bc460d5a147fea3d482a5ec7dee1ea293bb2",
+      "bytes": 8144
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

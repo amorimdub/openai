@@ -1,0 +1,712 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "greaghnafarna ballinaglera coleitrim",
+    "GroupId": 9788,
+    "Address": "Greaghnafarna",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/963fff39-d0d3-4c3c-aeb6-13556f39fd18_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/ee0a3a72-a832-4141-af09-84c3dc765655_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/088bdf13-1c36-4a07-af76-c5902ce41f8f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/81524281-bb32-4157-adf5-2fd7e252f1f0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/2886eb4e-8c67-43b5-9727-f7d6fbab8489_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/f738453f-07e1-4b62-9afe-87ba3dee775d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/98d63d0e-bb58-4730-86ec-97f29d95d7c7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/d053b09f-e3c5-4bf1-bfc3-f82a57f9794a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c05d3b30-4b7b-47d1-b314-e57f34c0dd43_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/86cf26f1-c293-4840-8f83-73ebc9ee9f44_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c9a9fb9e-b2a7-4a5a-8cf2-3caf4b7fdeef_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 64.5,
+    "MaxSize": 64.5,
+    "BerRating": "E",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€145,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "65",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5018540,
+        "DisplayAddress": "Greaghnafarna, Ballinaglera, Leitrim",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "f1b318f5-5b54-4169-b137-69e810c8c4b0",
+              "Filename": "73e9594a-7b49-4340-8952-db3464285ad0.jpg",
+              "Caption": "2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "17b4035f-b565-4f9b-ab6f-76072884a7ef",
+              "Filename": "aa223b50-aaf1-4569-ba1f-1d036bf023ef.jpg",
+              "Caption": "4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fb589955-097a-4b4f-b50f-2266d24f8b1e",
+              "Filename": "4c739f3f-f9ec-47cd-b25f-7915685826dd.jpg",
+              "Caption": "5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b3e40718-afba-4886-a428-5357a2d528e2",
+              "Filename": "6458ef0a-e47a-442b-ad8b-71e02bfaeebc.jpg",
+              "Caption": "6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d00fde86-7d79-4267-9c61-9a2d3d886de1",
+              "Filename": "84162aa9-fcf1-4a97-a369-ce4cb33d1c5c.jpg",
+              "Caption": "8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0796a2b4-26ae-4605-b5ae-cac58eaffc46",
+              "Filename": "3ef78c70-aadd-4034-b8b4-01d75bd08b39.jpg",
+              "Caption": "10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "75b42db5-5e97-4e18-924d-ae4c84532093",
+              "Filename": "e71c5e0f-e30e-498d-9d9b-332e696ea4f1.jpg",
+              "Caption": "11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa4eba20-919a-47e7-94ef-ee99a1f3b087",
+              "Filename": "56d4bec8-397e-48f2-9fdb-af4d54084d3b.jpg",
+              "Caption": "9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa87b086-4d5b-4953-9643-6652ae4aa058",
+              "Filename": "dc7a304c-2e86-4682-968c-4570f764dcdb.jpg",
+              "Caption": "3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "87c3b0bd-7340-4414-95f3-4a70d2a9090b",
+              "Filename": "84cc5e45-eb18-4f7f-8da9-f2c7f42b3357.jpg",
+              "Caption": "13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cd5b7f79-27f1-403b-b5f7-44cf0dbb6fff",
+              "Filename": "1c6e2f20-ab34-4ffb-a55c-bd95d825b254.jpg",
+              "Caption": "14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c3f31938-a3ee-4c7a-a866-ba21ccf93a13",
+              "Filename": "6fb42be4-5919-41b6-97d2-286e429ebe27.jpg",
+              "Caption": "LANDDIRECT.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "50504c865be64fc893bfb228432c5748",
+          "OriginalImagesSuffix": "50504",
+          "MainPhoto": {
+            "Identifier": "f1b318f5-5b54-4169-b137-69e810c8c4b0",
+            "Filename": "73e9594a-7b49-4340-8952-db3464285ad0.jpg",
+            "Caption": "2.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/0/4/5/5018540/73e9594a-7b49-4340-8952-db3464285ad0_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€145,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "64.5",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5021482,
+        "DisplayAddress": "Greaghnafarna, Ballinaglera, Co.Leitrim",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "3fb0f065-cb11-4e04-8308-e018639c50f9",
+              "Filename": "c13b7bb9-b86f-4643-8b51-cd155b7461bc.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_Rb.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d255702a-4f83-4257-ba94-8cc02e31c767",
+              "Filename": "963fff39-d0d3-4c3c-aeb6-13556f39fd18.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31336.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4c58e81f-f5d8-42a2-a671-c000d997c783",
+              "Filename": "ee0a3a72-a832-4141-af09-84c3dc765655.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31338.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "998653e3-9f86-43ef-88e8-8a0d74b5ab7b",
+              "Filename": "088bdf13-1c36-4a07-af76-c5902ce41f8f.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31339.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "18d98491-598a-497b-958c-86dc5637d6fe",
+              "Filename": "81524281-bb32-4157-adf5-2fd7e252f1f0.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31332.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ec34bc60-bb02-481d-b327-6b62c643dd1a",
+              "Filename": "2886eb4e-8c67-43b5-9727-f7d6fbab8489.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31331.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "100b43d5-4aff-45b4-b8bc-b9ffd9c1d28b",
+              "Filename": "f738453f-07e1-4b62-9afe-87ba3dee775d.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31337.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7bbb102d-4d4a-44f2-b5ef-35a8dc8256ff",
+              "Filename": "98d63d0e-bb58-4730-86ec-97f29d95d7c7.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31334.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0f6e7e66-1d94-47a0-af19-8452ba289e7b",
+              "Filename": "d053b09f-e3c5-4bf1-bfc3-f82a57f9794a.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31335.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "40c06045-9ded-4fae-8fbc-033645989d3a",
+              "Filename": "c05d3b30-4b7b-47d1-b314-e57f34c0dd43.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31333.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f67c7afd-f03a-443a-a4d2-80a5dcc64bbc",
+              "Filename": "86cf26f1-c293-4840-8f83-73ebc9ee9f44.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31330.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "82503151-9c66-451e-8c0c-88bcf6be3212",
+              "Filename": "c9a9fb9e-b2a7-4a5a-8cf2-3caf4b7fdeef.jpg",
+              "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_RA_31585.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d058c5ec-726c-4d43-90e2-9cd8f5a9eb5f",
+              "Filename": "https://www.youtube.com/embed/lez9LhAOZs0",
+              "Caption": "https://www.youtube.com/embed/lez9LhAOZs0",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "51dd05721b2c4faaa0db7a806114439a",
+          "OriginalImagesSuffix": "51dd0",
+          "MainPhoto": {
+            "Identifier": "3fb0f065-cb11-4e04-8308-e018639c50f9",
+            "Filename": "c13b7bb9-b86f-4643-8b51-cd155b7461bc.jpg",
+            "Caption": "https://realestatesoftware.ie/resoffice/intranet/uploads/property_images/res_office_hughes/2483_Rb.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Gordon Hughes Estate Agents are delighted to present to the market this detached 3-Bedroom residence on 0.79 acres of land with stunning views of Lough Allen. \n\nNestled in a peaceful rural setting in North Leitrim, this residence enjoys an idyllic location with uninterrupted views over Lough Allen and the surrounding countryside. Situated on a generous site of approximately 0.79 acres, the property is located just 3 km from Dowra and approximately 17 km from Drumshanbo, offering the perfect balance of rural tranquillity and accessibility to local amenities and services. Extending to approximately 64.5 sq. m., the accommodation comprises of an entrance hallway, living room, kitchenette, bathroom, and No.3 bedrooms.\n\nWhile the property requires refurbishment and modernisation throughout, it presents an excellent opportunity for owner-occupiers, investors, or those seeking a countryside retreat to create a home to their own specification. Viewing is highly recommended to fully appreciate this exceptional property."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Hallway\nLiving room\nKitchenette\nBathroom\nNo.3 bedrooms."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "May qualify for the Government homes grants up to 70,000 & SEAI Energy Grants (subject to necessary approval).\nDetached residence extending to approx. 64.5 sq. m.\nSite area of approx. 0.79 acres\nSpectacular uninterrupted views of Lough Allen\nQuiet and scenic rural location\nOil-fired central heating\nGroup water scheme connection\nConveniently located 3 km from Dowra and 17 km from Drumshanbo\nExcellent renovation and redevelopment potential\nYear Built 1976"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "325"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "Eircode N41 H018\nGPS Coordinates: 54.1688198,-7.9909411"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Strictly by appointment"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Gordon Hughes"
+      },
+      {
+        "ContentType": "Location",
+        "SortOrder": 10,
+        "Content": "Conveniently located:\n3 km from Dowra\n17 km from Drumshanbo.\n13.7 km - Drumkeeran"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 425885,
+    "MinEnergyRating": 35,
+    "MaxEnergyRating": 35,
+    "BERGrade": "E",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-08-13T15:16:28.8070000+01:00",
+    "ModifiedOnDate": "2026-08-27T15:26:14.9930000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-13T15:16:28.8070000+01:00",
+    "RefreshedOn": "2026-08-13T15:16:28.8070000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": false,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E.png",
+    "IsTransact": false,
+    "PriceAsString": "€145,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5021482,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 64.5,
+    "DisplayAddress": "Greaghnafarna, Ballinaglera, Co.Leitrim",
+    "Eircode": "N41 H018",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 2648,
+    "RegionName": "Leitrim",
+    "LocalityId": 4589,
+    "LocalityName": "Ballinaglera",
+    "Price": {
+      "MinPrice": 145000,
+      "MaxPrice": 145000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/963fff39-d0d3-4c3c-aeb6-13556f39fd18_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/963fff39-d0d3-4c3c-aeb6-13556f39fd18_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/963fff39-d0d3-4c3c-aeb6-13556f39fd18_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/ee0a3a72-a832-4141-af09-84c3dc765655_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/ee0a3a72-a832-4141-af09-84c3dc765655_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/ee0a3a72-a832-4141-af09-84c3dc765655_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/088bdf13-1c36-4a07-af76-c5902ce41f8f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/088bdf13-1c36-4a07-af76-c5902ce41f8f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/088bdf13-1c36-4a07-af76-c5902ce41f8f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/81524281-bb32-4157-adf5-2fd7e252f1f0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/81524281-bb32-4157-adf5-2fd7e252f1f0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/81524281-bb32-4157-adf5-2fd7e252f1f0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/2886eb4e-8c67-43b5-9727-f7d6fbab8489_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/2886eb4e-8c67-43b5-9727-f7d6fbab8489_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/2886eb4e-8c67-43b5-9727-f7d6fbab8489_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/f738453f-07e1-4b62-9afe-87ba3dee775d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/f738453f-07e1-4b62-9afe-87ba3dee775d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/f738453f-07e1-4b62-9afe-87ba3dee775d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/98d63d0e-bb58-4730-86ec-97f29d95d7c7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/98d63d0e-bb58-4730-86ec-97f29d95d7c7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/98d63d0e-bb58-4730-86ec-97f29d95d7c7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/d053b09f-e3c5-4bf1-bfc3-f82a57f9794a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/d053b09f-e3c5-4bf1-bfc3-f82a57f9794a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/d053b09f-e3c5-4bf1-bfc3-f82a57f9794a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c05d3b30-4b7b-47d1-b314-e57f34c0dd43_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c05d3b30-4b7b-47d1-b314-e57f34c0dd43_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c05d3b30-4b7b-47d1-b314-e57f34c0dd43_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/86cf26f1-c293-4840-8f83-73ebc9ee9f44_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/86cf26f1-c293-4840-8f83-73ebc9ee9f44_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/86cf26f1-c293-4840-8f83-73ebc9ee9f44_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c9a9fb9e-b2a7-4a5a-8cf2-3caf4b7fdeef_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c9a9fb9e-b2a7-4a5a-8cf2-3caf4b7fdeef_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c9a9fb9e-b2a7-4a5a-8cf2-3caf4b7fdeef_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": 7.99393863761,
+      "latitude": 54.1710683733
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 12,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "d058c5ec-726c-4d43-90e2-9cd8f5a9eb5f",
+        "Filename": "https://www.youtube.com/embed/lez9LhAOZs0",
+        "Caption": "https://www.youtube.com/embed/lez9LhAOZs0",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9788,
+    "Name": "Gordon Hughes Estate Agents ",
+    "DisplayPhone": "071 964 5555",
+    "Email": "info@ghproperty.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "gordon-hughes-estates-agents",
+    "SeoName": "gordon-hughes-estates-agents",
+    "Address": "Main Street, Ballinamore, Co. Leitrim ",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/8/7/9788/logo.jpg",
+    "SalesLicense": "001320",
+    "RentalLicense": "001320",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballinaglera/4589",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024852,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Dereen, Aughacashel, Co.Leitrim , Ballinamore",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/5/8/5024852/6512fb69-5501-4214-af35-cd4006d0c9b8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/dereen-aughacashel-co-leitrim-ballinamore/5024852"
+    },
+    {
+      "PropertyId": 5024847,
+      "PropertyClassId": 1,
+      "DisplayAddress": "15 Drumcoura Lake Resort, Drumcoura, Ballinamore, Co. Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/4/8/5024847/eb40f985-6c6f-4c88-936d-a99d16721587_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/15-drumcoura-lake-resort-drumcoura-ballinamore-co-leitrim/5024847"
+    },
+    {
+      "PropertyId": 5024334,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Stradermot, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/3/5024334/e49c5f0e-efc7-48fa-8e7b-d02138fffd2e_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/stradermot-ballinamore-leitrim/5024334"
+    },
+    {
+      "PropertyId": 5023598,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apt. 3 The Archways, Bridge Street, Carrick On Shannon, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/5/5023598/5a7ab117-1c23-4f2c-9380-f4b5e7917603_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apt-3-the-archways-bridge-street-carrick-on-shannon-co-leitrim/5023598"
+    },
+    {
+      "PropertyId": 5023178,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Aughalough, Aughavas, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/7/1/5023178/dc2d3488-11f3-465f-a321-24481a0381c5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/aughalough-aughavas-leitrim/5023178"
+    },
+    {
+      "PropertyId": 5021716,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Apt 3 Golf Links Road, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/1/7/5021716/22d3af6f-2366-4327-a8d2-eada1db13fdb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/apt-3-golf-links-road-ballinamore-leitrim/5021716"
+    },
+    {
+      "PropertyId": 5019114,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mullaghlea, Bawnboy, Co. Cavan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/1/5019114/b1714aba-a430-4611-bddd-e6e50f7da8cf_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mullaghlea-bawnboy-co-cavan/5019114"
+    },
+    {
+      "PropertyId": 5018985,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Fenaghbeg, Fenagh, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5018985/cadce2d6-86f6-4fd3-b151-ff6f7abeb6a0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/fenaghbeg-fenagh-ballinamore-leitrim/5018985"
+    },
+    {
+      "PropertyId": 5018540,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Greaghnafarna, Ballinaglera, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/4/5/5018540/73e9594a-7b49-4340-8952-db3464285ad0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/greaghnafarna-ballinaglera-leitrim/5018540"
+    },
+    {
+      "PropertyId": 5016985,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Aughacashel, Dereen, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5016985/65929a16-cc00-4e8b-89c8-7d0ddfe6e7e4_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/aughacashel-dereen-ballinamore-leitrim/5016985"
+    },
+    {
+      "PropertyId": 5016929,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Killaneen, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/9/5016929/9136b40a-7645-4368-9f39-d41cee56fb2c_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/killaneen-ballinamore-leitrim/5016929"
+    },
+    {
+      "PropertyId": 5015272,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mullaghlea, Bawnboy, Cavan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mullaghlea-bawnboy-cavan/5015272"
+    },
+    {
+      "PropertyId": 5014945,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Lios Na Coille, Keadue Road, Leitrim Village, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/9/5014945/d79ef632-9e0a-4b0f-9970-e0fd33d9723e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/lios-na-coille-keadue-road-leitrim-village-co-leitrim/5014945"
+    },
+    {
+      "PropertyId": 5012393,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mellican, Ballinamore, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/9/3/5012393/76038627-5170-4ec7-9613-bacc17e2a67d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mellican-ballinamore-co-leitrim/5012393"
+    },
+    {
+      "PropertyId": 5011813,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Aghrafinigan, Knockvicar, Boyle, Co. Roscommon",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/8/5011813/48f1744a-4fc7-4ef3-8738-095e6a918c1c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/aghrafinigan-knockvicar-boyle-co-roscommon/5011813"
+    },
+    {
+      "PropertyId": 5011423,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Coolmeen, Co. Sligo, Kilmactranny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/2/4/5011423/e4c46030-a1d4-420c-9c4f-a1d49c24b146_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/coolmeen-co-sligo-kilmactranny/5011423"
+    },
+    {
+      "PropertyId": 5010856,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Smyths, Main Street, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/8/5010856/0e3845c8-306a-4f6d-9d99-e143e1538122_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/smyths-main-street-ballinamore-leitrim/5010856"
+    },
+    {
+      "PropertyId": 5009591,
+      "PropertyClassId": 1,
+      "DisplayAddress": "No 9 Lakeside Cottages, Drumcong, Co.Leitrim , Drumshanbo",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/9/5/5009591/b84e8cfc-56f4-420a-ace7-a61c22fc1ec6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/no-9-lakeside-cottages-drumcong-co-leitrim-drumshanbo/5009591"
+    },
+    {
+      "PropertyId": 5009142,
+      "PropertyClassId": 3,
+      "DisplayAddress": "19 Páirc Feá, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/19-p-irc-fe-ballinamore-leitrim/5009142"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/greaghnafarna-ballinaglera-co-leitrim/5021482",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 425885,
+    "Name": "Gordon Hughes",
+    "Email": "gordon@ghproperty.com",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/5/8/8/425885/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9788,
+    "MYH_LocalityID": 4589,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2648,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Central Heating"
+    ],
+    "MYH_PropertyFeatureIDListString": "Central Heating",
+    "MYH_MaxPrice": 150000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 35,
+    "MYH_MinPrice": 150000,
+    "MYH_MinSize": 64,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5021482,
+    "MYH_PropertyTypeID": 39
+  }
+}

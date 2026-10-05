@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/19a-green-acre-ct-firhouse-rd-templeogue-knocklyon-dublin-16/6649320",
+  "fetchedAt": "2026-10-05T09:15:33.439Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/19a-green-acre-ct-firhouse-rd-templeogue-knocklyon-dublin-16/6649320",
+  "kind": "listing",
+  "responseSha256": "2388ee60ca03a014da3c69d1f29c9bc293c31a1714a9642ecbea2776a853e491",
+  "files": [
+    {
+      "path": "daft/00710-0f8782dd085513c4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5c8f2213cdf4a2f33a3368d04f811bb48828463803cd71f870139f80bfac9903",
+      "bytes": 51604
+    },
+    {
+      "path": "daft/00710-0f8782dd085513c4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "57f58dfaf771cd835d950f825d9b51d281fd840ab103944287acbf1cbf03f219",
+      "bytes": 8086
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

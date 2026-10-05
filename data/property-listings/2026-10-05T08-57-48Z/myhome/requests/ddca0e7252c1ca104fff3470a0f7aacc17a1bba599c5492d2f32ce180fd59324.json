@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=10",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=10",
+  "fetchedAt": "2026-10-05T09:05:18.700Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "3f3904ba75f6f03c6bf5ff6d9fa0dc4b1d67e560af23a3d43dd8ff848425746a",
+  "files": [
+    {
+      "path": "myhome/00301-ddca0e7252c1ca10-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=10\"].SearchResults",
+      "sha256": "e2a8f8aad78880ca76e7a59cf8f06474d0138b7a3a4b8e943922605098c7dd9d",
+      "bytes": 114184
+    },
+    {
+      "path": "myhome/00301-ddca0e7252c1ca10-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=10\"] (paging fields)",
+      "sha256": "5c74be386c6e595dd301845f801a8d7209a1bc2884f5385671170c53bc621a10",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-marian-park-tralee-kerry/5030998",
+    "https://www.myhome.ie/residential/brochure/4-cooldrinagh-cottages-cooldrinagh-lane-lucan-co-dublin/5005031",
+    "https://www.myhome.ie/residential/brochure/26-mount-andrew-court-lucan-co-dublin/5030355",
+    "https://www.myhome.ie/residential/brochure/127-esker-lawns-lucan-co-dublin/5020987",
+    "https://www.myhome.ie/residential/brochure/23-haydens-park-avenue-plus-attic-conversion-lucan-co-dublin/5029823",
+    "https://www.myhome.ie/residential/brochure/4-dodsborough-cottages-lucan-co-dublin/5028862",
+    "https://www.myhome.ie/residential/brochure/198-the-island-chapelizod-dublin-20/5026724",
+    "https://www.myhome.ie/residential/brochure/14-ballydowd-grove-lucan-co-dublin/5024281",
+    "https://www.myhome.ie/residential/brochure/117-beech-park-lucan-co-dublin/5011399",
+    "https://www.myhome.ie/residential/brochure/chez-nous-4-ballyowen-view-lucan-co-dublin/4989161",
+    "https://www.myhome.ie/residential/brochure/205-riverforest-leixlip-co-kildare/5028738",
+    "https://www.myhome.ie/residential/brochure/68-castlegate-grove-adamstown-lucan-co-dublin/5022615",
+    "https://www.myhome.ie/residential/brochure/13-rinawade-lawns-leixlip-co-kildare/5024789",
+    "https://www.myhome.ie/residential/brochure/teach-ard-johnstown-naas-co-kildare/5030173",
+    "https://www.myhome.ie/residential/brochure/32-woodlands-oakpark-tralee-co-kerry/5032053",
+    "https://www.myhome.ie/residential/brochure/5-brookview-western-road-clonakilty-co-cork/5032052",
+    "https://www.myhome.ie/residential/brochure/32-castlerock-mews-castleconnell-limerick-county-limerick/5032051",
+    "https://www.myhome.ie/residential/brochure/9-brook-lodge-house-oakview-village-tralee-co-kerry/5032050",
+    "https://www.myhome.ie/residential/brochure/254-ros-caoin-roscam-co-galway/5032049",
+    "https://www.myhome.ie/residential/brochure/10-myrtle-close-boyd-house-the-coast-dublin-13-baldoyle/5032048"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=11",
+  "paginationLimited": false
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=32",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=32",
+  "fetchedAt": "2026-10-05T09:28:19.154Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "f1e938dd732fbd66e0ad9abaa7aeb8ceabe8c84c3e1e982f694913a82708a1fa",
+  "files": [
+    {
+      "path": "myhome/01215-5e2f1196615ca1b6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=32\"].SearchResults",
+      "sha256": "68239cdea523942cdd792e77e960372d62739223c3d4dbe57218f6cf038163f5",
+      "bytes": 29499
+    },
+    {
+      "path": "myhome/01215-5e2f1196615ca1b6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=32\"] (paging fields)",
+      "sha256": "487c53ddfbc9ee4e4b1be3dbd2bca9ad51f2068e08659c84243c7f89023140a6",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/speenoge-burt-donegal/4454600",
+    "https://www.myhome.ie/rentals/brochure/12-church-street-cork-city-cork/4470672",
+    "https://www.myhome.ie/rentals/brochure/grand-estates-breaffy-mayo/4458366",
+    "https://www.myhome.ie/rentals/brochure/laurence-street-drogheda-louth/4135021",
+    "https://www.myhome.ie/rentals/brochure/aghamarta-crosshaven-cork/3544240",
+    "https://www.myhome.ie/rentals/brochure/unit-12-13-greenhills-industrial-village-greenhills-drogheda-louth/3587420",
+    "https://www.myhome.ie/rentals/brochure/26-ferndale-court-allies-river-road-bray-wicklow/2868349",
+    "https://www.myhome.ie/rentals/brochure/2-bed-apartment-at-adelphi-boulevard-park-avenue-dundalk-louth/1322738"
+  ],
+  "nextUrl": null,
+  "paginationLimited": false
+}

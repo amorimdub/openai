@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=455",
+  "fetchedAt": "2026-10-05T14:09:01.317Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=455",
+  "kind": "search",
+  "responseSha256": "a385191f1ad6a93b101c7c59ddbe245e3e26118b39f4a7d745709d3555863a42",
+  "files": [
+    {
+      "path": "myhome/09888-192ada5820f3f110-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=455\"].SearchResults",
+      "sha256": "56e26d603cdc2f972c1f9ca6efe2f1727015299ddb71b500a81c42880ed0b675",
+      "bytes": 123965
+    },
+    {
+      "path": "myhome/09888-192ada5820f3f110-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=455\"] (paging fields)",
+      "sha256": "c370124974d6c738684a33c3eb2b54de075a751153f590a8d3631dc558c65642",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/sunset-view-rearahinagh-skibbereen-west-cork/5007950",
+    "https://www.myhome.ie/residential/brochure/apartment-5-link-road-dalkey-co-dublin/5007980",
+    "https://www.myhome.ie/residential/brochure/1-william-beckett-house-pembroke-row-baggot-street-dublin-2/4998558",
+    "https://www.myhome.ie/residential/brochure/1-knightsfield-crescent-dunsany-co-meath/5007977",
+    "https://www.myhome.ie/residential/brochure/saint-john-s-4-vevay-road-bray-co-wicklow/5007965",
+    "https://www.myhome.ie/residential/brochure/2-coppinger-heights-ballybofey-donegal/4911381",
+    "https://www.myhome.ie/residential/brochure/carrigdhoun-quay-ballylickey-bantry-co-cork/5007952",
+    "https://www.myhome.ie/residential/brochure/2-saint-donagh-s-crescent-donaghmede-dublin-13/5005720",
+    "https://www.myhome.ie/residential/brochure/24-shandon-court-richmond-hill-cork-city-cork/5007701",
+    "https://www.myhome.ie/residential/brochure/east-end-ballybunion-co-kerry/5006312",
+    "https://www.myhome.ie/residential/brochure/11-walled-garden-duninga-goresbridge-co-kilkenny/5007944",
+    "https://www.myhome.ie/residential/brochure/9-walled-garden-duninga-goresbridge-co-kilkenny/5007943",
+    "https://www.myhome.ie/residential/brochure/1-glenkeen-crescent-glenkeen-park-fairgreen-portlaoise-co-laois/5007938",
+    "https://www.myhome.ie/residential/brochure/55-ratoath-road-cabra-dublin-7/5007935",
+    "https://www.myhome.ie/residential/brochure/two-bedroom-apartments-avenlea-adamstown/5007933",
+    "https://www.myhome.ie/residential/brochure/56-ballygall-road-west-finglas-dublin-11/5007920",
+    "https://www.myhome.ie/residential/brochure/spa-house-ballymakegoge-spa-tralee-co-kerry/5007916",
+    "https://www.myhome.ie/residential/brochure/29-rockfield-drive-rockfield-moneycarroll-newtownmountkennedy-co-wicklow/5007912",
+    "https://www.myhome.ie/residential/brochure/2-rosenheim-magazine-road-glasheen-cork/5007896",
+    "https://www.myhome.ie/residential/brochure/176-cois-na-habhainn-ballygaddy-road-tuam-co-galway/5007904"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=456",
+  "paginationLimited": false
+}

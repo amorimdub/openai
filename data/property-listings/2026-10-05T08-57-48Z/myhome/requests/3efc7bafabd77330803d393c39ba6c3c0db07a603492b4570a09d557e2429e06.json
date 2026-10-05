@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=77",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=77",
+  "fetchedAt": "2026-10-05T09:51:26.677Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e5add25ce10b6e981e750f18942d0fa860105000c2049dc27f638b73facb1cd6",
+  "files": [
+    {
+      "path": "myhome/02137-3efc7bafabd77330-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=77\"].SearchResults",
+      "sha256": "e2936693b3b2ae3d767a1ed5b34254c3977bfa69e18d4999beca7f13c56e3484",
+      "bytes": 100278
+    },
+    {
+      "path": "myhome/02137-3efc7bafabd77330-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=77\"] (paging fields)",
+      "sha256": "26065b8c87731263744e835ea740c173bbcef1e56fab9a3f8de2adf0ddd39276",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-redford-park-view-lucan-county-dublin/5030858",
+    "https://www.myhome.ie/residential/brochure/23-grangebrook-avenue-rathfarnham-dublin-16/5004059",
+    "https://www.myhome.ie/residential/brochure/26-mount-eustace-close-dublin-15-dublin/5030854",
+    "https://www.myhome.ie/residential/brochure/5-radharc-na-coille-kilmallock-co-limerick/5030853",
+    "https://www.myhome.ie/residential/brochure/apartment-8-curragh-hall-house-dublin-15-tyrrelstown/5030851",
+    "https://www.myhome.ie/residential/brochure/1-bed-apartments-coach-road-meadows-college-road-clane-co-kildare/4982968",
+    "https://www.myhome.ie/residential/brochure/2-bed-apartments-coach-road-meadows-college-road-clane-co-kildare/4955382",
+    "https://www.myhome.ie/residential/brochure/28-the-oaks-keatingstown-co-wicklow/5030848",
+    "https://www.myhome.ie/residential/brochure/91-grand-canal-wood-allenwood-co-kildare/5030845",
+    "https://www.myhome.ie/residential/brochure/no-11-corn-lodge-castlebridge-co-wexford-castlebridge-wexford/5030838",
+    "https://www.myhome.ie/residential/brochure/12-gallery-quay-block-5-grand-canal-dk-dublin-2/5030833",
+    "https://www.myhome.ie/residential/brochure/44-44a-shancastle-crescent-dublin-22-clondalkin/5030841",
+    "https://www.myhome.ie/residential/brochure/apt-12-poppintree-parade-dublin-11-ballymun/5030839",
+    "https://www.myhome.ie/residential/brochure/old-coach-house-demailestown-wilkinstown-co-meath/5030835",
+    "https://www.myhome.ie/residential/brochure/15-eugene-street-dublin-8-dublin/5030832",
+    "https://www.myhome.ie/residential/brochure/24-birch-drive-johnstown-wood-navan-co-meath/5030830",
+    "https://www.myhome.ie/residential/brochure/28-caislean-an-easpaig-castletownroche-co-cork/5030829",
+    "https://www.myhome.ie/residential/brochure/15-distillery-road-drumcondra-dublin-3/5030814",
+    "https://www.myhome.ie/residential/brochure/10-harbour-village-westport-co-mayo/5030826",
+    "https://www.myhome.ie/residential/brochure/apt-47-steevens-gate-james-st-dublin-8/5030827"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=78",
+  "paginationLimited": false
+}

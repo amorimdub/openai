@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST. PAUL'S SCHOOL",
+      "numPupils": 92,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907394",
+        "lon": "-8.437640"
+      }
+    },
+    {
+      "schoolName": "BONNINGTON SPECIAL SCHOOL",
+      "numPupils": 130,
+      "distance": {
+        "value": 0.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.906820",
+        "lon": "-8.438550"
+      }
+    },
+    {
+      "schoolName": "LAVANAGH NATIONAL SCHOOL",
+      "numPupils": 41,
+      "distance": {
+        "value": 0.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.896454",
+        "lon": "-8.433735"
+      }
+    },
+    {
+      "schoolName": "ST MICHAEL'S BLACKROCK",
+      "numPupils": 103,
+      "distance": {
+        "value": 0.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895737",
+        "lon": "-8.420081"
+      }
+    },
+    {
+      "schoolName": "SCOIL EANNA",
+      "numPupils": 72,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907314",
+        "lon": "-8.438824"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE AGUS EOIN",
+      "numPupils": 300,
+      "distance": {
+        "value": 1.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912980",
+        "lon": "-8.424204"
+      }
+    },
+    {
+      "schoolName": "SCOIL URSULA BLACKROCK",
+      "numPupils": 188,
+      "distance": {
+        "value": 1.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895924",
+        "lon": "-8.414103"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL AN GHOIRT ÁLAINN",
+      "numPupils": 375,
+      "distance": {
+        "value": 1.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908646",
+        "lon": "-8.441823"
+      }
+    },
+    {
+      "schoolName": "ST KILLIANS SPEC  SCH",
+      "numPupils": 102,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.914585",
+        "lon": "-8.431879"
+      }
+    },
+    {
+      "schoolName": "BALLINTEMPLE NATIONAL SCHOOL",
+      "numPupils": 254,
+      "distance": {
+        "value": 1.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893130",
+        "lon": "-8.439667"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "URSULINE COLLEGE BLACKROCK",
+      "numPupils": 359,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895750",
+        "lon": "-8.416107"
+      }
+    },
+    {
+      "schoolName": "MAYFIELD COMMUNITY SCHOOL",
+      "numPupils": 345,
+      "distance": {
+        "value": 1.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912518",
+        "lon": "-8.443581"
+      }
+    },
+    {
+      "schoolName": "CORK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 409,
+      "distance": {
+        "value": 2.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892235",
+        "lon": "-8.402829"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908325",
+        "lon": "-8.454953"
+      }
+    },
+    {
+      "schoolName": "NAGLE COMMUNITY COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.891280",
+        "lon": "-8.402980"
+      }
+    },
+    {
+      "schoolName": "ASHTON SCHOOL",
+      "numPupils": 532,
+      "distance": {
+        "value": 2.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893370",
+        "lon": "-8.452039"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN PHIARSAIGH",
+      "numPupils": 576,
+      "distance": {
+        "value": 2.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.918180",
+        "lon": "-8.398419"
+      }
+    },
+    {
+      "schoolName": "REGINA MUNDI COLLEGE",
+      "numPupils": 562,
+      "distance": {
+        "value": 2.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.883150",
+        "lon": "-8.443823"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS COLLEGE",
+      "numPupils": 912,
+      "distance": {
+        "value": 2.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903620",
+        "lon": "-8.467769"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE",
+      "numPupils": 429,
+      "distance": {
+        "value": 2.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.902218",
+        "lon": "-8.468075"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "240",
+      "destination": "Ballycotton",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903145",
+        "lon": "-8.426573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "260",
+      "destination": "Youghal",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903145",
+        "lon": "-8.426573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "31",
+      "destination": "Knockraha",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903145",
+        "lon": "-8.426573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "245",
+      "destination": "Mitchelstown",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903145",
+        "lon": "-8.426573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "261",
+      "destination": "Ballinacurra",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903145",
+        "lon": "-8.426573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "214",
+      "destination": "St. Patrick Street",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903009",
+        "lon": "-8.426993"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tivoli Gardens",
+      "route": "241",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903009",
+        "lon": "-8.426993"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Trafalgar Hill",
+      "route": "210",
+      "destination": "Hollyhill",
+      "provider": "Cork Cobh Connect",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.902807",
+        "lon": "-8.430653"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Trafalgar Hill",
+      "route": "214",
+      "destination": "University Hospital",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.902807",
+        "lon": "-8.430653"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Trafalgar Hill",
+      "route": "31",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.902807",
+        "lon": "-8.430653"
+      }
+    }
+  ]
+}

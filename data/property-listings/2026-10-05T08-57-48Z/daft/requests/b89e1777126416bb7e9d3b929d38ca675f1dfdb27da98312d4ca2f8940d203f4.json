@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-lock-gate-4-charlemont-lane-dublin-2/6686331",
+  "fetchedAt": "2026-10-05T09:29:19.575Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-lock-gate-4-charlemont-lane-dublin-2/6686331",
+  "kind": "listing",
+  "responseSha256": "c63208a24fcf8016d89d92eb0b715f49b917eb15cd6ddc90ff90273730b48158",
+  "files": [
+    {
+      "path": "daft/01260-b89e1777126416bb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d115e424d7d34d0f7e1d0360cc1cf984396d2fa5efce718da60a1845615fc2ed",
+      "bytes": 47025
+    },
+    {
+      "path": "daft/01260-b89e1777126416bb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4b3b71c363769452b8e2e6e0cb9596faa807f70535e48cd6e02a424850363c39",
+      "bytes": 8096
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

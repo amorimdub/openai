@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=357",
+  "fetchedAt": "2026-10-05T13:18:24.513Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=357",
+  "kind": "search",
+  "responseSha256": "f3267096a4482057305891c0cbb8561690e203690a706086948722d14d27de25",
+  "files": [
+    {
+      "path": "myhome/07868-18c63790bfd40094-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=357\"].SearchResults",
+      "sha256": "385953f2893b99e04520d3ec38f72c9388b3b5162f2a253645cedb800e23a968",
+      "bytes": 121175
+    },
+    {
+      "path": "myhome/07868-18c63790bfd40094-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=357\"] (paging fields)",
+      "sha256": "c7ea2781124a6b7f8298aa47bfd802055b40e1a0b73a244d2fe2915c84f8168e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/croaghcross-portsalon-co-donegal/5019385",
+    "https://www.myhome.ie/residential/brochure/4-southgate-crinkle-birr-co-offaly/5019278",
+    "https://www.myhome.ie/residential/brochure/1-stonebridge-park-rochfortbridge-mullingar-co-westmeath/5019379",
+    "https://www.myhome.ie/residential/brochure/24-goldsmith-hall-collegewood-castleknock-dublin-15/5019378",
+    "https://www.myhome.ie/residential/brochure/12-o-neil-street-carrickmacross-monaghan/5019368",
+    "https://www.myhome.ie/residential/brochure/the-lock-house-cardington-athy-co-kildare/5019366",
+    "https://www.myhome.ie/residential/brochure/27-woodvale-avenue-clonsilla-dublin-15/4917104",
+    "https://www.myhome.ie/residential/brochure/20-shackleton-terrace-lucan-co-dublin/5019361",
+    "https://www.myhome.ie/residential/brochure/ballymacowen-clonakilty-west-cork/5015150",
+    "https://www.myhome.ie/residential/brochure/145-biscayne-malahide-co-dublin/5019360",
+    "https://www.myhome.ie/residential/brochure/267-cooley-road-drimnagh-dublin-12/5009314",
+    "https://www.myhome.ie/residential/brochure/77-sandycove-ph2-ballymoney-gorey-co-wexford/5019355",
+    "https://www.myhome.ie/residential/brochure/9-clonsilla-park-blanchardstown-dublin-15/5019352",
+    "https://www.myhome.ie/residential/brochure/63-fernwalk-greenfields-ballincollig-co-cork/5019348",
+    "https://www.myhome.ie/residential/brochure/16-raith-n-eoighan-mullingar-co-westmeath/5019344",
+    "https://www.myhome.ie/residential/brochure/11-little-strand-street-skerries-co-dublin/5019342",
+    "https://www.myhome.ie/residential/brochure/cloonmaul-loughglynn-roscommon/5019330",
+    "https://www.myhome.ie/residential/brochure/site-at-ballinvinny-ballinvinny-glanmire-cork/5019334",
+    "https://www.myhome.ie/residential/brochure/sanderling-grange-fethard-co-wexford/5019328",
+    "https://www.myhome.ie/residential/brochure/28-summerseat-crescent-clonee-dublin-15-d15-te69/5019326"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=358",
+  "paginationLimited": false
+}

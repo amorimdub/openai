@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/113-richmond-road-fairview-dublin-3/6685613",
+  "fetchedAt": "2026-10-05T09:02:11.412Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/113-richmond-road-fairview-dublin-3/6685613",
+  "kind": "listing",
+  "responseSha256": "d9e16b0f15f65ed5adfa03998f1337ca9d1cc5582b800be6ba3aedb720e5197c",
+  "files": [
+    {
+      "path": "daft/00176-20e84600b791b017-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "046f1bfe7fe2682e9168dfebba67081060e57d91672fa908f2d7e53fb1a058fe",
+      "bytes": 99097
+    },
+    {
+      "path": "daft/00176-20e84600b791b017-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76ea906988e65ab33f444687be58ed3bd10840683c98db6f0c1b70c0c9cba089",
+      "bytes": 7996
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

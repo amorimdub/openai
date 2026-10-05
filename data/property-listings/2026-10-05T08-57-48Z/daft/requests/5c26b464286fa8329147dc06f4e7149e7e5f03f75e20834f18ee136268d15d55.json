@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-eaton-place-monkstown-co-dublin/6665626",
+  "fetchedAt": "2026-10-05T09:22:32.407Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-eaton-place-monkstown-co-dublin/6665626",
+  "kind": "listing",
+  "responseSha256": "c550d6e8a80528198e0b9a7497e999b2b3c7c1f44ab5feb35ac9436f88f00ea3",
+  "files": [
+    {
+      "path": "daft/00989-5c26b464286fa832-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "88414f34a3f4be8009f509e20f075469cab8f0d264c32c3b66cc4f3536a9a42a",
+      "bytes": 96427
+    },
+    {
+      "path": "daft/00989-5c26b464286fa832-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0cd924993c97fe221b96e62ca98e28d37f1f8492e500c59f4263f9ecc46ba96b",
+      "bytes": 8024
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

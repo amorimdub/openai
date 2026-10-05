@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=451",
+  "fetchedAt": "2026-10-05T14:06:55.045Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=451",
+  "kind": "search",
+  "responseSha256": "c2c7ace5acec1e03b57240e5b7e09280f867f315ac55edb54247a8e06ada6f2e",
+  "files": [
+    {
+      "path": "myhome/09804-ac03db72e62393db-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=451\"].SearchResults",
+      "sha256": "2cd379572b3d46c5e27ebef6712a556e5f259d32c6f95b0bc289faccbab7b90c",
+      "bytes": 117493
+    },
+    {
+      "path": "myhome/09804-ac03db72e62393db-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=451\"] (paging fields)",
+      "sha256": "a879a146beba59e04e46b78450ce8da2ab4fb32bc6cbf68ba08a48f697353174",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-cedarwood-avenue-waterpark-carrigaline-cork/4999273",
+    "https://www.myhome.ie/residential/brochure/59-crann-nua-portarlington-laois/5008517",
+    "https://www.myhome.ie/residential/brochure/20-mercier-park-turners-cross-cork/5008502",
+    "https://www.myhome.ie/residential/brochure/9-monaghan-street-carrickmacross-monaghan/5008494",
+    "https://www.myhome.ie/residential/brochure/57-botanic-avenue-plus-attic-conversion-glasnevin-dublin-9/5008467",
+    "https://www.myhome.ie/residential/brochure/14-st-marys-road-dundalk-dundalk-louth/5006385",
+    "https://www.myhome.ie/residential/brochure/50-ushnagh-court-mullingar-westmeath/5008469",
+    "https://www.myhome.ie/residential/brochure/5-castle-street-donegal-town-donegal/5008436",
+    "https://www.myhome.ie/residential/brochure/5-millgate-drive-manor-estate-terenure-dublin-12/5008441",
+    "https://www.myhome.ie/residential/brochure/streamstown-house-streamstown-mullingar-co-westmeath/5008446",
+    "https://www.myhome.ie/residential/brochure/37-pearse-road-ballyphehane-cork/5008442",
+    "https://www.myhome.ie/residential/brochure/piermount-carhoona-tarbert-co-kerry/4997924",
+    "https://www.myhome.ie/residential/brochure/226-phibsborough-road-phibsborough-dublin-7/5007772",
+    "https://www.myhome.ie/residential/brochure/22-luttrellstown-place-castleknock-dublin-15/5008417",
+    "https://www.myhome.ie/residential/brochure/blackrath-vale-athgarvan-newbridge-kildare/4988548",
+    "https://www.myhome.ie/residential/brochure/development-site-at-the-glen-kinsale-cork/5008404",
+    "https://www.myhome.ie/residential/brochure/137-the-faythe-wexford-town-wexford/5008263",
+    "https://www.myhome.ie/residential/brochure/28-the-blake-fanan-letteragh-road-galway/5008402",
+    "https://www.myhome.ie/residential/brochure/68-victoria-place-castlebar-co-mayo/5008397",
+    "https://www.myhome.ie/residential/brochure/coolisteige-clonlara-clare/5008395"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=452",
+  "paginationLimited": false
+}

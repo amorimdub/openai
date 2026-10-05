@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=379",
+  "fetchedAt": "2026-10-05T13:29:52.910Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=379",
+  "kind": "search",
+  "responseSha256": "255c43ff58709b212a1e12f99d84e5a79db6045ef9eb51e5632ca66ffd822f63",
+  "files": [
+    {
+      "path": "myhome/08326-f36383e84c8f06b3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=379\"].SearchResults",
+      "sha256": "61aa9e06771d3f315fda2b34eaeed15e2c90489e78a32d3eeae65b65283b30aa",
+      "bytes": 118207
+    },
+    {
+      "path": "myhome/08326-f36383e84c8f06b3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=379\"] (paging fields)",
+      "sha256": "a20c3bc50278d66980fe9330c5d7cb6d3dc05553348c8d605a9813a7a102a585",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/28-clonlea-mount-oval-village-rochestown-cork/5017690",
+    "https://www.myhome.ie/residential/brochure/balkinstown-nurney-kildare/5017585",
+    "https://www.myhome.ie/residential/brochure/2-college-gate-castleknock-dublin-15/5017674",
+    "https://www.myhome.ie/residential/brochure/13-riverview-estate-glasheen-cork-city/5017664",
+    "https://www.myhome.ie/residential/brochure/sheskinarone-dungloe-county-donegal/5017662",
+    "https://www.myhome.ie/residential/brochure/fintully-clontibret-co-monaghan/5017661",
+    "https://www.myhome.ie/residential/brochure/137-drumcondra-road-lwr-drumcondra-dublin-9/5017378",
+    "https://www.myhome.ie/residential/brochure/6-the-village-ballymoney-gorey-co-wexford/5017652",
+    "https://www.myhome.ie/residential/brochure/63-william-street-listowel-co-kerry/5010977",
+    "https://www.myhome.ie/residential/brochure/6-seatown-dundalk-county-louth/5017650",
+    "https://www.myhome.ie/residential/brochure/5-rockview-rise-portlaoise-co-laois/5017643",
+    "https://www.myhome.ie/residential/brochure/ballincarrig-tara-hill-gorey-county-wexford/5010282",
+    "https://www.myhome.ie/residential/brochure/34-walkinstown-road-walkinstown-dublin-12/5017637",
+    "https://www.myhome.ie/residential/brochure/80-mervue-lawn-ballyvolane-cork-city-co-cork/5017631",
+    "https://www.myhome.ie/residential/brochure/ballyloughhern-carrickmacross-monaghan/5017622",
+    "https://www.myhome.ie/residential/brochure/92-pairc-bhrid-athy-county-kildare/5017619",
+    "https://www.myhome.ie/residential/brochure/hightown-coralstown-kinnegad-westmeath/5017597",
+    "https://www.myhome.ie/residential/brochure/5-dunbird-aherla-cork/5017614",
+    "https://www.myhome.ie/residential/brochure/15-white-pines-court-stocking-avenue-rathfarnham-dublin-16/5017607",
+    "https://www.myhome.ie/residential/brochure/lot-3-gatekeeper-s-cottage-lisnavagh-rathvilly-carlow/5017606"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=380",
+  "paginationLimited": false
+}

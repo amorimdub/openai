@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=369",
+  "fetchedAt": "2026-10-05T13:24:37.286Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=369",
+  "kind": "search",
+  "responseSha256": "48dd5125878d19432af3e2f2c04ba8b7dcf6b62fb0d520ae1f3977b14cc2c8a5",
+  "files": [
+    {
+      "path": "myhome/08116-c7f6630454a52b22-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=369\"].SearchResults",
+      "sha256": "1fea07ae3a48865bf81d9243f03ffa454c472efcdd8a19b33124b0b3b4f529c2",
+      "bytes": 119953
+    },
+    {
+      "path": "myhome/08116-c7f6630454a52b22-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=369\"] (paging fields)",
+      "sha256": "7a98d05b329e143737227d6a1b99f1c78556a6ee53db3daf4a74269935830b3a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/beechwood-lawn-dunwiley-stranorlar-co-donegal/5018660",
+    "https://www.myhome.ie/residential/brochure/13-quay-street-sligo/5018643",
+    "https://www.myhome.ie/residential/brochure/23-glengarriff-road-bantry-west-cork/5018645",
+    "https://www.myhome.ie/residential/brochure/main-street-clogheen-tipperary/5018650",
+    "https://www.myhome.ie/residential/brochure/the-inverdi-coomatloukane-caherdaniel-co-kerry/5018648",
+    "https://www.myhome.ie/residential/brochure/apartment-65-carleton-village-golf-links-road-youghal-east-cork/5018633",
+    "https://www.myhome.ie/residential/brochure/mooretown-ardee-louth/5018642",
+    "https://www.myhome.ie/residential/brochure/46-main-street-macroom-cork/5017588",
+    "https://www.myhome.ie/residential/brochure/stone-cottage-old-galway-road-loughrea-co-galway/5018641",
+    "https://www.myhome.ie/residential/brochure/61-frankfield-douglas-cork/5018513",
+    "https://www.myhome.ie/residential/brochure/1-huntsfield-drive-dooradoyle-county-limerick/5018631",
+    "https://www.myhome.ie/residential/brochure/68-hilltown-park-rivervalley-swords-co-dublin/4967175",
+    "https://www.myhome.ie/residential/brochure/17-bishop-street-cobh-co-cork-cobh-cork/5018603",
+    "https://www.myhome.ie/residential/brochure/glendara-dublin-road-clane-co-kildare/5018625",
+    "https://www.myhome.ie/residential/brochure/apt-1-el-pinar-kilgobbin-road-sandyford-dublin-18/5018621",
+    "https://www.myhome.ie/residential/brochure/19-the-crescent-harbour-heights-passage-west-cork/5018607",
+    "https://www.myhome.ie/residential/brochure/killadoon-louisburgh-louisburgh-mayo/5018612",
+    "https://www.myhome.ie/residential/brochure/gortacleva-bushypark-galway/5018617",
+    "https://www.myhome.ie/residential/brochure/19-charnwood-grove-clonsilla-dublin-15/5018616",
+    "https://www.myhome.ie/residential/brochure/derrycreha-glengarriff-co-cork/5018613"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=370",
+  "paginationLimited": false
+}

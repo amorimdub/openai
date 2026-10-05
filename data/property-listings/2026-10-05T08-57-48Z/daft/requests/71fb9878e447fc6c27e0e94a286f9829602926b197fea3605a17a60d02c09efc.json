@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-18-block-5-tallaght-dublin-24/6681473",
+  "fetchedAt": "2026-10-05T09:12:10.610Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-18-block-5-tallaght-dublin-24/6681473",
+  "kind": "listing",
+  "responseSha256": "13bb10a9e73b371a943b639c530f9ee9cdaae3dd9e4f73996d54df47bced2932",
+  "files": [
+    {
+      "path": "daft/00575-71fb9878e447fc6c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "abe4eddf87b1867ad39c1a9907f1df052c154f28bf12a558074403d134cd5655",
+      "bytes": 18216
+    },
+    {
+      "path": "daft/00575-71fb9878e447fc6c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "81bd389ad5f783d85ee5fc37ae1ceed5a1400a913c79fec2c47ea1823f36b06f",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

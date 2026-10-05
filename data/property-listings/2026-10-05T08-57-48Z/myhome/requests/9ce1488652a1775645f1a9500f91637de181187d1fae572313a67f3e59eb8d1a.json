@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=151",
+  "fetchedAt": "2026-10-05T11:32:15.307Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=151",
+  "kind": "search",
+  "responseSha256": "9744d65f7bcb466f583ad6ed3ba626949e2a3ce506723dd44a64533a04480035",
+  "files": [
+    {
+      "path": "myhome/03636-9ce1488652a17756-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=151\"].SearchResults",
+      "sha256": "3f47532c0c8c0f8e905374cc729a6c3de8afe558d88e5fb11a9843ce60976114",
+      "bytes": 123312
+    },
+    {
+      "path": "myhome/03636-9ce1488652a17756-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=151\"] (paging fields)",
+      "sha256": "d19a36633b95d9b8972b9b1257391f239b9f8bcb77bfe52630aaed21b6ef905c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-moore-bay-donoughboy-kilkee-co-clare/5028946",
+    "https://www.myhome.ie/residential/brochure/38-warren-avenue-castleknock-dublin-15/5028939",
+    "https://www.myhome.ie/residential/brochure/meadow-cottage-ticroghan-clonard-co-meath/5003919",
+    "https://www.myhome.ie/residential/brochure/19-the-square-innwood-enfield-co-meath/5028460",
+    "https://www.myhome.ie/residential/brochure/green-ana-glena-ballinahinch-ashford-wicklow/5007219",
+    "https://www.myhome.ie/residential/brochure/grange-bohermeen-navan-meath/5028918",
+    "https://www.myhome.ie/residential/brochure/ballymacahara-ashford-wicklow/5008492",
+    "https://www.myhome.ie/residential/brochure/72-saint-john-s-well-way-kilmainham-dublin-8-co-dublin/5028938",
+    "https://www.myhome.ie/residential/brochure/sunnybank-blossomgrove-ballyvisteale-glanmire-co-cork/5028937",
+    "https://www.myhome.ie/residential/brochure/23-troys-gate-kilkenny/5028936",
+    "https://www.myhome.ie/residential/brochure/34-churchfields-kentstown-meath/4981766",
+    "https://www.myhome.ie/residential/brochure/28-boru-court-ballina-tipperary/5007915",
+    "https://www.myhome.ie/residential/brochure/hill-of-ward-athboy-co-meath/5028932",
+    "https://www.myhome.ie/residential/brochure/slate-house-drumsru-rathangan-co-kildare/5021602",
+    "https://www.myhome.ie/residential/brochure/apartment-7-rosscarbery-bay-apartments-owenahincha-co-cork/5028930",
+    "https://www.myhome.ie/residential/brochure/22-the-stableyard-oldtown-demesne-naas-co-kildare/5028031",
+    "https://www.myhome.ie/residential/brochure/lot-2-gurteen-kilgarvan-co-kerry/5028924",
+    "https://www.myhome.ie/residential/brochure/15-renmore-road-renmore-galway/5028576",
+    "https://www.myhome.ie/residential/brochure/ardcrone-annagry-county-donegal/5028917",
+    "https://www.myhome.ie/residential/brochure/90-south-lotts-road-ringsend-dublin-4/5028905"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=152",
+  "paginationLimited": false
+}

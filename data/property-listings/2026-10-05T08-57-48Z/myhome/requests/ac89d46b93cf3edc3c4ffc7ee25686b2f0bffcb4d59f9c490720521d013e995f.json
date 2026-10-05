@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=30",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=30",
+  "fetchedAt": "2026-10-05T09:25:45.877Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "a94844c52085393159cf58b82531b5f4020751535eb15fef496cd8b97d892d54",
+  "files": [
+    {
+      "path": "myhome/01113-ac89d46b93cf3edc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=30\"].SearchResults",
+      "sha256": "51c65740b8ea40273ee4e3637016f24cde3e7bfcd15cfe53e2e050439e480216",
+      "bytes": 120109
+    },
+    {
+      "path": "myhome/01113-ac89d46b93cf3edc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=30\"] (paging fields)",
+      "sha256": "84efcaf5fa24ed78bd9e3eb8368f92df10efa91d08c64d0b6d224b189dafcdaa",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-glenidan-court-enfield-county-meath/5031747",
+    "https://www.myhome.ie/residential/brochure/83-raheen-road-tallaght-dublin-24/5031746",
+    "https://www.myhome.ie/residential/brochure/1-tudor-road-ranelagh-dublin-6/5028331",
+    "https://www.myhome.ie/residential/brochure/46-phibblestown-wood-phibblestown-ongar-ongar-dublin/5031744",
+    "https://www.myhome.ie/residential/brochure/apartment-6-block-d-metropolitan-apartments-inchicore-road-kilmainham-dublin-8/5031738",
+    "https://www.myhome.ie/residential/brochure/64-greentrees-road-manor-estate-terenure-dublin-12/5031741",
+    "https://www.myhome.ie/residential/brochure/11-an-bothair-dara-lis-na-dara-dundalk-county-louth/5031740",
+    "https://www.myhome.ie/residential/brochure/40b-the-garden-village-portlaoise-co-laois/5031736",
+    "https://www.myhome.ie/residential/brochure/ebb-tide-1-quay-road-ramstown-fethard-wexford/5028342",
+    "https://www.myhome.ie/residential/brochure/1-kestrel-manor-drogheda-co-louth/5031735",
+    "https://www.myhome.ie/residential/brochure/15-16-dufferin-avenue-dublin-8-south-circular-road/5031730",
+    "https://www.myhome.ie/residential/brochure/apt-19-block-b2-louisa-park-station-road-leixlip-kildare/5031725",
+    "https://www.myhome.ie/residential/brochure/149-beachdale-kilcoole-wicklow/5031733",
+    "https://www.myhome.ie/residential/brochure/2-rosewell-ballinlough-road-ballinlough-cork-city/5027018",
+    "https://www.myhome.ie/residential/brochure/141-blarney-street-sundays-well-cork/5031727",
+    "https://www.myhome.ie/residential/brochure/45-cranford-court-stillorgan-road-donnybrook-dublin-4/5031729",
+    "https://www.myhome.ie/residential/brochure/14a-monastery-road-enniskerry-co-wicklow/5007761",
+    "https://www.myhome.ie/residential/brochure/apartment-62-brabazon-hall-cork-street-dublin-8-dublin/5031726",
+    "https://www.myhome.ie/residential/brochure/5-the-oaks-ballinahinch-woods-ashford-co-wicklow/5026069",
+    "https://www.myhome.ie/residential/brochure/29-kilmore-crescent-artane-dublin-5/5031718"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=31",
+  "paginationLimited": false
+}

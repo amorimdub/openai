@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "PRESENTATION PRIMARY",
+      "numPupils": 136,
+      "distance": {
+        "value": 0.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274204",
+        "lon": "-9.062489"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOGNÁID",
+      "numPupils": 499,
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270520",
+        "lon": "-9.062462"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 0.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272263",
+        "lon": "-9.055382"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE SHANTALLA",
+      "numPupils": 204,
+      "distance": {
+        "value": 0.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273502",
+        "lon": "-9.071456"
+      }
+    },
+    {
+      "schoolName": "SCOIL FHURSA",
+      "numPupils": 200,
+      "distance": {
+        "value": 0.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269077",
+        "lon": "-9.066319"
+      }
+    },
+    {
+      "schoolName": "ST NICHOLAS' PRIMARY SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276405",
+        "lon": "-9.054381"
+      }
+    },
+    {
+      "schoolName": "MERCY PRIMARY",
+      "numPupils": 261,
+      "distance": {
+        "value": 0.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275715",
+        "lon": "-9.053796"
+      }
+    },
+    {
+      "schoolName": "CLADDAGH NATIONAL SCHOOL",
+      "numPupils": 271,
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267433",
+        "lon": "-9.057794"
+      }
+    },
+    {
+      "schoolName": "SCOIL AINE SPECIAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268580",
+        "lon": "-9.074598"
+      }
+    },
+    {
+      "schoolName": "SCOIL RÓIS PRIMARY SCHOOL",
+      "numPupils": 315,
+      "distance": {
+        "value": 1.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268220",
+        "lon": "-9.076032"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OUR LADY'S COLLEGE",
+      "numPupils": 249,
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273636",
+        "lon": "-9.059698"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE MÁTHAIR",
+      "numPupils": 765,
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271027",
+        "lon": "-9.064991"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COLLEGE",
+      "numPupils": 767,
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272594",
+        "lon": "-9.058093"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 415,
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271060",
+        "lon": "-9.067110"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IOGNÁID S.J.",
+      "numPupils": 636,
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269960",
+        "lon": "-9.061381"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE",
+      "numPupils": 601,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268574",
+        "lon": "-9.076905"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÉINDE",
+      "numPupils": 806,
+      "distance": {
+        "value": 1.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.265705",
+        "lon": "-9.089664"
+      }
+    },
+    {
+      "schoolName": "SALERNO SECONDARY SCHOOL",
+      "numPupils": 666,
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.263810",
+        "lon": "-9.089556"
+      }
+    },
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 2.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA COIRIBE",
+      "numPupils": 666,
+      "distance": {
+        "value": 4.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269577",
+        "lon": "-9.123760"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Costello Rd",
+      "route": "402",
+      "destination": "Merlin Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274363",
+        "lon": "-9.064264"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University Hospl",
+      "route": "402",
+      "destination": "Merlin Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27606",
+        "lon": "-9.06361"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University Hospl",
+      "route": "424",
+      "destination": "Carna",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276392",
+        "lon": "-9.063489"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University Hospl",
+      "route": "434",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276392",
+        "lon": "-9.063489"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University Hospl",
+      "route": "410",
+      "destination": "An Cimín Mór",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276392",
+        "lon": "-9.063489"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University Hospl",
+      "route": "64",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276392",
+        "lon": "-9.063489"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University South",
+      "route": "920",
+      "destination": "Dublin Road",
+      "provider": "Healy Bus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276386",
+        "lon": "-9.06118"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University South",
+      "route": "427",
+      "destination": "University South",
+      "provider": "Burkesbus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276386",
+        "lon": "-9.06118"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University South",
+      "route": "435",
+      "destination": "University South",
+      "provider": "Burkesbus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276386",
+        "lon": "-9.06118"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "University South",
+      "route": "844",
+      "destination": "Droim Chaoin",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276386",
+        "lon": "-9.06118"
+      }
+    }
+  ]
+}

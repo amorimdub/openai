@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/steeplewood-killiney-avenue-killiney-co-dublin/6628457",
+  "fetchedAt": "2026-10-05T09:43:05.583Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/steeplewood-killiney-avenue-killiney-co-dublin/6628457",
+  "kind": "listing",
+  "responseSha256": "32519a3f11dd08bde13f01c027dacc9ca58838283a33904eb2c7a710af4680f8",
+  "files": [
+    {
+      "path": "daft/01810-417989006c235301-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "eb915f56af69bc680badb767fa51366f6242d9844d056dd3e81ac4f6abd0aa26",
+      "bytes": 169620
+    },
+    {
+      "path": "daft/01810-417989006c235301-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f308b4815086fe4d30aa602e6f675aea03c7ca398ce545e8e287e1a9542cc102",
+      "bytes": 8104
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

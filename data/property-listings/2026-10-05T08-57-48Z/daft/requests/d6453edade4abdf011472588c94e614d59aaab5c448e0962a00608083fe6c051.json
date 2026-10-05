@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-14-6-ushers-quay-dublin-8/6678316",
+  "fetchedAt": "2026-10-05T09:18:20.120Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-14-6-ushers-quay-dublin-8/6678316",
+  "kind": "listing",
+  "responseSha256": "bb265b950feea37cb02ac8ac44157fec2cbb703a1ee9eb291fd915f07f87231e",
+  "files": [
+    {
+      "path": "daft/00821-d6453edade4abdf0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f5f470f9691e9cf698ef3416e2e3f375cc6ae57e0985cd558bc8590d152e1896",
+      "bytes": 24325
+    },
+    {
+      "path": "daft/00821-d6453edade4abdf0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "20ebc33dd8a7edb1de141b52918e73a297d24e52b7c64e5e88ce341b3f4b95c6",
+      "bytes": 8009
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

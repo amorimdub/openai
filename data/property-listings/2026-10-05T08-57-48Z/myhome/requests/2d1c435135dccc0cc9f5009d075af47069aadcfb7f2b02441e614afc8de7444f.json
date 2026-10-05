@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=265",
+  "fetchedAt": "2026-10-05T12:31:25.192Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=265",
+  "kind": "search",
+  "responseSha256": "19aec40390047c358d1f62f1a070c274325142b1429b2788e174fce0842d536a",
+  "files": [
+    {
+      "path": "myhome/05997-2d1c435135dccc0c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=265\"].SearchResults",
+      "sha256": "7da15c99404bb836e7b77d4706fafb40d1fbadf607d150ef81dc8ccc19a7e296",
+      "bytes": 113919
+    },
+    {
+      "path": "myhome/05997-2d1c435135dccc0c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=265\"] (paging fields)",
+      "sha256": "e4debf991ac3b6d745ea553dea945b917249c5f74c79461910d0b8d752203c31",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/newtown-summerhill-road-dunboyne-co-meath/5025578",
+    "https://www.myhome.ie/residential/brochure/1-tirol-avenue-the-paddocks-cork/5025576",
+    "https://www.myhome.ie/residential/brochure/1-meadow-vale-sligo-sligo/5025574",
+    "https://www.myhome.ie/residential/brochure/4-amberley-lawn-grange-cork/5024976",
+    "https://www.myhome.ie/residential/brochure/54-carrickbrack-hill-sutton-dublin-13/4982037",
+    "https://www.myhome.ie/residential/brochure/glenview-baltimore-road-skibbereen-cork/5025571",
+    "https://www.myhome.ie/residential/brochure/28-ballycasey-crescent-shannon-co-clare/5025570",
+    "https://www.myhome.ie/residential/brochure/71-old-balreask-woods-navan-co-meath/5025568",
+    "https://www.myhome.ie/residential/brochure/18-gracemeadow-avenue-stamullen-meath/5025532",
+    "https://www.myhome.ie/residential/brochure/6-monument-view-westport-co-mayo/5025564",
+    "https://www.myhome.ie/residential/brochure/5-henry-street-bailieborough-co-cavan/5025559",
+    "https://www.myhome.ie/residential/brochure/2-ballygihen-sandycove-road-sandycove-county-dublin/5025498",
+    "https://www.myhome.ie/residential/brochure/4-belfry-gardens-citywest-co-dublin/5025554",
+    "https://www.myhome.ie/residential/brochure/31-the-grove-hunters-run-clonee-dublin-15/5025553",
+    "https://www.myhome.ie/residential/brochure/39-kilcarn-court-navan-county-meath/5025552",
+    "https://www.myhome.ie/residential/brochure/25-kinsella-hall-collegewood-castleknock-dublin-15/5025548",
+    "https://www.myhome.ie/residential/brochure/23-deerpark-ballinasloe-galway/5025542",
+    "https://www.myhome.ie/residential/brochure/44-the-green-belview-wood-maryborough-ridge-douglas-cork/5025527",
+    "https://www.myhome.ie/residential/brochure/glengad-pullathomas-ballina-mayo/5025530",
+    "https://www.myhome.ie/residential/brochure/32-balally-grove-dundrum-dublin-16/5025541"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=266",
+  "paginationLimited": false
+}

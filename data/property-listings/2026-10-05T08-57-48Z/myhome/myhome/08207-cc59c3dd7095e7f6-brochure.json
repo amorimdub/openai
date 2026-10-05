@@ -1,0 +1,552 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "an gorm main street cloughjordan tipperary",
+    "GroupId": 9815,
+    "Address": "An Gorm, Main Street",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/a52b2444-bccf-425b-adf3-f312174dd3e5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/cd062cc8-f524-4864-b886-e435a556de0b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/5f74ffd7-685d-4d0a-bb22-fd4569f8075d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d7e6132b-3933-41f1-8ff0-dd67f4774637_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/6b6b6e88-aa8a-4fd7-b368-45fdf26967f6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/26da9b3c-91f6-4ad3-bfa2-a4d2321b3095_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/844e8cc2-dae5-4709-a059-336a2b0c08d0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d157237f-ff03-4723-96fe-185c7ef77f0e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab0a8138-62e0-4683-9098-b6545a027ff4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab4eadd5-ed64-474d-ab1b-cb6d5d13c0f6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/20e6fb39-82f2-4f17-b524-50cc97151247_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/fc342fc2-6f59-46ff-9f28-d9eae3092f28_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/4ea03357-3b34-4b0d-acc2-8ce8731d66c5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/482854be-811a-4766-91fe-3f24819bd7d4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/4/4/5018444/b0d65c80-7683-4168-810d-fb1f24249396_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 111.80999755859375,
+    "MaxSize": 111.80999755859375,
+    "BerRating": "B3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€249,950",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "111.81",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5018444,
+        "DisplayAddress": "An Gorm, Main Street, Cloughjordan, Tipperary",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "9500ee4a-3628-4b4a-b83e-675ffc3c04e1",
+              "Filename": "7dcc183c-8901-4b0e-8e37-94bed3535e33.jpg",
+              "Caption": "https://media.propertypal.com/large/4ecf19c50129e3a52c0640194574b767/p/1092803/43388290.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "daf5cd92-bdbc-44ad-82be-44439b2c72d2",
+              "Filename": "a52b2444-bccf-425b-adf3-f312174dd3e5.jpg",
+              "Caption": "https://media.propertypal.com/large/71094c360ace9a157654047dd33a8b8a/p/1092803/43388289.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "30856322-8a18-4864-a777-7b59a5d20ad2",
+              "Filename": "cd062cc8-f524-4864-b886-e435a556de0b.jpg",
+              "Caption": "https://media.propertypal.com/large/400011fdddb6ff7e877dfc12198d3636/p/1092803/43388285.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5200d21b-adfb-4caa-8a7e-facfc1b182db",
+              "Filename": "5f74ffd7-685d-4d0a-bb22-fd4569f8075d.jpg",
+              "Caption": "https://media.propertypal.com/large/e553566da2729870a7c9b9edd1f0f2cf/p/1092803/43388288.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a6453e82-6d86-47d9-8701-a983ddac96ca",
+              "Filename": "d7e6132b-3933-41f1-8ff0-dd67f4774637.jpg",
+              "Caption": "https://media.propertypal.com/large/ff6a7a8698796f97d55941307d1de4b5/p/1092803/43388299.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "02355208-4c3c-49a1-a894-861901e268e2",
+              "Filename": "6b6b6e88-aa8a-4fd7-b368-45fdf26967f6.jpg",
+              "Caption": "https://media.propertypal.com/large/03fe6644c6e7c8951387ab0d3ce9fd38/p/1092803/43388300.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f00a7d3e-4c99-4095-b590-29787601e353",
+              "Filename": "26da9b3c-91f6-4ad3-bfa2-a4d2321b3095.jpg",
+              "Caption": "https://media.propertypal.com/large/6716d7d369dc4f8e8145eeb200f84882/p/1092803/43388298.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "68910be8-93a7-4c7d-b9cb-e8e18b66119f",
+              "Filename": "844e8cc2-dae5-4709-a059-336a2b0c08d0.jpg",
+              "Caption": "https://media.propertypal.com/large/2717aeda82285ad6a7aef4ba6bf6233f/p/1092803/43388303.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ee955e06-fc65-40a7-bd46-390fc33ccccb",
+              "Filename": "d157237f-ff03-4723-96fe-185c7ef77f0e.jpg",
+              "Caption": "https://media.propertypal.com/large/988cb0e85b7194566cdf36da27554ea4/p/1092803/43388311.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "720ad34f-a05a-49a0-98d3-6921be4164c9",
+              "Filename": "ab0a8138-62e0-4683-9098-b6545a027ff4.jpg",
+              "Caption": "https://media.propertypal.com/large/03032d1ef160b6c1a62c1c90b22697de/p/1092803/43388293.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "221eca48-e2f0-45f3-a9b3-b55043242c29",
+              "Filename": "ab4eadd5-ed64-474d-ab1b-cb6d5d13c0f6.jpg",
+              "Caption": "https://media.propertypal.com/large/b4a2e2065073797bbf894e4e65e2b72d/p/1092803/43388310.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3ce9fd6f-56e3-4fa8-b494-989b7076ca22",
+              "Filename": "20e6fb39-82f2-4f17-b524-50cc97151247.jpg",
+              "Caption": "https://media.propertypal.com/large/d922080124a58d633c3e7615407a0069/p/1092803/43388312.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8cac6dde-9026-4113-ac86-e01504ca5d3c",
+              "Filename": "fc342fc2-6f59-46ff-9f28-d9eae3092f28.jpg",
+              "Caption": "https://media.propertypal.com/large/9337987b4563addfca61455498f1ecc4/p/1092803/43388315.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "21d1fea8-7cce-414b-847f-fd43969a4105",
+              "Filename": "4ea03357-3b34-4b0d-acc2-8ce8731d66c5.jpg",
+              "Caption": "https://media.propertypal.com/large/afcfffb1f33df556d614e82e4077b1cb/p/1092803/43388306.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "31a89e7c-f3b8-41ce-85ef-37f95f9fc595",
+              "Filename": "482854be-811a-4766-91fe-3f24819bd7d4.jpg",
+              "Caption": "https://media.propertypal.com/large/7a55b9a27c0c492a6bcb5535f872018a/p/1092803/43388327.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bb8d23b0-0c01-4a26-b6ac-3bbb0e9f2e5b",
+              "Filename": "b0d65c80-7683-4168-810d-fb1f24249396.jpg",
+              "Caption": "https://media.propertypal.com/large/d4a8f3470a7bf3dc7f584575141e01bb/p/1092803/43388294.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "67c1e94c-b4f1-4ef9-9c15-e4771aa63937",
+              "Filename": "af6bd5aa-f3f3-4b1d-80e3-3eb3717171f0.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "0da1e28a87e244eb8eed6ad37f6c365f",
+          "OriginalImagesSuffix": "0da1e",
+          "MainPhoto": {
+            "Identifier": "9500ee4a-3628-4b4a-b83e-675ffc3c04e1",
+            "Filename": "7dcc183c-8901-4b0e-8e37-94bed3535e33.jpg",
+            "Caption": "https://media.propertypal.com/large/4ecf19c50129e3a52c0640194574b767/p/1092803/43388290.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "REA Eoin Dillon is delighted to present An Gorm, a beautifully maintained three-bedroom residence ideally situated in the heart of the picturesque village of Cloughjordan, Co. Tipperary. Built in 2003 and extending to approximately 111.81 sq.m. (1,203 sq.ft.), this attractive home offers spacious, well-appointed accommodation, making it an ideal choice for first-time buyers, families, or investors seeking a quality property in a vibrant village community.\n\nUpon entering, a welcoming entrance hall with solid wood flooring and a carpeted staircase leads to the upper floors. The bright and spacious open-plan kitchen, living and dining area forms the heart of the home, featuring solid wood flooring throughout. The fitted kitchen is equipped with an electric oven and hob and is plumbed for a washing machine, while patio doors from the dining area flood the space with natural light and provide access to the rear yard.\n\nThe first floor comprises two generously sized bedrooms, both finished with carpeted flooring, along with a convenient guest WC. The second floor is dedicated to the third bedroom, complete with its own en-suite bathroom. The main bathroom is fitted with lino flooring, an electric shower, WC and wash hand basin.\n\nExternally, the property benefits from a side entrance leading to a private rear yard, offering a low-maintenance outdoor space. Further enhancing its appeal is an impressive B3 BER, ensuring excellent energy efficiency and reduced running costs. \n\nViewing is highly recommended.\n\nEntrance Hallway - 2.87m (9'5) x 2.02m (6'8)\nSolid wood flooring\n\nLiving/Dining room - 6.07m (19'11) x 3.93m (12'11)\nSolid wood flooring with patio door to the rear\n\nKitchen - 3.93m (12'11) x 3.02m (9'11)\nSolid wood flooring, fitted units, electric oven and hob and is plumbed for a washing machine\n\nBedroom1 - 3.95m (13'0) x 3.32m (10'11)\nCarpeted flooring\n\nBedroom 2 - 4.27m (14'0) x 2.65m (8'8)\nCarpeted flooring\n\nGuest W.C. - 1.86m (6'1) x 0.92m (3'0)\nLino flooring, W.C. W.H.B.\n\nBedroom 3 - 5.27m (17'3) x 3.67m (12'0)\nCarpet flooring\n\nEn-suite bathroom - 2.03m (6'8) x 1.71m (5'7)\nLino flooring, electric shower with W.C. W.H.B.\n\nBathroom - 2.32m (7'7) x 1.79m (5'10)\nLino flooring, electric shower with W.C. W.H.B.\n\n\nDirections\nThis property is located on the Main Street in Cloughjordan village and can be identified by our For Sale sign. Eircode: E53 E623\n\nNotice\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Three bedroom property ready for immediate occupancy\nFantastic location within walking distance to Cloughjordan centre and all amenities\nO.F.C.H, mains water & sewerage\nFibre broadband in the area\nIdeal first time buyer or investment opportunity"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER Number: 116426586"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 100,
+    "MaxEnergyRating": 100,
+    "BERGrade": "B",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-07-31T10:10:53.6370000+01:00",
+    "ModifiedOnDate": "2026-08-26T10:46:55.0930000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-07-31T10:10:53.6370000+01:00",
+    "RefreshedOn": "2026-07-31T10:10:53.6370000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+    "IsTransact": false,
+    "PriceAsString": "€249,950",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5018444,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 111.81,
+    "DisplayAddress": "An Gorm, Main Street, Cloughjordan, Tipperary",
+    "Eircode": "E53E623",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "End of Terrace",
+    "PropertyTypeId": 45,
+    "RegionId": 3587,
+    "RegionName": "Tipperary",
+    "LocalityId": 3601,
+    "LocalityName": "Cloughjordan",
+    "Price": {
+      "MinPrice": 249950,
+      "MaxPrice": 249950,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/7dcc183c-8901-4b0e-8e37-94bed3535e33_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/a52b2444-bccf-425b-adf3-f312174dd3e5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/a52b2444-bccf-425b-adf3-f312174dd3e5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/a52b2444-bccf-425b-adf3-f312174dd3e5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/cd062cc8-f524-4864-b886-e435a556de0b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/cd062cc8-f524-4864-b886-e435a556de0b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/cd062cc8-f524-4864-b886-e435a556de0b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/5f74ffd7-685d-4d0a-bb22-fd4569f8075d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/5f74ffd7-685d-4d0a-bb22-fd4569f8075d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/5f74ffd7-685d-4d0a-bb22-fd4569f8075d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d7e6132b-3933-41f1-8ff0-dd67f4774637_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d7e6132b-3933-41f1-8ff0-dd67f4774637_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d7e6132b-3933-41f1-8ff0-dd67f4774637_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/6b6b6e88-aa8a-4fd7-b368-45fdf26967f6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/6b6b6e88-aa8a-4fd7-b368-45fdf26967f6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/6b6b6e88-aa8a-4fd7-b368-45fdf26967f6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/26da9b3c-91f6-4ad3-bfa2-a4d2321b3095_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/26da9b3c-91f6-4ad3-bfa2-a4d2321b3095_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/26da9b3c-91f6-4ad3-bfa2-a4d2321b3095_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/844e8cc2-dae5-4709-a059-336a2b0c08d0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/844e8cc2-dae5-4709-a059-336a2b0c08d0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/844e8cc2-dae5-4709-a059-336a2b0c08d0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d157237f-ff03-4723-96fe-185c7ef77f0e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d157237f-ff03-4723-96fe-185c7ef77f0e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/d157237f-ff03-4723-96fe-185c7ef77f0e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab0a8138-62e0-4683-9098-b6545a027ff4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab0a8138-62e0-4683-9098-b6545a027ff4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab0a8138-62e0-4683-9098-b6545a027ff4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab4eadd5-ed64-474d-ab1b-cb6d5d13c0f6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab4eadd5-ed64-474d-ab1b-cb6d5d13c0f6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/ab4eadd5-ed64-474d-ab1b-cb6d5d13c0f6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/20e6fb39-82f2-4f17-b524-50cc97151247_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/20e6fb39-82f2-4f17-b524-50cc97151247_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/20e6fb39-82f2-4f17-b524-50cc97151247_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/fc342fc2-6f59-46ff-9f28-d9eae3092f28_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/fc342fc2-6f59-46ff-9f28-d9eae3092f28_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/fc342fc2-6f59-46ff-9f28-d9eae3092f28_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/4ea03357-3b34-4b0d-acc2-8ce8731d66c5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/4ea03357-3b34-4b0d-acc2-8ce8731d66c5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/4ea03357-3b34-4b0d-acc2-8ce8731d66c5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/482854be-811a-4766-91fe-3f24819bd7d4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/482854be-811a-4766-91fe-3f24819bd7d4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/482854be-811a-4766-91fe-3f24819bd7d4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/b0d65c80-7683-4168-810d-fb1f24249396_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/b0d65c80-7683-4168-810d-fb1f24249396_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/b0d65c80-7683-4168-810d-fb1f24249396_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -8.0392939,
+      "latitude": 52.9429162
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 16,
+    "Pdfs": [
+      {
+        "Name": "Brochure",
+        "Url": "https://photos-a.propertyimages.ie/media/4/4/4/5018444/af6bd5aa-f3f3-4b1d-80e3-3eb3717171f0.pdf"
+      }
+    ],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9815,
+    "Name": "REA Eoin Dillon",
+    "DisplayPhone": "067 33 468",
+    "Email": "info@readillon.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "rea-eoin-dillon",
+    "SeoName": "rea-eoin-dillon",
+    "Address": "42 Kenyon Street, Nenagh, Co. Tipperary",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/5/1/8/9815/logo.jpg",
+    "SalesLicense": "001790",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "cloughjordan/3601",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024332,
+      "PropertyClassId": 1,
+      "DisplayAddress": "27 Bruach Tailte, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/3/3/5024332/896a0834-70bd-4396-9117-5e0205778b2d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/27-bruach-tailte-nenagh-tipperary/5024332"
+    },
+    {
+      "PropertyId": 5021842,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Downamona, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/8/5021842/6f778020-f590-4e10-ad1d-1cfdd19b2c1f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/downamona-nenagh-tipperary/5021842"
+    },
+    {
+      "PropertyId": 5018455,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Nalagiri House (, Site), Carrigahorig, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/5/4/5018455/bdc647df-3ba2-4fb7-a1de-6e0da0a808be_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/nalagiri-house-site-carrigahorig-tipperary/5018455"
+    },
+    {
+      "PropertyId": 5014787,
+      "PropertyClassId": 1,
+      "DisplayAddress": "6 Glengown, Silvermines, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/8/7/5014787/9e4949b7-745d-4f9f-a264-0f2bf5c6b077_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/6-glengown-silvermines-nenagh-tipperary/5014787"
+    },
+    {
+      "PropertyId": 5006635,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Gortnagrann, Borrisokane, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/3/6/5006635/c240f337-35c0-42ca-ae70-e0624c1df1f9_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/gortnagrann-borrisokane-nenagh-tipperary/5006635"
+    },
+    {
+      "PropertyId": 5003304,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Skehana, Coolbawn, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/0/3/5003304/d583e5e7-e6f6-44a7-a69c-dc6d992fadd2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/skehana-coolbawn-nenagh-tipperary/5003304"
+    },
+    {
+      "PropertyId": 5002650,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Killeen, Borrisokane, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/5/6/5002650/82a81f82-2e42-4fc2-88ed-ab2802789b87_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/killeen-borrisokane-nenagh-tipperary/5002650"
+    },
+    {
+      "PropertyId": 5002123,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Knocknakill, Kilcommon, Thurles, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/2/1/5002123/a812f1f6-9456-4c90-b9e6-6513c97566f2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/knocknakill-kilcommon-thurles-tipperary/5002123"
+    },
+    {
+      "PropertyId": 5000297,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Curraghmore House ( Glebe House), Borrisokane, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/9/2/5000297/62f38028-430f-4163-bf61-3fcbd396d7b9_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/curraghmore-house-glebe-house-borrisokane-nenagh-tipperary/5000297"
+    },
+    {
+      "PropertyId": 4993524,
+      "PropertyClassId": 1,
+      "DisplayAddress": "19 Fairgreen, Borrisokane, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/2/5/4993524/cf3762a7-90b8-41eb-9c36-e6c2bd92446e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/19-fairgreen-borrisokane-nenagh-tipperary/4993524"
+    },
+    {
+      "PropertyId": 4943567,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Grenanstown, Toomevara, Nenagh, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/6/5/4943567/deedba0f-1350-444d-a7e7-e0447f8b3eb1_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/grenanstown-toomevara-nenagh-tipperary/4943567"
+    },
+    {
+      "PropertyId": 4822930,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Behamore (@ Birr Junction), Cloughjordan, Tipperary",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/3/9/4822930/7a182dd9-552f-459a-953e-ce119da9722f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/behamore-birr-junction-cloughjordan-tipperary/4822930"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/an-gorm-main-street-cloughjordan-tipperary/5018444",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9815,
+    "MYH_LocalityID": 3601,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 3587,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Broadband"
+    ],
+    "MYH_PropertyFeatureIDListString": "Broadband",
+    "MYH_MaxPrice": 250000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 100,
+    "MYH_MinPrice": 250000,
+    "MYH_MinSize": 112,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5018444,
+    "MYH_PropertyTypeID": 45
+  }
+}

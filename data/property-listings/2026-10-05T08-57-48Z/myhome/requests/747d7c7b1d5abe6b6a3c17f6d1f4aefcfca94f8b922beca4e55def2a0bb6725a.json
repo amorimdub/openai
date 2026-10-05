@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=297",
+  "fetchedAt": "2026-10-05T12:48:07.107Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=297",
+  "kind": "search",
+  "responseSha256": "26cc24524b6793e7ffefae93d9f3bcba72e00ccc2688c2204c8d09a8fb30260b",
+  "files": [
+    {
+      "path": "myhome/06659-747d7c7b1d5abe6b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=297\"].SearchResults",
+      "sha256": "a45da42e4525ef9e5d941bab4ae0df7f46700617839bec596a1e39af62ae14a6",
+      "bytes": 110351
+    },
+    {
+      "path": "myhome/06659-747d7c7b1d5abe6b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=297\"] (paging fields)",
+      "sha256": "ac68bf42465f467831b4427a3b553eeced2666f064b736ec25f3cefab915c7bb",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/st-endas-channel-road-rush-co-dublin/5024319",
+    "https://www.myhome.ie/residential/brochure/kilastafford-cashel-tipperary/5024316",
+    "https://www.myhome.ie/residential/brochure/8-selskar-court-selskar-wexford-town-wexford/5024310",
+    "https://www.myhome.ie/residential/brochure/derrydruel-dungloe-county-donegal/5024309",
+    "https://www.myhome.ie/residential/brochure/8-parnell-court-harold-s-cross-dublin-12/5010834",
+    "https://www.myhome.ie/residential/brochure/blackhall-cottage-gortnalougher-cloone-co-leitrim/5024304",
+    "https://www.myhome.ie/residential/brochure/9-glencairn-avenue-the-gallops-leopardstown-dublin-18/5024301",
+    "https://www.myhome.ie/residential/brochure/47-glenaan-road-whitehall-dublin-9/5011664",
+    "https://www.myhome.ie/residential/brochure/73-abbeyfield-killester-dublin-5/5004398",
+    "https://www.myhome.ie/residential/brochure/apartment-70-sonata-harty-s-quay-rochestown-road-cork-city-co-cork/5024298",
+    "https://www.myhome.ie/residential/brochure/127-leighlin-road-crumlin-dublin-12/5024256",
+    "https://www.myhome.ie/residential/brochure/7-block-3-clarion-quay-ifsc-dublin-1/5024291",
+    "https://www.myhome.ie/residential/brochure/cornabrone-drumcong-leitrim/5024290",
+    "https://www.myhome.ie/residential/brochure/ardballa-ballyclough-limerick-county-limerick/5024288",
+    "https://www.myhome.ie/residential/brochure/10-saint-claire-s-taylor-s-hill-road-taylor-s-hill-galway/5024287",
+    "https://www.myhome.ie/residential/brochure/4-ailesbury-gardens-ballsbridge-dublin-4/4930136",
+    "https://www.myhome.ie/residential/brochure/13-parkview-drive-finglas-dublin-11/5024285",
+    "https://www.myhome.ie/residential/brochure/28-banna-beach-holiday-home-ardfert-kerry/5023507",
+    "https://www.myhome.ie/residential/brochure/karibu-2-mellifont-avenue-dun-laoghaire-co-dublin/5024279",
+    "https://www.myhome.ie/residential/brochure/17-manor-quarter-knock-mayo/5024024"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=298",
+  "paginationLimited": false
+}

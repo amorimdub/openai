@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/newry-road-dundalk-co-louth/6684621",
+  "fetchedAt": "2026-10-05T09:41:42.946Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/newry-road-dundalk-co-louth/6684621",
+  "kind": "listing",
+  "responseSha256": "8c15958c2ac1057268c79d56ab7377ac7f0c45aa838334607444cad758fb8978",
+  "files": [
+    {
+      "path": "daft/01755-c8066ece61f956cf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0706e9e897c1f3de1170ba6156e2398447fd4c2a45ddaad3f73b4dd3b73f3383",
+      "bytes": 18055
+    },
+    {
+      "path": "daft/01755-c8066ece61f956cf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1d6786d4e5ea50a232460cb3d69c06c486d959cda1592784ed7e4d90aaac350a",
+      "bytes": 8020
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

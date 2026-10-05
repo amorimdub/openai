@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/grangegorman-grangegorman-lower-dublin-7/6553956",
+  "fetchedAt": "2026-10-05T09:04:44.597Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/grangegorman-grangegorman-lower-dublin-7/6553956",
+  "kind": "listing",
+  "responseSha256": "1e1977cdba48617e9f6b409edbd6b3ec2b70752bf109b38e6cf9088bc05a9edf",
+  "files": [
+    {
+      "path": "daft/00278-7ae28f8e4a20b098-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ff4a9ad07d0a219e932c8649b291a6c5f56a8a47033685f59e730e1f974cff15",
+      "bytes": 81655
+    },
+    {
+      "path": "daft/00278-7ae28f8e4a20b098-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "401f3effb2831fba25fad548f39a45979fcbe36ffc0a7bc4b3ed3349a3dac495",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

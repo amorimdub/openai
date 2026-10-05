@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=462",
+  "fetchedAt": "2026-10-05T14:12:42.261Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=462",
+  "kind": "search",
+  "responseSha256": "aaffa2cc243d0f3581265c6394ba9f0a37cb9a3da92688e15c8c8a3b6e9f3a8b",
+  "files": [
+    {
+      "path": "myhome/10035-2f2afb72b4e15e55-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=462\"].SearchResults",
+      "sha256": "0ab18c68a11f84afdaf5b75abd5471fbe3226d4b225ac0c780e59ff8984c5e31",
+      "bytes": 117501
+    },
+    {
+      "path": "myhome/10035-2f2afb72b4e15e55-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=462\"] (paging fields)",
+      "sha256": "b71b6b5cf45f82cf025be5bcb560dc454f71e1e4e19e2f1eee3cd2ca1132ba35",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/42-the-cross-of-newtown-ballyroan-laois/5006566",
+    "https://www.myhome.ie/residential/brochure/6-shanganagh-terrace-killiney-county-dublin/5006983",
+    "https://www.myhome.ie/residential/brochure/69-harmonstown-road-artane-dublin-5/5000344",
+    "https://www.myhome.ie/residential/brochure/8-ardmore-park-artane-dublin-5/5001102",
+    "https://www.myhome.ie/residential/brochure/3-liffey-street-south-kilmainham-dublin-10-dublin/5007249",
+    "https://www.myhome.ie/residential/brochure/3-bramley-hall-hamilton-park-castleknock-dublin-15/5007253",
+    "https://www.myhome.ie/residential/brochure/5-the-avenue-orlynn-park-lusk-dublin/5007212",
+    "https://www.myhome.ie/residential/brochure/knockmore-drinagh-west-cork/5007243",
+    "https://www.myhome.ie/residential/brochure/cooligmartin-house-3-ballynacarrig-brittas-bay-co-wicklow/5007238",
+    "https://www.myhome.ie/residential/brochure/primrose-cottage-orchard-road-cork/5006970",
+    "https://www.myhome.ie/residential/brochure/26-the-gates-matthew-hill-lehenaghmore-cork-city-cork/5007178",
+    "https://www.myhome.ie/residential/brochure/3-barcoon-bangor-erris-ballina-mayo/5007203",
+    "https://www.myhome.ie/residential/brochure/aisling-knocknacarra-road-knocknacarra-galway/5007209",
+    "https://www.myhome.ie/residential/brochure/pheasant-s-rise-ballykealey-ballon-carlow/5007182",
+    "https://www.myhome.ie/residential/brochure/ballyeagh-ballybunion-co-kerry/5005523",
+    "https://www.myhome.ie/residential/brochure/49-saint-macartans-villa-s-carrickmacross-monaghan/5007202",
+    "https://www.myhome.ie/residential/brochure/15-parkview-drive-finglas-dublin-11/5005977",
+    "https://www.myhome.ie/residential/brochure/cloughwally-lettermacaward-county-donegal/5007180",
+    "https://www.myhome.ie/residential/brochure/lisieux-4-clon-road-ennis-co-clare/5007176",
+    "https://www.myhome.ie/residential/brochure/113-bayside-boulevard-north-sutton-dublin-13/4986291"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=463",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=312",
+  "fetchedAt": "2026-10-05T12:55:45.646Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=312",
+  "kind": "search",
+  "responseSha256": "ccce336032db315bdaf6e8998e133a7d1bbfc262257b8794cbaf7a21b9ecf021",
+  "files": [
+    {
+      "path": "myhome/06964-22470feb3f9f5e47-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=312\"].SearchResults",
+      "sha256": "c6e5238f6e263edb29a179d05b1fce6fdc23bb520d04580eea2ae1598f1a1b4d",
+      "bytes": 114852
+    },
+    {
+      "path": "myhome/06964-22470feb3f9f5e47-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=312\"] (paging fields)",
+      "sha256": "782de4de6ed88bbf2abc54bb7f32baa5827bb4c2b894167297c2333feafd241f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/28-silverdale-kilmuckridge-gorey-wexford/5023237",
+    "https://www.myhome.ie/residential/brochure/newport-road-castlebar-co-mayo/5023238",
+    "https://www.myhome.ie/residential/brochure/apartment-25-chestnut-cois-locha-castlebar-co-mayo/5023230",
+    "https://www.myhome.ie/residential/brochure/24-holywell-drive-kilcoole-greystones-co-wicklow/5023228",
+    "https://www.myhome.ie/residential/brochure/3-willow-creek-sligo-rd-ballina-co-mayo/5023225",
+    "https://www.myhome.ie/residential/brochure/the-laurel-bennetstown-dunboyne-meath/5023193",
+    "https://www.myhome.ie/residential/brochure/106-thomond-road-ballyfermot-dublin-10/5023215",
+    "https://www.myhome.ie/residential/brochure/slevin-tulsk-roscommon-co-roscommon/5023209",
+    "https://www.myhome.ie/residential/brochure/shanragh-wolfhill-ballylynan-laois/5023196",
+    "https://www.myhome.ie/residential/brochure/middleknock-kilkenny-kilkenny/5023172",
+    "https://www.myhome.ie/residential/brochure/money-beg-dunlewey-county-donegal/5023205",
+    "https://www.myhome.ie/residential/brochure/rossmore-errill-portlaoise-laois/5023201",
+    "https://www.myhome.ie/residential/brochure/25-newlands-manor-park-clondalkin-dublin-22/5023199",
+    "https://www.myhome.ie/residential/brochure/the-bramble-bennetstown-dunboyne-meath/5023190",
+    "https://www.myhome.ie/residential/brochure/22-derrybeg-edenderry-offaly/5023191",
+    "https://www.myhome.ie/residential/brochure/38-riverside-rise-rushbrooke-links-cobh-cork/5023183",
+    "https://www.myhome.ie/residential/brochure/tierlahood-stradone-cavan/5000283",
+    "https://www.myhome.ie/residential/brochure/land-at-drumbar-drumbar-co-cavan/5023186",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-homes-palmer-gardens-rush-county-dublin/4979691",
+    "https://www.myhome.ie/residential/brochure/commercial-unit-3-x-one-bedroom-residential-units-at-10-north-king-street-dublin-7-dublin/5022957"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=313",
+  "paginationLimited": false
+}

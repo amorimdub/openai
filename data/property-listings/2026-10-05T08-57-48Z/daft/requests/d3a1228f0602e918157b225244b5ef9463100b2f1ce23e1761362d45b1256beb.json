@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1b-the-drumlins-cavan-co-cavan/6683894",
+  "fetchedAt": "2026-10-05T09:46:02.877Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1b-the-drumlins-cavan-co-cavan/6683894",
+  "kind": "listing",
+  "responseSha256": "3420fd801164bc09de92ddd0469fbf240801f47f042a779357cdad493565e38c",
+  "files": [
+    {
+      "path": "daft/01928-d3a1228f0602e918-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5ef27d3521744f5628aeb31d0ef9038a2709f65040d0fb101e9fefc1a8f2a00e",
+      "bytes": 20549
+    },
+    {
+      "path": "daft/01928-d3a1228f0602e918-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "81bdfe707038bddab19f10249e826eae58df260ec22495fd257d5e830c337554",
+      "bytes": 8027
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

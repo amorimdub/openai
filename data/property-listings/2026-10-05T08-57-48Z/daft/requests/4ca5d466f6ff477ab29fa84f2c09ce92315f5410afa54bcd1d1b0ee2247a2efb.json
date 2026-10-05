@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-u-drogheda-bryanstown-beanmore-rd-drogheda-co-meath/4619879",
+  "fetchedAt": "2026-10-05T09:08:50.869Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-u-drogheda-bryanstown-beanmore-rd-drogheda-co-meath/4619879",
+  "kind": "listing",
+  "responseSha256": "274eb747e49c1aa02c8b95faae5bfec484f029042f5f8b2078633ae894a8b364",
+  "files": [
+    {
+      "path": "daft/00442-4ca5d466f6ff477a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8482f3959177ee28ba5662707e908c24e8a22642942a72ba727a82393ee18503",
+      "bytes": 46483
+    },
+    {
+      "path": "daft/00442-4ca5d466f6ff477a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fbb7a4cbad6a051a5aaa4428dd87f2c2eea61d1203ae9b2550946e9bf1d63d24",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

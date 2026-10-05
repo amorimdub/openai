@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=383",
+  "fetchedAt": "2026-10-05T13:31:56.126Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=383",
+  "kind": "search",
+  "responseSha256": "dedbf84ef9017addbc43a2fe90557b172bea37f3d1df91c72e0a18ed2ec60ec6",
+  "files": [
+    {
+      "path": "myhome/08408-a01519ca8456ef2c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=383\"].SearchResults",
+      "sha256": "0b4b961e57c2acd275744dbac8627fcb20ba4eed2fb46e28462cbd22b505b4b9",
+      "bytes": 118414
+    },
+    {
+      "path": "myhome/08408-a01519ca8456ef2c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=383\"] (paging fields)",
+      "sha256": "f967aabe8cde437134c888dcc32fcbc37d32b861a117b81f1a84aa13be227068",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/main-street-monasterevin-kildare/5017383",
+    "https://www.myhome.ie/residential/brochure/south-berrings-cork-dripsey-co-cork/5017379",
+    "https://www.myhome.ie/residential/brochure/41-st-patricks-wood-edenderry-offaly/5017366",
+    "https://www.myhome.ie/residential/brochure/tullycanna-ballymitty-wexford/5017339",
+    "https://www.myhome.ie/residential/brochure/kilbride-point-clonbur-co-galway/5017367",
+    "https://www.myhome.ie/residential/brochure/4-the-furze-oldgrange-wood-monasterevin-kildare/5015634",
+    "https://www.myhome.ie/residential/brochure/59-cluain-craoibh-kinnegad-mullingar-co-westmeath/5017363",
+    "https://www.myhome.ie/residential/brochure/killowen-old-circular-road-sligo-sligo/5017360",
+    "https://www.myhome.ie/residential/brochure/the-meadows-rahanane-kilcummin-killarney-co-kerry/5017362",
+    "https://www.myhome.ie/residential/brochure/apartment-1-station-house-new-quarter-mcdonagh-junction-kilkenny-kilkenny/4967717",
+    "https://www.myhome.ie/residential/brochure/cragg-abbeyfeale-co-limerick/5017356",
+    "https://www.myhome.ie/residential/brochure/18-orchard-close-plus-attic-conversion-donabate-co-dublin/5017018",
+    "https://www.myhome.ie/residential/brochure/24-templeacre-avenue-gurranabraher-cork-city/5017345",
+    "https://www.myhome.ie/residential/brochure/2-ballyvoodock-blackwater-wexford/5017341",
+    "https://www.myhome.ie/residential/brochure/85-the-campion-marina-village-greystones-wicklow/5017337",
+    "https://www.myhome.ie/residential/brochure/6-dun-greinne-showhouse-coolgreany-gorey-co-wexford/5000247",
+    "https://www.myhome.ie/residential/brochure/23-deerpark-place-kiltipper-dublin-24/5017334",
+    "https://www.myhome.ie/residential/brochure/madavagh-lettermacaward-county-donegal/5017324",
+    "https://www.myhome.ie/residential/brochure/11-main-street-listowel-co-kerry/5017313",
+    "https://www.myhome.ie/residential/brochure/30-the-fairways-seabrook-manor-portmarnock-dublin/5017296"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=384",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=101",
+  "fetchedAt": "2026-10-05T11:05:58.883Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=101",
+  "kind": "search",
+  "responseSha256": "d57d1b3b74209b37c3e9090b36e86773701586a0c51cc704905a7c8188daa696",
+  "files": [
+    {
+      "path": "myhome/02606-6a8f3cdb3842a5a1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=101\"].SearchResults",
+      "sha256": "d16c67f27d741f5a2c067a3fbf83db0dea0dc07552fab6f9a960e61c0777aa57",
+      "bytes": 116938
+    },
+    {
+      "path": "myhome/02606-6a8f3cdb3842a5a1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=101\"] (paging fields)",
+      "sha256": "dce8760b8bb4fe51c3d6fd5e383379bbd0113eddf73589562212100afc3c630e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/21-station-court-view-coolmine-dublin-15/5030353",
+    "https://www.myhome.ie/residential/brochure/gleann-droimnin-carrickmacross-monaghan/5030352",
+    "https://www.myhome.ie/residential/brochure/ellesmere-taylorstown-ballycullane-co-wexford/5030345",
+    "https://www.myhome.ie/residential/brochure/hill-view-house-ardfarna-bundoran-co-donegal/5030341",
+    "https://www.myhome.ie/residential/brochure/treanlaur-maree-oranmore-co-galway/5030339",
+    "https://www.myhome.ie/residential/brochure/coomfarna-dunbeacon-durrus-west-cork/5028898",
+    "https://www.myhome.ie/residential/brochure/apartment-52-hillcourt-rathgar-dublin-6/5030332",
+    "https://www.myhome.ie/residential/brochure/190-gort-na-coiribe-headford-road-headford-road-galway/5024178",
+    "https://www.myhome.ie/residential/brochure/apartment-3-70-leeson-close-dublin-2/5030328",
+    "https://www.myhome.ie/residential/brochure/44-malahide-road-clontarf-dublin-3/5022852",
+    "https://www.myhome.ie/residential/brochure/5-richmond-hall-drumcondra-dublin-3/5030326",
+    "https://www.myhome.ie/residential/brochure/13-whitehall-road-churchtown-dublin-14/5030325",
+    "https://www.myhome.ie/residential/brochure/apartment-183-clifden-court-arbour-hill-dublin-7/5030317",
+    "https://www.myhome.ie/residential/brochure/apartment-22-longford-house-ifsc-dublin-1/5030318",
+    "https://www.myhome.ie/residential/brochure/kiltrellig-kilbaha-clare/5028281",
+    "https://www.myhome.ie/residential/brochure/64-an-fiodan-doughiska-galway/5030320",
+    "https://www.myhome.ie/residential/brochure/apartment-22-malton-ballsbridge-dublin-4/5030315",
+    "https://www.myhome.ie/residential/brochure/14-crannagh-court-granges-road-kilkenny/4958823",
+    "https://www.myhome.ie/residential/brochure/1-crannagh-court-granges-road-kilkenny/4958831",
+    "https://www.myhome.ie/residential/brochure/45-ballygologue-park-listowel-co-kerry/5026719"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=102",
+  "paginationLimited": false
+}

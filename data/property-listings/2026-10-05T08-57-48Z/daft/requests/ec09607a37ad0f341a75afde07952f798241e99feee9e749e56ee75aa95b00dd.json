@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/70-toberjarlath-road-tuam-co-galway/6645493",
+  "fetchedAt": "2026-10-05T09:36:06.539Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/70-toberjarlath-road-tuam-co-galway/6645493",
+  "kind": "listing",
+  "responseSha256": "6bbf6de56e25e13cd9983c19b7dd98b938b7cbc2909d0c9ba8965fd85c3a7df5",
+  "files": [
+    {
+      "path": "daft/01531-ec09607a37ad0f34-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "652a1640fd811548659bf2a8d86b642ed8545da52530da1139046a414eab7f72",
+      "bytes": 63536
+    },
+    {
+      "path": "daft/01531-ec09607a37ad0f34-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0eef293b27c56dceefb284398d2787c651dfa32343e05383c0f980ae9e61d07a",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

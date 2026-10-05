@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/gravelmount-house-castletown-navan-castletown-co-meath/6650262",
+  "fetchedAt": "2026-10-05T09:21:02.289Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/gravelmount-house-castletown-navan-castletown-co-meath/6650262",
+  "kind": "listing",
+  "responseSha256": "0ff3d39acdb23f022b4194c9348084b03bdbf254e0b8ba8cb5995227296fafae",
+  "files": [
+    {
+      "path": "daft/00929-51f888129a9fc0df-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "83d47ab4eec0aa6a4c9a220f8542c6051df2d2a8681796393ebbce24c4bc869f",
+      "bytes": 20726
+    },
+    {
+      "path": "daft/00929-51f888129a9fc0df-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aa91efe092209a597b137b2c3cb653faf8fc68756cc0bfbcf05fbe97db6f7fe6",
+      "bytes": 8126
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

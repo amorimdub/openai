@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=443",
+  "fetchedAt": "2026-10-05T14:02:42.517Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=443",
+  "kind": "search",
+  "responseSha256": "ab63338d39adeb1ff52b679df5407e382a4483391b22c68eeae9d8020314030c",
+  "files": [
+    {
+      "path": "myhome/09636-acd10790e55790d4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=443\"].SearchResults",
+      "sha256": "f106167310526fb6c152c7a0b5dbdb02a1dd988473edeb082d05d46df43eda4f",
+      "bytes": 120835
+    },
+    {
+      "path": "myhome/09636-acd10790e55790d4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=443\"] (paging fields)",
+      "sha256": "db41fff8869f262c73ffe5f9e0cee6b05583fd4e464bfb53f81234f8494cc331",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ivernia-coast-road-myrtleville-cork/5009269",
+    "https://www.myhome.ie/residential/brochure/9-dungriffin-villas-howth-dublin-13/4955096",
+    "https://www.myhome.ie/residential/brochure/toame-glen-carrigart-county-donegal/5009483",
+    "https://www.myhome.ie/residential/brochure/19-belarmine-vale-stepaside-dublin-18/4985954",
+    "https://www.myhome.ie/residential/brochure/ardagh-west-rosscarbery-west-cork/5009460",
+    "https://www.myhome.ie/residential/brochure/kilmartin-hollystown-dublin-15/5009471",
+    "https://www.myhome.ie/residential/brochure/dooradoyle-road-dooradoyle-county-limerick/5009474",
+    "https://www.myhome.ie/residential/brochure/50-rockboro-heights-waterpark-carrigaline-cork/4989292",
+    "https://www.myhome.ie/residential/brochure/15-grosvenor-square-rathmines-dublin-6/5009466",
+    "https://www.myhome.ie/residential/brochure/43-annsfield-woods-athlone-westmeath/5009461",
+    "https://www.myhome.ie/residential/brochure/9-the-park-moyglare-hall-maynooth-co-kildare/5009462",
+    "https://www.myhome.ie/residential/brochure/23-millbrook-court-midleton-cork-midleton-cork/5009168",
+    "https://www.myhome.ie/residential/brochure/lettermore-na-coille-shanvally-camus-co-galway/5009457",
+    "https://www.myhome.ie/residential/brochure/lowlands-killadreenan-newcastle-wicklow/4956811",
+    "https://www.myhome.ie/residential/brochure/61-keeper-rd-61-keeper-road-drimnagh-dublin-12-co-dublin/5009454",
+    "https://www.myhome.ie/residential/brochure/4-lakeside-our-lady-s-island-co-wexford/5009453",
+    "https://www.myhome.ie/residential/brochure/62-siul-na-habhann-mill-road-corbally-county-limerick/5009447",
+    "https://www.myhome.ie/residential/brochure/12-cannon-s-court-mountcharles-donegal/5009437",
+    "https://www.myhome.ie/residential/brochure/21a-glenamuck-cottages-carrickmines-dublin-18/4985852",
+    "https://www.myhome.ie/residential/brochure/clonhaston-enniscorthy-wexford/5009425"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=444",
+  "paginationLimited": false
+}

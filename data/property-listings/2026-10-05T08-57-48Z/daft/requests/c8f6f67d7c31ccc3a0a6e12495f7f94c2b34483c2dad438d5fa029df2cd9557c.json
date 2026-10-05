@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-tallow-ashtown-co-dublin/6686755",
+  "fetchedAt": "2026-10-05T09:26:11.744Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-tallow-ashtown-co-dublin/6686755",
+  "kind": "listing",
+  "responseSha256": "1cdf5bb16da86e3e8182e3d6f90338e45d62adf61b9a4bcda35e54c5985031f4",
+  "files": [
+    {
+      "path": "daft/01135-c8f6f67d7c31ccc3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dcba0a48bb8bd0d1d4a52c2ad383763fd884df2c545d321fcdf1569ffd310f71",
+      "bytes": 20465
+    },
+    {
+      "path": "daft/01135-c8f6f67d7c31ccc3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2559aa871009948fe821a368d72d26f78436e1573cde9bd9486a89813b682950",
+      "bytes": 8052
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

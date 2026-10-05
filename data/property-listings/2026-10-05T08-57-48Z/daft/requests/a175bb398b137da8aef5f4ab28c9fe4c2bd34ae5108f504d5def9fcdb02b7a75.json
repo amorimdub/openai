@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/carnalway-kilcullen-corbally-co-kildare/6681959",
+  "fetchedAt": "2026-10-05T09:51:06.404Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/carnalway-kilcullen-corbally-co-kildare/6681959",
+  "kind": "listing",
+  "responseSha256": "597a31a260bd3460d56f9cb39393f165aa95c2a8d02c0f4da7373dcd1a229cd3",
+  "files": [
+    {
+      "path": "daft/02130-a175bb398b137da8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9e8ce65ceed85acf00532c4a7b45ac78f45a143efa2e076bc24390512a31a8ae",
+      "bytes": 18254
+    },
+    {
+      "path": "daft/02130-a175bb398b137da8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "88f60845f516d61f4992f03c66128e78ff46f819d636b474891e4cce06ce7bb3",
+      "bytes": 8250
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

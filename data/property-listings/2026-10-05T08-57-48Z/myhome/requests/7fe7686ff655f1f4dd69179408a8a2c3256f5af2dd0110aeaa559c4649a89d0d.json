@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=80",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=80",
+  "fetchedAt": "2026-10-05T09:53:01.305Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "785a4bb3d722cb41fe6b7d9a40dbd1a0b854ea146b829d3430906a3801786771",
+  "files": [
+    {
+      "path": "myhome/02200-7fe7686ff655f1f4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=80\"].SearchResults",
+      "sha256": "46a001a6b538dfd00e34023f0b60f174e495f351c17d8fed5389c62e475ab176",
+      "bytes": 108191
+    },
+    {
+      "path": "myhome/02200-7fe7686ff655f1f4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=80\"] (paging fields)",
+      "sha256": "1c80d10f649d94812a0c778bb2f6464f226c8e4054fbe1ed98d800bc4ea33dd4",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-abbey-park-monkstown-co-dublin/5030778",
+    "https://www.myhome.ie/residential/brochure/138-donnybrook-manor-donnybrook-dublin-4/5029737",
+    "https://www.myhome.ie/residential/brochure/211-beechdale-dunboyne-co-meath/5030777",
+    "https://www.myhome.ie/residential/brochure/100-ratoath-avenue-finglas-dublin-11/5009624",
+    "https://www.myhome.ie/residential/brochure/84-glentow-road-whitehall-dublin-9/5030776",
+    "https://www.myhome.ie/residential/brochure/1-captains-square-captains-hill-leixlip-co-kildare/5030775",
+    "https://www.myhome.ie/residential/brochure/9-the-green-moyglare-hall-maynooth-co-kildare/5030774",
+    "https://www.myhome.ie/residential/brochure/12-meadowbrook-lawn-baldoyle-dublin-13/5030766",
+    "https://www.myhome.ie/residential/brochure/146-the-lighthouse-church-road-east-wall-dublin-3/5030771",
+    "https://www.myhome.ie/residential/brochure/tullaskeagh-roscrea-co-tipperary/4999777",
+    "https://www.myhome.ie/residential/brochure/39a-the-haven-roscrea-co-tipperary/5025401",
+    "https://www.myhome.ie/residential/brochure/apartment-22-killininny-court-firhouse-road-dublin-24-co-dublin/5030768",
+    "https://www.myhome.ie/residential/brochure/riverside-house-kilcorral-castlebridge-co-wexford/5030767",
+    "https://www.myhome.ie/residential/brochure/the-tannery-south-city-centre-d8-dublin-8/5030737",
+    "https://www.myhome.ie/residential/brochure/41-season-meadows-newtownmountkennedy-wicklow/5021157",
+    "https://www.myhome.ie/residential/brochure/59-mount-nebo-avenue-gurranabraher-cork/5030128",
+    "https://www.myhome.ie/residential/brochure/apartment-30-millstream-the-links-portmarnock-dublin/5030437",
+    "https://www.myhome.ie/residential/brochure/33-eden-park-drive-goatstown-dublin-14/4963841",
+    "https://www.myhome.ie/residential/brochure/2-alden-drive-sutton-dublin-13/5030763",
+    "https://www.myhome.ie/residential/brochure/2-saint-brigid-s-villas-navan-meath/5030761"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=81",
+  "paginationLimited": false
+}

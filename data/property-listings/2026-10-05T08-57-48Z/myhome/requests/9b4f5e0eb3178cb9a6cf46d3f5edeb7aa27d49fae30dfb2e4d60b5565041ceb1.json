@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=299",
+  "fetchedAt": "2026-10-05T12:49:08.741Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=299",
+  "kind": "search",
+  "responseSha256": "4910885a841484d2deb22bba3baed4274d4402a88e31651910232a88b6af6390",
+  "files": [
+    {
+      "path": "myhome/06700-9b4f5e0eb3178cb9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=299\"].SearchResults",
+      "sha256": "08ef63e47da0268e32fe4e7a41e06080bbcd6003c2574e175360e23229fab734",
+      "bytes": 101937
+    },
+    {
+      "path": "myhome/06700-9b4f5e0eb3178cb9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=299\"] (paging fields)",
+      "sha256": "766f4aa74d0516e0773b3bc57bf4a08bd8718e9423fec5885788e31a277118d9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-bruach-na-habhann-ballydribbeen-killarney-kerry/5023875",
+    "https://www.myhome.ie/residential/brochure/no-32-chestnut-walk-kilmuckridge-county-wexford/5024218",
+    "https://www.myhome.ie/residential/brochure/3-st-anne-s-golf-links-road-bettystown-meath/5023673",
+    "https://www.myhome.ie/residential/brochure/8-an-silin-cappagh-road-knocknacarra-galway/5024210",
+    "https://www.myhome.ie/residential/brochure/5-beresford-drive-donabate-dublin/5024009",
+    "https://www.myhome.ie/residential/brochure/27-castle-glen-newtownforbes-co-longford/5024206",
+    "https://www.myhome.ie/residential/brochure/50-tudor-lawn-newcastle-galway/5024203",
+    "https://www.myhome.ie/residential/brochure/6-patrick-court-d-n-laoghaire-co-dublin/5024194",
+    "https://www.myhome.ie/residential/brochure/79-newcastle-manor-square-newcastle-co-dublin/5024195",
+    "https://www.myhome.ie/residential/brochure/rear-13-windsor-avenue-13-windsor-lane-fairview-dublin-3/5024185",
+    "https://www.myhome.ie/residential/brochure/68-the-croft-clarinwood-tramore-co-waterford/5024181",
+    "https://www.myhome.ie/residential/brochure/8-the-gables-grangeview-road-clondalkin-dublin-22/5004300",
+    "https://www.myhome.ie/residential/brochure/apartment-7-beechwood-court-beechwood-golf-links-road-castletroy-limerick/5024175",
+    "https://www.myhome.ie/residential/brochure/24-chapel-street-tralee-kerry/5024170",
+    "https://www.myhome.ie/residential/brochure/chapel-lane-garristown-dublin/5024152",
+    "https://www.myhome.ie/residential/brochure/beneden-caherea-lissycasey-ennis-co-clare/5024085",
+    "https://www.myhome.ie/residential/brochure/19-the-close-downshire-park-blessington-wicklow/5024048",
+    "https://www.myhome.ie/residential/brochure/71-saran-wood-bray-co-wicklow/5024064",
+    "https://www.myhome.ie/residential/brochure/johnstown-demesne-enfield-meath-3-bedroom-semi-detached/5024035",
+    "https://www.myhome.ie/residential/brochure/apartment-1-maritimo-quincentennial-drive-salthill-galway/5024040"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=300",
+  "paginationLimited": false
+}

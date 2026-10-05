@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=303",
+  "fetchedAt": "2026-10-05T12:51:15.030Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=303",
+  "kind": "search",
+  "responseSha256": "00b6f129a07c05ec5816c252b90ea9acd4e5d8f240f1d18c5c56ebd19c1529ed",
+  "files": [
+    {
+      "path": "myhome/06784-cf5110a08e9bc722-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=303\"].SearchResults",
+      "sha256": "c603a9a9394b609aefb1eadf3f2e0eeb3c18db65d83115184ec97358f0ab7d55",
+      "bytes": 110643
+    },
+    {
+      "path": "myhome/06784-cf5110a08e9bc722-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=303\"] (paging fields)",
+      "sha256": "b555ed65340b2e91f4ca857f1de33e767d2a0bfd2fdeb5625264a065c9c8d1e1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-woodbrook-manor-monavalley-tralee-co-kerry/5023653",
+    "https://www.myhome.ie/residential/brochure/12-limerick-street-roscrea-tipperary/5023652",
+    "https://www.myhome.ie/residential/brochure/9-st-patrick-s-place-enniscorthy-wexford/5023640",
+    "https://www.myhome.ie/residential/brochure/copeland-house-crehelp-dunlavin-wicklow/5023546",
+    "https://www.myhome.ie/residential/brochure/apartment-4-the-old-bond-store-dillon-terrace-ballina-county-mayo/5023647",
+    "https://www.myhome.ie/residential/brochure/8-doon-avenue-north-circular-road-dublin-7/5023645",
+    "https://www.myhome.ie/residential/brochure/moymore-ruan-ennis-co-clare/5023639",
+    "https://www.myhome.ie/residential/brochure/28-the-elms-stillorgan-road-dublin-4/5023637",
+    "https://www.myhome.ie/residential/brochure/76-saint-assam-s-road-west-raheny-dublin-5/5023627",
+    "https://www.myhome.ie/residential/brochure/23-glenaulin-green-palmerstown-dublin-20/5023618",
+    "https://www.myhome.ie/residential/brochure/2-drummartin-park-goatstown-dublin-14/4993006",
+    "https://www.myhome.ie/residential/brochure/wallslough-kilkenny-kilkenny-kilkenny/5023605",
+    "https://www.myhome.ie/residential/brochure/30-belarmine-court-belarmine-stepaside-dublin-18/5023606",
+    "https://www.myhome.ie/residential/brochure/garryvadden-upper-blackwater-co-wexford/5023610",
+    "https://www.myhome.ie/residential/brochure/3-keadeen-avenue-walkinstown-dublin-12/5023608",
+    "https://www.myhome.ie/residential/brochure/mountain-light-ballinlug-west-killanne-enniscorthy-wexford/5023601",
+    "https://www.myhome.ie/residential/brochure/7-king-street-abbeyside-dungarvan-waterford/5023600",
+    "https://www.myhome.ie/residential/brochure/villa-maria-greenpark-ave-south-circular-road-limerick/5010666",
+    "https://www.myhome.ie/residential/brochure/apartment-15-rosehaven-castleknock-dublin-15/5023599",
+    "https://www.myhome.ie/residential/brochure/crockacullion-beltra-sligo/5018746"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=304",
+  "paginationLimited": false
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=48",
+  "fetchedAt": "2026-10-05T09:51:49.961Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=48",
+  "kind": "search",
+  "responseSha256": "fa11f4c538e93e4c84c0552caa40365ff0a0baa876e1566d32564c05502e3739",
+  "files": [
+    {
+      "path": "daft/02159-14857d0173f3c949-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "b70da3898f4e0f4b2834b90a12ca1efbf18946dbe851ef6dae42e30bd9c84626",
+      "bytes": 247229
+    },
+    {
+      "path": "daft/02159-14857d0173f3c949-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02159-14857d0173f3c949-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "7470ff4b30f4515702d798660f3a074f2794d0f38acb32c2afd8fb37e4ba556a",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-27-hartstonge-gate-limerick-city-centre-co-limerick/6682825",
+    "https://www.daft.ie/for-rent/apartment-66-forbes-quay-apartments-dublin-2/6682832",
+    "https://www.daft.ie/for-rent/22-ballymacool-terrace-letterkenny-letterkenny-co-donegal/6682835",
+    "https://www.daft.ie/for-rent/5-stonemasons-road-lusk-village-k45y198-lusk-co-dublin/6682774",
+    "https://www.daft.ie/for-rent/5-harbour-terrace-harbour-street-mullingar-co-westmeath/6682808",
+    "https://www.daft.ie/for-rent/nutgrove-park-dublin-14-clonskeagh-dublin-14/6682798",
+    "https://www.daft.ie/for-rent/apartment-19-fishermans-wharf-cork-city-centre-co-cork/6682782",
+    "https://www.daft.ie/for-rent/grange-court-apartments-stoneybatter-dublin-7/6682761",
+    "https://www.daft.ie/for-rent/7-the-willows-cliffoney-sligo-co-sligo/6682778",
+    "https://www.daft.ie/for-rent/apartment-108-maritana-gate-waterford-city-centre-co-waterford/6673803",
+    "https://www.daft.ie/for-rent/langfield-close-dublin-road-dundalk-co-louth/6682723",
+    "https://www.daft.ie/for-rent/11-prospect-avenue-mullingar-mullingar-co-westmeath/6682583",
+    "https://www.daft.ie/for-rent/blarney-park-dublin-12-kimmage-dublin-12/6682655",
+    "https://www.daft.ie/for-rent/36-woodpark-letterkenny-co-donegal/6682721",
+    "https://www.daft.ie/for-rent/whittys-cottage-whittyshill-wellingtonbridge-co-wexford/6682695",
+    "https://www.daft.ie/for-rent/c43-bastion-quay-athlone-co-westmeath/6682711",
+    "https://www.daft.ie/for-rent/killineer-monasterboice-co-louth/6682698",
+    "https://www.daft.ie/for-rent/north-mall-cork-city-centre-co-cork/6682679",
+    "https://www.daft.ie/for-rent/apt-159-block-c-lymewood-mews-northwood-d09-a308-santry-dublin-9/6682680",
+    "https://www.daft.ie/for-rent/39-knockmaree-chapelizod-d20-w787-chapelizod-dublin-20/6682677"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=49",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=164",
+  "fetchedAt": "2026-10-05T11:39:02.682Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=164",
+  "kind": "search",
+  "responseSha256": "6b49c4ec095f990fc7a893e1effffddf4b60ab7db7ed69b91b2bdd0292214e87",
+  "files": [
+    {
+      "path": "myhome/03907-01003f14a1a4ff8f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=164\"].SearchResults",
+      "sha256": "116f58514cc70e10b91d3f74f03c9631cd3b349b0095e10d4dbf2444af59ab5d",
+      "bytes": 107325
+    },
+    {
+      "path": "myhome/03907-01003f14a1a4ff8f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=164\"] (paging fields)",
+      "sha256": "cff879c557ebd2bfcca377d3d2767afd67f055f072b22d5ecfeac274b9807806",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/65-barons-hall-grove-balbriggan-county-dublin/5028591",
+    "https://www.myhome.ie/residential/brochure/51-merrion-village-merrion-road-ballsbridge-dublin-4/5028586",
+    "https://www.myhome.ie/residential/brochure/80-charlemont-plus-attic-conversion-griffith-avenue-drumcondra-dublin-9/5021286",
+    "https://www.myhome.ie/residential/brochure/demailestown-wilkinstown-navan-co-meath/5028584",
+    "https://www.myhome.ie/residential/brochure/7-maigh-glas-lis-cara-carrick-on-shannon-leitrim/5028579",
+    "https://www.myhome.ie/residential/brochure/67-tola-park-shannon-clare/5028582",
+    "https://www.myhome.ie/residential/brochure/cliff-road-waterville-waterville-kerry/5028560",
+    "https://www.myhome.ie/residential/brochure/qa-test-branch-0916-donegal-town-donegal/5028581",
+    "https://www.myhome.ie/residential/brochure/31-sundays-well-cork-city-cork/5028562",
+    "https://www.myhome.ie/residential/brochure/75-avalon-arklow-co-wicklow/4997668",
+    "https://www.myhome.ie/residential/brochure/the-glasshouse-sroughmore-avoca-co-wicklow/5006721",
+    "https://www.myhome.ie/residential/brochure/chara-house-scarnagh-lower-coolgreany-co-wexford/4997925",
+    "https://www.myhome.ie/residential/brochure/the-bungalow-knockanrahan-arklow-co-wicklow/5003372",
+    "https://www.myhome.ie/residential/brochure/15-ballymany-mews-ballymany-newbridge-county-galway/5028578",
+    "https://www.myhome.ie/residential/brochure/apartment-22-cois-mara-galwey-s-lane-dungarvan-waterford/5028573",
+    "https://www.myhome.ie/residential/brochure/25-glenmaroon-road-palmerstown-dublin-20/5028572",
+    "https://www.myhome.ie/residential/brochure/9-dewberry-mount-oval-village-rochestown-co-cork-cork-city-cork/5028559",
+    "https://www.myhome.ie/residential/brochure/balroe-ballynacarrigy-westmeath/5028566",
+    "https://www.myhome.ie/residential/brochure/sandymount-sun-street-tuam-county-galway/5028570",
+    "https://www.myhome.ie/residential/brochure/10-merrion-grove-booterstown-county-dublin/5028568"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=165",
+  "paginationLimited": false
+}

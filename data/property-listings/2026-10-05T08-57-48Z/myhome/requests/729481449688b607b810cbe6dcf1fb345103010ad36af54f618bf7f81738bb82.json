@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=251",
+  "fetchedAt": "2026-10-05T12:24:05.948Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=251",
+  "kind": "search",
+  "responseSha256": "31309136b97297bf6800c3662aee0d63029aa6874b8f4118902f68a56dce9dcb",
+  "files": [
+    {
+      "path": "myhome/05705-729481449688b607-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=251\"].SearchResults",
+      "sha256": "4e3057f1606c22a184fad602a84a0281effe1b1998644c745a4d7913ab464c83",
+      "bytes": 115081
+    },
+    {
+      "path": "myhome/05705-729481449688b607-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=251\"] (paging fields)",
+      "sha256": "abf14095ff12ff336eb76ae6359627e268da0042e5959f1dc76603c6515e6ef8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ballymorris-clonard-wexford-wexford-town-wexford/5026045",
+    "https://www.myhome.ie/residential/brochure/7-gandon-mews-lucan-dublin/5026044",
+    "https://www.myhome.ie/residential/brochure/clonnasheeoge-ballymurn-wexford-co-wexford/5026041",
+    "https://www.myhome.ie/residential/brochure/49-morrisson-s-road-waterford/5026038",
+    "https://www.myhome.ie/residential/brochure/monaloe-grove-cabinteely-dublin-18/5025938",
+    "https://www.myhome.ie/residential/brochure/monaloe-grove-cabinteely-dublin-18/5025926",
+    "https://www.myhome.ie/residential/brochure/28-ryebridge-close-the-ryebridge-kilcock-county-kildare/5023666",
+    "https://www.myhome.ie/residential/brochure/15-cuil-duin-close-citywest-co-dublin/5026034",
+    "https://www.myhome.ie/residential/brochure/9-griffeen-glen-crescent-griffeen-glen-lucan-county-dublin/5021243",
+    "https://www.myhome.ie/residential/brochure/40-the-rectory-stepaside-stepaside-dublin-18/5026029",
+    "https://www.myhome.ie/residential/brochure/601-river-forest-leixlip-county-kildare/5018518",
+    "https://www.myhome.ie/residential/brochure/48-priory-walk-st-raphael-s-manor-celbridge-county-kildare/5016814",
+    "https://www.myhome.ie/residential/brochure/406-cubes-2-beacon-south-quarter-sandyford-dublin-18/5026028",
+    "https://www.myhome.ie/residential/brochure/10-oldtown-woods-celbridge-county-kildare/5010390",
+    "https://www.myhome.ie/residential/brochure/ovidstown-donadea-county-kildare/5004202",
+    "https://www.myhome.ie/residential/brochure/keelogue-maynooth-road-celbridge-county-kildare/4993945",
+    "https://www.myhome.ie/residential/brochure/116-oldtown-woods-celbridge-county-kildare/4980655",
+    "https://www.myhome.ie/residential/brochure/apt-24-royal-canal-court-church-street-kilcock-county-kildare/4960917",
+    "https://www.myhome.ie/residential/brochure/407-cubes-3-beacon-south-quarter-sandyford-dublin-18/5025974",
+    "https://www.myhome.ie/residential/brochure/8-millbank-square-sallins-kildare/5026012"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=252",
+  "paginationLimited": false
+}

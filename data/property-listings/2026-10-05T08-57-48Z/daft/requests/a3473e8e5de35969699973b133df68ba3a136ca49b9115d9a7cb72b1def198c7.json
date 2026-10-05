@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sunshine-cottage-ballyhane-birdhill-limerick-birdhill-co-tipperary/6686562",
+  "fetchedAt": "2026-10-05T09:26:10.242Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sunshine-cottage-ballyhane-birdhill-limerick-birdhill-co-tipperary/6686562",
+  "kind": "listing",
+  "responseSha256": "7a8a3391561b34391cabfbbf21de346b192b172daece087109357f89e38145e4",
+  "files": [
+    {
+      "path": "daft/01134-a3473e8e5de35969-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8100997be6cbd0771ed1bc5bdf7bdd0028b3c827482fc15a7d06a8171b4f139c",
+      "bytes": 17949
+    },
+    {
+      "path": "daft/01134-a3473e8e5de35969-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bfb3d12d4ed6cd0726c51384bc50419e313898e5547cc6007bd4906b4252e176",
+      "bytes": 7980
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

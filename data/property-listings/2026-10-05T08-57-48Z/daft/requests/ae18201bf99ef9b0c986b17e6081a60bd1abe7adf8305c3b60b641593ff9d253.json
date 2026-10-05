@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-co-roscommon-bellanagare-co-roscommon/6675186",
+  "fetchedAt": "2026-10-05T09:20:33.756Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-co-roscommon-bellanagare-co-roscommon/6675186",
+  "kind": "listing",
+  "responseSha256": "bccb2e79577889b5f4d8077a44f47536fcdf366cefb2cc6f2944e0108270ccc7",
+  "files": [
+    {
+      "path": "daft/00910-ae18201bf99ef9b0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e6ff4a8df9652ab9b2a28dc2487a398c98ed5fe9f003fecccf956cac0ca47705",
+      "bytes": 47696
+    },
+    {
+      "path": "daft/00910-ae18201bf99ef9b0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

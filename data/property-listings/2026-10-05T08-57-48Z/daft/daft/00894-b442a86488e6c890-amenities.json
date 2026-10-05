@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CLAREMORRIS NATIONAL SCHOOL",
+      "numPupils": 358,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.729668",
+        "lon": "-9.002909"
+      }
+    },
+    {
+      "schoolName": "MEELICKMORE NATIONAL SCHOOL",
+      "numPupils": 86,
+      "distance": {
+        "value": 3.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.703346",
+        "lon": "-8.946156"
+      }
+    },
+    {
+      "schoolName": "UILEOG DE BURCA",
+      "numPupils": 111,
+      "distance": {
+        "value": 5.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.748287",
+        "lon": "-8.938304"
+      }
+    },
+    {
+      "schoolName": "S N TEACH CAOIN",
+      "numPupils": 41,
+      "distance": {
+        "value": 5.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.701164",
+        "lon": "-9.079019"
+      }
+    },
+    {
+      "schoolName": "BALLINDINE NATIONAL SCHOOL",
+      "numPupils": 137,
+      "distance": {
+        "value": 5.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.672560",
+        "lon": "-8.957118"
+      }
+    },
+    {
+      "schoolName": "BARNACARROLL CENTRAL NATIONAL SCHOOL",
+      "numPupils": 207,
+      "distance": {
+        "value": 5.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.767100",
+        "lon": "-8.972111"
+      }
+    },
+    {
+      "schoolName": "LEHINCH NATIONAL SCHOOL",
+      "numPupils": 7,
+      "distance": {
+        "value": 8.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.659595",
+        "lon": "-9.074934"
+      }
+    },
+    {
+      "schoolName": "FACEFIELD NATIONAL SCHOOL",
+      "numPupils": 30,
+      "distance": {
+        "value": 8.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.783875",
+        "lon": "-9.061047"
+      }
+    },
+    {
+      "schoolName": "MAYO ABBEY NATIONAL SCHOOL",
+      "numPupils": 87,
+      "distance": {
+        "value": 8.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.759136",
+        "lon": "-9.116671"
+      }
+    },
+    {
+      "schoolName": "IRISHTOWN NATIONAL SCHOOL",
+      "numPupils": 64,
+      "distance": {
+        "value": 9.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.662575",
+        "lon": "-8.890258"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MOUNT ST MICHAEL",
+      "numPupils": 404,
+      "distance": {
+        "value": 1.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.732270",
+        "lon": "-9.001320"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOLMÁIN",
+      "numPupils": 378,
+      "distance": {
+        "value": 2.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.735443",
+        "lon": "-8.980459"
+      }
+    },
+    {
+      "schoolName": "BALLA SECONDARY SCHOOL",
+      "numPupils": 475,
+      "distance": {
+        "value": 13.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.806858",
+        "lon": "-9.137721"
+      }
+    },
+    {
+      "schoolName": "ST LOUIS COMMUNITY SCHOOL",
+      "numPupils": 690,
+      "distance": {
+        "value": 14.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.848385",
+        "lon": "-9.002216"
+      }
+    },
+    {
+      "schoolName": "Ballyhaunis Community School, Knock Road, Ballyhaunis, Mayo",
+      "numPupils": 750,
+      "distance": {
+        "value": 15.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.765923",
+        "lon": "-8.780561"
+      }
+    },
+    {
+      "schoolName": "BALLINROBE COMMUNITY SCHOOL",
+      "numPupils": 840,
+      "distance": {
+        "value": 17.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.623000",
+        "lon": "-9.212629"
+      }
+    },
+    {
+      "schoolName": "DUNMORE COMMUNITY SCHOOL",
+      "numPupils": 353,
+      "distance": {
+        "value": 20.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.616550",
+        "lon": "-8.739240"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MHUIRE",
+      "numPupils": 98,
+      "distance": {
+        "value": 23.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.665565",
+        "lon": "-9.350267"
+      }
+    },
+    {
+      "schoolName": "HIGH CROSS COLLEGE",
+      "numPupils": 827,
+      "distance": {
+        "value": 24.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.517776",
+        "lon": "-8.850113"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 539,
+      "distance": {
+        "value": 24.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.855800",
+        "lon": "-9.291385"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "964",
+      "destination": "Croithlí",
+      "provider": "Bus Feda",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.719817",
+        "lon": "-8.998796"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "NG01",
+      "destination": "Ballina Bus Station",
+      "provider": "Treacy Coaches",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.719817",
+        "lon": "-8.998796"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris Stn",
+      "route": "431",
+      "destination": "Maam Cross",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7205",
+        "lon": "-9.00199"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Claremorris",
+      "route": "rail",
+      "destination": "Athlone",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.720661",
+        "lon": "-9.002144"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "UL05",
+      "destination": "Westport",
+      "provider": "Michael Moran",
+      "distance": {
+        "value": 0.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.721442",
+        "lon": "-8.997926"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "64",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.721442",
+        "lon": "-8.997926"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "440",
+      "destination": "Westport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.72186",
+        "lon": "-8.99757"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "721",
+      "destination": "Dublin Airport Zone 11",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.72186",
+        "lon": "-8.99757"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "430",
+      "destination": "Galway Cathedral",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.72186",
+        "lon": "-8.99757"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Claremorris",
+      "route": "421",
+      "destination": "Claremorris",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.72186",
+        "lon": "-8.99757"
+      }
+    }
+  ]
+}

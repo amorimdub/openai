@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=309",
+  "fetchedAt": "2026-10-05T12:54:10.915Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=309",
+  "kind": "search",
+  "responseSha256": "64c95e92b619a0d5c0995808625a2296cbbf3d16de8c9161092f09910012189c",
+  "files": [
+    {
+      "path": "myhome/06901-79b6197cb8f280a6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=309\"].SearchResults",
+      "sha256": "1dff65cbe85b086ad61e402918752dcb64e348aedb374f1fd559ecc0cf1cedcf",
+      "bytes": 122268
+    },
+    {
+      "path": "myhome/06901-79b6197cb8f280a6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=309\"] (paging fields)",
+      "sha256": "02f815fed63e6aa1ed740baf83474a601c5377db7da92379a05b43152c40f1d3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-quay-view-mullaghmore-sligo/5022914",
+    "https://www.myhome.ie/residential/brochure/13-woodberry-carpenterstown-road-castleknock-dublin-15/4975577",
+    "https://www.myhome.ie/residential/brochure/5-prospect-avenue-drogheda-louth/5022714",
+    "https://www.myhome.ie/residential/brochure/sandhill-road-ballybunion-co-kerry/5023364",
+    "https://www.myhome.ie/residential/brochure/13-forest-park-courtown-gorey-co-wexford/5023360",
+    "https://www.myhome.ie/residential/brochure/154-meadow-mount-churchtown-dublin-16/5023359",
+    "https://www.myhome.ie/residential/brochure/2-templars-way-duncannon-co-wexford/5023354",
+    "https://www.myhome.ie/residential/brochure/20-oak-manor-mountmellick-co-laois/5023352",
+    "https://www.myhome.ie/residential/brochure/643b-howth-road-raheny-dublin-5/5022950",
+    "https://www.myhome.ie/residential/brochure/4-cedar-park-ridgewood-swords-county-dublin/5023339",
+    "https://www.myhome.ie/residential/brochure/ref-1244-site-dungeagan-ballinskelligs-kerry/5023331",
+    "https://www.myhome.ie/residential/brochure/drumaveg-moycullen-co-galway/5023336",
+    "https://www.myhome.ie/residential/brochure/62-poplar-drive-carraig-an-aird-siz-cross-roads-waterford-city-waterford/5023304",
+    "https://www.myhome.ie/residential/brochure/apartment-63-cremorne-greenmount-road-terenure-dublin/5023195",
+    "https://www.myhome.ie/residential/brochure/38-saint-brochan-s-park-bracknagh-rathangan-co-offaly/5023332",
+    "https://www.myhome.ie/residential/brochure/haley-s-hill-malahide-rd-kinsealy-county-dublin/5011207",
+    "https://www.myhome.ie/residential/brochure/64-kildonan-road-finglas-dublin-11/5023329",
+    "https://www.myhome.ie/residential/brochure/stramartin-derrybeg-county-donegal/5023328",
+    "https://www.myhome.ie/residential/brochure/53-the-paddocks-castleredmond-midleton-cork/5022842",
+    "https://www.myhome.ie/residential/brochure/no-2-slaneyview-court-wexford-town-wexford/5023314"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=310",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=274",
+  "fetchedAt": "2026-10-05T12:36:07.846Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=274",
+  "kind": "search",
+  "responseSha256": "147657147e4be0efc02cd669ab11c194cee337270902f14db201a8cf36fc517e",
+  "files": [
+    {
+      "path": "myhome/06185-3006b915907d0a25-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=274\"].SearchResults",
+      "sha256": "4c90082c2da0aad11f7379e87d3b7e07f7091a66e581381fb32df313eabbeb4a",
+      "bytes": 112531
+    },
+    {
+      "path": "myhome/06185-3006b915907d0a25-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=274\"] (paging fields)",
+      "sha256": "d17759499a5e5ca39b34e218a4ba962cc218a1c3e3b1bffcfd55f448c4e1309c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-red-arches-drive-the-coast-baldoyle-dublin-13/5011611",
+    "https://www.myhome.ie/residential/brochure/lagos-118-howth-road-howth-co-dublin/4989910",
+    "https://www.myhome.ie/residential/brochure/3-santa-sabina-manor-sutton-dublin-13/4995628",
+    "https://www.myhome.ie/residential/brochure/apartment-5-the-beeches-ballybofey-co-donegal/5025258",
+    "https://www.myhome.ie/residential/brochure/apt-4d-avalon-burrow-road-sutton-dublin-13/5001016",
+    "https://www.myhome.ie/residential/brochure/apt-4-thormanby-court-howth-co-dublin/4991834",
+    "https://www.myhome.ie/residential/brochure/39-chelmsford-manor-simmonstown-celbridge-county-kildare/5006613",
+    "https://www.myhome.ie/residential/brochure/24-parkside-court-balgriffin-dublin-13/4973013",
+    "https://www.myhome.ie/residential/brochure/71-aughrim-street-stoneybatter-dublin-7/5022797",
+    "https://www.myhome.ie/residential/brochure/6-brownstown-ratoath-co-meath/5025256",
+    "https://www.myhome.ie/residential/brochure/residence-on-approx-39-5-acres-boyne-road-navan-county-meath/4833712",
+    "https://www.myhome.ie/residential/brochure/mount-prospect-stud-mount-prospect-rathangan-county-kildare/5008934",
+    "https://www.myhome.ie/residential/brochure/residence-on-approx-64-acres-ticknevin-carbury-county-kildare/5001316",
+    "https://www.myhome.ie/residential/brochure/an-cuan-clonymeath-moynalvey-summerhill-county-meath/5003017",
+    "https://www.myhome.ie/residential/brochure/16-the-way-meadowvale-arklow-wicklow/5025250",
+    "https://www.myhome.ie/residential/brochure/3-arlington-road-blackthorn-hills-ferrybank-co-waterford/5025252",
+    "https://www.myhome.ie/residential/brochure/13-elder-heath-dale-kiltipper-dublin-24/5025248",
+    "https://www.myhome.ie/residential/brochure/60-block-d1-bow-bridge-place-kilmainham-dublin-8/5025241",
+    "https://www.myhome.ie/residential/brochure/5-annbrook-heights-nenagh-co-tipperary/5025247",
+    "https://www.myhome.ie/residential/brochure/1-saint-aongus-grove-tymon-north-dublin-24-co-dublin/5025246"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=275",
+  "paginationLimited": false
+}

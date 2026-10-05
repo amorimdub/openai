@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-bow-bridge-house-kilmainham-dublin-8/6683546",
+  "fetchedAt": "2026-10-05T09:48:57.172Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-bow-bridge-house-kilmainham-dublin-8/6683546",
+  "kind": "listing",
+  "responseSha256": "8fd4ef6701f741239705b32ca9e68c94affc6fce3a15c847e8b128a7c8bdaaff",
+  "files": [
+    {
+      "path": "daft/02044-6875b7006b12f2df-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "efb9f409ab40a8834f882053adabe81de3add1556a50e7511bf3e50d07d44035",
+      "bytes": 16500
+    },
+    {
+      "path": "daft/02044-6875b7006b12f2df-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aea5d2139a1100339e93ab9c477809f36653b13954a6792004912cfdc015ea59",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

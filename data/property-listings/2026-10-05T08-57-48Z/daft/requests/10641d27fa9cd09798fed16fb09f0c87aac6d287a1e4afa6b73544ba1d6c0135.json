@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=17",
+  "fetchedAt": "2026-10-05T09:18:57.658Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=17",
+  "kind": "search",
+  "responseSha256": "3f03d55368800ddf62b1f5db63d3e46d60841262a3558869681d962ad450772d",
+  "files": [
+    {
+      "path": "daft/00846-10641d27fa9cd097-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "22a8e7edb9b3dcb6166cbef5b608e66dde047ba52479609d1c9b71a81be9f37f",
+      "bytes": 265638
+    },
+    {
+      "path": "daft/00846-10641d27fa9cd097-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00846-10641d27fa9cd097-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "91bbfb298b6fc386ce51bf48da008520b9ce89ce42b9b8cb8dcd60d93b601f15",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/main-street-kilkelly-co-mayo/6652004",
+    "https://www.daft.ie/for-sale/apartment-1-2-swallows-nest-dalton-street-claremorris-co-mayo/6638632",
+    "https://www.daft.ie/for-sale/rahard-hollymount-hollymount-co-mayo/6620362",
+    "https://www.daft.ie/for-sale/facefield-claremorris-castlebar-co-mayo/6622240",
+    "https://www.daft.ie/for-sale/4-feirm-bawn-doughcloyne-wilton-cork/6659726",
+    "https://www.daft.ie/for-sale/carrownlough-irishtown-co-mayo/6548013",
+    "https://www.daft.ie/for-sale/69-carrowmore-meadows-knock-knock-co-mayo/6612235",
+    "https://www.daft.ie/for-sale/lissatava-claremorris-hollymount-co-mayo/6612236",
+    "https://www.daft.ie/for-sale/37-barr-na-trimo-ge-kilkelly-kilkelly-co-mayo/6554643",
+    "https://www.daft.ie/for-sale/island-upper-ballyhaunis-ballyhaunis-co-mayo/6559334",
+    "https://www.daft.ie/for-sale/shanvallyard-toormakeady-croaghrimbeg-co-mayo/6558709",
+    "https://www.daft.ie/for-sale/19-a-altbawn-cresent-kiltimagh-kiltimagh-co-mayo/6545363",
+    "https://www.daft.ie/for-sale/aghadiffin-kilkelly-urlaur-co-mayo/6634307",
+    "https://www.daft.ie/for-sale/kiltimagh-rd-knock-knock-co-mayo/6627660",
+    "https://www.daft.ie/for-sale/cloongoonagh-tooreen-ballyhaunis-co-mayo/6650762",
+    "https://www.daft.ie/for-sale/752-howth-road-raheny-dublin-5/6579431",
+    "https://www.daft.ie/for-sale/3-burnell-drive-mullingar-mullingar-co-westmeath/6677907",
+    "https://www.daft.ie/for-sale/7-greenville-avenue-dublin-8/6672418",
+    "https://www.daft.ie/for-sale/38-abbey-glen-knockaunglass-athenry-co-galway/6677584",
+    "https://www.daft.ie/for-sale/62-collegefort-castleknock-dublin-15-co-dublin/6658564"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=18",
+  "paginationLimited": false
+}

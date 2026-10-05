@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=63",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=63",
+  "fetchedAt": "2026-10-05T09:44:20.622Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "081db9b1d9aaa999d3e177e622a91ade40d4b4e33a8756b86f7e36e2b1b0161a",
+  "files": [
+    {
+      "path": "myhome/01855-92d6a40489733120-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=63\"].SearchResults",
+      "sha256": "f1338b913e79490c910a7cadb3cddacfad7fb6ca9d8bdd6908d3079a30216a5e",
+      "bytes": 115598
+    },
+    {
+      "path": "myhome/01855-92d6a40489733120-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=63\"] (paging fields)",
+      "sha256": "031f31667dbcb64fbc147429e4585bf0668270b084078a4a6c400986b7230035",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/oak-grove-bunclody-woods-bunclody-co-wexford/5031178",
+    "https://www.myhome.ie/residential/brochure/75-baily-point-apartment-upper-salthill-galway/5031177",
+    "https://www.myhome.ie/residential/brochure/beechview-6-carhookeal-mallow-co-cork/5031176",
+    "https://www.myhome.ie/residential/brochure/1-the-glebe-donegal-donegal-town-donegal/5031014",
+    "https://www.myhome.ie/residential/brochure/2-ayresfield-row-granges-road-kilkenny-kilkenny/5031071",
+    "https://www.myhome.ie/residential/brochure/73-leslies-arch-old-quarter-ballincollig-cork/5031173",
+    "https://www.myhome.ie/residential/brochure/apt-18-corn-mill-distillery-road-drumcondra-dublin-3/5031163",
+    "https://www.myhome.ie/residential/brochure/11a-castle-grove-st-josephs-road-mallow-co-cork/5031168",
+    "https://www.myhome.ie/residential/brochure/apartment-19-the-court-oldtown-mill-celbridge-kildare/5031158",
+    "https://www.myhome.ie/residential/brochure/8-springmount-woods-glanmire-cork/5025316",
+    "https://www.myhome.ie/residential/brochure/143-saint-brendan-s-road-farranree-cork/5030312",
+    "https://www.myhome.ie/residential/brochure/263-beech-park-easton-road-leixlip-co-kildare/5031165",
+    "https://www.myhome.ie/residential/brochure/tornanstown-gaybrook-mullingar-co-westmeath/5031164",
+    "https://www.myhome.ie/residential/brochure/lindon-cottage-ballyloo-nurney-carlow/5029072",
+    "https://www.myhome.ie/residential/brochure/14-weston-court-lucan-co-dublin/5031159",
+    "https://www.myhome.ie/residential/brochure/carrownacroagh-headford-galway/5031154",
+    "https://www.myhome.ie/residential/brochure/282-malahide-road-artane-dublin-5/4995128",
+    "https://www.myhome.ie/residential/brochure/apt-14-valencia-house-north-circular-road-dublin-7/4998976",
+    "https://www.myhome.ie/residential/brochure/8-moss-lane-riverway-south-douglas-road-cork-city-cork/5030971",
+    "https://www.myhome.ie/residential/brochure/5-great-western-avenue-phibsborough-dublin-7/5027309"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=64",
+  "paginationLimited": false
+}

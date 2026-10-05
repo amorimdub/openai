@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SCOIL FHURSA",
+      "numPupils": 200,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269077",
+        "lon": "-9.066319"
+      }
+    },
+    {
+      "schoolName": "CLADDAGH NATIONAL SCHOOL",
+      "numPupils": 271,
+      "distance": {
+        "value": 0.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267433",
+        "lon": "-9.057794"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOGNÁID",
+      "numPupils": 499,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270520",
+        "lon": "-9.062462"
+      }
+    },
+    {
+      "schoolName": "SCOIL AINE SPECIAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268580",
+        "lon": "-9.074598"
+      }
+    },
+    {
+      "schoolName": "SCOIL RÓIS PRIMARY SCHOOL",
+      "numPupils": 315,
+      "distance": {
+        "value": 0.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268220",
+        "lon": "-9.076032"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 1.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272263",
+        "lon": "-9.055382"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE SHANTALLA",
+      "numPupils": 204,
+      "distance": {
+        "value": 1.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273502",
+        "lon": "-9.071456"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY",
+      "numPupils": 136,
+      "distance": {
+        "value": 1.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274204",
+        "lon": "-9.062489"
+      }
+    },
+    {
+      "schoolName": "SCOIL ÍDE",
+      "numPupils": 272,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.262802",
+        "lon": "-9.081226"
+      }
+    },
+    {
+      "schoolName": "SCOIL ÉINDE SALTHILL",
+      "numPupils": 117,
+      "distance": {
+        "value": 1.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.264650",
+        "lon": "-9.083384"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLÁISTE IOGNÁID S.J.",
+      "numPupils": 636,
+      "distance": {
+        "value": 0.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269960",
+        "lon": "-9.061381"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE MÁTHAIR",
+      "numPupils": 765,
+      "distance": {
+        "value": 0.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271027",
+        "lon": "-9.064991"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 415,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271060",
+        "lon": "-9.067110"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE",
+      "numPupils": 601,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268574",
+        "lon": "-9.076905"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COLLEGE",
+      "numPupils": 767,
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272594",
+        "lon": "-9.058093"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S COLLEGE",
+      "numPupils": 249,
+      "distance": {
+        "value": 1.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273636",
+        "lon": "-9.059698"
+      }
+    },
+    {
+      "schoolName": "SALERNO SECONDARY SCHOOL",
+      "numPupils": 666,
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.263810",
+        "lon": "-9.089556"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÉINDE",
+      "numPupils": 806,
+      "distance": {
+        "value": 1.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.265705",
+        "lon": "-9.089664"
+      }
+    },
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 2.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA COIRIBE",
+      "numPupils": 666,
+      "distance": {
+        "value": 3.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269577",
+        "lon": "-9.123760"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Salthill Road Lwr",
+      "route": "410",
+      "destination": "Eyre Square",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2671",
+        "lon": "-9.06869"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Salthill Road Lwr",
+      "route": "401",
+      "destination": "Dr. Mannix Road",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.26677",
+        "lon": "-9.06927"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fr Griffin Av",
+      "route": "401",
+      "destination": "Dr. Mannix Road",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267876",
+        "lon": "-9.063008"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fr Griffin Av",
+      "route": "NG05",
+      "destination": "Liosban Industrial Estate",
+      "provider": "Westlink Coaches",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267876",
+        "lon": "-9.063008"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lios Ealtan",
+      "route": "424",
+      "destination": "Carraroe",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268227",
+        "lon": "-9.066"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lios Ealtan",
+      "route": "410",
+      "destination": "An Cimín Mór",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268227",
+        "lon": "-9.066"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lios Ealtan",
+      "route": "401",
+      "destination": "Eyre Square",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2682977600793",
+        "lon": "-9.06612181625675"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Devon Park",
+      "route": "410",
+      "destination": "An Cimín Mór",
+      "provider": "City Direct",
+      "distance": {
+        "value": 0.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2649444486082",
+        "lon": "-9.0722443478604"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Devon Park",
+      "route": "401",
+      "destination": "Dr. Mannix Road",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2649444486082",
+        "lon": "-9.0722443478604"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lenaboy Pk",
+      "route": "401",
+      "destination": "An Phairc Mhor",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.26376",
+        "lon": "-9.07251"
+      }
+    }
+  ]
+}

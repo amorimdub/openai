@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=6",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=6",
+  "fetchedAt": "2026-10-05T09:01:37.945Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "ca7ff7c0655f88a79994b453ba54df2fefd3e43d0b84e74286b5c2f0dce1001d",
+  "files": [
+    {
+      "path": "myhome/00154-4c142a46835350a4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=6\"].SearchResults",
+      "sha256": "8d6b23db2269de74406f66057401dce30af8d201291980bd13938fcc2f525923",
+      "bytes": 100712
+    },
+    {
+      "path": "myhome/00154-4c142a46835350a4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=6\"] (paging fields)",
+      "sha256": "2d131ab5ba3a4b8ca0b2a256f12662bc34fba5ab5a79820711dfed2a4ff4417a",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/12-irishtown-central-golden-island-athlone-county-westmeath/5031770",
+    "https://www.myhome.ie/rentals/brochure/11-temple-court-arbour-hill-dublin-7/5031739",
+    "https://www.myhome.ie/rentals/brochure/cruicetown-nobber-co-meath/5031602",
+    "https://www.myhome.ie/rentals/brochure/temple-hall-mount-saint-annes-milltown-dublin-6/5031692",
+    "https://www.myhome.ie/rentals/brochure/oakdale-close-ballycullen-dublin-24/5031689",
+    "https://www.myhome.ie/rentals/brochure/broadfield-close-rathcoole-co-dublin/5031681",
+    "https://www.myhome.ie/rentals/brochure/16-scariff-house-waterville-terrace-ballycoolin-blanchardstown-dublin-15/5028869",
+    "https://www.myhome.ie/rentals/brochure/apartment-16-oak-glade-court-blessington-road-naas-kildare/5028840",
+    "https://www.myhome.ie/rentals/brochure/52-newtown-avenue-the-meadows-kill-kildare/5024495",
+    "https://www.myhome.ie/rentals/brochure/abbey-street-river-view-cong-galway/5031656",
+    "https://www.myhome.ie/rentals/brochure/6-sarsfield-quay-apartments-liffey-street-west-arbour-hill-dublin-7/5029127",
+    "https://www.myhome.ie/rentals/brochure/luxury-retreat-in-killiney-killiney-county-dublin/4785541",
+    "https://www.myhome.ie/rentals/brochure/ardeevin-rd-dalkey-county-dublin/4988776",
+    "https://www.myhome.ie/rentals/brochure/29-orpen-green-blackrock-county-dublin/5030025",
+    "https://www.myhome.ie/rentals/brochure/apt-87-block-j-sandyford-view-sandyford-dublin-18/3574633",
+    "https://www.myhome.ie/rentals/brochure/2-green-acres-sundrive-road-rush-co-dublin/5031633",
+    "https://www.myhome.ie/rentals/brochure/the-crescent-building-parkwest-dublin-12/5031616",
+    "https://www.myhome.ie/rentals/brochure/millrace-green-saggart-co-dublin/5031604",
+    "https://www.myhome.ie/rentals/brochure/test-rental-property-milford-donegal/5031582",
+    "https://www.myhome.ie/rentals/brochure/5-blackhall-green-arbour-hill-dublin-7/5028449"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=7",
+  "paginationLimited": false
+}

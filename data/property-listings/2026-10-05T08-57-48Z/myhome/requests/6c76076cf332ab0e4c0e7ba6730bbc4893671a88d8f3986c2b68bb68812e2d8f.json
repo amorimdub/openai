@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=81",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=81",
+  "fetchedAt": "2026-10-05T09:53:31.343Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "9383c4c6ab0bad7fa9d0f18801009ca5f180f5690a54f210debb221994a00e8d",
+  "files": [
+    {
+      "path": "myhome/02220-6c76076cf332ab0e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=81\"].SearchResults",
+      "sha256": "9dcd0704e806c2248ac1831d65c66df224908f48124c0d431c2298940fc67b8d",
+      "bytes": 123190
+    },
+    {
+      "path": "myhome/02220-6c76076cf332ab0e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=81\"] (paging fields)",
+      "sha256": "e30ba80746208f60eb339c2b4b3f6272a047459f39490e24020dfdd3fde28427",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-saint-brigid-s-villas-navan-meath/5030761",
+    "https://www.myhome.ie/residential/brochure/monaloe-grove-cabinteely-dublin-18/5025945",
+    "https://www.myhome.ie/residential/brochure/58-park-avenue-formerly-ailesbury-nursing-home-sandymount-dublin-4/4969969",
+    "https://www.myhome.ie/residential/brochure/c-3-acres-forestry-road-barntown-wexford/5030762",
+    "https://www.myhome.ie/residential/brochure/14-dunville-avenue-ranelagh-dublin-6/5002797",
+    "https://www.myhome.ie/residential/brochure/15b-st-fintan-s-villas-blackrock-county-dublin/5025116",
+    "https://www.myhome.ie/residential/brochure/10-the-meadows-classes-lake-ovens-ballincollig-cork/5030596",
+    "https://www.myhome.ie/residential/brochure/10-hollybank-avenue-lower-ranelagh-dublin-6/5030760",
+    "https://www.myhome.ie/residential/brochure/15-millbank-killincarrig-greystones-co-wicklow/5004345",
+    "https://www.myhome.ie/residential/brochure/7-kerrymount-close-foxrock-dublin-18/5030759",
+    "https://www.myhome.ie/residential/brochure/parkswood-passage-east-waterford/5029962",
+    "https://www.myhome.ie/residential/brochure/154-seabourne-view-greystones-co-wicklow/5011604",
+    "https://www.myhome.ie/residential/brochure/kellyville-ballintubbert-co-laois/5030755",
+    "https://www.myhome.ie/residential/brochure/sea-view-sea-road-blackrock-co-louth/5025192",
+    "https://www.myhome.ie/residential/brochure/46-sweet-briar-lane-kilmacud-dublin-14/5022849",
+    "https://www.myhome.ie/residential/brochure/gaoth-na-mara-battlestown-ramsgrange-wexford/5013571",
+    "https://www.myhome.ie/residential/brochure/3-keane-hall-collegewood-castleknock-dublin-15/5014360",
+    "https://www.myhome.ie/residential/brochure/gaulstown-house-balrath-navan-co-meath/5025239",
+    "https://www.myhome.ie/residential/brochure/iona-newtownsmith-sandycove-co-dublin/5024492",
+    "https://www.myhome.ie/residential/brochure/2-old-court-cottage-old-court-tallaght-dublin-24/5027319"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=82",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-dominican-church-lane-athy-co-kildare/6544779",
+  "fetchedAt": "2026-10-05T09:11:21.038Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-dominican-church-lane-athy-co-kildare/6544779",
+  "kind": "listing",
+  "responseSha256": "85a234d07d37b69adc39d78538dd69c82a2117f20ad84217683f7bac1196b288",
+  "files": [
+    {
+      "path": "daft/00542-09e107ee7ace9fd0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c8cda56dbccb44dc87a19ab8c8fc02aa9e715c7c367cd2b4b4ce8d929601eb39",
+      "bytes": 3143
+    },
+    {
+      "path": "daft/00542-09e107ee7ace9fd0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1249c3827856db10572d1be366680fce1e9b07fea1c9a7cda8adcbe5c58dd7ad",
+      "bytes": 8117
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

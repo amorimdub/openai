@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=494",
+  "fetchedAt": "2026-10-05T14:29:03.817Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=494",
+  "kind": "search",
+  "responseSha256": "b77cd81e8975b1a6a2fca542bb59452a1f6c09084e74370b98492eee1336034a",
+  "files": [
+    {
+      "path": "myhome/10688-f038841b89424965-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=494\"].SearchResults",
+      "sha256": "d162ff3939d00427f00e42c8b453eda37f0bbb4741b7da15c35248a82cced487",
+      "bytes": 117826
+    },
+    {
+      "path": "myhome/10688-f038841b89424965-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=494\"] (paging fields)",
+      "sha256": "c4ed0e7f216ea08644ca6dce119847ed2e4bef7bd5fdcb52efe41687931e6cc8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/41-ocean-point-courtown-wexford/5003224",
+    "https://www.myhome.ie/residential/brochure/holly-hill-convent-road-delgany-co-wicklow/5003232",
+    "https://www.myhome.ie/residential/brochure/no-59-the-spires-carrignafoy-cobh-cork/5003186",
+    "https://www.myhome.ie/residential/brochure/saint-michael-s-railway-view-athlone-co-westmeath/5003231",
+    "https://www.myhome.ie/residential/brochure/greybrook-waterfall-cork/4940480",
+    "https://www.myhome.ie/residential/brochure/beatrick-maryborough-timoleague-west-cork/5002086",
+    "https://www.myhome.ie/residential/brochure/2-stradbrook-lawn-blackrock-co-dublin/5003190",
+    "https://www.myhome.ie/residential/brochure/mount-eagle-ballygrennan-listowel-co-kerry/5003183",
+    "https://www.myhome.ie/residential/brochure/34-riversdale-road-clondalkin-dublin-22-co-dublin/4992080",
+    "https://www.myhome.ie/residential/brochure/apartment-74-block-b-ras-na-cluaine-clondalkin-dublin-22/5003150",
+    "https://www.myhome.ie/residential/brochure/17-cuchullian-terrace-castletown-road-dundalk-county-louth/5003154",
+    "https://www.myhome.ie/residential/brochure/18-cartrontroy-heights-athlone-co-westmeath/5003152",
+    "https://www.myhome.ie/residential/brochure/ardkeen-kilmeena-westport-co-mayo/5003149",
+    "https://www.myhome.ie/residential/brochure/knocknagoshel-co-kerry/5003115",
+    "https://www.myhome.ie/residential/brochure/cul-ard-2-ard-foyle-crescent-ballintemple-cork/5002853",
+    "https://www.myhome.ie/residential/brochure/site-at-ballycorrigan-ballina-tipperary/5000335",
+    "https://www.myhome.ie/residential/brochure/rathcoursey-east-ferry-midleton-cork/5002988",
+    "https://www.myhome.ie/residential/brochure/dooks-glenbeigh-co-kerry/5003066",
+    "https://www.myhome.ie/residential/brochure/cliona-curraheen-carrigrohane-cork/5002940",
+    "https://www.myhome.ie/residential/brochure/68-king-street-wexford-town-wexford/5003060"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=495",
+  "paginationLimited": false
+}

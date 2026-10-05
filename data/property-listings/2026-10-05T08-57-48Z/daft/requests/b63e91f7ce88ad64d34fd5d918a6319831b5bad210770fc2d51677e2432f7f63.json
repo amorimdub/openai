@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-88-block-a-smithfield-market-smithfield-dublin-7/6674814",
+  "fetchedAt": "2026-10-05T09:24:23.577Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-88-block-a-smithfield-market-smithfield-dublin-7/6674814",
+  "kind": "listing",
+  "responseSha256": "0c224f613c4863c29679db38f403c406360a023eb217ebc75cf915df78b6e194",
+  "files": [
+    {
+      "path": "daft/01063-b63e91f7ce88ad64-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "57fb73591ee9a26ff2fcaaafa46a92098119f219d8e1cd0fa3f857c804ac2b67",
+      "bytes": 53640
+    },
+    {
+      "path": "daft/01063-b63e91f7ce88ad64-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f6aea5b0003b11a62993bfefff8af0d014069750b6a4fcd1894c6ffe2fc05604",
+      "bytes": 7976
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/bachelors-walk-dublin-1/6683042",
+  "fetchedAt": "2026-10-05T09:51:52.965Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/bachelors-walk-dublin-1/6683042",
+  "kind": "listing",
+  "responseSha256": "eaf3ac3b18dd0b694b4e38beb190e03fd0337d8f42ee23b68827eb8dbe6aa920",
+  "files": [
+    {
+      "path": "daft/02161-b4214bbe571bbd72-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "29e84805b2425177243a3373232da32d1efecfc85622cb3a2eba3a792ce660bc",
+      "bytes": 29637
+    },
+    {
+      "path": "daft/02161-b4214bbe571bbd72-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8f2a44c175170dce78ee155a27ce1b90d34c35e51cf70cfbb0326ea5f32293ca",
+      "bytes": 7982
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

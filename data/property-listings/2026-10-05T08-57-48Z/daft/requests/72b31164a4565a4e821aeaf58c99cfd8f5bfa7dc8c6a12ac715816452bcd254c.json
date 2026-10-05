@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-aldborough-court-north-strand-dublin-1/6684918",
+  "fetchedAt": "2026-10-05T09:39:45.770Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-aldborough-court-north-strand-dublin-1/6684918",
+  "kind": "listing",
+  "responseSha256": "77b3c456da026d1bf920cf52ac3fc9d639fde36e3bf7834293c7dcb1db8b3365",
+  "files": [
+    {
+      "path": "daft/01677-72b31164a4565a4e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "29e6cc42bd2f735b5bef9c96ee6368ee1f29f4ab83bd9ed3a6e6ff9f3b0a2d6c",
+      "bytes": 14012
+    },
+    {
+      "path": "daft/01677-72b31164a4565a4e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aaf33242b1c0ad828ddaade1d9d2446e46cc2159d7ca5c812fc88c831ca0f46e",
+      "bytes": 7974
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

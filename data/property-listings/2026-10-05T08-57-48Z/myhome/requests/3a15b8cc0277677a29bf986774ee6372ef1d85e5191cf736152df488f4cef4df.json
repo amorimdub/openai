@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=23",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=23",
+  "fetchedAt": "2026-10-05T09:19:09.264Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "5380f7f405520b1c767baabe78f65cb471797207f7a3ff3af91d2bb47c5d263c",
+  "files": [
+    {
+      "path": "myhome/00849-3a15b8cc0277677a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=23\"].SearchResults",
+      "sha256": "b3002de3832d267648223dc7275264fb75a0d18aefa51acb1ad767b430e03c1a",
+      "bytes": 97357
+    },
+    {
+      "path": "myhome/00849-3a15b8cc0277677a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=23\"] (paging fields)",
+      "sha256": "3be419959ac38ffcc8a336058b7b18826a218500dc8311fae705c410c6792ece",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/the-hawthorns-stradbally-waterford/4996264",
+    "https://www.myhome.ie/rentals/brochure/apartment-8-19-pembroke-road-ballsbridge-dublin-4/4988101",
+    "https://www.myhome.ie/rentals/brochure/3-dun-aoibhinn-dungarvan-waterford/4994635",
+    "https://www.myhome.ie/rentals/brochure/42-south-court-quayside-sligo-county-sligo/4991094",
+    "https://www.myhome.ie/rentals/brochure/park-lodge-north-circular-road-dublin-7/4990434",
+    "https://www.myhome.ie/rentals/brochure/neptune-by-havitat-dun-laoghaire-co-dublin/4579829",
+    "https://www.myhome.ie/rentals/brochure/newtown-house-newtown-enfield-county-kildare/4987648",
+    "https://www.myhome.ie/rentals/brochure/forbes-quay-grand-canal-dk-dublin-2/4941208",
+    "https://www.myhome.ie/rentals/brochure/64-north-strand-road-north-strand-dublin-3/4987179",
+    "https://www.myhome.ie/rentals/brochure/7-newtown-woods-waterford-city-waterford/4985383",
+    "https://www.myhome.ie/rentals/brochure/park-lodge-north-circular-road-dublin-7/4984635",
+    "https://www.myhome.ie/rentals/brochure/burgage-street-newcastle-co-dublin/4983571",
+    "https://www.myhome.ie/rentals/brochure/tamarisk-view-tallaght-dublin-24/4982979",
+    "https://www.myhome.ie/rentals/brochure/boyne-lodge-tullamoy-portlaoise-county-laois/4980905",
+    "https://www.myhome.ie/rentals/brochure/the-penthouse-rockpoint-newtown-avenue-blackrock-county-dublin/4965816",
+    "https://www.myhome.ie/rentals/brochure/7-ard-na-glaise-stillorgan-park-stillorgan-blackrock-co-dublin/4980340",
+    "https://www.myhome.ie/rentals/brochure/rathlevanagh-multyfarnham-westmeath/4979774",
+    "https://www.myhome.ie/rentals/brochure/18-mounttown-villas-mounttown-road-lower-dun-laoghaire-co-dublin/4979737",
+    "https://www.myhome.ie/rentals/brochure/first-floor-apartment-60-kenyon-st-nenagh-tipperary/4979179",
+    "https://www.myhome.ie/rentals/brochure/slieveroe-knockananna-tinahely-wicklow/4972604"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=24",
+  "paginationLimited": false
+}

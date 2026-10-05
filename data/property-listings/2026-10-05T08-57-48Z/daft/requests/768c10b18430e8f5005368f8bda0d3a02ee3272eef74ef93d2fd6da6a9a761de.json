@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/castleknock-village-centre-castleknock-co-dublin/6622722",
+  "fetchedAt": "2026-10-05T09:13:16.713Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/castleknock-village-centre-castleknock-co-dublin/6622722",
+  "kind": "listing",
+  "responseSha256": "af449be2ff48b7a006af70c43322f73cfcb6ce52f8a35cb2121afc6a0c51ac20",
+  "files": [
+    {
+      "path": "daft/00619-768c10b18430e8f5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "45dc8c8af367ceb00f52bbee5931783bca7ab4ae285332dd809815cb027b3d3c",
+      "bytes": 32905
+    },
+    {
+      "path": "daft/00619-768c10b18430e8f5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "70d7a4b84f85e45d8f2ebca49860591e0d1a3a2d110804d34c2a8f9c81b28ddd",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

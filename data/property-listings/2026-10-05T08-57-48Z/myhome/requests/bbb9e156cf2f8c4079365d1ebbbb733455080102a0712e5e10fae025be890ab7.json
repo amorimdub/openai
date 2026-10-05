@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=147",
+  "fetchedAt": "2026-10-05T11:30:09.066Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=147",
+  "kind": "search",
+  "responseSha256": "6be4de02115bc256f15a3cee1497d7cd533dd5cbe42e9883787bc29ea3e3ff66",
+  "files": [
+    {
+      "path": "myhome/03552-bbb9e156cf2f8c40-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=147\"].SearchResults",
+      "sha256": "54b9d1359778ab5db4e708e808af5707efe42d72ca1579856be9f1790c85c18a",
+      "bytes": 120422
+    },
+    {
+      "path": "myhome/03552-bbb9e156cf2f8c40-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=147\"] (paging fields)",
+      "sha256": "c022f3daf2bcfa6068df9c3612823d8f95278ccb21e2cbe93e0d6033a3ec3319",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/28-beech-lodge-farmleigh-woods-castleknock-dublin-15/4963615",
+    "https://www.myhome.ie/residential/brochure/62-collegefort-castleknock-dublin-15/5025128",
+    "https://www.myhome.ie/residential/brochure/158-georgian-village-castleknock-dublin-15/5016924",
+    "https://www.myhome.ie/residential/brochure/rosmult-rosmeen-park-dun-laoghaire-co-dublin/5006381",
+    "https://www.myhome.ie/residential/brochure/61-maudlin-street-kilkenny-kilkenny-kilkenny/5029024",
+    "https://www.myhome.ie/residential/brochure/1-harbour-grove-dundalk-louth/5006567",
+    "https://www.myhome.ie/residential/brochure/world-s-end-kinsale-county-cork/5029023",
+    "https://www.myhome.ie/residential/brochure/3-hunters-row-clontarf-dublin-3/5029021",
+    "https://www.myhome.ie/residential/brochure/residence-on-c-0-70-acres-gorteen-mountbellew-county-galway/5029020",
+    "https://www.myhome.ie/residential/brochure/14-griffith-road-glasnevin-dublin-11/5029016",
+    "https://www.myhome.ie/residential/brochure/84-spencer-house-custom-house-square-mayor-street-lower-ifsc-dublin-1-dublin/5029013",
+    "https://www.myhome.ie/residential/brochure/oak-lawns-clonee-road-westmanstown-lucan-dublin/5029011",
+    "https://www.myhome.ie/residential/brochure/kia-67-annaverna-drive-rd-easmuinn-dundalk-louth/5021565",
+    "https://www.myhome.ie/residential/brochure/hillfarm-narraghmore-kilcullen-kildare/4989876",
+    "https://www.myhome.ie/residential/brochure/harristown-brannockstown-kilcullen-kildare/4997197",
+    "https://www.myhome.ie/residential/brochure/ghan-house-63-biscayne-malahide-county-dublin/5029001",
+    "https://www.myhome.ie/residential/brochure/46-aughavanagh-road-crumlin-dublin-12/5026018",
+    "https://www.myhome.ie/residential/brochure/50-oakcourt-park-palmerstown-dublin-20/5029007",
+    "https://www.myhome.ie/residential/brochure/saint-martin-s-annaloughan-jenkinstown-co-louth-dundalk-louth/5028986",
+    "https://www.myhome.ie/residential/brochure/24-shelduck-street-aston-village-drogheda-co-louth/5029005"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=148",
+  "paginationLimited": false
+}

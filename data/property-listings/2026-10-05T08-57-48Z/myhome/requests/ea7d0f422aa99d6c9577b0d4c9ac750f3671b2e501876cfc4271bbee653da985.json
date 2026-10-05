@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=166",
+  "fetchedAt": "2026-10-05T11:40:01.311Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=166",
+  "kind": "search",
+  "responseSha256": "2b9375e610852e3a8bd2b5968505a309765607f8eb4ef17415f4f0503146ddfb",
+  "files": [
+    {
+      "path": "myhome/03946-ea7d0f422aa99d6c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=166\"].SearchResults",
+      "sha256": "0c15bf42d304f2d788ca4b6484964594267078f7e7bda65582c7f12a29468d64",
+      "bytes": 127128
+    },
+    {
+      "path": "myhome/03946-ea7d0f422aa99d6c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=166\"] (paging fields)",
+      "sha256": "a253b6d6fdda43d66850ade97127824e9c126153177296783a2ffe5685794e65",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-new-brookcourt-lismonaghan-letterkenny-co-donegal/5028543",
+    "https://www.myhome.ie/residential/brochure/59-swan-s-nest-road-kilbarrack-dublin-5/5028542",
+    "https://www.myhome.ie/residential/brochure/85-quinn-s-road-shankill-dublin-18/5006364",
+    "https://www.myhome.ie/residential/brochure/2-dunsoghly-way-cappoge-dublin-11/5028541",
+    "https://www.myhome.ie/residential/brochure/barley-hill-court-bohola-mayo/5028540",
+    "https://www.myhome.ie/residential/brochure/7-rosemount-court-rosemount-terrace-booterstown-county-dublin/5002131",
+    "https://www.myhome.ie/residential/brochure/74-patrick-street-dun-laoghaire-co-dublin/5028538",
+    "https://www.myhome.ie/residential/brochure/62-fosterbrook-booterstown-blackrock-co-dublin/5028537",
+    "https://www.myhome.ie/residential/brochure/4-landsdowne-manor-cavan-cavan/5028531",
+    "https://www.myhome.ie/residential/brochure/41-the-rise-boden-park-rathfarnham-dublin-16-rathfarnham-dublin-16/4965506",
+    "https://www.myhome.ie/residential/brochure/brownsbarn-lodge-brownsbarn-thomastown-co-kilkenny/5001752",
+    "https://www.myhome.ie/residential/brochure/the-paddock-on-circa-1-5-acres-baunrickeen-johnstown-co-kilkenny/5015481",
+    "https://www.myhome.ie/residential/brochure/suncroft-crossabeg-wexford/5028529",
+    "https://www.myhome.ie/residential/brochure/5-greenhills-manorcunningham-letterkenny-co-donegal/5028530",
+    "https://www.myhome.ie/residential/brochure/39-moyne-road-ranelagh-dublin-6/5023922",
+    "https://www.myhome.ie/residential/brochure/116-grattan-lodge-balgriffin-dublin-13/5023093",
+    "https://www.myhome.ie/residential/brochure/10-o-connor-ville-tower-street-cork-city/4986585",
+    "https://www.myhome.ie/residential/brochure/73-coultry-avenue-ballymun-dublin/5028510",
+    "https://www.myhome.ie/residential/brochure/7-shandon-view-cottages-blackpool-cork/5028519",
+    "https://www.myhome.ie/residential/brochure/3-ballycar-road-newmarket-on-fergus-clare/5028518"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=167",
+  "paginationLimited": false
+}

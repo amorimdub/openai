@@ -1,0 +1,588 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "19 páirc feá ballinamore leitrim",
+    "GroupId": 9788,
+    "Address": "19 Páirc Feá",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/aa02ef0c-a11f-48e4-b4ac-4263f3c1f25b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/896a0133-dc78-47c9-b79f-901c20b9e988_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2bb93440-4731-4632-8d9c-1dbd61ea672e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/d6056ce9-1ae3-49f4-99bd-92a3b1906055_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/613ca580-30f2-4866-ae5d-86f99d88b195_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/72666a09-e507-4c56-9352-2bab04032f20_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/b2770436-b9bb-4641-8fbc-af51156c91ab_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/840de103-5530-4f1b-8429-7381b2cb517d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/e7cfd576-c375-4392-8471-e519ad1e5af7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/043c50b7-6b1a-426d-bdf5-ae4b13479b25_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2272cd5d-44f0-4b99-89dc-0f9195e9002f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/4/1/5009142/36c44246-0fdc-47ba-82e8-d9a98db31c96_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 112,
+    "MaxSize": 112,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€1,300 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "112",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5009142,
+        "DisplayAddress": "19 Páirc Feá, Ballinamore, Leitrim",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "36a676ce-5edb-4752-b951-be0c8d99a22a",
+              "Filename": "faf552aa-2d45-4bde-b628-85550afc781f.jpg",
+              "Caption": "1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "62e923e2-9851-4109-8b3b-4b5739d12afa",
+              "Filename": "aa02ef0c-a11f-48e4-b4ac-4263f3c1f25b.jpg",
+              "Caption": "2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a2c79adc-8029-42bb-9e48-3b0056faeb17",
+              "Filename": "896a0133-dc78-47c9-b79f-901c20b9e988.jpg",
+              "Caption": "3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dcfaaa12-83d3-491e-ba4f-0adef0a49a67",
+              "Filename": "2bb93440-4731-4632-8d9c-1dbd61ea672e.jpg",
+              "Caption": "7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "37c1dce0-eef3-4ac3-8c9d-a7358b28a960",
+              "Filename": "d6056ce9-1ae3-49f4-99bd-92a3b1906055.jpg",
+              "Caption": "5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a739f2c7-4f59-40e2-a24d-a7387469748a",
+              "Filename": "613ca580-30f2-4866-ae5d-86f99d88b195.jpg",
+              "Caption": "6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "429c4fca-dc50-44c9-93bd-717dcc2498cd",
+              "Filename": "72666a09-e507-4c56-9352-2bab04032f20.jpg",
+              "Caption": "4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "49c2f95d-d52f-4b56-8d56-e9d40a4561c0",
+              "Filename": "b2770436-b9bb-4641-8fbc-af51156c91ab.jpg",
+              "Caption": "12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8ffcd35c-a920-4856-b40c-e930c4f9e676",
+              "Filename": "840de103-5530-4f1b-8429-7381b2cb517d.jpg",
+              "Caption": "9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "02d58f1e-6784-41c5-b71c-2c15de1e0bc7",
+              "Filename": "e7cfd576-c375-4392-8471-e519ad1e5af7.jpg",
+              "Caption": "10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f5845bf8-10cf-4cbe-a978-fdcf0e250cc8",
+              "Filename": "043c50b7-6b1a-426d-bdf5-ae4b13479b25.jpg",
+              "Caption": "13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6c4a747a-643c-49a6-b509-b97cdff9c467",
+              "Filename": "2272cd5d-44f0-4b99-89dc-0f9195e9002f.jpg",
+              "Caption": "8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5508e901-1264-496f-965a-9011e78eaf4b",
+              "Filename": "36c44246-0fdc-47ba-82e8-d9a98db31c96.jpg",
+              "Caption": "11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "72db72cc7d4248a08f2073bb1a35536b",
+          "OriginalImagesSuffix": "72db7",
+          "MainPhoto": {
+            "Identifier": "36a676ce-5edb-4752-b951-be0c8d99a22a",
+            "Filename": "faf552aa-2d45-4bde-b628-85550afc781f.jpg",
+            "Caption": "1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Gordon Hughes Estate Agents are delighted to bring to the rental market this spacious 3 bedroom semi-detached house which is in walk-in-condition throughout. This property is situated in a popular residential area on the outskirts of the thriving town of Ballinamore & is available to let either furnished or unfurnished. Within walking distance of all shops, services and schools the accommodation comprises of; Hallway, Living Room, Kitchen/Dining Room, WC, & Bathroom & No.3 Bedrooms (1 ensuite).  Strictly NO PETS. Viewing by Appointment Only with Sole Letting Agent. EMAIL ENQUIRIES ONLY."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Hallway\r\nKitchen/dining room\r\nLiving Room (open fireplace)\r\nToilet\r\nBathroom\r\nNo.3 Beds (1 ensuite)"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Ready for immediate occupation\r\nClose to Ballinamore town centre"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C1"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 307298,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-26T15:13:55.4500000+01:00",
+    "ModifiedOnDate": "2026-06-26T15:16:50.2430000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-26T15:16:56.2130000+01:00",
+    "RefreshedOn": "2026-06-26T15:16:56.2130000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€1,300 / month",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5009142,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 112,
+    "DisplayAddress": "19 Páirc Feá, Ballinamore, Leitrim",
+    "Eircode": "N41 ND00",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Semi-Detached",
+    "PropertyTypeId": 76,
+    "RegionId": 2648,
+    "RegionName": "Leitrim",
+    "LocalityId": 2650,
+    "LocalityName": "Ballinamore",
+    "Price": {
+      "MinRentalPrice": 1300,
+      "MaxRentalPrice": 1300,
+      "Period": "Monthly",
+      "Deposit": 1300,
+      "ShowPrice": true,
+      "AvailableOn": "2026-06-26T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 1300,
+      "MaxMonthlyRentalPrice": 1300
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/faf552aa-2d45-4bde-b628-85550afc781f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/aa02ef0c-a11f-48e4-b4ac-4263f3c1f25b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/aa02ef0c-a11f-48e4-b4ac-4263f3c1f25b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/aa02ef0c-a11f-48e4-b4ac-4263f3c1f25b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/896a0133-dc78-47c9-b79f-901c20b9e988_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/896a0133-dc78-47c9-b79f-901c20b9e988_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/896a0133-dc78-47c9-b79f-901c20b9e988_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2bb93440-4731-4632-8d9c-1dbd61ea672e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2bb93440-4731-4632-8d9c-1dbd61ea672e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2bb93440-4731-4632-8d9c-1dbd61ea672e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/d6056ce9-1ae3-49f4-99bd-92a3b1906055_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/d6056ce9-1ae3-49f4-99bd-92a3b1906055_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/d6056ce9-1ae3-49f4-99bd-92a3b1906055_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/613ca580-30f2-4866-ae5d-86f99d88b195_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/613ca580-30f2-4866-ae5d-86f99d88b195_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/613ca580-30f2-4866-ae5d-86f99d88b195_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/72666a09-e507-4c56-9352-2bab04032f20_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/72666a09-e507-4c56-9352-2bab04032f20_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/72666a09-e507-4c56-9352-2bab04032f20_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/b2770436-b9bb-4641-8fbc-af51156c91ab_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/b2770436-b9bb-4641-8fbc-af51156c91ab_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/b2770436-b9bb-4641-8fbc-af51156c91ab_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/840de103-5530-4f1b-8429-7381b2cb517d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/840de103-5530-4f1b-8429-7381b2cb517d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/840de103-5530-4f1b-8429-7381b2cb517d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/e7cfd576-c375-4392-8471-e519ad1e5af7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/e7cfd576-c375-4392-8471-e519ad1e5af7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/e7cfd576-c375-4392-8471-e519ad1e5af7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/043c50b7-6b1a-426d-bdf5-ae4b13479b25_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/043c50b7-6b1a-426d-bdf5-ae4b13479b25_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/043c50b7-6b1a-426d-bdf5-ae4b13479b25_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2272cd5d-44f0-4b99-89dc-0f9195e9002f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2272cd5d-44f0-4b99-89dc-0f9195e9002f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/2272cd5d-44f0-4b99-89dc-0f9195e9002f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/36c44246-0fdc-47ba-82e8-d9a98db31c96_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/36c44246-0fdc-47ba-82e8-d9a98db31c96_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/4/1/5009142/36c44246-0fdc-47ba-82e8-d9a98db31c96_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.7919809,
+      "latitude": 54.0571959
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 13,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9788,
+    "Name": "Gordon Hughes Estate Agents ",
+    "DisplayPhone": "071 964 5555",
+    "Email": "info@ghproperty.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "gordon-hughes-estates-agents",
+    "SeoName": "gordon-hughes-estates-agents",
+    "Address": "Main Street, Ballinamore, Co. Leitrim ",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/8/7/9788/logo.jpg",
+    "SalesLicense": "001320",
+    "RentalLicense": "001320",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballinamore/2650",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024852,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Dereen, Aughacashel, Co.Leitrim , Ballinamore",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/5/8/5024852/6512fb69-5501-4214-af35-cd4006d0c9b8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/dereen-aughacashel-co-leitrim-ballinamore/5024852"
+    },
+    {
+      "PropertyId": 5024847,
+      "PropertyClassId": 1,
+      "DisplayAddress": "15 Drumcoura Lake Resort, Drumcoura, Ballinamore, Co. Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/4/8/5024847/eb40f985-6c6f-4c88-936d-a99d16721587_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/15-drumcoura-lake-resort-drumcoura-ballinamore-co-leitrim/5024847"
+    },
+    {
+      "PropertyId": 5024334,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Stradermot, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/3/5024334/e49c5f0e-efc7-48fa-8e7b-d02138fffd2e_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/stradermot-ballinamore-leitrim/5024334"
+    },
+    {
+      "PropertyId": 5023598,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apt. 3 The Archways, Bridge Street, Carrick On Shannon, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/5/5023598/5a7ab117-1c23-4f2c-9380-f4b5e7917603_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apt-3-the-archways-bridge-street-carrick-on-shannon-co-leitrim/5023598"
+    },
+    {
+      "PropertyId": 5023178,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Aughalough, Aughavas, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/7/1/5023178/dc2d3488-11f3-465f-a321-24481a0381c5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/aughalough-aughavas-leitrim/5023178"
+    },
+    {
+      "PropertyId": 5021716,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Apt 3 Golf Links Road, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/1/7/5021716/22d3af6f-2366-4327-a8d2-eada1db13fdb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/apt-3-golf-links-road-ballinamore-leitrim/5021716"
+    },
+    {
+      "PropertyId": 5021482,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Greaghnafarna, Ballinaglera, Co.Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/4/5021482/c13b7bb9-b86f-4643-8b51-cd155b7461bc_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/greaghnafarna-ballinaglera-co-leitrim/5021482"
+    },
+    {
+      "PropertyId": 5019114,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mullaghlea, Bawnboy, Co. Cavan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/1/5019114/b1714aba-a430-4611-bddd-e6e50f7da8cf_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mullaghlea-bawnboy-co-cavan/5019114"
+    },
+    {
+      "PropertyId": 5018985,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Fenaghbeg, Fenagh, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5018985/cadce2d6-86f6-4fd3-b151-ff6f7abeb6a0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/fenaghbeg-fenagh-ballinamore-leitrim/5018985"
+    },
+    {
+      "PropertyId": 5018540,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Greaghnafarna, Ballinaglera, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/4/5/5018540/73e9594a-7b49-4340-8952-db3464285ad0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/greaghnafarna-ballinaglera-leitrim/5018540"
+    },
+    {
+      "PropertyId": 5016985,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Aughacashel, Dereen, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5016985/65929a16-cc00-4e8b-89c8-7d0ddfe6e7e4_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/aughacashel-dereen-ballinamore-leitrim/5016985"
+    },
+    {
+      "PropertyId": 5016929,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Killaneen, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/9/5016929/9136b40a-7645-4368-9f39-d41cee56fb2c_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/killaneen-ballinamore-leitrim/5016929"
+    },
+    {
+      "PropertyId": 5015272,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mullaghlea, Bawnboy, Cavan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/2/5015272/10b3cfa0-8e9d-437f-ab77-b81e44c4ba8d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mullaghlea-bawnboy-cavan/5015272"
+    },
+    {
+      "PropertyId": 5014945,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Lios Na Coille, Keadue Road, Leitrim Village, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/9/5014945/d79ef632-9e0a-4b0f-9970-e0fd33d9723e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/lios-na-coille-keadue-road-leitrim-village-co-leitrim/5014945"
+    },
+    {
+      "PropertyId": 5012393,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Mellican, Ballinamore, Co. Leitrim ",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/9/3/5012393/76038627-5170-4ec7-9613-bacc17e2a67d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/mellican-ballinamore-co-leitrim/5012393"
+    },
+    {
+      "PropertyId": 5011813,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Aghrafinigan, Knockvicar, Boyle, Co. Roscommon",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/8/5011813/48f1744a-4fc7-4ef3-8738-095e6a918c1c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/aghrafinigan-knockvicar-boyle-co-roscommon/5011813"
+    },
+    {
+      "PropertyId": 5011423,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Coolmeen, Co. Sligo, Kilmactranny",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/2/4/5011423/e4c46030-a1d4-420c-9c4f-a1d49c24b146_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/coolmeen-co-sligo-kilmactranny/5011423"
+    },
+    {
+      "PropertyId": 5010856,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Smyths, Main Street, Ballinamore, Leitrim",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/8/5010856/0e3845c8-306a-4f6d-9d99-e143e1538122_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/smyths-main-street-ballinamore-leitrim/5010856"
+    },
+    {
+      "PropertyId": 5009591,
+      "PropertyClassId": 1,
+      "DisplayAddress": "No 9 Lakeside Cottages, Drumcong, Co.Leitrim , Drumshanbo",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/9/5/5009591/b84e8cfc-56f4-420a-ace7-a61c22fc1ec6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/no-9-lakeside-cottages-drumcong-co-leitrim-drumshanbo/5009591"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/19-p-irc-fe-ballinamore-leitrim/5009142",
+  "Features": [
+    "Furnished",
+    "Unfurnished",
+    "Parking",
+    "Central Heating"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 307298,
+    "Name": "info@ghproperty.com",
+    "Email": "info@ghproperty.com"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9788,
+    "MYH_LocalityID": 2650,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2648,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "References Required"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,References Required",
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 90,
+    "MYH_MinSize": 112,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5009142,
+    "MYH_PropertyTypeID": 76
+  }
+}

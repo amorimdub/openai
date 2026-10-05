@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/studio-apartment-phase-1-clancy-quay-by-kennedy-wilson-south-circular-road-dublin-8/2629953",
+  "fetchedAt": "2026-10-05T08:59:10.775Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/studio-apartment-phase-1-clancy-quay-by-kennedy-wilson-south-circular-road-dublin-8/2629953",
+  "kind": "listing",
+  "responseSha256": "57b0ad0874d7cd3d41f907836953e7b9da519e2145a1fc90fa51229053301bb8",
+  "files": [
+    {
+      "path": "daft/00056-bd6b534d98b80456-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "57c9710a56a845ada5c4bcc48c86da73a9952522c55b4605f992a99e107cc3a5",
+      "bytes": 42797
+    },
+    {
+      "path": "daft/00056-bd6b534d98b80456-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bdebf3173ac79f5023434c6a48b158c8835af22b0e5f12ef252854c1d9e5c3a6",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

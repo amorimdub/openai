@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/58-ellesmere-avenue-north-circular-road-dublin-7/6686916",
+  "fetchedAt": "2026-10-05T09:24:59.639Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/58-ellesmere-avenue-north-circular-road-dublin-7/6686916",
+  "kind": "listing",
+  "responseSha256": "1e822e633244b5a850add1622a1b7c4f9130d1e55d2dec161231e85f5b9adbce",
+  "files": [
+    {
+      "path": "daft/01087-470d247abd9cc592-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "69af7c6a330dbca05332e70da55010cf9b71dd03eb295c6c91cc598318fc4cf4",
+      "bytes": 19029
+    },
+    {
+      "path": "daft/01087-470d247abd9cc592-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7857d6cddc52e40e0838faac9728a076c872a739f4b5667d870906084ea8ad4b",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

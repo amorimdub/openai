@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/16-knightswood-place-knightswood-grantstown-co-waterford/6683607",
+  "fetchedAt": "2026-10-05T09:31:19.732Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/16-knightswood-place-knightswood-grantstown-co-waterford/6683607",
+  "kind": "listing",
+  "responseSha256": "a6de07ea03a7cf196f5b5da51da6cbb90493732c17777405a3ec30fa557e6fe5",
+  "files": [
+    {
+      "path": "daft/01340-eddfe955cb284523-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04a63d642d432e90eda0dec99cb4323177b37d03d303353ef34bafc3c1ee10b1",
+      "bytes": 29797
+    },
+    {
+      "path": "daft/01340-eddfe955cb284523-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8345fd1a0fad4c6278b5454c8b0166a7534780d94102452006f25362695ed184",
+      "bytes": 8147
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/2-shelbourne-square-north-circular-road-co-limerick/6593968",
+  "fetchedAt": "2026-10-05T09:33:57.398Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/2-shelbourne-square-north-circular-road-co-limerick/6593968",
+  "kind": "listing",
+  "responseSha256": "c939a77c356809aaab2f1eac80c0293bf20dd42d0b87630c177709e547e67f9e",
+  "files": [
+    {
+      "path": "daft/01445-d605f0b4970e1595-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "02207d3e65c143b6a7d8777301c26d137a40f4bcb60b1147e2ed947bfd777b31",
+      "bytes": 68239
+    },
+    {
+      "path": "daft/01445-d605f0b4970e1595-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7c789fd9390939034a3a6562cab76dc2064bee8882d2edfb4ef83aeb4d6b7472",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

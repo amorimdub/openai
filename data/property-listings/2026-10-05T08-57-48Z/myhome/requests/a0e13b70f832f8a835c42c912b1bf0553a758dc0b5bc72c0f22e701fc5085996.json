@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=483",
+  "fetchedAt": "2026-10-05T14:23:24.105Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=483",
+  "kind": "search",
+  "responseSha256": "28e965cf8cd78e015fbbe7dc69ffe73e5c1ccf1f603ba5670739937593079e1b",
+  "files": [
+    {
+      "path": "myhome/10462-a0e13b70f832f8a8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=483\"].SearchResults",
+      "sha256": "e612552b86b242a0dda19474114b3a8c17efe76ae836e2f219eaa24a12035b7d",
+      "bytes": 120367
+    },
+    {
+      "path": "myhome/10462-a0e13b70f832f8a8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=483\"] (paging fields)",
+      "sha256": "531cca3813783557644e91760a4f33b7bfb1319d7a8497446bcb0810e9077446",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-finn-street-stoneybatter-dublin-7/5004599",
+    "https://www.myhome.ie/residential/brochure/curryhills-prosperous-co-kildare/5004596",
+    "https://www.myhome.ie/residential/brochure/11-sion-gardens-sion-road-kilkenny-co-kilkenny/5004591",
+    "https://www.myhome.ie/residential/brochure/lagile-killeagh-co-cork/5004284",
+    "https://www.myhome.ie/residential/brochure/164-kilmore-road-artane-dublin-5/5004579",
+    "https://www.myhome.ie/residential/brochure/hillside-kilva-midleton-cork/5004459",
+    "https://www.myhome.ie/residential/brochure/16-cois-cille-conna-co-cork/5004108",
+    "https://www.myhome.ie/residential/brochure/apartment-128-ivy-exchange-dublin-1-parnell-square-dublin-1/5004562",
+    "https://www.myhome.ie/residential/brochure/killannin-house-killeencoff-westport-co-mayo/5004556",
+    "https://www.myhome.ie/residential/brochure/cruckawn-house-ballymote-road-tubbercurry-sligo/5002147",
+    "https://www.myhome.ie/residential/brochure/the-constabulary-and-glendalough-fayre-laragh-wicklow/5004516",
+    "https://www.myhome.ie/residential/brochure/apartment-35a-cooldriona-court-swords-county-dublin/4827461",
+    "https://www.myhome.ie/residential/brochure/11-shackleton-rise-lucan-co-dublin/5004541",
+    "https://www.myhome.ie/residential/brochure/28-orchard-drive-donegal-town-donegal/5004527",
+    "https://www.myhome.ie/residential/brochure/21-the-rise-dunshaughlin-meath/5004519",
+    "https://www.myhome.ie/residential/brochure/st-john-s-grove-gilltown-kilcullen-co-kildare/5004518",
+    "https://www.myhome.ie/residential/brochure/32-the-sycamores-stradbrook-hill-blackrock-co-dublin/5004511",
+    "https://www.myhome.ie/residential/brochure/9-westmill-walk-miller-s-glen-swords-dublin/5004497",
+    "https://www.myhome.ie/residential/brochure/2-leinster-terrace-clondalkin-dublin-22/5004499",
+    "https://www.myhome.ie/residential/brochure/pheasant-lane-portlaoise-laois/5004388"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=484",
+  "paginationLimited": false
+}

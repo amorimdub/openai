@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=36",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=36",
+  "fetchedAt": "2026-10-05T09:30:31.440Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "2fc578cd74e2f8a8686f64578b1bb2ee9bd00774998853a7d1329d446d010af9",
+  "files": [
+    {
+      "path": "myhome/01303-32e57d6fe87d94b9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=36\"].SearchResults",
+      "sha256": "21d2af7bd324eb30c5927c26f77d8d08aa545cc97f23ba7bc50a4f3da8f93dec",
+      "bytes": 119591
+    },
+    {
+      "path": "myhome/01303-32e57d6fe87d94b9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=36\"] (paging fields)",
+      "sha256": "d189422aa4c12fce04ebbdc5b65ce407cfc10d495586dc9b377b4c5133093d00",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/65-meadow-mount-churchtown-dublin-16/5031646",
+    "https://www.myhome.ie/residential/brochure/47-hollywoodrath-crescent-hollystown-dublin-15/5031563",
+    "https://www.myhome.ie/residential/brochure/26-the-coombe-the-coombe-dublin-8/5004087",
+    "https://www.myhome.ie/residential/brochure/the-fairhaven-extended-pebble-cove-portmarnock-county-dublin/5002819",
+    "https://www.myhome.ie/residential/brochure/1-beach-drive-sandymount-dublin-4/5024546",
+    "https://www.myhome.ie/residential/brochure/castlemoyle-leopardstown-road-foxrock-dublin-18/4996612",
+    "https://www.myhome.ie/residential/brochure/corbeagh-cootehill-cavan/5024223",
+    "https://www.myhome.ie/residential/brochure/entwood-bailick-avenue-midleton-co-cork/5031645",
+    "https://www.myhome.ie/residential/brochure/52-wilford-court-bray-co-wicklow/5031641",
+    "https://www.myhome.ie/residential/brochure/clyduff-lisnagry-limerick/5030765",
+    "https://www.myhome.ie/residential/brochure/droim-riasc-tulla-co-clare/5031638",
+    "https://www.myhome.ie/residential/brochure/8-slade-castle-wood-saggart-co-dublin/5031635",
+    "https://www.myhome.ie/residential/brochure/42-millbrook-apartments-navan-county-meath/5031634",
+    "https://www.myhome.ie/residential/brochure/the-keel-pebble-cove-portmarnock-county-dublin/4973441",
+    "https://www.myhome.ie/residential/brochure/16-carrigmore-meadows-citywest-dublin-24/5029630",
+    "https://www.myhome.ie/residential/brochure/chapel-park-kinnegad-co-westmeath-the-oak-3-bedroom-end-terrace/5017483",
+    "https://www.myhome.ie/residential/brochure/alderfern-clone-road-enniscorthy-county-wexford/5031626",
+    "https://www.myhome.ie/residential/brochure/15-uam-var-grove-bishopstown-bishopstown-cork/5031622",
+    "https://www.myhome.ie/residential/brochure/20-the-close-waterpark-carrigaline-cork/5031534",
+    "https://www.myhome.ie/residential/brochure/hollyfort-gorey-co-wexford/5031624"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=37",
+  "paginationLimited": false
+}

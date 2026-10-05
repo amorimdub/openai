@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-u-rathborne-rathborne-ashtown-co-dublin/4532023",
+  "fetchedAt": "2026-10-05T09:06:47.729Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-u-rathborne-rathborne-ashtown-co-dublin/4532023",
+  "kind": "listing",
+  "responseSha256": "097779c46a863d38be1587d8c7dd1085660613980f9b7d512d77be3eeec72e49",
+  "files": [
+    {
+      "path": "daft/00360-55c28c1879466ad7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e1535694d310d77836455e6bd1276ee7b4e6b3e0c5585db92e9fcc01229aec04",
+      "bytes": 34174
+    },
+    {
+      "path": "daft/00360-55c28c1879466ad7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f94e04222713bc411762f6149c47744be772a09629777888efc8c073a9fea93",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

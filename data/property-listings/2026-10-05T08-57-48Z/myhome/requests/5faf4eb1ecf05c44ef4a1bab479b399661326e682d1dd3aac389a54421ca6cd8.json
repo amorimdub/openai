@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=267",
+  "fetchedAt": "2026-10-05T12:32:28.342Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=267",
+  "kind": "search",
+  "responseSha256": "eab39ec17912a5e37519927e5f16526ca734a5f2a8aa0dbb137a18748d035455",
+  "files": [
+    {
+      "path": "myhome/06039-5faf4eb1ecf05c44-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=267\"].SearchResults",
+      "sha256": "1b1e0f9ab1111b59ee45fec5df81dbcd06f3ab969eb8e855258a4eda0bd29b6b",
+      "bytes": 120292
+    },
+    {
+      "path": "myhome/06039-5faf4eb1ecf05c44-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=267\"] (paging fields)",
+      "sha256": "f4549ea346a495db1ef3df6de2ed0ec29645f6a3e06c9758a6b9950efb146a2d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-gandon-house-custom-house-square-ifsc-dublin-1/5018737",
+    "https://www.myhome.ie/residential/brochure/7-glendine-woods-glendine-road-kilkenny/5019191",
+    "https://www.myhome.ie/residential/brochure/10-block-15-gallery-quay-grand-canal-dock-dublin-2/5009665",
+    "https://www.myhome.ie/residential/brochure/14-block-8-clarion-quay-ifsc-dublin-1/5014263",
+    "https://www.myhome.ie/residential/brochure/avondale-seafield-road-killiney-co-dublin/5025492",
+    "https://www.myhome.ie/residential/brochure/2-gibbons-cottages-blessington-road-dublin-24/5025491",
+    "https://www.myhome.ie/residential/brochure/knockaskeheen-lisdoonvarna-lisdoonvarna-clare/5025486",
+    "https://www.myhome.ie/residential/brochure/158-crumlin-road-crumlin-dublin-12/4969147",
+    "https://www.myhome.ie/residential/brochure/8-the-pavilion-marine-road-dun-laoghaire-co-dublin/5023563",
+    "https://www.myhome.ie/residential/brochure/granite-cottage-crossbridge-tinahely-county-wicklow/5025484",
+    "https://www.myhome.ie/residential/brochure/118-silversprings-court-tivoli-cork/5025477",
+    "https://www.myhome.ie/residential/brochure/19-carrigmore-downs-saggart-co-dublin/5025483",
+    "https://www.myhome.ie/residential/brochure/76-kingsbry-maynooth-co-kildare-naas/5025480",
+    "https://www.myhome.ie/residential/brochure/180-woodlawn-park-grove-firhouse-dublin-24/4992968",
+    "https://www.myhome.ie/residential/brochure/123a-st-brendan-s-crescent-greenhills-dublin-12/5012313",
+    "https://www.myhome.ie/residential/brochure/2-homeville-court-knocklyon-dublin-16/5018591",
+    "https://www.myhome.ie/residential/brochure/9-woodstown-heath-knocklyon-dublin-16/5017370",
+    "https://www.myhome.ie/residential/brochure/10-glencairn-oaks-the-gallops-leopardstown-dublin-18/5025475",
+    "https://www.myhome.ie/residential/brochure/83a-courtown-park-kilcock-co-kildare-naas/5025476",
+    "https://www.myhome.ie/residential/brochure/tranis-house-beabeg-lane-drogheda-co-meath/5025474"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=268",
+  "paginationLimited": false
+}

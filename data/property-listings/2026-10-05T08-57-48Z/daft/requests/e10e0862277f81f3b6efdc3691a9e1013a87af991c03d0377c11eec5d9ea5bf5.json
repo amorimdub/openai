@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ocallaghan-court-erne-street-upper-dublin2-dublin-2/6638169",
+  "fetchedAt": "2026-10-05T08:58:31.733Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ocallaghan-court-erne-street-upper-dublin2-dublin-2/6638169",
+  "kind": "listing",
+  "responseSha256": "66489a5e719247e2a416200742a795c3245bd015f9ea138e4516554b820b0a39",
+  "files": [
+    {
+      "path": "daft/00030-e10e0862277f81f3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cb59991da8d7737a25f0f539b377c867baa88fb69c9a3fe933e6c2afb9a3f7b8",
+      "bytes": 63161
+    },
+    {
+      "path": "daft/00030-e10e0862277f81f3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3d3b8ab04858e54e9453fe1ee57350c0bb09c96bc7c8bd2a0f326b76cada7983",
+      "bytes": 8053
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

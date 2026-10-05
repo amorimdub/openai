@@ -1,0 +1,443 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "32 woodbrook court dublin road shankill dublin 18",
+    "GroupId": 10707,
+    "Address": "32 Woodbrook Court, Dublin Road",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/34b4e0f8-a25a-4129-8b60-fe4f83571d42_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/34b4e0f8-a25a-4129-8b60-fe4f83571d42_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/34b4e0f8-a25a-4129-8b60-fe4f83571d42_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/d6da7fc0-244b-466b-af70-04ced80b6250_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/01dd2687-9436-4ca5-acca-a3cf3614b142_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/55af1b14-b114-4cd9-bf29-58b408c484cb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/8cbc65ad-8927-44d1-93ee-72f91e8529d9_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/64f27d44-151b-4f82-a664-471a369ec675_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/163e93e7-648c-476c-a8d7-1ff148413376_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/e9c1dea2-a701-4201-bf2d-66700349c637_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7db76177-4f4c-491d-86e7-f0cd7cc27657_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6dca35af-d138-438b-ac93-f93a952dc8f3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7f20fdfc-67f9-4c14-b909-d0bff148d62b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/9e848c00-a1d7-474d-8711-b6d99c317c5a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/4b03ceb1-5079-4032-82a8-a88eb4e93cac_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/c1f05468-20b7-4888-9bf0-db1da9c28f1f_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/2b21625c-81ec-4164-a9bd-13cf9268cd4b_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/848b46d7-7531-49ba-9c23-b9f667167c54_l.jpg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/03cce05e-b198-4e01-a6e5-04034c678a23_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6155e001-9425-4dfd-9239-e6c87bfc4988_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 89,
+    "MaxSize": 89,
+    "BerRating": "A2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 24,
+        "Name": "Email Only",
+        "CreatedOn": "2018-09-11T10:19:36.4900000+01:00",
+        "IconName": "myh-icon-email",
+        "IsRequirement": false
+      },
+      {
+        "Id": 25,
+        "Name": "First Letting",
+        "CreatedOn": "2018-09-11T10:19:48.4300000+01:00",
+        "IconName": "myh-icon-first-letting",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "********** EMAIL ENQUIRIES ONLY **********\r\n\r\nFenelon Properties are delighted to present 32 Woodbrook Court, Shankill, Dublin 18 to the rental market. This beautifully presented two bedroom duplex apartment offers spacious and well proportioned accommodation, excellent energy efficiency and a superb location within this highly regarded residential development.\r\n\r\nExtending to approximately 89sqm [953sqft], the property is presented furnished and provides a comfortable & practical layout over two levels. The accommodation comprises of an entrance hall leading to two generously sized double bedrooms and two bathrooms. The duplex layout offers a welcome separation between the living and sleeping accommodation, creating a comfortable and private home.\r\n\r\nMoving upstairs, there is a bright spacious open plan living/ dining area, well appointed kitchen and access to a south facing balcony, providing a lovely outdoor space to enjoy throughout the day.\r\n\r\nOne of the property's standout features is its excellent A2 BER rating, complemented by geothermal heating technology, offering an efficient and comfortable heating solution. The property also benefits from a designated private parking space, adding further convenience for residents.\r\n\r\nWoodbrook Court is ideally located in Shankill, a popular and well established coastal suburb situated on the Dublin/ Wicklow border. Shankill offers an appealing combination of village convenience, green open spaces and excellent transport connections, making it particularly attractive those looking for a quieter setting within easy reach of Dublin.\r\n\r\nA range of local shops, cafés, restaurants and everyday amenities are within easy reach. While the nearby villages and towns of Bray, Dalkey, Killiney & Greystones provide an even greater choice of shopping, dining and leisure options.\r\n\r\nThe area is particularly well suited to those who enjoy the outdoors. The beautiful coastline, parks and surrounding countryside provide plenty of opportunities for walking, running & cycling. While Killiney Hill, Shankill Beach and the coastal areas around Bray & Dalkey are all within easy reach. \r\n\r\nShankill is also well served by schools and recreational facilities, with a variety of primary and secondary schools, sports clubs and leisure amenities available locally. The area offers a wide range of sporting activities, including football, GAA, rugby, tennis and golf, while the nearby coast provides opportunities to enjoy the outdoors throughout the year. \r\n\r\nShankill DART Station is within walking distance, providing direct rail connections towards Dublin City Centre and south along the DART network. The area is also served by a range of Dublin Bus services, providing additional public transport options and making it straightforward to travel throughout Dublin and the surrounding areas.\r\n\r\nFor those who drive, the N11, M11 and M50 are all readily accessible, providing convenient connections to Dublin City Centre, Dublin Airport and destinations throughout Dublin and Wicklow.\r\n\r\nThe combination of excellent public transport, convenient road links and proximity to both Dublin and the Wicklow coastline makes Shankill an increasingly popular choice for those seeking a well-connected home with a relaxed suburban and coastal setting.\r\n\r\nPlease note: No pets are permitted at this property."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall \r\nMaster Bed/ Bedroom 1\r\nEnsuite \r\nBedroom 2 \r\nMain Bathroom \r\nLanding/ Hallway \r\nOpen Plan Living/ Dining Room \r\nKitchen \r\nUtility Room \r\nStore"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "No Pets Permitted \r\nFurnished \r\nSpacious Duplex Apartment - 2 Double Bedrooms 2 Bathrooms \r\nMeasuring Approx. 89sqm [953sqft] \r\nSecond Floor with Lift Access \r\nGeothermal Heating \r\nBER: A2 [No.: 118032200] \r\nSouth Facing Balcony \r\nOne Designated Parking Space  \r\nWalking Distance Local Shops & Amenities\r\nEasy Access to the N11, M11 & M50\r\nClose to Schools, Sports Clubs & Restaurants \r\nWalking Distance to DART Station & Excellent Public Transport Links"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: A2"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "Please see pinpointed map. \r\nEircode: A98 K7C1\r\nGoogle Maps Link: https://maps.app.goo.gl/JgurVM3SbejJXsZm6?g_st=ig"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Strictly by appointment only, email/ message via advert."
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 140,
+    "MaxEnergyRating": 140,
+    "BERGrade": "A",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-28T12:02:41.9730000+01:00",
+    "ModifiedOnDate": "2026-09-28T12:06:04.2070000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-28T12:11:54.7830000+01:00",
+    "RefreshedOn": "2026-09-28T12:11:54.7830000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,750 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5030812,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 89,
+    "DisplayAddress": "32 Woodbrook Court, Dublin Road, Shankill, Dublin 18",
+    "Eircode": "A98 K7C1",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1459,
+    "RegionName": "Dublin 18",
+    "LocalityId": 1402,
+    "LocalityName": "Shankill",
+    "Price": {
+      "MinRentalPrice": 2750,
+      "MaxRentalPrice": 2750,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2750,
+      "ShowPrice": true,
+      "AvailableOn": "2026-10-02T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2750,
+      "MaxMonthlyRentalPrice": 2750
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/34b4e0f8-a25a-4129-8b60-fe4f83571d42_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/34b4e0f8-a25a-4129-8b60-fe4f83571d42_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/34b4e0f8-a25a-4129-8b60-fe4f83571d42_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/d6da7fc0-244b-466b-af70-04ced80b6250_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/d6da7fc0-244b-466b-af70-04ced80b6250_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/d6da7fc0-244b-466b-af70-04ced80b6250_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/01dd2687-9436-4ca5-acca-a3cf3614b142_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/01dd2687-9436-4ca5-acca-a3cf3614b142_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/01dd2687-9436-4ca5-acca-a3cf3614b142_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/55af1b14-b114-4cd9-bf29-58b408c484cb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/55af1b14-b114-4cd9-bf29-58b408c484cb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/55af1b14-b114-4cd9-bf29-58b408c484cb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/8cbc65ad-8927-44d1-93ee-72f91e8529d9_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/8cbc65ad-8927-44d1-93ee-72f91e8529d9_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/8cbc65ad-8927-44d1-93ee-72f91e8529d9_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/64f27d44-151b-4f82-a664-471a369ec675_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/64f27d44-151b-4f82-a664-471a369ec675_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/64f27d44-151b-4f82-a664-471a369ec675_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/163e93e7-648c-476c-a8d7-1ff148413376_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/163e93e7-648c-476c-a8d7-1ff148413376_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/163e93e7-648c-476c-a8d7-1ff148413376_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/e9c1dea2-a701-4201-bf2d-66700349c637_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/e9c1dea2-a701-4201-bf2d-66700349c637_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/e9c1dea2-a701-4201-bf2d-66700349c637_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7db76177-4f4c-491d-86e7-f0cd7cc27657_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7db76177-4f4c-491d-86e7-f0cd7cc27657_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7db76177-4f4c-491d-86e7-f0cd7cc27657_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6dca35af-d138-438b-ac93-f93a952dc8f3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6dca35af-d138-438b-ac93-f93a952dc8f3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6dca35af-d138-438b-ac93-f93a952dc8f3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7f20fdfc-67f9-4c14-b909-d0bff148d62b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7f20fdfc-67f9-4c14-b909-d0bff148d62b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/7f20fdfc-67f9-4c14-b909-d0bff148d62b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/9e848c00-a1d7-474d-8711-b6d99c317c5a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/9e848c00-a1d7-474d-8711-b6d99c317c5a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/9e848c00-a1d7-474d-8711-b6d99c317c5a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/4b03ceb1-5079-4032-82a8-a88eb4e93cac_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/4b03ceb1-5079-4032-82a8-a88eb4e93cac_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/4b03ceb1-5079-4032-82a8-a88eb4e93cac_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/c1f05468-20b7-4888-9bf0-db1da9c28f1f_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/c1f05468-20b7-4888-9bf0-db1da9c28f1f_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/c1f05468-20b7-4888-9bf0-db1da9c28f1f_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/2b21625c-81ec-4164-a9bd-13cf9268cd4b_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/2b21625c-81ec-4164-a9bd-13cf9268cd4b_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/2b21625c-81ec-4164-a9bd-13cf9268cd4b_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/848b46d7-7531-49ba-9c23-b9f667167c54_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/848b46d7-7531-49ba-9c23-b9f667167c54_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/848b46d7-7531-49ba-9c23-b9f667167c54_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/03cce05e-b198-4e01-a6e5-04034c678a23_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/03cce05e-b198-4e01-a6e5-04034c678a23_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/03cce05e-b198-4e01-a6e5-04034c678a23_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6155e001-9425-4dfd-9239-e6c87bfc4988_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6155e001-9425-4dfd-9239-e6c87bfc4988_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/6155e001-9425-4dfd-9239-e6c87bfc4988_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/b069587d-5b3d-47b7-aecc-a7533950a5e8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/b069587d-5b3d-47b7-aecc-a7533950a5e8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5030812/b069587d-5b3d-47b7-aecc-a7533950a5e8_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.1189307,
+      "latitude": 53.2161818
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 18,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/2/1/8/5030812/b069587d-5b3d-47b7-aecc-a7533950a5e8_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "fbf69551-86fb-4841-9f55-81e346f2cf0f",
+        "Filename": "https://youtube.com/embed/uW86LmHut28",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 10707,
+    "Name": "Fenelon Properties",
+    "DisplayPhone": "01 201 4650",
+    "Email": "rory@fenelonproperties.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "fenelon-properties",
+    "SeoName": "fenelon-properties",
+    "Address": "Suite 15, Parklands Office Park, Southern Cross Road, Bray, Co. Wicklow ",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/7/0/7/10707/logo.jpg",
+    "SalesLicense": "001506",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "shankill/1402",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/32-woodbrook-court-dublin-road-shankill-dublin-18/5030812",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Dryer",
+    "Dishwasher",
+    "Microwave",
+    "Suits Professionals",
+    "References Required"
+  ],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 10707,
+    "MYH_LocalityID": 1402,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1459,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Central Heating",
+      "Microwave",
+      "Balcony",
+      "References Required",
+      "Full Furnished",
+      "Dishwasher",
+      "Email Only",
+      "First Letting"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Central Heating,Microwave,Balcony,References Required,Full Furnished,Dishwasher,Email Only,First Letting",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 140,
+    "MYH_MinSize": 89,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5030812,
+    "MYH_PropertyTypeID": 74
+  }
+}

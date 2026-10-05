@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-sweepstakes-ballsbridge-park-sandymount-dublin-4/6686183",
+  "fetchedAt": "2026-10-05T09:31:01.711Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-sweepstakes-ballsbridge-park-sandymount-dublin-4/6686183",
+  "kind": "listing",
+  "responseSha256": "28a1eaa5d5dd7fe6f67f7ca4aac623983b0d486ea34efdaf60d013c26fd6038f",
+  "files": [
+    {
+      "path": "daft/01328-91d411e87c1a5f92-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3770fd05a278ee63792487fac775f504a763c704983fe19ceb959bf8a66298ec",
+      "bytes": 43929
+    },
+    {
+      "path": "daft/01328-91d411e87c1a5f92-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "249d4ca3084ee70492859346f7a93cd029144e4aa22968eed75be2fca757f977",
+      "bytes": 8246
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

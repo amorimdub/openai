@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/coonawarra-38-killiney-road-dalkey-co-dublin/6673685",
+  "fetchedAt": "2026-10-05T09:00:18.355Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/coonawarra-38-killiney-road-dalkey-co-dublin/6673685",
+  "kind": "listing",
+  "responseSha256": "5ca65305f4a608ca77c7b974e5aa2d47c57efe940b9eaf79bfc1a7301044f0e2",
+  "files": [
+    {
+      "path": "daft/00101-0fcadeb3bfe34d53-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "080bf50a8a5571280d880a5c1f1e46ddcb369ec42027c9e385dcab0015d8c3a2",
+      "bytes": 72909
+    },
+    {
+      "path": "daft/00101-0fcadeb3bfe34d53-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f0ba15afa5ba53ab08afbac3c050e72427f39e62728b52c7c1919d5ac6966206",
+      "bytes": 8103
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

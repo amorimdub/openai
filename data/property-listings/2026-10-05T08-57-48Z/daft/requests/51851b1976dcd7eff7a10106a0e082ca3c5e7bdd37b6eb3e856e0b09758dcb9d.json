@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/d-hollywood-co-wicklow/6682594",
+  "fetchedAt": "2026-10-05T09:46:53.980Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/d-hollywood-co-wicklow/6682594",
+  "kind": "listing",
+  "responseSha256": "9c7d31e3b303f36bf44a3b5e9d870d9ce83587dd27474403132c74d5169a869a",
+  "files": [
+    {
+      "path": "daft/01962-51851b1976dcd7ef-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1a573f7d266073ee353b2362cd32b573896dcd9e090ddfa2f376a9acc48af61f",
+      "bytes": 33011
+    },
+    {
+      "path": "daft/01962-51851b1976dcd7ef-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

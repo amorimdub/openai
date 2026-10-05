@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=56",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=56",
+  "fetchedAt": "2026-10-05T09:40:48.734Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "834d0840c53483d477287593a17e4dadf46bfe06c9fb4a17832743f69994b755",
+  "files": [
+    {
+      "path": "myhome/01714-64219c6fe455ee59-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=56\"].SearchResults",
+      "sha256": "4bd3c620a304613c28a4aff9269c023adcfb6447a2ac6e371877c0376e39553f",
+      "bytes": 116009
+    },
+    {
+      "path": "myhome/01714-64219c6fe455ee59-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=56\"] (paging fields)",
+      "sha256": "e69e830a163b4525a2a4df435e33743af140995d37eec63ad46dde02d338c4a2",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-3-windmill-court-windmill-road-drogheda-co-louth/5031309",
+    "https://www.myhome.ie/residential/brochure/oberstown-ardee-co-louth/5031308",
+    "https://www.myhome.ie/residential/brochure/apartment-104-the-elms-mount-merrion-aveune-blackrock-county-dublin/5028882",
+    "https://www.myhome.ie/residential/brochure/kilnew-site-c-c-0-6-acre-site-blackwater-county-wexford/5031305",
+    "https://www.myhome.ie/residential/brochure/73-ballyroan-road-templeogue-dublin-16/5031303",
+    "https://www.myhome.ie/residential/brochure/apartment-40-liberty-corner-foley-street-north-city-centre-dublin-1/5015094",
+    "https://www.myhome.ie/residential/brochure/28-wainsfort-manor-crescent-terenure-dublin-6w/5031300",
+    "https://www.myhome.ie/residential/brochure/4-clifford-street-wexford-town-co-wexford/5031301",
+    "https://www.myhome.ie/residential/brochure/95-meadow-grove-churchtown-dublin-16/5029948",
+    "https://www.myhome.ie/residential/brochure/21-mountievers-sixmilebridge-clare/5031297",
+    "https://www.myhome.ie/residential/brochure/58-rochfort-manor-leighlin-road-carlow/5031294",
+    "https://www.myhome.ie/residential/brochure/johnstown-road-enfield-county-meath/5031293",
+    "https://www.myhome.ie/residential/brochure/22-the-walk-kilmartin-grove-hollystown-dublin-15-hollystown-dublin-15/5027713",
+    "https://www.myhome.ie/residential/brochure/actonville-ballybawn-lower-kilmacanogue-co-wicklow/5031291",
+    "https://www.myhome.ie/residential/brochure/6-cois-glaisin-avenue-johnstown-navan-co-meath/5031290",
+    "https://www.myhome.ie/residential/brochure/house-no-1-cedarvale-the-colt-collection-torquay-road-golf-lane-foxrock-dublin/5008114",
+    "https://www.myhome.ie/residential/brochure/apt-12-the-lodge-yew-tree-square-prosperous-road-clane-county-kildare/5025579",
+    "https://www.myhome.ie/residential/brochure/2-riverside-clondalkin-dublin-22/5029585",
+    "https://www.myhome.ie/residential/brochure/12-the-lane-coach-road-meadows-clane-county-kildare/5024984",
+    "https://www.myhome.ie/residential/brochure/stone-cross-eadestown-naas-county-kildare/5024200"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=57",
+  "paginationLimited": false
+}

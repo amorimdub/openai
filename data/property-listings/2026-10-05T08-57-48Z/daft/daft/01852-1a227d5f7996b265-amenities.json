@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GARBALLY NATIONAL SCHOOL",
+      "numPupils": 55,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.406853",
+        "lon": "-8.635098"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE NAOFA",
+      "numPupils": 108,
+      "distance": {
+        "value": 5.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.421000",
+        "lon": "-8.569263"
+      }
+    },
+    {
+      "schoolName": "MONIVEA NATIONAL SCHOOL",
+      "numPupils": 248,
+      "distance": {
+        "value": 5.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.375153",
+        "lon": "-8.707143"
+      }
+    },
+    {
+      "schoolName": "BRIERFIELD NATIONAL SCHOOL",
+      "numPupils": 72,
+      "distance": {
+        "value": 6.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.465965",
+        "lon": "-8.663652"
+      }
+    },
+    {
+      "schoolName": "NEWTOWN NATIONAL SCHOOL",
+      "numPupils": 171,
+      "distance": {
+        "value": 6.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.439713",
+        "lon": "-8.728933"
+      }
+    },
+    {
+      "schoolName": "GURTEEN NATIONAL SCHOOL",
+      "numPupils": 48,
+      "distance": {
+        "value": 6.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.371754",
+        "lon": "-8.571034"
+      }
+    },
+    {
+      "schoolName": "SCOIL BRIDE",
+      "numPupils": 24,
+      "distance": {
+        "value": 7.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.484000",
+        "lon": "-8.628743"
+      }
+    },
+    {
+      "schoolName": "NEWCASTLE NATIONAL SCHOOL",
+      "numPupils": 199,
+      "distance": {
+        "value": 8.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.343033",
+        "lon": "-8.683677"
+      }
+    },
+    {
+      "schoolName": "BARNADERG C SCHOOL",
+      "numPupils": 84,
+      "distance": {
+        "value": 9.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.482280",
+        "lon": "-8.725717"
+      }
+    },
+    {
+      "schoolName": "CRUMLIN NATIONAL SCHOOL",
+      "numPupils": 99,
+      "distance": {
+        "value": 9.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.396828",
+        "lon": "-8.789542"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST. CUAN'S COLLEGE",
+      "numPupils": 410,
+      "distance": {
+        "value": 11.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.428696",
+        "lon": "-8.473181"
+      }
+    },
+    {
+      "schoolName": "HOLY ROSARY COLLEGE",
+      "numPupils": 727,
+      "distance": {
+        "value": 11.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.469753",
+        "lon": "-8.497490"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN CHREAGÁIN",
+      "numPupils": 103,
+      "distance": {
+        "value": 11.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.460968",
+        "lon": "-8.484028"
+      }
+    },
+    {
+      "schoolName": "CLARIN COLLEGE",
+      "numPupils": 1102,
+      "distance": {
+        "value": 14.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301395",
+        "lon": "-8.745524"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN EACHRÉIDH",
+      "numPupils": 238,
+      "distance": {
+        "value": 14.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.302185",
+        "lon": "-8.748791"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COLLEGE",
+      "numPupils": 1081,
+      "distance": {
+        "value": 14.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301342",
+        "lon": "-8.747338"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHILLEÁIN NAOFA ST. KILLIAN'S COLLEGE",
+      "numPupils": 173,
+      "distance": {
+        "value": 16.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.300407",
+        "lon": "-8.488305"
+      }
+    },
+    {
+      "schoolName": "ARCHBISHOP MCHALE COLLEGE",
+      "numPupils": 471,
+      "distance": {
+        "value": 17.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.510475",
+        "lon": "-8.845329"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S SCHOOL",
+      "numPupils": 391,
+      "distance": {
+        "value": 17.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.512794",
+        "lon": "-8.847919"
+      }
+    },
+    {
+      "schoolName": "ST. JARLATH'S COLLEGE",
+      "numPupils": 706,
+      "distance": {
+        "value": 17.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.515810",
+        "lon": "-8.846010"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Garbally",
+      "route": "425A",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.407093",
+        "lon": "-8.635538"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killaclogher",
+      "route": "425A",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.387688",
+        "lon": "-8.683144"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Menlough",
+      "route": "425A",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.421357",
+        "lon": "-8.575031"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Monivea",
+      "route": "425A",
+      "destination": "Mountbellew",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.374962",
+        "lon": "-8.700268"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Derreen",
+      "route": "425",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.452137",
+        "lon": "-8.69964"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Briarfield",
+      "route": "425",
+      "destination": "Longford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.465927",
+        "lon": "-8.666041"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clashard",
+      "route": "425",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.44171",
+        "lon": "-8.727179"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cooloo Mountain",
+      "route": "425",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.470183",
+        "lon": "-8.642008"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Abbeyknockmoy",
+      "route": "425",
+      "destination": "Longford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.436983",
+        "lon": "-8.748936"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Abbeyknockmoy",
+      "route": "433",
+      "destination": "Roscommon",
+      "provider": "Bus4u",
+      "distance": {
+        "value": 7.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.43706",
+        "lon": "-8.74913"
+      }
+    }
+  ]
+}

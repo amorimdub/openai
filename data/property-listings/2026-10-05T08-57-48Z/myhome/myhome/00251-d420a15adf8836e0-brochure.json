@@ -1,0 +1,396 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "hanover dock hanover quay grand canal dk dublin 2",
+    "GroupId": 346827,
+    "Address": "Hanover Dock, Hanover Quay",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/cca0a6fd-3d01-47b7-863a-a3805714dd5f_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/cca0a6fd-3d01-47b7-863a-a3805714dd5f_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/cca0a6fd-3d01-47b7-863a-a3805714dd5f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/c254b396-1a31-4a40-9135-a972e6aa366d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/339253fc-22e8-451c-9217-25677136f0c7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/6bacc308-dc24-4b76-ad70-8bc9f43996e0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/75d8cc26-5d5a-40b7-bf3f-828efe83eeb2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/3868de44-0e08-4867-8448-ee12f45852ce_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/b4834bf1-4a4e-4a93-a68b-98d7feba340b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a387d203-9808-43cc-9abe-002df44bcc6a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/47a9f570-856a-4edc-bb07-e044fd87bb97_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/f3b67e07-d026-41fd-9c5a-5f867b966ac9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/7d34a8bb-c725-485b-abc0-8435c9a71600_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a9558465-353d-4557-94b4-e4ae89f92d79_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/166fbea6-f179-49bc-8189-ff5cbd2b50f1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a3385964-70c2-4375-9475-7c1740dc8135_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/2/2/5031220/da6450be-ea58-465b-9a2a-75f082f14b82_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "CONERNEY ESTATE AGENTS are proud to present to market this fabulous two-bedroom, two-bathroom apartment for its First Letting.\r\nThis property is presented in stunning walk-in condition throughout, having been extremely well maintained by the owner occupiers to date and recently refurbished to a very high standard.\r\nSet in a prestigious and convenient location, in a very popular block in Hanover Quay.\r\nThe apartment briefly comprises of large bright and spacious open plan living room with floor to ceiling windows allowing an abundance of natural light into the property.\r\nThere is a fully fitted and modern kitchen fitted with all mod cons, finished in a lovely warm light grey with white subway tile splashback and a beautiful island with stool seating.\r\nBoth double bedrooms are again bright and spacious, again with excellent natural light and floor to ceiling windows.\r\nBoth bedrooms fitted with quality built in wardrobes and the master bedroom is en-suite.\r\nBoth bathrooms have been recently refurbished and now boast a fully tiled, modern finish.\r\nThe main bathroom is fitted with bath and shower and the en-suite is fitted with a beautiful walk-in shower.\r\nThere is a large balcony with this property, allowing for a comfortable outside seating area for some al-fresco dining. Accessible from the sitting room and both bedrooms.\r\nFitted with gas fired central heating and double-glazed windows throughout,\r\nSet in a brilliant location, close to all that Dublin City has to offer.\r\nThis thriving location is at the epicentre of all activity where you will find Google HQ, Grand Canal Dart Station, Dublin€TM Convention Centre all within arms reach, along with a choice of trendy cafes, bars & restaurants within a short stroll.\r\nRecreational amenities are well provided for with the Bord Gais Theatre on Grand Canal Dock, Aviva Stadium, the RDS, Herbert Park and Sandymount Strand all within easy reach. Some of Dublin€TM finest entertainment attractions are all within walking distance including The Bord Gais Energy Theatre, the Aviva stadium and the Convention Centre Dublin. Dublin€TM premier shops on Grafton Street, St Stephens Green and Trinity College Dublin are all within strolling distance. The area is well served by local bus routes and Grand Canal Dock DART station on Barrow Street is a five-minute walk away.\r\nAll in all, this is a brilliant apartment, presented in stunning condition throughout and set in an excellent location.\r\nThis property really needs to be viewed to be appreciated.\r\nViewing of this property is highly recommended and by appointment only.\r\n\r\nTo be added to the waiting list for viewings, please apply online, leave your name, number and email address and we will get back to you to arrange a viewing.\r\n\r\nVIEWING HIGHLY RECOMMENDED!!"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 355429,
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-29T16:34:31.6770000+01:00",
+    "ModifiedOnDate": "2026-09-29T16:39:51.7770000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-30T16:04:13.3070000+01:00",
+    "RefreshedOn": "2026-09-30T16:04:13.3070000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "",
+    "IsTransact": false,
+    "PriceAsString": "€4,055 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5031220,
+    "BedsString": "2 beds",
+    "DisplayAddress": "Hanover Dock, Hanover Quay, Grand Canal Dk, Dublin 2",
+    "Eircode": "",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1442,
+    "RegionName": "Dublin 2",
+    "LocalityId": 1401,
+    "LocalityName": "Grand Canal Dk",
+    "Price": {
+      "MinRentalPrice": 4055,
+      "MaxRentalPrice": 4055,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 4055,
+      "ShowPrice": true,
+      "AvailableOn": "2026-09-29T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 4055,
+      "MaxMonthlyRentalPrice": 4055
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/cca0a6fd-3d01-47b7-863a-a3805714dd5f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/cca0a6fd-3d01-47b7-863a-a3805714dd5f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/cca0a6fd-3d01-47b7-863a-a3805714dd5f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/c254b396-1a31-4a40-9135-a972e6aa366d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/c254b396-1a31-4a40-9135-a972e6aa366d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/c254b396-1a31-4a40-9135-a972e6aa366d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/339253fc-22e8-451c-9217-25677136f0c7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/339253fc-22e8-451c-9217-25677136f0c7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/339253fc-22e8-451c-9217-25677136f0c7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/6bacc308-dc24-4b76-ad70-8bc9f43996e0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/6bacc308-dc24-4b76-ad70-8bc9f43996e0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/6bacc308-dc24-4b76-ad70-8bc9f43996e0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/75d8cc26-5d5a-40b7-bf3f-828efe83eeb2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/75d8cc26-5d5a-40b7-bf3f-828efe83eeb2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/75d8cc26-5d5a-40b7-bf3f-828efe83eeb2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/3868de44-0e08-4867-8448-ee12f45852ce_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/3868de44-0e08-4867-8448-ee12f45852ce_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/3868de44-0e08-4867-8448-ee12f45852ce_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/b4834bf1-4a4e-4a93-a68b-98d7feba340b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/b4834bf1-4a4e-4a93-a68b-98d7feba340b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/b4834bf1-4a4e-4a93-a68b-98d7feba340b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a387d203-9808-43cc-9abe-002df44bcc6a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a387d203-9808-43cc-9abe-002df44bcc6a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a387d203-9808-43cc-9abe-002df44bcc6a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/47a9f570-856a-4edc-bb07-e044fd87bb97_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/47a9f570-856a-4edc-bb07-e044fd87bb97_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/47a9f570-856a-4edc-bb07-e044fd87bb97_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/f3b67e07-d026-41fd-9c5a-5f867b966ac9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/f3b67e07-d026-41fd-9c5a-5f867b966ac9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/f3b67e07-d026-41fd-9c5a-5f867b966ac9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/7d34a8bb-c725-485b-abc0-8435c9a71600_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/7d34a8bb-c725-485b-abc0-8435c9a71600_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/7d34a8bb-c725-485b-abc0-8435c9a71600_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a9558465-353d-4557-94b4-e4ae89f92d79_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a9558465-353d-4557-94b4-e4ae89f92d79_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a9558465-353d-4557-94b4-e4ae89f92d79_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/166fbea6-f179-49bc-8189-ff5cbd2b50f1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/166fbea6-f179-49bc-8189-ff5cbd2b50f1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/166fbea6-f179-49bc-8189-ff5cbd2b50f1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a3385964-70c2-4375-9475-7c1740dc8135_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a3385964-70c2-4375-9475-7c1740dc8135_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/a3385964-70c2-4375-9475-7c1740dc8135_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/da6450be-ea58-465b-9a2a-75f082f14b82_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/da6450be-ea58-465b-9a2a-75f082f14b82_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/2/2/5031220/da6450be-ea58-465b-9a2a-75f082f14b82_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2380474,
+      "latitude": 53.3447525
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 15,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 346827,
+    "Name": "Conerney Estate Agents",
+    "DisplayPhone": "01 492 6004",
+    "Email": "sales@conerney.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "conerney-estate-agents",
+    "SeoName": "conerney-estate-agents",
+    "Address": "180 Templeogue Road, Templeogue, Dublin 6W",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/7/2/8/346827/logo.jpg",
+    "SalesLicense": "003152",
+    "RentalLicense": "003152",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "grand-canal-dk/1401",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/hanover-dock-hanover-quay-grand-canal-dk-dublin-2/5031220",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Dryer",
+    "Dishwasher",
+    "Microwave",
+    "Cable TV",
+    "Internet",
+    "Suits Professionals",
+    "References Required",
+    "Walk-in Shower"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 355429,
+    "Name": "Conerney Lettings Department",
+    "Phone": "01 492 6004",
+    "Email": "lettingsdepartment@conerney.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 346827,
+    "MYH_LocalityID": 1401,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1442,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Patio",
+      "Balcony",
+      "Walk In Shower",
+      "Full Furnished",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Patio,Balcony,Walk In Shower,Full Furnished,Dishwasher",
+    "MYH_MinBeds": 2,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5031220,
+    "MYH_PropertyTypeID": 74
+  }
+}

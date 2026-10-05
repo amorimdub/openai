@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/collins-avenue-whitehall-dublin-9/6683788",
+  "fetchedAt": "2026-10-05T09:47:42.056Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/collins-avenue-whitehall-dublin-9/6683788",
+  "kind": "listing",
+  "responseSha256": "04af74c0e760ae24065c6a9b5816402af68bca7c1df44b8e34ab1719f43b1406",
+  "files": [
+    {
+      "path": "daft/01994-83e9d3d4a04bf9bc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "89c3964e1155c94b4dbf8406ff55142ea8ee00296ed6d5cbb3931191e6b1d2d8",
+      "bytes": 20103
+    },
+    {
+      "path": "daft/01994-83e9d3d4a04bf9bc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4ba03e8fadd0f234bd4cc3d629e352818a3961bda2a6f894770fbc4b68037646",
+      "bytes": 8028
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=208",
+  "fetchedAt": "2026-10-05T12:01:36.066Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=208",
+  "kind": "search",
+  "responseSha256": "967e506a84ea0174e47ad69d49abf4687ec16714f86138607fdd5573dcf991a5",
+  "files": [
+    {
+      "path": "myhome/04807-3061dae0078e822f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=208\"].SearchResults",
+      "sha256": "938d49d1277c1757c17794052e61b172715a85b6975ada2150444172592ef383",
+      "bytes": 107320
+    },
+    {
+      "path": "myhome/04807-3061dae0078e822f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=208\"] (paging fields)",
+      "sha256": "8944429cce7a492a2aa978fc923e28b8138d7baa740e994c23a70e881362aa76",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/graigue-castletown-kilmallock-county-limerick/5027383",
+    "https://www.myhome.ie/residential/brochure/14-sycamore-drive-kilmallock-county-limerick/5027382",
+    "https://www.myhome.ie/residential/brochure/54-sandymount-avenue-sandymount-dublin-4/5027361",
+    "https://www.myhome.ie/residential/brochure/1-beechmount-crescent-navan-meath/5027373",
+    "https://www.myhome.ie/residential/brochure/6-carrigmore-downs-citywest-dublin-24/4995076",
+    "https://www.myhome.ie/residential/brochure/22-seabury-lane-malahide-county-dublin/5027340",
+    "https://www.myhome.ie/residential/brochure/ref-1248-termons-waterville-kerry/5027355",
+    "https://www.myhome.ie/residential/brochure/30-glenenail-drive-riverside-tuam-road-galway-city/5027369",
+    "https://www.myhome.ie/residential/brochure/4-feirm-bawn-doughcloyne-wilton-cork/5027374",
+    "https://www.myhome.ie/residential/brochure/apartment-2-garrison-house-church-terrace-main-street-bray-co-wicklow/5003976",
+    "https://www.myhome.ie/residential/brochure/48-the-courtyard-castleredmond-midleton-co-cork/5027372",
+    "https://www.myhome.ie/residential/brochure/apt-24-brookfield-anglesea-road-dublin-4/5027371",
+    "https://www.myhome.ie/residential/brochure/zenda-greenpark-south-circular-road-limerick/5027013",
+    "https://www.myhome.ie/residential/brochure/apartment-52-gandon-close-harold-s-cross-dublin-6w-dublin/5027366",
+    "https://www.myhome.ie/residential/brochure/106-sli-gheal-ballymoneen-road-knocknacarra-galway/5027368",
+    "https://www.myhome.ie/residential/brochure/11-durabhan-roscam-galway-city/5027357",
+    "https://www.myhome.ie/residential/brochure/112-old-bawn-road-oldbawn-dublin-24/5027352",
+    "https://www.myhome.ie/residential/brochure/517-river-towers-lee-road-sunday-s-well-cork/4949131",
+    "https://www.myhome.ie/residential/brochure/drumderg-drumshanbo-leitrim/5027351",
+    "https://www.myhome.ie/residential/brochure/53-br-na-habhainn-navan-co-meath/5027356"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=209",
+  "paginationLimited": false
+}

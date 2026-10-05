@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/hennessys-road-waterford-waterford-city-centre-co-waterford/6663587",
+  "fetchedAt": "2026-10-05T09:29:22.578Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/hennessys-road-waterford-waterford-city-centre-co-waterford/6663587",
+  "kind": "listing",
+  "responseSha256": "f76b9c3d8e0565f20c8026b5ad76e8cf359b6c26377b7ba140d07d33c65ffa9e",
+  "files": [
+    {
+      "path": "daft/01262-ad37d615667e2e04-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f965718a619e273a194b4d41cc6941f837e874141f062ede415965277ae213f5",
+      "bytes": 15484
+    },
+    {
+      "path": "daft/01262-ad37d615667e2e04-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

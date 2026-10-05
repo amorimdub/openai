@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rose-court-greenhills-drogheda-co-louth/6685346",
+  "fetchedAt": "2026-10-05T09:36:24.558Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rose-court-greenhills-drogheda-co-louth/6685346",
+  "kind": "listing",
+  "responseSha256": "59aec238bc358acbd29b39e14e3c8e6100432a3ddb4c37b525743259decf4282",
+  "files": [
+    {
+      "path": "daft/01543-5ba9cfd0c1b64505-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c956464f706517b78b5ae3a742c7d0e4082e6b2752575b166d10acffd8b4eaf9",
+      "bytes": 5662
+    },
+    {
+      "path": "daft/01543-5ba9cfd0c1b64505-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5b39553469244e7650fac1b292b46366a6a8a749a136af7e6e9b712cb84bb5fa",
+      "bytes": 8112
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

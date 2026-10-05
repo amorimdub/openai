@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=329",
+  "fetchedAt": "2026-10-05T13:04:07.733Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=329",
+  "kind": "search",
+  "responseSha256": "61544ac21dc963bd8abd4899defb4fd3ab7f2031fa296406e87a84c7eb9c4857",
+  "files": [
+    {
+      "path": "myhome/07298-5254ffea5dcf272e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=329\"].SearchResults",
+      "sha256": "fc85ec39a66f437847005696d920c10516e2394c45cc85171c8b926e991ec868",
+      "bytes": 131385
+    },
+    {
+      "path": "myhome/07298-5254ffea5dcf272e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=329\"] (paging fields)",
+      "sha256": "bdad2ca783ec5bc27f358e018130fa2e0ee2b9316e042f18eeae34516dc528cd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-rd-na-gr-ine-shanbally-ringaskiddy-cork/4916705",
+    "https://www.myhome.ie/residential/brochure/90-shrewsbury-lawn-cabinteely-dublin-18/5021937",
+    "https://www.myhome.ie/residential/brochure/the-cascades-ballynerrin-upper-wicklow-town-co-wicklow/5021936",
+    "https://www.myhome.ie/residential/brochure/36-father-cullen-terrace-enniscorthy-wexford/5021928",
+    "https://www.myhome.ie/residential/brochure/27-thormanby-lawns-howth-co-dublin/5021933",
+    "https://www.myhome.ie/residential/brochure/05-ard-valley-cabinteely-dublin-18/5021927",
+    "https://www.myhome.ie/residential/brochure/16-davis-court-inchicore-dublin-8/5021925",
+    "https://www.myhome.ie/residential/brochure/lot-1-shantonagh-lodge-doora-shantonagh-co-monaghan-a75ht28/5021872",
+    "https://www.myhome.ie/residential/brochure/2-an-goirt-n-glas-blackwater-wexford/5021920",
+    "https://www.myhome.ie/residential/brochure/the-old-school-house-altachullion-lower-swanlinbar-cavan/5021918",
+    "https://www.myhome.ie/residential/brochure/garryadeen-grenagh-cork/5021915",
+    "https://www.myhome.ie/residential/brochure/the-cottage-newtown-monasterboice-co-louth/5015374",
+    "https://www.myhome.ie/residential/brochure/bridge-street-hacketstown-co-carlow/5021910",
+    "https://www.myhome.ie/residential/brochure/rosemount-seaview-avenue-arklow-co-wicklow/5021909",
+    "https://www.myhome.ie/residential/brochure/loumanagh-north-boherbue-co-cork/5021907",
+    "https://www.myhome.ie/residential/brochure/ballymacane-tacumshane-wexford/5021893",
+    "https://www.myhome.ie/residential/brochure/31-ath-lethan-racecourse-road-dundalk-co-louth/5021904",
+    "https://www.myhome.ie/residential/brochure/57-glenbeg-point-ardamine-co-wexford-ardamine-wexford/5021895",
+    "https://www.myhome.ie/residential/brochure/84-bancroft-park-tallaght-dublin-24/5021902",
+    "https://www.myhome.ie/residential/brochure/5a-mount-pleasant-road-turners-cross-cork/5021892"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=330",
+  "paginationLimited": false
+}

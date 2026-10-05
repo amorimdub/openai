@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=224",
+  "fetchedAt": "2026-10-05T12:09:56.632Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=224",
+  "kind": "search",
+  "responseSha256": "5c27d1d8c49cd26cee5409069679e1dc7af81f4fa1ed4db9851f2f91b7401e48",
+  "files": [
+    {
+      "path": "myhome/05140-9def92fe7df9c796-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=224\"].SearchResults",
+      "sha256": "80a7be3ca949d2f778bf5fe2081628aa3422485072dc7f457210784645450005",
+      "bytes": 120938
+    },
+    {
+      "path": "myhome/05140-9def92fe7df9c796-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=224\"] (paging fields)",
+      "sha256": "372cc4e6e89f0374bc42df97bc0d5888f723f46debeca878a2f891aa2062622c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/34-annagh-court-waterville-blanchardstown-dublin-15/5018917",
+    "https://www.myhome.ie/residential/brochure/27-pineview-grove-oldbawn-dublin-24/5015124",
+    "https://www.myhome.ie/residential/brochure/3-castlebrook-rise-castletroy-limerick-county-limerick/5026945",
+    "https://www.myhome.ie/residential/brochure/18-olcovar-shankill-dublin-18/5026944",
+    "https://www.myhome.ie/residential/brochure/53-deerpark-place-tallaght-dublin-24/5026941",
+    "https://www.myhome.ie/residential/brochure/45-wainsfort-road-terenure-dublin-6w/4996567",
+    "https://www.myhome.ie/residential/brochure/51-whitestown-park-dublin-15-dublin/5026939",
+    "https://www.myhome.ie/residential/brochure/69-lartigue-village-clieveragh-listowel-co-kerry/4991072",
+    "https://www.myhome.ie/residential/brochure/flagmount-house-clare-road-ennis-co-clare/5026938",
+    "https://www.myhome.ie/residential/brochure/17-rothe-abbey-kilmainham-dublin-8/5026933",
+    "https://www.myhome.ie/residential/brochure/18-church-park-court-harold-s-cross-dublin-6w/4992729",
+    "https://www.myhome.ie/residential/brochure/2-hillside-clonalvy-garristown-co-meath/5026932",
+    "https://www.myhome.ie/residential/brochure/22-sliabh-amharc-enniscorthy-wexford/5026876",
+    "https://www.myhome.ie/residential/brochure/62-kilmore-drive-artane-dublin/5026924",
+    "https://www.myhome.ie/residential/brochure/apartment-46-sandyford-view-blackglen-road-sandyford-dublin-18-sandyford-dublin-18/5005714",
+    "https://www.myhome.ie/residential/brochure/mabestown-wood-3-bedroom-terraced-and-semi-detached-the-beech-112sqm-mabestown-wood-dublin-road-mala/5026922",
+    "https://www.myhome.ie/residential/brochure/4-ashleigh-lawns-malahide-co-dublin/5026921",
+    "https://www.myhome.ie/residential/brochure/apartment-32-block-2-parklands-northwood-santry-dublin-9/5026906",
+    "https://www.myhome.ie/residential/brochure/woodside-roslevan-ennis-co-clare/5026919",
+    "https://www.myhome.ie/residential/brochure/79-blarney-street-cork-city/5017088"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=225",
+  "paginationLimited": false
+}

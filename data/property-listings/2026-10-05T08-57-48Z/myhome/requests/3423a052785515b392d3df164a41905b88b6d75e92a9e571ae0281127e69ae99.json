@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=331",
+  "fetchedAt": "2026-10-05T13:05:06.358Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=331",
+  "kind": "search",
+  "responseSha256": "03bcd1b942a594c4fac72bc3166133c96a3cd02dd6eef20fb3999fcbaaf80b99",
+  "files": [
+    {
+      "path": "myhome/07337-3423a052785515b3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=331\"].SearchResults",
+      "sha256": "e72814ea1479714a3c245cf8fa8d7933998bfc09f14196d83baeb41bc7d59c13",
+      "bytes": 126929
+    },
+    {
+      "path": "myhome/07337-3423a052785515b3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=331\"] (paging fields)",
+      "sha256": "5c1a60c00c2bc81bdf0ccfca3eca691a86df832ba6a1b540d241778dd742dca0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-highfields-whitemill-wexford-town-wexford/5018948",
+    "https://www.myhome.ie/residential/brochure/29-highfield-park-collooney-sligo/5021790",
+    "https://www.myhome.ie/residential/brochure/killeen-dunshaughlin-county-meath/5021807",
+    "https://www.myhome.ie/residential/brochure/apartment-3-16-marrsfield-avenue-clongriffin-dublin-13-co-dublin/5021803",
+    "https://www.myhome.ie/residential/brochure/chester-view-glencairn-lismore-co-waterford/5021801",
+    "https://www.myhome.ie/residential/brochure/14-roman-street-cork-co-cork/5021794",
+    "https://www.myhome.ie/residential/brochure/kilmainham-kells-co-meath/5021788",
+    "https://www.myhome.ie/residential/brochure/cahir-abbey-upper-mountain-road-cahir/5021786",
+    "https://www.myhome.ie/residential/brochure/brylands-inchintaggart-glengarriff-co-cork/5021782",
+    "https://www.myhome.ie/residential/brochure/drumnaveagh-new-inns-ballyjamesduff-co-cavan/5021781",
+    "https://www.myhome.ie/residential/brochure/121-castlemoyne-balgriffin-dublin-13/5021744",
+    "https://www.myhome.ie/residential/brochure/121-castlemoyne-balgriffin-dublin-13/5021743",
+    "https://www.myhome.ie/residential/brochure/104-moorefield-park-newbridge-co-kildare/5021775",
+    "https://www.myhome.ie/residential/brochure/6-castlegrange-green-clondalkin-dublin-22/5018427",
+    "https://www.myhome.ie/residential/brochure/107-saint-john-s-crescent-clondalkin-dublin-22/5021122",
+    "https://www.myhome.ie/residential/brochure/battlemount-ballitore-narraghmore-kildare/5021654",
+    "https://www.myhome.ie/residential/brochure/the-old-rectory-minister-s-cross-crookstown-cork/5021701",
+    "https://www.myhome.ie/residential/brochure/lower-quay-westport-co-mayo/5021764",
+    "https://www.myhome.ie/residential/brochure/11-glasslynn-parnell-street-bandon-co-cork/5021762",
+    "https://www.myhome.ie/residential/brochure/mountain-view-bunavie-pallasgreen-co-limerick/5021761"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=332",
+  "paginationLimited": false
+}

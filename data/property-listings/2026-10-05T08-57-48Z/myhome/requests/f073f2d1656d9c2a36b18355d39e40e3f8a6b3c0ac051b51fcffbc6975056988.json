@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=236",
+  "fetchedAt": "2026-10-05T12:16:13.948Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=236",
+  "kind": "search",
+  "responseSha256": "041aa49c18c9d58a5ad2b6c95aaa49aceefd55c1d25748caefe9b12365036875",
+  "files": [
+    {
+      "path": "myhome/05391-f073f2d1656d9c2a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=236\"].SearchResults",
+      "sha256": "af184cd2cdf151fc4904730d18b4439559df439b31e70fe7040dccee74583791",
+      "bytes": 131136
+    },
+    {
+      "path": "myhome/05391-f073f2d1656d9c2a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=236\"] (paging fields)",
+      "sha256": "10966ad3fcf199494aa2b4a72cfefd2b56a2807204f336c1c2369f7975251f17",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/drombeg-glandore-west-cork/5026525",
+    "https://www.myhome.ie/residential/brochure/29-ti-na-ri-loughrea-co-galway/5026526",
+    "https://www.myhome.ie/residential/brochure/8-miller-s-wood-herbert-road-bray-co-wicklow/5026523",
+    "https://www.myhome.ie/residential/brochure/9-church-crescent-athy-kildare/5026520",
+    "https://www.myhome.ie/residential/brochure/13-ard-na-cuain-dromod-leitrim/5026517",
+    "https://www.myhome.ie/residential/brochure/belgarrow-foxford-co-mayo/5026516",
+    "https://www.myhome.ie/residential/brochure/8-stillorgan-gate-stillorgan-dublin-14/4992449",
+    "https://www.myhome.ie/residential/brochure/annore-house-coolfore-ashbourne-co-meath/5026515",
+    "https://www.myhome.ie/residential/brochure/cam-lake-view-aughalough-aughavas-leitrim/5026514",
+    "https://www.myhome.ie/residential/brochure/14-beechdale-place-ballycullen-dublin-24/5015192",
+    "https://www.myhome.ie/residential/brochure/drominboy-lisnagry-limerick/5026509",
+    "https://www.myhome.ie/residential/brochure/duplex-4-the-courtyard-main-street-castletown-berehaven-west-cork/5022573",
+    "https://www.myhome.ie/residential/brochure/laheratanvally-skibbereen-west-cork/4986843",
+    "https://www.myhome.ie/residential/brochure/goleen-toormore-west-cork/4998683",
+    "https://www.myhome.ie/residential/brochure/16-monalea-park-firhouse-dublin-24/5026506",
+    "https://www.myhome.ie/residential/brochure/23-lavender-court-forest-hill-carrigaline-cork/5026502",
+    "https://www.myhome.ie/residential/brochure/ballytarsna-castle-ballytarsna-cashel-co-tipperary/5026504",
+    "https://www.myhome.ie/residential/brochure/glebe-house-aglish-roscrea-co-tipperary/5026503",
+    "https://www.myhome.ie/residential/brochure/c-0-30-acre-site-carrowbane-frenchpark-county-roscommon/5026501",
+    "https://www.myhome.ie/residential/brochure/donegal-road-ballybofey-co-donegal/5026500"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=237",
+  "paginationLimited": false
+}

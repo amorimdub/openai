@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/skehanore-south-douglas-road-douglas-co-cork/6683567",
+  "fetchedAt": "2026-10-05T09:47:02.996Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/skehanore-south-douglas-road-douglas-co-cork/6683567",
+  "kind": "listing",
+  "responseSha256": "1bef42603142e673333d6367f0eb0d31ebb6b8e75d877dee7440f49f6e16c18e",
+  "files": [
+    {
+      "path": "daft/01968-60363a370105e96d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "015dfb394619c57b203c3d206ec8a95fe2e47a4541a4f812acba7ec125e7b536",
+      "bytes": 18037
+    },
+    {
+      "path": "daft/01968-60363a370105e96d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c5dab009f485e0771d650928b4467367816b78fc49cc1351930b38d916eb4131",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

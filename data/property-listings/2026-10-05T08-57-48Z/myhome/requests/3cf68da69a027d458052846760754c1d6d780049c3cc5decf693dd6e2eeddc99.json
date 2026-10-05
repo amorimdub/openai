@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=88",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=88",
+  "fetchedAt": "2026-10-05T09:56:52.650Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "d804c1593e98849ee8ef34d7f634ed9bb38f39b848f315df43d2e6defccec168",
+  "files": [
+    {
+      "path": "myhome/02354-3cf68da69a027d45-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=88\"].SearchResults",
+      "sha256": "6026818194521fee64030794136a967f21d939789f2efc6f3df8c9067ba5b839",
+      "bytes": 124661
+    },
+    {
+      "path": "myhome/02354-3cf68da69a027d45-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=88\"] (paging fields)",
+      "sha256": "afceeaf860691f8f92f6be5c3f84b07d8974d41aca8d7018990d6d8024430640",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tigeen-caerleon-ardclough-road-celbridge/5023593",
+    "https://www.myhome.ie/residential/brochure/142-knockaphunta-park-westport-road-castlebar-castlebar-mayo/5030600",
+    "https://www.myhome.ie/residential/brochure/29-eden-court-rathfarnham-dublin-16-co-dublin/5026538",
+    "https://www.myhome.ie/residential/brochure/birchwood-house-monastery-road-enniskerry-co-wicklow/5030609",
+    "https://www.myhome.ie/residential/brochure/62-castlegate-way-adamstown-lucan-co-dublin/5030608",
+    "https://www.myhome.ie/residential/brochure/glenhest-newport-co-mayo/5030605",
+    "https://www.myhome.ie/residential/brochure/12-st-joseph-s-terrace-gould-street-cork-city-cork/5030602",
+    "https://www.myhome.ie/residential/brochure/oultort-portumna-co-galway/5030603",
+    "https://www.myhome.ie/residential/brochure/one-harbours-edge-lower-aghada-aghada-cork/5029258",
+    "https://www.myhome.ie/residential/brochure/11-bracken-park-close-castleknock-dublin-15/5022655",
+    "https://www.myhome.ie/residential/brochure/88-rosehill-wicklow-town-co-wicklow/5002544",
+    "https://www.myhome.ie/residential/brochure/no-6-manor-drive-roxborough-manor-wexford-town-wexford/5030591",
+    "https://www.myhome.ie/residential/brochure/ballygarve-killoe-co-longford/5030599",
+    "https://www.myhome.ie/residential/brochure/73-broadford-drive-ballinteer-dublin-16/5030587",
+    "https://www.myhome.ie/residential/brochure/29-windmill-square-clonsilla-dublin-15/5030598",
+    "https://www.myhome.ie/residential/brochure/23-abbeyfield-ballaghaderreen-co-roscommon/5030595",
+    "https://www.myhome.ie/residential/brochure/apartment-322-carrington-the-hawthorns-northwood-santry-dublin-9/5003353",
+    "https://www.myhome.ie/residential/brochure/8-aylesbury-ballintemple-cork/5030574",
+    "https://www.myhome.ie/residential/brochure/47-exchange-hall-belgard-square-north-tallaght-dublin-24/5030593",
+    "https://www.myhome.ie/residential/brochure/12-beechfield-way-clonee-dublin-15/5024308"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=89",
+  "paginationLimited": false
+}

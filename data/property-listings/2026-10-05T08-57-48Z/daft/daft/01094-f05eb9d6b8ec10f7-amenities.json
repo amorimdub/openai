@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ROCKCORRY NATIONAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 0.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.117153",
+        "lon": "-7.014908"
+      }
+    },
+    {
+      "schoolName": "CORRAVACAN NATIONAL SCHOOL",
+      "numPupils": 78,
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.115490",
+        "lon": "-7.012931"
+      }
+    },
+    {
+      "schoolName": "ST MICHAELS NATIONAL SCHOOL",
+      "numPupils": 251,
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.074160",
+        "lon": "-7.074583"
+      }
+    },
+    {
+      "schoolName": "DARLEY NATIONAL SCHOOL",
+      "numPupils": 125,
+      "distance": {
+        "value": 6.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.076107",
+        "lon": "-7.086513"
+      }
+    },
+    {
+      "schoolName": "COOTEHILLE SPECIAL SCHOOL",
+      "numPupils": 178,
+      "distance": {
+        "value": 6.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.077602",
+        "lon": "-7.090527"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE, LATTON",
+      "numPupils": 157,
+      "distance": {
+        "value": 6.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.071693",
+        "lon": "-6.948397"
+      }
+    },
+    {
+      "schoolName": "LATNAMARD NATIONAL SCHOOL",
+      "numPupils": 82,
+      "distance": {
+        "value": 6.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.172240",
+        "lon": "-7.058003"
+      }
+    },
+    {
+      "schoolName": "SCOIL ÉANNA",
+      "numPupils": 216,
+      "distance": {
+        "value": 7.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.130516",
+        "lon": "-6.898929"
+      }
+    },
+    {
+      "schoolName": "BALLYBAY CENTRAL NATIONAL SCHOOL",
+      "numPupils": 56,
+      "distance": {
+        "value": 7.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.130280",
+        "lon": "-6.897502"
+      }
+    },
+    {
+      "schoolName": "DRUMCORRIN NATIONAL SCHOOL",
+      "numPupils": 16,
+      "distance": {
+        "value": 7.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.104120",
+        "lon": "-7.136770"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST AIDANS COMPREHENSIVE SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 6.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.066460",
+        "lon": "-7.063481"
+      }
+    },
+    {
+      "schoolName": "BALLYBAY COMMUNITY COLLEGE",
+      "numPupils": 345,
+      "distance": {
+        "value": 7.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.123917",
+        "lon": "-6.901569"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE OIRIALL",
+      "numPupils": 402,
+      "distance": {
+        "value": 14.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.243675",
+        "lon": "-6.963656"
+      }
+    },
+    {
+      "schoolName": "ST. LOUIS SECONDARY SCHOOL",
+      "numPupils": 521,
+      "distance": {
+        "value": 14.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.245655",
+        "lon": "-6.973685"
+      }
+    },
+    {
+      "schoolName": "BEECH HILL COLLEGE",
+      "numPupils": 891,
+      "distance": {
+        "value": 14.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.244522",
+        "lon": "-6.963322"
+      }
+    },
+    {
+      "schoolName": "MONAGHAN COLLEGIATE SCHOOL",
+      "numPupils": 249,
+      "distance": {
+        "value": 14.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.241394",
+        "lon": "-6.939418"
+      }
+    },
+    {
+      "schoolName": "LARGY COLLEGE",
+      "numPupils": 500,
+      "distance": {
+        "value": 15.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.179592",
+        "lon": "-7.225327"
+      }
+    },
+    {
+      "schoolName": "ST. MACARTAN'S COLLEGE",
+      "numPupils": 619,
+      "distance": {
+        "value": 16.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.263954",
+        "lon": "-6.955456"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S SECONDARY SCHOOL",
+      "numPupils": 865,
+      "distance": {
+        "value": 17.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.118332",
+        "lon": "-6.742783"
+      }
+    },
+    {
+      "schoolName": "CASTLEBLAYNEY COLLEGE",
+      "numPupils": 412,
+      "distance": {
+        "value": 18.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.114548",
+        "lon": "-6.732518"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Rockcorry",
+      "route": "175",
+      "destination": "Monaghan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.11728",
+        "lon": "-7.01533"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Swan's Cross Roads",
+      "route": "175",
+      "destination": "Monaghan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.1472839189395",
+        "lon": "-7.00973957362069"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cootehill",
+      "route": "179",
+      "destination": "National Gallery",
+      "provider": "Sillan Tours",
+      "distance": {
+        "value": 6.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.074984",
+        "lon": "-7.07961"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lisnasaran",
+      "route": "172",
+      "destination": "Cootehill",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 6.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.06737",
+        "lon": "-7.06309"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cootehill",
+      "route": "172",
+      "destination": "Virginia",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 6.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.073577",
+        "lon": "-7.084288"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cootehill",
+      "route": "178",
+      "destination": "Cootehill",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 6.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.0729954510956",
+        "lon": "-7.0834910021883"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cootehill",
+      "route": "175",
+      "destination": "Cootehill (Bridge St)",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.0729954510956",
+        "lon": "-7.0834910021883"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballybay",
+      "route": "MN2",
+      "destination": "Monaghan Bus Station",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 7.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.12802",
+        "lon": "-6.90298"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Duffy Terrace",
+      "route": "MN2",
+      "destination": "Monaghan Bus Station",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 7.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.123001",
+        "lon": "-6.901732"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballybay N",
+      "route": "MN2",
+      "destination": "Ballybay",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 7.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.12953",
+        "lon": "-6.90283"
+      }
+    }
+  ]
+}

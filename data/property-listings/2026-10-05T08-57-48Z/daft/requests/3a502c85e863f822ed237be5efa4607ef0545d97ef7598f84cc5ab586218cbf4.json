@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-73-forbes-quay-apartments-grand-canal-dock-dublin-2/6684922",
+  "fetchedAt": "2026-10-05T09:39:41.266Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-73-forbes-quay-apartments-grand-canal-dock-dublin-2/6684922",
+  "kind": "listing",
+  "responseSha256": "030999b938bcb1d15f31fb28320334510f8344d6222349af5c1dc2767e32003a",
+  "files": [
+    {
+      "path": "daft/01674-3a502c85e863f822-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "98f72d8de2ab113a3ce7d7fd9016dc7326d07192868e01d06492f7399a872fc0",
+      "bytes": 52171
+    },
+    {
+      "path": "daft/01674-3a502c85e863f822-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1138b5107ca4122d5efc9bceae06cefc3e275083b0e1ab3337e373d74ddd045e",
+      "bytes": 8107
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

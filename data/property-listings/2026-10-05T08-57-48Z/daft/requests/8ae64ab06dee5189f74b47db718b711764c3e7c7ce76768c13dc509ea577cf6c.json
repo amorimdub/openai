@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=21",
+  "fetchedAt": "2026-10-05T09:23:41.512Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=21",
+  "kind": "search",
+  "responseSha256": "c2aa082a5287c1a1511b7091c40cc39a63c50007155ed39dc18b8ce5e5c4bbc6",
+  "files": [
+    {
+      "path": "daft/01035-8ae64ab06dee5189-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "45c229a4fe26efa3c1894f62656bbc547eb4c3aa74a4d5f86f61d4257d6eb622",
+      "bytes": 210024
+    },
+    {
+      "path": "daft/01035-8ae64ab06dee5189-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01035-8ae64ab06dee5189-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "057f9a95c7233c9ad00d8b5ea774d4239bbcfa645bb338f6ac5f854681ec8b87",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/the-log-cabin-castleruddery-lower-donard-stratford-co-wicklow/6687187",
+    "https://www.daft.ie/for-rent/russell-crescent-russell-square-tallaght-dublin-24/6687184",
+    "https://www.daft.ie/for-rent/ferbane-co-offaly-ferbane-co-offaly/6687173",
+    "https://www.daft.ie/for-rent/kildoon-nurney-co-kildare/6687149",
+    "https://www.daft.ie/for-rent/headford-galway-ballyhale-co-galway/6687150",
+    "https://www.daft.ie/for-rent/saint-eithne-road-cabra-dublin-7/6679663",
+    "https://www.daft.ie/for-rent/tullaghanbawn-geesala-ballina-geesala-co-mayo/6687093",
+    "https://www.daft.ie/for-rent/18-hampton-gardens-crescent-balbriggan-balbriggan-co-dublin/6687129",
+    "https://www.daft.ie/for-rent/headford-galway-ballyhale-co-galway/6687025",
+    "https://www.daft.ie/for-rent/apartment-12a-doughiska-road-briarhill-co-galway/6687021",
+    "https://www.daft.ie/for-rent/58-ellesmere-avenue-north-circular-road-dublin-7/6686916",
+    "https://www.daft.ie/for-rent/20-cois-an-coille-murroe-co-limerick/6685458",
+    "https://www.daft.ie/for-rent/9-eastmoreland-lane-ballsbridge-dublin-4/6686989",
+    "https://www.daft.ie/for-rent/ballyduffmore-dungarvan-co-waterford/6686946",
+    "https://www.daft.ie/for-rent/ballyduffmore-dungarvan-co-waterford/6686936",
+    "https://www.daft.ie/for-rent/woodbrook-grove-dublin-road-bray-co-wicklow-shankill-co-dublin/6686911",
+    "https://www.daft.ie/for-rent/blackrock-co-louth-blackrock-co-louth/6686907",
+    "https://www.daft.ie/for-rent/1-cim-na-carraige-rockcorry-monaghan-rockcorry-co-monaghan/6686787",
+    "https://www.daft.ie/for-rent/r147-kells-co-meath/6686999",
+    "https://www.daft.ie/for-rent/24-saint-brendans-avenue-woodquay-woodquay-co-galway/6686974"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=22",
+  "paginationLimited": false
+}

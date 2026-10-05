@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/studio-apartment-kilcloon-co-meath-kilcloon-co-meath/6685527",
+  "fetchedAt": "2026-10-05T09:36:17.050Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/studio-apartment-kilcloon-co-meath-kilcloon-co-meath/6685527",
+  "kind": "listing",
+  "responseSha256": "a5230ba991d8cae5045990690697d99bed6c49a813d3b79fa024f6c38296cc74",
+  "files": [
+    {
+      "path": "daft/01538-de143fe2c72dc9cd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0294fa57e12c81152dd415c2080c3f0872d3caf5406df72b9192e52f261a92bd",
+      "bytes": 16250
+    },
+    {
+      "path": "daft/01538-de143fe2c72dc9cd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aebac77316434c47fc05e9e925cb80aef80b24903943fc2412dffaf83d5f6410",
+      "bytes": 8124
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

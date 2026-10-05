@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-149-charlestown-place-finglas-dublin-11/6670745",
+  "fetchedAt": "2026-10-05T09:18:42.641Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-149-charlestown-place-finglas-dublin-11/6670745",
+  "kind": "listing",
+  "responseSha256": "701ea38826c09441a8138ac6cb7e0b2d70b70aa036b42148478a554ef013a1d3",
+  "files": [
+    {
+      "path": "daft/00836-06ccf63fcccdd4e5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cfdef2a5f859f56ace06f4d99c2ee8619b8c04d819880b97bf7f1269eb0fcc6a",
+      "bytes": 13910
+    },
+    {
+      "path": "daft/00836-06ccf63fcccdd4e5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "61630c11a7d98a382e3c6bb0d85b6b902493cc699482a4aabd1caf1fb1db2e30",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

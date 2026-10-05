@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=436",
+  "fetchedAt": "2026-10-05T13:59:01.580Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=436",
+  "kind": "search",
+  "responseSha256": "96893b86729bd25211cd81edfa63e4f49f9e04ff6b977d1d7dac4c95c0ffc75c",
+  "files": [
+    {
+      "path": "myhome/09489-fdc217290a5b60e9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=436\"].SearchResults",
+      "sha256": "527414211ed9a9a068e56a2a187a4b94df07c81051b8fb2f955b8c6f424a37bd",
+      "bytes": 115325
+    },
+    {
+      "path": "myhome/09489-fdc217290a5b60e9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=436\"] (paging fields)",
+      "sha256": "1f7d67b71b0594e8d8d1ae8055cf33a6ae4afff19ff0580e2c358a23d31a6818",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/kilotteran-kilmeaden-waterford/5010188",
+    "https://www.myhome.ie/residential/brochure/harristown-brannockstown-naas-kildare/4983922",
+    "https://www.myhome.ie/residential/brochure/derelict-building-market-square-rathmullan-county-donegal/5010201",
+    "https://www.myhome.ie/residential/brochure/57-wilford-court-bray-dublin-south-county-a98ar41/5010196",
+    "https://www.myhome.ie/residential/brochure/the-castle-country-house-two-mile-borris-thurles-county-tipperary/5010190",
+    "https://www.myhome.ie/residential/brochure/kilotteran-kilmeaden-waterford/5010168",
+    "https://www.myhome.ie/residential/brochure/caltrapallas-caltra-ballinasloe-co-galway/5010185",
+    "https://www.myhome.ie/residential/brochure/10-kilbrack-lawn-skehard-road-blackrock-cork/5009348",
+    "https://www.myhome.ie/residential/brochure/10-annsbrook-glenealy-wicklow/5010150",
+    "https://www.myhome.ie/residential/brochure/east-end-boherbue-mallow-cork/5007902",
+    "https://www.myhome.ie/residential/brochure/3-chapel-road-caltra-ballinasloe-co-galway/5010170",
+    "https://www.myhome.ie/residential/brochure/34-kilmurry-avenue-garryowen-limerick-county-limerick/5010164",
+    "https://www.myhome.ie/residential/brochure/kincasslagh-county-donegal/5010158",
+    "https://www.myhome.ie/residential/brochure/cotton-rock-cliff-road-ballycotton-cork/5009874",
+    "https://www.myhome.ie/residential/brochure/tipperary-road-cappawhite-co-tipperary/5010142",
+    "https://www.myhome.ie/residential/brochure/charlough-lough-eske-co-donegal/5010139",
+    "https://www.myhome.ie/residential/brochure/darogue-ballymahon-longford-co-longford/5010136",
+    "https://www.myhome.ie/residential/brochure/119-glenwood-dublin-road-dundalk-co-louth/5010134",
+    "https://www.myhome.ie/residential/brochure/derelict-residence-on-c-0-90-acres-derryvode-williamstown-county-galway/5010114",
+    "https://www.myhome.ie/residential/brochure/the-refuge-garters-lane-saggart-co-dublin/5010112"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=437",
+  "paginationLimited": false
+}

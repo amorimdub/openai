@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/hawkins-wood-greystones-co-wicklow/6658652",
+  "fetchedAt": "2026-10-05T09:42:28.014Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/hawkins-wood-greystones-co-wicklow/6658652",
+  "kind": "listing",
+  "responseSha256": "0da7f15c74a71f703428597c96e407af8cfe21fa33156cc4c5d823b2b4d745fb",
+  "files": [
+    {
+      "path": "daft/01785-7db4abb6e517bc59-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "13a1c90999115cd24d20451eaf08e61380a14cb7febdea407e96daf6173eefa9",
+      "bytes": 12565
+    },
+    {
+      "path": "daft/01785-7db4abb6e517bc59-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "219a5cd6848ec2ff32319f38764682204dd6151d40df7e57f0dc6e76b21f9463",
+      "bytes": 8231
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

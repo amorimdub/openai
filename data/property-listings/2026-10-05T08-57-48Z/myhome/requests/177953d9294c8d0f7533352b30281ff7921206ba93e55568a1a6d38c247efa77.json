@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=13",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=13",
+  "fetchedAt": "2026-10-05T09:08:20.168Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "9769aa271a1758cce5ee4c74759d147b30e6ba38d959763821ef9419821a227a",
+  "files": [
+    {
+      "path": "myhome/00421-177953d9294c8d0f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=13\"].SearchResults",
+      "sha256": "fffd549d330db28117cde8a80cf785017b98a3db869d8ebf11e4efcd5d3bf178",
+      "bytes": 125115
+    },
+    {
+      "path": "myhome/00421-177953d9294c8d0f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=13\"] (paging fields)",
+      "sha256": "5bec03db9fac86002a3877ad96bf827e8b00fc329981581c2bca2405fe370fcb",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-summerseat-green-summerseat-clonee-co-meath/5031808",
+    "https://www.myhome.ie/residential/brochure/ray-cottage-rathmullan-county-donegal/5032017",
+    "https://www.myhome.ie/residential/brochure/summer-court-summer-hill-road-co-meath-dunboyne-meath/4957421",
+    "https://www.myhome.ie/residential/brochure/apartment-225-the-harbour-mill-the-quay-westport-co-mayo/5032016",
+    "https://www.myhome.ie/residential/brochure/beechmount-carlow-road-kilcullen-kildare/5027887",
+    "https://www.myhome.ie/residential/brochure/27-pomeroy-park-rathangan-co-kildare/5029589",
+    "https://www.myhome.ie/residential/brochure/58-brecan-close-balbriggan-dublin/5031995",
+    "https://www.myhome.ie/residential/brochure/plot-1-monks-meadow-portmarnock-county-dublin/5031620",
+    "https://www.myhome.ie/residential/brochure/yellowford-ballymacoda-cork/5031637",
+    "https://www.myhome.ie/residential/brochure/25-26-mary-street-little-north-city-centre-dublin-7/5031920",
+    "https://www.myhome.ie/residential/brochure/the-garden-house-currabeg-kenmare-co-kerry/5032011",
+    "https://www.myhome.ie/residential/brochure/syngefield-house-clonoghill-upper-birr-co-offaly/5031789",
+    "https://www.myhome.ie/residential/brochure/17-westfield-off-bective-street-kells-meath/5031998",
+    "https://www.myhome.ie/residential/brochure/20-the-crescent-fox-lodge-woods-ratoath-co-meath/5032009",
+    "https://www.myhome.ie/residential/brochure/1-and-1a-shancastle-close-dublin-22-clondalkin/5032004",
+    "https://www.myhome.ie/residential/brochure/apts-1-2-dunbur-house-seapoint-road-bray-co-wicklow/5032003",
+    "https://www.myhome.ie/residential/brochure/sites-for-sale-in-one-lot-or-four-individual-lots-oilgate-wexford/5031993",
+    "https://www.myhome.ie/residential/brochure/20-santry-close-santry-dublin-9/5031785",
+    "https://www.myhome.ie/residential/brochure/turnberry-20-brownstown-ratoath-co-meath/5009748",
+    "https://www.myhome.ie/residential/brochure/apartment-30-tramway-court-old-blessington-road-dublin-24-tallaght/5032001"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=14",
+  "paginationLimited": false
+}

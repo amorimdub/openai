@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/fohenagh-caltra-ballinasloe-co-galway/6679934",
+  "fetchedAt": "2026-10-05T09:15:57.469Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/fohenagh-caltra-ballinasloe-co-galway/6679934",
+  "kind": "listing",
+  "responseSha256": "44082e809f0e700c522fc9362c93ea8035c8ad8e486371fe241ccd95aceada7d",
+  "files": [
+    {
+      "path": "daft/00726-609ffc970f3f0e77-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "994a9b2cf5254a482c21b4556ee40474b986759fbd014fb2fb7900190aed9b2d",
+      "bytes": 60840
+    },
+    {
+      "path": "daft/00726-609ffc970f3f0e77-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2e50dcc62eeeedb5e0804a750ce5cac9ce79ea4d8ea16de2f8040e263ffd772b",
+      "bytes": 8015
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

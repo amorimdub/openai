@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/63-castledawson-rock-road-blackrock-co-dublin/6685680",
+  "fetchedAt": "2026-10-05T09:35:19.988Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/63-castledawson-rock-road-blackrock-co-dublin/6685680",
+  "kind": "listing",
+  "responseSha256": "7b0b199f332456905b714320d0c3facbf3a1f5fedf0a2529e895eb234122b31a",
+  "files": [
+    {
+      "path": "daft/01500-d617be0a14a6f255-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "71e1e625db750af3fd7fbd9d6d272d883a053041c0719b442bb67fb7c7d6c1a4",
+      "bytes": 33145
+    },
+    {
+      "path": "daft/01500-d617be0a14a6f255-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4259c4a3106e67e2a57b2a000c401dee40e0e6c48e2ef018a4134e1492c11131",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

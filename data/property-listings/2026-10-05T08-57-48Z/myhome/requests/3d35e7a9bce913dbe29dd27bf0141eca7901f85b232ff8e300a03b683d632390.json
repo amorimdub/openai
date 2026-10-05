@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=34",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=34",
+  "fetchedAt": "2026-10-05T09:29:28.307Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "9e37091998e86cf27817482cec3560d4888971924f199613ff49415002884567",
+  "files": [
+    {
+      "path": "myhome/01261-3d35e7a9bce913db-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=34\"].SearchResults",
+      "sha256": "8844f20e535b85f1ff0e44a732ad68b74d9de7d06d918d159870340a0a31dae2",
+      "bytes": 117811
+    },
+    {
+      "path": "myhome/01261-3d35e7a9bce913db-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=34\"] (paging fields)",
+      "sha256": "2881eaa1870d40a247a278efa16ddffe3353aec91e66857c38069b5e5887356a",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-alexandra-walk-clane-kildare/5031672",
+    "https://www.myhome.ie/residential/brochure/45-blackhorse-ave-blackhorse-ave-dublin-7/5005082",
+    "https://www.myhome.ie/residential/brochure/59-beechdale-court-ballycullen-dublin-24/5027886",
+    "https://www.myhome.ie/residential/brochure/45-boroimhe-cedars-swords-county-dublin/5031684",
+    "https://www.myhome.ie/residential/brochure/22-villa-park-gardens-navan-road-dublin-7/5028583",
+    "https://www.myhome.ie/residential/brochure/apt-4-coill-mhara-cappagh-road-galway-county-galway/5031683",
+    "https://www.myhome.ie/residential/brochure/8-st-bridgets-place-galway-county-galway/5031682",
+    "https://www.myhome.ie/residential/brochure/illaunstookagh-cromane-kerry/5018823",
+    "https://www.myhome.ie/residential/brochure/old-mill-road-ballyvary-mayo/5031673",
+    "https://www.myhome.ie/residential/brochure/25-dun-emer-drive-dundrum-dublin-16/5031674",
+    "https://www.myhome.ie/residential/brochure/9-auburn-green-glenageary-co-dublin/5031679",
+    "https://www.myhome.ie/residential/brochure/2-windsor-road-rathmines-dublin-6/5027328",
+    "https://www.myhome.ie/residential/brochure/7-oaktree-park-cunnaberry-hill-kildare-town-kildare/5031647",
+    "https://www.myhome.ie/residential/brochure/knockloughlin-longford-longford/5031666",
+    "https://www.myhome.ie/residential/brochure/137-brian-road-marino-dublin-3/5031670",
+    "https://www.myhome.ie/residential/brochure/20-river-walk-ballymore-eustace-naas-kildare/5029912",
+    "https://www.myhome.ie/residential/brochure/meadow-view-maynooth-kildare/5031565",
+    "https://www.myhome.ie/residential/brochure/43-raymond-street-portobello-dublin-8/5031669",
+    "https://www.myhome.ie/residential/brochure/16-cois-eala-rathmines-dublin-6/5024908",
+    "https://www.myhome.ie/residential/brochure/10-garrison-mews-cabinteely-dublin-18/5031668"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=35",
+  "paginationLimited": false
+}

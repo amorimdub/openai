@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/alta-verde-blackrock-cross-avenue-blackrock-co-dublin/6117164",
+  "fetchedAt": "2026-10-05T08:58:34.736Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/alta-verde-blackrock-cross-avenue-blackrock-co-dublin/6117164",
+  "kind": "listing",
+  "responseSha256": "870c0929f470da98c7fd9e0b8bae273a01733a3fe78083822d6680398ffa09b9",
+  "files": [
+    {
+      "path": "daft/00032-3c40a1869ead08d1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "19022e6f36cfc0b44ea62cd2ad1d30a22706a4fb41be2768870584ea23ed54ac",
+      "bytes": 255918
+    },
+    {
+      "path": "daft/00032-3c40a1869ead08d1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ccbd7fc78b9e8fd285f88a0b5c859e0dc5324515ee4654394556add5cd8466bb",
+      "bytes": 8096
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

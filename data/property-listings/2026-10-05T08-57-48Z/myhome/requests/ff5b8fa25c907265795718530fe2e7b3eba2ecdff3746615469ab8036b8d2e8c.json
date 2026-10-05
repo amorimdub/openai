@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=239",
+  "fetchedAt": "2026-10-05T12:17:48.649Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=239",
+  "kind": "search",
+  "responseSha256": "7a0c7f2b835be5c666be5301929a582f73727cf0751cfcde27f21f4ea7074397",
+  "files": [
+    {
+      "path": "myhome/05454-ff5b8fa25c907265-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=239\"].SearchResults",
+      "sha256": "4722cd16ae946cad720a4a85b617a95e932ad8d1aa96b524ffbe0445ae108fbb",
+      "bytes": 113679
+    },
+    {
+      "path": "myhome/05454-ff5b8fa25c907265-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=239\"] (paging fields)",
+      "sha256": "8c8131b4e1d87f6004b027533968ade4181f438f7c940d7b054ec81a048bd466",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/dornish-murrisk-westport-co-mayo/5026449",
+    "https://www.myhome.ie/residential/brochure/13-moylaragh-mews-balbriggan-co-dublin/5026448",
+    "https://www.myhome.ie/residential/brochure/14-the-chantries-balbriggan-co-dublin/5026447",
+    "https://www.myhome.ie/residential/brochure/apartment-27-the-strand-149-north-strand-road-north-strand-road-north-strand-dublin-3-co-dublin/5006939",
+    "https://www.myhome.ie/residential/brochure/123-faussagh-avenue-cabra-west-cabra-dublin-7/5005927",
+    "https://www.myhome.ie/residential/brochure/31-oak-drive-hillview-waterford-city-co-waterford/5026444",
+    "https://www.myhome.ie/residential/brochure/61-cuil-bui-cloonacool-sligo/5026228",
+    "https://www.myhome.ie/residential/brochure/lack-tarmonbarry-whitehall-roscommon/5026440",
+    "https://www.myhome.ie/residential/brochure/182-belmont-southern-cross-road-bray-co-wicklow/5026435",
+    "https://www.myhome.ie/residential/brochure/apt-10d-harbour-village-killaloe-clare/5007838",
+    "https://www.myhome.ie/residential/brochure/51-ballygossan-park-skerries-county-dublin/5026433",
+    "https://www.myhome.ie/residential/brochure/apt-2-69-main-street-lusk-county-dublin/5026431",
+    "https://www.myhome.ie/residential/brochure/10-saint-vincent-s-cottages-blackhorse-avenue-dublin-7/5026430",
+    "https://www.myhome.ie/residential/brochure/glenbrack-road-gort-county-galway/5026429",
+    "https://www.myhome.ie/residential/brochure/37-russell-avenue-east-east-wall-dublin-3/4992403",
+    "https://www.myhome.ie/residential/brochure/glencar-curraheen-road-bishopstown-cork/5026186",
+    "https://www.myhome.ie/residential/brochure/26-the-lighthouse-east-wall-dublin-3/5022757",
+    "https://www.myhome.ie/residential/brochure/17-the-cedars-classes-lake-ovens-cork/5026417",
+    "https://www.myhome.ie/residential/brochure/95-cedarbrook-avenue-cherry-orchard-dublin-10/5026422",
+    "https://www.myhome.ie/residential/brochure/28-the-oaks-ridgewood-swords-county-dublin/5010480"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=240",
+  "paginationLimited": false
+}

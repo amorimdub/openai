@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-63-cremorne-greenmount-road-terenure-dublin-6/6650945",
+  "fetchedAt": "2026-10-05T09:38:15.676Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-63-cremorne-greenmount-road-terenure-dublin-6/6650945",
+  "kind": "listing",
+  "responseSha256": "326414bffaa7a22326e234fa7dcd1f2e7aa9ef6559e437e8346243832a677096",
+  "files": [
+    {
+      "path": "daft/01617-cd458f327cd2a700-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "704a270c75f80f63d730358eb42fedebc04a82c8f4d9aadcda2d4743f0460da9",
+      "bytes": 56162
+    },
+    {
+      "path": "daft/01617-cd458f327cd2a700-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b9383ef38fd850ccdd8e251060d18d0bf5cb6483eae97d20efc9903666a1ddf8",
+      "bytes": 8019
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

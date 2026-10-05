@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=12",
+  "fetchedAt": "2026-10-05T09:13:42.253Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=12",
+  "kind": "search",
+  "responseSha256": "20b0115ad8c481c9de14eede1159466c7f1f6b41871f537f38e7bf04f9ec8999",
+  "files": [
+    {
+      "path": "daft/00636-727e1000d15d14bc-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "59bea1d1d03bb56f2b54133e455d1ba230637bef617cf901849d8e1a856e3654",
+      "bytes": 301076
+    },
+    {
+      "path": "daft/00636-727e1000d15d14bc-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00636-727e1000d15d14bc-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "0c59647babf86bb2f6f35f8faaa447bda82f8a354e5d0567992625d25b00b867",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/36-merlyn-road-ballsbridge-dublin-4/6679977",
+    "https://www.daft.ie/for-sale/4-albany-killiney-hill-road-killiney-co-dublin/6676521",
+    "https://www.daft.ie/for-sale/one-harbours-edge-lower-aghada-aghada-midleton-co-cork/6667805",
+    "https://www.daft.ie/for-sale/22-x-apartments-parkview-court-lord-edward-street-limerick-city-centre-co-limerick/6678008",
+    "https://www.daft.ie/for-sale/6-merlyn-drive-dublin-4-ballsbridge-dublin-4/6576586",
+    "https://www.daft.ie/for-sale/22-x-apartments-carriagroe-brigown-mitchelstown-co-cork/6679788",
+    "https://www.daft.ie/for-sale/bells-cottage-cappagh-sixmilebridge-co-clare/6680431",
+    "https://www.daft.ie/for-sale/9-sundale-parade-tallaght-dublin-24/6648170",
+    "https://www.daft.ie/for-sale/46-highfield-manor-mullins-lane-carlow-town-co-carlow/6680482",
+    "https://www.daft.ie/for-sale/tigeen-caerleon-ardclough-road-celbridge/6644796",
+    "https://www.daft.ie/for-sale/birchwood-house-monastery-road-enniskerry-co-wicklow/6650374",
+    "https://www.daft.ie/for-sale/knocknagarrane-old-chapel-bandon-co-cork/6674553",
+    "https://www.daft.ie/for-sale/blackhall-house-blackhall-termonfeckin-co-louth/6533141",
+    "https://www.daft.ie/for-sale/tankardstown-clonalvy-clonalvy-co-meath/6559089",
+    "https://www.daft.ie/for-sale/6-manor-drive-roxborough-manor-wexford-town-co-wexford/6680362",
+    "https://www.daft.ie/for-sale/5-heathervue-glanmire-co-cork/6670334",
+    "https://www.daft.ie/for-sale/4-leacach-ard-danesfort-road-loughrea-co-galway/6680308",
+    "https://www.daft.ie/for-sale/36-glenmalure-square-milltown-dublin-6/6158162",
+    "https://www.daft.ie/for-sale/apt-2-killiney-hill-plaza-killiney-hill-road-killiney-co-dublin/6623074",
+    "https://www.daft.ie/for-sale/14-blakes-glen-lower-curracloe-co-wexford/6680201"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=13",
+  "paginationLimited": false
+}

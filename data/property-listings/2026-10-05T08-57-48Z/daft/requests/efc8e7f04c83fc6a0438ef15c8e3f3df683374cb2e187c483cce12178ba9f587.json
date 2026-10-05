@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/bishop-street-tuam-co-galway/6684982",
+  "fetchedAt": "2026-10-05T09:39:33.761Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/bishop-street-tuam-co-galway/6684982",
+  "kind": "listing",
+  "responseSha256": "101b7fb0c93b3008fb00da74d9cc58e4a3170115305d67a5c506e16786618220",
+  "files": [
+    {
+      "path": "daft/01669-efc8e7f04c83fc6a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3272e71dfd0a1786a6f0b09ff2f9bccba09b8709f33f61de57e26ab30bd48175",
+      "bytes": 26975
+    },
+    {
+      "path": "daft/01669-efc8e7f04c83fc6a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ed71e23c3f6ab4e6a6571292004f61c0c3f67b4c667e02b06db6226d2032bb0b",
+      "bytes": 8102
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

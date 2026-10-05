@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-oval-tullyvale-cherrywood-dublin-18/6685616",
+  "fetchedAt": "2026-10-05T09:35:33.506Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-oval-tullyvale-cherrywood-dublin-18/6685616",
+  "kind": "listing",
+  "responseSha256": "2988a4533e52af0dbec36a30259dbe0a9b493ba3e88b8892970da33ed5dea1c8",
+  "files": [
+    {
+      "path": "daft/01509-474c589d3b5f9696-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ce8c4fe89463faf6b35680dd7c14b4a33cc53dc058ded730d29f59dcbe5fce1c",
+      "bytes": 18618
+    },
+    {
+      "path": "daft/01509-474c589d3b5f9696-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ffa52a300e961099d25c5f1b661b7254bec37a2df28b29fefe84bae99bb9c30d",
+      "bytes": 8105
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

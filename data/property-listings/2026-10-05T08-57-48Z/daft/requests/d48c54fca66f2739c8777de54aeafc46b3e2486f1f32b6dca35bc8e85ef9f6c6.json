@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-93-temple-gardens-dublin-9/6676133",
+  "fetchedAt": "2026-10-05T09:17:29.061Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-93-temple-gardens-dublin-9/6676133",
+  "kind": "listing",
+  "responseSha256": "8256715817f551a682cbde3e7fe01da3adf5f5db4602609bb4d4125e99033270",
+  "files": [
+    {
+      "path": "daft/00787-d48c54fca66f2739-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a59ff8a4cc2d43318474a1c8a1263003045f32057109a6c2f7bdc72c0c3602bb",
+      "bytes": 56403
+    },
+    {
+      "path": "daft/00787-d48c54fca66f2739-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ca259f4cc281688148609821b34ea6f0cb7a484e7284a257113f822412d800bb",
+      "bytes": 8004
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

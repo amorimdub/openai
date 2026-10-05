@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=453",
+  "fetchedAt": "2026-10-05T14:07:58.173Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=453",
+  "kind": "search",
+  "responseSha256": "f20838c2e2b9ceca5824c5f7726ee89bae111df2e9bb9c62daba90db10ac1ead",
+  "files": [
+    {
+      "path": "myhome/09846-b66603a005b1c6af-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=453\"].SearchResults",
+      "sha256": "572433b5060e3e9e206a398e34b9bb96bb354ba3de8ed5d3da49a0b8115dff22",
+      "bytes": 121486
+    },
+    {
+      "path": "myhome/09846-b66603a005b1c6af-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=453\"] (paging fields)",
+      "sha256": "0b558198f2f079e77464ceb79214aa533c637ad7782c308eebc94eecac72e01c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-woodlawn-terrace-churchtown-dublin-14/5000997",
+    "https://www.myhome.ie/residential/brochure/43-malahide-road-artane-dublin-5/4807242",
+    "https://www.myhome.ie/residential/brochure/26-the-court-dunboune-castle-dunboyne-meath/5008218",
+    "https://www.myhome.ie/residential/brochure/school-road-carnmore-oranmore-co-galway/5008221",
+    "https://www.myhome.ie/residential/brochure/kilgreaney-stables-kilgreaney-bagenalstown-co-carlow/5008217",
+    "https://www.myhome.ie/residential/brochure/letterlickey-east-bantry-west-cork/5008200",
+    "https://www.myhome.ie/residential/brochure/attycunnane-belmullet-belmullet-mayo/5008208",
+    "https://www.myhome.ie/residential/brochure/barrack-street-belmullet-mayo/5008204",
+    "https://www.myhome.ie/residential/brochure/5-seatown-villas-swords-county-dublin/5008203",
+    "https://www.myhome.ie/residential/brochure/12-killian-s-glen-rathdrum-co-wicklow/4969011",
+    "https://www.myhome.ie/residential/brochure/rhone-road-claddaghduff-co-galway/5008182",
+    "https://www.myhome.ie/residential/brochure/301-river-oaks-ballisodare-sligo/5008177",
+    "https://www.myhome.ie/residential/brochure/cruit-upper-kincasslagh-co-donegal/5008175",
+    "https://www.myhome.ie/residential/brochure/45-blackthorn-close-kells-meath/5008172",
+    "https://www.myhome.ie/residential/brochure/the-glebe-donegal-town-donegal/5008165",
+    "https://www.myhome.ie/residential/brochure/canada-cross-house-church-street-miltown-malbay-clare/5005154",
+    "https://www.myhome.ie/residential/brochure/beakstown-lodge-holycross-co-tipperary/5008142",
+    "https://www.myhome.ie/residential/brochure/sunnyside-old-lucan-road-palmerstown-dublin/5008137",
+    "https://www.myhome.ie/residential/brochure/12-cork-road-fermoy-cork/5008126",
+    "https://www.myhome.ie/residential/brochure/ullard-ballincolla-union-hall-west-cork/5008111"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=454",
+  "paginationLimited": false
+}

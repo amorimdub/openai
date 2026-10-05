@@ -1,0 +1,525 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "5 doctor patrick osullivan terrace aghada midleton co cork",
+    "GroupId": 6873,
+    "Address": "5 Doctor Patrick O'Sullivan Terrace",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/7f762eb3-82ee-4d91-9bf8-783cd846f73d_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/d96050a3-08ca-4eb6-8d61-caef31cda34b_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/ceb56b19-c858-4792-829b-5a78ceb815f9_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/46ee5dbd-f36d-4ae5-8de0-8f4c0a05de0f_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/4cca8891-8b90-4181-9ab1-a4b1069d5e21_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/317f8f65-9ca8-4ec6-a2fe-a59606594d6b_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/2c7d3d3c-b08a-4afc-b36a-1f8995a54e0b_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/95c30201-9ace-405b-8766-91b87d6521ca_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/7/8/6/5019687/acc818a1-7395-40ec-8909-e9e42741d843_l.jpeg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 77,
+    "MaxSize": 77,
+    "BerRating": "E1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€180,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "77",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5019687,
+        "DisplayAddress": "5 Doctor Patrick O'Sullivan Terrace, Aghada, Midleton, Co. Cork",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "6b649543-0dcd-4132-9625-882bb9c0750f",
+              "Filename": "97eefa59-8ee4-4d70-9f1c-8cd64c575a84.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/a69c8c82-30fb-4ee0-9ba9-e6e6bf3c69ff.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "86825cee-2606-4061-b187-49556f1aae83",
+              "Filename": "7f762eb3-82ee-4d91-9bf8-783cd846f73d.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/f32badce-2215-4de4-a4b8-7975ce9bc4ae.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c2ab8a94-53e2-4170-b98c-84bd6b13a363",
+              "Filename": "d96050a3-08ca-4eb6-8d61-caef31cda34b.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/726d7fa6-b3c8-4aeb-bc7f-805fefe5bbcd.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "080eb11c-31a6-416d-85f3-6142f15425c3",
+              "Filename": "ceb56b19-c858-4792-829b-5a78ceb815f9.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/4c41cd6a-3d66-4f51-9e7a-4babd1051603.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6104dcdc-adab-4fa5-a9cb-0fc743331cb7",
+              "Filename": "46ee5dbd-f36d-4ae5-8de0-8f4c0a05de0f.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/f7d3968f-85a7-491f-9857-ec8fed4f10de.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1199bc3f-0f9b-439e-9b23-22e6bb7081ae",
+              "Filename": "4cca8891-8b90-4181-9ab1-a4b1069d5e21.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/6c8dee7f-2672-4a72-9da0-848d3bf4845f.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0e922326-a7fb-43fc-867c-728c40265846",
+              "Filename": "317f8f65-9ca8-4ec6-a2fe-a59606594d6b.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/a6bce00a-71e2-4848-a4f6-13072fd4b120.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "32e2d1b6-e3a7-4109-b005-861f7014501c",
+              "Filename": "2c7d3d3c-b08a-4afc-b36a-1f8995a54e0b.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/c6afd334-becf-44d5-afa0-e7d466ddbc77.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cf54cc93-ecb4-44fc-a30d-3e9b71acdee7",
+              "Filename": "95c30201-9ace-405b-8766-91b87d6521ca.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/21179a9a-90a6-4386-a235-0f423a99d898.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3027f0fd-3a94-4d89-8bff-3110a8703f46",
+              "Filename": "acc818a1-7395-40ec-8909-e9e42741d843.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/f5349209-c933-4f0e-876f-e0a0f01512d0.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "8465e57caaca4b058d660bab0f8db6ce",
+          "OriginalImagesSuffix": "8465e",
+          "MainPhoto": {
+            "Identifier": "6b649543-0dcd-4132-9625-882bb9c0750f",
+            "Filename": "97eefa59-8ee4-4d70-9f1c-8cd64c575a84.jpeg",
+            "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/4/0/7/135704/a69c8c82-30fb-4ee0-9ba9-e6e6bf3c69ff.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_l.jpeg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Situated in the heart of the tranquil village of Aghada in East Cork, this mid-terrace residence presents an excellent opportunity for buyers looking to create a home tailored to their own tastes. While the property requires renovation and modernisation throughout, it offers enormous potential to transform into a charming family home or investment property. The accommodation provides a solid footprint with well-proportioned rooms, while the rear garden offers space for outdoor living or future landscaping, subject to the necessary consents. This is an ideal project for first-time buyers, investors or DIY enthusiasts seeking a rewarding renovation opportunity. Located just a short stroll from the waterfront, local primary school, shops, cafés and sporting amenities, the property enjoys the best of village living. Aghada is renowned for its beautiful harbour setting, strong sense of community and easy access to Midleton, which is less than a 15-minute drive away, while Cork City can be reached in approximately 30 minutes. The surrounding coastline, beaches and scenic walks further enhance the appeal of this sought-after East Cork location.\n\nACCOMMODATION\n\nEntrance Hallway 3.96 m x 1.96 m\nCarpet flooring, phone point, stairs to first floor level.\n\nKitchen / Dining Room 5.21 m x 4.11 m (L shaped room)\nOpen plan kitchen / dining room with door leading out to the back garden and solid fuel fireplace.\n\n\nLiving Room 3.35 m x 3.12 m\nSet at the front of the house this room has carpet flooring and a TV point.\n\nMaster Bedroom 4.65m x 3.02m\nWooden flooring, tv point, distant views of lower Cork Harbour.\n\nBedroom 2 3.35m x 2.82m\nCarpet flooring, tv point.\n\nBedroom 3 3.02m x2.11m\nWooden flooring, distant views of lower Cork Harbour.\n\nBathroom 6'4'' 1.93m x 1.7m\nWash hand basin, bath, toilet.\n\nOUTSIDE\n\nThe property has a small garden to the front which is laid out in lawn and to the rear there is a spacious rear garden which offers buyers the opportunity to bring their own unique vision and creativity to it.\n\n\nLOCATION\n\nNestled on the eastern shores of Cork Harbour, Aghada is a traditional styled village located in the heart of East Cork. Surrounded by scenic countryside and panoramic harbour views, the area offers a unique blend of coastal charm and everyday convenience. Steeped in maritime heritage, the area has long been a admired for its natural beauty, peaceful atmosphere and strong sense of community. The village enjoys close proximity to some of East Cork's finest beaches and outdoor amenities, including Whitebay, Inch Beach and Roches Point, making it an ideal location for those who appreciate coastal walks, sailing, kayaking and outdoor living. It is a short drive from Whitegate Village where you will find a Eurospar supermarket, selection of pubs, restaurant / take away and the well known Corkbeg Coffee business set on the pier in the village. Midleton town is just 15 minutes away and it's less than 35 minutes to Cork City Centre. \n\n\nDIRECTIONS\n\nFrom Midleton travel the R630 road to Whitegate. Continue ahead for 10 km and on passing through Rostellan village turn left up the hill . Continue to Aghada Village the estate will be on your right hand side just before the national school and community centre.\n\n\nVIEWING ARRANGEMENTS\nAll viewings of this property must be arranged through the selling agents Russell Estate Agents Limited. Our office hours are Monday to Friday 9am to 5pm. We can arrange evening and weekend viewings by prior appointment.\n\n\nNOTICE\n\nRussell Estate Agents for the vendors or lessors of this property whose agents they are, give notice that: (i) The particulars are set out as a general outline for the guidance of intending purchasers or lessees, and do not institute, nor constitute part of, an offer or contract. (ii) All descriptions, dimensions, references to condition and necessary permissions for use and occupation, and any other details are given in good faith and are believed to be correct, but any intending purchasers or tenants should not rely on them as statements or representatives of fact but must satisfy themselves by inspection or otherwise as to the correctness of each of them. (iii) No person in employment of Russell Estate Agents Limited has any authority to make or give representation or warranty in relation to this property. (iv) Prices are quoted exclusive of vat (unless otherwise stated) and all negotiations are conducted on the basis that the purchaser/lessee shall be liable for any VAT arising on the transaction. All maps are reproduced by Permission of the Ordnance Survey, License No. AU0066915 © Ordnance Survey Ireland / Government of Ireland."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "- Garden"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: E1\nBER No: 119443018\nEnergy Performance Indicator: 319.73"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Shane Russell"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 239526,
+    "MinEnergyRating": 40,
+    "MaxEnergyRating": 40,
+    "BERGrade": "E",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-08-10T09:08:10.0230000+01:00",
+    "ModifiedOnDate": "2026-08-10T09:08:10.0230000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-10T09:08:10.0230000+01:00",
+    "RefreshedOn": "2026-08-10T09:08:10.0230000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E1.png",
+    "IsTransact": false,
+    "PriceAsString": "€180,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5019687,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 77,
+    "DisplayAddress": "5 Doctor Patrick O'Sullivan Terrace, Aghada, Midleton, Co. Cork",
+    "Eircode": "P25 TK20",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Terraced House",
+    "PropertyTypeId": 37,
+    "RegionId": 737,
+    "RegionName": "Cork",
+    "LocalityId": 738,
+    "LocalityName": "Aghada",
+    "Price": {
+      "MinPrice": 180000,
+      "MaxPrice": 180000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/97eefa59-8ee4-4d70-9f1c-8cd64c575a84_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/7f762eb3-82ee-4d91-9bf8-783cd846f73d_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/7f762eb3-82ee-4d91-9bf8-783cd846f73d_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/7f762eb3-82ee-4d91-9bf8-783cd846f73d_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/d96050a3-08ca-4eb6-8d61-caef31cda34b_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/d96050a3-08ca-4eb6-8d61-caef31cda34b_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/d96050a3-08ca-4eb6-8d61-caef31cda34b_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/ceb56b19-c858-4792-829b-5a78ceb815f9_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/ceb56b19-c858-4792-829b-5a78ceb815f9_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/ceb56b19-c858-4792-829b-5a78ceb815f9_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/46ee5dbd-f36d-4ae5-8de0-8f4c0a05de0f_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/46ee5dbd-f36d-4ae5-8de0-8f4c0a05de0f_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/46ee5dbd-f36d-4ae5-8de0-8f4c0a05de0f_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/4cca8891-8b90-4181-9ab1-a4b1069d5e21_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/4cca8891-8b90-4181-9ab1-a4b1069d5e21_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/4cca8891-8b90-4181-9ab1-a4b1069d5e21_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/317f8f65-9ca8-4ec6-a2fe-a59606594d6b_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/317f8f65-9ca8-4ec6-a2fe-a59606594d6b_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/317f8f65-9ca8-4ec6-a2fe-a59606594d6b_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/2c7d3d3c-b08a-4afc-b36a-1f8995a54e0b_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/2c7d3d3c-b08a-4afc-b36a-1f8995a54e0b_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/2c7d3d3c-b08a-4afc-b36a-1f8995a54e0b_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/95c30201-9ace-405b-8766-91b87d6521ca_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/95c30201-9ace-405b-8766-91b87d6521ca_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/95c30201-9ace-405b-8766-91b87d6521ca_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/acc818a1-7395-40ec-8909-e9e42741d843_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/acc818a1-7395-40ec-8909-e9e42741d843_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/6/5019687/acc818a1-7395-40ec-8909-e9e42741d843_m.jpeg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -8.209325,
+      "latitude": 51.839148
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 10,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 6873,
+    "Name": "Russell Estate Agents Ltd. ",
+    "DisplayPhone": "021 463 4133",
+    "Email": "info@russellproperty.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "russell-estate-agents",
+    "SeoName": "russell-estate-agents",
+    "Address": "Main Street, Whitegate, Midleton, Co. Cork",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/3/7/8/6873/logo.jpg",
+    "SalesLicense": "003399",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "aghada/738",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5023424,
+      "PropertyClassId": 1,
+      "DisplayAddress": "'Ardmore', Lower Aghada, Midleton, Co. Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/2/4/5023424/8f88b6c6-2d37-42fc-ba15-955db0bd62ef_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ardmore-lower-aghada-midleton-co-cork/5023424"
+    },
+    {
+      "PropertyId": 5019898,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Hillside, Aghada, Midleton, Co. Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/8/5019898/8f27a0e6-7e6a-405e-a7a0-a890f3f89843_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/hillside-aghada-midleton-co-cork/5019898"
+    },
+    {
+      "PropertyId": 5014189,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Beech Cottage, Corkbeg, Whitegate, Midleton, Co. Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/8/1/5014189/37bdf8cb-1269-47c6-bd77-aeb54b3d72e0_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/beech-cottage-corkbeg-whitegate-midleton-co-cork/5014189"
+    },
+    {
+      "PropertyId": 5000514,
+      "PropertyClassId": 1,
+      "DisplayAddress": "28 Cois Cuain, Whitegate, Midleton, Co. Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/5/5000514/deea3a77-3ebb-4b94-8205-60d62d0ddd2a_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/28-cois-cuain-whitegate-midleton-co-cork/5000514"
+    },
+    {
+      "PropertyId": 4996172,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Trabolgan, Whitegate, Midleton, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/1/4996172/27cc80a7-8a88-45c0-8f79-cb5f4bd304b6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/trabolgan-whitegate-midleton-cork/4996172"
+    },
+    {
+      "PropertyId": 4996093,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Trabolgan, Whitegate, Midleton, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/9/0/4996093/f4b73977-7987-496b-a034-bec0fed1e37f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/trabolgan-whitegate-midleton-cork/4996093"
+    },
+    {
+      "PropertyId": 4995031,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Trabolgan, Whitegate, Midleton, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/0/4995031/d1c1a01a-a0cf-4de7-8278-412e03e5d130_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/trabolgan-whitegate-midleton-cork/4995031"
+    },
+    {
+      "PropertyId": 4995030,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballyknock, Whitegate, Midleton, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/3/0/4995030/6c6dec8e-cc86-41de-8b74-f30a6fd03503_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballyknock-whitegate-midleton-cork/4995030"
+    },
+    {
+      "PropertyId": 4746305,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Upper Range, Rostellan, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/0/3/4746305/ab2b7342-6f21-4a16-9018-da5622338091_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/upper-range-rostellan-cork/4746305"
+    },
+    {
+      "PropertyId": 4735474,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Radharc na Mara, Rostellan, Midleton, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/7/4/4735474/7048027a-507e-4803-99ce-23c3bab08fab_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/radharc-na-mara-rostellan-midleton-cork/4735474"
+    },
+    {
+      "PropertyId": 4799247,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Gearagh, Ballinacurra, Midleton, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/4/2/4799247/dd850ab8-987b-4bdc-9e5d-75823625df8b_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/gearagh-ballinacurra-midleton-cork/4799247"
+    },
+    {
+      "PropertyId": 4776215,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Killeagh Road, Castlemartyr, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/1/2/4776215/09a8bfde-2c3e-4c02-a662-31d4bbd870f0_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/killeagh-road-castlemartyr-cork/4776215"
+    },
+    {
+      "PropertyId": 4709486,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Finure, Guileen, Whitegate, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/8/4/4709486/ab8d449e-1deb-4156-8591-e78022851adc_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/finure-guileen-whitegate-cork/4709486"
+    },
+    {
+      "PropertyId": 4613995,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballyskibbole, Ballymacoda, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/9/4613995/8bf5a9bb-5af9-4e09-a0d5-f9449e7c7e7e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballyskibbole-ballymacoda-cork/4613995"
+    },
+    {
+      "PropertyId": 4489741,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Kilcrone, Cloyne, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/4/7/4489741/9fb716f1-81e9-4c96-9916-0d4041414862_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/kilcrone-cloyne-cork/4489741"
+    },
+    {
+      "PropertyId": 4481522,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Rostellan, Midleton, Co. Cork., Rostellan, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/5/4481522/4d85945f-5adb-41dc-9536-6e8a610d3dc2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/rostellan-midleton-co-cork-rostellan-cork/4481522"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4752506,
+      "Address": "Harbours Edge, Site 4, Aghada, Cork",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/0/5/4752506/543acb30-3e23-4348-91c7-2570935905b8_t.jpg",
+      "HasWebP": false,
+      "Price": 300000,
+      "PrevPrice": 320000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -6.25,
+      "Created": "18th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "",
+      "SeoUrl": "/residential/brochure/harbours-edge-site-4-aghada-cork/4752506",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/5-doctor-patrick-o-sullivan-terrace-aghada-midleton-co-cork/5019687",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 239526,
+    "Name": "Shane Russell M.I.P.A.V. M.C.E.I.",
+    "Phone": "086 3280300",
+    "Email": "shane@russellproperty.ie ",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/6/2/5/239526/profile.jpg",
+    "Licence": ""
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 6873,
+    "MYH_LocalityID": 738,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 737,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Garden",
+    "MYH_MaxPrice": 200000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 40,
+    "MYH_MinPrice": 200000,
+    "MYH_MinSize": 77,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5019687,
+    "MYH_PropertyTypeID": 37
+  }
+}

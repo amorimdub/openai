@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/taylor-hill-park-balbriggan-balbriggan-co-dublin/6680575",
+  "fetchedAt": "2026-10-05T09:12:13.614Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/taylor-hill-park-balbriggan-balbriggan-co-dublin/6680575",
+  "kind": "listing",
+  "responseSha256": "8e878eebb0891169274e3b087cc9423bcdfb74929249f0c3ed7df70c0df312ea",
+  "files": [
+    {
+      "path": "daft/00577-3211f04544eaa490-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2d996ec381416e1e28b8fed8dd9bb10ae078dc550decca0f7d3616241e9dd5d3",
+      "bytes": 32957
+    },
+    {
+      "path": "daft/00577-3211f04544eaa490-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "19d34da41db5c3d0c39b51c4ca210f4305cfdf82dd6d916f0548993b36e91181",
+      "bytes": 8307
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

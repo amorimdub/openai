@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-3-18-kenilworth-park-harolds-cross-dublin-6w/6683672",
+  "fetchedAt": "2026-10-05T09:47:54.075Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-3-18-kenilworth-park-harolds-cross-dublin-6w/6683672",
+  "kind": "listing",
+  "responseSha256": "af668c69a7c13e5d9de87b19fb3f991cf822a01a0a225282cf3ec2d56f1204f9",
+  "files": [
+    {
+      "path": "daft/02002-e22c6ab4b4485283-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "907d834f5a8b746daefd7438c5587a5f9d4ad8f0890f4f23a53f6bbbff8ee6e9",
+      "bytes": 19836
+    },
+    {
+      "path": "daft/02002-e22c6ab4b4485283-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "781029612a31a9139df9421b146dff5b715e44c51b07f05096646e31e4ec7cf2",
+      "bytes": 8065
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

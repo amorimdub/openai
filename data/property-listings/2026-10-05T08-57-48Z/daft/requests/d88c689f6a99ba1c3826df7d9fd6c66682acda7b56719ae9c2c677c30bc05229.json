@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/84-bancroft-park-tallaght-dublin-24/6646825",
+  "fetchedAt": "2026-10-05T09:29:55.635Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/84-bancroft-park-tallaght-dublin-24/6646825",
+  "kind": "listing",
+  "responseSha256": "b1e8fe1ceda0212141bdcad2c231e97e319c2aaffbeefb55d78b33975fc44d68",
+  "files": [
+    {
+      "path": "daft/01284-d88c689f6a99ba1c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e4a5f453bcf59e3be6d0a569d331556f6bcc529cd6814106b132fc125ca0fca9",
+      "bytes": 190987
+    },
+    {
+      "path": "daft/01284-d88c689f6a99ba1c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ce5957b0cbf53c0f8171f1d66be01c07b2ab28a8cb286e2627a857a3a53f5c92",
+      "bytes": 8101
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

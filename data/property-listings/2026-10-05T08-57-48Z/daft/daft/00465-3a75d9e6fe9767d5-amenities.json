@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GAELSCOIL LAIGHEAN",
+      "numPupils": 105,
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280205",
+        "lon": "-6.162594"
+      }
+    },
+    {
+      "schoolName": "RED DOOR SPECIAL SCHOOL",
+      "numPupils": 30,
+      "distance": {
+        "value": 0.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287130",
+        "lon": "-6.155187"
+      }
+    },
+    {
+      "schoolName": "DÚN LAOGHAIRE ETNS",
+      "numPupils": 177,
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287174",
+        "lon": "-6.155123"
+      }
+    },
+    {
+      "schoolName": "KILL O' THE GRANGE NATIONAL SCHOOL",
+      "numPupils": 208,
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278220",
+        "lon": "-6.161892"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 0.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286327",
+        "lon": "-6.153762"
+      }
+    },
+    {
+      "schoolName": "HOLLYPARK BOYS NATIONAL SCHOOL",
+      "numPupils": 512,
+      "distance": {
+        "value": 0.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280193",
+        "lon": "-6.174952"
+      }
+    },
+    {
+      "schoolName": "HOLLYPARK GIRLS NATIONAL SCHOOL",
+      "numPupils": 487,
+      "distance": {
+        "value": 0.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279633",
+        "lon": "-6.175485"
+      }
+    },
+    {
+      "schoolName": "MONKSTOWN ETNS",
+      "numPupils": 427,
+      "distance": {
+        "value": 0.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280773",
+        "lon": "-6.150557"
+      }
+    },
+    {
+      "schoolName": "GUARDIAN ANGELS' NATIONAL SCHOOL",
+      "numPupils": 430,
+      "distance": {
+        "value": 1.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292507",
+        "lon": "-6.171458"
+      }
+    },
+    {
+      "schoolName": "ST OLIVER PLUNKETT SP SC",
+      "numPupils": 63,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292620",
+        "lon": "-6.153974"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ROCKFORD MANOR SECONDARY SCHOOL",
+      "numPupils": 285,
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287060",
+        "lon": "-6.163007"
+      }
+    },
+    {
+      "schoolName": "NEWPARK COMPREHENSIVE SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 0.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289818",
+        "lon": "-6.173190"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS COLLEGE",
+      "numPupils": 564,
+      "distance": {
+        "value": 1.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289770",
+        "lon": "-6.148046"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE FOXROCK",
+      "numPupils": 637,
+      "distance": {
+        "value": 1.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272797",
+        "lon": "-6.176822"
+      }
+    },
+    {
+      "schoolName": "CLONKEEN COLLEGE",
+      "numPupils": 630,
+      "distance": {
+        "value": 1.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269830",
+        "lon": "-6.157335"
+      }
+    },
+    {
+      "schoolName": "HOLY CHILD COMMUNITY SCHOOL",
+      "numPupils": 275,
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275960",
+        "lon": "-6.136515"
+      }
+    },
+    {
+      "schoolName": "RATHDOWN SCHOOL",
+      "numPupils": 349,
+      "distance": {
+        "value": 2.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276460",
+        "lon": "-6.129826"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE SION HILL",
+      "numPupils": 508,
+      "distance": {
+        "value": 2.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301594",
+        "lon": "-6.189679"
+      }
+    },
+    {
+      "schoolName": "OATLANDS COLLEGE",
+      "numPupils": 634,
+      "distance": {
+        "value": 2.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292484",
+        "lon": "-6.202487"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S SECONDARY SCHOOL",
+      "numPupils": 631,
+      "distance": {
+        "value": 2.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283104",
+        "lon": "-6.205334"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "St Fintan's Villas",
+      "route": "84n",
+      "destination": "Charlesland",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2839961313955",
+        "lon": "-6.16637870511219"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "St Fintan's Villas",
+      "route": "L26",
+      "destination": "Kilternan",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2839961313955",
+        "lon": "-6.16637870511219"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange Grove",
+      "route": "7B",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286245",
+        "lon": "-6.165292"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange Grove",
+      "route": "4",
+      "destination": "Heuston Station",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286245",
+        "lon": "-6.165292"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cemetery",
+      "route": "L26",
+      "destination": "Blackrock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2824610519858",
+        "lon": "-6.16591951409938"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Abbey Park",
+      "route": "7D",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284904",
+        "lon": "-6.160535"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Abbey Park",
+      "route": "7B",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284904",
+        "lon": "-6.160535"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Abbey Park",
+      "route": "L27",
+      "destination": "Leopardstown Valley",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284846",
+        "lon": "-6.160298"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Deansgrange Road",
+      "route": "L26",
+      "destination": "Kilternan",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285948",
+        "lon": "-6.167"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Deansgrange Road",
+      "route": "84n",
+      "destination": "Charlesland",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285948",
+        "lon": "-6.167"
+      }
+    }
+  ]
+}

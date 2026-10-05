@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/bella-vista-48-48a-seapoint-avenue-monkstown/6641233",
+  "fetchedAt": "2026-10-05T09:43:08.587Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/bella-vista-48-48a-seapoint-avenue-monkstown/6641233",
+  "kind": "listing",
+  "responseSha256": "09e7496d1ba1a0ce7828098ce6d04d24404c0cee96238eddd2631292a23efe17",
+  "files": [
+    {
+      "path": "daft/01812-bbabde953db64c48-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "66009db945ccce19529bc04dc404eddb8b928d9bdf6f93903be404bc5eaed4ef",
+      "bytes": 117706
+    },
+    {
+      "path": "daft/01812-bbabde953db64c48-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "20de9e20f6dd7617e52270c478e7494779401e33027a0139a450fbeca0e96183",
+      "bytes": 8029
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

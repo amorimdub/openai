@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/22-ballymacool-terrace-letterkenny-letterkenny-co-donegal/6682835",
+  "fetchedAt": "2026-10-05T09:52:57.539Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/22-ballymacool-terrace-letterkenny-letterkenny-co-donegal/6682835",
+  "kind": "listing",
+  "responseSha256": "625c685098e5ca35657ffa1dbf1941b364237f7cc29b5b01f21135face6248a2",
+  "files": [
+    {
+      "path": "daft/02204-e3b0930747ff31a7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6dc15e0f34bd48273bd7d0b6815392c17033a21bcac1ceba642c1beed9c82cb9",
+      "bytes": 36136
+    },
+    {
+      "path": "daft/02204-e3b0930747ff31a7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fb5cbfcc7d196ca6f0e946339122ea550087f4cf68d09986d64b96142fa59783",
+      "bytes": 8104
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

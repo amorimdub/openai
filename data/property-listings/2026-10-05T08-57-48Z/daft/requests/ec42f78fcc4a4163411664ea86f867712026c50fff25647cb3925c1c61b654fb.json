@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/athlumney-navan-co-meath/6667908",
+  "fetchedAt": "2026-10-05T09:26:25.263Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/athlumney-navan-co-meath/6667908",
+  "kind": "listing",
+  "responseSha256": "124769660272de884ee7d51f2a8100fe10b93eb4fbc5d342aa673dadd5e52484",
+  "files": [
+    {
+      "path": "daft/01144-ec42f78fcc4a4163-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2f58e274c10429d378510b1b0685f16ccf30c4a62a1c68d9c62cf9bd661bd1b1",
+      "bytes": 62786
+    },
+    {
+      "path": "daft/01144-ec42f78fcc4a4163-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "25f0c5029bb389ec2760ba55f1f0cd7915906b79ac810515f10ea58a8dbbebda",
+      "bytes": 8154
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=389",
+  "fetchedAt": "2026-10-05T13:35:00.987Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=389",
+  "kind": "search",
+  "responseSha256": "02dc9d1a4e931557aa7bd9d319bd0bf3adcb446cd25a0bd6cc25fb25cd84e710",
+  "files": [
+    {
+      "path": "myhome/08531-5e84fae27ee39017-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=389\"].SearchResults",
+      "sha256": "fcd8814d743849ecb327a4850cc2f1fd46c83f5c3a0dc332619c94668ba98da2",
+      "bytes": 126177
+    },
+    {
+      "path": "myhome/08531-5e84fae27ee39017-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=389\"] (paging fields)",
+      "sha256": "af663a26513ba3369adb9592ad2f0bec78ef9b0766cc7f5c00fa0ba38b1e6296",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-limekiln-drive-manor-estate-terenure-dublin-12/5016942",
+    "https://www.myhome.ie/residential/brochure/long-avenue-boleybeg-ballitore-co-kildare/5016939",
+    "https://www.myhome.ie/residential/brochure/corballis-garlow-cross-navan-meath/4871700",
+    "https://www.myhome.ie/residential/brochure/sea-view-letternoosh-clifden-galway/5016919",
+    "https://www.myhome.ie/residential/brochure/apartment-2-15-main-street-clongriffin-dublin/5016930",
+    "https://www.myhome.ie/residential/brochure/hortland-donadea-co-kildare/5016933",
+    "https://www.myhome.ie/residential/brochure/tur-lacken-ballynabucky-kilcolgan-county-galway/5016931",
+    "https://www.myhome.ie/residential/brochure/killaneen-ballinamore-leitrim/5016929",
+    "https://www.myhome.ie/residential/brochure/12-white-castle-lawns-athy-county-kildare/5016923",
+    "https://www.myhome.ie/residential/brochure/10-johnswood-drive-ashbourne-co-meath/5016918",
+    "https://www.myhome.ie/residential/brochure/7-grove-village-apartments-harold-s-cross-dublin-6/5010676",
+    "https://www.myhome.ie/residential/brochure/48-rose-drive-rath-ullord-kilkenny/5016916",
+    "https://www.myhome.ie/residential/brochure/36-kilkee-house-malahide-road-dublin-17-dublin/5016902",
+    "https://www.myhome.ie/residential/brochure/47-white-castle-lawn-athy-co-kildare/5016909",
+    "https://www.myhome.ie/residential/brochure/derryadd-keenagh-co-longford/5016901",
+    "https://www.myhome.ie/residential/brochure/39-cathedral-view-mullingar-co-westmeath/5016900",
+    "https://www.myhome.ie/residential/brochure/kilree-street-bagenalstown-co-carlow/5016898",
+    "https://www.myhome.ie/residential/brochure/no-25-stracomer-hill-bundoran-co-donegal/5016890",
+    "https://www.myhome.ie/residential/brochure/castlebridge-house-athlumney-navan-meath/5015385",
+    "https://www.myhome.ie/residential/brochure/tawnagh-lahardane-ballina-co-mayo/5016888"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=390",
+  "paginationLimited": false
+}

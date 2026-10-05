@@ -1,0 +1,440 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "61 the glade athenry galway",
+    "GroupId": 9160,
+    "Address": "61 The Glade",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/3bd414fa-93de-4531-b806-f79e944d6d2d_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/3bd414fa-93de-4531-b806-f79e944d6d2d_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/3bd414fa-93de-4531-b806-f79e944d6d2d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/f0a7ee25-2daf-42ff-a0b6-21d20d4986d9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/8c406f7a-89bc-408c-ab2f-9824b5e29959_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/597e8e24-02d8-4de0-a169-e1daeebf0f8e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/afffd153-204f-40c8-a79b-c6b8ab23c0e4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/fde8c061-f553-4c45-a87d-c676cff14fa4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/06f00381-a8ea-4963-b6f3-407f6a865e06_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/c5710d43-3347-45ff-8032-e033d8f8d842_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/17a22332-ecf4-4659-8852-289b8ba78ac6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/710d01dc-848c-44b7-96f0-28207ed19d9b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/352a0b8b-9128-4d8c-b019-efffe8c394b1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/02d31884-8903-4c11-8ca4-28bcb3323ce7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/4af370d7-4999-4323-97d2-9f3863109e57_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b380bdeb-4409-465c-ad8b-cbf3cb9408b9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/14ee6eb8-8e51-466d-92c5-8fdcd762c7bc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/77681d40-8b1f-4cf0-97bc-2b77503efc1d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/cab9594a-53ee-4b4c-8cdc-a1dd8ceb03a0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b06638b0-b75f-4c74-aab3-336a45820d26_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/446b9510-eee5-4554-a13b-1865dbcb8ec3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/1/5/5024517/03269bee-2888-452e-a5a8-4b9ef91e8b1b_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 178,
+    "MaxSize": 178,
+    "BerRating": "B3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "LOCATION:\r\n\r\nThe location of this property is top class being within walking distance of Athenry Town Centre with all its excellent residential amenities and facilities and range of café’s, pubs, restaurants, hotels, shops and community facilities.  The property is also within walking distance of a fine local selection of national and secondary Schools, Post Office, banks, Church, newly renovated playground and Railway Station with an excellent service to Galway, Dublin and Limerick etc.   \r\n\r\nAthenry is a highly sought after commuter town of Galway City which is just 13 miles and is steeped in local history and is a famous Medieval, Heritage and Market town.  \r\n\r\nThe property itself overlooks a nice spacious green area and is one of the finest most well established estates in Athenry Town.\r\n\r\nThe property is quite close to the Athenry outer relief road which links onto the M6 Galway / Dublin route and further to the M17 / M18 Sligo / Limerick route and allows for excellent convenience and accessibility to Galway City and other major routes.  The property is also only a leisurely stroll from the Town Centre, Athenry Shopping Centre, new Aldi store, local Schools, and Raheen Woods Hotel.\r\n \r\n \r\nDESCRIPTION:\r\n\r\nCathal Moran Auctioneers are delighted to present to the market this stunning 4 bedroom detached family home occupying a beautiful site within the sought after estate of The Glade in Athenry town.  The property has benefitted from extensive renovation and upgrade works together with rear extension in recent years to provide a fantastic contemporary modern home of elegance. \r\n\r\nThe property extends to an approximate Gross Internal Floor Area of \r\n178 sq m / 1,916 sq ft offering beautiful contemporary living. \r\n\r\nThe property boasts sleek stylish Amtico parquet style flooring from the entrance hall right through to the open plan kitchen / dining room and the new rear extension comprising the family room / sun room.  The kitchen comprises a beautiful fully fitted kitchen with quartz worktop and matching centre island unit which opens out onto the rear spacious family room / sun room.  The family room / sun room boasts generous sized feature windows offering lovely views of the gardens and together with the stylish skylights allowing excellent natural light to flood in.  A fabulous new wood pellet stove has been added to give a comfortable warm atmosphere to the rear part of the house. \r\n\r\n \r\nThe main living room at the front has a feature solid fuel fireplace with inset stove and stylish walnut floor. A spacious and well laid out utility with Amtico floor is off the kitchen / dining area.  A beautifully finished downstairs toilet and front office / study room with rear store room with back door access completes the ground floor accommodation.  \r\n\r\nUpstairs there are 4 fine bedrooms including the master en-suite with its lovely high ceiling and the beautifully revamped bathroom suite which is tiled throughout.  The master bedroom also features a double door Juliet balcony.  The main bathroom has been fully revamped to exacting standards.    \r\n\r\nOutside there is a fabulous composite decking area leading to the back garden which is a lovely private rear garden to include a lovely garden Steeltech shed suitable for many purposes.\r\n\r\nOutside there is a generous parking forecourt.  \r\n\r\nThis fabulous property offers an excellent opportunity to acquire one of the finest detached houses to come to the market in recent times.  \r\n\r\nCOMMENT :\r\n\r\nThis beautifully presented detached family home is coming onto the market in exceptional condition offering generous accommodation in a contemporary fashion within the heart of the sought after Medieval and Heritage town of Athenry with all its residential amenities and facilities on its doorstep."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "ACCOMMODATION:                   Approx Dimensions ( M )\r\nGround Floor :\r\nEntrance hall\tc. 5.128 x 2m plus centre area with Amtico parquet style flooring, new front door, recessed lights, stairway with carpet \r\nSitting room\tc. 3.954m x 4.898m with beautiful laminate walnut floor, feature fireplace with cast iron inset solid fuel stove, recessed lighting \r\nKitchen / dining room \tc. 4.667m x 3.941m open plan area with feature Amtico Parquet style flooring, stylish fitted kitchen, quartz worktop, double oven and hob, integrated dishwasher, ssu, integrated fridge freezer, larder, extractor hood, centre island unit with quartz worktop, feature lighting, recessed lights, custom made shelving\r\nRear sun room / \r\nFamily room \tc.5.808m x 3.878m with feature Amtico parquet style flooring, new wood pellet stove with timer / remote control, feature glazed area to rear and lovely sky lights, wall mounted radiator, triple glazing to sun room.  Note: ceiling height 2.58 m / 8.46 ft\r\nUtility \tc. 2.065m x 2.01m with fitted units, Amtico Parquet style floor, back door, plumbed for washing machine and dryer, built in shelving unit\r\nDownstairs toilet \tc. 2.014m x 1.355m with wc, whb, feature tiled floor and partly tiled walls \r\nFront office / study \tc. 2.979m x 3.778m with laminate floor, nice front window, blinds \r\nRear store room \tc. 2.999 m x 1.906m with boiler room, new back door\r\n\r\n\r\nUpstairs \r\nBedroom 1 / Master \tc. 3.961m x 3.319m plus 1.6m x 1.4m with carpet, lovely high ceiling height of 3m, Juliet glazed balcony with double doors \r\nEn-suite \tc. 1.996m x 1.685m plus shower section with wc, whb, shower, fully tiled floors and walls (newly done)\r\nLanding \twith fitted carpet, hot press off, Stira to floored attic \r\nBathroom \tc. 2.565m x 2.19m with wc, whb, fully revamped, bath and separate shower, fully tiled walls, side window with blinds, tiled / laminate floor, wall mounted radiator \r\nBedroom 2 (rear)\tc. 3.556m x 3.06m incl. fitted Sliderobes, blinds, laminate floor  \r\nBedroom 3 (rear)\tc. 3.554m x 2.908m incl. laminate floor, built in wardrobes \r\nBedroom 4 (front) \tc. 2.96m x 5.773m with laminate floor, blinds, fitted Sliderobes, Velux sky light \r\n\r\nOutside:\r\n•\tFront tarmac forecourt with ample parking \r\n•\tPrivate hedge and fencing \r\n•\tRear good size composite decking to garden \r\n•\tSide concrete area with annexe fuel store\r\n•\tSmall storage shed \r\n•\tGates to both sides of house \r\n•\tHigh mature trees offering privacy \r\n•\tRear enclosed gardens\r\n•\tEV Car Charger \r\n\r\nGarden room \t\r\nc. 5.845m x 2.794m (approx. 175 sq ft)\r\n-\ttimber inner cladding\r\n-\twired for ESB, lighting\r\n-\t2 windows \r\n-\tSolid concrete floor"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "PROPERTY FEATURES \r\n\r\n-\tBrand new gas boiler (Jun ’26)\r\n-\tRear Annexe built 2020 \r\n-\tSteeltech PVC clad garden room - Ideal for many uses to include \r\nhome office / gym / shed etc, sockets and ESB, lighting \r\n-\tHigh speed broadband \r\n-\tNew front door & 2 new back doors \r\n-\tNew internal doors \r\n-\tPVC double glazed windows, triple glazed to rear extension\r\n-\tRadiator covers \r\n-\tGas fired central heating - new boiler with app for control \r\n-\tGood floored attic – fully floored with Stira Stairs \r\n-\tBeautifully refurbished bathrooms and en-suite \r\n-\tBlinds throughout \r\n-\tPump shower system (pump in hot press) for both showers\r\n-\tFitted alarm (monitored alarm and smoke) – PHONE WATCH\r\n-\tBuilt in 2004 (extended 2020)"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B3"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Viewings are strictly by appointment with CATHAL MORAN AUCTIONEERS who are sole selling agents."
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 100,
+    "MaxEnergyRating": 100,
+    "BERGrade": "B",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-08-26T16:54:55.5630000+01:00",
+    "ModifiedOnDate": "2026-08-26T17:03:14.7030000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-26T17:03:20.7670000+01:00",
+    "RefreshedOn": "2026-08-26T17:03:20.7670000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+    "IsTransact": false,
+    "PriceAsString": "€575,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5024517,
+    "BedsString": "4 beds",
+    "SizeStringMeters": 178,
+    "DisplayAddress": "61 The Glade, Athenry, Galway",
+    "Eircode": "H65XV27",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 2013,
+    "RegionName": "Galway",
+    "LocalityId": 2018,
+    "LocalityName": "Athenry",
+    "Price": {
+      "MinPrice": 575000,
+      "MaxPrice": 575000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/3bd414fa-93de-4531-b806-f79e944d6d2d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/3bd414fa-93de-4531-b806-f79e944d6d2d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/3bd414fa-93de-4531-b806-f79e944d6d2d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/f0a7ee25-2daf-42ff-a0b6-21d20d4986d9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/f0a7ee25-2daf-42ff-a0b6-21d20d4986d9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/f0a7ee25-2daf-42ff-a0b6-21d20d4986d9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/8c406f7a-89bc-408c-ab2f-9824b5e29959_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/8c406f7a-89bc-408c-ab2f-9824b5e29959_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/8c406f7a-89bc-408c-ab2f-9824b5e29959_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/597e8e24-02d8-4de0-a169-e1daeebf0f8e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/597e8e24-02d8-4de0-a169-e1daeebf0f8e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/597e8e24-02d8-4de0-a169-e1daeebf0f8e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/afffd153-204f-40c8-a79b-c6b8ab23c0e4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/afffd153-204f-40c8-a79b-c6b8ab23c0e4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/afffd153-204f-40c8-a79b-c6b8ab23c0e4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/fde8c061-f553-4c45-a87d-c676cff14fa4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/fde8c061-f553-4c45-a87d-c676cff14fa4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/fde8c061-f553-4c45-a87d-c676cff14fa4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/06f00381-a8ea-4963-b6f3-407f6a865e06_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/06f00381-a8ea-4963-b6f3-407f6a865e06_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/06f00381-a8ea-4963-b6f3-407f6a865e06_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/c5710d43-3347-45ff-8032-e033d8f8d842_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/c5710d43-3347-45ff-8032-e033d8f8d842_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/c5710d43-3347-45ff-8032-e033d8f8d842_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/17a22332-ecf4-4659-8852-289b8ba78ac6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/17a22332-ecf4-4659-8852-289b8ba78ac6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/17a22332-ecf4-4659-8852-289b8ba78ac6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/710d01dc-848c-44b7-96f0-28207ed19d9b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/710d01dc-848c-44b7-96f0-28207ed19d9b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/710d01dc-848c-44b7-96f0-28207ed19d9b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/352a0b8b-9128-4d8c-b019-efffe8c394b1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/352a0b8b-9128-4d8c-b019-efffe8c394b1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/352a0b8b-9128-4d8c-b019-efffe8c394b1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/02d31884-8903-4c11-8ca4-28bcb3323ce7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/02d31884-8903-4c11-8ca4-28bcb3323ce7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/02d31884-8903-4c11-8ca4-28bcb3323ce7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/4af370d7-4999-4323-97d2-9f3863109e57_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/4af370d7-4999-4323-97d2-9f3863109e57_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/4af370d7-4999-4323-97d2-9f3863109e57_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b380bdeb-4409-465c-ad8b-cbf3cb9408b9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b380bdeb-4409-465c-ad8b-cbf3cb9408b9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b380bdeb-4409-465c-ad8b-cbf3cb9408b9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/14ee6eb8-8e51-466d-92c5-8fdcd762c7bc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/14ee6eb8-8e51-466d-92c5-8fdcd762c7bc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/14ee6eb8-8e51-466d-92c5-8fdcd762c7bc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/77681d40-8b1f-4cf0-97bc-2b77503efc1d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/77681d40-8b1f-4cf0-97bc-2b77503efc1d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/77681d40-8b1f-4cf0-97bc-2b77503efc1d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/cab9594a-53ee-4b4c-8cdc-a1dd8ceb03a0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/cab9594a-53ee-4b4c-8cdc-a1dd8ceb03a0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/cab9594a-53ee-4b4c-8cdc-a1dd8ceb03a0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b06638b0-b75f-4c74-aab3-336a45820d26_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b06638b0-b75f-4c74-aab3-336a45820d26_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/b06638b0-b75f-4c74-aab3-336a45820d26_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/446b9510-eee5-4554-a13b-1865dbcb8ec3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/446b9510-eee5-4554-a13b-1865dbcb8ec3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/446b9510-eee5-4554-a13b-1865dbcb8ec3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/03269bee-2888-452e-a5a8-4b9ef91e8b1b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/03269bee-2888-452e-a5a8-4b9ef91e8b1b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5024517/03269bee-2888-452e-a5a8-4b9ef91e8b1b_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -8.757098599999999,
+      "latitude": 53.3023174
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 20,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9160,
+    "Name": "Cathal Moran Auctioneers ",
+    "DisplayPhone": "091 850 802",
+    "Email": "info@cathalmoran.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "cathal-moran-auctioneers",
+    "SeoName": "cathal-moran-auctioneers",
+    "Address": "Exchange House, Church Street, Athenry, Co. Galway",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/6/1/9160/logo.jpg",
+    "SalesLicense": "001860",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "athenry/2018",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5023153,
+      "PropertyClassId": 1,
+      "DisplayAddress": "30 Cluain Lara, Athenry, Co. Galway",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/5/1/5023153/ca65967d-ac51-4549-983d-363738c506c5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/30-cluain-lara-athenry-co-galway/5023153"
+    },
+    {
+      "PropertyId": 5001934,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ryehill , Monivea , Co. Galway",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/9/5001934/316affa8-25e0-4e65-9e0b-f78e2945b849_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ryehill-monivea-co-galway/5001934"
+    },
+    {
+      "PropertyId": 4946795,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Currafaireen, Monivea, Co. Galway",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/7/4946795/5c4aaf48-01b9-4746-9a6f-4a5bf7c2fd08_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/currafaireen-monivea-co-galway/4946795"
+    },
+    {
+      "PropertyId": 4838418,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Carrownagower, Athenry, Co.Galway",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/1/4/4838418/59ee9743-4071-43e0-b6fe-2c60729820a1_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/carrownagower-athenry-co-galway/4838418"
+    },
+    {
+      "PropertyId": 4802215,
+      "PropertyClassId": 1,
+      "DisplayAddress": "18 AN CLARIN , BLOCK B , PROSPECT, ATHENRY, CO. GALWAY",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/1/2/4802215/df0048df-e7c0-4682-90c4-8fc74601f0f8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/18-an-clarin-block-b-prospect-athenry-co-galway/4802215"
+    },
+    {
+      "PropertyId": 4745719,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Knockcorrandoo, Monivea, Co. Galway",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/1/7/4745719/853dcc25-1f2f-4575-bb53-34a1d7287782_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/knockcorrandoo-monivea-co-galway/4745719"
+    },
+    {
+      "PropertyId": 4347229,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Belleville, Monivea, Co. Galway",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/2/4347229/cfd56fcd-6976-4684-a5f5-a5ce6392ffac_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/belleville-monivea-co-galway/4347229"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/61-the-glade-athenry-galway/5024517",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9160,
+    "MYH_LocalityID": 2018,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2013,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Garden",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Cable Television,Central Heating,Microwave,Garden,Alarm",
+    "MYH_MaxPrice": 600000,
+    "MYH_MinBeds": 4,
+    "MYH_MinEnergyRating": 100,
+    "MYH_MinPrice": 600000,
+    "MYH_MinSize": 178,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5024517,
+    "MYH_PropertyTypeID": 39
+  }
+}

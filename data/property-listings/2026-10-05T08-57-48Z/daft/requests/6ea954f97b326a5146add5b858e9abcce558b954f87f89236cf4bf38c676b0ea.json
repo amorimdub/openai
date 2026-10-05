@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=32",
+  "fetchedAt": "2026-10-05T09:34:40.943Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=32",
+  "kind": "search",
+  "responseSha256": "0783386235ac2eb6c9df131e39f58720831387444e3edfa52bce6fe593c72cb7",
+  "files": [
+    {
+      "path": "daft/01474-6ea954f97b326a51-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "d9408f784302211a4a71426add5194a142dcd6f81410941ea51a89cf2facb25b",
+      "bytes": 303912
+    },
+    {
+      "path": "daft/01474-6ea954f97b326a51-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01474-6ea954f97b326a51-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "f37c4cd47ce52e0118607747ce4a26884244636de363fb27a039abe15c3b679a",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/1-ailesbury-road-ballsbridge-dublin-4/6282607",
+    "https://www.daft.ie/for-sale/26-fountain-court-tralee-tralee-co-kerry/6662967",
+    "https://www.daft.ie/for-sale/28-bunratty-castle-gardens-bunratty-co-clare/6655104",
+    "https://www.daft.ie/for-sale/20-castleview-row-swords-co-dublin/6666885",
+    "https://www.daft.ie/for-sale/whispering-pines-newtown-trim-co-meath/6507851",
+    "https://www.daft.ie/for-sale/carstown-termonfeckin-termonfeckin-co-louth/6651578",
+    "https://www.daft.ie/for-sale/25-castlewood-park-rathmines-dublin-6/6666425",
+    "https://www.daft.ie/for-sale/101a-maples-road-wedgewood-sandyford-dublin-16/6657211",
+    "https://www.daft.ie/for-sale/furstville-sarsfield-road-ballinasloe-co-galway/6613023",
+    "https://www.daft.ie/for-sale/9-country-meadows-tuam-co-galway/6622514",
+    "https://www.daft.ie/for-sale/19-the-cricket-fields-dunmore-road-tuam-co-galway/6620649",
+    "https://www.daft.ie/for-sale/kilcreevanty-tuam-co-galway/6620560",
+    "https://www.daft.ie/for-sale/knockma-cottage-biggera-beg-belclare-corrandulla-co-galway/6622761",
+    "https://www.daft.ie/for-sale/gort-an-tsruth-in-garrafrauns-ardcloon-co-galway/6645345",
+    "https://www.daft.ie/for-sale/70-toberjarlath-road-tuam-co-galway/6645493",
+    "https://www.daft.ie/for-sale/39-palace-fields-tuam-co-galway/6645423",
+    "https://www.daft.ie/for-sale/62-woodfield-galway-road-tuam-co-galway/6649149",
+    "https://www.daft.ie/for-sale/hannons-house-tullinadaly-road-tuam-co-galway/6653590",
+    "https://www.daft.ie/for-sale/10-dun-na-mara-renmore-co-galway/6647490",
+    "https://www.daft.ie/for-sale/20-nuns-island-galway-nuns-island-co-galway/6653945"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=33",
+  "paginationLimited": false
+}

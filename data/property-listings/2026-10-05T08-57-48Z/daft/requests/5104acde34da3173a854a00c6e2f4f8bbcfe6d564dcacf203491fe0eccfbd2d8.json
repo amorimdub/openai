@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/studio-apartment-dx-living-donnybrook-road-dublin-4/5926596",
+  "fetchedAt": "2026-10-05T09:02:42.947Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/studio-apartment-dx-living-donnybrook-road-dublin-4/5926596",
+  "kind": "listing",
+  "responseSha256": "27f7a619b7177467bc9b6193bc6a074f8dac5c95fe999d50633ef0f3d785b5f5",
+  "files": [
+    {
+      "path": "daft/00197-5104acde34da3173-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3e617321f3affaf4182bc4401ff040c933d9b2d928551ac313f3ba2dc595ee34",
+      "bytes": 86817
+    },
+    {
+      "path": "daft/00197-5104acde34da3173-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0c593591c4c78806cc419deb203192839d6eb51df6a5b9ebe48128a97d841071",
+      "bytes": 7937
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

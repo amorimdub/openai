@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/charlemont-square-charlemont-street-dublin-2/3733190",
+  "fetchedAt": "2026-10-05T09:10:02.950Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/charlemont-square-charlemont-street-dublin-2/3733190",
+  "kind": "listing",
+  "responseSha256": "2c7bea2cb14badaa72274f15919c3b54dc00884f46a4e6802469a5372c9436f7",
+  "files": [
+    {
+      "path": "daft/00490-8fce2dff9cadde1c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "26abb21311843cb94d0596697a3bda195f018090fd54b94e72723491a44955c5",
+      "bytes": 156738
+    },
+    {
+      "path": "daft/00490-8fce2dff9cadde1c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76124a53c86ef5424ab9108be926747d90da572a30847fd5f8f56ed8cd94e51e",
+      "bytes": 8060
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

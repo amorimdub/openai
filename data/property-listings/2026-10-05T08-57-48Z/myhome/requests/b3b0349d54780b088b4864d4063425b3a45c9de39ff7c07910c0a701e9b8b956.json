@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=180",
+  "fetchedAt": "2026-10-05T11:47:19.379Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=180",
+  "kind": "search",
+  "responseSha256": "121c328e4decb2ab7fc786756fdbfe2d3371ba1b8e5978eef14a326d5ee4d9d9",
+  "files": [
+    {
+      "path": "myhome/04237-b3b0349d54780b08-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=180\"].SearchResults",
+      "sha256": "c9a3fe14b672c8905bcea0f7f984ef8afb535238eb291ceaa6013e5db23b2022",
+      "bytes": 102539
+    },
+    {
+      "path": "myhome/04237-b3b0349d54780b08-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=180\"] (paging fields)",
+      "sha256": "dc21f271f23f4d215b1498a963ccd4b1d1d53eeb80bbd3cfd516e69d8dda2154",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-15-deerpark-lodge-kiltipper-dublin-24/5023567",
+    "https://www.myhome.ie/residential/brochure/apt-4-clonee-court-clonee-dublin-15/5027222",
+    "https://www.myhome.ie/residential/brochure/apartment-21-tir-connell-grove-inchicore-dublin-8/5027243",
+    "https://www.myhome.ie/residential/brochure/6-allendale-view-clonsilla-dublin-15/5026037",
+    "https://www.myhome.ie/residential/brochure/8-inniscarra-road-fairhill-cork/5019134",
+    "https://www.myhome.ie/residential/brochure/mincloon-rahoon-road-rahoon-galway/5028165",
+    "https://www.myhome.ie/residential/brochure/1-riverchapel-glen-riverchapel-courtown-co-wexford/4964527",
+    "https://www.myhome.ie/residential/brochure/oakfield-dunboyne-meath-the-willow-2-bedroom-apartment/5028157",
+    "https://www.myhome.ie/residential/brochure/the-talon-miller-s-glen-apartments-swords-dublin/5027696",
+    "https://www.myhome.ie/residential/brochure/the-swallow-miller-s-glen-apartments-swords-dublin/5027701",
+    "https://www.myhome.ie/residential/brochure/21-bellevue-court-old-youghal-road-st-lukes-cork/5028151",
+    "https://www.myhome.ie/residential/brochure/18-herbert-grove-castletroy-view-limerick-county-limerick/5028154",
+    "https://www.myhome.ie/residential/brochure/135-pearse-street-dublin-2-co-dublin/5028153",
+    "https://www.myhome.ie/residential/brochure/8-6-acres-at-curragreen-coast-road-roscam-galway/5028150",
+    "https://www.myhome.ie/residential/brochure/5-raleigh-square-crumlin-dublin-12/5024303",
+    "https://www.myhome.ie/residential/brochure/apt-48-convent-hall-mount-saint-anne-s-milltown-dublin-6/5026174",
+    "https://www.myhome.ie/residential/brochure/14-oxford-road-ranelagh-dublin-6/5022948",
+    "https://www.myhome.ie/residential/brochure/muingaroon-belmullet-mayo/5028148",
+    "https://www.myhome.ie/residential/brochure/88-upper-yellow-road-waterford-city-waterford/5026643",
+    "https://www.myhome.ie/residential/brochure/11-kilcleagh-park-castledaly-westmeath/5028149"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=181",
+  "paginationLimited": false
+}

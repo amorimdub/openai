@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST LEONARD'S NATIONAL SCHOOL",
+      "numPupils": 112,
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.259624",
+        "lon": "-6.804219"
+      }
+    },
+    {
+      "schoolName": "BALLYCULLANE NATIONAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 3.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.279660",
+        "lon": "-6.839026"
+      }
+    },
+    {
+      "schoolName": "SHIELBEGGAN CONVENT",
+      "numPupils": 29,
+      "distance": {
+        "value": 4.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.258040",
+        "lon": "-6.874968"
+      }
+    },
+    {
+      "schoolName": "CLONGEEN NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 4.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.296814",
+        "lon": "-6.770272"
+      }
+    },
+    {
+      "schoolName": "DANESCASTLE NATIONAL SCHOOL",
+      "numPupils": 139,
+      "distance": {
+        "value": 5.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.239388",
+        "lon": "-6.732147"
+      }
+    },
+    {
+      "schoolName": "GUSSERANE NATIONAL SCHOOL",
+      "numPupils": 75,
+      "distance": {
+        "value": 6.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.308350",
+        "lon": "-6.859686"
+      }
+    },
+    {
+      "schoolName": "BALLYMITTY NATIONAL SCHOOL",
+      "numPupils": 148,
+      "distance": {
+        "value": 6.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.278683",
+        "lon": "-6.715078"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHAODHÓIG POULFUR",
+      "numPupils": 238,
+      "distance": {
+        "value": 6.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.203390",
+        "lon": "-6.855828"
+      }
+    },
+    {
+      "schoolName": "RAMSGRANGE NATIONAL SCHOOL",
+      "numPupils": 52,
+      "distance": {
+        "value": 7.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.245730",
+        "lon": "-6.920183"
+      }
+    },
+    {
+      "schoolName": "DUNCANNON NATIONAL SCHOOL",
+      "numPupils": 73,
+      "distance": {
+        "value": 9.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.225037",
+        "lon": "-6.931638"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "RAMSGRANGE COMMUNITY SCHOOL",
+      "numPupils": 628,
+      "distance": {
+        "value": 7.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.245438",
+        "lon": "-6.916187"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ABBÁIN",
+      "numPupils": 461,
+      "distance": {
+        "value": 16.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393017",
+        "lon": "-6.718565"
+      }
+    },
+    {
+      "schoolName": "KENNEDY COLLEGE",
+      "numPupils": 196,
+      "distance": {
+        "value": 16.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.391003",
+        "lon": "-6.932853"
+      }
+    },
+    {
+      "schoolName": "GOOD COUNSEL COLLEGE",
+      "numPupils": 763,
+      "distance": {
+        "value": 17.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.395830",
+        "lon": "-6.931456"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S SECONDARY SCHOOL",
+      "numPupils": 713,
+      "distance": {
+        "value": 17.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.399487",
+        "lon": "-6.930870"
+      }
+    },
+    {
+      "schoolName": "BRIDGETOWN COLLEGE",
+      "numPupils": 637,
+      "distance": {
+        "value": 17.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.228535",
+        "lon": "-6.549776"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS SECONDARY SCHOOL",
+      "numPupils": 413,
+      "distance": {
+        "value": 17.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.398540",
+        "lon": "-6.940957"
+      }
+    },
+    {
+      "schoolName": "OUR LADY OF LOURDES SECONDARY SCHOOL",
+      "numPupils": 194,
+      "distance": {
+        "value": 18.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.398296",
+        "lon": "-6.953164"
+      }
+    },
+    {
+      "schoolName": "ABBEY COMMUNITY COLLEGE",
+      "numPupils": 998,
+      "distance": {
+        "value": 19.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.264393",
+        "lon": "-7.098769"
+      }
+    },
+    {
+      "schoolName": "NEWTOWN SCHOOL",
+      "numPupils": 406,
+      "distance": {
+        "value": 19.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.251520",
+        "lon": "-7.100811"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Curraghmore",
+      "route": "392",
+      "destination": "Ballinaboola",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 1.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.253706",
+        "lon": "-6.831277"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kinnagh",
+      "route": "392",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.267046",
+        "lon": "-6.83501"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tintern",
+      "route": "399",
+      "destination": "Hook Head",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 2.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.244138",
+        "lon": "-6.833237"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballycullane",
+      "route": "392",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.280103",
+        "lon": "-6.839647"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballytarsna",
+      "route": "392",
+      "destination": "Wellingtonbridge",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.284259",
+        "lon": "-6.840992"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rochestown",
+      "route": "388",
+      "destination": "Duncormick",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.28457",
+        "lon": "-6.77307"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Saltmills",
+      "route": "399",
+      "destination": "Ramsgrange",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.225955",
+        "lon": "-6.83315"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Wellingtonbridge",
+      "route": "372",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.266779",
+        "lon": "-6.750003"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Wellingtonbridge",
+      "route": "370",
+      "destination": "Rosslare Harbour",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.266779",
+        "lon": "-6.750003"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Wellingtonbridge",
+      "route": "392",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.266644",
+        "lon": "-6.749934"
+      }
+    }
+  ]
+}

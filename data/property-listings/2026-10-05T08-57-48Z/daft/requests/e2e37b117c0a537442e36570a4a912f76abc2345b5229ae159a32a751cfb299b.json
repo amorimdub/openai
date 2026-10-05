@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-saint-davids-well-bridgetown-co-wexford/6684639",
+  "fetchedAt": "2026-10-05T09:41:36.937Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-saint-davids-well-bridgetown-co-wexford/6684639",
+  "kind": "listing",
+  "responseSha256": "cb1b25dcc7a50aff16e4e872160a3f7ad8c5021c96c5d2820c14a2785ed802b3",
+  "files": [
+    {
+      "path": "daft/01751-e2e37b117c0a5374-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "218c97b5e75886455a3fc5f24f53fa49d58e6293a4f4cfca5193aa59daa6ebdc",
+      "bytes": 40030
+    },
+    {
+      "path": "daft/01751-e2e37b117c0a5374-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d3d74a0e5cf603cac61772b4b807e875ace2176da540c81b362879c2171328bd",
+      "bytes": 8182
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

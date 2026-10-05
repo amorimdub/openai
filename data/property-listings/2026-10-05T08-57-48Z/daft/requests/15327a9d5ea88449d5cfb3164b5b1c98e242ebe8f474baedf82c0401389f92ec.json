@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-5-old-school-house-cavan-road-virginia-co-cavan/6682874",
+  "fetchedAt": "2026-10-05T09:52:12.491Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-5-old-school-house-cavan-road-virginia-co-cavan/6682874",
+  "kind": "listing",
+  "responseSha256": "b79f47fdea6443225f1bfe53cfd19ee4b5745d8d89c27ad891c30adc65877c60",
+  "files": [
+    {
+      "path": "daft/02174-15327a9d5ea88449-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2e9abaad069907363843a043059827814ddacb8e2111881c71c8e86786963a70",
+      "bytes": 28313
+    },
+    {
+      "path": "daft/02174-15327a9d5ea88449-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a87429cfea05d5fd21d8e36e2b5238e14651d906b228e15fe19f77cff1fea51e",
+      "bytes": 8170
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

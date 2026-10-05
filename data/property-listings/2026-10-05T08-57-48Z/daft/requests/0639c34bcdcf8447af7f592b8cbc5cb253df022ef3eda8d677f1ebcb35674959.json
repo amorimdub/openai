@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/16-oakcourt-park-palmerstown-dublin-20/6614544",
+  "fetchedAt": "2026-10-05T09:28:34.498Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/16-oakcourt-park-palmerstown-dublin-20/6614544",
+  "kind": "listing",
+  "responseSha256": "05418a56804ad005046e36b4cf1194cebee74c8e483b54d57484f358ee158bf5",
+  "files": [
+    {
+      "path": "daft/01230-0639c34bcdcf8447-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fcdc67e57173164eb7195c2d83485eba29aebbfa0dc70214a2aa9d0ec5decdff",
+      "bytes": 53708
+    },
+    {
+      "path": "daft/01230-0639c34bcdcf8447-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "25e1b761d9abcc236ca996b986507eecb1796e27000e5d97e4e56964b86df431",
+      "bytes": 8139
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

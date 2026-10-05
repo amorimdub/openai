@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/chestnut-grove-kingswood-tallaght-dublin-24/6607920",
+  "fetchedAt": "2026-10-05T09:20:36.759Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/chestnut-grove-kingswood-tallaght-dublin-24/6607920",
+  "kind": "listing",
+  "responseSha256": "77b1f11362f0bc0f9c77602963c48eab8c7d39e98e12a8e82f8f3ae7d802cf03",
+  "files": [
+    {
+      "path": "daft/00912-abdf8235ecf61ef0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5a7596d6c7317442138c93f122dbc38fb76da45c293a699d4fa4a363d86ec5fa",
+      "bytes": 11364
+    },
+    {
+      "path": "daft/00912-abdf8235ecf61ef0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d92fd8cb590654d33747c50da9f2fc6111d5c2c7eea5fe2e75d0ebda856a9102",
+      "bytes": 8078
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

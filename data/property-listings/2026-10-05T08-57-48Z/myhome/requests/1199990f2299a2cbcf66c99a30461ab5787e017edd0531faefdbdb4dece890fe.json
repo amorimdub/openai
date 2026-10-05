@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=24",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=24",
+  "fetchedAt": "2026-10-05T09:20:12.343Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e5dcb2496a5b1c64cf6a1ca83f90908b09be0603be941d864f59578d2dc99457",
+  "files": [
+    {
+      "path": "myhome/00891-1199990f2299a2cb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=24\"].SearchResults",
+      "sha256": "629345989f2fce650f51c48b3117088421a4b947720ad94c3cdf31a2971db075",
+      "bytes": 80475
+    },
+    {
+      "path": "myhome/00891-1199990f2299a2cb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=24\"] (paging fields)",
+      "sha256": "c7c03a70ecda60530bd791f4fbdf861ce24758fea6d3f193912a54ffa2ac28df",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/jameson-orchard-malahide-dublin/4967955",
+    "https://www.myhome.ie/rentals/brochure/apartment-1-94-drumcondra-road-lower-drumcondra-dublin-9-drumcondra-dublin-9/4967530",
+    "https://www.myhome.ie/rentals/brochure/church-road-kilmuckridge-gorey-county-wexford/4961450",
+    "https://www.myhome.ie/rentals/brochure/2-bothar-na-carraig-dundalk-county-louth/4960992",
+    "https://www.myhome.ie/rentals/brochure/no-1-william-street-raphoe-county-donegal/4960935",
+    "https://www.myhome.ie/rentals/brochure/clonsilla-road-clonsilla-dublin-15/4960029",
+    "https://www.myhome.ie/rentals/brochure/the-carriageworks-dublin-1-dublin/4959132",
+    "https://www.myhome.ie/rentals/brochure/the-carriageworks-dublin-1-dublin/4959131",
+    "https://www.myhome.ie/rentals/brochure/unit-1-killinagh-carbury-county-kildare/4958543",
+    "https://www.myhome.ie/rentals/brochure/the-benson-marine-school-walk-dublin-2/4957678",
+    "https://www.myhome.ie/rentals/brochure/overrlooking-doolin-village-doolin-clare/4957189",
+    "https://www.myhome.ie/rentals/brochure/loreto-road-killarney-kerry/4954291",
+    "https://www.myhome.ie/rentals/brochure/apt-4a-curryhills-maynooth-road-prosperous-co-kildare/4949847",
+    "https://www.myhome.ie/rentals/brochure/12-lambourne-village-clontarf-dublin-3/4947007",
+    "https://www.myhome.ie/rentals/brochure/alpine-service-station-hobartstown-moone-kildare/4949033",
+    "https://www.myhome.ie/rentals/brochure/millrace-road-phoenix-park-racecourse-castleknock-dublin-15/4949449",
+    "https://www.myhome.ie/rentals/brochure/unit-3-the-distillery-building-drumcondra-dublin-3/4949271",
+    "https://www.myhome.ie/rentals/brochure/grange-edenderry-kildare/4838293",
+    "https://www.myhome.ie/rentals/brochure/park-lodge-north-circular-road-dublin-7/4941809",
+    "https://www.myhome.ie/rentals/brochure/6-tivoli-terrace-south-dun-laoghaire-dublin/4326560"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=25",
+  "paginationLimited": false
+}

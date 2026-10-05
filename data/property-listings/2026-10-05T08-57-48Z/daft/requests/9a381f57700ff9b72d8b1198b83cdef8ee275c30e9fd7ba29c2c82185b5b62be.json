@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/belgrave-road-rathmines-dublin-6/6683856",
+  "fetchedAt": "2026-10-05T09:46:40.451Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/belgrave-road-rathmines-dublin-6/6683856",
+  "kind": "listing",
+  "responseSha256": "34f46b56f3e5657b8f4df5b46763c8981230c140ac125771bfb1eff93077d7b3",
+  "files": [
+    {
+      "path": "daft/01953-9a381f57700ff9b7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1d8229da93f5d8c312f02af35f5c56b584f94f17a9b5ef7d09387189dc6e71b5",
+      "bytes": 22805
+    },
+    {
+      "path": "daft/01953-9a381f57700ff9b7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a1a8e2e1fc09a6e84d13af09d4026894f7da7e169c8efbc33e128ff2aa5ad56a",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

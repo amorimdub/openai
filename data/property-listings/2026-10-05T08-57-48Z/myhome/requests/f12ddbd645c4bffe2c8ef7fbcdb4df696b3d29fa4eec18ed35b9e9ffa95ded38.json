@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=463",
+  "fetchedAt": "2026-10-05T14:13:13.833Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=463",
+  "kind": "search",
+  "responseSha256": "4eb7023c019d568cedf551f587fc46a8d8304f2ee079464458816cf4723ab35e",
+  "files": [
+    {
+      "path": "myhome/10056-f12ddbd645c4bffe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=463\"].SearchResults",
+      "sha256": "53d56028f48fafbafa4ba9ad52d8934dbbbdec695750b4221ecbdf82ac2c5c86",
+      "bytes": 114854
+    },
+    {
+      "path": "myhome/10056-f12ddbd645c4bffe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=463\"] (paging fields)",
+      "sha256": "894dac452579ded73a1834d15c30f4b262a979a66da4a3e3bf63b5761c9de41a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/zephyr-lodge-williamstown-kells-williamstown-co-meath/5007162",
+    "https://www.myhome.ie/residential/brochure/51-glen-ellan-green-swords-county-dublin/4991557",
+    "https://www.myhome.ie/residential/brochure/9-chestnut-avenue-fota-rock-carrigtwohill-cork/5007147",
+    "https://www.myhome.ie/residential/brochure/26-sorrel-dale-clonsilla-dublin-15/5007140",
+    "https://www.myhome.ie/residential/brochure/samares-51-woodvale-road-beaumont-ballintemple-cork/5006735",
+    "https://www.myhome.ie/residential/brochure/18-dodsborough-road-lucan-dublin/5007132",
+    "https://www.myhome.ie/residential/brochure/rathmoyle-cresent-abbeyleix-co-laois/5007127",
+    "https://www.myhome.ie/residential/brochure/apt-15-howth-junction-court-donaghmede-dublin-13/5002314",
+    "https://www.myhome.ie/residential/brochure/9-ardmanagh-beg-schull-west-cork/5007037",
+    "https://www.myhome.ie/residential/brochure/timber-lodge-kilbrannish-bunclody-county-carlow/4960864",
+    "https://www.myhome.ie/residential/brochure/malfbern-beamore-road-drogheda-meath/5007119",
+    "https://www.myhome.ie/residential/brochure/1b-esker-glebe-lucan-co-dublin/5007108",
+    "https://www.myhome.ie/residential/brochure/no-2-main-street-carnew-county-wicklow/5007106",
+    "https://www.myhome.ie/residential/brochure/1-glenview-kilgarron-hill-enniskerry-co-wicklow/5007093",
+    "https://www.myhome.ie/residential/brochure/kilmeaney-kilmorna-listowel-co-kerry/5007059",
+    "https://www.myhome.ie/residential/brochure/cloosh-kinvara-co-galway/5007058",
+    "https://www.myhome.ie/residential/brochure/53-knocklyon-road-knocklyon-dublin-16/4990615",
+    "https://www.myhome.ie/residential/brochure/1730-pairc-mhuire-newbridge-co-kildare/5007043",
+    "https://www.myhome.ie/residential/brochure/crumlin-ardara-county-donegal/5007038",
+    "https://www.myhome.ie/residential/brochure/main-street-banagher-offaly/5006511"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=464",
+  "paginationLimited": false
+}

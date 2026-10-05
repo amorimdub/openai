@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/21-springfield-glen-navan-co-meath/6546711",
+  "fetchedAt": "2026-10-05T09:40:12.809Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/21-springfield-glen-navan-co-meath/6546711",
+  "kind": "listing",
+  "responseSha256": "03003ab8d65b6593073f21799236dd10c949f64b5f7afb9092b20d12775b39a5",
+  "files": [
+    {
+      "path": "daft/01695-796b6d5e90426fac-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9ba541b96c5e7bdb56bc63f2fb4f8b641b82ae0ae2762615a4dac1c9e0ef9fc2",
+      "bytes": 99950
+    },
+    {
+      "path": "daft/01695-796b6d5e90426fac-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "99a7804c457c4a9bed1b4d4b8d2313701be9ddf95fae978752671265d700b65f",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

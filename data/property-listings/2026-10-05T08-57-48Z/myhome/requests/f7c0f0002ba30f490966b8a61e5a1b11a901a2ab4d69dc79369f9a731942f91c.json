@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=191",
+  "fetchedAt": "2026-10-05T11:53:02.062Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=191",
+  "kind": "search",
+  "responseSha256": "8d4f565647222f218aaa8fac2c4d0877c119a30ca166d138ae6cfb41c20225c7",
+  "files": [
+    {
+      "path": "myhome/04465-f7c0f0002ba30f49-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=191\"].SearchResults",
+      "sha256": "26ddf7ac3e0a38541f6aa41319a615725994ce069084cb3c3b33ad0a210039ff",
+      "bytes": 123128
+    },
+    {
+      "path": "myhome/04465-f7c0f0002ba30f49-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=191\"] (paging fields)",
+      "sha256": "e519aaaf92361b5737529461fdbdd128c0c3a8a02fd309df4c799b90909060d1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-logans-bridge-mountshannon-clare/5027860",
+    "https://www.myhome.ie/residential/brochure/30-radcliffe-sutton-dublin-13/5027192",
+    "https://www.myhome.ie/residential/brochure/no-75-tefrfia-park-longford-longford/5027858",
+    "https://www.myhome.ie/residential/brochure/cordalea-killeshandra-co-cavan/5027859",
+    "https://www.myhome.ie/residential/brochure/1-kelly-s-bay-parade-skerries-county-dublin/5014637",
+    "https://www.myhome.ie/residential/brochure/22-sandyford-hall-place-sandyford-dubin-18/5027857",
+    "https://www.myhome.ie/residential/brochure/26-summit-place-duncannon-new-ross-co-wexford/5027855",
+    "https://www.myhome.ie/residential/brochure/3-gort-na-gcrann-kilcolgan-galway/5027718",
+    "https://www.myhome.ie/residential/brochure/threecastles-manor-kilbride-blessington-wicklow/5027851",
+    "https://www.myhome.ie/residential/brochure/37-llewellyn-court-rathfarnham-dublin-16/5027849",
+    "https://www.myhome.ie/residential/brochure/newtowngore-co-leitrim/5027848",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-apartment-woodbrook-point-woodbrook-shankill-co-dublin/4942841",
+    "https://www.myhome.ie/residential/brochure/manresa-old-naas-road-dublin-12/5027847",
+    "https://www.myhome.ie/residential/brochure/apt-2-killiney-hill-plaza-killiney-hill-road-killiney-county-dublin/5014881",
+    "https://www.myhome.ie/residential/brochure/18-all-hallows-square-drumcondra-dublin-9/5021622",
+    "https://www.myhome.ie/residential/brochure/honeysuckle-lodge-ardataggle-o-briens-bridge-co-clare/5027846",
+    "https://www.myhome.ie/residential/brochure/6-hampton-green-navan-road-dublin-7/5027845",
+    "https://www.myhome.ie/residential/brochure/9a-thomas-court-the-liberties-dublin-8/5027844",
+    "https://www.myhome.ie/residential/brochure/elmville-12a-elm-park-ennis-road-limerick/5027843",
+    "https://www.myhome.ie/residential/brochure/annagharvey-tullamore-co-offaly/5027842"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=192",
+  "paginationLimited": false
+}

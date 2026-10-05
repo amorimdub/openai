@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=418",
+  "fetchedAt": "2026-10-05T13:49:57.491Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=418",
+  "kind": "search",
+  "responseSha256": "1563dbe532be9087f5c3954783c6f28d7afda93a4da931ec070f67ce161f3314",
+  "files": [
+    {
+      "path": "myhome/09127-87930d3c0b486e16-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=418\"].SearchResults",
+      "sha256": "e96a60beecc1a8cb5f102d91c9f3b3bfee31c3d4c9dcc7ea92f70379261b5f09",
+      "bytes": 112647
+    },
+    {
+      "path": "myhome/09127-87930d3c0b486e16-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=418\"] (paging fields)",
+      "sha256": "944657c5a7c1ca8423d3430351afa8bf00d72265bac8323479e83257c58ce76b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/59-blarney-street-cork-city-cork/5011779",
+    "https://www.myhome.ie/residential/brochure/thornhill-house-strandhill-road-sligo-town-sligo/5011781",
+    "https://www.myhome.ie/residential/brochure/newtown-rosscarbery-west-cork/4927882",
+    "https://www.myhome.ie/residential/brochure/the-firs-5-patrcian-drive-carrickmacross-county-monaghan/5011772",
+    "https://www.myhome.ie/residential/brochure/50-the-willows-classes-lake-ovens-cork/5011761",
+    "https://www.myhome.ie/residential/brochure/barrymore-hodson-bay-athlone-co-roscommon/5011759",
+    "https://www.myhome.ie/residential/brochure/35-orwell-woods-rathgar-dublin-6/4976032",
+    "https://www.myhome.ie/residential/brochure/rackardstown-kilmore-village-wexford/5011738",
+    "https://www.myhome.ie/residential/brochure/46-moanbane-park-kilcullen-kildare/4962629",
+    "https://www.myhome.ie/residential/brochure/dun-deada-grange-hill-ovens-co-cork/5011743",
+    "https://www.myhome.ie/residential/brochure/fatima-glencar-letterkenny-letterkenny-donegal/5011730",
+    "https://www.myhome.ie/residential/brochure/drumhillagh-ballybay-monaghan/5011667",
+    "https://www.myhome.ie/residential/brochure/the-faugheen-tipperstown-walk-tipper-road-naas-co-kildare-naas-kildare/4994963",
+    "https://www.myhome.ie/residential/brochure/20-wolfe-tone-street-clonakilty-west-cork/5011012",
+    "https://www.myhome.ie/residential/brochure/9-church-lane-new-ross-wexford/5011662",
+    "https://www.myhome.ie/residential/brochure/site-no-2-at-garden-vale-greengates-blackrock-louth/5011706",
+    "https://www.myhome.ie/residential/brochure/4-the-break-colla-road-schull-west-cork/5011665",
+    "https://www.myhome.ie/residential/brochure/apartment-11b-brooklawn-ballaghaderreen-co-roscommon/5011699",
+    "https://www.myhome.ie/residential/brochure/82-block-5a-the-casino-dublin-road-malahide-malahide-county-dublin/5011671",
+    "https://www.myhome.ie/residential/brochure/bru-na-sionna-shannon-town-centre-shannon-co-clare-shannon-clare/5011687"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=419",
+  "paginationLimited": false
+}

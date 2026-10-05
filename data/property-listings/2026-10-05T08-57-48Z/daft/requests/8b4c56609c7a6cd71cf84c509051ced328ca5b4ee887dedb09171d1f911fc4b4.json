@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/main-street-clonmellon-co-westmeath/6687247",
+  "fetchedAt": "2026-10-05T09:23:56.533Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/main-street-clonmellon-co-westmeath/6687247",
+  "kind": "listing",
+  "responseSha256": "dd58099ebb19a1456d938a47ff6fe948dfea65167e7d7fd37c5e8b0000661009",
+  "files": [
+    {
+      "path": "daft/01045-8b4c56609c7a6cd7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "eec341e39b5eeb33fff05e28a2597192cca6ee8614dc254d49e8b1e24b6ee2c9",
+      "bytes": 15321
+    },
+    {
+      "path": "daft/01045-8b4c56609c7a6cd7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cda63c2cfeae510e5c072eb4cf4f54df6b747c5317be68967bc4f64d3d3a88bf",
+      "bytes": 8036
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

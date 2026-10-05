@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-4-43-phibsborough-road-north-circular-road-dublin-7/6673430",
+  "fetchedAt": "2026-10-05T09:13:22.723Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-4-43-phibsborough-road-north-circular-road-dublin-7/6673430",
+  "kind": "listing",
+  "responseSha256": "5b140e1b613b3edc433ce73e53671329a488116c3c5b81b993595d4dc97b4d85",
+  "files": [
+    {
+      "path": "daft/00623-dd47999a9e771840-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bb9457974422cf7386f1ce30552dfc92a1cfaa3b35c030f1774db79304f721e1",
+      "bytes": 6791
+    },
+    {
+      "path": "daft/00623-dd47999a9e771840-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a85a5c8612a1f5a8fa3dcdda5706f836ce3c9003019cd090d5c9dbb337b8525e",
+      "bytes": 8020
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

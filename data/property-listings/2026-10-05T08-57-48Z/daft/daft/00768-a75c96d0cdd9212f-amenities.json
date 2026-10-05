@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST OLIVER PLUNKETT SP SC",
+      "numPupils": 63,
+      "distance": {
+        "value": 0.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292620",
+        "lon": "-6.153974"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN PRIMARY SCHOOL",
+      "numPupils": 194,
+      "distance": {
+        "value": 0.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292206",
+        "lon": "-6.138059"
+      }
+    },
+    {
+      "schoolName": "SALLYNOGGIN EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 39,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.293858",
+        "lon": "-6.136091"
+      }
+    },
+    {
+      "schoolName": "DÚN LAOGHAIRE ETNS",
+      "numPupils": 177,
+      "distance": {
+        "value": 0.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287174",
+        "lon": "-6.155123"
+      }
+    },
+    {
+      "schoolName": "RED DOOR SPECIAL SCHOOL",
+      "numPupils": 30,
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287130",
+        "lon": "-6.155187"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 1.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286327",
+        "lon": "-6.153762"
+      }
+    },
+    {
+      "schoolName": "SCOIL LORCÁIN",
+      "numPupils": 488,
+      "distance": {
+        "value": 1.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.296635",
+        "lon": "-6.164785"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S NATIONAL SCHOOL",
+      "numPupils": 392,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286686",
+        "lon": "-6.140004"
+      }
+    },
+    {
+      "schoolName": "GUARDIAN ANGELS' NATIONAL SCHOOL",
+      "numPupils": 430,
+      "distance": {
+        "value": 1.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292507",
+        "lon": "-6.171458"
+      }
+    },
+    {
+      "schoolName": "MONKSTOWN ETNS",
+      "numPupils": 427,
+      "distance": {
+        "value": 1.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280773",
+        "lon": "-6.150557"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "CHRISTIAN BROTHERS COLLEGE",
+      "numPupils": 564,
+      "distance": {
+        "value": 0.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289770",
+        "lon": "-6.148046"
+      }
+    },
+    {
+      "schoolName": "ROCKFORD MANOR SECONDARY SCHOOL",
+      "numPupils": 285,
+      "distance": {
+        "value": 1.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287060",
+        "lon": "-6.163007"
+      }
+    },
+    {
+      "schoolName": "NEWPARK COMPREHENSIVE SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 1.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289818",
+        "lon": "-6.173190"
+      }
+    },
+    {
+      "schoolName": "HOLY CHILD COMMUNITY SCHOOL",
+      "numPupils": 275,
+      "distance": {
+        "value": 2.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275960",
+        "lon": "-6.136515"
+      }
+    },
+    {
+      "schoolName": "RATHDOWN SCHOOL",
+      "numPupils": 349,
+      "distance": {
+        "value": 2.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276460",
+        "lon": "-6.129826"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE SION HILL",
+      "numPupils": 508,
+      "distance": {
+        "value": 2.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301594",
+        "lon": "-6.189679"
+      }
+    },
+    {
+      "schoolName": "CLONKEEN COLLEGE",
+      "numPupils": 630,
+      "distance": {
+        "value": 2.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269830",
+        "lon": "-6.157335"
+      }
+    },
+    {
+      "schoolName": "BLACKROCK COLLEGE",
+      "numPupils": 1053,
+      "distance": {
+        "value": 2.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303650",
+        "lon": "-6.190333"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE FOXROCK",
+      "numPupils": 637,
+      "distance": {
+        "value": 3.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272797",
+        "lon": "-6.176822"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH OF CLUNY SECONDARY SCHOOL",
+      "numPupils": 256,
+      "distance": {
+        "value": 3.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270690",
+        "lon": "-6.123586"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Grosvenor Terrace",
+      "route": "7E",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294185",
+        "lon": "-6.14869"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grosvenor Terrace",
+      "route": "7A",
+      "destination": "Loughlinstown Pk",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294029",
+        "lon": "-6.149597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grosvenor Terrace",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294029",
+        "lon": "-6.149597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grosvenor Terrace",
+      "route": "7n",
+      "destination": "Woodbrook College",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294029",
+        "lon": "-6.149597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grosvenor Terrace",
+      "route": "7",
+      "destination": "Brides Glen",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294029",
+        "lon": "-6.149597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "De Vesci Terrace",
+      "route": "7",
+      "destination": "Brides Glen",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.295055",
+        "lon": "-6.146237"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "De Vesci Terrace",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.295055",
+        "lon": "-6.146237"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "De Vesci Terrace",
+      "route": "7n",
+      "destination": "Woodbrook College",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.295055",
+        "lon": "-6.146237"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Salthill and Monkstown",
+      "route": "DART",
+      "destination": "Dun Laoghaire (Mallin)",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.29526",
+        "lon": "-6.15233"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "De Vesci Park",
+      "route": "S8",
+      "destination": "Citywest",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294985",
+        "lon": "-6.14519"
+      }
+    }
+  ]
+}

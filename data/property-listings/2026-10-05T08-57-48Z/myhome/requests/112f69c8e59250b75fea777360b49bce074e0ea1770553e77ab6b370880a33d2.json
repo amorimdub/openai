@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=412",
+  "fetchedAt": "2026-10-05T13:46:51.104Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=412",
+  "kind": "search",
+  "responseSha256": "0efee930bc5645a28959e8c1a0731e90652175f9c62909cc2c2b51371c518362",
+  "files": [
+    {
+      "path": "myhome/09003-112f69c8e59250b7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=412\"].SearchResults",
+      "sha256": "a08a6320d74b61e95d5d8fa9aaed99855d2da0e0412cfb910062759650ef3405",
+      "bytes": 109151
+    },
+    {
+      "path": "myhome/09003-112f69c8e59250b7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=412\"] (paging fields)",
+      "sha256": "d5e18d8bf5623e4ff1ad008dc14b7ccbbbe08b43c0f616684cfdd26b60487014",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ard-josaif-mullanamoy-clones-co-monaghan/5013533",
+    "https://www.myhome.ie/residential/brochure/5-ocean-towers-salthill-galway-county-galway/5013528",
+    "https://www.myhome.ie/residential/brochure/church-road-glenties-co-donegal/5013526",
+    "https://www.myhome.ie/residential/brochure/1-townspark-trim-road-athboy-county-meath/5013515",
+    "https://www.myhome.ie/residential/brochure/105-keeper-road-drimnagh-dublin-12/5013487",
+    "https://www.myhome.ie/residential/brochure/4-church-hill-carrigaline-cork/5013503",
+    "https://www.myhome.ie/residential/brochure/113-richmond-road-drumcondra-dublin-3/5013468",
+    "https://www.myhome.ie/residential/brochure/the-willows-carrignafoy-cobh-co-cork-cobh-cork/4952360",
+    "https://www.myhome.ie/residential/brochure/larissa-mauritiustown-rosslare-strand-co-wexford/5013459",
+    "https://www.myhome.ie/residential/brochure/lavan-s-station-road-ballinlough-county-roscommon/5013458",
+    "https://www.myhome.ie/residential/brochure/149-cappaghmore-clondalkin-dublin-22/5013453",
+    "https://www.myhome.ie/residential/brochure/6-whatley-hall-archerswood-clonee-dublin-15/5013427",
+    "https://www.myhome.ie/residential/brochure/orchard-lane-ardcavan-wexford-town-wexford/5013434",
+    "https://www.myhome.ie/residential/brochure/toneen-moydow-longford-longford/5013428",
+    "https://www.myhome.ie/residential/brochure/7-bower-villas-castlemaine-street-athlone-co-westmeath/5013413",
+    "https://www.myhome.ie/residential/brochure/weavers-row-clonsilla-dublin-15/4983070",
+    "https://www.myhome.ie/residential/brochure/12-niall-street-stoneybatter-dublin-7/5011190",
+    "https://www.myhome.ie/residential/brochure/126-walkinstown-avenue-walkinstown-dublin-12/5013388",
+    "https://www.myhome.ie/residential/brochure/68-ashthorn-avenue-headford-co-galway/5013371",
+    "https://www.myhome.ie/residential/brochure/alan-ville-88-bride-valley-view-fairhill-cork/5013348"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=413",
+  "paginationLimited": false
+}

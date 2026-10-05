@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=124",
+  "fetchedAt": "2026-10-05T11:18:07.899Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=124",
+  "kind": "search",
+  "responseSha256": "fceb1e190bba814a58be5b2ffb5f27b8bea28a9a04fd17541bdd40349675fd81",
+  "files": [
+    {
+      "path": "myhome/03072-5daa1880d66f962c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=124\"].SearchResults",
+      "sha256": "37c02f6e09ee845aeaa3d6a98532ae1476373bfa26e9bedb376f42451e7b0489",
+      "bytes": 116029
+    },
+    {
+      "path": "myhome/03072-5daa1880d66f962c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=124\"] (paging fields)",
+      "sha256": "fd2fada77c1c8e2034d7f72d0949f0d4bf79a4e26fce8b6bd88717a48c815884",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/loughaunbeg-east-inverin-co-galway/5029697",
+    "https://www.myhome.ie/residential/brochure/38-leinster-road-rathmines-dublin-6/5026854",
+    "https://www.myhome.ie/residential/brochure/st-martin-s-tubberquin-ballyneety-co-limerick/5029696",
+    "https://www.myhome.ie/residential/brochure/59-clanbrassil-street-upper-dublin-8/5018605",
+    "https://www.myhome.ie/residential/brochure/15-the-green-hazelhatch-park-celbridge-county-kildare/5029695",
+    "https://www.myhome.ie/residential/brochure/high-street-goresbridge-kilkenny/5029660",
+    "https://www.myhome.ie/residential/brochure/8-sydenham-road-dundrum-dublin-14/5024267",
+    "https://www.myhome.ie/residential/brochure/apt-9-creevagh-house-dundrum-dublin-14/5029637",
+    "https://www.myhome.ie/residential/brochure/57-the-heath-belgard-heights-tallaght-dublin-24/5029694",
+    "https://www.myhome.ie/residential/brochure/2-stoney-road-dundrum-dublin-14/5023866",
+    "https://www.myhome.ie/residential/brochure/site-with-planning-permission-liffey-view-newbridge-co-kildare/5029693",
+    "https://www.myhome.ie/residential/brochure/154-millquarter-knockmullen-gorey-co-wexford/5029691",
+    "https://www.myhome.ie/residential/brochure/ballynote-west-kilrush-co-clare/5029690",
+    "https://www.myhome.ie/residential/brochure/22-the-view-cnoc-na-gr-ine-kilcullen-co-kildare/5029688",
+    "https://www.myhome.ie/residential/brochure/39-faussagh-avenue-cabra-dublin-7/5029686",
+    "https://www.myhome.ie/residential/brochure/26-bellevue-park-greystones-co-wicklow/5029687",
+    "https://www.myhome.ie/residential/brochure/51-elm-road-riverbank-annacotty-limerick-county-limerick/5029683",
+    "https://www.myhome.ie/residential/brochure/41-saint-fintan-s-villas-deansgrange-blackrock-county-dublin/5029556",
+    "https://www.myhome.ie/residential/brochure/effrinagh-kilclare-carrick-on-shannon-co-leitrim/5029682",
+    "https://www.myhome.ie/residential/brochure/the-lookout-gort-road-loughrea-co-galway/5029680"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=125",
+  "paginationLimited": false
+}

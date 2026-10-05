@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-house-castle-walk-castle-way-cherrywood-co-dublin/4494414",
+  "fetchedAt": "2026-10-05T09:07:17.764Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-house-castle-walk-castle-way-cherrywood-co-dublin/4494414",
+  "kind": "listing",
+  "responseSha256": "a666bbb7982f0acf57c73ea78795e52432bb451647e4658d4017dbc03646b124",
+  "files": [
+    {
+      "path": "daft/00380-f0945bf3fbde0cea-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a4ec47517f77dbd7790cd595b4fe1cb827444f334b3b9a4cdbb9e51d83f82c72",
+      "bytes": 23924
+    },
+    {
+      "path": "daft/00380-f0945bf3fbde0cea-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1c2ff014013c2bef7d5799210c01dba407768fd769f586d95bbde15fc355feb5",
+      "bytes": 8060
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

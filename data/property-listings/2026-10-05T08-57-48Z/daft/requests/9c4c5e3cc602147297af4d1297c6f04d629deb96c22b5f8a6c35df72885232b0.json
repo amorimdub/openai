@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-duplex-apartment-millers-glen-oldtown-swords-co-dublin-swords-co-dublin/6677288",
+  "fetchedAt": "2026-10-05T09:01:09.413Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-duplex-apartment-millers-glen-oldtown-swords-co-dublin-swords-co-dublin/6677288",
+  "kind": "listing",
+  "responseSha256": "2b9874ede6323b8f1a7258201af5d8c8fd8e1472e64e28b3c26fd4a510f2de2b",
+  "files": [
+    {
+      "path": "daft/00135-9c4c5e3cc6021472-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6c7d744dc8f933c73c2554caddf946211ecfbed82e3b1b8128d1c8dae1be45dd",
+      "bytes": 11745
+    },
+    {
+      "path": "daft/00135-9c4c5e3cc6021472-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d4e3c78cb5065e5cf6fa9d12e4dce36f510c07a2bc9aefd67bad413c3683b5ed",
+      "bytes": 8158
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

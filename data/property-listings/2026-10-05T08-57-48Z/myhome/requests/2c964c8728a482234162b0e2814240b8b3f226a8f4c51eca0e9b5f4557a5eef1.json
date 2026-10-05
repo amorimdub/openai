@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=343",
+  "fetchedAt": "2026-10-05T13:11:19.143Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=343",
+  "kind": "search",
+  "responseSha256": "98a5adfd7f1cb8184df0c08dce7e6275e247101a18dca9cc7d9dec3115e3488a",
+  "files": [
+    {
+      "path": "myhome/07585-2c964c8728a48223-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=343\"].SearchResults",
+      "sha256": "0237cc83fc8ff4874230e9cb6c41684ac08a1f7b55b2da554b7da73b6edb6038",
+      "bytes": 114215
+    },
+    {
+      "path": "myhome/07585-2c964c8728a48223-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=343\"] (paging fields)",
+      "sha256": "c2c9a701732b9b0eb709dc91512d9fbc7ad8a369dd4d9ace84baf2dc6fe68a32",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tennis-court-lane-skerries-dublin/5021160",
+    "https://www.myhome.ie/residential/brochure/6-ring-finnan-avenue-kinsale-manor-kinsale-cork/5021166",
+    "https://www.myhome.ie/residential/brochure/ounadilly-ballinahoun-kilmuckridge-county-wexford/5021168",
+    "https://www.myhome.ie/residential/brochure/17-gleann-dara-ballygarvan-cork/5021115",
+    "https://www.myhome.ie/residential/brochure/apartment-60-the-holly-rockfield-dundrum-dublin-16/5021164",
+    "https://www.myhome.ie/residential/brochure/10-sandyhill-way-ballymun-dublin-11/5020919",
+    "https://www.myhome.ie/residential/brochure/4-dublin-road-skerries-co-dublin/4962845",
+    "https://www.myhome.ie/residential/brochure/24-summerstown-grove-glasheen-cork/5019696",
+    "https://www.myhome.ie/residential/brochure/the-lyre-milehouse-road-enniscorthy-wexford/5021153",
+    "https://www.myhome.ie/residential/brochure/c-8-7-hectares-21-9-acres-at-carley-s-bridge-enniscorthy-wexford/5021155",
+    "https://www.myhome.ie/residential/brochure/120-glanntan-castletroy-limerick-county-limerick/5021147",
+    "https://www.myhome.ie/residential/brochure/34-deerpark-road-kiltipper-tallaght-dublin-24/5015468",
+    "https://www.myhome.ie/residential/brochure/7-castle-villas-killincarrig-greystones-co-wicklow/5021138",
+    "https://www.myhome.ie/residential/brochure/gort-ard-main-road-site-clarinbridge/5021133",
+    "https://www.myhome.ie/residential/brochure/caldragh-carrick-on-shannon-co-leitrim/5021132",
+    "https://www.myhome.ie/residential/brochure/ballymariscal-ardrahan-co-galway/5021130",
+    "https://www.myhome.ie/residential/brochure/bryn-hafod-mullawnfin-gorey-co-wexford/5021126",
+    "https://www.myhome.ie/residential/brochure/knockboy-ballinamult-waterford/5021125",
+    "https://www.myhome.ie/residential/brochure/no-3-findale-williamstown-co-galway/5021111",
+    "https://www.myhome.ie/residential/brochure/38-spencer-s-court-enniscorthy-co-wexford/5021118"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=344",
+  "paginationLimited": false
+}

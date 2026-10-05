@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=116",
+  "fetchedAt": "2026-10-05T11:13:29.535Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=116",
+  "kind": "search",
+  "responseSha256": "0caddd2872a8ade4d8c96db9cb0d0a2bba72565795dc8b41441ececa5471f53a",
+  "files": [
+    {
+      "path": "myhome/02906-d02c7c67befe595b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=116\"].SearchResults",
+      "sha256": "e8849c7a708563cee7384c17b77135d4775d173db061ebadb577b6630c9ee9cb",
+      "bytes": 119165
+    },
+    {
+      "path": "myhome/02906-d02c7c67befe595b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=116\"] (paging fields)",
+      "sha256": "a67b3e2d21d44994b8061b7dde74e472381bb6c03d40777e1d8beecd80842076",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/57-seacliff-road-baldoyle-dublin-13/5029899",
+    "https://www.myhome.ie/residential/brochure/hightown-coralstown-house-plus-site-mullingar-westmeath/5029887",
+    "https://www.myhome.ie/residential/brochure/40-edenmore-gardens-raheny-dublin-5/5029895",
+    "https://www.myhome.ie/residential/brochure/88-ballinteer-drive-ballinteer-dublin-16/5029881",
+    "https://www.myhome.ie/residential/brochure/38-parkside-crescent-clongriffin-dublin-13/5029891",
+    "https://www.myhome.ie/residential/brochure/18-sandy-lane-ballymoney-co-wexford/5029889",
+    "https://www.myhome.ie/residential/brochure/coolalough-hospital-limerick/5029888",
+    "https://www.myhome.ie/residential/brochure/heather-cottage-upper-cliff-road-howth-co-dublin/4995224",
+    "https://www.myhome.ie/residential/brochure/mystic-rogerstown-estuary-rush-co-dublin/5006404",
+    "https://www.myhome.ie/residential/brochure/woodview-greys-lane-howth-co-dublin/5010129",
+    "https://www.myhome.ie/residential/brochure/the-haven-bailey-green-road-howth-co-dublin/5011945",
+    "https://www.myhome.ie/residential/brochure/apt-6-block-1-clarion-quay-dublin-1/5025120",
+    "https://www.myhome.ie/residential/brochure/752-howth-road-raheny-dublin-5/5005068",
+    "https://www.myhome.ie/residential/brochure/redgap-monasterboice-co-louth/5029878",
+    "https://www.myhome.ie/residential/brochure/apartment-31-waterside-quay-hanover-street-cork-city-cork/5029864",
+    "https://www.myhome.ie/residential/brochure/dawn-mist-ballyhire-kilrane-wexford/5029875",
+    "https://www.myhome.ie/residential/brochure/26-ros-caoin-roscam-galway/5029876",
+    "https://www.myhome.ie/residential/brochure/glaneagle-glenlough-bantry-west-cork/5029870",
+    "https://www.myhome.ie/residential/brochure/1-castlewood-lodge-rathmines-dublin-6/5029874",
+    "https://www.myhome.ie/residential/brochure/88-orchardstown-drive-rathfarnham-dublin-14/5027925"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=117",
+  "paginationLimited": false
+}

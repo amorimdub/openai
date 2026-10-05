@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=20",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=20",
+  "fetchedAt": "2026-10-05T09:15:41.724Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "73fa8319f3fc8bfed8cc514ce7f85d9214d6bc793d3bd6e06a1a607b1d9bedf0",
+  "files": [
+    {
+      "path": "myhome/00711-e1e38613faf7713f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=20\"].SearchResults",
+      "sha256": "08164cb8b309c3c09c98a09e9c0bfca41ccc0189d357b8cce30a59cf10f907e7",
+      "bytes": 105264
+    },
+    {
+      "path": "myhome/00711-e1e38613faf7713f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=20\"] (paging fields)",
+      "sha256": "ef293ff4bb934f3d6c5d0dfcd2274d506e3bd46a90e72e048a2b491291b8d73d",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-saint-michaels-terrace-blackpitts-dublin-8/5031907",
+    "https://www.myhome.ie/residential/brochure/lough-keel-cottage-carrownasaul-termon-county-donegal/5031905",
+    "https://www.myhome.ie/residential/brochure/18-the-maples-diamond-valley-bray-co-wicklow/5031903",
+    "https://www.myhome.ie/residential/brochure/63-lanesborough-mews-finglas-dublin-11/5031902",
+    "https://www.myhome.ie/residential/brochure/5-wallace-road-walkinstown-dublin-12/5019716",
+    "https://www.myhome.ie/residential/brochure/11-rathmichael-woods-shankill-dublin-18/5026831",
+    "https://www.myhome.ie/residential/brochure/ballyhaden-borrisokane-co-tipperary/5031901",
+    "https://www.myhome.ie/residential/brochure/47-the-stockyard-block-e-the-steelworks-foley-street-dublin-1-dublin/5031900",
+    "https://www.myhome.ie/residential/brochure/7-yellow-meadows-lawn-clondalkin-dublin-22/5031898",
+    "https://www.myhome.ie/residential/brochure/45-glencarraig-sutton-dublin-13/5031894",
+    "https://www.myhome.ie/residential/brochure/57-hampton-wood-avenue-finglas-dublin-11/5031892",
+    "https://www.myhome.ie/residential/brochure/14-saint-mochta-s-avenue-clonsilla-dublin-15/5031891",
+    "https://www.myhome.ie/residential/brochure/15-leicester-ave-rathgar-dublin-6/5013594",
+    "https://www.myhome.ie/residential/brochure/14-seaview-way-cnoc-na-mara-blackrock-co-louth/5027115",
+    "https://www.myhome.ie/residential/brochure/apartment-29-seapark-mount-prospect-avenue-clontarf-dublin-3/5031888",
+    "https://www.myhome.ie/residential/brochure/74-shrewsbury-park-ballsbridge-dublin-4/5030154",
+    "https://www.myhome.ie/residential/brochure/2-haven-wood-retirement-village-bishopscourt-ballygunner-co-waterford/5016885",
+    "https://www.myhome.ie/residential/brochure/block-a-55-castleforbes-square-ifsc-dublin-1/5031886",
+    "https://www.myhome.ie/residential/brochure/44-dromore-cootehill-cavan/5031883",
+    "https://www.myhome.ie/residential/brochure/derry-rosscarbery-west-cork/5027362"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=21",
+  "paginationLimited": false
+}

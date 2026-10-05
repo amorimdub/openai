@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=74",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=74",
+  "fetchedAt": "2026-10-05T09:49:52.043Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "452fe8d5b86f8455bfc0bc45c6b688416decacdce43124ee8927f8c60a6b9bf6",
+  "files": [
+    {
+      "path": "myhome/02074-d73f9769cf3846e0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=74\"].SearchResults",
+      "sha256": "1d765e0518dbbda897f4245a1becb040d46620e32b31a765461e463786e58a04",
+      "bytes": 112777
+    },
+    {
+      "path": "myhome/02074-d73f9769cf3846e0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=74\"] (paging fields)",
+      "sha256": "fa5fe8348737fb2ef026360323dc8c1e8864ae5717fc7a6884799a89cf2ea0ac",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-abbeyfields-loughrea-co-galway/5030932",
+    "https://www.myhome.ie/residential/brochure/26-sycamore-grove-westminster-park-foxrock-dublin-18/5030892",
+    "https://www.myhome.ie/residential/brochure/5-sean-bothar-cavan-cavan/5030923",
+    "https://www.myhome.ie/residential/brochure/lower-road-bunratty-east-bunratty-co-clare/5030931",
+    "https://www.myhome.ie/residential/brochure/4-verbena-lawns-sutton-dublin-13/5030926",
+    "https://www.myhome.ie/residential/brochure/tankardsgarden-newbridge-co-kildare/5030929",
+    "https://www.myhome.ie/residential/brochure/gortinreagh-ballindrait-co-donegal/5030924",
+    "https://www.myhome.ie/residential/brochure/apt-13-errigal-house-eglinton-court-donnybrook-dublin-4/5030607",
+    "https://www.myhome.ie/residential/brochure/36-oak-park-malahide-county-dublin/5030834",
+    "https://www.myhome.ie/residential/brochure/apt-4-the-daintree-pleasants-place-portobello-dublin-8/5014917",
+    "https://www.myhome.ie/residential/brochure/13-rosary-road-maryland-south-city-centre-dublin-8/5018398",
+    "https://www.myhome.ie/residential/brochure/main-street-hacketstown-carlow/5030918",
+    "https://www.myhome.ie/residential/brochure/14-anchor-mews-south-quay-arklow-wicklow/5030914",
+    "https://www.myhome.ie/residential/brochure/113-drumfinn-avenue-ballyfermot-dublin-10/5030920",
+    "https://www.myhome.ie/residential/brochure/cranny-lower-donegal-inver-co-donegal/5030919",
+    "https://www.myhome.ie/residential/brochure/emmet-lodge-inchicore-dublin-8/4955738",
+    "https://www.myhome.ie/residential/brochure/apt-69-the-malthouse-block-g-south-city-centre-d8-dublin-8/5011547",
+    "https://www.myhome.ie/residential/brochure/92-crieve-mor-avenue-letterkenny-co-donegal/5030915",
+    "https://www.myhome.ie/residential/brochure/16-the-lawn-moyglare-abbey-maynooth-co-kildare/5030913",
+    "https://www.myhome.ie/residential/brochure/100-devenish-road-kimmage-dublin-12/4997299"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=75",
+  "paginationLimited": false
+}

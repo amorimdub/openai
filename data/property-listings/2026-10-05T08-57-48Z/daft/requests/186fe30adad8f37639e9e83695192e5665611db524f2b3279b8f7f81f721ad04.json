@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/80-leeson-street-upper-ballsbridge-dublin-4/6624115",
+  "fetchedAt": "2026-10-05T09:22:57.944Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/80-leeson-street-upper-ballsbridge-dublin-4/6624115",
+  "kind": "listing",
+  "responseSha256": "e74d927c25854b39901cb9ba8f74f1969d2ad49b1f9ab5bda2be82e83721898b",
+  "files": [
+    {
+      "path": "daft/01006-186fe30adad8f376-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "40ee7774d595cc8b994d106c1c470e13eb717bbbf7a1d568e594d811d8b3c359",
+      "bytes": 106204
+    },
+    {
+      "path": "daft/01006-186fe30adad8f376-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3da2ef6da091e40e27327b04de701449b2fd1903d3131de57f3f9766f2e5590c",
+      "bytes": 8019
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

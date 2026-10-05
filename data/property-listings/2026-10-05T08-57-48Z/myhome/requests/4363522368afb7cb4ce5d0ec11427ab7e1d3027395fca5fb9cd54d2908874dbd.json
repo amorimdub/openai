@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=336",
+  "fetchedAt": "2026-10-05T13:07:39.673Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=336",
+  "kind": "search",
+  "responseSha256": "f9744e7f3b89bab2ec8a91911225582a97b74140eb0e583d24137abc57a2500f",
+  "files": [
+    {
+      "path": "myhome/07439-4363522368afb7cb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=336\"].SearchResults",
+      "sha256": "45afe03e0b8a8007e4be8257ad74ff4165f37853408e951510bd5c55783f52e8",
+      "bytes": 115017
+    },
+    {
+      "path": "myhome/07439-4363522368afb7cb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=336\"] (paging fields)",
+      "sha256": "e4a97240b585bea192cfc534f21a1b4a375b0926569654683f8b8a802462b919",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-sherrard-avenue-north-circular-road-dublin-1/5021530",
+    "https://www.myhome.ie/residential/brochure/10-the-wooden-building-exchange-street-upper-dublin-8/5021533",
+    "https://www.myhome.ie/residential/brochure/1-chestnut-drive-dwyers-road-midleton-cork/5021159",
+    "https://www.myhome.ie/residential/brochure/96-rathedmond-estate-sligo/5021503",
+    "https://www.myhome.ie/residential/brochure/33-castle-view-fenit-kerry/5021517",
+    "https://www.myhome.ie/residential/brochure/ballyburden-more-ballincollig-cork/5021502",
+    "https://www.myhome.ie/residential/brochure/79-summerseat-avenue-clonee-meath/5021508",
+    "https://www.myhome.ie/residential/brochure/3-bed-end-terrace-white-linen-avenue-longford-town-co-longford-longford-longford/5021506",
+    "https://www.myhome.ie/residential/brochure/2-ennafort-park-raheny-dublin-5/5018763",
+    "https://www.myhome.ie/residential/brochure/7-ardlea-road-artane-dublin-5/5021510",
+    "https://www.myhome.ie/residential/brochure/3-bed-mid-terrace-white-linen-avenue-longford-town-co-longford-longford-longford/5021495",
+    "https://www.myhome.ie/residential/brochure/60-liscarne-gardens-clondalkin-dublin-22/4409027",
+    "https://www.myhome.ie/residential/brochure/27-parkside-drive-balgriffin-dublin-13/5021412",
+    "https://www.myhome.ie/residential/brochure/walyunga-sandycove-kinsale-county-cork/5021494",
+    "https://www.myhome.ie/residential/brochure/37-admiral-park-baldoyle-dublin-13/5021493",
+    "https://www.myhome.ie/residential/brochure/24-ashington-heath-navan-road-dublin-7/5021491",
+    "https://www.myhome.ie/residential/brochure/71-cherryfield-road-walkinstown-dublin-12/4991314",
+    "https://www.myhome.ie/residential/brochure/2-bed-end-terrace-white-linen-avenue-longford-town-co-longford-longford-longford/5021483",
+    "https://www.myhome.ie/residential/brochure/19-dawson-place-arbour-hill-stoneybatter-d-7/5010047",
+    "https://www.myhome.ie/residential/brochure/73-cromwellsfort-grove-mulgannon-wexford-town-wexford/5021486"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=337",
+  "paginationLimited": false
+}

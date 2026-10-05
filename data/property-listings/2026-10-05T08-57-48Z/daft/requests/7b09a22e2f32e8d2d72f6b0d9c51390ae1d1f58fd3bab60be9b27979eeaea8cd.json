@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-62-brabazon-hall-cork-street-dublin-8/6685271",
+  "fetchedAt": "2026-10-05T09:04:07.048Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-62-brabazon-hall-cork-street-dublin-8/6685271",
+  "kind": "listing",
+  "responseSha256": "c9d2c1c8986503fe9aa2f7f256db16c04178ccd3a49f630de771f3c382d8dce0",
+  "files": [
+    {
+      "path": "daft/00253-7b09a22e2f32e8d2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "821af271b90c92d5bef5f96bb0d79894fd90404838610cdb7129f0c15be3b719",
+      "bytes": 36138
+    },
+    {
+      "path": "daft/00253-7b09a22e2f32e8d2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d903428a5691a8de21a283c20b41ec1e3e30333c97e0befdf4d80092dbd61df7",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

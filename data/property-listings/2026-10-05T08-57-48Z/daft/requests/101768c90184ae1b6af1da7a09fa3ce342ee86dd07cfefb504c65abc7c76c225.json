@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/drynam-square-drynam-hall-kinsealy-co-dublin/6685330",
+  "fetchedAt": "2026-10-05T09:36:45.577Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/drynam-square-drynam-hall-kinsealy-co-dublin/6685330",
+  "kind": "listing",
+  "responseSha256": "b38a2329e319f78dba97b039d6f53b4f58b2507be6ce765f6829baf240cddd48",
+  "files": [
+    {
+      "path": "daft/01557-101768c90184ae1b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "78a736541eb12460f34769a7946dc32e446f66bb5c839cc66b6ce440666245c6",
+      "bytes": 11134
+    },
+    {
+      "path": "daft/01557-101768c90184ae1b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e2947cae048a3329b5c000566f072d33b4a652f6c39b46aab2e23f4a71f6c68b",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

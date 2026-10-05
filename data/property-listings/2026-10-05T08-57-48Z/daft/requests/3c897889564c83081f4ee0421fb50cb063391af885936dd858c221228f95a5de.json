@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/whittys-cottage-whittyshill-wellingtonbridge-co-wexford/6682695",
+  "fetchedAt": "2026-10-05T09:53:15.557Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/whittys-cottage-whittyshill-wellingtonbridge-co-wexford/6682695",
+  "kind": "listing",
+  "responseSha256": "d5e8544626dc91205b1b03a900f31b0bf62ba90873c0ceca42f56f29c6863e8d",
+  "files": [
+    {
+      "path": "daft/02216-3c897889564c8308-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "594e1dafbeee6ea288736e77e83289f60d413f3c2eb73b6d201f7107fa796c84",
+      "bytes": 36670
+    },
+    {
+      "path": "daft/02216-3c897889564c8308-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "99e358a139b248a340a683ffbca81c0e613fe3262b075e9e0a10d7db7bd4e538",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GORESBRIDGE NATIONAL SCHOOL",
+      "numPupils": 75,
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.630670",
+        "lon": "-6.997106"
+      }
+    },
+    {
+      "schoolName": "SAPLINGS SPECIAL SCHOOL",
+      "numPupils": 12,
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.629560",
+        "lon": "-6.996460"
+      }
+    },
+    {
+      "schoolName": "SKEOUGHVOSTEEN NATIONAL SCHOOL",
+      "numPupils": 81,
+      "distance": {
+        "value": 4.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.590374",
+        "lon": "-6.994929"
+      }
+    },
+    {
+      "schoolName": "BALLINKILLEN NATIONAL SCHOOL",
+      "numPupils": 126,
+      "distance": {
+        "value": 4.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.648810",
+        "lon": "-6.930092"
+      }
+    },
+    {
+      "schoolName": "GOWRAN NATIONAL SCHOOL",
+      "numPupils": 199,
+      "distance": {
+        "value": 5.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.628227",
+        "lon": "-7.077740"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRIDE PAULSTOWN",
+      "numPupils": 211,
+      "distance": {
+        "value": 6.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.682040",
+        "lon": "-7.023622"
+      }
+    },
+    {
+      "schoolName": "BORRIS NATIONAL SCHOOL",
+      "numPupils": 198,
+      "distance": {
+        "value": 6.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.599655",
+        "lon": "-6.920431"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S BAGENALSTOWN",
+      "numPupils": 98,
+      "distance": {
+        "value": 8.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.700394",
+        "lon": "-6.959785"
+      }
+    },
+    {
+      "schoolName": "QUEEN OF THE UNIVERSE NATIONAL SCHOOL",
+      "numPupils": 267,
+      "distance": {
+        "value": 8.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.701557",
+        "lon": "-6.963336"
+      }
+    },
+    {
+      "schoolName": "ST BRIDGETS MONASTERY BOYS SENIOR SCHOOL",
+      "numPupils": 127,
+      "distance": {
+        "value": 8.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.700350",
+        "lon": "-6.954977"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "BORRIS COLLEGE",
+      "numPupils": 537,
+      "distance": {
+        "value": 6.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.597200",
+        "lon": "-6.917786"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION / DE LA SALLE COLLEGE",
+      "numPupils": 763,
+      "distance": {
+        "value": 7.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.700905",
+        "lon": "-6.970111"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AINDRIÚ",
+      "numPupils": 140,
+      "distance": {
+        "value": 8.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.702140",
+        "lon": "-6.950726"
+      }
+    },
+    {
+      "schoolName": "DUISKE COLLEGE",
+      "numPupils": 139,
+      "distance": {
+        "value": 10.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.539894",
+        "lon": "-6.957374"
+      }
+    },
+    {
+      "schoolName": "GRENNAN COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 15.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.528297",
+        "lon": "-7.142543"
+      }
+    },
+    {
+      "schoolName": "Presentation Secondary School",
+      "numPupils": 902,
+      "distance": {
+        "value": 17.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.639033",
+        "lon": "-7.247444"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE POBAIL OSRAÍ",
+      "numPupils": 222,
+      "distance": {
+        "value": 17.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.648780",
+        "lon": "-7.252867"
+      }
+    },
+    {
+      "schoolName": "KILKENNY COLLEGE",
+      "numPupils": 919,
+      "distance": {
+        "value": 17.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.667820",
+        "lon": "-7.247668"
+      }
+    },
+    {
+      "schoolName": "CITY VOCATIONAL SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 17.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.647778",
+        "lon": "-7.254472"
+      }
+    },
+    {
+      "schoolName": "ST KIERAN'S COLLEGE",
+      "numPupils": 802,
+      "distance": {
+        "value": 17.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.646954",
+        "lon": "-7.255469"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Goresbridge",
+      "route": "BRW",
+      "destination": "Bagenalstown",
+      "provider": "Barrow Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.62988",
+        "lon": "-6.9942"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Goresbridge",
+      "route": "881",
+      "destination": "Kilkenny",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 0.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.629602",
+        "lon": "-6.994213"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Goresbridge East",
+      "route": "BRW",
+      "destination": "Bagenalstown",
+      "provider": "Barrow Bus",
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6303703",
+        "lon": "-6.990582347"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilgraney",
+      "route": "887",
+      "destination": "Carlow",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 3.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.65341",
+        "lon": "-6.95248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Skeoghvasteen",
+      "route": "BRW",
+      "destination": "Saint Mullin's",
+      "provider": "Barrow Bus",
+      "distance": {
+        "value": 4.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.59071",
+        "lon": "-6.99378"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gowran East",
+      "route": "881",
+      "destination": "Kilkenny",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 4.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.62937",
+        "lon": "-7.06439"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Woodlawn Pk",
+      "route": "887",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 5.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.60307",
+        "lon": "-6.93516"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Woodlawn Pk",
+      "route": "881",
+      "destination": "Kilkenny",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 5.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.60298",
+        "lon": "-6.93527"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gowran",
+      "route": "365",
+      "destination": "Carlow",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6283258948316",
+        "lon": "-7.07016857566347"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gowran",
+      "route": "881",
+      "destination": "Kilkenny",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 5.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6281855820781",
+        "lon": "-7.07061469425961"
+      }
+    }
+  ]
+}

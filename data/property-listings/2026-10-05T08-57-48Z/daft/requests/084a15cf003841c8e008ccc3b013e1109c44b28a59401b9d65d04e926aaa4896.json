@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/52-rockvale-rathbawn-castlebar-co-mayo/6684149",
+  "fetchedAt": "2026-10-05T09:44:46.244Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/52-rockvale-rathbawn-castlebar-co-mayo/6684149",
+  "kind": "listing",
+  "responseSha256": "64e1d4e7f1ee19bf4a7626f862ee4889cdf7a7dae04953297408c03f08f3e957",
+  "files": [
+    {
+      "path": "daft/01877-084a15cf003841c8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5514c3c16ad76e5bbe44ea80dd31c867eb71c39e44579bb4bd644f98790fbfe9",
+      "bytes": 30779
+    },
+    {
+      "path": "daft/01877-084a15cf003841c8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9ac711da75ef7c1c323a6bcb1be827d18b91dd74f677fa746f4b4d272857af40",
+      "bytes": 8015
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

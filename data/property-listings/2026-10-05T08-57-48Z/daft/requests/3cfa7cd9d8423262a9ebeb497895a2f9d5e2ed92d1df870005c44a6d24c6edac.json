@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/35-aylesbury-ballintemple-co-cork/6682803",
+  "fetchedAt": "2026-10-05T09:50:13.841Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/35-aylesbury-ballintemple-co-cork/6682803",
+  "kind": "listing",
+  "responseSha256": "484a62a839fded94a2b211e75ce3ca9001a5950353e0ffa519e1f55afbdb9812",
+  "files": [
+    {
+      "path": "daft/02095-3cfa7cd9d8423262-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0d4cd9bb67547bdb9cb7662fe2faae748aa91713846abe3c28d1a322ded2bda9",
+      "bytes": 109241
+    },
+    {
+      "path": "daft/02095-3cfa7cd9d8423262-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "664d22f4edda7858d6d34391203fd5b4f0138cb319bce8b224719dc942afbc9f",
+      "bytes": 8084
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

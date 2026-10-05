@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/21a-quay-street-balbriggan-balbriggan-co-dublin/6684037",
+  "fetchedAt": "2026-10-05T09:44:55.255Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/21a-quay-street-balbriggan-balbriggan-co-dublin/6684037",
+  "kind": "listing",
+  "responseSha256": "3432109afd2d733e3b3398ca160729b036e19064ec0cd8f3db3526df39818d1f",
+  "files": [
+    {
+      "path": "daft/01883-0f50278be42dfb32-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f74b583aa3649b9331c5e3d71a595a28fc4a3ab97326ebc472553512797890c8",
+      "bytes": 27856
+    },
+    {
+      "path": "daft/01883-0f50278be42dfb32-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "656b85acafd390bb746fc0ae3748657b7b55ed3a0653ccd49f6a2832754ae2bb",
+      "bytes": 8232
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

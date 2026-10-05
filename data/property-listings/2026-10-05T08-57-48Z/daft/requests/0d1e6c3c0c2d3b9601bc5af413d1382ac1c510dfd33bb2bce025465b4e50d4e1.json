@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/clogheen-blarney-co-cork/6547089",
+  "fetchedAt": "2026-10-05T09:11:37.552Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/clogheen-blarney-co-cork/6547089",
+  "kind": "listing",
+  "responseSha256": "1c453ec2972b9f5e21474459bccfa4e678628a00b0cc705793c0bae8e381375c",
+  "files": [
+    {
+      "path": "daft/00553-0d1e6c3c0c2d3b96-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "7bcf3d9fc92141df4a2d99f8d4a982731046735c1572e70f839198e32a61dd29",
+      "bytes": 51542
+    },
+    {
+      "path": "daft/00553-0d1e6c3c0c2d3b96-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f75984efb5963cbdee7305433d36775963a9fb117d9947ffb86a1ef1d958120a",
+      "bytes": 8002
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

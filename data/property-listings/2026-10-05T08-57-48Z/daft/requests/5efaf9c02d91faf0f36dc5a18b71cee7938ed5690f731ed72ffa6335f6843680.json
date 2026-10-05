@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/barons-hall-park-balbriggan-co-dublin/6684266",
+  "fetchedAt": "2026-10-05T09:43:50.656Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/barons-hall-park-balbriggan-co-dublin/6684266",
+  "kind": "listing",
+  "responseSha256": "b0d551ac39d1dee063aaeacc4bdb65ccba98038149f657357a42ccb8397705ea",
+  "files": [
+    {
+      "path": "daft/01840-5efaf9c02d91faf0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5eb590478dcf89c055420f389b352206dddc688b84bf19630c3a3bc7fd6e4463",
+      "bytes": 35452
+    },
+    {
+      "path": "daft/01840-5efaf9c02d91faf0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a05fd3ff5527e4212129b6df542d265359ec22fa8eb7590e48857deb0b546365",
+      "bytes": 8279
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

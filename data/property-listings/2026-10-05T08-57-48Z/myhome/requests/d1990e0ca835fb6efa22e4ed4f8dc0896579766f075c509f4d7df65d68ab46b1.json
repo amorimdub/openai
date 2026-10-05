@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=429",
+  "fetchedAt": "2026-10-05T13:55:28.163Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=429",
+  "kind": "search",
+  "responseSha256": "8d788502d3a94913434b209e2f40f852b2e72ded435a5b1eb999d8f4280422e0",
+  "files": [
+    {
+      "path": "myhome/09347-d1990e0ca835fb6e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=429\"].SearchResults",
+      "sha256": "6784a746e7c379a70d5f9190e56d242a3868eb76132be37a5b08d611960cd3d8",
+      "bytes": 119515
+    },
+    {
+      "path": "myhome/09347-d1990e0ca835fb6e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=429\"] (paging fields)",
+      "sha256": "73ea868f1f1fa63658cb5975ee5da6696cc303bca4bed77e25fd5657e4e4a856",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-54-35-38-mountjoy-square-dublin-1/5010829",
+    "https://www.myhome.ie/residential/brochure/last-remaining-3-bed-duplex-no-11-harbour-gate-naas-co-kildare/5010831",
+    "https://www.myhome.ie/residential/brochure/mount-pleasant-rathbraughan-line-sligo-sligo/5010825",
+    "https://www.myhome.ie/residential/brochure/280-kildare-road-crumlin-dublin-12/5010782",
+    "https://www.myhome.ie/residential/brochure/garryhinch-portarlington-co-offaly/5010821",
+    "https://www.myhome.ie/residential/brochure/56-wellington-road-ballsbridge-dublin-4/5010810",
+    "https://www.myhome.ie/residential/brochure/13-briarfield-grove-kilbarrack-dublin/5000064",
+    "https://www.myhome.ie/residential/brochure/20-grallow-wood-abbeyleix-portlaoise-co-laois/5010804",
+    "https://www.myhome.ie/residential/brochure/20-slip-park-slip-bantry-co-cork/5010801",
+    "https://www.myhome.ie/residential/brochure/redgap-rathcoole-co-dublin/5010800",
+    "https://www.myhome.ie/residential/brochure/church-street-toomevara-tipperary/5010795",
+    "https://www.myhome.ie/residential/brochure/clardona-baybush-straffan-co-kildare/5010793",
+    "https://www.myhome.ie/residential/brochure/246-the-richmond-bruinswick-street-dublin-7/5010789",
+    "https://www.myhome.ie/residential/brochure/18-fr-angelus-park-castlebar-road-westport-co-mayo/5010786",
+    "https://www.myhome.ie/residential/brochure/rockbrook-ballydavis-portlaoise-co-laois/5010779",
+    "https://www.myhome.ie/residential/brochure/146-moylaragh-crescent-balbriggan-county-dublin/5010085",
+    "https://www.myhome.ie/residential/brochure/26-the-village-eastham-road-bettystown-meath/5010760",
+    "https://www.myhome.ie/residential/brochure/44-the-rowan-rockfield-dundrum-dundrum-dublin-16/5010739",
+    "https://www.myhome.ie/residential/brochure/107-jervis-place-strand-street-great-dublin-1/5010766",
+    "https://www.myhome.ie/residential/brochure/killeely-more-kilcolgan-galway/5010733"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=430",
+  "paginationLimited": false
+}

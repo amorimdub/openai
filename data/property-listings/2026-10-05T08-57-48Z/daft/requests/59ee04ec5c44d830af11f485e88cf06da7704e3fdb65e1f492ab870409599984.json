@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/26-stewarts-court-lennon-grove-ramelton-co-donegal/6684032",
+  "fetchedAt": "2026-10-05T09:45:46.343Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/26-stewarts-court-lennon-grove-ramelton-co-donegal/6684032",
+  "kind": "listing",
+  "responseSha256": "26b16c2b70ac37a8c8d5dd346d1ea82ac06c6ff1d3030c5b8f19661a39ba7b57",
+  "files": [
+    {
+      "path": "daft/01917-59ee04ec5c44d830-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fb3d3d29558ab4d1ee6b42cf3d48a19b73ce5a8c7a14513cbc68819305bee58c",
+      "bytes": 23866
+    },
+    {
+      "path": "daft/01917-59ee04ec5c44d830-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9330abece48a4bd419247d4c4e6eb7423cd542bea2290052f8ab4d856f5b3089",
+      "bytes": 8124
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

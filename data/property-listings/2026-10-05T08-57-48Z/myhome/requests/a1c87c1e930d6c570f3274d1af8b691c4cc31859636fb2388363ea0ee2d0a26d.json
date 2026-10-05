@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=184",
+  "fetchedAt": "2026-10-05T11:49:24.131Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=184",
+  "kind": "search",
+  "responseSha256": "296b64f1cca9f922f557c4976ded2fb104a084fd31b59fb47e5f9c57a3e19494",
+  "files": [
+    {
+      "path": "myhome/04320-a1c87c1e930d6c57-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=184\"].SearchResults",
+      "sha256": "91ebea01e16fbaa00dcf1d60599090a49042ec022b952c4ee9385fbe04d12823",
+      "bytes": 125060
+    },
+    {
+      "path": "myhome/04320-a1c87c1e930d6c57-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=184\"] (paging fields)",
+      "sha256": "259c6293a8785da1677c26ea373bed4e9196aa63b4973072a81a1a93d9011727",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/25-hawkins-wood-drive-hawkins-wood-greystones-co-wicklow/5028059",
+    "https://www.myhome.ie/residential/brochure/saint-leonard-s-ballycullane-co-wexford-ballycullane-wexford/5028054",
+    "https://www.myhome.ie/residential/brochure/8-ashdown-circular-road-bushypark-galway/5028053",
+    "https://www.myhome.ie/residential/brochure/milehill-ballinrobe-mayo/5028050",
+    "https://www.myhome.ie/residential/brochure/1-silverdale-drive-ballinlough-cork-ballinlough-cork/5028048",
+    "https://www.myhome.ie/residential/brochure/drumrooske-middle-donegal-co-donegal/5028049",
+    "https://www.myhome.ie/residential/brochure/seaview-cullenstown-duncormick-co-wexford-duncormick-wexford/5028021",
+    "https://www.myhome.ie/residential/brochure/apartment-15-blackhall-court-arbour-hill-dublin-7-arbour-hill-dublin-7/5028038",
+    "https://www.myhome.ie/residential/brochure/5-fern-drive-castle-heights-carrigaline-cork/5027919",
+    "https://www.myhome.ie/residential/brochure/70-summerseat-court-main-street-clonee-county-meath/5011800",
+    "https://www.myhome.ie/residential/brochure/4-white-oaks-roebuck-road-clonskeagh-dublin-14/5024935",
+    "https://www.myhome.ie/residential/brochure/6-abbey-park-monkstown-county-dublin/5028043",
+    "https://www.myhome.ie/residential/brochure/20-summerseat-green-summerseat-clonee-co-meath/5028042",
+    "https://www.myhome.ie/residential/brochure/new-lanes-duleek-co-meath/5028041",
+    "https://www.myhome.ie/residential/brochure/1-st-joseph-s-road-newtownmountkennedy-wicklow/5028035",
+    "https://www.myhome.ie/residential/brochure/2-thomas-davis-street-west-inchicore-dublin-8-co-dublin/5028036",
+    "https://www.myhome.ie/residential/brochure/strand-lodge-5-strand-road-sandymount-dublin-4/5028034",
+    "https://www.myhome.ie/residential/brochure/66-silversprings-court-tivoli-cork/5017037",
+    "https://www.myhome.ie/residential/brochure/davidstown-barntown-wexford/5028024",
+    "https://www.myhome.ie/residential/brochure/6-priory-court-spawell-road-wexford-town-wexford/5028033"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=185",
+  "paginationLimited": false
+}

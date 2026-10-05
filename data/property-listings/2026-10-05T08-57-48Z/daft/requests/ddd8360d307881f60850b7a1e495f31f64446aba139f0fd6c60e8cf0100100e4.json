@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/nutgrove-park-dublin-14-clonskeagh-dublin-14/6682798",
+  "fetchedAt": "2026-10-05T09:53:02.044Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/nutgrove-park-dublin-14-clonskeagh-dublin-14/6682798",
+  "kind": "listing",
+  "responseSha256": "8dbc2f8ceab2e51804819d6fef13d2c4448238d323f9b873497619f529d3f7b9",
+  "files": [
+    {
+      "path": "daft/02207-ddd8360d307881f6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3cb7d84fdd8af81d8737f1bc912225a89bbd3d0a3b6c90db253618aa19501c10",
+      "bytes": 55138
+    },
+    {
+      "path": "daft/02207-ddd8360d307881f6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "503695c0bba988777eccea29623ffcdc899aa1f451e7b40b81274737632dafa5",
+      "bytes": 8089
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

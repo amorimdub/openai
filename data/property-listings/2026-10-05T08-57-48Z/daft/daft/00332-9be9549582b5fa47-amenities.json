@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BALLINLOUGH NATIONAL SCHOOL",
+      "numPupils": 31,
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.741250",
+        "lon": "-8.635577"
+      }
+    },
+    {
+      "schoolName": "CARRICK NATIONAL SCHOOL",
+      "numPupils": 82,
+      "distance": {
+        "value": 2.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.748590",
+        "lon": "-8.652381"
+      }
+    },
+    {
+      "schoolName": "THREEN NATIONAL SCHOOL",
+      "numPupils": 39,
+      "distance": {
+        "value": 4.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.732390",
+        "lon": "-8.552695"
+      }
+    },
+    {
+      "schoolName": "GRANLAHAN NATIONAL SCHOOL",
+      "numPupils": 46,
+      "distance": {
+        "value": 4.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.715160",
+        "lon": "-8.675152"
+      }
+    },
+    {
+      "schoolName": "CLOONBONNIFFE NATIONAL SCHOOL",
+      "numPupils": 21,
+      "distance": {
+        "value": 4.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.781070",
+        "lon": "-8.582153"
+      }
+    },
+    {
+      "schoolName": "GORTHAGANNY NATIONAL SCHOOL",
+      "numPupils": 49,
+      "distance": {
+        "value": 7.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.807987",
+        "lon": "-8.675840"
+      }
+    },
+    {
+      "schoolName": "WILLIAMSTOWN NATIONAL SCHOOL",
+      "numPupils": 109,
+      "distance": {
+        "value": 8.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.676243",
+        "lon": "-8.578396"
+      }
+    },
+    {
+      "schoolName": "ST. MICHAEL'S",
+      "numPupils": 82,
+      "distance": {
+        "value": 9.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.764877",
+        "lon": "-8.486528"
+      }
+    },
+    {
+      "schoolName": "ST ANNE'S NATIONAL SCHOOL",
+      "numPupils": 135,
+      "distance": {
+        "value": 9.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.766323",
+        "lon": "-8.486451"
+      }
+    },
+    {
+      "schoolName": "ST PAUL'S NATIONAL SCHOOL",
+      "numPupils": 54,
+      "distance": {
+        "value": 9.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.765133",
+        "lon": "-8.483726"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "CASTLEREA COMMUNITY SCHOOL",
+      "numPupils": 388,
+      "distance": {
+        "value": 9.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.765710",
+        "lon": "-8.483506"
+      }
+    },
+    {
+      "schoolName": "Ballyhaunis Community School, Knock Road, Ballyhaunis, Mayo",
+      "numPupils": 750,
+      "distance": {
+        "value": 10.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.765923",
+        "lon": "-8.780561"
+      }
+    },
+    {
+      "schoolName": "GLENAMADDY COMMUNITY SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 15.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.607440",
+        "lon": "-8.565034"
+      }
+    },
+    {
+      "schoolName": "DUNMORE COMMUNITY SCHOOL",
+      "numPupils": 353,
+      "distance": {
+        "value": 16.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.616550",
+        "lon": "-8.739240"
+      }
+    },
+    {
+      "schoolName": "ST NATHY'S COLLEGE",
+      "numPupils": 658,
+      "distance": {
+        "value": 17.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.903510",
+        "lon": "-8.580730"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOLMÁIN",
+      "numPupils": 378,
+      "distance": {
+        "value": 23.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.735443",
+        "lon": "-8.980459"
+      }
+    },
+    {
+      "schoolName": "MOUNT ST MICHAEL",
+      "numPupils": 404,
+      "distance": {
+        "value": 25.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.732270",
+        "lon": "-9.001320"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COMMUNITY COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 26.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.960330",
+        "lon": "-8.801390"
+      }
+    },
+    {
+      "schoolName": "ST LOUIS COMMUNITY SCHOOL",
+      "numPupils": 690,
+      "distance": {
+        "value": 27.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.848385",
+        "lon": "-9.002216"
+      }
+    },
+    {
+      "schoolName": "HIGH CROSS COLLEGE",
+      "numPupils": 827,
+      "distance": {
+        "value": 29.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.517776",
+        "lon": "-8.850113"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ballinlough",
+      "route": "440",
+      "destination": "Westport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7418289767982",
+        "lon": "-8.63431724134605"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballinlough",
+      "route": "429",
+      "destination": "Ballaghadereen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.741838",
+        "lon": "-8.634348"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Trien",
+      "route": "NG05",
+      "destination": "Drumshanbo",
+      "provider": "Westlink Coaches",
+      "distance": {
+        "value": 4.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7329499522334",
+        "lon": "-8.55273688099224"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Williamstown",
+      "route": "546",
+      "destination": "Ballinasloe",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 7.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.677759027017",
+        "lon": "-8.57848667921351"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Williamstown",
+      "route": "NG05",
+      "destination": "Liosban Industrial Estate",
+      "provider": "Westlink Coaches",
+      "distance": {
+        "value": 7.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.677759027017",
+        "lon": "-8.57848667921351"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Williamstown",
+      "route": "429",
+      "destination": "Castlerea",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.677633",
+        "lon": "-8.578576"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Main Street",
+      "route": "977",
+      "destination": "Castlerea",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 8.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.76919",
+        "lon": "-8.49448"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballaghaugeag",
+      "route": "429",
+      "destination": "Castlerea",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 8.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.687907",
+        "lon": "-8.527424"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlerea Stn",
+      "route": "546",
+      "destination": "Castlerea",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 9.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7617",
+        "lon": "-8.485899"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlerea Stn",
+      "route": "429",
+      "destination": "Castlerea",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7617",
+        "lon": "-8.485899"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-8-seacourt-gentian-hill-knocknacarra-galway-salthill-co-galway/6686005",
+  "fetchedAt": "2026-10-05T09:32:13.795Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-8-seacourt-gentian-hill-knocknacarra-galway-salthill-co-galway/6686005",
+  "kind": "listing",
+  "responseSha256": "b9fe624d7adfcdd18f76c4e8f6165846ddaa3e63f9ce6afda845ac8c319f0ec8",
+  "files": [
+    {
+      "path": "daft/01376-5e355500e2fd1f86-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b0aaced9a714a3c19797d98a58ca3ab2509bf17a251a04d95533e1984f4347f8",
+      "bytes": 15730
+    },
+    {
+      "path": "daft/01376-5e355500e2fd1f86-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9e4fcead581d90b3aeafbc1544bdd1f87dc91936a7fdc962d6aacb70a8c1da2",
+      "bytes": 8076
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

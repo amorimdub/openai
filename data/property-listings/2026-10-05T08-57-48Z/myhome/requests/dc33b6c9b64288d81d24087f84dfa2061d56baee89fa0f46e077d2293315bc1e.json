@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=269",
+  "fetchedAt": "2026-10-05T12:33:31.490Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=269",
+  "kind": "search",
+  "responseSha256": "5f03ea425b3cbbad16912bd8e2720dc0a8b01817169a6da850a3c16ad6f9d010",
+  "files": [
+    {
+      "path": "myhome/06081-dc33b6c9b64288d8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=269\"].SearchResults",
+      "sha256": "9c96093a591b43123c61b6539cea8f15b88b44abc07313538538c50a792f8fbd",
+      "bytes": 115133
+    },
+    {
+      "path": "myhome/06081-dc33b6c9b64288d8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=269\"] (paging fields)",
+      "sha256": "22f9c91db326e4bef58c74425e724328ef03a1539677ab29c67794ed52bb9945",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-suttonfield-paddocks-ballybetagh-road-kilternan-dublin-18/4695419",
+    "https://www.myhome.ie/residential/brochure/steeplewood-killiney-avenue-killiney-co-dublin/5025423",
+    "https://www.myhome.ie/residential/brochure/collinstown-skerries-road-lusk-co-dublin/5025422",
+    "https://www.myhome.ie/residential/brochure/cornmill-ratoath-co-meath/4997317",
+    "https://www.myhome.ie/residential/brochure/bowhill-fairyhouse-road-ratoath-co-meath/5023084",
+    "https://www.myhome.ie/residential/brochure/bella-vista-48-48a-seapoint-avenue-monkstown/5025414",
+    "https://www.myhome.ie/residential/brochure/monaskeha-clonlara-clare/5022716",
+    "https://www.myhome.ie/residential/brochure/varradene-68-bird-avenue-clonskeagh-dublin-14/5024645",
+    "https://www.myhome.ie/residential/brochure/10-montpelier-hill-stoneybatter-dublin-7/4993209",
+    "https://www.myhome.ie/residential/brochure/kilnagleary-carrigaline-cork/5025354",
+    "https://www.myhome.ie/residential/brochure/120-clonard-road-crumlin-dublin-12/5020918",
+    "https://www.myhome.ie/residential/brochure/10-hillsbrook-drive-perrystown-dublin-12/5025396",
+    "https://www.myhome.ie/residential/brochure/westwinds-tinteskin-kilmuckridge-wexford/5025380",
+    "https://www.myhome.ie/residential/brochure/85-block-a1-knockmaree-dublin-20/5025391",
+    "https://www.myhome.ie/residential/brochure/3-lismore-park-waterford-waterford-city-waterford/5025387",
+    "https://www.myhome.ie/residential/brochure/mount-auburn-park-killiney-hill-road-killiney-county-dublin/5025383",
+    "https://www.myhome.ie/residential/brochure/1-lakelands-grove-stillorgan-co-dublin/5025385",
+    "https://www.myhome.ie/residential/brochure/suttonfield-ballybetagh-road-kilternan-dublin-18/4652536",
+    "https://www.myhome.ie/residential/brochure/4-greenmount-lane-harold-s-cross-dublin-12/5021785",
+    "https://www.myhome.ie/residential/brochure/47-rath-bawn-portnick-ballinasloe-co-galway/5025381"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=270",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/briar-wood-bray-bray-co-wicklow/6684760",
+  "fetchedAt": "2026-10-05T09:40:29.335Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/briar-wood-bray-bray-co-wicklow/6684760",
+  "kind": "listing",
+  "responseSha256": "649539de2b4919b03dddaa95e13d611be71faa16229215926a66c566c3655cef",
+  "files": [
+    {
+      "path": "daft/01706-2a6acda59d39cd1a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dfff534dcc9b641d6c2a1b58ad1269539aa9d00faa76142b4755a67eade32952",
+      "bytes": 18290
+    },
+    {
+      "path": "daft/01706-2a6acda59d39cd1a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c383d046fda20adc05b853eab52526bc4841f3b5fddf6a0fe763bc5a6ddfce09",
+      "bytes": 8169
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

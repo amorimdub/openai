@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/custume-pier-custume-place-athlone-co-westmeath/6685600",
+  "fetchedAt": "2026-10-05T09:28:02.939Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/custume-pier-custume-place-athlone-co-westmeath/6685600",
+  "kind": "listing",
+  "responseSha256": "d9b4edef2cc8ea976e1d651794c697fabcfdefd929fb76d31ebe1aa076d8aa53",
+  "files": [
+    {
+      "path": "daft/01209-8ccb53b6f7d397fa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ca2fa379d33c9d36294bca46c40da0e6a0c5ea6c9b1de4a8c3ae750d207928e7",
+      "bytes": 6097
+    },
+    {
+      "path": "daft/01209-8ccb53b6f7d397fa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2a56ee48c2c14e5e61d65fdbdac2f0ae0b68912029f000b32a9b1537be493073",
+      "bytes": 8012
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

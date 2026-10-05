@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "DANGAN NATIONAL SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 1.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.489980",
+        "lon": "-6.743277"
+      }
+    },
+    {
+      "schoolName": "COOLE N.S,",
+      "numPupils": 153,
+      "distance": {
+        "value": 3.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.452305",
+        "lon": "-6.727351"
+      }
+    },
+    {
+      "schoolName": "MOYNALVEY NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 3.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.474804",
+        "lon": "-6.681743"
+      }
+    },
+    {
+      "schoolName": "KILTALE NATIONAL SCHOOL",
+      "numPupils": 114,
+      "distance": {
+        "value": 6.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524376",
+        "lon": "-6.672858"
+      }
+    },
+    {
+      "schoolName": "BACONSTOWN NATIONAL SCHOOL",
+      "numPupils": 149,
+      "distance": {
+        "value": 6.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.444153",
+        "lon": "-6.803442"
+      }
+    },
+    {
+      "schoolName": "SN CILL",
+      "numPupils": 71,
+      "distance": {
+        "value": 6.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.485558",
+        "lon": "-6.826509"
+      }
+    },
+    {
+      "schoolName": "CULMULLEN NATIONAL SCHOOL",
+      "numPupils": 115,
+      "distance": {
+        "value": 8.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.489704",
+        "lon": "-6.606356"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL NA BOINNE",
+      "numPupils": 209,
+      "distance": {
+        "value": 8.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.553143",
+        "lon": "-6.769678"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S NATIONAL SCHOOL",
+      "numPupils": 92,
+      "distance": {
+        "value": 8.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.437946",
+        "lon": "-6.622083"
+      }
+    },
+    {
+      "schoolName": "ST MICHAEL'S NATIONAL SCHOOL TRIM",
+      "numPupils": 289,
+      "distance": {
+        "value": 8.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.551300",
+        "lon": "-6.791847"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "BOYNE COMMUNITY SCHOOL",
+      "numPupils": 998,
+      "distance": {
+        "value": 8.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.550640",
+        "lon": "-6.784260"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE TRIM",
+      "numPupils": 820,
+      "distance": {
+        "value": 8.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.552498",
+        "lon": "-6.789659"
+      }
+    },
+    {
+      "schoolName": "SCOIL DARA",
+      "numPupils": 860,
+      "distance": {
+        "value": 9.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.402996",
+        "lon": "-6.670221"
+      }
+    },
+    {
+      "schoolName": "ENFIELD COMMUNITY COLLEGE",
+      "numPupils": 532,
+      "distance": {
+        "value": 9.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.414413",
+        "lon": "-6.828750"
+      }
+    },
+    {
+      "schoolName": "COMMUNITY COLLEGE DUNSHAUGHLIN",
+      "numPupils": 1135,
+      "distance": {
+        "value": 12.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513973",
+        "lon": "-6.549007"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CLAVIN",
+      "numPupils": 517,
+      "distance": {
+        "value": 12.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.454970",
+        "lon": "-6.922248"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE RIOGA",
+      "numPupils": 193,
+      "distance": {
+        "value": 13.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.506660",
+        "lon": "-6.536972"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE MHAIGH NUAD",
+      "numPupils": 129,
+      "distance": {
+        "value": 13.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.385963",
+        "lon": "-6.595427"
+      }
+    },
+    {
+      "schoolName": "MAYNOOTH POST PRIMARY SCHOOL",
+      "numPupils": 1018,
+      "distance": {
+        "value": 14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384550",
+        "lon": "-6.596447"
+      }
+    },
+    {
+      "schoolName": "MAYNOOTH COMMUNITY COLLEGE",
+      "numPupils": 962,
+      "distance": {
+        "value": 14.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384390",
+        "lon": "-6.595700"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Elm Grove",
+      "route": "115C",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4803713895682",
+        "lon": "-6.73058356657467"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Summerhill",
+      "route": "UM09",
+      "destination": "Athboy, stop 135891",
+      "provider": "Streamline Coaches",
+      "distance": {
+        "value": 0.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.48216",
+        "lon": "-6.73"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Summerhill",
+      "route": "115C",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.482202",
+        "lon": "-6.734537"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathmolyon",
+      "route": "115C",
+      "destination": "Killucan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4879865198314",
+        "lon": "-6.80494774026777"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Walterstown",
+      "route": "111X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.536595",
+        "lon": "-6.708702"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Walterstown",
+      "route": "111",
+      "destination": "Delvin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.536634",
+        "lon": "-6.708897"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kiltale",
+      "route": "111",
+      "destination": "Athboy",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.525463",
+        "lon": "-6.669645"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kiltale",
+      "route": "111X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.525609",
+        "lon": "-6.669821"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kelleghers Cross",
+      "route": "847",
+      "destination": "Bachelors Walk",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 6.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4201256081706",
+        "lon": "-6.73621535751597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kelleghers Cross",
+      "route": "UM02",
+      "destination": "Columcille Street, stop 104531",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 6.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.42013",
+        "lon": "-6.73676"
+      }
+    }
+  ]
+}

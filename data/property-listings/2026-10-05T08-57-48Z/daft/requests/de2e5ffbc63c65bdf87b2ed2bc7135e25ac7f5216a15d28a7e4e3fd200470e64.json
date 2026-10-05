@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/breaffy-resort-castlebar-co-mayo-castlebar-co-mayo/6686552",
+  "fetchedAt": "2026-10-05T09:15:42.451Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/breaffy-resort-castlebar-co-mayo-castlebar-co-mayo/6686552",
+  "kind": "listing",
+  "responseSha256": "5e38518434eb090a530b4b1cc168c2c3b06aac06e5d2265c42f355b1b363203b",
+  "files": [
+    {
+      "path": "daft/00716-de2e5ffbc63c65bd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "19c5aa950ddc185c8fd0c6d30afb81e99e74de5069c6b64bb575cd7addb97110",
+      "bytes": 7395
+    },
+    {
+      "path": "daft/00716-de2e5ffbc63c65bd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4f06cf6eac193a7cc5276e91902a510c2581065b04f0c78078709e70363b1e66",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

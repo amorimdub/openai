@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=2",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=2",
+  "fetchedAt": "2026-10-05T08:57:51.185Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "2e9debc9174941a40c4a94b77f39e2bbd89618d6f55524a67a79951e965f58f2",
+  "files": [
+    {
+      "path": "myhome/00003-4cd2ecbf2c5da2fc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=2\"].SearchResults",
+      "sha256": "c9abd681ad763a8090629c6374de28ffeb1aaab0789801c9c93d603590691a32",
+      "bytes": 120837
+    },
+    {
+      "path": "myhome/00003-4cd2ecbf2c5da2fc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=2\"] (paging fields)",
+      "sha256": "659d39e4b675182a2e69df42e6524dd3dbfb92cf46b9b80e92e143eeb52c7292",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/10-the-pine-trimbleston-goatstown-dublin-14/5032095",
+    "https://www.myhome.ie/residential/brochure/128-carysfort-park-blackrock-county-dublin/5009642",
+    "https://www.myhome.ie/residential/brochure/rockville-manor-kilternan-dublin-18/4908483",
+    "https://www.myhome.ie/residential/brochure/92-the-maples-clonskeagh-dublin-14/5031384",
+    "https://www.myhome.ie/residential/brochure/69-71-pembroke-road-ballsbridge-dublin-4/5027879",
+    "https://www.myhome.ie/residential/brochure/glandore-mardyke-walk-cork-city-cork/5024555",
+    "https://www.myhome.ie/residential/brochure/white-gables-house-white-gables-rathmichael-dublin-18/5029638",
+    "https://www.myhome.ie/residential/brochure/35-auburn-howth-road-clontarf-dublin-3/5005284",
+    "https://www.myhome.ie/residential/brochure/36-dublin-street-balbriggan-dublin/5032092",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-homes-churchfields-clonattin-gorey-co-wexford/4914755",
+    "https://www.myhome.ie/residential/brochure/5-estuary-court-swords-county-dublin/5022704",
+    "https://www.myhome.ie/residential/brochure/the-osprey-miller-s-glen-apartments-swords-dublin/5017436",
+    "https://www.myhome.ie/residential/brochure/brown-s-lane-beakstown-thurles-co-tipperary/5030518",
+    "https://www.myhome.ie/residential/brochure/80-bunbury-gate-crescent-swords-county-dublin/5027279",
+    "https://www.myhome.ie/residential/brochure/drayton-dundalk-louth/4935981",
+    "https://www.myhome.ie/residential/brochure/moyros-cortoon-killala-co-mayo/5013404",
+    "https://www.myhome.ie/residential/brochure/42-ridgewood-square-ridgewood-swords-county-dublin/5006592",
+    "https://www.myhome.ie/residential/brochure/the-arches-birr-road-shinrone-birr-co-offaly/5025273",
+    "https://www.myhome.ie/residential/brochure/crocksheeby-termonfeckin-drogheda-co-louth/5031279",
+    "https://www.myhome.ie/residential/brochure/granuaile-glentara-roscrea-co-tipperary/5025608"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=3",
+  "paginationLimited": false
+}

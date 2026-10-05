@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-elysian-the-elysian-eglinton-street-cork-city-centre-co-cork/5590582",
+  "fetchedAt": "2026-10-05T09:08:25.338Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-elysian-the-elysian-eglinton-street-cork-city-centre-co-cork/5590582",
+  "kind": "listing",
+  "responseSha256": "d9a6e169f7f5409a857b0d96d02cc3c4aaad61914a8b23fffe8aa77d2b8c9c85",
+  "files": [
+    {
+      "path": "daft/00425-262611804f0153bc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3da8e3a9d882bda20ad83d38fb1daca7755a1d32e0c979f96d0e0ead777ae506",
+      "bytes": 44105
+    },
+    {
+      "path": "daft/00425-262611804f0153bc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bfc566ff0b3660454480d8fdec3258e9f1bd08a0cef9b5d89941d37a1ad1e3fa",
+      "bytes": 8165
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

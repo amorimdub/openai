@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=356",
+  "fetchedAt": "2026-10-05T13:17:55.961Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=356",
+  "kind": "search",
+  "responseSha256": "b5fa02066775f3ccf896b8be3e0ab6605a711a1a89aec5e860299fc749b55cff",
+  "files": [
+    {
+      "path": "myhome/07849-fadf0a7ad107e07c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=356\"].SearchResults",
+      "sha256": "34481412ad09813637440884eb842f49c817c46b14d21608e78a66919b180c28",
+      "bytes": 106473
+    },
+    {
+      "path": "myhome/07849-fadf0a7ad107e07c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=356\"] (paging fields)",
+      "sha256": "5f79bc0b5f512fb71a32b7a1c566f7233ef59ef89be09fe76088bdb504417951",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-glen-dara-ard-cashel-watergrasshill-co-cork/5019454",
+    "https://www.myhome.ie/residential/brochure/67-innismore-crumlin-dublin-12/5019448",
+    "https://www.myhome.ie/residential/brochure/73-the-glebe-ballina-mayo/5019335",
+    "https://www.myhome.ie/residential/brochure/3-loreto-row-rathfarnham-dublin-14/5019447",
+    "https://www.myhome.ie/residential/brochure/grove-lodge-tomriland-roundwood-county-wicklow/5019445",
+    "https://www.myhome.ie/residential/brochure/cherriestown-murrintown-co-wexford/5019425",
+    "https://www.myhome.ie/residential/brochure/32-castle-heights-dundalk-louth/5019316",
+    "https://www.myhome.ie/residential/brochure/47-fortfield-road-terenure-dublin-6-w/5003042",
+    "https://www.myhome.ie/residential/brochure/development-site-belmullet-co-mayo/5019429",
+    "https://www.myhome.ie/residential/brochure/14-aubrey-court-parnell-road-bray-co-wicklow/5019427",
+    "https://www.myhome.ie/residential/brochure/30-clifden-road-ballyfermot-dublin-10-d10-f620/5019418",
+    "https://www.myhome.ie/residential/brochure/roney-point-gorey-wexford/5019415",
+    "https://www.myhome.ie/residential/brochure/5-rath-geal-clondalkin-dublin-22/5019416",
+    "https://www.myhome.ie/residential/brochure/4-landsborough-close-moneygurney-rochestown-cork/5019409",
+    "https://www.myhome.ie/residential/brochure/54-shanard-road-santry-dublin-9/5008176",
+    "https://www.myhome.ie/residential/brochure/33-copper-point-airhill-schull-west-cork/5002140",
+    "https://www.myhome.ie/residential/brochure/marconi-house-crookhaven-west-cork/4781855",
+    "https://www.myhome.ie/residential/brochure/20-longmeadow-conyngham-road-islandbridge-dublin-8/5019405",
+    "https://www.myhome.ie/residential/brochure/34-montpelier-court-tallaght-dublin-24/5019404",
+    "https://www.myhome.ie/residential/brochure/ardoughter-ballyduff-co-kerry/5019400"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=357",
+  "paginationLimited": false
+}

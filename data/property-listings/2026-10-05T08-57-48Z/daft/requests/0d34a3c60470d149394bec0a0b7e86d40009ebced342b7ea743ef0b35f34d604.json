@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/saint-lawrence-road-dublin-3-clontarf-dublin-3/6687404",
+  "fetchedAt": "2026-10-05T09:23:08.463Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/saint-lawrence-road-dublin-3-clontarf-dublin-3/6687404",
+  "kind": "listing",
+  "responseSha256": "2ab2aa1c2e82bb575305b7bcd9fb0ef91aacdbdb85ed75356b0c3dcf48a01ee9",
+  "files": [
+    {
+      "path": "daft/01013-0d34a3c60470d149-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a4204bbfa033ead64e6fdd3c7f8fdc0d152a7ea0069786d45ebedfed481d7de4",
+      "bytes": 17050
+    },
+    {
+      "path": "daft/01013-0d34a3c60470d149-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "406d16409209086ad6ebf60b0292bf29dc256d05764bb898699b20e27afd7f6c",
+      "bytes": 8181
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

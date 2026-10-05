@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=36",
+  "fetchedAt": "2026-10-05T09:38:51.714Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=36",
+  "kind": "search",
+  "responseSha256": "e82de50ca76a39a62bfc16d6497d7c76add0bad2a7581d72f247a968a61a9f05",
+  "files": [
+    {
+      "path": "daft/01641-1d42435dc09426cd-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "e42bf763d9734c691450150e86c7b13c6876b7b4c25a6b6b72e860f92cad95c6",
+      "bytes": 303670
+    },
+    {
+      "path": "daft/01641-1d42435dc09426cd-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01641-1d42435dc09426cd-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "eb99c6e84de61757d7ac3ed5055226a82fda38e828f36b914d7c2cf66cbac082",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/yellow-house-bunnanaddan-ballymote-co-sligo/6663759",
+    "https://www.daft.ie/for-sale/37-mckee-avenue-finglas-dublin-11/6663753",
+    "https://www.daft.ie/for-sale/oaklands-lagore-little-dunshaughlin-co-meath/6551777",
+    "https://www.daft.ie/for-sale/23-long-meadows-sion-road-kilkenny-co-kilkenny/6662089",
+    "https://www.daft.ie/for-sale/10-southbay-point-rosslare-rosslare-strand-co-wexford/6543016",
+    "https://www.daft.ie/for-sale/18-the-plains-strandhill-sligo-co-sligo/6663258",
+    "https://www.daft.ie/for-sale/apartment-4-crosley-house-crosley-row-limerick-city-centre-co-limerick/6571769",
+    "https://www.daft.ie/for-sale/the-haven-south-shore-road-rush-co-dublin/6652857",
+    "https://www.daft.ie/for-sale/stradbally-east-kilcolgan-co-galway/6662879",
+    "https://www.daft.ie/for-sale/5-mount-temple-view-mount-temple-athlone-co-westmeath/6659041",
+    "https://www.daft.ie/for-sale/nolans-hill-fenit-fenit-co-kerry/6658889",
+    "https://www.daft.ie/for-sale/3-pembroke-cottages-ringsend-ringsend-dublin-4/6658935",
+    "https://www.daft.ie/for-sale/21-springfield-glen-navan-co-meath/6546711",
+    "https://www.daft.ie/for-sale/36-the-waterfront-bridge-street-galway-city-centre/6489350",
+    "https://www.daft.ie/for-sale/10-mullan-mor-tuam-road-co-galway/6572236",
+    "https://www.daft.ie/for-sale/81-the-elms-mount-merrion-avenue-blackrock-co-dublin/6580733",
+    "https://www.daft.ie/for-sale/373-bachelors-walk-dublin-1/6580634",
+    "https://www.daft.ie/for-sale/103-the-elms-mount-merrion-avenue-blackrock-co-dublin/6662639",
+    "https://www.daft.ie/for-sale/eyre-house-coolnahila-lisnagry-co-limerick/6660934",
+    "https://www.daft.ie/for-sale/the-elms-30-the-crescent-beaumont-blackrock-co-cork/6656555"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=37",
+  "paginationLimited": false
+}

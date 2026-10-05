@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=468",
+  "fetchedAt": "2026-10-05T14:15:42.636Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=468",
+  "kind": "search",
+  "responseSha256": "36b2311b2a421b6cc92b950ca52bae7bfec4d854129c496e2f05b1091dfd2f48",
+  "files": [
+    {
+      "path": "myhome/10155-c72987d831da731c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=468\"].SearchResults",
+      "sha256": "952891110c19e0e76d39acbf1e9651344e28fb8bc0599c3f336b52ccf50d0a6b",
+      "bytes": 118506
+    },
+    {
+      "path": "myhome/10155-c72987d831da731c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=468\"] (paging fields)",
+      "sha256": "8b7b5094724919c5e67006066c520f933498e6526be77db165936505c7865745",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/257-drumnigh-manor-portmarnock-co-dublin/5006553",
+    "https://www.myhome.ie/residential/brochure/5-cahergal-terrace-old-youghal-road-cork/5000728",
+    "https://www.myhome.ie/residential/brochure/7-wallace-court-ballinlough-county-roscommon/5006510",
+    "https://www.myhome.ie/residential/brochure/shanahoe-lane-shanahoe-co-laois/5006507",
+    "https://www.myhome.ie/residential/brochure/199-the-oaks-newbridge-co-kildare/4990368",
+    "https://www.myhome.ie/residential/brochure/ryehill-monivea-co-galway/5001934",
+    "https://www.myhome.ie/residential/brochure/apt-1-the-green-gas-yard-lane-malahide-co-dublin/5006493",
+    "https://www.myhome.ie/residential/brochure/52-millrace-road-phoenix-park-racecourse-castleknock-dublin-15/5006488",
+    "https://www.myhome.ie/residential/brochure/house-type-d-st-furseys-park-dublin-road-dundalk-co-louth/5006489",
+    "https://www.myhome.ie/residential/brochure/cush-lodge-10a-station-road-sutton-dublin-13/5004812",
+    "https://www.myhome.ie/residential/brochure/5-hacketstown-cottages-rush-road-skerries-co-dublin/5006475",
+    "https://www.myhome.ie/residential/brochure/47-muckross-avenue-perrystown-dublin-12/4603130",
+    "https://www.myhome.ie/residential/brochure/clonark-cornafulla-athlone-co-roscommon/5006468",
+    "https://www.myhome.ie/residential/brochure/38-cedarbrook-way-cherry-orchard-dublin-10/5006463",
+    "https://www.myhome.ie/residential/brochure/93-rutland-avenue-crumlin-dublin-12/5006444",
+    "https://www.myhome.ie/residential/brochure/2-lennon-melia-terrace-dundalk-county-louth/5006457",
+    "https://www.myhome.ie/residential/brochure/3-ellensborough-lodge-kiltipper-dublin-24/5001627",
+    "https://www.myhome.ie/residential/brochure/27-croughaun-view-kilmacthomas-waterford/5006448",
+    "https://www.myhome.ie/residential/brochure/sheepstown-delvin-co-westmeath-mullingar/5006456",
+    "https://www.myhome.ie/residential/brochure/the-old-oak-cottage-collorus-lauragh-kenmare-co-kerry/5006436"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=469",
+  "paginationLimited": false
+}

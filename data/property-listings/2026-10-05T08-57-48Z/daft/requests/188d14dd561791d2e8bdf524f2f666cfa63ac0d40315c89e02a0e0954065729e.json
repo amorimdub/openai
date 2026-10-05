@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rathmines-road-lower-ranelagh-dublin-6/6683566",
+  "fetchedAt": "2026-10-05T09:48:51.159Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rathmines-road-lower-ranelagh-dublin-6/6683566",
+  "kind": "listing",
+  "responseSha256": "9aeeb4e3c0bac91e778062e12083682f9bfc183bc7586072e8eb28cc5e4e3df4",
+  "files": [
+    {
+      "path": "daft/02040-188d14dd561791d2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d80346a35d20fab6fecb12c1ff9678132cda574d1b1946ae4db77565a05c6b19",
+      "bytes": 25415
+    },
+    {
+      "path": "daft/02040-188d14dd561791d2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5f2c6502aafe8f6750226b8cf320c3fb0f6008a8111b1b80fd84826115a9c2b4",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

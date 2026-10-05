@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/clonkeen-road-deansgrange-kill-o-the-grange-co-dublin/6683138",
+  "fetchedAt": "2026-10-05T09:50:54.391Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/clonkeen-road-deansgrange-kill-o-the-grange-co-dublin/6683138",
+  "kind": "listing",
+  "responseSha256": "5621b74edcdf6551f7601e869c2ab0fe1d24d34c081c1a18323f2d126a9e4728",
+  "files": [
+    {
+      "path": "daft/02122-ccaead349e64763e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "23662f42965d147490f79f8e8b644c90c9557c4a81ed02c0d451b4f11baefcb5",
+      "bytes": 79481
+    },
+    {
+      "path": "daft/02122-ccaead349e64763e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "157824b396981ae2b55774c92347cfe7ce85e94b4c4cb23b01de3794e5238005",
+      "bytes": 8225
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

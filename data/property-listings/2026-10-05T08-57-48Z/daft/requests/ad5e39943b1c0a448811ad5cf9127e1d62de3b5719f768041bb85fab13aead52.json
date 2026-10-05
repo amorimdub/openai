@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/large-2-bedroom-apartment-occu-cedar-place-cedar-place-swords-co-dublin/6667797",
+  "fetchedAt": "2026-10-05T09:05:28.146Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/large-2-bedroom-apartment-occu-cedar-place-cedar-place-swords-co-dublin/6667797",
+  "kind": "listing",
+  "responseSha256": "d9f1ad2b6df7f3573b8540ea74faaf2a2a4085d72efcad49407e4c632f822199",
+  "files": [
+    {
+      "path": "daft/00307-ad5e39943b1c0a44-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ddfa81037f19a2404bc7340de00425aa05ccc7bc68c4a2b10c11dcc68d59bf32",
+      "bytes": 112879
+    },
+    {
+      "path": "daft/00307-ad5e39943b1c0a44-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1f927236cd619b54d8923790ed06bdf41220ac7718486ae1174d2a214c7cb9a0",
+      "bytes": 8104
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

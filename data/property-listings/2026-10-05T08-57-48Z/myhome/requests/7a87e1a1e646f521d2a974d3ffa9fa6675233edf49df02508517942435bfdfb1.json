@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=328",
+  "fetchedAt": "2026-10-05T13:03:37.675Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=328",
+  "kind": "search",
+  "responseSha256": "f21051f3657f575349b94e35ba3e7de7cc849e4bf693900e615cad0214be83f4",
+  "files": [
+    {
+      "path": "myhome/07278-7a87e1a1e646f521-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=328\"].SearchResults",
+      "sha256": "946898a5edf78362e9f9e942ae35988b06dd2f095384d2abc982127710fbd016",
+      "bytes": 123956
+    },
+    {
+      "path": "myhome/07278-7a87e1a1e646f521-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=328\"] (paging fields)",
+      "sha256": "409ba62d1e48b137527a47df84b24f6121051eaf4f6505a397d3245c1e180490",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-springfield-park-cobh-cork/5021973",
+    "https://www.myhome.ie/residential/brochure/65-belfry-hall-citywest-co-dublin/5021970",
+    "https://www.myhome.ie/residential/brochure/26-the-willows-castle-heights-carrigaline-cork/5017227",
+    "https://www.myhome.ie/residential/brochure/celtic-view-quay-road-ballina-mayo/5021960",
+    "https://www.myhome.ie/residential/brochure/fanningstown-patrickswell-limerick/5021958",
+    "https://www.myhome.ie/residential/brochure/convent-road-ballaghaderreen-co-roscommon/5021956",
+    "https://www.myhome.ie/residential/brochure/19-bath-avenue-sandymount-dublin-4/5001416",
+    "https://www.myhome.ie/residential/brochure/drumsheel-cong-county-mayo/5021951",
+    "https://www.myhome.ie/residential/brochure/61-station-court-portarlington-laois/5021823",
+    "https://www.myhome.ie/residential/brochure/carlow-road-ballylynan-ballylynan-laois/5021945",
+    "https://www.myhome.ie/residential/brochure/stonehill-stud-farm-ballinvarosig-carrigaline-cork/4998172",
+    "https://www.myhome.ie/residential/brochure/five-bed-semi-detached-orchid-meadows-water-rock-midleton-co-cork/5021944",
+    "https://www.myhome.ie/residential/brochure/three-bed-semi-detached-orchid-meadows-water-rock-midleton-co-cork/5021943",
+    "https://www.myhome.ie/residential/brochure/four-bed-detached-orchid-meadows-water-rock-midleton-co-cork/5021942",
+    "https://www.myhome.ie/residential/brochure/three-bed-mid-terrace-ordchid-meadows-water-rock-midleton-co-cork/5021941",
+    "https://www.myhome.ie/residential/brochure/three-bed-end-of-terrace-orchid-meadows-water-rock-midleton-co-cork/5021939",
+    "https://www.myhome.ie/residential/brochure/ballynaglack-stranorlar-co-donegal/5021938",
+    "https://www.myhome.ie/residential/brochure/7-rd-na-gr-ine-shanbally-ringaskiddy-cork/4916705",
+    "https://www.myhome.ie/residential/brochure/90-shrewsbury-lawn-cabinteely-dublin-18/5021937",
+    "https://www.myhome.ie/residential/brochure/the-cascades-ballynerrin-upper-wicklow-town-co-wicklow/5021936"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=329",
+  "paginationLimited": false
+}

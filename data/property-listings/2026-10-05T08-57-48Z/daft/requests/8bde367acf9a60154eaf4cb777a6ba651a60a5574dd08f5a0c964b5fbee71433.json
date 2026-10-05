@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/a-rated-4-bed-home-dublin-18-leopardstown-dublin-18/6683061",
+  "fetchedAt": "2026-10-05T09:51:12.412Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/a-rated-4-bed-home-dublin-18-leopardstown-dublin-18/6683061",
+  "kind": "listing",
+  "responseSha256": "54f0dc7e4a7ca8aaafb70605fe448b7857387e614e4b1cac7ca63ee7d78db434",
+  "files": [
+    {
+      "path": "daft/02134-8bde367acf9a6015-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ae1d7f4a41d1302ed4dd4ac89fb5ea43fb6f80ecf508c24b96d6edd974397d6c",
+      "bytes": 70911
+    },
+    {
+      "path": "daft/02134-8bde367acf9a6015-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4f3fd0d72a4dacd67481852bea10d3340b27e5fa24ebd6ab24e31c6bc4d18935",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=248",
+  "fetchedAt": "2026-10-05T12:22:31.243Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=248",
+  "kind": "search",
+  "responseSha256": "820f9eee8324c3a0446ebd990e187170a0aaf76104adf82d6a3bc9c16c3076b8",
+  "files": [
+    {
+      "path": "myhome/05642-9d7a8e5b673b0bcb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=248\"].SearchResults",
+      "sha256": "3be0c87e98e7329812269a3a34fee94ac9f79e1f24be8597453d2ef57a322ec9",
+      "bytes": 105023
+    },
+    {
+      "path": "myhome/05642-9d7a8e5b673b0bcb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=248\"] (paging fields)",
+      "sha256": "e2bf5c4531c5549532f75dbecedd93b146469ed43cd9daaec47071d975f9c751",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/27-lisbeg-oakpark-tralee-co-kerry/5026117",
+    "https://www.myhome.ie/residential/brochure/39-north-street-ongar-dublin-15/5026109",
+    "https://www.myhome.ie/residential/brochure/71-hazelbury-green-clonee-dublin-15/5026116",
+    "https://www.myhome.ie/residential/brochure/103-the-elms-mount-merrion-avenue-blackrock-co-dublin/5026115",
+    "https://www.myhome.ie/residential/brochure/9-the-green-silver-banks-stamullen-co-meath/5026114",
+    "https://www.myhome.ie/residential/brochure/142-lower-kilmacud-road-stillorgan-county-dublin/5026110",
+    "https://www.myhome.ie/residential/brochure/17-o-rourke-park-sallynoggin-co-dublin/5011920",
+    "https://www.myhome.ie/residential/brochure/3-meadow-court-clane-kildare/5026107",
+    "https://www.myhome.ie/residential/brochure/carne-belmullet-mayo/5026100",
+    "https://www.myhome.ie/residential/brochure/aghateskin-broomfield-castleblayney-monaghan/5026103",
+    "https://www.myhome.ie/residential/brochure/knockshanawee-farnanes-cork/5014813",
+    "https://www.myhome.ie/residential/brochure/30-saint-john-s-wood-castle-avenue-clontarf-dublin-3/5009821",
+    "https://www.myhome.ie/residential/brochure/ballsbridge-wood-ballsbridge-dublin-4/5026099",
+    "https://www.myhome.ie/residential/brochure/27-5-ha-68-acres-killineer-drogheda-co-louth/5026096",
+    "https://www.myhome.ie/residential/brochure/18-castleland-park-place-balbriggan-co-dublin/5026091",
+    "https://www.myhome.ie/residential/brochure/12-the-moorings-marina-village-greystones-co-wicklow/4998410",
+    "https://www.myhome.ie/residential/brochure/8-sorrenta-villas-old-blackrock-road-cork/5026090",
+    "https://www.myhome.ie/residential/brochure/106-ardilaun-portmarnock-county-dublin/5025951",
+    "https://www.myhome.ie/residential/brochure/10-oakwood-roscommon-town-co-roscommon/5026089",
+    "https://www.myhome.ie/residential/brochure/3-bed-semi-detached-type-b-eascanrath-brook-suncroft-co-kildare/5026088"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=249",
+  "paginationLimited": false
+}

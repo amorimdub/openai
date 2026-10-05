@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/56-ros-ard-cappagh-road-knocknacarra-co-galway/6686090",
+  "fetchedAt": "2026-10-05T09:31:22.734Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/56-ros-ard-cappagh-road-knocknacarra-co-galway/6686090",
+  "kind": "listing",
+  "responseSha256": "35cffc00274b029d164de114e3db8bf3a094dbbd7b30048b11acea717c53be96",
+  "files": [
+    {
+      "path": "daft/01342-09cb60c135924812-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04f4057224d6b20bcbe9fc05823384c99e3508789400d04f61e41467de08cd64",
+      "bytes": 24315
+    },
+    {
+      "path": "daft/01342-09cb60c135924812-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "854417c9604c36c887e6ec11ee0b764172a8f5e58681a947d882e5d7fc710410",
+      "bytes": 8056
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

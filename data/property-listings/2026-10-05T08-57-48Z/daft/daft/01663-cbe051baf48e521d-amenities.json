@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST COLEMAN'S NATIONAL SCHOOL",
+      "numPupils": 325,
+      "distance": {
+        "value": 0.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.014126",
+        "lon": "-7.144617"
+      }
+    },
+    {
+      "schoolName": "COSBY NATIONAL SCHOOL",
+      "numPupils": 52,
+      "distance": {
+        "value": 0.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013440",
+        "lon": "-7.145416"
+      }
+    },
+    {
+      "schoolName": "RATHENISKA NATIONAL SCHOOL",
+      "numPupils": 184,
+      "distance": {
+        "value": 4.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.006973",
+        "lon": "-7.215884"
+      }
+    },
+    {
+      "schoolName": "FRAOCH MOR NATIONAL SCHOOL",
+      "numPupils": 214,
+      "distance": {
+        "value": 6.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.055480",
+        "lon": "-7.223948"
+      }
+    },
+    {
+      "schoolName": "CHURCHTOWN NATIONAL SCHOOL",
+      "numPupils": 57,
+      "distance": {
+        "value": 6.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.009335",
+        "lon": "-7.052225"
+      }
+    },
+    {
+      "schoolName": "TIMAHOE NATIONAL SCHOOL",
+      "numPupils": 200,
+      "distance": {
+        "value": 6.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.962723",
+        "lon": "-7.198944"
+      }
+    },
+    {
+      "schoolName": "BALLYADAMS NATIONAL SCHOOL",
+      "numPupils": 109,
+      "distance": {
+        "value": 7.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.967380",
+        "lon": "-7.079415"
+      }
+    },
+    {
+      "schoolName": "THE KOLBE SPECIAL SCHOOL",
+      "numPupils": 44,
+      "distance": {
+        "value": 8.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.033600",
+        "lon": "-7.274896"
+      }
+    },
+    {
+      "schoolName": "PORTLAOISE PRIMARY SCHOOL",
+      "numPupils": 601,
+      "distance": {
+        "value": 8.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.030888",
+        "lon": "-7.278083"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY SENIOR SCHOOL",
+      "numPupils": 643,
+      "distance": {
+        "value": 8.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.030888",
+        "lon": "-7.278083"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "SCOIL CHRIOST RI",
+      "numPupils": 802,
+      "distance": {
+        "value": 9.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.048240",
+        "lon": "-7.278459"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S C.B.S.",
+      "numPupils": 803,
+      "distance": {
+        "value": 9.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.048260",
+        "lon": "-7.279020"
+      }
+    },
+    {
+      "schoolName": "DUNAMASE COLLEGE (COLÁISTE DHÚN MÁSC)",
+      "numPupils": 577,
+      "distance": {
+        "value": 10.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.035007",
+        "lon": "-7.299064"
+      }
+    },
+    {
+      "schoolName": "PORTLAOISE COLLEGE",
+      "numPupils": 952,
+      "distance": {
+        "value": 11.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.035545",
+        "lon": "-7.313271"
+      }
+    },
+    {
+      "schoolName": "ÁRDSCOIL NA TRIONÓIDE",
+      "numPupils": 882,
+      "distance": {
+        "value": 11.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.996178",
+        "lon": "-6.983561"
+      }
+    },
+    {
+      "schoolName": "ATHY COMMUNITY COLLEGE",
+      "numPupils": 655,
+      "distance": {
+        "value": 11.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.987110",
+        "lon": "-6.979499"
+      }
+    },
+    {
+      "schoolName": "ST PAULS SECONDARY SCHOOL",
+      "numPupils": 790,
+      "distance": {
+        "value": 14.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.142704",
+        "lon": "-7.066753"
+      }
+    },
+    {
+      "schoolName": "MOUNTMELLICK COMMUNITY SCHOOL",
+      "numPupils": 706,
+      "distance": {
+        "value": 16.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.118050",
+        "lon": "-7.327565"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÍOSAGÁIN",
+      "numPupils": 1135,
+      "distance": {
+        "value": 16.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.161457",
+        "lon": "-7.205451"
+      }
+    },
+    {
+      "schoolName": "HEYWOOD COMMUNITY SCHOOL",
+      "numPupils": 748,
+      "distance": {
+        "value": 17.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.885468",
+        "lon": "-7.299462"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "73",
+      "destination": "Longford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.015956",
+        "lon": "-7.150046"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "838",
+      "destination": "Market Yard",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "IW08",
+      "destination": "Carlow Institute",
+      "provider": "Martley's",
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "IW06",
+      "destination": "Hanover Bus Park",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "IW04",
+      "destination": "Carlow Bus Station",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlemitchell",
+      "route": "IW06",
+      "destination": "Hanover Bus Park",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 6.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0027787652143",
+        "lon": "-7.057821819766"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Heath",
+      "route": "827",
+      "destination": "Saint Vincent's Community Nursing Unit",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.062594",
+        "lon": "-7.226317"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Heath",
+      "route": "829",
+      "destination": "Tullamore Hospital",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.062594",
+        "lon": "-7.226317"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Timahoe",
+      "route": "838",
+      "destination": "Portlaoise Station",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.960941",
+        "lon": "-7.201579"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathbrennan",
+      "route": "832",
+      "destination": "Rathbrennan",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.044312",
+        "lon": "-7.257127"
+      }
+    }
+  ]
+}

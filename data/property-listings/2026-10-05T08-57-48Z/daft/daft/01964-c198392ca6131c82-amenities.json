@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "TOOBAN NATIONAL SCHOOL",
+      "numPupils": 205,
+      "distance": {
+        "value": 3.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.065403",
+        "lon": "-7.434199"
+      }
+    },
+    {
+      "schoolName": "ST AENGUS NATIONAL SCHOOL",
+      "numPupils": 218,
+      "distance": {
+        "value": 4.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.036415",
+        "lon": "-7.382544"
+      }
+    },
+    {
+      "schoolName": "SCOIL CHOLMCILLE",
+      "numPupils": 210,
+      "distance": {
+        "value": 5.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.997406",
+        "lon": "-7.516575"
+      }
+    },
+    {
+      "schoolName": "MOYLE NATIONAL SCHOOL",
+      "numPupils": 80,
+      "distance": {
+        "value": 6.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.998974",
+        "lon": "-7.531389"
+      }
+    },
+    {
+      "schoolName": "MONREAGH NATIONAL SCHOOL",
+      "numPupils": 58,
+      "distance": {
+        "value": 8.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.956356",
+        "lon": "-7.457108"
+      }
+    },
+    {
+      "schoolName": "CARRIGANS NATIONAL SCHOOL",
+      "numPupils": 80,
+      "distance": {
+        "value": 8.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.953197",
+        "lon": "-7.443907"
+      }
+    },
+    {
+      "schoolName": "RATHMULLAN NATIONAL SCHOOL",
+      "numPupils": 122,
+      "distance": {
+        "value": 9.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.095478",
+        "lon": "-7.541275"
+      }
+    },
+    {
+      "schoolName": "S N NAOMH BAOITHIN",
+      "numPupils": 106,
+      "distance": {
+        "value": 10.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.933030",
+        "lon": "-7.462717"
+      }
+    },
+    {
+      "schoolName": "BROWNKNOWE NATIONAL SCHOOL",
+      "numPupils": 53,
+      "distance": {
+        "value": 11.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.060528",
+        "lon": "-7.621690"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOSAGAIN",
+      "numPupils": 790,
+      "distance": {
+        "value": 11.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.133095",
+        "lon": "-7.457452"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "SCOIL MHUIRE SECONDARY SCHOOL",
+      "numPupils": 875,
+      "distance": {
+        "value": 11.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.131336",
+        "lon": "-7.458079"
+      }
+    },
+    {
+      "schoolName": "CRANA COLLEGE",
+      "numPupils": 604,
+      "distance": {
+        "value": 11.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.134983",
+        "lon": "-7.457682"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHINEÁL EOGHAIN",
+      "numPupils": 17,
+      "distance": {
+        "value": 12.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.144043",
+        "lon": "-7.452638"
+      }
+    },
+    {
+      "schoolName": "MULROY COLLEGE",
+      "numPupils": 628,
+      "distance": {
+        "value": 17.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.092690",
+        "lon": "-7.704294"
+      }
+    },
+    {
+      "schoolName": "LORETO COMMUNITY SCHOOL",
+      "numPupils": 807,
+      "distance": {
+        "value": 17.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.088936",
+        "lon": "-7.709009"
+      }
+    },
+    {
+      "schoolName": "THE ROYAL AND PRIOR SCHOOL",
+      "numPupils": 611,
+      "distance": {
+        "value": 19.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.876057",
+        "lon": "-7.590294"
+      }
+    },
+    {
+      "schoolName": "ERRIGAL COLLEGE",
+      "numPupils": 547,
+      "distance": {
+        "value": 19.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.963150",
+        "lon": "-7.733620"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AILIGH",
+      "numPupils": 321,
+      "distance": {
+        "value": 19.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.954600",
+        "lon": "-7.734086"
+      }
+    },
+    {
+      "schoolName": "DEELE COLLEGE",
+      "numPupils": 831,
+      "distance": {
+        "value": 20.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.873890",
+        "lon": "-7.603332"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL, LETTERKENNY",
+      "numPupils": 944,
+      "distance": {
+        "value": 20.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.950188",
+        "lon": "-7.741210"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Moness",
+      "route": "964",
+      "destination": "Letterkenny Bus Station",
+      "provider": "Bus Feda",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.03201",
+        "lon": "-7.45493"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Moness",
+      "route": "953",
+      "destination": "Greencastle",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.03089",
+        "lon": "-7.45806"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Moness",
+      "route": "959",
+      "destination": "Letterkenny",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.03056",
+        "lon": "-7.45847"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burt",
+      "route": "951",
+      "destination": "Letterkenny Bus Station",
+      "provider": "McGonagle Bus and Coach Hire",
+      "distance": {
+        "value": 1.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.03944",
+        "lon": "-7.43361"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burt",
+      "route": "953",
+      "destination": "Letterkenny",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.039878",
+        "lon": "-7.429041"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burt",
+      "route": "959",
+      "destination": "Letterkenny",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.039878",
+        "lon": "-7.429041"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tievebane",
+      "route": "976",
+      "destination": "Buncrana Road",
+      "provider": "McGonagle Bus and Coach Ltd.",
+      "distance": {
+        "value": 3.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.063348",
+        "lon": "-7.425827"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burnfoot",
+      "route": "976",
+      "destination": "Buncrana Road",
+      "provider": "McGonagle Bus and Coach Ltd.",
+      "distance": {
+        "value": 4.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.057279",
+        "lon": "-7.40433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burnfoot",
+      "route": "959",
+      "destination": "Carndonagh",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 4.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.05826",
+        "lon": "-7.40493"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burnfoot",
+      "route": "951",
+      "destination": "Malin",
+      "provider": "McGonagle Bus and Coach Hire",
+      "distance": {
+        "value": 4.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.05826",
+        "lon": "-7.40493"
+      }
+    }
+  ]
+}

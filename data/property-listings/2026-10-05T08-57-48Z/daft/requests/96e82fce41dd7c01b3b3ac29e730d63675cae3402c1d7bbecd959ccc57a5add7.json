@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-sandford-lodge-sandford-lodge-ranelagh-co-dublin/2317388",
+  "fetchedAt": "2026-10-05T09:01:46.953Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-sandford-lodge-sandford-lodge-ranelagh-co-dublin/2317388",
+  "kind": "listing",
+  "responseSha256": "7e73ef869127c2b0864f23756b44e267cf2f553f611489b60ed8a1d953a01efe",
+  "files": [
+    {
+      "path": "daft/00160-96e82fce41dd7c01-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2eba3b824095c8b9288d5ced572158c6c10267e2b6339f09f7f63eb0de0bc047",
+      "bytes": 67104
+    },
+    {
+      "path": "daft/00160-96e82fce41dd7c01-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "739ef21a29baa6d66af5bfa42c5c30ad0593012dddd727be500abe5ad4b9d5bd",
+      "bytes": 8013
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

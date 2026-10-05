@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/wyckham-point-wyckham-way-ballinteer-dublin-16/6630972",
+  "fetchedAt": "2026-10-05T09:23:00.951Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/wyckham-point-wyckham-way-ballinteer-dublin-16/6630972",
+  "kind": "listing",
+  "responseSha256": "b12919d26fae2d3550ed4b2a07b080ab3b19abf1f364fd1ccee9aa5b49932d17",
+  "files": [
+    {
+      "path": "daft/01008-7a8044e8e32b8022-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2b1c4ea36899cc588d1e51d2fe878984fdc7a6689d03b07e95608381e0c7f4b0",
+      "bytes": 40573
+    },
+    {
+      "path": "daft/01008-7a8044e8e32b8022-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "33d9a8133a930ebb7cf831bf6fa310fc76b3acbf4051f59b5bae1dffe41037ed",
+      "bytes": 8071
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

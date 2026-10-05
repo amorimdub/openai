@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-27-block-f-milners-square-whitehall-dublin-9/6683903",
+  "fetchedAt": "2026-10-05T09:45:56.864Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-27-block-f-milners-square-whitehall-dublin-9/6683903",
+  "kind": "listing",
+  "responseSha256": "e7cc440636fb1a0f6cea62c95c056e24dcd7f898dcdf5753005a64ae61ad5f11",
+  "files": [
+    {
+      "path": "daft/01924-9cc1de16451219dd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "aac78c43a3c571aa1d05e4086767b6d1100736196b16cd2cb956dcfc3dbf13da",
+      "bytes": 67562
+    },
+    {
+      "path": "daft/01924-9cc1de16451219dd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "03b08ce6229880f28948e5664d4f2ca94405a8fe5a92f8fc7e368248584d45f7",
+      "bytes": 8119
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

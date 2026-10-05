@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CASTLEBAR PRIMARY SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.858936",
+        "lon": "-9.301272"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL RAIFTEIRI",
+      "numPupils": 221,
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.858418",
+        "lon": "-9.290532"
+      }
+    },
+    {
+      "schoolName": "CASTLEBAR EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 128,
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.855420",
+        "lon": "-9.301467"
+      }
+    },
+    {
+      "schoolName": "SNUGBORO NATIONAL SCHOOL",
+      "numPupils": 281,
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.869940",
+        "lon": "-9.324825"
+      }
+    },
+    {
+      "schoolName": "ST BRIDS SPECIAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.853477",
+        "lon": "-9.290678"
+      }
+    },
+    {
+      "schoolName": "ST ANTHONYS SPECIAL SC",
+      "numPupils": 67,
+      "distance": {
+        "value": 2.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.847267",
+        "lon": "-9.307040"
+      }
+    },
+    {
+      "schoolName": "CORNANOOL NATIONAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 3.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.852245",
+        "lon": "-9.357245"
+      }
+    },
+    {
+      "schoolName": "BREAFFY NATIONAL SCHOOL",
+      "numPupils": 386,
+      "distance": {
+        "value": 4.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.847694",
+        "lon": "-9.238242"
+      }
+    },
+    {
+      "schoolName": "DERRYWASH NATIONAL SCHOOL",
+      "numPupils": 113,
+      "distance": {
+        "value": 5.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.821620",
+        "lon": "-9.334777"
+      }
+    },
+    {
+      "schoolName": "ST. MICHAEL'S NATIONAL SCHOOL CRIMLIN",
+      "numPupils": 27,
+      "distance": {
+        "value": 6.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.920510",
+        "lon": "-9.257050"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST. GERALDS COLLEGE",
+      "numPupils": 665,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.857365",
+        "lon": "-9.308132"
+      }
+    },
+    {
+      "schoolName": "DAVITT COLLEGE",
+      "numPupils": 880,
+      "distance": {
+        "value": 1.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.857098",
+        "lon": "-9.290318"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 539,
+      "distance": {
+        "value": 1.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.855800",
+        "lon": "-9.291385"
+      }
+    },
+    {
+      "schoolName": "BALLA SECONDARY SCHOOL",
+      "numPupils": 475,
+      "distance": {
+        "value": 12.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.806858",
+        "lon": "-9.137721"
+      }
+    },
+    {
+      "schoolName": "RICE COLLEGE",
+      "numPupils": 557,
+      "distance": {
+        "value": 15.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.801136",
+        "lon": "-9.512792"
+      }
+    },
+    {
+      "schoolName": "SACRED HEART SCHOOL",
+      "numPupils": 605,
+      "distance": {
+        "value": 15.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.801280",
+        "lon": "-9.516958"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 17.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.981884",
+        "lon": "-9.111387"
+      }
+    },
+    {
+      "schoolName": "ST LOUIS COMMUNITY SCHOOL",
+      "numPupils": 690,
+      "distance": {
+        "value": 19.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.848385",
+        "lon": "-9.002216"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MHUIRE",
+      "numPupils": 98,
+      "distance": {
+        "value": 22.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.665565",
+        "lon": "-9.350267"
+      }
+    },
+    {
+      "schoolName": "SCOIL MUIRE AGUS PADRAIG",
+      "numPupils": 410,
+      "distance": {
+        "value": 24.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.942100",
+        "lon": "-8.952785"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Knockthomas",
+      "route": "454",
+      "destination": "Castlebar",
+      "provider": "TFI Local Link Mayo",
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.86384",
+        "lon": "-9.29451"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Upr Chapel St",
+      "route": "968",
+      "destination": "Castlebar Road",
+      "provider": "Michael Moran",
+      "distance": {
+        "value": 1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85803",
+        "lon": "-9.30108"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ellison Street",
+      "route": "437",
+      "destination": "Tuar Mhic Éadaigh",
+      "provider": "Eugene Deffely",
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.855584",
+        "lon": "-9.299473"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "440",
+      "destination": "Knock Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85412",
+        "lon": "-9.303623"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "420",
+      "destination": "Mayo Hospital",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85412",
+        "lon": "-9.303623"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "454",
+      "destination": "Ballina",
+      "provider": "TFI Local Link Mayo",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85412",
+        "lon": "-9.303623"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "456",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85412",
+        "lon": "-9.303623"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "422",
+      "destination": "Headford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85412",
+        "lon": "-9.303623"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "460a",
+      "destination": "Gob an Choire",
+      "provider": "TFI Local Link Mayo",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85412",
+        "lon": "-9.303623"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlebar",
+      "route": "460b",
+      "destination": "Castlebar",
+      "provider": "TFI Local Link Mayo",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.854105",
+        "lon": "-9.303273"
+      }
+    }
+  ]
+}

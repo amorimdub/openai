@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=363",
+  "fetchedAt": "2026-10-05T13:21:27.894Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=363",
+  "kind": "search",
+  "responseSha256": "9d05d3cfbd0dde4259ccb5c8a990cd6ada77a91b3df0dbc3c229e8ead7b2cac6",
+  "files": [
+    {
+      "path": "myhome/07990-65240d8d530addf3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=363\"].SearchResults",
+      "sha256": "86dce4743b1388e222dce1f1f215d1dec5cdc7c7c95937261de4a0e95ccfa184",
+      "bytes": 116328
+    },
+    {
+      "path": "myhome/07990-65240d8d530addf3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=363\"] (paging fields)",
+      "sha256": "dde332e84f49da0dc965af58b2784fc4a922d8d8747429598e5eb5e7438d0e31",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/25-rutland-cottages-dublin-1-mountjoy-square-dublin-1/5018928",
+    "https://www.myhome.ie/residential/brochure/bracken-house-monees-maryborough-hill-douglas-cork/5002283",
+    "https://www.myhome.ie/residential/brochure/richfordstown-clonakilty-co-cork/5019049",
+    "https://www.myhome.ie/residential/brochure/242-john-hogan-house-loreto-abbey-grange-road-rathfarnham-dublin-14/5019046",
+    "https://www.myhome.ie/residential/brochure/calliaghstown-cottage-calliaghstown-lower-rathcoole-co-dublin/5019041",
+    "https://www.myhome.ie/residential/brochure/7-king-edward-park-king-edward-road-bray-wicklow/5019039",
+    "https://www.myhome.ie/residential/brochure/31-kells-road-crumlin-dublin-12/5019035",
+    "https://www.myhome.ie/residential/brochure/clogheenafishoge-cahir-tipperary/5019034",
+    "https://www.myhome.ie/residential/brochure/maddoxland-gyles-quay-dundalk-louth/5002034",
+    "https://www.myhome.ie/residential/brochure/82-mangerton-road-drimnagh-dublin-12/5019022",
+    "https://www.myhome.ie/residential/brochure/bangor-erris-ballina-mayo/5018972",
+    "https://www.myhome.ie/residential/brochure/60-castleland-park-view-balbriggan-co-dublin/5019025",
+    "https://www.myhome.ie/residential/brochure/drumsheel-cong-county-mayo/5019021",
+    "https://www.myhome.ie/residential/brochure/carramore-menlough-ballinasloe-co-galway/5019018",
+    "https://www.myhome.ie/residential/brochure/barleymount-west-aghadoe-killarney-co-kerry/5019006",
+    "https://www.myhome.ie/residential/brochure/3-castle-street-macroom-co-cork/5019003",
+    "https://www.myhome.ie/residential/brochure/belmont-cork-2-hartland-s-road-co-cork/5019000",
+    "https://www.myhome.ie/residential/brochure/13-the-paddock-square-adamstown-co-dublin/5018993",
+    "https://www.myhome.ie/residential/brochure/snugboro-castlebar-co-mayo/5018992",
+    "https://www.myhome.ie/residential/brochure/17-rathlawns-rathcoole-co-dublin/5018989"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=364",
+  "paginationLimited": false
+}

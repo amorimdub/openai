@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=341",
+  "fetchedAt": "2026-10-05T13:10:16.009Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=341",
+  "kind": "search",
+  "responseSha256": "4d04eaaa42e29b590ab86b98893ffcef6112fc49b548063e3063d8dcde416303",
+  "files": [
+    {
+      "path": "myhome/07543-368b535a7b201f1e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=341\"].SearchResults",
+      "sha256": "2f898439f9decce1f89201a8999e00cd5e502e2dbd1146d5185e732dc01c52c5",
+      "bytes": 111942
+    },
+    {
+      "path": "myhome/07543-368b535a7b201f1e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=341\"] (paging fields)",
+      "sha256": "ce0eea82336e2da021074d943a61ae4374e7f6bc681a90f81cc33093ad076f4e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/31-ard-garr-n-ferbane-co-offaly/5021282",
+    "https://www.myhome.ie/residential/brochure/32-ard-garr-n-ferbane-co-offaly/5021280",
+    "https://www.myhome.ie/residential/brochure/ard-garr-n-ferbane-co-offaly/5021279",
+    "https://www.myhome.ie/residential/brochure/40-the-green-bellevue-delgany-wicklow/5020936",
+    "https://www.myhome.ie/residential/brochure/29-temple-mills-kildare-rathangan-co-kildare/5021271",
+    "https://www.myhome.ie/residential/brochure/church-view-kilmacow-co-kilkenny/5021269",
+    "https://www.myhome.ie/residential/brochure/13-the-lodge-bridge-road-listowel-co-kerry/5021196",
+    "https://www.myhome.ie/residential/brochure/kilbrack-togher-road-the-lough-cork/5021255",
+    "https://www.myhome.ie/residential/brochure/99-the-drive-hazelhatch-park-celbridge-kildare/5021234",
+    "https://www.myhome.ie/residential/brochure/26-lios-mor-newport-co-mayo/5021254",
+    "https://www.myhome.ie/residential/brochure/36-st-james-court-mount-brown-kilmainham-dublin-8/5021253",
+    "https://www.myhome.ie/residential/brochure/stonehaven-blessington-road-naas-kildare/4971593",
+    "https://www.myhome.ie/residential/brochure/18-cill-mhuire-kenmare-kerry/5021250",
+    "https://www.myhome.ie/residential/brochure/32a-ralahine-ballybrack-county-dublin/5021246",
+    "https://www.myhome.ie/residential/brochure/genavie-house-brandane-bannow-wexford/5004781",
+    "https://www.myhome.ie/residential/brochure/51-lambay-view-rush-co-dublin/5021239",
+    "https://www.myhome.ie/residential/brochure/17-birch-close-johnstown-wood-navan-meath/5021232",
+    "https://www.myhome.ie/residential/brochure/35-hillcrest-naas-kildare/5021235",
+    "https://www.myhome.ie/residential/brochure/silver-springs-glencap-road-kilmacanoge-south-co-wicklow/5021231",
+    "https://www.myhome.ie/residential/brochure/39-palmer-park-rathfarnham-dublin-16-dublin/5021213"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=342",
+  "paginationLimited": false
+}

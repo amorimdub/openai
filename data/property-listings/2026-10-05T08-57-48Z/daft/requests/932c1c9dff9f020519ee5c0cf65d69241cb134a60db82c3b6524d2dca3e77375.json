@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-apartment-birchwood-court-northwood-avenue-santry-co-dublin/6444401",
+  "fetchedAt": "2026-10-05T09:02:45.950Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-apartment-birchwood-court-northwood-avenue-santry-co-dublin/6444401",
+  "kind": "listing",
+  "responseSha256": "be5f14e757e4701b9c1ac1f7b7dc9b2a6288c32130c9bc1a1a07092361263068",
+  "files": [
+    {
+      "path": "daft/00199-932c1c9dff9f0205-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1f24881cbe1807e75351d1a22b62e91528b787e8734d56f83fb69844ef0030d5",
+      "bytes": 47496
+    },
+    {
+      "path": "daft/00199-932c1c9dff9f0205-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f81950ea0b39fc3a7b303afa93e26b2f745fa5d2c04b683275ced65227a1bd7c",
+      "bytes": 8137
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

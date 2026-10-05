@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=115",
+  "fetchedAt": "2026-10-05T11:12:57.987Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=115",
+  "kind": "search",
+  "responseSha256": "de0d3a4c9da215b33b38099396fd9b1ab123a9349bc4cabbd833f98b093bcd23",
+  "files": [
+    {
+      "path": "myhome/02885-56709c853577f9b0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=115\"].SearchResults",
+      "sha256": "2ca74815b1623038ec62b1d0c3fcfb69ce2b6b8cacb4fb91fef5323684656730",
+      "bytes": 104590
+    },
+    {
+      "path": "myhome/02885-56709c853577f9b0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=115\"] (paging fields)",
+      "sha256": "cb453a24dc8707a8964304c0df57d510f02edf0ef53639091f8ef97c0f0dc944",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/17-granby-hall-granby-row-dublin-1/5029930",
+    "https://www.myhome.ie/residential/brochure/64-college-rise-drogheda-louth/5029913",
+    "https://www.myhome.ie/residential/brochure/38-st-teresas-road-crumlin-dublin-12/5026382",
+    "https://www.myhome.ie/residential/brochure/meenalargan-glenties-co-donegal/5029922",
+    "https://www.myhome.ie/residential/brochure/woodcock-hill-meelick-clare/5029896",
+    "https://www.myhome.ie/residential/brochure/10-shantalla-drive-beaumont-dublin-9/5029906",
+    "https://www.myhome.ie/residential/brochure/23-seapoint-wicklow-town-co-wicklow/5029920",
+    "https://www.myhome.ie/residential/brochure/dunnycove-ardfield-clonakilty-west-cork/5023177",
+    "https://www.myhome.ie/residential/brochure/172-rath-lodge-ashbourne-co-meath/5029916",
+    "https://www.myhome.ie/residential/brochure/apt-4-balrath-wood-kells-meath/5029914",
+    "https://www.myhome.ie/residential/brochure/maple-stonehaven-naas-co-kildare/4989731",
+    "https://www.myhome.ie/residential/brochure/4-bed-house-the-boyne-the-glen-cabinteely-dublin-18/5029907",
+    "https://www.myhome.ie/residential/brochure/hightown-coralstown-house-plus-site-kinnegad-westmeath/5029908",
+    "https://www.myhome.ie/residential/brochure/73-balfeddock-manor-termonfeckin-louth/5029903",
+    "https://www.myhome.ie/residential/brochure/10-cluain-ri-barrymore-athlone-co-roscommon/5029909",
+    "https://www.myhome.ie/residential/brochure/50a-seatown-dundalk-louth/5029898",
+    "https://www.myhome.ie/residential/brochure/4-bed-house-the-tolka-the-glen-cabinteely-dublin-18/5029902",
+    "https://www.myhome.ie/residential/brochure/18-marian-villas-donegal-town-donegal/5029897",
+    "https://www.myhome.ie/residential/brochure/3-bed-house-the-glen-cabinteely-dublin-18/5029894",
+    "https://www.myhome.ie/residential/brochure/11-curzon-street-portobello-dublin-8/5029900"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=116",
+  "paginationLimited": false
+}

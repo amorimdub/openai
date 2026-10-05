@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=118",
+  "fetchedAt": "2026-10-05T11:14:31.110Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=118",
+  "kind": "search",
+  "responseSha256": "2595b3dac764270fb0965c39a0e9feca4f1729652e8584a6a2c5f1a505c91428",
+  "files": [
+    {
+      "path": "myhome/02947-565cc053b4a24b02-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=118\"].SearchResults",
+      "sha256": "2a739c98ab55aba80c1a89429b7f08cfda49c2e300886a35a753e8565cada012",
+      "bytes": 114597
+    },
+    {
+      "path": "myhome/02947-565cc053b4a24b02-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=118\"] (paging fields)",
+      "sha256": "6f0fd0af83aae3309e82e8f9de86ebecab23004a9f855e8a930c9f0abbf59451",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/21-granary-hall-mount-oval-rochestown-cork/5029851",
+    "https://www.myhome.ie/residential/brochure/11-maryland-beechfield-manor-shankill-dublin-18/5026542",
+    "https://www.myhome.ie/residential/brochure/the-old-farmhouse-annagharvey-tullamore-co-offaly/5029846",
+    "https://www.myhome.ie/residential/brochure/stoneybrae-shramore-roundwood-wicklow/5029841",
+    "https://www.myhome.ie/residential/brochure/9-oaklee-cork-carrigrohane-co-cork/5029844",
+    "https://www.myhome.ie/residential/brochure/the-glen-windgap-kilkenny/5029843",
+    "https://www.myhome.ie/residential/brochure/274-galtymore-road-drimnagh-dublin-12/4949724",
+    "https://www.myhome.ie/residential/brochure/49-ballygossan-park-skerries-co-dublin/5029840",
+    "https://www.myhome.ie/residential/brochure/23-saint-johns-court-kilmore-road-artane-dublin/5029820",
+    "https://www.myhome.ie/residential/brochure/1-legion-terrace-park-road-longford/5029838",
+    "https://www.myhome.ie/residential/brochure/27-cabra-park-phibsborough-dublin-7/4996608",
+    "https://www.myhome.ie/residential/brochure/3-saint-george-s-avenue-drumcondra-dublin-3/5022089",
+    "https://www.myhome.ie/residential/brochure/68-ferrycarrig-park-coolock-dublin-17/5026718",
+    "https://www.myhome.ie/residential/brochure/107-glasnevin-park-glasnevin-dublin-11/5026782",
+    "https://www.myhome.ie/residential/brochure/2-lakewood-lavagh-kilnaleck-county-cavan/5029837",
+    "https://www.myhome.ie/residential/brochure/32-haddington-square-haddington-road-ballsbridge-dublin-4/5029836",
+    "https://www.myhome.ie/residential/brochure/apartment-19-the-mews-the-oaks-classes-lake-ovens-cork/5029832",
+    "https://www.myhome.ie/residential/brochure/19-seafield-crescent-blackrock-co-dublin/5029834",
+    "https://www.myhome.ie/residential/brochure/5-summerseat-drive-summerseat-clonee/4988550",
+    "https://www.myhome.ie/residential/brochure/12-innisfallen-parade-phibsboro-dublin-7/4971762"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=119",
+  "paginationLimited": false
+}

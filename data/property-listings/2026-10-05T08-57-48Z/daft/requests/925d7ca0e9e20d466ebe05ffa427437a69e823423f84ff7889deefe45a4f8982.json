@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/garbally-kilmeedy-co-limerick/6654949",
+  "fetchedAt": "2026-10-05T09:46:32.932Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/garbally-kilmeedy-co-limerick/6654949",
+  "kind": "listing",
+  "responseSha256": "c1e25d45e5a21e66af96de328a258de666db0800f5a0007e5d05f6bead1d534f",
+  "files": [
+    {
+      "path": "daft/01948-925d7ca0e9e20d46-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "85293563bf4ec9155c34393944851c3018002ea6317e5dd567ef656d60070804",
+      "bytes": 105665
+    },
+    {
+      "path": "daft/01948-925d7ca0e9e20d46-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d6921bd9ced40499e55980f8ddff63713b096603d127b9d85d95d007e15a5b58",
+      "bytes": 8115
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

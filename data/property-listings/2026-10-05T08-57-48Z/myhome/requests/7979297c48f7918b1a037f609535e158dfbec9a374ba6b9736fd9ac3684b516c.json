@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=48",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=48",
+  "fetchedAt": "2026-10-05T09:36:37.886Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "03d28ec56ea5ede97b4d30891342594f76db7e389596c6588c6fb0934b4d042d",
+  "files": [
+    {
+      "path": "myhome/01547-7979297c48f7918b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=48\"].SearchResults",
+      "sha256": "c3b75a39a4b9d2eec037048c288c68021156910511c576ddd182abf4d72072de",
+      "bytes": 122108
+    },
+    {
+      "path": "myhome/01547-7979297c48f7918b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=48\"] (paging fields)",
+      "sha256": "f9ce11b9c8dc2b35e6e0c5d64038412f83add2f1519441e7df7d9fb739dce761",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/21-beech-lawn-dundrum-dublin-16/5021880",
+    "https://www.myhome.ie/residential/brochure/20-hilton-gardens-ballinteer-dublin-16/5027527",
+    "https://www.myhome.ie/residential/brochure/88-glasmore-park-swords-dublin/5031356",
+    "https://www.myhome.ie/residential/brochure/18-ladys-abbey-ardfinnan-clonmel-tipperary/5031446",
+    "https://www.myhome.ie/residential/brochure/94-corran-ard-athy-co-kildare/5031445",
+    "https://www.myhome.ie/residential/brochure/the-castle-country-house-two-mile-borris-thurles-co-tipperary/5010191",
+    "https://www.myhome.ie/residential/brochure/sallybog-gortnahoe-thurles-co-tipperary/5017537",
+    "https://www.myhome.ie/residential/brochure/rook-house-gortnahoe-thurles-co-tipperary/5025062",
+    "https://www.myhome.ie/residential/brochure/thistledown-10-college-park-castleknock-dublin-15/5031437",
+    "https://www.myhome.ie/residential/brochure/1-elm-park-nutley-lane-donnybrook-dublin-4/5006248",
+    "https://www.myhome.ie/residential/brochure/torquay-house-the-birches-foxrock-dublin-18/5031435",
+    "https://www.myhome.ie/residential/brochure/rathturtin-clonroche-wexford/5031431",
+    "https://www.myhome.ie/residential/brochure/8-kennan-view-luttrellstown-gate-dublin-15/5031430",
+    "https://www.myhome.ie/residential/brochure/42-glenville-avenue-clonsilla-clonsilla-co-dublin-clonsilla-dublin-15/4973723",
+    "https://www.myhome.ie/residential/brochure/rathduff-cloghans-knockmore-mayo/5031418",
+    "https://www.myhome.ie/residential/brochure/56-griffith-avenue-drumcondra-dublin-9/4975823",
+    "https://www.myhome.ie/residential/brochure/simla-kill-lane-foxrock-dublin-18/5031008",
+    "https://www.myhome.ie/residential/brochure/hazeldene-falls-road-shankill-dublin-18/5004073",
+    "https://www.myhome.ie/residential/brochure/derrybeg-lane-killeigh-tullamore-county-offaly/5031428",
+    "https://www.myhome.ie/residential/brochure/17-kennan-walk-luttrellstown-gate-dublin-15/5031426"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=49",
+  "paginationLimited": false
+}

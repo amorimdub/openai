@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=388",
+  "fetchedAt": "2026-10-05T13:34:30.930Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=388",
+  "kind": "search",
+  "responseSha256": "b416b43bafd7bf67987b36b6cd94235f24b1513e71d5bb12d97fb73f688472d6",
+  "files": [
+    {
+      "path": "myhome/08511-52c46366c3073a47-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=388\"].SearchResults",
+      "sha256": "83f2e3f1b040fcbcb5b82eeea2a62dbed491dec5795f9f8aad9bf2f6f6df69e5",
+      "bytes": 122452
+    },
+    {
+      "path": "myhome/08511-52c46366c3073a47-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=388\"] (paging fields)",
+      "sha256": "dd9d8bf1c88db4be3af13f3cf10e2caa8bdeccfa3dfb815829a7c4b8c1fc31e7",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/massbrook-lower-bofeenaun-castlebar-mayo/5017004",
+    "https://www.myhome.ie/residential/brochure/4-the-paddocks-walk-adamstown-co-dublin/5016993",
+    "https://www.myhome.ie/residential/brochure/35-carton-court-maynooth-co-kildare-naas/5016991",
+    "https://www.myhome.ie/residential/brochure/14-ashbury-lawn-ballinode-sligo/5016986",
+    "https://www.myhome.ie/residential/brochure/aughacashel-dereen-ballinamore-leitrim/5016985",
+    "https://www.myhome.ie/residential/brochure/riverview-house-maudlins-folly-enniscorthy-co-wexford/5016984",
+    "https://www.myhome.ie/residential/brochure/keenogue-julianstown-meath/5016979",
+    "https://www.myhome.ie/residential/brochure/reen-killorglin-co-kerry/5016976",
+    "https://www.myhome.ie/residential/brochure/st-olivers-killonan-ballysimon-limerick-county-limerick/5016972",
+    "https://www.myhome.ie/residential/brochure/straney-mor-rathmolyon-enfield-county-meath/5016971",
+    "https://www.myhome.ie/residential/brochure/st-theresa-s-pearse-road-sligo/5015248",
+    "https://www.myhome.ie/residential/brochure/seven-winds-3-bed-duplex-drogheda-louth/5016829",
+    "https://www.myhome.ie/residential/brochure/fort-view-ballinagh-cavan-co-cavan/5016957",
+    "https://www.myhome.ie/residential/brochure/dunard-redgap-rathcoole-dublin/5005957",
+    "https://www.myhome.ie/residential/brochure/site-with-full-planning-permission-windsor-park-monkstown-county-dublin/4965858",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-house-donaghcumper-gate-dublin-road-celbridge-co-kildare/5016952",
+    "https://www.myhome.ie/residential/brochure/21-the-grange-newbridge-co-kildare/5016951",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-house-donaghcumper-gate-dublin-road-celbridge-co-kildare/5016949",
+    "https://www.myhome.ie/residential/brochure/bellrace-21-dublin-road-swords-county-dublin/5016908",
+    "https://www.myhome.ie/residential/brochure/7-bowling-green-galway/5016944"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=389",
+  "paginationLimited": false
+}

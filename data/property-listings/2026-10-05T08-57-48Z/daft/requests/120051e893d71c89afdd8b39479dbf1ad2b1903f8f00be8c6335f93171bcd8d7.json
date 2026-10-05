@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-capital-dock-residence-no-2-stevens-walk-dublin-2/1443908",
+  "fetchedAt": "2026-10-05T09:03:47.522Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-capital-dock-residence-no-2-stevens-walk-dublin-2/1443908",
+  "kind": "listing",
+  "responseSha256": "4190a13cfcd35933a9e1c6d4ee6319352a5a56e809a848826c0d8e0374fcc1ce",
+  "files": [
+    {
+      "path": "daft/00240-120051e893d71c89-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "66e167d63fec284edc09fe1b42418baddf2b38915b1c6c2c403f79c03852805a",
+      "bytes": 53915
+    },
+    {
+      "path": "daft/00240-120051e893d71c89-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "737dd56a31408e1d070be6f8f84408c59e27a8cfa56393789a3a16d337fce70d",
+      "bytes": 8071
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

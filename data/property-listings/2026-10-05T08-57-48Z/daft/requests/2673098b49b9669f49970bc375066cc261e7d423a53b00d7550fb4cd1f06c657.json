@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/marlfield-close-tallaght-dublin-24/6685228",
+  "fetchedAt": "2026-10-05T09:37:39.634Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/marlfield-close-tallaght-dublin-24/6685228",
+  "kind": "listing",
+  "responseSha256": "7560777ff82ca1aeca210ae8c64a325d387c52702d106ec3d177e7bbcfa6ef55",
+  "files": [
+    {
+      "path": "daft/01593-2673098b49b9669f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dff422e276b0dbf4bea57c9d9187ef405de9cf8adc8b6780a7896ecac6ede413",
+      "bytes": 8744
+    },
+    {
+      "path": "daft/01593-2673098b49b9669f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ce4cc23e45be7913d9248f1fc1082b133a5c850d738832b6bfdfe6a95eb10602",
+      "bytes": 8032
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

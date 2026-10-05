@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=50",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=50",
+  "fetchedAt": "2026-10-05T09:37:40.965Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "a1eb4b75931f8c113474d75541b0f11022a49b17f2d48b46d8ea76057883a081",
+  "files": [
+    {
+      "path": "myhome/01589-c561e5782ce80931-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=50\"].SearchResults",
+      "sha256": "ada760ac4a32bae34806de34c79548924757c7284bc16855dee41b55db66483b",
+      "bytes": 105844
+    },
+    {
+      "path": "myhome/01589-c561e5782ce80931-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=50\"] (paging fields)",
+      "sha256": "ffeb5557b274883f429256a21779bd3880a3fcae889562e15819f5a56e2b7913",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-hawthorn-hill-whitebrook-wexford-town-co-wexford/5031412",
+    "https://www.myhome.ie/residential/brochure/13-lohunda-dale-clonsilla-dublin-15/5031411",
+    "https://www.myhome.ie/residential/brochure/24-mcdara-road-shantalla-galway/5019399",
+    "https://www.myhome.ie/residential/brochure/7-ard-na-mara-salthill-galway/5026720",
+    "https://www.myhome.ie/residential/brochure/6-willow-park-shantalla-galway/5007404",
+    "https://www.myhome.ie/residential/brochure/apartment-114-saint-james-s-wood-south-circular-road-dublin-8/5031408",
+    "https://www.myhome.ie/residential/brochure/5-bernard-place-waterford-slievekeale-co-waterford/5031407",
+    "https://www.myhome.ie/residential/brochure/ardlonan-carlanstown-meath/5031358",
+    "https://www.myhome.ie/residential/brochure/67-nash-street-inchicore-dublin-8/5026319",
+    "https://www.myhome.ie/residential/brochure/48-newborough-gorey-co-wexford/5031406",
+    "https://www.myhome.ie/residential/brochure/3-sunnybank-islandbridge-dublin-8/5025995",
+    "https://www.myhome.ie/residential/brochure/71-diswellstown-way-castleknock-dublin-15/5025923",
+    "https://www.myhome.ie/residential/brochure/9-bow-bridge-house-kilmainham-dublin-8/5024996",
+    "https://www.myhome.ie/residential/brochure/2-landscape-court-churchtown-dublin-14/5018908",
+    "https://www.myhome.ie/residential/brochure/10-wyattville-park-loughlinstown-dublin/5031371",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-railway-road-kenmare-co-kerry/5031401",
+    "https://www.myhome.ie/residential/brochure/apartment-3-greygates-hall-roebuck-avenue-mount-merrion-co-dublin/5028915",
+    "https://www.myhome.ie/residential/brochure/the-manse-coolfinn-portlaw-co-waterford/5031398",
+    "https://www.myhome.ie/residential/brochure/12-the-avenue-scholarstown-wood-rathfarnham-dublin-16/5027663",
+    "https://www.myhome.ie/residential/brochure/36-woodstown-drive-knocklyon-dublin-16/5026717"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=51",
+  "paginationLimited": false
+}

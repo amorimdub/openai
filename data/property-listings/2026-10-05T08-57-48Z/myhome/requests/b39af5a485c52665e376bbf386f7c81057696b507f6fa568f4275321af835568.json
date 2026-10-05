@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=18",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=18",
+  "fetchedAt": "2026-10-05T09:14:10.053Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "8e6b5b91319dd4c9e325425971e7bb3a4e756a63465c08f8acc9dba72f42d217",
+  "files": [
+    {
+      "path": "myhome/00650-b39af5a485c52665-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=18\"].SearchResults",
+      "sha256": "54f1779707648f8ae4d6522bc0092117942d4e7719bba8e67ff1b72ef56a93c4",
+      "bytes": 96474
+    },
+    {
+      "path": "myhome/00650-b39af5a485c52665-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=18\"] (paging fields)",
+      "sha256": "1fb5c1709bdef089821d9074f82d75b3bb9d0ceb5002e83fb8b2d2542e802500",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/10-saint-oliver-plunkett-avenue-tinnahinch-graiguenamanagh-kilkenny-co-carlow/5025481",
+    "https://www.myhome.ie/rentals/brochure/the-courthouse-rathcoole-co-dublin/5025470",
+    "https://www.myhome.ie/rentals/brochure/11-hillcrest-court-riverstick-county-cork/5025439",
+    "https://www.myhome.ie/rentals/brochure/rosetree-green-curragh-farm-newbridge-co-kildare/5025438",
+    "https://www.myhome.ie/rentals/brochure/moyle-big-carlow-co-carlow/5025220",
+    "https://www.myhome.ie/rentals/brochure/6-dodder-park-drive-rathfarnham-dublin-14/5016947",
+    "https://www.myhome.ie/rentals/brochure/tullyhumphrys-the-pigeons-athlone-westmeath/5025122",
+    "https://www.myhome.ie/rentals/brochure/south-circular-road-dublin-8/5025036",
+    "https://www.myhome.ie/rentals/brochure/main-street-tullylease-charleville-county-cork/5025011",
+    "https://www.myhome.ie/rentals/brochure/carrig-house-monkstown-dublin/5024993",
+    "https://www.myhome.ie/rentals/brochure/the-grove-celbridge-co-kildare/5024983",
+    "https://www.myhome.ie/rentals/brochure/no-1-the-crescent-spy-hill-cobh-co-cork-p24px01-cobh-east-cork/4787227",
+    "https://www.myhome.ie/rentals/brochure/main-street-rathcoole-co-dublin/5024866",
+    "https://www.myhome.ie/rentals/brochure/apartment-b-churchview-199-navan-road-dublin-7/5024682",
+    "https://www.myhome.ie/rentals/brochure/29-drynam-rise-swords-county-dublin/5024468",
+    "https://www.myhome.ie/rentals/brochure/2-wellington-hall-knightsbrook-trim-co-meath/5024260",
+    "https://www.myhome.ie/rentals/brochure/49-townparks-skerries-co-dublin/5023483",
+    "https://www.myhome.ie/rentals/brochure/104-eaton-wood-grove-shankill-dublin-18/5023478",
+    "https://www.myhome.ie/rentals/brochure/7-kenure-court-powerscourt-waterford-city-waterford/5021877",
+    "https://www.myhome.ie/rentals/brochure/alta-verde-cross-avenue-blackrock-dublin/4925647"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=19",
+  "paginationLimited": false
+}

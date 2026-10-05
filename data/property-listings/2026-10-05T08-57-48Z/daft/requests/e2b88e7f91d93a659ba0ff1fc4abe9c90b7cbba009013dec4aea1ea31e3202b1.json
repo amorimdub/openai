@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=33",
+  "fetchedAt": "2026-10-05T09:36:15.549Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=33",
+  "kind": "search",
+  "responseSha256": "ae6322b8c57a4cc0c6e2ee4db4d100fd1fa87bde3f5eb83539a36bdb6e552ec0",
+  "files": [
+    {
+      "path": "daft/01537-e2b88e7f91d93a65-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "f1fbbb02fed9a6ea456e7ec146b98fd234faa58fb4f7d1cf9981e290efe8e82b",
+      "bytes": 244044
+    },
+    {
+      "path": "daft/01537-e2b88e7f91d93a65-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01537-e2b88e7f91d93a65-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "50fa2ab47f1d3a9ff3af52b92fd62e5cf2ac3da8bd49c61fc5a274791da72e83",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/11-temple-court-arbour-hill-dublin-7-co-dublin/6685336",
+    "https://www.daft.ie/for-rent/-melrose-avenue-marino-dublin-3/6685325",
+    "https://www.daft.ie/for-rent/brodagh-view-crusheen-co-clare/6685039",
+    "https://www.daft.ie/for-rent/13-heytesbury-street-dublin-2/6680502",
+    "https://www.daft.ie/for-rent/the-park-citywest-village-dublin-24/6685305",
+    "https://www.daft.ie/for-rent/ross-loop-head-kilbaha-co-clare/6685105",
+    "https://www.daft.ie/for-rent/the-hibernian-the-gasworks-ballsbridge-co-dublin/6685296",
+    "https://www.daft.ie/for-rent/greystones-house-ballintemple-ballintemple-co-galway/6685272",
+    "https://www.daft.ie/for-rent/6-dursey-the-headlands-wilton-co-cork/6685277",
+    "https://www.daft.ie/for-rent/castleview-drive-swords-swords-co-dublin/6685175",
+    "https://www.daft.ie/for-rent/12-newenham-street-limerick-city-centre-co-limerick/6685248",
+    "https://www.daft.ie/for-rent/south-circular-road-portobello-dublin-8/6685254",
+    "https://www.daft.ie/for-rent/ardeevin-williamstown-co-galway/6685216",
+    "https://www.daft.ie/for-rent/marlfield-close-tallaght-dublin-24/6685228",
+    "https://www.daft.ie/for-rent/apartment-3-the-glenville-centre-ardkeen-co-waterford/6685221",
+    "https://www.daft.ie/for-rent/56-drumcarraig-cavan-townparks-co-cavan/6685109",
+    "https://www.daft.ie/for-rent/19-keanes-road-waterford-waterford-city-centre-co-waterford/6680105",
+    "https://www.daft.ie/for-rent/2-green-acres-sundrive-road-rush-co-dublin/6685210",
+    "https://www.daft.ie/for-rent/65-collins-avenue-dublin-9-donnycarney-dublin-9/6685199",
+    "https://www.daft.ie/for-rent/broadfield-close-rathcoole-co-dublin/6685185"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=34",
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "DRUNG NATIONAL SCHOOL",
+      "numPupils": 11,
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.043270",
+        "lon": "-7.232866"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL DRUNG",
+      "numPupils": 36,
+      "distance": {
+        "value": 0.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.042053",
+        "lon": "-7.223115"
+      }
+    },
+    {
+      "schoolName": "LISBODUFF NATIONAL SCHOOL",
+      "numPupils": 49,
+      "distance": {
+        "value": 3.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.072563",
+        "lon": "-7.225750"
+      }
+    },
+    {
+      "schoolName": "CASTLETARA NATIONAL SCHOOL",
+      "numPupils": 187,
+      "distance": {
+        "value": 4.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.030598",
+        "lon": "-7.291073"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S NATIONAL SCHOOL",
+      "numPupils": 130,
+      "distance": {
+        "value": 5.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.993225",
+        "lon": "-7.215848"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL",
+      "numPupils": 150,
+      "distance": {
+        "value": 5.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.044933",
+        "lon": "-7.319548"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S NATIONAL SCHOOL",
+      "numPupils": 112,
+      "distance": {
+        "value": 7.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.085598",
+        "lon": "-7.314432"
+      }
+    },
+    {
+      "schoolName": "KILL NATIONAL SCHOOL",
+      "numPupils": 129,
+      "distance": {
+        "value": 7.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.036087",
+        "lon": "-7.118150"
+      }
+    },
+    {
+      "schoolName": "DRUMCRAVE NATIONAL SCHOOL",
+      "numPupils": 45,
+      "distance": {
+        "value": 7.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.996983",
+        "lon": "-7.323478"
+      }
+    },
+    {
+      "schoolName": "ST BRIGID'S NATIONAL SCHOOL",
+      "numPupils": 204,
+      "distance": {
+        "value": 7.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.986320",
+        "lon": "-7.305626"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "BREIFNE COLLEGE",
+      "numPupils": 893,
+      "distance": {
+        "value": 8.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.009235",
+        "lon": "-7.346803"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S COLLEGE",
+      "numPupils": 809,
+      "distance": {
+        "value": 8.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.008453",
+        "lon": "-7.353329"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 689,
+      "distance": {
+        "value": 9.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.012768",
+        "lon": "-7.373699"
+      }
+    },
+    {
+      "schoolName": "ROYAL SCHOOL CAVAN",
+      "numPupils": 354,
+      "distance": {
+        "value": 10.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.984470",
+        "lon": "-7.361660"
+      }
+    },
+    {
+      "schoolName": "ST AIDANS COMPREHENSIVE SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 11.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.066460",
+        "lon": "-7.063481"
+      }
+    },
+    {
+      "schoolName": "LARGY COLLEGE",
+      "numPupils": 500,
+      "distance": {
+        "value": 15.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.179592",
+        "lon": "-7.225327"
+      }
+    },
+    {
+      "schoolName": "ST BRICIN'S COLLEGE",
+      "numPupils": 251,
+      "distance": {
+        "value": 15.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.099590",
+        "lon": "-7.443585"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S COLLEGE",
+      "numPupils": 612,
+      "distance": {
+        "value": 19.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.865543",
+        "lon": "-7.197303"
+      }
+    },
+    {
+      "schoolName": "BAILIEBOROUGH COMMUNITY SCHOOL BAILIEBOROUGH COMMUNITY SCHOOL",
+      "numPupils": 751,
+      "distance": {
+        "value": 22.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.912910",
+        "lon": "-6.973897"
+      }
+    },
+    {
+      "schoolName": "BALLYBAY COMMUNITY COLLEGE",
+      "numPupils": 345,
+      "distance": {
+        "value": 23.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.123917",
+        "lon": "-6.901569"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Drung",
+      "route": "175",
+      "destination": "Cavan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.041072294058",
+        "lon": "-7.2233139352259"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Treehoo",
+      "route": "176",
+      "destination": "Monaghan Institute",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 4.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.0798179",
+        "lon": "-7.2626429"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyhaise Coll",
+      "route": "C3",
+      "destination": "Cavan Hospital",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.050351",
+        "lon": "-7.310911"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyhaise Coll",
+      "route": "176",
+      "destination": "Monaghan",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.050342",
+        "lon": "-7.311075"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyhaise",
+      "route": "C3",
+      "destination": "Cavan Hospital",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.04691881",
+        "lon": "-7.31708773"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tullyvin",
+      "route": "175",
+      "destination": "Monaghan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.050206",
+        "lon": "-7.14629"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyhaise",
+      "route": "176",
+      "destination": "Monaghan",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.046961",
+        "lon": "-7.317129"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyhaise",
+      "route": "C1",
+      "destination": "Ballyhaise",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.046961",
+        "lon": "-7.317129"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Annalee Mnr",
+      "route": "C3",
+      "destination": "Redhills",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.042011",
+        "lon": "-7.321495"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Annalee Mnr",
+      "route": "C1",
+      "destination": "Ballyhaise",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 5.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.042011",
+        "lon": "-7.321495"
+      }
+    }
+  ]
+}

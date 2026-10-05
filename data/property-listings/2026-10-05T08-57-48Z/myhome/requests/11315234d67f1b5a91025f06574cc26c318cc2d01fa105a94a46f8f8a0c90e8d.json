@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=382",
+  "fetchedAt": "2026-10-05T13:31:24.571Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=382",
+  "kind": "search",
+  "responseSha256": "fe0cf93686bc53350fefec2edbea0e9ff3d91cde45d4c762925db3af0b6c1f4e",
+  "files": [
+    {
+      "path": "myhome/08387-11315234d67f1b5a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=382\"].SearchResults",
+      "sha256": "f97633e2c9d742908321c10e755da9edb4d5122972a56cf7f1f29596c9dc4d86",
+      "bytes": 114869
+    },
+    {
+      "path": "myhome/08387-11315234d67f1b5a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=382\"] (paging fields)",
+      "sha256": "a12639010d76e69fcd04a379263d999e35d05093e6882f7a230db21148c6f8a4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/251-the-oaks-newbridge-co-kildare/5017446",
+    "https://www.myhome.ie/residential/brochure/10-beech-view-ard-na-sidhe-clonmel-co-tipperary/5017445",
+    "https://www.myhome.ie/residential/brochure/dromourneen-bantry-west-cork/5017421",
+    "https://www.myhome.ie/residential/brochure/39-gate-lodge-castle-road-blackrock-cork/5017323",
+    "https://www.myhome.ie/residential/brochure/site-3-3-acres-tottenhamgreen-taghmon-co-wexford/5017426",
+    "https://www.myhome.ie/residential/brochure/3-edward-walsh-road-togher-the-lough-cork/5017419",
+    "https://www.myhome.ie/residential/brochure/thistle-doo-annaduff-glebe-annaduff-carrick-on-shannon-co-leitrim/5017420",
+    "https://www.myhome.ie/residential/brochure/longfield-house-ballybricken-grange-bruff-county-limerick/5017417",
+    "https://www.myhome.ie/residential/brochure/24-the-hollands-rheban-manor-kildare-rd-athy-kildare/4982077",
+    "https://www.myhome.ie/residential/brochure/8-warners-lane-market-street-skibbereen-west-cork/5017412",
+    "https://www.myhome.ie/residential/brochure/12-glebe-square-newcastle-co-dublin/5017409",
+    "https://www.myhome.ie/residential/brochure/c-0-50-acre-site-lisnatea-fuerty-road-athleague-county-roscommon/5017406",
+    "https://www.myhome.ie/residential/brochure/c-0-50-acre-site-lisnatea-athleague-county-roscommon/5017405",
+    "https://www.myhome.ie/residential/brochure/9-corran-ard-athy-kildare/5014149",
+    "https://www.myhome.ie/residential/brochure/367-market-mews-maryborough-village-portlaoise-co-laois/5017394",
+    "https://www.myhome.ie/residential/brochure/12-rathmiles-grove-killenard-portarlington-co-laois/5017393",
+    "https://www.myhome.ie/residential/brochure/55-sandyford-downs-sandyford-dublin-16/5007117",
+    "https://www.myhome.ie/residential/brochure/230-chambers-park-kilcock-co-kildare-kilcock-kildare/5010264",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-apartments-kilbride-lodge-castleknock-village-castleknock-dublin-15/4666554",
+    "https://www.myhome.ie/residential/brochure/4-star-crescent-church-street-mitchelstown-cork/5017385"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=383",
+  "paginationLimited": false
+}

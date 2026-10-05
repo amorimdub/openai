@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=34",
+  "fetchedAt": "2026-10-05T09:37:18.613Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=34",
+  "kind": "search",
+  "responseSha256": "b4cbe12f4c14236f298db3c74257de760ab57b8f7e00aacd30025f278cde93c1",
+  "files": [
+    {
+      "path": "daft/01579-e80358678003539f-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "f95aabc8edee9b1dea7f0c927e225e70312459277fc1a17c26afa8e668680085",
+      "bytes": 249272
+    },
+    {
+      "path": "daft/01579-e80358678003539f-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01579-e80358678003539f-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "3660e5404b903f761037cac23caa4df8a8f1a55a20247129a64badcd34c1c3b5",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/broadfield-close-rathcoole-co-dublin/6685185",
+    "https://www.daft.ie/for-rent/oakdale-close-ballycullen-dublin-24/6685184",
+    "https://www.daft.ie/for-rent/apt-1-summerland-house-waterford-city-centre-co-waterford/6685170",
+    "https://www.daft.ie/for-rent/10-b-n-an-chaisle-in-ballintubber-ballintubber-co-roscommon/6685152",
+    "https://www.daft.ie/for-rent/llewellyn-grove-rathfarnham-rathfarnham-dublin-16/6685037",
+    "https://www.daft.ie/for-rent/apartment-ardoyne-house-donnybrook-dublin-4/6685163",
+    "https://www.daft.ie/for-rent/apartment-3-friary-close-christchurch-dublin-8/6685145",
+    "https://www.daft.ie/for-rent/32-dun-eoin-meadows-carrigaline-carrigaline-co-cork/6685002",
+    "https://www.daft.ie/for-rent/flat-4-86-palmerston-road-rathmines-dublin-6/6685124",
+    "https://www.daft.ie/for-rent/temple-hall-mount-saint-annes-milltown-dublin-6/6685115",
+    "https://www.daft.ie/for-rent/apartment-2-cooper-house-38-watercourse-road-cork-blackpool-co-cork/6685125",
+    "https://www.daft.ie/for-rent/163-seamount-blackrock-co-dublin/6685120",
+    "https://www.daft.ie/for-rent/apartment-74-thornfield-square-clondalkin-dublin-22/6685116",
+    "https://www.daft.ie/for-rent/rathbaun-house-bride-street-loughrea-co-galway/6685118",
+    "https://www.daft.ie/for-rent/block-6-seamount-booterstown-co-dublin/6685106",
+    "https://www.daft.ie/for-rent/apartment-2-11-12-barrack-street-goresbridge-co-kilkenny/6685095",
+    "https://www.daft.ie/for-rent/no-1-rockford-manor-navan-co-meath/6685081",
+    "https://www.daft.ie/for-rent/apartment-56-block-4-the-green-barnoaks-citywest-dublin-24/6685082",
+    "https://www.daft.ie/for-rent/toberpatrick-house-toberpatrick-tinahely-arklow-tinahely-co-wicklow/6685089",
+    "https://www.daft.ie/for-rent/longmeadow-islandbridge-dublin-8/6685071"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=35",
+  "paginationLimited": false
+}

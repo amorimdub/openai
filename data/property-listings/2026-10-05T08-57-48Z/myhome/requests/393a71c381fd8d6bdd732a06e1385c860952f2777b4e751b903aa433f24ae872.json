@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=234",
+  "fetchedAt": "2026-10-05T12:15:10.810Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=234",
+  "kind": "search",
+  "responseSha256": "3c0fa8c9059486a2b6a9f367512608760cf25ac4a42923e66ee6782839003117",
+  "files": [
+    {
+      "path": "myhome/05349-393a71c381fd8d6b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=234\"].SearchResults",
+      "sha256": "a1aefd96da2bdfa6ca4ed3da9f90ffec55921e382fde7eb1aca608fa71d37879",
+      "bytes": 119771
+    },
+    {
+      "path": "myhome/05349-393a71c381fd8d6b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=234\"] (paging fields)",
+      "sha256": "8edbadeb330490bb14af2bc2478f2ea6640425e3b852ee5d620167d812a03b6a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/12-cathedral-close-tullow-street-carlow-county-carlow/5026591",
+    "https://www.myhome.ie/residential/brochure/38-brackenstown-village-swords-county-dublin/5003270",
+    "https://www.myhome.ie/residential/brochure/501-the-cubes-1-beacon-south-quarter-sandyford-dublin-18/5015669",
+    "https://www.myhome.ie/residential/brochure/22-st-samson-s-court-plus-attic-balgriffin-dublin-13/5025130",
+    "https://www.myhome.ie/residential/brochure/muingyroogeen-banteer-co-cork/5026586",
+    "https://www.myhome.ie/residential/brochure/18-bargy-road-east-wall-dublin-3/4991051",
+    "https://www.myhome.ie/residential/brochure/drumany-glebe-killargue-dromahair-leitrim/5026580",
+    "https://www.myhome.ie/residential/brochure/6-mcneill-drive-cranmore-sligo-town-sligo/5026579",
+    "https://www.myhome.ie/residential/brochure/13-dalriada-park-knocklyon-dublin-16/5010645",
+    "https://www.myhome.ie/residential/brochure/90-kiltipper-gate-kiltipper-tallaght-dublin-24/5008408",
+    "https://www.myhome.ie/residential/brochure/5-atlantic-view-waterville-kerry/5026569",
+    "https://www.myhome.ie/residential/brochure/ardmeen-66-iona-road-dublin-9-co-dublin/5026571",
+    "https://www.myhome.ie/residential/brochure/2-riverwood-lawn-castleknock-dublin-15/4908866",
+    "https://www.myhome.ie/residential/brochure/10-clarnwood-freshford-road-kilkenny/5026570",
+    "https://www.myhome.ie/residential/brochure/20-windmill-court-coolmine-dublin-15/5026564",
+    "https://www.myhome.ie/residential/brochure/70-grangemore-drive-donaghmede-dublin-13/5026566",
+    "https://www.myhome.ie/residential/brochure/23-rushbrook-avenue-templeogue-dublin-6w/4786049",
+    "https://www.myhome.ie/residential/brochure/79-the-holly-rockfield-dundrum-dublin-16/5025980",
+    "https://www.myhome.ie/residential/brochure/114-cherrywood-park-clondalkin-dublin-22/5026562",
+    "https://www.myhome.ie/residential/brochure/25-boheraroan-newmarket-on-fergus-co-clare/5026560"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=235",
+  "paginationLimited": false
+}

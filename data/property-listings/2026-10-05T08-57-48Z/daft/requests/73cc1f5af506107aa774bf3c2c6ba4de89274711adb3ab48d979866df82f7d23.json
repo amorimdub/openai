@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ely-court-ely-square-nutgrove-avenue-rathfarnham-dublin-14/6669175",
+  "fetchedAt": "2026-10-05T09:21:41.329Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ely-court-ely-square-nutgrove-avenue-rathfarnham-dublin-14/6669175",
+  "kind": "listing",
+  "responseSha256": "00eed516e700af624174930e7b7cc1b04bbd3312c4d2aa9e205a5907aea92258",
+  "files": [
+    {
+      "path": "daft/00955-73cc1f5af506107a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ed338ce8dabb4ffa930af3850a6784edd5c726ca8a4003f9cf067148c82326d5",
+      "bytes": 65885
+    },
+    {
+      "path": "daft/00955-73cc1f5af506107a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "049c304816584a179954950348617ecca6ac4b148fcea57648d0ab06bec5de2d",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

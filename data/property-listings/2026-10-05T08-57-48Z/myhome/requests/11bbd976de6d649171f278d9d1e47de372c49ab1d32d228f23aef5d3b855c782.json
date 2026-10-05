@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=438",
+  "fetchedAt": "2026-10-05T14:00:04.700Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=438",
+  "kind": "search",
+  "responseSha256": "83ab7b97f49935f917f2a6b71b58272d706d1f06faf39f0b6a534765ab5ced62",
+  "files": [
+    {
+      "path": "myhome/09531-11bbd976de6d6491-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=438\"].SearchResults",
+      "sha256": "15d9dab79b829ed18f44f9dd6e6e25e9aeb7545de4fd92d2318e824b42fc67b1",
+      "bytes": 127481
+    },
+    {
+      "path": "myhome/09531-11bbd976de6d6491-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=438\"] (paging fields)",
+      "sha256": "63f3bb91e3ea5eb5135b3266c3aba49227053e86863b3bd92bd2e71db3d31502",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/knocknavoddy-furbo-galway-co-galway/5010035",
+    "https://www.myhome.ie/residential/brochure/waters-edge-collorus-lauragh-kerry/4795972",
+    "https://www.myhome.ie/residential/brochure/the-slate-house-1-newman-s-mall-kinsale-cork/5010026",
+    "https://www.myhome.ie/residential/brochure/boardee-carrigaline-cork/4545943",
+    "https://www.myhome.ie/residential/brochure/18-beechfield-lawn-clonee-dublin-15/5010011",
+    "https://www.myhome.ie/residential/brochure/badgerhill-on-c-1-26-acres-bishopsland-ballymore-eustace-kildare/5010014",
+    "https://www.myhome.ie/residential/brochure/scrouthea-east-clonmel-co-tipperary/5010023",
+    "https://www.myhome.ie/residential/brochure/scrouthea-east-clonmel-co-tipperary/5010021",
+    "https://www.myhome.ie/residential/brochure/4-the-old-school-house-saggart-co-dublin/5010015",
+    "https://www.myhome.ie/residential/brochure/faughart-upper-mountpleasant-dundalk-louth/5009971",
+    "https://www.myhome.ie/residential/brochure/havengate-kilmoreen-kildimo-limerick/5009996",
+    "https://www.myhome.ie/residential/brochure/clare-road-ennis-clare/5009985",
+    "https://www.myhome.ie/residential/brochure/effrinagh-carrick-on-shannon-co-leitrim/5009980",
+    "https://www.myhome.ie/residential/brochure/79-sillogue-gardens-ballymun-dublin-11/5009968",
+    "https://www.myhome.ie/residential/brochure/18b-newcomen-avenue-north-strand-dublin-3/5009978",
+    "https://www.myhome.ie/residential/brochure/st-brendans-terrace-listowel-co-kerry/5008160",
+    "https://www.myhome.ie/residential/brochure/rivendell-ballygrissane-minane-bridge-cork/5009388",
+    "https://www.myhome.ie/residential/brochure/6-merlyn-drive-ballsbridge-dublin-4/4951595",
+    "https://www.myhome.ie/residential/brochure/24-rocky-valley-crescent-kilmacanogue-wicklow/4994569",
+    "https://www.myhome.ie/residential/brochure/5-arda-oberon-main-street-omeath-co-louth/5009934"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=439",
+  "paginationLimited": false
+}

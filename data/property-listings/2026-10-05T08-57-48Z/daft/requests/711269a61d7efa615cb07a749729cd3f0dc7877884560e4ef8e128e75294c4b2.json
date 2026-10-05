@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-1-southpoint-60-main-street-co-wicklow/6650645",
+  "fetchedAt": "2026-10-05T09:48:24.116Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-1-southpoint-60-main-street-co-wicklow/6650645",
+  "kind": "listing",
+  "responseSha256": "1d641e197b3a5c8319a0660dee309e66ac0116972b5e2133db9ba9d54976bea5",
+  "files": [
+    {
+      "path": "daft/02022-711269a61d7efa61-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b5ef0ce3209b12dfd062a96ac6a939af3f9fa17122bfb7cca2a7abbb8cae9fca",
+      "bytes": 94956
+    },
+    {
+      "path": "daft/02022-711269a61d7efa61-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "726210c1139c1b2e698859dd8f10adde6dbac989d170ac95bb282c73c0560e53",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

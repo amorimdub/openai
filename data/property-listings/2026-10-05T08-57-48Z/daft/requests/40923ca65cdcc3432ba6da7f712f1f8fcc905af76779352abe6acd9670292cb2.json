@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/glenside-annacotty-co-limerick/6674086",
+  "fetchedAt": "2026-10-05T09:20:38.261Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/glenside-annacotty-co-limerick/6674086",
+  "kind": "listing",
+  "responseSha256": "f19bad846a3a767ad299b94ff7444521adff653e9c7dde1dad8cdecbec8bb829",
+  "files": [
+    {
+      "path": "daft/00913-40923ca65cdcc343-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "53ee36a3594544863eaf2167478fdb1471a953f15da0ac59f6b939cd69a38036",
+      "bytes": 40012
+    },
+    {
+      "path": "daft/00913-40923ca65cdcc343-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5b6894e603f2e24ea4ea8dc566cf550ae8a9151eeeb302dd4fdf3b3dfe1dd324",
+      "bytes": 8007
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

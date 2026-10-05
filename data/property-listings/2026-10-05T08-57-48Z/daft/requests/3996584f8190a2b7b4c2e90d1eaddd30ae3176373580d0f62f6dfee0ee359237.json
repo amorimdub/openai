@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/21-willow-road-dundrum-dublin-16/6686072",
+  "fetchedAt": "2026-10-05T09:00:10.849Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/21-willow-road-dundrum-dublin-16/6686072",
+  "kind": "listing",
+  "responseSha256": "99f151c3fd8144303ac5cb1b8cbffdf6ee3ddf2e986c38b090cb14402aa1a5f3",
+  "files": [
+    {
+      "path": "daft/00096-3996584f8190a2b7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "485752fde0a20399d89a8b14b11e7a3c4f144607b1d3194ececcba0568e55dd6",
+      "bytes": 46494
+    },
+    {
+      "path": "daft/00096-3996584f8190a2b7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b68913aff47fcc410c7206c127174fdcee3a514bf34349596b4be06d0d89fe0c",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

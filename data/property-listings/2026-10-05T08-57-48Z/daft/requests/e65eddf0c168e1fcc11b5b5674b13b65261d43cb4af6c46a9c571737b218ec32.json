@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/killballygorman-ardfinnan-co-tipperary/6683840",
+  "fetchedAt": "2026-10-05T09:46:43.455Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/killballygorman-ardfinnan-co-tipperary/6683840",
+  "kind": "listing",
+  "responseSha256": "b0ab6995495c3213171c48485a8155c05bc281b41cbd16e6aee943ce6a846a7d",
+  "files": [
+    {
+      "path": "daft/01955-e65eddf0c168e1fc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9973aa8da752282be9d3bfd786cea2149b6e5b3b0ddbbfa6d45df1d23043e314",
+      "bytes": 44461
+    },
+    {
+      "path": "daft/01955-e65eddf0c168e1fc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f49dcfdc73e3843f89f55aaee20a6c0cd9b4dd396805fd5f86a9eeccbc8e97fb",
+      "bytes": 8000
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

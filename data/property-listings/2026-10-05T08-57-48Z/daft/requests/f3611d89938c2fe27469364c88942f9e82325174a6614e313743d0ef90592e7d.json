@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/killoughternane-borris-co-carlow/6682999",
+  "fetchedAt": "2026-10-05T09:51:10.910Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/killoughternane-borris-co-carlow/6682999",
+  "kind": "listing",
+  "responseSha256": "17de978c89e34b5d2e6019b8bfd220f324a5740454e6345c995b071ec6a3d5de",
+  "files": [
+    {
+      "path": "daft/02133-f3611d89938c2fe2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5593327e037a76c2556f6b318e458953897f08a81bda5f2f8a59ee924a9d6110",
+      "bytes": 37454
+    },
+    {
+      "path": "daft/02133-f3611d89938c2fe2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8bb4f93bf306273c40c99884c50df62d5fb79e600021ca9007f8ecc3ec21963a",
+      "bytes": 8180
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

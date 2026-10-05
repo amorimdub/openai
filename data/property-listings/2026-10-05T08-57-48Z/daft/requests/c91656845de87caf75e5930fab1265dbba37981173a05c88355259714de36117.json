@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/103-cedar-house-mespil-estate-ballsbridge-dublin-4/6684397",
+  "fetchedAt": "2026-10-05T09:42:38.533Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/103-cedar-house-mespil-estate-ballsbridge-dublin-4/6684397",
+  "kind": "listing",
+  "responseSha256": "d0765036fce6336e67265fa9d6a31cb53820ddd17a9798cbb4488dfa661a3d72",
+  "files": [
+    {
+      "path": "daft/01792-c91656845de87caf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "582f56f729ff024162022b8a409595fcfdd06a3efc2f2bda3522d85e7052474f",
+      "bytes": 25085
+    },
+    {
+      "path": "daft/01792-c91656845de87caf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "649e3cefbcaafadc35a12d0d49118e58dcbde8a16ca8a9019041e0f8be08c15f",
+      "bytes": 8250
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

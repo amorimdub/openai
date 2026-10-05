@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SCOIL EOIN, INIS EONÁIN",
+      "numPupils": 297,
+      "distance": {
+        "value": 1.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.767340",
+        "lon": "-8.656826"
+      }
+    },
+    {
+      "schoolName": "KNOCKAVILLA NATIONAL SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 3.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.800465",
+        "lon": "-8.685448"
+      }
+    },
+    {
+      "schoolName": "CASTLELACK NATIONAL SCHOOL",
+      "numPupils": 58,
+      "distance": {
+        "value": 4.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.780315",
+        "lon": "-8.739436"
+      }
+    },
+    {
+      "schoolName": "BANDON PRIMARY SCHOOL",
+      "numPupils": 376,
+      "distance": {
+        "value": 4.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.749332",
+        "lon": "-8.743475"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL DHROICHEAD NA BANNDAN",
+      "numPupils": 167,
+      "distance": {
+        "value": 5.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.738580",
+        "lon": "-8.741838"
+      }
+    },
+    {
+      "schoolName": "BANDONBRIDGE NATIONAL SCHOOL",
+      "numPupils": 187,
+      "distance": {
+        "value": 5.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.737260",
+        "lon": "-8.745072"
+      }
+    },
+    {
+      "schoolName": "BALLINADEE NATIONAL SCHOOL",
+      "numPupils": 103,
+      "distance": {
+        "value": 7.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.713776",
+        "lon": "-8.626741"
+      }
+    },
+    {
+      "schoolName": "GURRANE NATIONAL SCHOOL",
+      "numPupils": 43,
+      "distance": {
+        "value": 7.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.832306",
+        "lon": "-8.656613"
+      }
+    },
+    {
+      "schoolName": "DUNDERROW NATIONAL SCHOOL",
+      "numPupils": 181,
+      "distance": {
+        "value": 7.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.727444",
+        "lon": "-8.593813"
+      }
+    },
+    {
+      "schoolName": "LARAGH NATIONAL SCHOOL",
+      "numPupils": 189,
+      "distance": {
+        "value": 7.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.757893",
+        "lon": "-8.789982"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST. BROGAN'S COLLEGE",
+      "numPupils": 861,
+      "distance": {
+        "value": 4.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.753662",
+        "lon": "-8.737999"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA TOIRBHIRTE",
+      "numPupils": 451,
+      "distance": {
+        "value": 4.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.740350",
+        "lon": "-8.731611"
+      }
+    },
+    {
+      "schoolName": "HAMILTON HIGH SCHOOL",
+      "numPupils": 429,
+      "distance": {
+        "value": 5.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.747025",
+        "lon": "-8.744194"
+      }
+    },
+    {
+      "schoolName": "BANDON GRAMMAR SCHOOL",
+      "numPupils": 717,
+      "distance": {
+        "value": 6.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.733600",
+        "lon": "-8.749398"
+      }
+    },
+    {
+      "schoolName": "KINSALE COMMUNITY SCHOOL",
+      "numPupils": 1498,
+      "distance": {
+        "value": 12.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.704277",
+        "lon": "-8.529490"
+      }
+    },
+    {
+      "schoolName": "BALLINCOLLIG COMMUNITY SCHOOL",
+      "numPupils": 980,
+      "distance": {
+        "value": 14.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.890423",
+        "lon": "-8.601880"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOILM",
+      "numPupils": 1364,
+      "distance": {
+        "value": 15.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889645",
+        "lon": "-8.580327"
+      }
+    },
+    {
+      "schoolName": "LE CHEILE SECONDARY SCHOOL BALLINCOLLIG",
+      "numPupils": 195,
+      "distance": {
+        "value": 15.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893845",
+        "lon": "-8.589740"
+      }
+    },
+    {
+      "schoolName": "BISHOPSTOWN COMMUNITY SCHOOL",
+      "numPupils": 339,
+      "distance": {
+        "value": 16.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.883920",
+        "lon": "-8.525923"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN SPIORAID NAOIMH",
+      "numPupils": 700,
+      "distance": {
+        "value": 16.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.882980",
+        "lon": "-8.517580"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Innishannon",
+      "route": "254",
+      "destination": "Bandon",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 1.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.764709",
+        "lon": "-8.657025"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Innishannon",
+      "route": "239",
+      "destination": "Bandon",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.764709",
+        "lon": "-8.657025"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Innishannon",
+      "route": "237",
+      "destination": "Goleen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.764709",
+        "lon": "-8.657025"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Innishannon",
+      "route": "236",
+      "destination": "Castletownbere",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.764709",
+        "lon": "-8.657025"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Innishannon",
+      "route": "229",
+      "destination": "Bantry, stop 256041",
+      "provider": "West Cork Connect",
+      "distance": {
+        "value": 1.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.764709",
+        "lon": "-8.657025"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Innishannon",
+      "route": "230",
+      "destination": "Cork Saint Patrick's Quay",
+      "provider": "West Cork Connect",
+      "distance": {
+        "value": 1.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.764862",
+        "lon": "-8.656941"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Brinny",
+      "route": "239",
+      "destination": "Bandon",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.784353",
+        "lon": "-8.700213"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Brinny",
+      "route": "237",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.785127",
+        "lon": "-8.70008"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilpatrick",
+      "route": "239",
+      "destination": "Bandon",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.776307",
+        "lon": "-8.712363"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilpatrick",
+      "route": "237",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.776369",
+        "lon": "-8.712422"
+      }
+    }
+  ]
+}

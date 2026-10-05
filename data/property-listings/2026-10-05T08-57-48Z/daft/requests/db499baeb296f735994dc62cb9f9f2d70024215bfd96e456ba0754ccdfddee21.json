@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-occu-east-village-leopardstown-dublin-18-clay-farm-drive-leopardstown-co-dublin/5341470",
+  "fetchedAt": "2026-10-05T09:08:04.315Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-occu-east-village-leopardstown-dublin-18-clay-farm-drive-leopardstown-co-dublin/5341470",
+  "kind": "listing",
+  "responseSha256": "ad1d9cea5a55dc9a5eb185230281047f5b226e406fca51de99a226a4ff5c6d95",
+  "files": [
+    {
+      "path": "daft/00411-db499baeb296f735-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a6d582a9e09186281bf1515b0618c7b456a236ddf0a6c74b44c5e162dbc32818",
+      "bytes": 46102
+    },
+    {
+      "path": "daft/00411-db499baeb296f735-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9a6310a61ef985d97c95230070097ce02e10f880af00aedfbb29373f2a11ef4c",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

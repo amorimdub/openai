@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/merrion-village-merrion-road-ballsbridge-dublin-4/6664780",
+  "fetchedAt": "2026-10-05T09:14:36.340Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/merrion-village-merrion-road-ballsbridge-dublin-4/6664780",
+  "kind": "listing",
+  "responseSha256": "d0b1b579b7965805695933023d1bfda668f9c45200c5748445dabc9262047477",
+  "files": [
+    {
+      "path": "daft/00672-2047b8079509d39c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "398a4fba480d00ebe53f36d11034b5f12ce8085a7641115cf80d5d08d89ac03a",
+      "bytes": 93015
+    },
+    {
+      "path": "daft/00672-2047b8079509d39c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7b9b64e3e42755e4cf12f469e533bc7b77c33a813392783a75d8c5305ba0a5aa",
+      "bytes": 8211
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

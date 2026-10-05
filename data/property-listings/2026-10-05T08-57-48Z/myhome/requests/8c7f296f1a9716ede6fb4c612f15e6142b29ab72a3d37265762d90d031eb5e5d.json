@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=127",
+  "fetchedAt": "2026-10-05T11:19:42.566Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=127",
+  "kind": "search",
+  "responseSha256": "4e60bb65ef3e3926b58b366a749ea3f4451241b674076ead830e5e045d7e0682",
+  "files": [
+    {
+      "path": "myhome/03135-8c7f296f1a9716ed-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=127\"].SearchResults",
+      "sha256": "8b9e1d4b68ed4a7fe6349f4e8e1479a937afa6a4fa6c3ce7991d91ea40a07cda",
+      "bytes": 108217
+    },
+    {
+      "path": "myhome/03135-8c7f296f1a9716ed-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=127\"] (paging fields)",
+      "sha256": "6b40e65fd464dda3e4ae7693f0a2449445a497b1bdd0587745d9de46fd380483",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/curra-more-loughill-west-loughill-co-limerick/5029620",
+    "https://www.myhome.ie/residential/brochure/615-carnlough-road-cabra-dublin-7/5029439",
+    "https://www.myhome.ie/residential/brochure/5-saint-andrew-s-curragha-ashbourne-co-meath/5029615",
+    "https://www.myhome.ie/residential/brochure/21-seaview-drive-cartron-sligo-county-sligo/5029612",
+    "https://www.myhome.ie/residential/brochure/122-river-oaks-claregalway-galway/5029321",
+    "https://www.myhome.ie/residential/brochure/6-skylark-way-st-marnocks-bay-portmarnock-county-dublin/5029609",
+    "https://www.myhome.ie/residential/brochure/6-the-orchard-college-manor-cobh-cork/5029603",
+    "https://www.myhome.ie/residential/brochure/main-street-whitegate-cork/5029594",
+    "https://www.myhome.ie/residential/brochure/15-the-park-clonattin-village-gorey-co-wexford/5029605",
+    "https://www.myhome.ie/residential/brochure/45-park-road-glenageary-heights-glenageary-county-dublin/5019263",
+    "https://www.myhome.ie/residential/brochure/67-priory-court-eden-gate-delgany-co-wicklow-delgany-wicklow/5029601",
+    "https://www.myhome.ie/residential/brochure/118a-ranelagh-ranelagh-dublin-6/5029584",
+    "https://www.myhome.ie/residential/brochure/4-lime-tree-grove-dualla-road-cashel-county-tipperary/5029597",
+    "https://www.myhome.ie/residential/brochure/17-ardevan-rise-monasterevin-co-kildare/5029595",
+    "https://www.myhome.ie/residential/brochure/lisgorman-killargue-dromahair-leitrim/5029592",
+    "https://www.myhome.ie/residential/brochure/apt-73-the-richmond-brunswick-street-north-smithfield-dublin-7/5029579",
+    "https://www.myhome.ie/residential/brochure/5-ashleigh-lawn-malahide-co-dublin/4984767",
+    "https://www.myhome.ie/residential/brochure/2a-seamount-road-malahide-co-dublin/4995704",
+    "https://www.myhome.ie/residential/brochure/apt-296-the-elm-trimbleston-goatstown-dublin-14/5029393",
+    "https://www.myhome.ie/residential/brochure/48-aughrim-street-stoneybatter-dublin-7/5029587"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=128",
+  "paginationLimited": false
+}

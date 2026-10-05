@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-barrack-street-ballaghaderreen-ballagh-co-roscommon/6677363",
+  "fetchedAt": "2026-10-05T09:18:30.631Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-barrack-street-ballaghaderreen-ballagh-co-roscommon/6677363",
+  "kind": "listing",
+  "responseSha256": "7498c35322f7fbb123a55c73e182338642ae83ace432d74f42f1a49d0aa6e856",
+  "files": [
+    {
+      "path": "daft/00828-e046fd400571f109-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "72f56ae66b722abd81876a04e4bccd4f402e518e1ec297a7b7c81a485e7363dd",
+      "bytes": 29263
+    },
+    {
+      "path": "daft/00828-e046fd400571f109-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "14b574be1e1296f017065545f3427536d792e6507bceed831cd2fdb2f68f1b84",
+      "bytes": 8135
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

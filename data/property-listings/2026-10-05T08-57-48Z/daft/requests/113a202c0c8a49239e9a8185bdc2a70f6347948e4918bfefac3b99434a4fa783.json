@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/occu-hayfield-churchview-road-killiney-co-dublin/5899684",
+  "fetchedAt": "2026-10-05T09:01:54.459Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/occu-hayfield-churchview-road-killiney-co-dublin/5899684",
+  "kind": "listing",
+  "responseSha256": "d8ed21179c4d03bd8ff3b192227b20527da60af3c01a7b28cc2b1269c916d2b5",
+  "files": [
+    {
+      "path": "daft/00165-113a202c0c8a4923-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "92477e7bf2a2311b9146751644bedba7b83454bbf80b85426de5d57eb9d4c9dd",
+      "bytes": 242223
+    },
+    {
+      "path": "daft/00165-113a202c0c8a4923-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "635c7192e7a2effa8e2ae1a4d61ba7881aa919e513dbbb9dfa75c9cc4201f2e5",
+      "bytes": 8091
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

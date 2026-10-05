@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/150-rialto-cottages-rialto-dublin-8/6686248",
+  "fetchedAt": "2026-10-05T09:28:11.955Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/150-rialto-cottages-rialto-dublin-8/6686248",
+  "kind": "listing",
+  "responseSha256": "f55fb5fea861da50da70867a37c70829ca280cc984067bbee8d8dc62c8f54f9d",
+  "files": [
+    {
+      "path": "daft/01215-17c38b446d30402e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dbf8265afb31ce77753e0ac43de5ea492bd3797173d939b873debf5f3a8c4da7",
+      "bytes": 47376
+    },
+    {
+      "path": "daft/01215-17c38b446d30402e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8179389d17e2bb2b9ec5e4e361371ad2db88e4403263eb7980299383e7322c76",
+      "bytes": 8112
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

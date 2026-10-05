@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sherrard-street-lower-north-circular-road-dublin-1/6683211",
+  "fetchedAt": "2026-10-05T09:50:12.339Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sherrard-street-lower-north-circular-road-dublin-1/6683211",
+  "kind": "listing",
+  "responseSha256": "318d62d690801c2f5116646fc1aa44d8557e6eebe2ce96d3c62c360579563794",
+  "files": [
+    {
+      "path": "daft/02094-f5384a46936af9bb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b288bb43cfd62fc4f432c59208ac5636495e69b40a08ac41f2fc784adac1da3c",
+      "bytes": 14338
+    },
+    {
+      "path": "daft/02094-f5384a46936af9bb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2d5304a2f9f47deee7932894aef8c31bacacb9a9a4d945f6ea0a7fa867251059",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

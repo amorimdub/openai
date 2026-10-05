@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-ground-floor-apartment-neptune-by-havitat-honeypark-dun-laoghaire-co-dublin/6679629",
+  "fetchedAt": "2026-10-05T09:03:00.966Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-ground-floor-apartment-neptune-by-havitat-honeypark-dun-laoghaire-co-dublin/6679629",
+  "kind": "listing",
+  "responseSha256": "143bfed88ac5037f0f20557d78226bd00df57050c2e0993f40c27c6f72b1cd33",
+  "files": [
+    {
+      "path": "daft/00209-d9578a4ba9187475-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "24e64b724484fd6fda5d44292419e2ec248b5b70a070d81266afe4f2981fddc7",
+      "bytes": 40579
+    },
+    {
+      "path": "daft/00209-d9578a4ba9187475-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "22b1cb6335121227e9f7e243faf6b8cf1a3cb1c64da8abb3e0e3fa4517eed8b3",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

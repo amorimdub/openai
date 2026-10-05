@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=238",
+  "fetchedAt": "2026-10-05T12:17:17.076Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=238",
+  "kind": "search",
+  "responseSha256": "7cceeb8961c3efd4b69cdea13b268c0bd7fba05b060f353e2fc8ec514b2b9350",
+  "files": [
+    {
+      "path": "myhome/05433-810d490d166a2374-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=238\"].SearchResults",
+      "sha256": "b9670dc3d804fe243d279ccb6ba98681c229550e73c7ff4732ffc69fcbfd5f59",
+      "bytes": 118621
+    },
+    {
+      "path": "myhome/05433-810d490d166a2374-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=238\"] (paging fields)",
+      "sha256": "1a388cc7a048dff737a5155a435436260a2f61a6d99e2de9ad47d60e43267b7d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/clogheen-clonakilty-co-cork/5026477",
+    "https://www.myhome.ie/residential/brochure/20-tandy-court-the-coombe-dublin-8/5026470",
+    "https://www.myhome.ie/residential/brochure/46-gleann-tain-manor-letterkenny-donegal/5026469",
+    "https://www.myhome.ie/residential/brochure/21-glen-ala-nn-mullagh-co-cavan-mullagh-cavan/5026210",
+    "https://www.myhome.ie/residential/brochure/staplestown-donadea-co-kildare/5026473",
+    "https://www.myhome.ie/residential/brochure/100-main-street-cavan-cavan-cavan/5013661",
+    "https://www.myhome.ie/residential/brochure/sites-at-dooradoyle-limerick-dooradoyle-limerick/5026463",
+    "https://www.myhome.ie/residential/brochure/juanita-144-ardmore-park-bray-co-wicklow/5024770",
+    "https://www.myhome.ie/residential/brochure/the-willow-21-yourell-s-meadows-south-malahide-county-dublin/4994248",
+    "https://www.myhome.ie/residential/brochure/apartment-4-glencourt-dell-bray-co-wicklow/5024787",
+    "https://www.myhome.ie/residential/brochure/1-osprey-barnageeragh-cove-skerries-dublin/5026461",
+    "https://www.myhome.ie/residential/brochure/no-5-glena-terrace-spawell-road-wexford-town-wexford/5025689",
+    "https://www.myhome.ie/residential/brochure/24-ashgrove-tullow-road-carlow/5026458",
+    "https://www.myhome.ie/residential/brochure/22-23-church-road-dublin-3/5026457",
+    "https://www.myhome.ie/residential/brochure/3-abbey-terrace-monasterevin-road-kildare-town-kildare/5026424",
+    "https://www.myhome.ie/residential/brochure/6-fortune-court-fortune-way-ratoath-co-meath/5026453",
+    "https://www.myhome.ie/residential/brochure/3-graydon-park-newcastle-co-dublin/5026452",
+    "https://www.myhome.ie/residential/brochure/ardevin-cruagh-road-rathfarnham-dublin-16/5026451",
+    "https://www.myhome.ie/residential/brochure/apt-12-bishop-court-troy-s-gate-kilkenny-kilkenny-kilkenny/5026416",
+    "https://www.myhome.ie/residential/brochure/23-boyne-hall-drogheda-louth/5026392"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=239",
+  "paginationLimited": false
+}

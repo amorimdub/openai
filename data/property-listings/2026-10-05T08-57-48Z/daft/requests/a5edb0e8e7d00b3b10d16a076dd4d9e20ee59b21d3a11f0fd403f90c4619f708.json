@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-burmah-road-strandhill-strandhill-co-sligo/6684288",
+  "fetchedAt": "2026-10-05T09:43:41.643Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-burmah-road-strandhill-strandhill-co-sligo/6684288",
+  "kind": "listing",
+  "responseSha256": "db60f5e16da873c7440459d1737ff19d9aa93dc428993ea0af101ffb8f3aaf6c",
+  "files": [
+    {
+      "path": "daft/01834-a5edb0e8e7d00b3b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d7a1335c0dbd76374f6ea692891ecf3476916d733cec62553bf5857dcb92f372",
+      "bytes": 24009
+    },
+    {
+      "path": "daft/01834-a5edb0e8e7d00b3b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a71e893cec705718a0289916a4a896fd94a3d4a27eef671439e7e3d958d1d880",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

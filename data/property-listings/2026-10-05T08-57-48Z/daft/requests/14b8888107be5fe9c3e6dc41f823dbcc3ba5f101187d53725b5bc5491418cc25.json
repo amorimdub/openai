@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-7-52-dorset-street-upper-dublin-1/6685915",
+  "fetchedAt": "2026-10-05T09:32:33.314Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-7-52-dorset-street-upper-dublin-1/6685915",
+  "kind": "listing",
+  "responseSha256": "ecb03188d3fb4304d829c64431bf3af3e60de8c0aa2a6e6e1864f0ef37aafbf9",
+  "files": [
+    {
+      "path": "daft/01389-14b8888107be5fe9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "da2abc24f4b80f307abbcf0ed6df1057e9ee5aa9972127eaf05c3a7915bf1560",
+      "bytes": 17950
+    },
+    {
+      "path": "daft/01389-14b8888107be5fe9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8edec1d7ed4de03c7a96656f6a375b68fdb0956db47c7769613df4b1e83212d9",
+      "bytes": 8036
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

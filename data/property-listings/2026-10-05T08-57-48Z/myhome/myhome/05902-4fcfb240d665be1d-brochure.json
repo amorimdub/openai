@@ -1,0 +1,420 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "107 church road east wall dublin 3",
+    "GroupId": 9680,
+    "Address": "107 Church Road",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd35ce9a-2430-43d0-ae65-7be8333eadfb_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd35ce9a-2430-43d0-ae65-7be8333eadfb_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd35ce9a-2430-43d0-ae65-7be8333eadfb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ea98933a-547a-4848-b79f-8de7cd8ed36a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/25518823-11f8-4ba5-b02c-570fdb047eee_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/eaedeca9-e5d1-4c7b-a7db-1f447dd1217c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5ccc0645-3f22-48ab-adf2-06b2f4ee9df1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ebf58308-c577-462a-9586-fdfa0a2c05f1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/8ea1fdd0-0966-4283-b437-a20770117350_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/b3a0a701-f6c7-47ec-b056-d74598b6c618_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d85a5e77-6594-49ae-954d-019ed7c8ebd1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5795e498-e53c-4200-8f15-dbed69b9ccdb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d4f6dc35-14e1-4c79-bfc0-3204d672fae3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/47aef500-92bd-4989-9d62-7590f04afda0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c7b5c00f-01fd-44e9-9be8-82c11c3ecae4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ccca7d30-e59c-412b-82ad-17b11400c909_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c1fb70a5-7ea8-4753-94fb-6c6ff338c9d9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/49c39b31-90a5-4cd9-855e-5e2376a1913b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d65fb8ba-ad80-41ee-b68a-3da1397a2773_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5a2bb66f-7dbc-4c53-a21f-26e7426a4062_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d83293a9-b8ad-44cd-9bac-e14d903cb067_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c05f6235-38c7-46a6-9e5d-3a8fc3c47cb6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a8dc1fc2-6644-4fd7-9188-9001a96c41ee_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a1ca1a94-2f3f-4fef-aff5-a29cd7d05159_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd982b61-8998-49dd-a86d-6f2b9862ad12_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 192,
+    "MaxSize": 192,
+    "BerRating": "C2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Owen Reilly presents No. 107 Church Road, an exceptional three-bedroom period residence offering a remarkable 192 sq. m. (2,066 sq. ft.) of beautifully proportioned accommodation in the heart of East Wall. Behind its traditional façade lies a surprisingly substantial and sophisticated home, extensively transformed and extended to combine period character with impressive contemporary living spaces.\r\n\r\nPresented in superb walk-in condition, the defining feature of No. 107 is its exceptional sense of scale. Generous ceiling heights, oversized rooms and extensive glazing create a bright and spacious interior rarely found in a city residence of this type.\r\n\r\nA welcoming entrance hall with guest WC, storage and a dramatic double-height ceiling immediately introduces the volume of the house. To the front is a large double bedroom, while the accommodation opens dramatically towards the rear into an expansive open-plan kitchen, dining and living space — the true heart of the home and an outstanding setting for both everyday family life and entertaining.\r\n\r\nA cleverly positioned internal courtyard draws natural light deep into the centre of the house, while extensive floor-to-ceiling glazing creates a seamless connection between the living space and the rear garden. Private and low maintenance, the garden combines patio and lawn areas to provide an attractive setting for outdoor dining and relaxation.\r\n\r\nUpstairs are two exceptionally generous double bedrooms, including a superb principal bedroom with en-suite bathroom. A further light-filled and highly versatile room with two Velux rooflights provides valuable additional space, ideal as a home office, study, den or occasional guest room. A stylish family bathroom completes the accommodation.\r\n\r\nFurther enhancing the appeal is the valuable benefit of off-street parking to the front, a particularly desirable feature in such a convenient city location.\r\n\r\nMore about the location...\r\n\r\nChurch Road is situated within the established East Wall neighbourhood, immediately adjacent to Dublin's Docklands and within easy reach of the IFSC and city centre. The area offers an excellent range of everyday amenities, while Fairview Park, Clontarf seafront and an increasing selection of cafés and restaurants are all nearby.\r\n\r\nConnectivity is excellent, with Clontarf Road DART station, the LUAS Red Line and numerous Dublin Bus services within easy reach, while the Dublin Port Tunnel provides exceptionally convenient access to Dublin Airport and the national motorway network.\r\n\r\nA truly distinctive city home offering exceptional space, turnkey condition, parking and contemporary living on a scale rarely available this close to Dublin city centre."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall (5.33m x 1.87m)\r\nInviting entrance hall with 5m high ceiling, tiled flooring, storage cupboard and under-stairs storage.\r\n\r\nBedroom 1 (4.14m x 4.04m)\r\nBright west facing room with laminate flooring, large window and fireplace opening.\r\n\r\nGuest WC (3.57m x 1.19m)\r\nLaminate flooring, WC & WHB.\r\n\r\nKitchen/Living/Dining Room (11.83m x 5.84m minus 2.00m x 2.70m)\r\nExpansive open plan living dining room with laminate flooring, floor-to-ceiling glazing with access to interior courtyard, skylight, wall mounted radiator and sliding door to rear garden. Kitchen is fitted with a range of wall and floor units, solid oak work tops, island unit, Franke sink, integrated appliances including dishwasher, fridge, freezer, washing machine, microwave, oven, gas hob and extractor fan.\r\n\r\nGarden (8.71m x 6.55m)\r\nEast facing garden with patio area, shrubbery and sandstone border.\r\n\r\nLanding (7.57m x 1.09m)\r\nCarpet flooring, recessed ceiling lights.\r\n\r\nBedroom 2 (5.97m x 3.78m)\r\nVery spacious double bedroom with carpet flooring and window overlooking rear.\r\n\r\nEn-suite (2.66m x 1.22m)\r\nCeramic floor tiles, shower cubicle, WC, WHB, heated towel rail, recessed ceiling lighting.\r\n\r\nMain Bathroom (2.82m x 2.65m)\r\nWhite three piece suite with ceramic floor and wall tiling, shower cubicle with rainwater shower head, heated towel rail, Belfast sink, WC and recessed ceiling lights.\r\n\r\nBedroom 3 (4.99m x 4.10m)\r\nGenerous bedroom with window overlooking rear.\r\n\r\nHome office (4.18m x 3.65m)\r\nA versatile space ideal for working from home or a variety of other uses, with carpet flooring and velux roof windows.\r\n\r\n*ALL MEASUREMENTS ARE APPROXIMATE AND FOR GUIDANCE PURPOSES ONLY *"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Very spacious: 192 sq. m. /2,066 sq.ft of internal space.\r\nTurn-key condition.\r\nGenerously proportioned rooms.\r\nTwo storey extension to rear.\r\nContemporary finishes throughout.\r\nAttractive east facing rear garden.\r\nAttractive, low maintenance garden.\r\nAmple storage space.\r\nOff street parking to front with secure sliding gate.\r\nuPVC windows and doors.\r\nGas fired central heating.\r\nHKC alarm system.\r\nConvenient to the city centre and IFSC.\r\nEasy access to the M1 via the Port Tunnel."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C2"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 265138,
+    "MinEnergyRating": 80,
+    "MaxEnergyRating": 80,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-02T14:51:09.4070000+01:00",
+    "ModifiedOnDate": "2026-09-10T08:04:45.2600000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-02T15:03:44.1530000+01:00",
+    "RefreshedOn": "2026-09-02T15:03:44.1530000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+    "IsTransact": false,
+    "PriceAsString": "€800,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5025763,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 192,
+    "DisplayAddress": "107 Church Road, East Wall, Dublin 3",
+    "Eircode": "D03 CX39",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Terraced House",
+    "PropertyTypeId": 37,
+    "RegionId": 1443,
+    "RegionName": "Dublin 3",
+    "LocalityId": 1297,
+    "LocalityName": "East Wall",
+    "Price": {
+      "MinPrice": 800000,
+      "MaxPrice": 800000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd35ce9a-2430-43d0-ae65-7be8333eadfb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd35ce9a-2430-43d0-ae65-7be8333eadfb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd35ce9a-2430-43d0-ae65-7be8333eadfb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ea98933a-547a-4848-b79f-8de7cd8ed36a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ea98933a-547a-4848-b79f-8de7cd8ed36a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ea98933a-547a-4848-b79f-8de7cd8ed36a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/25518823-11f8-4ba5-b02c-570fdb047eee_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/25518823-11f8-4ba5-b02c-570fdb047eee_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/25518823-11f8-4ba5-b02c-570fdb047eee_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/eaedeca9-e5d1-4c7b-a7db-1f447dd1217c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/eaedeca9-e5d1-4c7b-a7db-1f447dd1217c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/eaedeca9-e5d1-4c7b-a7db-1f447dd1217c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5ccc0645-3f22-48ab-adf2-06b2f4ee9df1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5ccc0645-3f22-48ab-adf2-06b2f4ee9df1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5ccc0645-3f22-48ab-adf2-06b2f4ee9df1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ebf58308-c577-462a-9586-fdfa0a2c05f1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ebf58308-c577-462a-9586-fdfa0a2c05f1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ebf58308-c577-462a-9586-fdfa0a2c05f1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/8ea1fdd0-0966-4283-b437-a20770117350_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/8ea1fdd0-0966-4283-b437-a20770117350_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/8ea1fdd0-0966-4283-b437-a20770117350_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/b3a0a701-f6c7-47ec-b056-d74598b6c618_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/b3a0a701-f6c7-47ec-b056-d74598b6c618_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/b3a0a701-f6c7-47ec-b056-d74598b6c618_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d85a5e77-6594-49ae-954d-019ed7c8ebd1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d85a5e77-6594-49ae-954d-019ed7c8ebd1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d85a5e77-6594-49ae-954d-019ed7c8ebd1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5795e498-e53c-4200-8f15-dbed69b9ccdb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5795e498-e53c-4200-8f15-dbed69b9ccdb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5795e498-e53c-4200-8f15-dbed69b9ccdb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d4f6dc35-14e1-4c79-bfc0-3204d672fae3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d4f6dc35-14e1-4c79-bfc0-3204d672fae3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d4f6dc35-14e1-4c79-bfc0-3204d672fae3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/47aef500-92bd-4989-9d62-7590f04afda0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/47aef500-92bd-4989-9d62-7590f04afda0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/47aef500-92bd-4989-9d62-7590f04afda0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c7b5c00f-01fd-44e9-9be8-82c11c3ecae4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c7b5c00f-01fd-44e9-9be8-82c11c3ecae4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c7b5c00f-01fd-44e9-9be8-82c11c3ecae4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ccca7d30-e59c-412b-82ad-17b11400c909_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ccca7d30-e59c-412b-82ad-17b11400c909_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/ccca7d30-e59c-412b-82ad-17b11400c909_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c1fb70a5-7ea8-4753-94fb-6c6ff338c9d9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c1fb70a5-7ea8-4753-94fb-6c6ff338c9d9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c1fb70a5-7ea8-4753-94fb-6c6ff338c9d9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/49c39b31-90a5-4cd9-855e-5e2376a1913b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/49c39b31-90a5-4cd9-855e-5e2376a1913b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/49c39b31-90a5-4cd9-855e-5e2376a1913b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d65fb8ba-ad80-41ee-b68a-3da1397a2773_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d65fb8ba-ad80-41ee-b68a-3da1397a2773_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d65fb8ba-ad80-41ee-b68a-3da1397a2773_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5a2bb66f-7dbc-4c53-a21f-26e7426a4062_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5a2bb66f-7dbc-4c53-a21f-26e7426a4062_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/5a2bb66f-7dbc-4c53-a21f-26e7426a4062_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d83293a9-b8ad-44cd-9bac-e14d903cb067_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d83293a9-b8ad-44cd-9bac-e14d903cb067_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/d83293a9-b8ad-44cd-9bac-e14d903cb067_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c05f6235-38c7-46a6-9e5d-3a8fc3c47cb6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c05f6235-38c7-46a6-9e5d-3a8fc3c47cb6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/c05f6235-38c7-46a6-9e5d-3a8fc3c47cb6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a8dc1fc2-6644-4fd7-9188-9001a96c41ee_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a8dc1fc2-6644-4fd7-9188-9001a96c41ee_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a8dc1fc2-6644-4fd7-9188-9001a96c41ee_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a1ca1a94-2f3f-4fef-aff5-a29cd7d05159_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a1ca1a94-2f3f-4fef-aff5-a29cd7d05159_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/a1ca1a94-2f3f-4fef-aff5-a29cd7d05159_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd982b61-8998-49dd-a86d-6f2b9862ad12_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd982b61-8998-49dd-a86d-6f2b9862ad12_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/6/7/5025763/bd982b61-8998-49dd-a86d-6f2b9862ad12_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2346555965986,
+      "latitude": 53.3553259818342
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "AssociatedArticleUrl": "https://www.irishtimes.com/property/residential/2026/09/09/olympian-couples-modern-three-bed-home-a-short-hop-from-the-city-in-east-wall/",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 23,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "0dcd7372-81b3-4098-aa5d-112ece097ae1",
+        "Filename": "https://my.matterport.com/show/?m=i9Swsp3iaYz",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "18d81cce-0eb7-4689-9f21-1aca055c55b3",
+        "Filename": "https://www.youtube.com/embed/_33k6F25Lxk&t=14s",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9680,
+    "Name": "Owen Reilly ",
+    "DisplayPhone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "owen-reilly-property-consultants",
+    "SeoName": "owen-reilly-property-consultants",
+    "Address": "3 Forbes Street, Grand Canal Dock, Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/8/6/9680/logo.jpg",
+    "SalesLicense": "002370",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "east-wall/1297",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/107-church-road-east-wall-dublin-3/5025763",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 265138,
+    "Name": "Owen Reilly  Sales ",
+    "Phone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/8/3/1/265138/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9680,
+    "MYH_LocalityID": 1297,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1443,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Central Heating",
+      "Garden",
+      "Patio",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Central Heating,Garden,Patio,Alarm",
+    "MYH_MaxPrice": 800000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 80,
+    "MYH_MinPrice": 800000,
+    "MYH_MinSize": 192,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5025763,
+    "MYH_PropertyTypeID": 37
+  }
+}

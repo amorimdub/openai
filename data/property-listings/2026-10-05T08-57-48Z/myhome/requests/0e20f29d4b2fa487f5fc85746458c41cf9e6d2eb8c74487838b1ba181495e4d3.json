@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=344",
+  "fetchedAt": "2026-10-05T13:11:50.710Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=344",
+  "kind": "search",
+  "responseSha256": "e5e96e6d5896b51bdb55faae41718ae77a1b9409a1fde9863051f8458f88bb11",
+  "files": [
+    {
+      "path": "myhome/07606-0e20f29d4b2fa487-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=344\"].SearchResults",
+      "sha256": "0d8fe0139cf4b296793cda2f519c6d90e3ab02c2040231ee2c823c9501236314",
+      "bytes": 120338
+    },
+    {
+      "path": "myhome/07606-0e20f29d4b2fa487-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=344\"] (paging fields)",
+      "sha256": "d6ae2b138a54f4fc1ea463a53116a98cc9f60514878ca293a8b70627a2b498d8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/clooney-quin-ennis-county-clare/5021116",
+    "https://www.myhome.ie/residential/brochure/17-sean-carraig-carrickmacross-monaghan/5021104",
+    "https://www.myhome.ie/residential/brochure/scarisbrick-24-the-orchards-montenotte-cork/5020996",
+    "https://www.myhome.ie/residential/brochure/3-legar-crescent-clones-monaghan/5019340",
+    "https://www.myhome.ie/residential/brochure/137-clonmore-ardee-louth/5019634",
+    "https://www.myhome.ie/residential/brochure/apartment-5-sherborne-court-17-18-charleston-road-ranelagh-dublin-6/5015498",
+    "https://www.myhome.ie/residential/brochure/31-old-connell-weir-newbridge-co-kildare/5011686",
+    "https://www.myhome.ie/residential/brochure/maine-castlebellingham-louth/5018423",
+    "https://www.myhome.ie/residential/brochure/14-st-sylvester-villas-malahide-co-dublin/5021098",
+    "https://www.myhome.ie/residential/brochure/roxholme-house-clounty-scarriff-co-clare/5021097",
+    "https://www.myhome.ie/residential/brochure/4-fern-hill-close-ferneyhill-killinick-co-wexford/5021096",
+    "https://www.myhome.ie/residential/brochure/4-meadow-close-whitebrook-wexford/5021095",
+    "https://www.myhome.ie/residential/brochure/ballybrown-clarina-co-limerick/5021090",
+    "https://www.myhome.ie/residential/brochure/neidin-rahilla-kildare-town-kildare/5021069",
+    "https://www.myhome.ie/residential/brochure/ballintleva-westport-mayo/5021072",
+    "https://www.myhome.ie/residential/brochure/avalon-62-hartlands-avenue-the-lough-cork/5021081",
+    "https://www.myhome.ie/residential/brochure/12-saint-helen-s-court-george-s-street-lower-dun-laoghaire-co-dublin/4943830",
+    "https://www.myhome.ie/residential/brochure/hollymount-60-hartlands-avenue-the-lough-cork/5021079",
+    "https://www.myhome.ie/residential/brochure/coolaclarig-listowel-co-kerry/5021077",
+    "https://www.myhome.ie/residential/brochure/apt-30-forbes-quay-grand-canal-dock-grand-canal-dk-dublin/5021039"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=345",
+  "paginationLimited": false
+}

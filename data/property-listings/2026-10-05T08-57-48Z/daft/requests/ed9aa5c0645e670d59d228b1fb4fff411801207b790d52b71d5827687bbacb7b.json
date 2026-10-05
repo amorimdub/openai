@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/marietta-woods-castle-park-road-dalkey-co-dublin/4551200",
+  "fetchedAt": "2026-10-05T09:08:58.378Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/marietta-woods-castle-park-road-dalkey-co-dublin/4551200",
+  "kind": "listing",
+  "responseSha256": "dc1e042b2b5b559d9583ec7460e74ea40ee35f294566cf5c0fb389c20d12a046",
+  "files": [
+    {
+      "path": "daft/00447-ed9aa5c0645e670d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8c3b5d9e8118e5da5aaaaaa158a91852bef386bbcdbf1758361617a322455e7b",
+      "bytes": 209652
+    },
+    {
+      "path": "daft/00447-ed9aa5c0645e670d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "feacc0a5eb8c37e23c4f8d4014b5c11b00726c8e6561928b0c42ee40aa9701b0",
+      "bytes": 8132
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/29-athlumney-close-kentstown-road-johnstown-co-meath/6685588",
+  "fetchedAt": "2026-10-05T09:02:05.407Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/29-athlumney-close-kentstown-road-johnstown-co-meath/6685588",
+  "kind": "listing",
+  "responseSha256": "00a1f962fa9c760f89296412431575d1f5715cb5587314893fc9d37d00227471",
+  "files": [
+    {
+      "path": "daft/00172-883ce52155237967-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0cba9c02fe88bd42ab55ec3a340eeaa3df88de1f7431ad7223e37c1ce0aa8c76",
+      "bytes": 58115
+    },
+    {
+      "path": "daft/00172-883ce52155237967-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "98404a537cd20bd2cb94f3393ed56713dabfbbceafd2943736a5613c4410c99b",
+      "bytes": 8137
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

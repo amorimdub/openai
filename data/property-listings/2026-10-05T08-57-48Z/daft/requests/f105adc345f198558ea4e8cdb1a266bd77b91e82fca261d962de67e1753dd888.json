@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/8-aderrig-park-avenue-adamstown-lucan-co-dublin/6685927",
+  "fetchedAt": "2026-10-05T09:30:24.174Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/8-aderrig-park-avenue-adamstown-lucan-co-dublin/6685927",
+  "kind": "listing",
+  "responseSha256": "51552fd16f4ea0df09b5cbe51a737020aea844e65ce447b161c5432455ea87e2",
+  "files": [
+    {
+      "path": "daft/01303-f105adc345f19855-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fed862293c6fa4a931c153458e3914847ef61dd11203b0fa900df9df88a1ad63",
+      "bytes": 30580
+    },
+    {
+      "path": "daft/01303-f105adc345f19855-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "74eef0ad8dbd6db60ccbc6bec1593c96c1b8c4b7d14e67cf769584da76993ae4",
+      "bytes": 8196
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

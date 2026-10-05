@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rathlyon-grove-knocklyon-dublin-16/6682842",
+  "fetchedAt": "2026-10-05T09:52:19.998Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rathlyon-grove-knocklyon-dublin-16/6682842",
+  "kind": "listing",
+  "responseSha256": "9d0633af346606bde85b5ea90e1baa80e5b1243c12c06441f01f632c710e1873",
+  "files": [
+    {
+      "path": "daft/02179-2b6c12e8c7c1f575-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e2e11f35c3f2cb3f580da4f9571a926dfb000a0b62b16d6a3850e2814580c883",
+      "bytes": 34452
+    },
+    {
+      "path": "daft/02179-2b6c12e8c7c1f575-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aabe661a65705f137a771d5482c95e9c0fb38b186ae11109660d009beafeac57",
+      "bytes": 8126
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

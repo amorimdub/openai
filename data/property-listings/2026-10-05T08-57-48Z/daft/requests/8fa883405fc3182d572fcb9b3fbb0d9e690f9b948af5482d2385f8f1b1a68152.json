@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/2-windsor-road-rathmines-dublin-6/6654163",
+  "fetchedAt": "2026-10-05T09:33:55.896Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/2-windsor-road-rathmines-dublin-6/6654163",
+  "kind": "listing",
+  "responseSha256": "c8b09bbe562bf1b139fac9ec99f5039a124722b6a977141283b0329b3636eb1b",
+  "files": [
+    {
+      "path": "daft/01444-8fa883405fc3182d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cd4aa9f46d759beaa8c69754a00a082bce419fea10ef9fabf950caa2e1b163a3",
+      "bytes": 97645
+    },
+    {
+      "path": "daft/01444-8fa883405fc3182d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f47d21c4ecf48e9361561662fee40e217af64694b39427327a1bace4af29870",
+      "bytes": 8040
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

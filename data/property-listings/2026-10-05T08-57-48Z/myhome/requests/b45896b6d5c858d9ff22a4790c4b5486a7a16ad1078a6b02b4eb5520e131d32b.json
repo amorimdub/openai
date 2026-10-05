@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=89",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=89",
+  "fetchedAt": "2026-10-05T09:57:24.193Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "2fb72c34e134a829840c4500e94e6b8e49ae944f09c50021a49d72dac313ab64",
+  "files": [
+    {
+      "path": "myhome/02375-b45896b6d5c858d9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=89\"].SearchResults",
+      "sha256": "a06766ac1f6a17b8a5dc258bb140c03af9963d42fa3418b2ba44d8348fb0b450",
+      "bytes": 117672
+    },
+    {
+      "path": "myhome/02375-b45896b6d5c858d9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=89\"] (paging fields)",
+      "sha256": "5b9f72c06c2cdb2625487f562b35710722e85b1813207e436d24d8b33ee666c4",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-pound-street-edgeworthstown-co-longford/5030592",
+    "https://www.myhome.ie/residential/brochure/33-wooddale-crescent-ballycullen-dublin-24/5023485",
+    "https://www.myhome.ie/residential/brochure/5-belfry-court-kildare-town-kildare/5030584",
+    "https://www.myhome.ie/residential/brochure/57-woodville-manor-dundalk-louth/5030581",
+    "https://www.myhome.ie/residential/brochure/7-blackthorn-place-kettles-lane-swords-county-dublin/5030589",
+    "https://www.myhome.ie/residential/brochure/5-killester-park-killester-dublin-5/5030588",
+    "https://www.myhome.ie/residential/brochure/8-white-pines-drive-stocking-avenue-rathfarnham-dublin-16/5030586",
+    "https://www.myhome.ie/residential/brochure/beacon-hill-cahanagh-newtownforbes-longford/5030551",
+    "https://www.myhome.ie/residential/brochure/48-devenish-road-kimmage-dublin-12/4998773",
+    "https://www.myhome.ie/residential/brochure/53-barnwall-court-balbriggan-co-dublin/5030582",
+    "https://www.myhome.ie/residential/brochure/47-charleville-square-rathfarnham-dublin-14/5010969",
+    "https://www.myhome.ie/residential/brochure/elsemere-tibradden-road-rathfarnham-dublin-16/5002876",
+    "https://www.myhome.ie/residential/brochure/5-bridgegate-drive-ardee-co-louth/5030578",
+    "https://www.myhome.ie/residential/brochure/apartment-16-block-a-smithfield-gate-smithfield-dublin-7/5026300",
+    "https://www.myhome.ie/residential/brochure/25-the-hawthorns-rakeevan-bailieborough-county-cavan/5030577",
+    "https://www.myhome.ie/residential/brochure/11-herbert-cottages-ballsbridge-dublin-4/5030576",
+    "https://www.myhome.ie/residential/brochure/131-boyne-view-avondale-trim-co-meath/5030575",
+    "https://www.myhome.ie/residential/brochure/33-shandra-woods-portarlington-co-offaly/5030573",
+    "https://www.myhome.ie/residential/brochure/ballyeden-davidstown-enniscorthy-co-wexford/5030571",
+    "https://www.myhome.ie/residential/brochure/carrigans-lower-ballymote-co-sligo/5030570"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=90",
+  "paginationLimited": false
+}

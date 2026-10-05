@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/17-pakenham-house-spencer-dock-dublin-1/6676904",
+  "fetchedAt": "2026-10-05T09:21:27.815Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/17-pakenham-house-spencer-dock-dublin-1/6676904",
+  "kind": "listing",
+  "responseSha256": "426ff0388d06226fde37d3896cff6cc47b5c140532c2ecdc77af59bbb1dc67a0",
+  "files": [
+    {
+      "path": "daft/00946-d040a641820ef01c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "95892ff1673edfb8fb146e06cc8878c74905887d911d1ec580e9ea8fc46a30cb",
+      "bytes": 49743
+    },
+    {
+      "path": "daft/00946-d040a641820ef01c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c596966a7bd1fa6978b52da01840dc14f52b1b03d8c66f5ebcb594487f224f1c",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

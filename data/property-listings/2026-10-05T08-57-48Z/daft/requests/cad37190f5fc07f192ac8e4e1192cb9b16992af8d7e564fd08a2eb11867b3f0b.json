@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-elmville-harolds-cross-road-dublin-6w-harolds-cross-road-harolds-cross-harolds-cross-dublin-6w/6582865",
+  "fetchedAt": "2026-10-05T09:05:01.116Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-elmville-harolds-cross-road-dublin-6w-harolds-cross-road-harolds-cross-harolds-cross-dublin-6w/6582865",
+  "kind": "listing",
+  "responseSha256": "3211b3a98269f37ac42108e8e85b041970349ee62c7edfe87497e5e74bdeea40",
+  "files": [
+    {
+      "path": "daft/00289-cad37190f5fc07f1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "237fb3bea7e88a748f7630682413041205ef835bdbce4aae43b93f09369c9550",
+      "bytes": 40274
+    },
+    {
+      "path": "daft/00289-cad37190f5fc07f1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e3e84cb9d601f3bd678023e3c025ef9af191e4bfb2d76d492567605888c9a37d",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

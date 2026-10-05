@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CAHERCONLISH NATIONAL SCHOOL",
+      "numPupils": 109,
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.594143",
+        "lon": "-8.476665"
+      }
+    },
+    {
+      "schoolName": "CAHERLINE NATIONAL SCHOOL",
+      "numPupils": 175,
+      "distance": {
+        "value": 3.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.568730",
+        "lon": "-8.454217"
+      }
+    },
+    {
+      "schoolName": "KILLINURE NATIONAL SCHOOL",
+      "numPupils": 191,
+      "distance": {
+        "value": 3.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.613804",
+        "lon": "-8.436945"
+      }
+    },
+    {
+      "schoolName": "BOHERMORE NATIONAL SCHOOL",
+      "numPupils": 97,
+      "distance": {
+        "value": 3.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.611034",
+        "lon": "-8.525215"
+      }
+    },
+    {
+      "schoolName": "CAHERELLY NATIONAL SCHOOL",
+      "numPupils": 96,
+      "distance": {
+        "value": 4.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.550680",
+        "lon": "-8.500705"
+      }
+    },
+    {
+      "schoolName": "CLOVERFIELD NATIONAL SCHOOL",
+      "numPupils": 47,
+      "distance": {
+        "value": 6.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.556870",
+        "lon": "-8.405853"
+      }
+    },
+    {
+      "schoolName": "KNOCKEA NATIONAL SCHOOL",
+      "numPupils": 198,
+      "distance": {
+        "value": 6.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.606125",
+        "lon": "-8.572295"
+      }
+    },
+    {
+      "schoolName": "TINETERIFFE NATIONAL SCHOOL",
+      "numPupils": 81,
+      "distance": {
+        "value": 6.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.594013",
+        "lon": "-8.375061"
+      }
+    },
+    {
+      "schoolName": "CARNANE NATIONAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 7.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.571230",
+        "lon": "-8.581244"
+      }
+    },
+    {
+      "schoolName": "MURROE NATIONAL SCHOOL",
+      "numPupils": 143,
+      "distance": {
+        "value": 8.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.649704",
+        "lon": "-8.397826"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "CASTLETROY COLLEGE",
+      "numPupils": 1329,
+      "distance": {
+        "value": 8.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663136",
+        "lon": "-8.540899"
+      }
+    },
+    {
+      "schoolName": "GLENSTAL ABBEY SCHOOL",
+      "numPupils": 202,
+      "distance": {
+        "value": 9.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661720",
+        "lon": "-8.387130"
+      }
+    },
+    {
+      "schoolName": "CRESCENT COLLEGE COMPREHENSIVE SJ",
+      "numPupils": 922,
+      "distance": {
+        "value": 12.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.636658",
+        "lon": "-8.640833"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHICHIL",
+      "numPupils": 346,
+      "distance": {
+        "value": 12.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659195",
+        "lon": "-8.621262"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NANO NAGLE",
+      "numPupils": 356,
+      "distance": {
+        "value": 12.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.660180",
+        "lon": "-8.622252"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 574,
+      "distance": {
+        "value": 12.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670030",
+        "lon": "-8.614521"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE LUIMNIGH",
+      "numPupils": 616,
+      "distance": {
+        "value": 12.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666676",
+        "lon": "-8.619911"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL COLÁISTE FCJ",
+      "numPupils": 343,
+      "distance": {
+        "value": 12.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655130",
+        "lon": "-8.638703"
+      }
+    },
+    {
+      "schoolName": "ST CLEMENTS COLLEGE",
+      "numPupils": 411,
+      "distance": {
+        "value": 12.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655870",
+        "lon": "-8.638259"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL SECONDARY SCHOOL FCJ",
+      "numPupils": 725,
+      "distance": {
+        "value": 12.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.654990",
+        "lon": "-8.639504"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Caherconlish",
+      "route": "328",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.594488",
+        "lon": "-8.47231"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Caherconlish",
+      "route": "347",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.595692",
+        "lon": "-8.472219"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Inch Saint Lawrence",
+      "route": "347",
+      "destination": "Caherconlish",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.589859",
+        "lon": "-8.50489"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sandylane",
+      "route": "347",
+      "destination": "Limerick",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.612572",
+        "lon": "-8.46034"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Caherline",
+      "route": "328",
+      "destination": "Mitchelstown",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.564527",
+        "lon": "-8.459333"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyneety",
+      "route": "329",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.5971510987331",
+        "lon": "-8.54873963891607"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyneety",
+      "route": "347",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.5971510987331",
+        "lon": "-8.54873963891607"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dromkeen",
+      "route": "347",
+      "destination": "Limerick",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.5833499141734",
+        "lon": "-8.38856771059258"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dromkeen",
+      "route": "55",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.5833499141734",
+        "lon": "-8.38856771059258"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Drombanna",
+      "route": "329",
+      "destination": "Kilfinane",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6237087455357",
+        "lon": "-8.57203852906111"
+      }
+    }
+  ]
+}

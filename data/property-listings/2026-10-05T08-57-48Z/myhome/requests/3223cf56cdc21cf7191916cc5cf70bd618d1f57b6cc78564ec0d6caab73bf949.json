@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=104",
+  "fetchedAt": "2026-10-05T11:07:33.511Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=104",
+  "kind": "search",
+  "responseSha256": "d847ad8d4c3e108ba2509f8873a64a6b75fb9536eb899836beabea10fa4cba12",
+  "files": [
+    {
+      "path": "myhome/02669-3223cf56cdc21cf7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=104\"].SearchResults",
+      "sha256": "5449194940206fb5ceab01a7f16e277d42d0d2081d5e15ed85530f882c0067fb",
+      "bytes": 106224
+    },
+    {
+      "path": "myhome/02669-3223cf56cdc21cf7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=104\"] (paging fields)",
+      "sha256": "5857d47d38edc73254689a6e0b67eeeb263993e287e649daade1a11706e68797",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rathnagrew-upper-hacketstown-county-carlow/5030249",
+    "https://www.myhome.ie/residential/brochure/7-willowmere-greystones-co-wicklow/5030245",
+    "https://www.myhome.ie/residential/brochure/valley-view-curraghcrowley-ballineen-cork/5030200",
+    "https://www.myhome.ie/residential/brochure/8-brownstown-manor-brownstown-curragh-co-kildare/5030242",
+    "https://www.myhome.ie/residential/brochure/caherverane-schull-west-cork/5027660",
+    "https://www.myhome.ie/residential/brochure/95-kylemore-castletroy-limerick/5022609",
+    "https://www.myhome.ie/residential/brochure/the-wood-ballynahalla-moycullen-galway-county-galway/5030238",
+    "https://www.myhome.ie/residential/brochure/40-rann-m-r-walk-crievesmith-letterkenny-county-donegal/5030237",
+    "https://www.myhome.ie/residential/brochure/306-beechwood-court-block-k1-stillorgan-road-blackrock-co-dublin/4996702",
+    "https://www.myhome.ie/residential/brochure/34-milton-hall-dublin-road-swords-county-dublin/4838002",
+    "https://www.myhome.ie/residential/brochure/29-cluain-aoibhinn-maynooth-co-kildare/5030235",
+    "https://www.myhome.ie/residential/brochure/blackhall-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030233",
+    "https://www.myhome.ie/residential/brochure/71-saint-james-s-wood-south-circular-road-kilmainham-dublin-8/5030234",
+    "https://www.myhome.ie/residential/brochure/2-caledon-court-east-road-east-wall-dublin-3/5030232",
+    "https://www.myhome.ie/residential/brochure/11-cl-s-deirdr-the-ferns-blackrock-louth/5030163",
+    "https://www.myhome.ie/residential/brochure/kilkea-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030230",
+    "https://www.myhome.ie/residential/brochure/ballysax-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030227",
+    "https://www.myhome.ie/residential/brochure/sunnyhill-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030221",
+    "https://www.myhome.ie/residential/brochure/ballynumera-bangor-erris-mayo/5030197",
+    "https://www.myhome.ie/residential/brochure/38-shelmalier-road-east-wall-dublin-3/4997079"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=105",
+  "paginationLimited": false
+}

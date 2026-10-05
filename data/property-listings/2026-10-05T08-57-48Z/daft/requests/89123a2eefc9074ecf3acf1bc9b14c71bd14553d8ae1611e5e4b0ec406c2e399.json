@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/26-cuil-duin-green-citywest-dublin-24/6660767",
+  "fetchedAt": "2026-10-05T09:42:22.005Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/26-cuil-duin-green-citywest-dublin-24/6660767",
+  "kind": "listing",
+  "responseSha256": "709bf45af03dd7cddd8323546a2cb605f3273a1d6b4c53332deb6a15ab864b9f",
+  "files": [
+    {
+      "path": "daft/01781-89123a2eefc9074e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "91472c4ff46c060e35c1710790e9f5669fa3b8fe982d64d88111979c042d2e94",
+      "bytes": 145170
+    },
+    {
+      "path": "daft/01781-89123a2eefc9074e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "da634f69785ba8703e829c8725a31b76f440bd47b1c47a1d771b3a99d4d83361",
+      "bytes": 8026
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

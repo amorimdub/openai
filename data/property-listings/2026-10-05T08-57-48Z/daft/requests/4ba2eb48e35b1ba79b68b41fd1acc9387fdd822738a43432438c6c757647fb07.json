@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cottage-2-sheastown-bennettsbridge-co-kilkenny/6686735",
+  "fetchedAt": "2026-10-05T09:26:05.737Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cottage-2-sheastown-bennettsbridge-co-kilkenny/6686735",
+  "kind": "listing",
+  "responseSha256": "66f44932b4f14182514f83c79a5c70f856cc1ef4aed72842e4c0a555c6b1cc45",
+  "files": [
+    {
+      "path": "daft/01131-4ba2eb48e35b1ba7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5c6f8fcb083725423a536bfc838af365f84da624a0c0234dca3e81e7ef296af6",
+      "bytes": 22035
+    },
+    {
+      "path": "daft/01131-4ba2eb48e35b1ba7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "453ef6ebf9436db4d428a1a24e4d5aa710bb3c6a9bfea4d3249ae83101f5c272",
+      "bytes": 8147
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

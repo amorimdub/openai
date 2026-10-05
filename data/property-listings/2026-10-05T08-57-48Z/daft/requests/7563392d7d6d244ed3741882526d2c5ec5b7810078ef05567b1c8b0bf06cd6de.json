@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/spring-view-gorey-hill-gorey-co-wexford-gorey-co-wexford/6685490",
+  "fetchedAt": "2026-10-05T09:10:31.482Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/spring-view-gorey-hill-gorey-co-wexford-gorey-co-wexford/6685490",
+  "kind": "listing",
+  "responseSha256": "b2ee4b473c192d1a296460942a9a0be40fd1a5f7d74a87531512b033665ad1f0",
+  "files": [
+    {
+      "path": "daft/00509-7563392d7d6d244e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "578b18cf31d9dfc1c334fead2c5d48b41f430fa61976bd8f9dd12487f5c009a8",
+      "bytes": 8712
+    },
+    {
+      "path": "daft/00509-7563392d7d6d244e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

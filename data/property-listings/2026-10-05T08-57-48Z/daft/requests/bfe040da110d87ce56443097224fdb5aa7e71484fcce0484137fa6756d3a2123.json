@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-190-old-youghal-road-st-lukes-co-cork/6684842",
+  "fetchedAt": "2026-10-05T09:40:36.848Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-190-old-youghal-road-st-lukes-co-cork/6684842",
+  "kind": "listing",
+  "responseSha256": "3ccd317bceafe79f62c75446d5a27ff2cf9b03e008ed627b0f38d8660790042a",
+  "files": [
+    {
+      "path": "daft/01711-bfe040da110d87ce-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "91c526c9c3c6a4150aa8cf6a91e871e39c98874e53bfbd0722418c43ec07b7be",
+      "bytes": 100012
+    },
+    {
+      "path": "daft/01711-bfe040da110d87ce-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "31134c3da9723903f20170ebe92d1082e05f847f94b676002a36ce61a1c2797b",
+      "bytes": 8184
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/friarsland-road-goatstown-clonskeagh-dublin-14/6641341",
+  "fetchedAt": "2026-10-05T09:14:43.855Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/friarsland-road-goatstown-clonskeagh-dublin-14/6641341",
+  "kind": "listing",
+  "responseSha256": "3c9ca159a8e59dfa4e0d8449cea59f00cf667ebc7cdef17078701a7963758a71",
+  "files": [
+    {
+      "path": "daft/00677-2f86936aed18347a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2b3f0949ac55eeb810c98edecbf7d6583fef2665be5d0443d4f40865bed59b75",
+      "bytes": 52052
+    },
+    {
+      "path": "daft/00677-2f86936aed18347a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2a9d50411d5f41522a8cb65f11f5eecf41474c9369a8a442ef1c9b43d4ec7c0b",
+      "bytes": 8076
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

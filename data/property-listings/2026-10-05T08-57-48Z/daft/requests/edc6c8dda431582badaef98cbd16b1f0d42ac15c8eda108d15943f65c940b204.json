@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/type-a-glenamuck-manor-glenamuck-road-dublin-18/5431910",
+  "fetchedAt": "2026-10-05T09:04:49.101Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/type-a-glenamuck-manor-glenamuck-road-dublin-18/5431910",
+  "kind": "listing",
+  "responseSha256": "cca50af7baca312e7f95c941c0e822637f75ab8b186b9c56dbaec42b80c00963",
+  "files": [
+    {
+      "path": "daft/00281-edc6c8dda431582b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "db13e8b6e2b9fd529d6c7ccf209f717c70d0e2f3b34185f365300e461fa334e6",
+      "bytes": 39593
+    },
+    {
+      "path": "daft/00281-edc6c8dda431582b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "25be780202e1d2295ea871740c0287337c754438f7b88784826ac1445f9fd074",
+      "bytes": 8133
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

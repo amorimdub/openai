@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-coopers-cross-mayor-street-upper-dublin-1/5374210",
+  "fetchedAt": "2026-10-05T09:08:14.824Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-coopers-cross-mayor-street-upper-dublin-1/5374210",
+  "kind": "listing",
+  "responseSha256": "8e0fba6bc8089a73beeceb5604a0c26e0c95c46d3b00533a058c03b0040ba311",
+  "files": [
+    {
+      "path": "daft/00418-b938460edb1c446a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d10cb0b6e72a1ad1efbf05b6da32e38124e748c86c11e2b3cca822901c5f8a26",
+      "bytes": 38662
+    },
+    {
+      "path": "daft/00418-b938460edb1c446a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cbf18bdcbc3786e4aa3d273ce9b35352ceeec6eac617b71ae517b06880a63617",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

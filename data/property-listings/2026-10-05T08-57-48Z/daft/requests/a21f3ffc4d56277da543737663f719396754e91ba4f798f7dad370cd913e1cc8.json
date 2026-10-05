@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/38-belvedere-lawn-father-russell-road-dooradoyle-co-limerick/6686326",
+  "fetchedAt": "2026-10-05T09:29:18.075Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/38-belvedere-lawn-father-russell-road-dooradoyle-co-limerick/6686326",
+  "kind": "listing",
+  "responseSha256": "c21d94f0a85dfce33536ad83bc1b0cc40bccf76db55da368def33fa29ca8d1b1",
+  "files": [
+    {
+      "path": "daft/01259-a21f3ffc4d56277d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "31bc221b2943b8373bc1efdb7024428efe7a8c9a6c7b99992aadc14a6b914e9a",
+      "bytes": 25434
+    },
+    {
+      "path": "daft/01259-a21f3ffc4d56277d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "102abce04cbf3bc2029a16a013ab8232565aa9b6bd6b67c04200d7f2bfa51637",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

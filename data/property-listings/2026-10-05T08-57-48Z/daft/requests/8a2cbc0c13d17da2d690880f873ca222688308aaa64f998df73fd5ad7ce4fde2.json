@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/longmeadow-islandbridge-dublin-8/6685071",
+  "fetchedAt": "2026-10-05T09:38:50.212Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/longmeadow-islandbridge-dublin-8/6685071",
+  "kind": "listing",
+  "responseSha256": "dbe2be42c03b53f49037abd0457b532ffacaaaefb97ed8c5caaca77eb8cca0bf",
+  "files": [
+    {
+      "path": "daft/01640-8a2cbc0c13d17da2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c2328bee4f58e0c1ecd2f40fda1235fc289b0f896b31c4f6d5a6d8a53cba0a34",
+      "bytes": 20717
+    },
+    {
+      "path": "daft/01640-8a2cbc0c13d17da2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9736aeb9ef852a00c5874e3559ce91000bac98e5c7989185326d11b2901cadf",
+      "bytes": 8001
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

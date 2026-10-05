@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/convent-hall-convent-avenue-milltown-dublin-6/6684638",
+  "fetchedAt": "2026-10-05T09:11:13.525Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/convent-hall-convent-avenue-milltown-dublin-6/6684638",
+  "kind": "listing",
+  "responseSha256": "c0f22c33e38d002be4c86f1843fbcc2047a5eb64e5fcbcc27b28c396298d302c",
+  "files": [
+    {
+      "path": "daft/00537-a17088a2ab3b7193-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "82c4f1815b771379f36691e1dc2126f7700a7d23b6f7a3e5822cf522a7e8b782",
+      "bytes": 40655
+    },
+    {
+      "path": "daft/00537-a17088a2ab3b7193-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "679268292d3a2e9244975f46899ee1aad56cbd4d429c3987dde510366bd25acd",
+      "bytes": 8030
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-23-woodlands-grove-blackrock-co-dublin/6672020",
+  "fetchedAt": "2026-10-05T09:22:17.384Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-23-woodlands-grove-blackrock-co-dublin/6672020",
+  "kind": "listing",
+  "responseSha256": "cfab9714deb326d973d97de18f3ac33591669df615c058fad2061e28e47c0c28",
+  "files": [
+    {
+      "path": "daft/00979-b990986792b075c1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ce60cefe73db84044b954325255034edd2fed509a4157858f539e83b17cf208a",
+      "bytes": 84691
+    },
+    {
+      "path": "daft/00979-b990986792b075c1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "146ee793b60a5d099dec1019fb62d08f2ef65cb08229baa11614ba1d3251d789",
+      "bytes": 8139
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

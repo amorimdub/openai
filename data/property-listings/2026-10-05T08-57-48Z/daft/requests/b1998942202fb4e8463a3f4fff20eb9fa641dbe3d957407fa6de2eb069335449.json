@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=45",
+  "fetchedAt": "2026-10-05T09:48:40.645Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=45",
+  "kind": "search",
+  "responseSha256": "907e2f90964f59fc349828a71543197cb2746b6a7668c7b53bdd3b626cfb93a7",
+  "files": [
+    {
+      "path": "daft/02033-b1998942202fb4e8-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "3a55e9ccce9d5439d5191cc5d01158ba934c8e897ce75da1986c7259455666dd",
+      "bytes": 246370
+    },
+    {
+      "path": "daft/02033-b1998942202fb4e8-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02033-b1998942202fb4e8-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "13cffca74d59e82a6db20305f631fef89c434849b7d89b4f19b1e62290b40e20",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-20-carberry-house-ard-ri-athlone-co-westmeath/6683378",
+    "https://www.daft.ie/for-rent/tobarkeel-drumcliffe-road-ennis-co-clare/6683500",
+    "https://www.daft.ie/for-rent/ard-villa-shelbourne-house-north-circular-road-co-limerick/6683491",
+    "https://www.daft.ie/for-rent/apartment-1-34-longwood-avenue-portobello-dublin-8/6683487",
+    "https://www.daft.ie/for-rent/apartment-101-westland-square-dublin-2/6683461",
+    "https://www.daft.ie/for-rent/clonliffe-road-drumcondra-co-dublin/6683467",
+    "https://www.daft.ie/for-rent/-clonliffe-road-drumcondra-co-dublin/6683457",
+    "https://www.daft.ie/for-rent/160-saint-peters-road-dublin-12-greenhills-dublin-12/6683375",
+    "https://www.daft.ie/for-rent/jigginstown-naas-co-kildare-naas-co-kildare/6683344",
+    "https://www.daft.ie/for-rent/campbellstown-letterkenny-co-donegal/6677735",
+    "https://www.daft.ie/for-rent/holywell-wood-swords-swords-co-dublin/6683324",
+    "https://www.daft.ie/for-rent/rathmines-road-upper-rathmines-dublin-6/6683280",
+    "https://www.daft.ie/for-rent/apartment-market-road-ballina-co-mayo/6683263",
+    "https://www.daft.ie/for-rent/portanure-gowna-co-cavan/6683256",
+    "https://www.daft.ie/for-rent/fitzharding-lacken-berkeley-forest-new-ross-co-wexford/6683185",
+    "https://www.daft.ie/for-rent/6-cherbury-court-booterstown-blackrock-co-dublin/6683235",
+    "https://www.daft.ie/for-rent/apartment-21-block-a-castleforbes-square-ifsc-dublin-1/6683234",
+    "https://www.daft.ie/for-rent/stockwell-sandyford-road-dundrum-dublin-16/6683214",
+    "https://www.daft.ie/for-rent/sherrard-street-lower-north-circular-road-dublin-1/6683211",
+    "https://www.daft.ie/for-rent/35-aylesbury-ballintemple-co-cork/6682803"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=46",
+  "paginationLimited": false
+}

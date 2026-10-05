@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mountain-view-headlands-putland-road-bray-co-wicklow/6685848",
+  "fetchedAt": "2026-10-05T09:33:15.357Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mountain-view-headlands-putland-road-bray-co-wicklow/6685848",
+  "kind": "listing",
+  "responseSha256": "42a501dd937afeb87919d31b2c195730e78cf40496c55423f0f52ca66e8e5874",
+  "files": [
+    {
+      "path": "daft/01417-1108855bbba10912-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a75f150caee57c16227d905ebcb397662ec335ab02537c18577b6588a11cffda",
+      "bytes": 36588
+    },
+    {
+      "path": "daft/01417-1108855bbba10912-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fd510835139b78c0f7b93d06862616efd966d17af4435c73e3370fc8ee2b0503",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-410-block-j-castleforbes-square-ifsc-dublin-1/6679820",
+  "fetchedAt": "2026-10-05T09:18:38.138Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-410-block-j-castleforbes-square-ifsc-dublin-1/6679820",
+  "kind": "listing",
+  "responseSha256": "9b0ce6cd0752d5ce7d7610b3c27435c0825a5b6540e790c20f8492b0dc8d34c2",
+  "files": [
+    {
+      "path": "daft/00833-d8b679096f0d4508-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "52e9b2881902b63ee19d13be32f300f59f9c12f4888f3802deaeb290c43fcaac",
+      "bytes": 62731
+    },
+    {
+      "path": "daft/00833-d8b679096f0d4508-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cb6c45609fbfbb5de8c7db6727156eb946a67a4a8b820de45f3f0d6ce23c236c",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

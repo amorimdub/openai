@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cloughfin-saint-johnston-carrigans-co-donegal/6685623",
+  "fetchedAt": "2026-10-05T09:35:30.501Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cloughfin-saint-johnston-carrigans-co-donegal/6685623",
+  "kind": "listing",
+  "responseSha256": "9391590555dbd96e53289dc7492011214eb8525ea9ce71dbaf1b14395b683896",
+  "files": [
+    {
+      "path": "daft/01507-e3ce2eddd9a9d610-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "da5b53ea5be1912da4ad7a83c02da7d5aa48ca2b52dd4882dde01bd8482d4c0a",
+      "bytes": 44926
+    },
+    {
+      "path": "daft/01507-e3ce2eddd9a9d610-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4096c8ce45d75302496304a4471dff0a7a482e438cbd6453dd4ccbef85f2d611",
+      "bytes": 8212
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=413",
+  "fetchedAt": "2026-10-05T13:47:22.664Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=413",
+  "kind": "search",
+  "responseSha256": "50faae7f3648d2518bed56c6c55d8aaa24839b643daa608f307ca568c7ac35ba",
+  "files": [
+    {
+      "path": "myhome/09024-6b55e0a7fcdfa96f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=413\"].SearchResults",
+      "sha256": "29bd4a177ee7f0d034013204e7d6c52a7a5ccd3c2615c8dd9c5bf752a7f5a353",
+      "bytes": 110122
+    },
+    {
+      "path": "myhome/09024-6b55e0a7fcdfa96f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=413\"] (paging fields)",
+      "sha256": "c2e8533244f56b033f808e7604093dfb876c30ca7a30a4dc2f896b6e636e6ce2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/55-kinvara-avenue-navan-road-dublin-7/5013359",
+    "https://www.myhome.ie/residential/brochure/16-saint-olave-s-malahide-county-dublin/5012416",
+    "https://www.myhome.ie/residential/brochure/1-friars-walk-mews-friars-walk-cork/5013328",
+    "https://www.myhome.ie/residential/brochure/ballynacarrick-doochary-county-donegal/5013324",
+    "https://www.myhome.ie/residential/brochure/main-street-ballylynan-laois/5013311",
+    "https://www.myhome.ie/residential/brochure/9-rathbane-rd-rathbane-limerick-county-limerick/5013314",
+    "https://www.myhome.ie/residential/brochure/70-blackcastle-estate-navan-co-meath/5013313",
+    "https://www.myhome.ie/residential/brochure/knockarudane-glandore-west-cork/5013280",
+    "https://www.myhome.ie/residential/brochure/scaraveen-26-kingston-road-galway-county-galway/5013291",
+    "https://www.myhome.ie/residential/brochure/killeenleigh-caheragh-drimoleague-west-cork/5013276",
+    "https://www.myhome.ie/residential/brochure/oak-cottage-lisheenoran-annaghdown-co-galway/5013261",
+    "https://www.myhome.ie/residential/brochure/greenmount-ballydehob-west-cork/5013246",
+    "https://www.myhome.ie/residential/brochure/55-spencer-house-custom-house-square-ifsc-dublin-1/5011238",
+    "https://www.myhome.ie/residential/brochure/meelick-williamstown-galway/5012584",
+    "https://www.myhome.ie/residential/brochure/53-palmer-court-palmer-road-rush-county-dublin/5011720",
+    "https://www.myhome.ie/residential/brochure/15-the-waterfront-the-harbour-naas-kildare/5012481",
+    "https://www.myhome.ie/residential/brochure/apt-24-clarinda-house-dun-laoghaire-county-dublin/5012474",
+    "https://www.myhome.ie/residential/brochure/no-60-mannix-place-wexford-town-wexford/5012471",
+    "https://www.myhome.ie/residential/brochure/69-glenfort-pound-road-castlebar-co-mayo/5012464",
+    "https://www.myhome.ie/residential/brochure/site-with-fpp-stabawl-hill-ballydehob-cork/5012458"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=414",
+  "paginationLimited": false
+}

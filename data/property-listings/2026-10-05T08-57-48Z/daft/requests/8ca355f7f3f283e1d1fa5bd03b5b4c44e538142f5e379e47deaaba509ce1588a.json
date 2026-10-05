@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/springhill-timahoe-west-coill-dubh-coill-dubh-co-kildare/6682886",
+  "fetchedAt": "2026-10-05T09:52:03.483Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/springhill-timahoe-west-coill-dubh-coill-dubh-co-kildare/6682886",
+  "kind": "listing",
+  "responseSha256": "7c9a2f630db2b9d91e59b758fac3d821681f5ab5d0a2d3725cdef707c7a3f32e",
+  "files": [
+    {
+      "path": "daft/02168-8ca355f7f3f283e1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "57f5fc71650435c9d222d3848450ccd337e5338c1733e57ac810bf1ea9c6ce54",
+      "bytes": 27908
+    },
+    {
+      "path": "daft/02168-8ca355f7f3f283e1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fbb6f1fc8b7ea9ac38aa7d90820fbfefde1fed7b4de36d16fe11fd674bd12861",
+      "bytes": 8239
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

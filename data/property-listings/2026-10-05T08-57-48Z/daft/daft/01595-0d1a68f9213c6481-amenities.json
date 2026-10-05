@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST CLARES PRIMARY SCHOOL",
+      "numPupils": 550,
+      "distance": {
+        "value": 0.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.991756",
+        "lon": "-7.356980"
+      }
+    },
+    {
+      "schoolName": "ST. FELIM'S NATIONAL SCHOOL",
+      "numPupils": 276,
+      "distance": {
+        "value": 1.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990960",
+        "lon": "-7.363612"
+      }
+    },
+    {
+      "schoolName": "CAVAN NO 1 NATIONAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990200",
+        "lon": "-7.362837"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL BHREIFNE",
+      "numPupils": 201,
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.991630",
+        "lon": "-7.365646"
+      }
+    },
+    {
+      "schoolName": "DRUMCRAVE NATIONAL SCHOOL",
+      "numPupils": 45,
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.996983",
+        "lon": "-7.323478"
+      }
+    },
+    {
+      "schoolName": "FARNHAM NATIONAL SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 2.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.002995",
+        "lon": "-7.383978"
+      }
+    },
+    {
+      "schoolName": "ST BRIGID'S NATIONAL SCHOOL",
+      "numPupils": 204,
+      "distance": {
+        "value": 3.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.986320",
+        "lon": "-7.305626"
+      }
+    },
+    {
+      "schoolName": "CRUBANY NATIONAL SCHOOL",
+      "numPupils": 172,
+      "distance": {
+        "value": 3.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.965350",
+        "lon": "-7.321642"
+      }
+    },
+    {
+      "schoolName": "CORLURGAN NATIONAL SCHOOL",
+      "numPupils": 57,
+      "distance": {
+        "value": 4.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.960476",
+        "lon": "-7.358582"
+      }
+    },
+    {
+      "schoolName": "CASTLETARA NATIONAL SCHOOL",
+      "numPupils": 187,
+      "distance": {
+        "value": 5.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.030598",
+        "lon": "-7.291073"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST PATRICK'S COLLEGE",
+      "numPupils": 809,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.008453",
+        "lon": "-7.353329"
+      }
+    },
+    {
+      "schoolName": "BREIFNE COLLEGE",
+      "numPupils": 893,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.009235",
+        "lon": "-7.346803"
+      }
+    },
+    {
+      "schoolName": "ROYAL SCHOOL CAVAN",
+      "numPupils": 354,
+      "distance": {
+        "value": 1.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.984470",
+        "lon": "-7.361660"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 689,
+      "distance": {
+        "value": 2.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.012768",
+        "lon": "-7.373699"
+      }
+    },
+    {
+      "schoolName": "ST BRICIN'S COLLEGE",
+      "numPupils": 251,
+      "distance": {
+        "value": 12.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.099590",
+        "lon": "-7.443585"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S COLLEGE",
+      "numPupils": 612,
+      "distance": {
+        "value": 17.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.865543",
+        "lon": "-7.197303"
+      }
+    },
+    {
+      "schoolName": "CARRIGALLEN VOCATIONAL SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 19.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.979744",
+        "lon": "-7.647815"
+      }
+    },
+    {
+      "schoolName": "ST AIDANS COMPREHENSIVE SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 20.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.066460",
+        "lon": "-7.063481"
+      }
+    },
+    {
+      "schoolName": "LARGY COLLEGE",
+      "numPupils": 500,
+      "distance": {
+        "value": 21.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.179592",
+        "lon": "-7.225327"
+      }
+    },
+    {
+      "schoolName": "MOYNE COMMUNITY SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 21.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.908348",
+        "lon": "-7.648050"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Drumalee",
+      "route": "C3",
+      "destination": "Farnham Estate",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.9985",
+        "lon": "-7.347513"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlemanor",
+      "route": "C3",
+      "destination": "Cavan Hospital",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.998515",
+        "lon": "-7.344129"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cootehill Road",
+      "route": "C3",
+      "destination": "Redhills",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.999556",
+        "lon": "-7.355136392"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Institute",
+      "route": "VI01",
+      "destination": "Cavan Institute",
+      "provider": "Bailieboro Car & Coach Hire",
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00087",
+        "lon": "-7.35693"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Inst",
+      "route": "930",
+      "destination": "Cavan Hospital",
+      "provider": "Leydons Coaches",
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00077",
+        "lon": "-7.35797"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Inst",
+      "route": "176",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00077",
+        "lon": "-7.35797"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Inst",
+      "route": "929",
+      "destination": "Ballinamore",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00077",
+        "lon": "-7.35797"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Inst",
+      "route": "C1",
+      "destination": "Kilmore Hotel",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00077",
+        "lon": "-7.35797"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Inst",
+      "route": "862",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00077",
+        "lon": "-7.35797"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Inst",
+      "route": "175",
+      "destination": "Cavan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.00014",
+        "lon": "-7.35906"
+      }
+    }
+  ]
+}

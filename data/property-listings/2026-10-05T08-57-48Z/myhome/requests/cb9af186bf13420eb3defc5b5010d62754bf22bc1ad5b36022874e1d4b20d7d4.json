@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=439",
+  "fetchedAt": "2026-10-05T14:00:36.262Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=439",
+  "kind": "search",
+  "responseSha256": "1cc7351511d31035bb65d0b2ffc13f5b0542394c1444571096d31312837820d3",
+  "files": [
+    {
+      "path": "myhome/09552-cb9af186bf13420e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=439\"].SearchResults",
+      "sha256": "82a8c88df2deb112625e0e3e44f8430ba4b0884d214a7c3ce15775b139dec841",
+      "bytes": 119683
+    },
+    {
+      "path": "myhome/09552-cb9af186bf13420e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=439\"] (paging fields)",
+      "sha256": "3e2b7f892f6337145a6ea57c7d798bffea4283a90beb761771df7412edb88b26",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/murlach-lodge-ballyconneely-clifden-co-galway/5009923",
+    "https://www.myhome.ie/residential/brochure/kilmacoe-curracloe-wexford/5009921",
+    "https://www.myhome.ie/residential/brochure/8-carrigmore-terrace-citywest-co-dublin/5009916",
+    "https://www.myhome.ie/residential/brochure/colmcille-house-investment-sale-wrightson-s-lane-clanbrassil-street-dundalk-co-louth/5009901",
+    "https://www.myhome.ie/residential/brochure/arus-brugha-davitt-s-quay-dungarvan-co-waterford/5009900",
+    "https://www.myhome.ie/residential/brochure/sheeaun-ballycrissane-ballinasloe-co-galway/5009897",
+    "https://www.myhome.ie/residential/brochure/maulavanig-kealkill-west-cork/4967943",
+    "https://www.myhome.ie/residential/brochure/church-road-bantry-west-cork/4914294",
+    "https://www.myhome.ie/residential/brochure/109-ranelagh-dublin-6/5009865",
+    "https://www.myhome.ie/residential/brochure/56-cois-cualann-ballybrack-dublin/5003815",
+    "https://www.myhome.ie/residential/brochure/96-monkstown-avenue-blackrock-dublin/5009840",
+    "https://www.myhome.ie/residential/brochure/shalom-ballybeg-ennis-co-clare/5009850",
+    "https://www.myhome.ie/residential/brochure/castlegrey-kildimo-limerick/5009078",
+    "https://www.myhome.ie/residential/brochure/killinure-glasson-athlone-co-westmeath/5009845",
+    "https://www.myhome.ie/residential/brochure/type-b-tramway-court-old-blessington-road-tallaght-dublin-24-d24tc61/5009841",
+    "https://www.myhome.ie/residential/brochure/type-a-tramway-court-old-blessington-road-tallaght-dublin-24-d24y880/5009835",
+    "https://www.myhome.ie/residential/brochure/tuckmilltown-large-home-on-3-7-acres-straffan-kildare/5009831",
+    "https://www.myhome.ie/residential/brochure/view-hill-portlaoise-co-laois/5009832",
+    "https://www.myhome.ie/residential/brochure/186a-st-james-s-road-greenhills-dublin-12/5009819",
+    "https://www.myhome.ie/residential/brochure/kilbeg-kilfinny-adare-limerick/5009828"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=440",
+  "paginationLimited": false
+}

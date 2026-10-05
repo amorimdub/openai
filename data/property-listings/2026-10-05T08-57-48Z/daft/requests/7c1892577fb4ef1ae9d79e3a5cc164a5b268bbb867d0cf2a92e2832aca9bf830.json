@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/hadleigh-court-haddington-road-dublin-4/6671722",
+  "fetchedAt": "2026-10-05T09:20:50.277Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/hadleigh-court-haddington-road-dublin-4/6671722",
+  "kind": "listing",
+  "responseSha256": "3a7f444e1036c9d89f27b85706ba8d19d37489bd5b4ea2363c3c7268f68a68a6",
+  "files": [
+    {
+      "path": "daft/00921-7c1892577fb4ef1a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ae81f808259d3f0bc2c78d2f967a1e83c2b07e006a86edc29a5ba1850246a4ca",
+      "bytes": 47247
+    },
+    {
+      "path": "daft/00921-7c1892577fb4ef1a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9916d38aa6f9ca9d24a3f7532b2309ed141494c688314d4299761cc5be6196b7",
+      "bytes": 8054
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

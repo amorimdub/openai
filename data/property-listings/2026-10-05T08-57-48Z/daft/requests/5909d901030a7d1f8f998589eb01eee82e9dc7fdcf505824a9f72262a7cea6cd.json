@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/30-springbank-saggart-co-dublin/6677531",
+  "fetchedAt": "2026-10-05T09:21:09.795Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/30-springbank-saggart-co-dublin/6677531",
+  "kind": "listing",
+  "responseSha256": "7129b06d7ce0709cd16ba16d2b5a9f0b6ce7eef6b18e87b767e67bad73a74d8b",
+  "files": [
+    {
+      "path": "daft/00934-5909d901030a7d1f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cf4bcf1ed04c45b3eccd0d2c9b7efa976a320f10b411c7d7d446322ea0ffad6e",
+      "bytes": 65835
+    },
+    {
+      "path": "daft/00934-5909d901030a7d1f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "af6bfe5dfc899e4bbbd216458f75c84c8215dd5c24def779894f4e0beeccd8b2",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

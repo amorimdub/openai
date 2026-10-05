@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=217",
+  "fetchedAt": "2026-10-05T12:06:17.168Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=217",
+  "kind": "search",
+  "responseSha256": "71e9f5b22653746121cf9853a6b2ca7e94ab9f172146268f5f128c208a4ae3e0",
+  "files": [
+    {
+      "path": "myhome/04994-4cb2047863f0eead-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=217\"].SearchResults",
+      "sha256": "173e68c7bea299f5c025ca71d38cd543f0a544d2c79b542b9e2dcf1dd9e66aa9",
+      "bytes": 119273
+    },
+    {
+      "path": "myhome/04994-4cb2047863f0eead-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=217\"] (paging fields)",
+      "sha256": "245e96b46d89210bd57222888be000dcdece236505f05baf8edaa564f6d9e7b4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/46-oakton-park-ballybrack-co-dublin/5027133",
+    "https://www.myhome.ie/residential/brochure/25-cabinteely-avenue-cabinteely-dublin-18/5027131",
+    "https://www.myhome.ie/residential/brochure/67-shanganagh-grove-shankill-dublin/5027120",
+    "https://www.myhome.ie/residential/brochure/3-beechlawn-avenue-coolock-dublin-5/5027123",
+    "https://www.myhome.ie/residential/brochure/3-knockanally-village-knockanally-donadea-county-kildare/5027122",
+    "https://www.myhome.ie/residential/brochure/4-landscape-court-churchtown-dublin-14/5027118",
+    "https://www.myhome.ie/residential/brochure/30-hazelbrook-kilmacud-road-upper-dundrum-dublin-14/5026301",
+    "https://www.myhome.ie/residential/brochure/43-williams-grove-ardclough-county-kildare/5027119",
+    "https://www.myhome.ie/residential/brochure/241-mount-prospect-avenue-clontarf-dublin-3/4993715",
+    "https://www.myhome.ie/residential/brochure/apartment-12-richmond-hall-richmond-road-drumcondra-dublin-3/5019104",
+    "https://www.myhome.ie/residential/brochure/barr-na-sraide-newcastle-blarney-cork/5027117",
+    "https://www.myhome.ie/residential/brochure/19-castletroy-heights-castletroy-limerick/5023089",
+    "https://www.myhome.ie/residential/brochure/21-margaret-place-sandymount-dublin-4/5022593",
+    "https://www.myhome.ie/residential/brochure/no-8-hilltop-park-cobh-co-cork-cobh-cork/5027109",
+    "https://www.myhome.ie/residential/brochure/hillview-farm-barnaviddane-killeagh-cork/5027104",
+    "https://www.myhome.ie/residential/brochure/15-north-street-skibbereen-west-cork/5027087",
+    "https://www.myhome.ie/residential/brochure/19-vernon-avenue-clontarf-dublin-3/5027106",
+    "https://www.myhome.ie/residential/brochure/11-fintra-bay-killybegs-co-donegal/5027102",
+    "https://www.myhome.ie/residential/brochure/19-marine-drive-sandymount-dublin-4/5027101",
+    "https://www.myhome.ie/residential/brochure/52-rathmines-town-centre-rathmines-dublin-6/5026818"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=218",
+  "paginationLimited": false
+}

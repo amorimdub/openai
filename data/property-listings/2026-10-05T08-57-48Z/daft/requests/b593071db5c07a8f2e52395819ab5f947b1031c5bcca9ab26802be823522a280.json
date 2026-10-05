@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/maunsells-road-galway-shantalla-co-galway/6685982",
+  "fetchedAt": "2026-10-05T09:28:14.963Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/maunsells-road-galway-shantalla-co-galway/6685982",
+  "kind": "listing",
+  "responseSha256": "878ed2d083db3e5bbaa534c48274026c7b7d0b904705e248eb4fe1a3f36ff287",
+  "files": [
+    {
+      "path": "daft/01217-b593071db5c07a8f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e01b07c453df2af3fbd682c8ca3c29bb1809eb5ee9542562f0c7860c0ddc6f0",
+      "bytes": 18465
+    },
+    {
+      "path": "daft/01217-b593071db5c07a8f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-green-acres-sundrive-road-rush-co-dublin/6685210",
+  "fetchedAt": "2026-10-05T09:37:45.640Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-green-acres-sundrive-road-rush-co-dublin/6685210",
+  "kind": "listing",
+  "responseSha256": "137f6a7b85e34a3c621d289a5f8bd340dd45ec9aacdf74e23c4ed69c37f7d180",
+  "files": [
+    {
+      "path": "daft/01597-b3fcc4321452e1be-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f5fe0f81220a00651971e7eda0edabd87952acf8d54c7714e2a6a87fc75a3eb6",
+      "bytes": 74978
+    },
+    {
+      "path": "daft/01597-b3fcc4321452e1be-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "028c8ce215c29855b404162508dccf47ad226ab2e4f2ec111591375085a8ec6a",
+      "bytes": 8134
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

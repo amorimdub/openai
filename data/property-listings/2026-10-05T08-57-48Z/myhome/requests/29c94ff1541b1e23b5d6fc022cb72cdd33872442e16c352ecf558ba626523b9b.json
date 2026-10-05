@@ -1,0 +1,25 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=501",
+  "fetchedAt": "2026-10-05T14:32:43.245Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=501",
+  "kind": "search",
+  "responseSha256": "ef19da5a757e6437ef3823b8592d4ef855f64a6c279a7383f9ecdce163e43af5",
+  "files": [
+    {
+      "path": "myhome/10834-29c94ff1541b1e23-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=501\"].SearchResults",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "myhome/10834-29c94ff1541b1e23-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=501\"] (paging fields)",
+      "sha256": "5576d0304ab2bef9661d91030ad78418e69f3b36341dd9eb9ab4634912a155bc",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

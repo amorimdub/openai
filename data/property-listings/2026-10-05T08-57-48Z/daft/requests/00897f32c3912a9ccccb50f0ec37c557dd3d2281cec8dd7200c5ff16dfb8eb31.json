@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-50-hyde-square-kilmainham-dublin-8/6685349",
+  "fetchedAt": "2026-10-05T09:36:42.574Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-50-hyde-square-kilmainham-dublin-8/6685349",
+  "kind": "listing",
+  "responseSha256": "741cd0089536181956e588383ca13dac927d51301368fece827a0297d2545358",
+  "files": [
+    {
+      "path": "daft/01555-00897f32c3912a9c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "89a83f06d57ddaca6b0d1bcf1863a39241473a82604b621bdb98f907d42c5238",
+      "bytes": 39441
+    },
+    {
+      "path": "daft/01555-00897f32c3912a9c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "56e80b7837cd9e4cb2259e01e9d1d47c2a4c82134341dace46ee3bfc52c1b2c8",
+      "bytes": 8092
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/millwood-killacloran-aughrim-craffield-co-wicklow/6686242",
+  "fetchedAt": "2026-10-05T09:30:12.162Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/millwood-killacloran-aughrim-craffield-co-wicklow/6686242",
+  "kind": "listing",
+  "responseSha256": "2b4c0765864e356f13627f30761a338bc07328199690730be8903825df12de1a",
+  "files": [
+    {
+      "path": "daft/01295-887cc87c11bda18a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c9e3eaf68d4172aaaada9965e69ece64fe91fc48ce093d8413e845b3364b7d16",
+      "bytes": 53337
+    },
+    {
+      "path": "daft/01295-887cc87c11bda18a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "003097ba8922d8a32c5ef726752532ba910ded987cf44c0c1f82b7354ddf3d50",
+      "bytes": 8248
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

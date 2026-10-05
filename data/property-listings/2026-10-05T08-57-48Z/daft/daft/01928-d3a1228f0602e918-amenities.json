@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GAELSCOIL BHREIFNE",
+      "numPupils": 201,
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.991630",
+        "lon": "-7.365646"
+      }
+    },
+    {
+      "schoolName": "ST. FELIM'S NATIONAL SCHOOL",
+      "numPupils": 276,
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990960",
+        "lon": "-7.363612"
+      }
+    },
+    {
+      "schoolName": "CAVAN NO 1 NATIONAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990200",
+        "lon": "-7.362837"
+      }
+    },
+    {
+      "schoolName": "ST CLARES PRIMARY SCHOOL",
+      "numPupils": 550,
+      "distance": {
+        "value": 0.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.991756",
+        "lon": "-7.356980"
+      }
+    },
+    {
+      "schoolName": "FARNHAM NATIONAL SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 1.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.002995",
+        "lon": "-7.383978"
+      }
+    },
+    {
+      "schoolName": "DRUMCRAVE NATIONAL SCHOOL",
+      "numPupils": 45,
+      "distance": {
+        "value": 3.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.996983",
+        "lon": "-7.323478"
+      }
+    },
+    {
+      "schoolName": "CORLURGAN NATIONAL SCHOOL",
+      "numPupils": 57,
+      "distance": {
+        "value": 3.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.960476",
+        "lon": "-7.358582"
+      }
+    },
+    {
+      "schoolName": "KILMORE NATIONAL SCHOOL",
+      "numPupils": 43,
+      "distance": {
+        "value": 4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.972076",
+        "lon": "-7.420688"
+      }
+    },
+    {
+      "schoolName": "ST BRIGID'S NATIONAL SCHOOL",
+      "numPupils": 204,
+      "distance": {
+        "value": 4.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.986320",
+        "lon": "-7.305626"
+      }
+    },
+    {
+      "schoolName": "CRUBANY NATIONAL SCHOOL",
+      "numPupils": 172,
+      "distance": {
+        "value": 4.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.965350",
+        "lon": "-7.321642"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ROYAL SCHOOL CAVAN",
+      "numPupils": 354,
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.984470",
+        "lon": "-7.361660"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S COLLEGE",
+      "numPupils": 809,
+      "distance": {
+        "value": 2.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.008453",
+        "lon": "-7.353329"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 689,
+      "distance": {
+        "value": 2.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.012768",
+        "lon": "-7.373699"
+      }
+    },
+    {
+      "schoolName": "BREIFNE COLLEGE",
+      "numPupils": 893,
+      "distance": {
+        "value": 2.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.009235",
+        "lon": "-7.346803"
+      }
+    },
+    {
+      "schoolName": "ST BRICIN'S COLLEGE",
+      "numPupils": 251,
+      "distance": {
+        "value": 13.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.099590",
+        "lon": "-7.443585"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S COLLEGE",
+      "numPupils": 612,
+      "distance": {
+        "value": 17.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.865543",
+        "lon": "-7.197303"
+      }
+    },
+    {
+      "schoolName": "CARRIGALLEN VOCATIONAL SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 18.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.979744",
+        "lon": "-7.647815"
+      }
+    },
+    {
+      "schoolName": "MOYNE COMMUNITY SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 20.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.908348",
+        "lon": "-7.648050"
+      }
+    },
+    {
+      "schoolName": "ST AIDANS COMPREHENSIVE SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 21.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.066460",
+        "lon": "-7.063481"
+      }
+    },
+    {
+      "schoolName": "LARGY COLLEGE",
+      "numPupils": 500,
+      "distance": {
+        "value": 22.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.179592",
+        "lon": "-7.225327"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Glenlara",
+      "route": "C3",
+      "destination": "Redhills",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990907",
+        "lon": "-7.371475"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Swellan Court",
+      "route": "C3",
+      "destination": "Rocklands",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.992438",
+        "lon": "-7.370104"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "465",
+      "destination": "Carrigallen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.99036",
+        "lon": "-7.36358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "111A",
+      "destination": "Delvin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.99036",
+        "lon": "-7.36358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "170",
+      "destination": "Cavan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.99036",
+        "lon": "-7.36358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "466",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.99036",
+        "lon": "-7.36358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "109X",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.99036",
+        "lon": "-7.36358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "65",
+      "destination": "Monaghan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.99036",
+        "lon": "-7.36358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "C2",
+      "destination": "Ballinagh",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990216",
+        "lon": "-7.363286"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cavan Bus Stn",
+      "route": "929",
+      "destination": "Cavan Institute",
+      "provider": "TFI Local Link Cavan Monaghan",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.990216",
+        "lon": "-7.363286"
+      }
+    }
+  ]
+}

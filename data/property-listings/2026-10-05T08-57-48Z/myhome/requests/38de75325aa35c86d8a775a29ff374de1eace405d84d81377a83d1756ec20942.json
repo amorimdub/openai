@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=122",
+  "fetchedAt": "2026-10-05T11:16:35.799Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=122",
+  "kind": "search",
+  "responseSha256": "d92bc7bc9a72408e37873bc30bcdcf236b6e26126523b56551d44ca7fc7277b7",
+  "files": [
+    {
+      "path": "myhome/03030-38de75325aa35c86-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=122\"].SearchResults",
+      "sha256": "ccd3ca71953472b488277685ba0f6fd5ff4e7d7dbcf03c002432b7eaa5b9147d",
+      "bytes": 123382
+    },
+    {
+      "path": "myhome/03030-38de75325aa35c86-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=122\"] (paging fields)",
+      "sha256": "dd90c7eb0e35216b2a6515e774aa8681f14babb7d2e59f3453d5242c6eb6f768",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-barry-s-terrace-glanmire-cork/5029741",
+    "https://www.myhome.ie/residential/brochure/bramble-cottage-drumdangan-glenealy-co-wicklow/5029740",
+    "https://www.myhome.ie/residential/brochure/newtown-kilkee-co-clare/5029739",
+    "https://www.myhome.ie/residential/brochure/dot-s-seaview-cottage-bannow-wexford/5029708",
+    "https://www.myhome.ie/residential/brochure/kilcommon-thurles-tipperary/5029732",
+    "https://www.myhome.ie/residential/brochure/53-rosemount-court-booterstown-co-dublin/5029731",
+    "https://www.myhome.ie/residential/brochure/22-cadogan-road-fairview-dublin-3/5029325",
+    "https://www.myhome.ie/residential/brochure/112-rinuccini-court-portlaoise-laois/5025206",
+    "https://www.myhome.ie/residential/brochure/54-creagh-demense-gorey-co-wexford/5029730",
+    "https://www.myhome.ie/residential/brochure/apartment-6-3-park-avenue-clongriffin-dublin-13-co-dublin/5029727",
+    "https://www.myhome.ie/residential/brochure/33-dun-rd-doon-road-ballybunion-co-kerry/5029388",
+    "https://www.myhome.ie/residential/brochure/89-furry-park-road-killester-dublin-5/5029724",
+    "https://www.myhome.ie/residential/brochure/2-waltham-abbey-old-quarter-ballincollig-co-cork/5029722",
+    "https://www.myhome.ie/residential/brochure/apartment-2-the-bridge-t-f-maher-street-dungarvan-waterford/5029719",
+    "https://www.myhome.ie/residential/brochure/36-latchford-park-clonee-dublin-15/5029721",
+    "https://www.myhome.ie/residential/brochure/ballyhowley-knock-co-mayo/5029720",
+    "https://www.myhome.ie/residential/brochure/9-wolfe-tone-street-kilkenny-kilkenny/5029716",
+    "https://www.myhome.ie/residential/brochure/the-heather-clover-lawns-summerfields-kilbarry-waterford-city-waterford/5029477",
+    "https://www.myhome.ie/residential/brochure/the-holly-clover-lawn-summerfield-kilbarry-waterford-city-waterford/5029482",
+    "https://www.myhome.ie/residential/brochure/the-hazel-clover-lawn-summerfields-kilbarry-waterford-city-waterford/5029486"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=123",
+  "paginationLimited": false
+}

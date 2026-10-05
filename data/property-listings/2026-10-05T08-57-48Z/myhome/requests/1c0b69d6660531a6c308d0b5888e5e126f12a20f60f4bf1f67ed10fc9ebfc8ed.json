@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=496",
+  "fetchedAt": "2026-10-05T14:30:06.947Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=496",
+  "kind": "search",
+  "responseSha256": "085050eee35a69cc6576f18c64910d06392f7ea8d0de985978c8633f5aaaa39c",
+  "files": [
+    {
+      "path": "myhome/10730-1c0b69d6660531a6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=496\"].SearchResults",
+      "sha256": "412b0439f8ab184404f8c12b3e0f4dc8a30d48c2d5c6a81823a6e4d5844d8b63",
+      "bytes": 110215
+    },
+    {
+      "path": "myhome/10730-1c0b69d6660531a6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=496\"] (paging fields)",
+      "sha256": "5410bc21ac57d623a2683cf953671988594f3de27aae9d1cc2aa6a2e527e786a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/95-dorset-street-upper-north-city-centre-dublin-1/5002923",
+    "https://www.myhome.ie/residential/brochure/development-site-chapel-road-lusk-co-dublin/4779320",
+    "https://www.myhome.ie/residential/brochure/4-boyne-hill-navan-meath/5002648",
+    "https://www.myhome.ie/residential/brochure/house-and-glasshouses-sundrive-road-rush-co-dublin/5002930",
+    "https://www.myhome.ie/residential/brochure/114-walkinstown-avenue-walkinstown-dublin-12/5001017",
+    "https://www.myhome.ie/residential/brochure/7-barnwell-avenue-hansfield-clonsilla-dublin-15/4996864",
+    "https://www.myhome.ie/residential/brochure/1-waterpark-avenue-carrigaline-cork/4970659",
+    "https://www.myhome.ie/residential/brochure/7-albert-court-east-grand-canal-dk-dublin-2/5002879",
+    "https://www.myhome.ie/residential/brochure/12-marwood-avenue-riverstown-glanmire-cork/4988643",
+    "https://www.myhome.ie/residential/brochure/161-gleann-dara-bishop-o-donnell-road-rahoon-galway/5002883",
+    "https://www.myhome.ie/residential/brochure/7-russell-crescent-russell-square-tallaght-dublin/5002864",
+    "https://www.myhome.ie/residential/brochure/knocksedan-demesne-swords-dublin/4829117",
+    "https://www.myhome.ie/residential/brochure/knocksedan-demesne-swords-dublin/4829093",
+    "https://www.myhome.ie/residential/brochure/no-16-casa-rio-distillery-road-wexford-town-wexford/5002848",
+    "https://www.myhome.ie/residential/brochure/72-brookville-park-old-malahide-road-coolock-dublin-5/5002845",
+    "https://www.myhome.ie/residential/brochure/railway-road-kilmallock-limerick/5002849",
+    "https://www.myhome.ie/residential/brochure/highbury-house-waterford-59a-marian-park-waterford-city-waterford/5002798",
+    "https://www.myhome.ie/residential/brochure/guileen-cottages-montrea-east-ardmore-waterford/5002785",
+    "https://www.myhome.ie/residential/brochure/lower-jenkinstown-cooley-louth/5002773",
+    "https://www.myhome.ie/residential/brochure/whitehall-parteen-parteen-clare/4998867"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=497",
+  "paginationLimited": false
+}

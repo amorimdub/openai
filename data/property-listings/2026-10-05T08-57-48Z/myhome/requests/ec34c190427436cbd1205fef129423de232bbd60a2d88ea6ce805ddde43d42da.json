@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=170",
+  "fetchedAt": "2026-10-05T11:42:07.578Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=170",
+  "kind": "search",
+  "responseSha256": "32928ca13536cf7819036d5ad020d59f7298521a54b52b156f10f6d5fb36759f",
+  "files": [
+    {
+      "path": "myhome/04030-ec34c190427436cb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=170\"].SearchResults",
+      "sha256": "a41b8cceadeddf4a0707da94a4ddd5eacb1d8842c2ff1d5b07b31e3c9b31f52f",
+      "bytes": 114300
+    },
+    {
+      "path": "myhome/04030-ec34c190427436cb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=170\"] (paging fields)",
+      "sha256": "e729640403a3bc28e9cd99ea8b50d97b90edf9173487746d4693b8c24fd8142c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-forge-lane-lusk-village-lusk-county-dublin/4980993",
+    "https://www.myhome.ie/residential/brochure/16-galtymore-park-drimnagh-dublin-12/5027083",
+    "https://www.myhome.ie/residential/brochure/31-brabazon-links-golf-links-road-bettystown-meath/5028358",
+    "https://www.myhome.ie/residential/brochure/east-gate-lodge-glenart-arklow-wicklow/5028396",
+    "https://www.myhome.ie/residential/brochure/9-ballyowen-court-lucan-co-dublin/5028434",
+    "https://www.myhome.ie/residential/brochure/15-college-park-way-ballinteer-dublin-16/5007175",
+    "https://www.myhome.ie/residential/brochure/26b-djouce-meadow-roundwood-co-wicklow/5028431",
+    "https://www.myhome.ie/residential/brochure/50-woodley-park-kilmacud-dublin-14/5028426",
+    "https://www.myhome.ie/residential/brochure/17-red-arches-close-baldoyle-dublin-13/5003614",
+    "https://www.myhome.ie/residential/brochure/57-ramillies-road-ballyfermot-dublin-10/5028425",
+    "https://www.myhome.ie/residential/brochure/saint-brendan-s-waterloo-road-wexford-town-wexford/5016943",
+    "https://www.myhome.ie/residential/brochure/24-druids-court-druids-glen-newtownmountkennedy-co-wicklow/5028424",
+    "https://www.myhome.ie/residential/brochure/19-elder-heath-view-kiltipper-tallaght-dublin-24/5028423",
+    "https://www.myhome.ie/residential/brochure/6-tirchonaill-st-mullans-donegal-town-donegal/5028421",
+    "https://www.myhome.ie/residential/brochure/137-leighlin-road-crumlin-dublin-12/5028377",
+    "https://www.myhome.ie/residential/brochure/20-beech-rd-rivercourt-carlow-town-co-carlow/5028420",
+    "https://www.myhome.ie/residential/brochure/23a-annamoe-terrace-cabra-dublin-7/4943383",
+    "https://www.myhome.ie/residential/brochure/sunville-house-north-circular-road-limerick/5028418",
+    "https://www.myhome.ie/residential/brochure/65-elm-mount-ave-beaumont-dublin-9/5028415",
+    "https://www.myhome.ie/residential/brochure/15-rocky-valley-crescent-kilmacanogue-co-wicklow/4990927"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=171",
+  "paginationLimited": false
+}

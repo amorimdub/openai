@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/40-college-road-galway-city-centre-galway/6644735",
+  "fetchedAt": "2026-10-05T09:46:20.909Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/40-college-road-galway-city-centre-galway/6644735",
+  "kind": "listing",
+  "responseSha256": "a10ee2c2e982207f91562c4e84a7c086eccdbcb82acad1961cb1118385943fc1",
+  "files": [
+    {
+      "path": "daft/01940-a93001f0dee8745f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "69b6eb69d3e1aa6a18b8d888d8449f8a7e098b44927a20d276fc4552c27d3b5e",
+      "bytes": 19771
+    },
+    {
+      "path": "daft/01940-a93001f0dee8745f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "805a2c9fbbb6d72f2eaf796c5f854da1a859c564aa96f3464792afd245b5caaa",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

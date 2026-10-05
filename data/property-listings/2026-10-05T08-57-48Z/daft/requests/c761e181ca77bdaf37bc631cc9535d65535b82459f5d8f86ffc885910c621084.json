@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/church-road-carrigaline-co-cork/6686268",
+  "fetchedAt": "2026-10-05T09:28:05.943Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/church-road-carrigaline-co-cork/6686268",
+  "kind": "listing",
+  "responseSha256": "6aa8ed20139517eae3a89dd8fe25170ef830eeb55f99be809cb66b1c2a895a9b",
+  "files": [
+    {
+      "path": "daft/01211-c761e181ca77bdaf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9abadd0c9613796ecb6cf483f3fb688b714b83ddf2a62e72f7c112a4623b2893",
+      "bytes": 53043
+    },
+    {
+      "path": "daft/01211-c761e181ca77bdaf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7305ba3ea7a3c34e193ae89c33503d3a7d75bef229aa6ff46dc824e5a957783e",
+      "bytes": 8162
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

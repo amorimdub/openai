@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/father-murphy-close-enniscorthy-co-wexford/6684680",
+  "fetchedAt": "2026-10-05T09:16:41.012Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/father-murphy-close-enniscorthy-co-wexford/6684680",
+  "kind": "listing",
+  "responseSha256": "076e32f9f94bb84856f86b7597a033da69be417b531bb6c4d27a25a779acbd8a",
+  "files": [
+    {
+      "path": "daft/00755-f65142ab2427e8c8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a3ce8e6530ba4be994e591b320acb25d852fe72d1e6e50cc7242390d23bb017b",
+      "bytes": 19933
+    },
+    {
+      "path": "daft/00755-f65142ab2427e8c8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "025536c636c4ac51c480ba9314a93709c8b60ddd1a229339117b1dfe53c029ee",
+      "bytes": 8209
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

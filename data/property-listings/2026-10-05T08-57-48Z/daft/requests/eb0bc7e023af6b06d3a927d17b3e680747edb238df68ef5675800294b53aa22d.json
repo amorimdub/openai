@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-16-the-pines-beckett-woods-brighton-road-foxrock-dublin-18/6686613",
+  "fetchedAt": "2026-10-05T09:25:52.219Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-16-the-pines-beckett-woods-brighton-road-foxrock-dublin-18/6686613",
+  "kind": "listing",
+  "responseSha256": "3a92a0b464eaf4439333193d8ef14808db3c472726598cbf9662a3cb9ea0f67b",
+  "files": [
+    {
+      "path": "daft/01122-eb0bc7e023af6b06-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "840c6997355d457c1f31dc622bd2fcc8e77979d55991765d5f4036232d10a2b1",
+      "bytes": 31521
+    },
+    {
+      "path": "daft/01122-eb0bc7e023af6b06-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "90165aff26afa4ad7f0ae7cf06e303d1e7663296e2589758a6262def7a9cc490",
+      "bytes": 8239
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-main-street-roundwood-co-wicklow-roundwood-co-wicklow/6686033",
+  "fetchedAt": "2026-10-05T09:16:24.494Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-main-street-roundwood-co-wicklow-roundwood-co-wicklow/6686033",
+  "kind": "listing",
+  "responseSha256": "45ef78dee4af235a25dd4e67f310bed44b8ade00d5f085a86c2c83a69bc9176d",
+  "files": [
+    {
+      "path": "daft/00744-02989f4e5ab6dd08-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ef2ddddf3008ceef8b4ddf4778ad921275f23f46002a06fd3c8b43a3de1d8def",
+      "bytes": 12587
+    },
+    {
+      "path": "daft/00744-02989f4e5ab6dd08-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-paddocks-way-adamstown-co-dublin/6682492",
+  "fetchedAt": "2026-10-05T09:11:25.542Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-paddocks-way-adamstown-co-dublin/6682492",
+  "kind": "listing",
+  "responseSha256": "844bf580689c8100412844c6fb1acab11fa5aed9a7183a7f580512ed70a7077c",
+  "files": [
+    {
+      "path": "daft/00545-f153d64373323cb7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f4c9143bf46491c96582a39a1226b42e1d1d9551ba12c588bafbbe343482f77e",
+      "bytes": 15209
+    },
+    {
+      "path": "daft/00545-f153d64373323cb7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1883329538cf537b1d8487e8cfad70ec957fcbe8be2bb91d7e43fe4ef0ed99f7",
+      "bytes": 8140
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

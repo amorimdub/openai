@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=181",
+  "fetchedAt": "2026-10-05T11:47:49.437Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=181",
+  "kind": "search",
+  "responseSha256": "b47a3795941bd84b9dfc4825f62ff76df14d417c7c4617673559cdfa8d6d0938",
+  "files": [
+    {
+      "path": "myhome/04257-588cee946d4dc7b8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=181\"].SearchResults",
+      "sha256": "78a602f48090254e30029984d34a2df5e0eb1045c80cd9c89b8f5f7eb7dfe4d2",
+      "bytes": 114744
+    },
+    {
+      "path": "myhome/04257-588cee946d4dc7b8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=181\"] (paging fields)",
+      "sha256": "55f86bf2edbdf5bb60df2255c0ce425e833d95773b80df5b42b6a8825fc307c7",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-surehaven-lawn-phoenix-park-racecourse-dublin-15/5028143",
+    "https://www.myhome.ie/residential/brochure/michael-carr-transport-drumhill-house-gurteens-ballina-co-mayo/5028142",
+    "https://www.myhome.ie/residential/brochure/rookery-house-rookery-road-killarney-co-kerry/5028139",
+    "https://www.myhome.ie/residential/brochure/3-hollypark-avenue-birr-co-offaly/5028136",
+    "https://www.myhome.ie/residential/brochure/9-st-helen-s-chase-adamstown-co-dublin/5028135",
+    "https://www.myhome.ie/residential/brochure/apartment-2-aston-abbey-aston-quay-temple-bar-dublin-2/5003626",
+    "https://www.myhome.ie/residential/brochure/1-upper-beladd-portlaoise-co-laois/5028134",
+    "https://www.myhome.ie/residential/brochure/14-pairc-na-heornan-ballinagar-tullamore-co-offaly/5028133",
+    "https://www.myhome.ie/residential/brochure/12a-fernley-court-long-lane-portobello-dublin-8/5028132",
+    "https://www.myhome.ie/residential/brochure/type-e1-johnstown-demesne-enfield-meath/5014076",
+    "https://www.myhome.ie/residential/brochure/johnstown-demesne-enfield-co-meath-4-bedroom-semi-detached/4952347",
+    "https://www.myhome.ie/residential/brochure/barnehurst-oldconnell-newbridge-co-kildare/5028131",
+    "https://www.myhome.ie/residential/brochure/edenderry-173-seafield-road-east-clontarf-dublin-3/5028130",
+    "https://www.myhome.ie/residential/brochure/2-somerville-dundalk-county-louth/5028129",
+    "https://www.myhome.ie/residential/brochure/18-the-stables-monivea-co-galway/5028127",
+    "https://www.myhome.ie/residential/brochure/18-belltree-walk-clongriffin-dublin-13/5028125",
+    "https://www.myhome.ie/residential/brochure/melrose-house-faughts-doonally-sligo-co-sligo/5028122",
+    "https://www.myhome.ie/residential/brochure/doirindaragh-lettermore-galway/5028102",
+    "https://www.myhome.ie/residential/brochure/56-leinster-wood-carton-demesne-maynooth-co-kildare/5028121",
+    "https://www.myhome.ie/residential/brochure/35-grange-park-grove-raheny-dublin-5/5028118"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=182",
+  "paginationLimited": false
+}

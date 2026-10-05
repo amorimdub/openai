@@ -1,0 +1,228 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "test c1 test cavan cavan",
+    "GroupId": 387580,
+    "Address": "test c1, test",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/6/6/5009667/dd6e6577-1eff-4eec-9de6-d82b32698538_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/6/6/5009667/dd6e6577-1eff-4eec-9de6-d82b32698538_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/6/6/5009667/dd6e6577-1eff-4eec-9de6-d82b32698538_l.jpeg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 100,
+    "MaxSize": 100,
+    "BerRating": "A",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "test"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "- Washing Machine"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: A"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 145,
+    "MaxEnergyRating": 145,
+    "BERGrade": "A",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-06-30T14:59:04.4700000+01:00",
+    "ModifiedOnDate": "2026-09-08T14:43:18.5270000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-30T14:59:04.4700000+01:00",
+    "RefreshedOn": "2026-06-30T14:59:04.4700000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": false,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "RelatedProperties": "5009666",
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A.png",
+    "IsTransact": false,
+    "PriceAsString": "€500,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5009667,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 100,
+    "DisplayAddress": "test c1, test, Cavan, Cavan",
+    "Eircode": " ",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 887,
+    "RegionName": "Cavan",
+    "LocalityId": 901,
+    "LocalityName": "Cavan",
+    "Price": {
+      "MinPrice": 500000,
+      "MaxPrice": 500000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/6/5009667/dd6e6577-1eff-4eec-9de6-d82b32698538_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/6/5009667/dd6e6577-1eff-4eec-9de6-d82b32698538_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/6/5009667/dd6e6577-1eff-4eec-9de6-d82b32698538_m.jpeg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.718831,
+      "latitude": 53.253931
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [
+        5009666
+      ],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 1,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 387580,
+    "Name": "MyHome Test Agent Portal",
+    "Email": "test@test.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "myhome-test-agent-portal",
+    "SeoName": "myhome-test-agent-portal",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "cavan-town/901",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4996769,
+      "Address": "Hygge, Drumbar, Co. Cavan",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/6/7/4996769/ee59ce93-42b9-436d-a3fc-3d291f065dd2_t.jpg",
+      "HasWebP": false,
+      "Price": 1575000,
+      "PrevPrice": 1950000,
+      "PriceChangeDelta": -375000,
+      "PriceChangePercentage": -19.2308,
+      "Created": "1st Oct 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "BerRating": "A3",
+      "SeoUrl": "/residential/brochure/hygge-drumbar-co-cavan/4996769",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/test-c1-test-cavan-cavan/5009667",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 387580,
+    "MYH_LocalityID": 901,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 887,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Washing Machine"
+    ],
+    "MYH_PropertyFeatureIDListString": "Washing Machine",
+    "MYH_MaxPrice": 500000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 145,
+    "MYH_MinPrice": 500000,
+    "MYH_MinSize": 100,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5009667,
+    "MYH_PropertyTypeID": 36
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ellensborough-rise-kiltipper-dublin-24/6686622",
+  "fetchedAt": "2026-10-05T09:27:10.347Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ellensborough-rise-kiltipper-dublin-24/6686622",
+  "kind": "listing",
+  "responseSha256": "b56632edf6b76c918ae6d382756c5a2cc1e95491235810c4c681a2d658e156eb",
+  "files": [
+    {
+      "path": "daft/01174-29111e64cf7ab186-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d372fdb13f247f6b5947d0b2e850af984b531aadaeefe3496b66ccadbfe52308",
+      "bytes": 22571
+    },
+    {
+      "path": "daft/01174-29111e64cf7ab186-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c2ff2d3e3af275e28b3e0a815365105a15b23438b5b04366eff2e4666a39fc0d",
+      "bytes": 8065
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

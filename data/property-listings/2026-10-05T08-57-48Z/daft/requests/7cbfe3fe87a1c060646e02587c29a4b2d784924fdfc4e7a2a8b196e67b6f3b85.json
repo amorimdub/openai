@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/blarney-park-dublin-12-kimmage-dublin-12/6682655",
+  "fetchedAt": "2026-10-05T09:53:12.553Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/blarney-park-dublin-12-kimmage-dublin-12/6682655",
+  "kind": "listing",
+  "responseSha256": "2c3a506fbde7a4e69a5f8337510fbf3547190b744bee3949a11af645a0edaa48",
+  "files": [
+    {
+      "path": "daft/02214-7cbfe3fe87a1c060-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a98204c588d080eb9439ec0ff600207a1e8feb0d15378a1744bce3e5b222c71e",
+      "bytes": 37541
+    },
+    {
+      "path": "daft/02214-7cbfe3fe87a1c060-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e9da93ba29edfeec3fb17e4a222b188977595830d454aeff7b0481b142f08a86",
+      "bytes": 8032
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

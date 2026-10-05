@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=428",
+  "fetchedAt": "2026-10-05T13:54:56.591Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=428",
+  "kind": "search",
+  "responseSha256": "77b6ff94ab0b289abd3d0650d5c7f2b7a85fb775d46357b2f9a52d75cc121cc4",
+  "files": [
+    {
+      "path": "myhome/09326-d009d1af99f3ca20-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=428\"].SearchResults",
+      "sha256": "9857ba537c7d2fb10c1e366667c97f19c242b6ced0edf29ba60de62ce13be9a0",
+      "bytes": 123267
+    },
+    {
+      "path": "myhome/09326-d009d1af99f3ca20-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=428\"] (paging fields)",
+      "sha256": "36b787488fdfec4e04e391a97f000aaadd6f4fc7c9e8c353120b9d6416eebcc5",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/84-ranelagh-ranelagh-dublin-6/4950535",
+    "https://www.myhome.ie/residential/brochure/chantry-house-paulstown-kilkenny/5005648",
+    "https://www.myhome.ie/residential/brochure/124-merrion-village-ballsbridge-dublin-4/5010883",
+    "https://www.myhome.ie/residential/brochure/13-vereker-gardens-ennis-road-limerick-city/5010869",
+    "https://www.myhome.ie/residential/brochure/10-clancool-terrace-bandon-cork/5010815",
+    "https://www.myhome.ie/residential/brochure/70-thomas-davis-street-mallow-cork/5009209",
+    "https://www.myhome.ie/residential/brochure/smyths-main-street-ballinamore-leitrim/5010856",
+    "https://www.myhome.ie/residential/brochure/lisclogher-great-delvin-westmeath/4992665",
+    "https://www.myhome.ie/residential/brochure/avondale-carhoonakilla-tarbert-co-kerry/5009344",
+    "https://www.myhome.ie/residential/brochure/19-ard-na-greine-dublin-road-mullingar-co-westmeath-mullingar-westmeath/5010855",
+    "https://www.myhome.ie/residential/brochure/highfield-house-kilcorral-castlebridge-wexford/5010688",
+    "https://www.myhome.ie/residential/brochure/shanvallyard-tourmakeady-co-mayo/5010851",
+    "https://www.myhome.ie/residential/brochure/16-mullan-mor-tuam-road-galway/5010848",
+    "https://www.myhome.ie/residential/brochure/11-radharc-na-coille-rathcool-co-cork/5010847",
+    "https://www.myhome.ie/residential/brochure/reenogreena-glandore-west-cork/5010715",
+    "https://www.myhome.ie/residential/brochure/kinnagh-ballycullane-wexford/5010806",
+    "https://www.myhome.ie/residential/brochure/6-o-rahilly-view-gusserane-new-ross-wexford/5010835",
+    "https://www.myhome.ie/residential/brochure/47-claremont-court-glasnevin-dublin-11/5003782",
+    "https://www.myhome.ie/residential/brochure/carrowkeel-house-carrowkeel-clogher-claremorris-mayo/5010726",
+    "https://www.myhome.ie/residential/brochure/tower-hill-ardmore-co-waterford/5010832"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=429",
+  "paginationLimited": false
+}

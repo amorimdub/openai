@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-79-rialto-court-rialto-dublin-8/6671888",
+  "fetchedAt": "2026-10-05T09:12:49.670Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-79-rialto-court-rialto-dublin-8/6671888",
+  "kind": "listing",
+  "responseSha256": "9790229e9316ebb9985976333b60f2841aa0fa747d748130224123028939fd9b",
+  "files": [
+    {
+      "path": "daft/00601-cd55032666424ad8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "38de6fb7ff093dc61a5f97fac55e706a0c7a4845a315db609458dc32fa3c4d66",
+      "bytes": 40485
+    },
+    {
+      "path": "daft/00601-cd55032666424ad8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d459808c2b5a1f612f653dc52d609cd462eabc4c53120644f94ec29eec881b22",
+      "bytes": 8093
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

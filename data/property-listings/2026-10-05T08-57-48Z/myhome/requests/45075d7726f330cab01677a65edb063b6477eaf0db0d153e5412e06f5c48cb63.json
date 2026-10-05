@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=135",
+  "fetchedAt": "2026-10-05T11:23:50.394Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=135",
+  "kind": "search",
+  "responseSha256": "0a3a7951dfabddffc53fd54cc67c2466a95a6d5ce1fc6f9d63c3b0d935ca9228",
+  "files": [
+    {
+      "path": "myhome/03300-45075d7726f330ca-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=135\"].SearchResults",
+      "sha256": "eb7274e89121378990a6ee90ebc15545313bb7a463931b34033213a34ca238d1",
+      "bytes": 119869
+    },
+    {
+      "path": "myhome/03300-45075d7726f330ca-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=135\"] (paging fields)",
+      "sha256": "c6f048095b0d5e22197b42da87a30a8e5b9527e18158217b1eecfafd8c8e9d77",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4a-booterstown-avenue-booterstown-blackrock-co-dublin/5026404",
+    "https://www.myhome.ie/residential/brochure/coranagh-carrigallen-co-leitrim/5029363",
+    "https://www.myhome.ie/residential/brochure/7-warrenstown-downs-mulhuddart-dublin-15/5028778",
+    "https://www.myhome.ie/residential/brochure/29-lawless-terrace-balbriggan-dublin/5029356",
+    "https://www.myhome.ie/residential/brochure/4-carraig-aoibhinn-edenderry-offaly/5029354",
+    "https://www.myhome.ie/residential/brochure/tougher-road-robertstown-co-kildare/5029357",
+    "https://www.myhome.ie/residential/brochure/63-the-iona-prospect-hill-finglas-dublin-11/5029316",
+    "https://www.myhome.ie/residential/brochure/apt-1-4-1-bayview-pembroke-street-dublin-4/5029351",
+    "https://www.myhome.ie/residential/brochure/gowlane-north-cork-donoughmore-co-cork/5029350",
+    "https://www.myhome.ie/residential/brochure/45-bridge-road-listowel-co-kerry/5017461",
+    "https://www.myhome.ie/residential/brochure/114-millrace-road-phoenix-park-racecourse-castleknock-dublin-15/5025662",
+    "https://www.myhome.ie/residential/brochure/14-riverwood-place-castleknock-dublin-15/5025028",
+    "https://www.myhome.ie/residential/brochure/17-lough-road-cork-city-cork/5029311",
+    "https://www.myhome.ie/residential/brochure/98-loreto-avenue-rathfarnham-dublin-14/5029320",
+    "https://www.myhome.ie/residential/brochure/apartment-26-block-a-saint-patricks-court-dublin-8-co-dublin/5029330",
+    "https://www.myhome.ie/residential/brochure/27-ardfrail-court-oldcastle-co-meath/5029329",
+    "https://www.myhome.ie/residential/brochure/two-houses-on-1-4-acres-at-ervallagh-ahascragh-ballinasloe-galway/5024642",
+    "https://www.myhome.ie/residential/brochure/69-beech-park-road-dublin-18/5008370",
+    "https://www.myhome.ie/residential/brochure/25-wellington-road-ballsbridge-dublin-4/5027316",
+    "https://www.myhome.ie/residential/brochure/15-bayview-drive-wexford-town-co-wexford/5029322"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=136",
+  "paginationLimited": false
+}

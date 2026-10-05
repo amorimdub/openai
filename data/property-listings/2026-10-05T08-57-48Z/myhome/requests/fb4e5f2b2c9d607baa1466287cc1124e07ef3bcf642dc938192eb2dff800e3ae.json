@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=60",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=60",
+  "fetchedAt": "2026-10-05T09:42:51.948Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "b6d9839c4a57dfb163f65e3032abf5b55387010b2b11383f1005208f7ae29286",
+  "files": [
+    {
+      "path": "myhome/01796-fb4e5f2b2c9d607b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=60\"].SearchResults",
+      "sha256": "57f5b627e6e2d295b84f02e1215db54a642560515949d69ecf69ff15ade4f410",
+      "bytes": 108305
+    },
+    {
+      "path": "myhome/01796-fb4e5f2b2c9d607b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=60\"] (paging fields)",
+      "sha256": "8de4d476c7dddc84973f9de900bcd537d29530f7bc4502f73269c911e72d5f90",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-the-park-athlumney-wood-navan-co-meath/5031253",
+    "https://www.myhome.ie/residential/brochure/no-13-distillery-road-wexford-town-wexford/5031250",
+    "https://www.myhome.ie/residential/brochure/9-highland-grove-the-park-cabinteely-dublin-18/5031252",
+    "https://www.myhome.ie/residential/brochure/curraheen-rosscarbery-cork/5031247",
+    "https://www.myhome.ie/residential/brochure/106-seafield-court-killiney-co-dublin/5031251",
+    "https://www.myhome.ie/residential/brochure/15-manor-grove-rocksborough-manor-mulgannon-wexford/5031249",
+    "https://www.myhome.ie/residential/brochure/apt-416-grace-park-manor-drumcondra-dublin-9/5031016",
+    "https://www.myhome.ie/residential/brochure/2-glen-terrace-the-glen-waterford/5031248",
+    "https://www.myhome.ie/residential/brochure/35-mountain-view-drive-boghall-road-bray-co-wicklow/5031246",
+    "https://www.myhome.ie/residential/brochure/kilscohanagh-drimoleague-west-cork/4970469",
+    "https://www.myhome.ie/residential/brochure/73-brindley-park-road-ashbourne-meath/5031167",
+    "https://www.myhome.ie/residential/brochure/lattagloghan-ballyjamesduff-co-cavan/5031245",
+    "https://www.myhome.ie/residential/brochure/47-collins-park-gallows-hill-ennis-co-clare/5031242",
+    "https://www.myhome.ie/residential/brochure/62-beresford-house-custom-house-square-ifsc-dublin-1/5023401",
+    "https://www.myhome.ie/residential/brochure/49-cromcastle-drive-kilmore-dublin-5/5031241",
+    "https://www.myhome.ie/residential/brochure/corracleigh-glangevlin-cavan/5031239",
+    "https://www.myhome.ie/residential/brochure/9-castleview-drive-swords-county-dublin/5031237",
+    "https://www.myhome.ie/residential/brochure/5-curragh-park-tuam-co-galway/5031238",
+    "https://www.myhome.ie/residential/brochure/8a-8b-well-lane-arklow-co-wicklow/5031235",
+    "https://www.myhome.ie/residential/brochure/17-cadogan-road-with-attic-conversion-fairview-dublin-3/5030617"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=61",
+  "paginationLimited": false
+}

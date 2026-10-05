@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/45-hazelwood-taylors-hill-galway/6658590",
+  "fetchedAt": "2026-10-05T09:34:55.960Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/45-hazelwood-taylors-hill-galway/6658590",
+  "kind": "listing",
+  "responseSha256": "2ade882dfe4139416c63764e2dac6009639d2d34b66ac7787e662f469f3e0798",
+  "files": [
+    {
+      "path": "daft/01484-bd753c2942e09f0f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "94f49d8c3c363a561386214f048ce04cedf03019bd0de86a0c9b02ae024868c9",
+      "bytes": 75501
+    },
+    {
+      "path": "daft/01484-bd753c2942e09f0f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "86ee8c2e04562e82aec75812089f24edfff0592a5e4c463c7cb81487f66069d9",
+      "bytes": 8044
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

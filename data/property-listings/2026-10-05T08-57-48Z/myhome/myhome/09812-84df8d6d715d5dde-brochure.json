@@ -1,0 +1,529 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "41 railway gardens lismore waterford",
+    "GroupId": 10587,
+    "Address": "41 Railway Gardens",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/ebdd4bb6-03d6-4fa6-a007-de421b3e1e0e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/79d46dec-1b12-4090-bab0-57fc4bc5f08c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/610fc05c-2e7d-49b1-b92a-495065832e24_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/75157ee1-6bed-4644-a40d-3f5740bc7254_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/3b27fa86-16f4-4f46-9840-70534c7adc4f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/c642d1f8-2379-4f7a-9a74-5e7fcefc9706_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/34a88444-716c-44c0-a194-e817bdfc8ce3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/60fe9810-3bfb-42b2-8e3c-d933f562fd92_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/81876e37-0a98-4f30-b679-ec3085936b94_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/796869e8-5fe1-4258-b856-7d432317f8a7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/3/6/5008631/4c751361-7fa8-481a-91eb-79dd6b4a4798_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 83.8499984741211,
+    "MaxSize": 83.8499984741211,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€295,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "83.85",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5008631,
+        "DisplayAddress": "41 Railway Gardens, Lismore, Waterford",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "bf0490d8-3b76-4331-9187-cda6177325b7",
+              "Filename": "7dd1768e-b494-4fde-8388-2785f1e962fd.jpg",
+              "Caption": "https://media.propertypal.com/large/9880443837608012cd6f16a126e2737e/p/1083731/42640529.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "70536326-bc6a-4263-a25d-071bfaecfcd4",
+              "Filename": "ebdd4bb6-03d6-4fa6-a007-de421b3e1e0e.jpg",
+              "Caption": "https://media.propertypal.com/large/b550392263fb81879bedb3555c8ebc7b/p/1083731/42640531.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a5571333-06fd-47f6-a836-d7444de63c96",
+              "Filename": "79d46dec-1b12-4090-bab0-57fc4bc5f08c.jpg",
+              "Caption": "https://media.propertypal.com/large/4b1492af70c3bdaa49cc3af9ca50e490/p/1083731/42640532.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0dd2d09c-46dc-4f36-acf1-e1a6131d4a27",
+              "Filename": "610fc05c-2e7d-49b1-b92a-495065832e24.jpg",
+              "Caption": "https://media.propertypal.com/large/ad3041bf20a99a27fbcda80986dbc082/p/1083731/42640534.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "68ec3815-8306-4cb3-9adb-a95c6bc111f8",
+              "Filename": "75157ee1-6bed-4644-a40d-3f5740bc7254.jpg",
+              "Caption": "https://media.propertypal.com/large/00d9ed290172779a4e0b04d6b0bb2124/p/1083731/42640533.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c1cfb21d-951a-4524-9a36-ac2509aec3d0",
+              "Filename": "3b27fa86-16f4-4f46-9840-70534c7adc4f.jpg",
+              "Caption": "https://media.propertypal.com/large/8602bb21ff67baeb7077529371bcd7d9/p/1083731/42640530.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bc630631-87c5-4637-a3f8-251fea94ecc1",
+              "Filename": "c642d1f8-2379-4f7a-9a74-5e7fcefc9706.jpg",
+              "Caption": "https://media.propertypal.com/large/4fac8e6ebae7b7cd9469d97bea83f50f/p/1083731/42640535.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6dcc4a00-b469-4f7e-b006-2a750bb99292",
+              "Filename": "34a88444-716c-44c0-a194-e817bdfc8ce3.jpg",
+              "Caption": "https://media.propertypal.com/large/9cddbaad87e41e62503980cee26cbebb/p/1083731/42640536.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a20c3646-e888-412b-a343-deb73e01acb5",
+              "Filename": "60fe9810-3bfb-42b2-8e3c-d933f562fd92.jpg",
+              "Caption": "https://media.propertypal.com/large/ae225fb0a4161515cfeb357f5d96a623/p/1083731/42640538.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "76a89a82-b3bc-458d-80b1-6aca3950837b",
+              "Filename": "81876e37-0a98-4f30-b679-ec3085936b94.jpg",
+              "Caption": "https://media.propertypal.com/large/23aa8fa706d33b5bc0cfb261b1aa8393/p/1083731/42640540.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ff1a66c4-f8de-4655-ae2c-cfe37ee0dbfb",
+              "Filename": "796869e8-5fe1-4258-b856-7d432317f8a7.jpg",
+              "Caption": "https://media.propertypal.com/large/793ff3ed6e172e11c0c513d5ef9ba7e9/p/1083731/42640539.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0574ba94-ee60-4a2c-85ee-ec87b0d84be2",
+              "Filename": "4c751361-7fa8-481a-91eb-79dd6b4a4798.jpg",
+              "Caption": "https://media.propertypal.com/large/91bf98b73394edc9ee7e6044900c6966/p/1083731/42640537.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "1c3ec4eda4b748159d9891fe28dcdb14",
+          "OriginalImagesSuffix": "1c3ec",
+          "MainPhoto": {
+            "Identifier": "bf0490d8-3b76-4331-9187-cda6177325b7",
+            "Filename": "7dd1768e-b494-4fde-8388-2785f1e962fd.jpg",
+            "Caption": "https://media.propertypal.com/large/9880443837608012cd6f16a126e2737e/p/1083731/42640529.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "REA Spratt offer for sale this deceptively spacious 3 bedroom detached bungalow enjoying a fabulous location in the historic and picturesque Heritage town of Lismore. Beautifully maintained and presented throughout, this delightful home offers prospective purchasers a superb turnkey opportunity in one of West Waterford's most sought after locations. The property is approached via a cobblelock driveway providing ample off street car parking and is complemented by attractive low maintenance landscaping. A gated side entrance leads to a private enclosed low maintenance rear garden perfect for outdoor relaxation and entertaining. The location of this home is second to none, with Lismore town's centre and a full range of local amenities just a short stroll away. The property offers an ideal commuter base being within an easy drive of Dungarvan, Fermoy, Youghal, Clonmel Towns and within a one hours of Cork City. The town is also served by a regular TFI Local Link service, offering convenient daily public transport links to surrounding towns. The deceptive accommodation extending to 84sq.m comprises: Entrance hallway, sitting room, kitchen, three bedrooms and bathroom.\n\nREA Spratt highly recommend viewing of this home.\n \n\nAccommodation\n\nEntrance Hall\n6.00m x 1.50m Tiled floor, hot press with shelving off\n\nSitting Room\n4.90m x 3.60m Timber floor, wood burning stove connected to central heating. Genrous bay window\n\nKitchen\n4.20m x 3.00m Tiled floor, floor and eye level units incorporating integrated appliances. Door to rear garden.\n\nBedroom 1\n3.80m x 2.90m\nMeasurement excludes built in wardrobes. Timber floor\n\nBedroom 2\n3.60m x 3.50m Timber floor, built in wardrobes\n\nBedroom 3\n3.00m x 2.50m Timber floor\n\nBathroom\n2.40m x 1.70m Floor and walls fully tiled, Triton T90xr electric shower\n\n\nOutside\n-Cobble lock hard landscaping to the front. -Gated entry to private enclosed rear garden with timber garden shed."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "-Stira stairs to floored attic space\n-Solar panels to minimise utility bills \n-Dual central heating \n-Private corner site\n-Turnkey condition throughout\nAll floor covering, all window furnishings, all light fittings and integrated appliances \n All main services to include water and sewerage.\nOil fired and solid fuel central heating. \n All amenities of Lismore Town on the doorstep."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER Number: 101747434, Energy Performance Indicator: 153.98kWh/m²/yr"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "P51 N2A3"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Dolores Caples"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 174947,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-24T16:37:45.2930000+01:00",
+    "ModifiedOnDate": "2026-06-24T16:42:15.1430000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-24T16:37:45.2930000+01:00",
+    "RefreshedOn": "2026-06-24T16:37:45.2930000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€295,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5008631,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 83.85,
+    "DisplayAddress": "41 Railway Gardens, Lismore, Waterford",
+    "Eircode": "P51N2A3",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Bungalow",
+    "PropertyTypeId": 40,
+    "RegionId": 3944,
+    "RegionName": "Waterford",
+    "LocalityId": 3960,
+    "LocalityName": "Lismore",
+    "Price": {
+      "MinPrice": 295000,
+      "MaxPrice": 295000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/7dd1768e-b494-4fde-8388-2785f1e962fd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/ebdd4bb6-03d6-4fa6-a007-de421b3e1e0e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/ebdd4bb6-03d6-4fa6-a007-de421b3e1e0e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/ebdd4bb6-03d6-4fa6-a007-de421b3e1e0e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/79d46dec-1b12-4090-bab0-57fc4bc5f08c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/79d46dec-1b12-4090-bab0-57fc4bc5f08c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/79d46dec-1b12-4090-bab0-57fc4bc5f08c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/610fc05c-2e7d-49b1-b92a-495065832e24_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/610fc05c-2e7d-49b1-b92a-495065832e24_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/610fc05c-2e7d-49b1-b92a-495065832e24_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/75157ee1-6bed-4644-a40d-3f5740bc7254_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/75157ee1-6bed-4644-a40d-3f5740bc7254_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/75157ee1-6bed-4644-a40d-3f5740bc7254_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/3b27fa86-16f4-4f46-9840-70534c7adc4f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/3b27fa86-16f4-4f46-9840-70534c7adc4f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/3b27fa86-16f4-4f46-9840-70534c7adc4f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/c642d1f8-2379-4f7a-9a74-5e7fcefc9706_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/c642d1f8-2379-4f7a-9a74-5e7fcefc9706_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/c642d1f8-2379-4f7a-9a74-5e7fcefc9706_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/34a88444-716c-44c0-a194-e817bdfc8ce3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/34a88444-716c-44c0-a194-e817bdfc8ce3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/34a88444-716c-44c0-a194-e817bdfc8ce3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/60fe9810-3bfb-42b2-8e3c-d933f562fd92_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/60fe9810-3bfb-42b2-8e3c-d933f562fd92_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/60fe9810-3bfb-42b2-8e3c-d933f562fd92_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/81876e37-0a98-4f30-b679-ec3085936b94_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/81876e37-0a98-4f30-b679-ec3085936b94_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/81876e37-0a98-4f30-b679-ec3085936b94_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/796869e8-5fe1-4258-b856-7d432317f8a7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/796869e8-5fe1-4258-b856-7d432317f8a7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/796869e8-5fe1-4258-b856-7d432317f8a7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/4c751361-7fa8-481a-91eb-79dd6b4a4798_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/4c751361-7fa8-481a-91eb-79dd6b4a4798_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/3/6/5008631/4c751361-7fa8-481a-91eb-79dd6b4a4798_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.936565,
+      "latitude": 52.134036
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 12,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 10587,
+    "Name": "REA Spratt",
+    "DisplayPhone": "058 42 211",
+    "Email": "info@spratt.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "rea-spratt",
+    "SeoName": "rea-spratt",
+    "Address": "9 O'Connell Street, Dungarvan, Co. Waterford",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/7/8/5/10587/logo.jpg",
+    "SalesLicense": "001621",
+    "RentalLicense": "001621",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "lismore/3960",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5023749,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Residential Farm Standing On 20.43 Acres, Knocknaglogh, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/4/7/5023749/88f1b69e-8dd3-445f-9967-43828daf6aae_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/residential-farm-standing-on-20-43-acres-knocknaglogh-dungarvan-waterford/5023749"
+    },
+    {
+      "PropertyId": 5023124,
+      "PropertyClassId": 1,
+      "DisplayAddress": "79 Cruachan, Knockateemore, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/2/1/5023124/59a13118-7a76-426d-a934-bf3ba28485aa_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/79-cruachan-knockateemore-dungarvan-waterford/5023124"
+    },
+    {
+      "PropertyId": 5022057,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Leagh, Ring, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/5/0/5022057/2ea8cff8-5315-49ba-bd75-218a5cd30d25_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/leagh-ring-dungarvan-waterford/5022057"
+    },
+    {
+      "PropertyId": 5021125,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Knockboy, Ballinamult, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/2/1/5021125/6cd5253b-3bdc-4d5d-87bb-e862dc5e7465_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/knockboy-ballinamult-waterford/5021125"
+    },
+    {
+      "PropertyId": 5019648,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Colligan, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/4/6/5019648/cf12420b-68ee-4db0-861b-6de4733adf4c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/colligan-dungarvan-waterford/5019648"
+    },
+    {
+      "PropertyId": 5019286,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballyneety, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/8/2/5019286/ec6730d5-3014-4066-84d5-82815c1a7d8d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballyneety-dungarvan-waterford/5019286"
+    },
+    {
+      "PropertyId": 5019136,
+      "PropertyClassId": 1,
+      "DisplayAddress": "14 Comeragh Crescent, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/3/1/5019136/3ead6b10-73cd-4825-8ac3-7cd84bc58b49_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/14-comeragh-crescent-dungarvan-waterford/5019136"
+    },
+    {
+      "PropertyId": 5018507,
+      "PropertyClassId": 1,
+      "DisplayAddress": "15 The Meadow, Abbeyside, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/0/5/5018507/b142d9cd-2e2f-40a9-8c41-1e258800bcaf_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/15-the-meadow-abbeyside-dungarvan-waterford/5018507"
+    },
+    {
+      "PropertyId": 5017780,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballynamultina, Clashmore, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/8/7/5017780/92421bfd-2db7-418d-a616-26a22ff601a1_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballynamultina-clashmore-waterford/5017780"
+    },
+    {
+      "PropertyId": 5016961,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Nire, Graignagower, Ballymacarbry, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/6/9/5016961/209c1393-9f99-4400-be22-7d1bc8e7a6c5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-nire-graignagower-ballymacarbry-waterford/5016961"
+    },
+    {
+      "PropertyId": 5013539,
+      "PropertyClassId": 1,
+      "DisplayAddress": "31 Pairc Na Mblath, Ballinroad, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/3/5/5013539/e26b0efe-a35b-4880-a1c3-4a9175decee8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/31-pairc-na-mblath-ballinroad-dungarvan-waterford/5013539"
+    },
+    {
+      "PropertyId": 5012244,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Curraghanav, Ballyduff, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/4/2/5012244/87f4a704-40b8-4293-8d81-b3b442708d8f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/curraghanav-ballyduff-waterford/5012244"
+    },
+    {
+      "PropertyId": 5011568,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballinaspick, Lismore, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/6/5/5011568/b1d3c149-a1c4-4b9e-a930-7d5a9f1fe416_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballinaspick-lismore-waterford/5011568"
+    },
+    {
+      "PropertyId": 5008058,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballinamuck, Dungarvan, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/5/0/5008058/5002ecf3-56b2-48e5-9f96-ee9c47904014_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballinamuck-dungarvan-waterford/5008058"
+    },
+    {
+      "PropertyId": 5005563,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Brambles, Close, Tallow, Waterford",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/6/5/5005563/54f4325b-d80a-4150-8502-bb6de101c7f7_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-brambles-close-tallow-waterford/5005563"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/41-railway-gardens-lismore-waterford/5008631",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 174947,
+    "Name": "Dolores Caples",
+    "Email": "doloresc@spratt.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/7/4/9/174947/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 10587,
+    "MYH_LocalityID": 3960,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 3944,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Central Heating"
+    ],
+    "MYH_PropertyFeatureIDListString": "Central Heating",
+    "MYH_MaxPrice": 300000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 90,
+    "MYH_MinPrice": 300000,
+    "MYH_MinSize": 84,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5008631,
+    "MYH_PropertyTypeID": 40
+  }
+}

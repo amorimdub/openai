@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-creag-n-barna-co-galway/6685544",
+  "fetchedAt": "2026-10-05T09:35:38.010Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-creag-n-barna-co-galway/6685544",
+  "kind": "listing",
+  "responseSha256": "b45189ed20beed7f8d61ea8286c707efc0703e86f4a0227cd2e15375ae71a2e4",
+  "files": [
+    {
+      "path": "daft/01512-4b0f43d05326113d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bb2b64d8daef998804eb65d2c62d108f4b98561fa0ea113540e789c29066fd8f",
+      "bytes": 33832
+    },
+    {
+      "path": "daft/01512-4b0f43d05326113d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b5740cee4d3a38b50161a19c6da29a2ccc811902faef4e505102b16368bd5caa",
+      "bytes": 8012
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=99",
+  "fetchedAt": "2026-10-05T11:04:55.792Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=99",
+  "kind": "search",
+  "responseSha256": "3d5aa9aa5d625e8b29e1c4361d623b59f0ffdad3769e6b45d4108c926c549785",
+  "files": [
+    {
+      "path": "myhome/02564-02c82c77db2816e3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=99\"].SearchResults",
+      "sha256": "b2f3c97eb5670b47a28ad77f25d08c746b6ffc3e62ee728416e420033da115a0",
+      "bytes": 123682
+    },
+    {
+      "path": "myhome/02564-02c82c77db2816e3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=99\"] (paging fields)",
+      "sha256": "95dd2ea724c2bc59f2bd3b6febcf04f228e930d4813bc0cbd918a0433791ac8b",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-thorndale-estate-dublin-hill-cork-city-cork/5030390",
+    "https://www.myhome.ie/residential/brochure/donmur-lodge-st-martin-s-road-rosslare-harbour-rosslare-wexford/5030381",
+    "https://www.myhome.ie/residential/brochure/coolattin-shillelagh-co-wicklow/5030399",
+    "https://www.myhome.ie/residential/brochure/19-knightsfield-park-dunsany-co-meath/5030397",
+    "https://www.myhome.ie/residential/brochure/13-lime-trees-road-east-maryborough-estate-douglas-cork/5030269",
+    "https://www.myhome.ie/residential/brochure/fionn-maccumhaill-cottage-keshcarrigan-carrick-on-shannon-co-leitrim/5030396",
+    "https://www.myhome.ie/residential/brochure/8-the-willows-classes-lake-ballincollig-cork/5030370",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-semi-detached-house-hollywood-hollystown-dublin-15/5030393",
+    "https://www.myhome.ie/residential/brochure/crough-ardfinnan-county-tipperary/5030395",
+    "https://www.myhome.ie/residential/brochure/46-huntstown-drive-clonsilla-dublin-15/5030394",
+    "https://www.myhome.ie/residential/brochure/grange-granlahan-ballinlough-roscommon/5030388",
+    "https://www.myhome.ie/residential/brochure/ballyoran-louth-louth/5030361",
+    "https://www.myhome.ie/residential/brochure/206-an-bu-g-bettystown-town-centre-bettystown-meath/5030379",
+    "https://www.myhome.ie/residential/brochure/fortrose-23-royal-terrace-west-dun-laoghaire-co-dublin/5030392",
+    "https://www.myhome.ie/residential/brochure/17-donore-road-south-circular-road-dublin-8-d08-hy5p/5030376",
+    "https://www.myhome.ie/residential/brochure/crickamore-dungloe-county-donegal/5030385",
+    "https://www.myhome.ie/residential/brochure/8-the-avenue-bellfield-ferrybank-waterford/5018856",
+    "https://www.myhome.ie/residential/brochure/55-belgrove-park-mount-prospect-lawns-clontarf-dublin-3/5001120",
+    "https://www.myhome.ie/residential/brochure/4-albany-killiney-hill-road-killiney-co-dublin/5030375",
+    "https://www.myhome.ie/residential/brochure/apartment-7c-block-c-wellmount-student-village-dublin-road-athlone/5030374"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=100",
+  "paginationLimited": false
+}

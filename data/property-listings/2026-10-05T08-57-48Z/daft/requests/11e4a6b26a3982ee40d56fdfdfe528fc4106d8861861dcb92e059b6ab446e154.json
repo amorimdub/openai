@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-slaney-medical-centre-enniscorthy-co-wexford/6686054",
+  "fetchedAt": "2026-10-05T09:25:56.724Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-slaney-medical-centre-enniscorthy-co-wexford/6686054",
+  "kind": "listing",
+  "responseSha256": "46ae41b1a39655cefee0340467b856160b36f06b5edd0b00c68ef1673067ec03",
+  "files": [
+    {
+      "path": "daft/01125-11e4a6b26a3982ee-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04c13562f9c7e2f57f7927b74d768107713e8fa71453edb4a0627078b101d6b4",
+      "bytes": 20377
+    },
+    {
+      "path": "daft/01125-11e4a6b26a3982ee-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "079d9146b6a987433f91af3aec1a4d3015bfab70365a3c56266e0e5bcd7904e0",
+      "bytes": 8219
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

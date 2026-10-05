@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=410",
+  "fetchedAt": "2026-10-05T13:45:55.497Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=410",
+  "kind": "search",
+  "responseSha256": "e05b6b4dfae26a0555911e6c3c25889a29512853414239042acf4c183e46efdd",
+  "files": [
+    {
+      "path": "myhome/08966-b81f7e9adaf43829-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=410\"].SearchResults",
+      "sha256": "7f1c693674d5767ef98541f4bf0bfe103ad538bfe14922d53198e50be2acc4d1",
+      "bytes": 117374
+    },
+    {
+      "path": "myhome/08966-b81f7e9adaf43829-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=410\"] (paging fields)",
+      "sha256": "8f737df3becb2e84d7bd046c038d66837c3edea8f1c62ab4167a86c6bae037d1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-barrow-mews-centaur-street-carlow-town-carlow/5014124",
+    "https://www.myhome.ie/residential/brochure/tully-hall-tully-longford-longford/5013432",
+    "https://www.myhome.ie/residential/brochure/56-rockboro-heights-waterpark-carrigaline-cork/5007986",
+    "https://www.myhome.ie/residential/brochure/riverbrook-house-ballymore-eustace-co-kildare/5014093",
+    "https://www.myhome.ie/residential/brochure/marmion-walk-clane-co-kildare-3-bedroom-townhouse/4977786",
+    "https://www.myhome.ie/residential/brochure/churchtown-tomhaggard-wexford/5014085",
+    "https://www.myhome.ie/residential/brochure/sawnagh-portumna-co-galway/5014084",
+    "https://www.myhome.ie/residential/brochure/99-roselawn-road-castleknock-dublin-15/5014078",
+    "https://www.myhome.ie/residential/brochure/lake-marsh-church-cross-skibbereen-west-cork/5014067",
+    "https://www.myhome.ie/residential/brochure/tahoe-4-toughbawn-drinagh-west-cork/5014048",
+    "https://www.myhome.ie/residential/brochure/cloonturk-kilkelly-mayo/5013719",
+    "https://www.myhome.ie/residential/brochure/killosheheen-kilmaine-road-ballinrobe-county-mayo/5013696",
+    "https://www.myhome.ie/residential/brochure/camlin-demesne-lane-longford/5013686",
+    "https://www.myhome.ie/residential/brochure/17-manor-square-ongar-dublin-15/5013671",
+    "https://www.myhome.ie/residential/brochure/8-carrigmore-manor-citywest-dublin-24/5013643",
+    "https://www.myhome.ie/residential/brochure/ballydowel-rathmoyle-kilkenny-kilkenny/4975112",
+    "https://www.myhome.ie/residential/brochure/19-park-road-ivowen-kilsheelan-clonmel-tipperary/5013665",
+    "https://www.myhome.ie/residential/brochure/109-glendale-lawn-old-singland-road-limerick-county-limerick/5013663",
+    "https://www.myhome.ie/residential/brochure/murroe-wood-murroe-county-limerick/5013662",
+    "https://www.myhome.ie/residential/brochure/45-liffey-lawns-clane-co-kildare/5013656"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=411",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/13-the-village-green-ratoath-ratoath-co-meath/6684913",
+  "fetchedAt": "2026-10-05T09:39:39.765Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/13-the-village-green-ratoath-ratoath-co-meath/6684913",
+  "kind": "listing",
+  "responseSha256": "8d49d8b88244c15b445a4f541826ad90387558e35a720e5d3b0551852cddcf24",
+  "files": [
+    {
+      "path": "daft/01673-e622d2f4c29c7d3f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "03c14d7eb2d79a0caa17240ddebb0c9bb6517aaffa9eb71d1dbed4b01a2358bb",
+      "bytes": 28873
+    },
+    {
+      "path": "daft/01673-e622d2f4c29c7d3f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f39e6dd453f17e6d8a74672aa9eed598f0de7d8b8e9b1323341d0dbe3bf94537",
+      "bytes": 8077
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

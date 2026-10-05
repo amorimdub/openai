@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-4-86-palmerston-road-rathmines-dublin-6/6685124",
+  "fetchedAt": "2026-10-05T09:38:33.697Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-4-86-palmerston-road-rathmines-dublin-6/6685124",
+  "kind": "listing",
+  "responseSha256": "d98d302ad5dc9d6e0f83d0e2e832b862687329c597daf444f7f7e821bc5d14e2",
+  "files": [
+    {
+      "path": "daft/01629-8302a59c0c0553db-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e99fa07ecd7dcb48223f358db4e89dea6d142f0de5b3ea390095d3f3e32bf113",
+      "bytes": 31153
+    },
+    {
+      "path": "daft/01629-8302a59c0c0553db-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "09094c96a336cef98235af35d8d7d144fb045f9a5ab5eeb526ca197299558e54",
+      "bytes": 8100
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

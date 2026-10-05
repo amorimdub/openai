@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "DONOUGHMORE NATIONAL SCHOOL",
+      "numPupils": 27,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.990120",
+        "lon": "-6.626878"
+      }
+    },
+    {
+      "schoolName": "STRATFORD NATIONAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 2.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.988760",
+        "lon": "-6.672619"
+      }
+    },
+    {
+      "schoolName": "DONARD NATIONAL SCHOOL",
+      "numPupils": 179,
+      "distance": {
+        "value": 4.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.023083",
+        "lon": "-6.615592"
+      }
+    },
+    {
+      "schoolName": "GRANGECON PRIMARY SCHOOL",
+      "numPupils": 19,
+      "distance": {
+        "value": 6.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.995033",
+        "lon": "-6.743237"
+      }
+    },
+    {
+      "schoolName": "STRATFORD LODGE NATIONAL SCHOOL",
+      "numPupils": 73,
+      "distance": {
+        "value": 6.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.942482",
+        "lon": "-6.709571"
+      }
+    },
+    {
+      "schoolName": "TALBOTSTOWN NATIONAL SCHOOL",
+      "numPupils": 75,
+      "distance": {
+        "value": 7.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.925545",
+        "lon": "-6.633158"
+      }
+    },
+    {
+      "schoolName": "SCOIL NOAMH IÓSAF BALTINGLASS",
+      "numPupils": 382,
+      "distance": {
+        "value": 7.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.936870",
+        "lon": "-6.700916"
+      }
+    },
+    {
+      "schoolName": "SCOIL NIOCLAIS NAOFA",
+      "numPupils": 243,
+      "distance": {
+        "value": 8.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.055120",
+        "lon": "-6.698765"
+      }
+    },
+    {
+      "schoolName": "JONATHAN SWIFT NATIONAL SCHOOL",
+      "numPupils": 42,
+      "distance": {
+        "value": 8.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.056797",
+        "lon": "-6.704271"
+      }
+    },
+    {
+      "schoolName": "KILTEGAN NATIONAL SCHOOL",
+      "numPupils": 13,
+      "distance": {
+        "value": 9.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.906204",
+        "lon": "-6.604216"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "SCOIL CHONGLAIS",
+      "numPupils": 447,
+      "distance": {
+        "value": 7.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.937897",
+        "lon": "-6.701152"
+      }
+    },
+    {
+      "schoolName": "ST KEVIN'S COMMUNITY COLLEGE",
+      "numPupils": 803,
+      "distance": {
+        "value": 8.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.054165",
+        "lon": "-6.696851"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE EOIN",
+      "numPupils": 365,
+      "distance": {
+        "value": 15.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.861470",
+        "lon": "-6.553461"
+      }
+    },
+    {
+      "schoolName": "COLAISTE LORCAIN",
+      "numPupils": 369,
+      "distance": {
+        "value": 16.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.909023",
+        "lon": "-6.838194"
+      }
+    },
+    {
+      "schoolName": "CROSS AND PASSION COLLEGE",
+      "numPupils": 841,
+      "distance": {
+        "value": 17.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.129967",
+        "lon": "-6.746856"
+      }
+    },
+    {
+      "schoolName": "BLESSINGTON COMMUNITY COLLEGE",
+      "numPupils": 715,
+      "distance": {
+        "value": 21.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.170290",
+        "lon": "-6.539426"
+      }
+    },
+    {
+      "schoolName": "CURRAGH COMMUNITY COLLEGE",
+      "numPupils": 300,
+      "distance": {
+        "value": 21.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.147810",
+        "lon": "-6.827705"
+      }
+    },
+    {
+      "schoolName": "TULLOW COMMUNITY SCHOOL",
+      "numPupils": 871,
+      "distance": {
+        "value": 21.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.799488",
+        "lon": "-6.732308"
+      }
+    },
+    {
+      "schoolName": "ATHY COMMUNITY COLLEGE",
+      "numPupils": 655,
+      "distance": {
+        "value": 22.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.987110",
+        "lon": "-6.979499"
+      }
+    },
+    {
+      "schoolName": "PIPER'S HILL COLLEGE",
+      "numPupils": 1046,
+      "distance": {
+        "value": 23.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.195310",
+        "lon": "-6.669598"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Stratford on Slaney",
+      "route": "885",
+      "destination": "Baltinglass",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 2.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.98811",
+        "lon": "-6.67416"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Annalecky Cross",
+      "route": "132",
+      "destination": "Tullow",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0373563252364",
+        "lon": "-6.63533289240439"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Primary Care Centre",
+      "route": "885",
+      "destination": "Baltinglass",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 6.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.94158",
+        "lon": "-6.70427"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Baltinglass",
+      "route": "874",
+      "destination": "Hacketstown",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 7.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.94109",
+        "lon": "-6.70768"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Baltinglass",
+      "route": "885",
+      "destination": "Sallins",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 7.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.941031",
+        "lon": "-6.707687"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mill Street",
+      "route": "132",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.942986",
+        "lon": "-6.712358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mill Street",
+      "route": "885",
+      "destination": "Sallins",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 7.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.942986",
+        "lon": "-6.712358"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunlavin",
+      "route": "885",
+      "destination": "Baltinglass",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 8.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0578",
+        "lon": "-6.70148"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunlavin",
+      "route": "892",
+      "destination": "Dunlavin",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 8.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0578",
+        "lon": "-6.70148"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kiltegan",
+      "route": "874",
+      "destination": "Hacketstown",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 9.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.90449",
+        "lon": "-6.606832"
+      }
+    }
+  ]
+}

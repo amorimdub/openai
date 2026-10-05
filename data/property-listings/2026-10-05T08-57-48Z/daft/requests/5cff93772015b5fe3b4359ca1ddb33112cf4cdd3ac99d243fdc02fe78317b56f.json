@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sun-street-tuam-tuam-co-galway/6686130",
+  "fetchedAt": "2026-10-05T09:31:15.228Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sun-street-tuam-tuam-co-galway/6686130",
+  "kind": "listing",
+  "responseSha256": "e526b0d08d1704f4b5de77768052cfe7c674dfd79abc6a156d0c4ecc55677aa0",
+  "files": [
+    {
+      "path": "daft/01337-5cff93772015b5fe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5118066c033360fdc5cb189a032c87d867df9855a5b9590c29072eda1cae22ae",
+      "bytes": 25160
+    },
+    {
+      "path": "daft/01337-5cff93772015b5fe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d9a0a9be72c74ef4aee79919f8343127135b7469590a1e64b2f7860d1c3f8251",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

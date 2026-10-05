@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=414",
+  "fetchedAt": "2026-10-05T13:47:54.233Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=414",
+  "kind": "search",
+  "responseSha256": "749b6c62ff4fce3262b4c0fe11dd72b648159368c39d2589bc2d9dd812a23d56",
+  "files": [
+    {
+      "path": "myhome/09045-54374ff6a2860de8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=414\"].SearchResults",
+      "sha256": "46509b3c5429f7ffaa452e716a769ccffef05b1f34287c40d1a7d33ce32f19cf",
+      "bytes": 122389
+    },
+    {
+      "path": "myhome/09045-54374ff6a2860de8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=414\"] (paging fields)",
+      "sha256": "1465ac1cece1ccca09294e0e139894a7da87399c482fce3384fde882e53ade1d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/site-with-fpp-stabawl-hill-ballydehob-cork/5012458",
+    "https://www.myhome.ie/residential/brochure/28-heritage-avenue-rochford-manor-trim-co-meath/5012454",
+    "https://www.myhome.ie/residential/brochure/5-warrenhouse-road-sutton-dublin-13/5012450",
+    "https://www.myhome.ie/residential/brochure/5-limerick-road-lower-camolin-wexford/4945746",
+    "https://www.myhome.ie/residential/brochure/hakabe-hill-ballyrussell-east-cork-cork/5012015",
+    "https://www.myhome.ie/residential/brochure/house-5-75-acres-naomh-aine-glennagevlagh-leenane-co-galway/5012424",
+    "https://www.myhome.ie/residential/brochure/21-bolton-square-drogheda-louth/5012415",
+    "https://www.myhome.ie/residential/brochure/22-bolton-square-drogheda-louth/5012409",
+    "https://www.myhome.ie/residential/brochure/15-inbhir-ide-drive-malahide-dublin/5012259",
+    "https://www.myhome.ie/residential/brochure/graigues-robertstown-co-kildare/5012396",
+    "https://www.myhome.ie/residential/brochure/mellican-ballinamore-co-leitrim/5012393",
+    "https://www.myhome.ie/residential/brochure/37-newbury-park-derrinturn-co-kildare/5012385",
+    "https://www.myhome.ie/residential/brochure/159-coill-dubh-coill-dubh-co-kildare/5012381",
+    "https://www.myhome.ie/residential/brochure/golden-bay-clonbur-co-galway/5012379",
+    "https://www.myhome.ie/residential/brochure/9-school-lane-dunleer-co-louth/5012359",
+    "https://www.myhome.ie/residential/brochure/31-roslyn-bettystown-drogheda-co-louth/5012350",
+    "https://www.myhome.ie/residential/brochure/crecy-ballinageeragh-dunhill-waterford/5012003",
+    "https://www.myhome.ie/residential/brochure/coolowley-errill-laois/5012240",
+    "https://www.myhome.ie/residential/brochure/carnanes-kilrush-co-clare/5012291",
+    "https://www.myhome.ie/residential/brochure/ballyconnigar-upper-ballyconnigar-blackwater-wexford/5012251"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=415",
+  "paginationLimited": false
+}

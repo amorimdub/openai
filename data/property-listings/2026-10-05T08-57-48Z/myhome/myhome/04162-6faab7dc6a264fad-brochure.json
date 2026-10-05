@@ -1,0 +1,448 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "13 the sycamores stradbrook hill blackrock dublin",
+    "GroupId": 386986,
+    "Address": "13 The Sycamores, Stradbrook Hill",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/55cc4c2f-cf95-4d4b-b8fe-eed59f51ed3c_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/55cc4c2f-cf95-4d4b-b8fe-eed59f51ed3c_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/55cc4c2f-cf95-4d4b-b8fe-eed59f51ed3c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ee5bbb6d-3e65-43e5-8483-3c5b25522e56_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/1414e8cb-1557-4d61-ab68-d9d532da0cd4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/bc01a2a1-171b-46b1-8152-4c554f898fdd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ce75239d-3682-405f-bc7c-5c93ce556303_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/0c8c7f88-d627-4797-bef7-ffe636e7c677_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/fb8ffab8-49f2-437e-a5a2-243db65130ca_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/72aa70d9-f1e9-4165-bd49-314f9d6d591e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0aa5198-ebcc-48a8-9f94-e8258ed17c3d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/cb6d370e-f151-4c35-8962-b059ec4322fb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/081dc5a5-3497-4bf6-90e5-4e6ec9d0dc25_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/2a39cc5d-79bd-4f93-9a10-b0e91463af59_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/b27159e7-9db6-4745-b66c-096b99a73f66_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/aca636da-7f95-42a3-8559-94e3690d8218_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/28db5fd8-bee6-4d83-b199-185db7003ab3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/347e3e18-f9fe-4122-9746-42a93048c234_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/4bad6f69-bc5c-49de-975d-b34c863cb317_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/66935c6f-5f4b-4847-b574-b0ce0f21eb30_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 37,
+    "MaxSize": 37,
+    "BerRating": "C",
+    "OpenViewings": [
+      {
+        "Id": 0,
+        "StartDate": "2026-10-05T16:00:00.0000000+01:00",
+        "EndDate": "2026-10-05T16:30:00.0000000+01:00",
+        "OpenViewingType": "OnViewing",
+        "StartDateFormatted": "Mon Oct 5, 4pm",
+        "EndDateFormatted": "Mon Oct 5, 4.30pm",
+        "FeaturedSpotId": 688589,
+        "ChannelId": 0,
+        "FormattedString": "Mon Oct 5, 4pm - 4.30pm"
+      }
+    ],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "https://www.auctioneera.ie/property/13-the-sycamores-blackrock-dublin-a94-h317\r\nImportant note: Details of upcoming viewings and latest offers are available at the Auctioneera website link above.\r\n\r\nAuctioneera is delighted to present 13 The Sycamores, Stradbrook Hill, Blackrock, Co. Dublin.\r\n\r\nSituated on the third floor of this established residential development, this charming one-bedroom apartment extends to approximately 36.48 m² and offers a practical layout in a desirable Blackrock location. The development is surrounded by mature communal grounds, with ample parking available for residents and visitors.\r\n\r\nUpon entering, a central hallway provides access to each of the main rooms. The living and dining room is a comfortable, welcoming space, benefiting from windows on two sides that bring in good natural light. A feature fireplace and room for both seating and dining furniture add to the practicality of the space. The kitchen is positioned separately and provides a compact, functional area for everyday use.\r\n\r\nThe bedroom is well arranged and benefits from fitted wardrobes, providing useful storage without taking away from the available floor space. The shower room is located off the hallway and includes a shower enclosure, wash-hand basin and WC. A separate hallway cupboard provides further storage within the apartment.\r\n\r\nA particularly useful feature is the large attic storage area, offering valuable additional space beyond the apartment’s main accommodation. An outdoor storage unit is also included, providing further room for household, garden or leisure items.\r\n\r\nTo the rear of the development is a large residents-only communal garden, offering an outdoor area for relaxation and enjoyment. The property is also conveniently positioned close to local shops, amenities, sporting facilities and public transport links, providing straightforward access to Blackrock and the wider Dublin area.\r\n\r\nOverall, this apartment combines a manageable one-bedroom layout with valuable storage, communal outdoor space and generous parking. Its established setting and convenient location make it a practical and appealing home in Blackrock."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Generous attic storage\t\r\nOutdoor storage unit included\t\r\nResidents-only communal garden\t\r\nAmple on-site parking"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 354740,
+    "MinEnergyRating": 75,
+    "MaxEnergyRating": 75,
+    "BERGrade": "C",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-09-15T13:48:52.5000000+01:00",
+    "ModifiedOnDate": "2026-09-15T14:42:07.9970000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-15T14:45:06.7700000+01:00",
+    "RefreshedOn": "2026-09-15T14:45:06.7700000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+    "IsTransact": false,
+    "PriceAsString": "€295,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5028267,
+    "BedsString": "1 bed",
+    "SizeStringMeters": 37,
+    "DisplayAddress": "13 The Sycamores, Stradbrook Hill, Blackrock, Dublin",
+    "Eircode": "A94H317",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1265,
+    "RegionName": "Dublin County",
+    "LocalityId": 1258,
+    "LocalityName": "Blackrock",
+    "Price": {
+      "MinPrice": 295000,
+      "MaxPrice": 295000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/55cc4c2f-cf95-4d4b-b8fe-eed59f51ed3c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/55cc4c2f-cf95-4d4b-b8fe-eed59f51ed3c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/55cc4c2f-cf95-4d4b-b8fe-eed59f51ed3c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ee5bbb6d-3e65-43e5-8483-3c5b25522e56_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ee5bbb6d-3e65-43e5-8483-3c5b25522e56_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ee5bbb6d-3e65-43e5-8483-3c5b25522e56_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/1414e8cb-1557-4d61-ab68-d9d532da0cd4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/1414e8cb-1557-4d61-ab68-d9d532da0cd4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/1414e8cb-1557-4d61-ab68-d9d532da0cd4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/bc01a2a1-171b-46b1-8152-4c554f898fdd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/bc01a2a1-171b-46b1-8152-4c554f898fdd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/bc01a2a1-171b-46b1-8152-4c554f898fdd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ce75239d-3682-405f-bc7c-5c93ce556303_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ce75239d-3682-405f-bc7c-5c93ce556303_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/ce75239d-3682-405f-bc7c-5c93ce556303_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/0c8c7f88-d627-4797-bef7-ffe636e7c677_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/0c8c7f88-d627-4797-bef7-ffe636e7c677_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/0c8c7f88-d627-4797-bef7-ffe636e7c677_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/fb8ffab8-49f2-437e-a5a2-243db65130ca_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/fb8ffab8-49f2-437e-a5a2-243db65130ca_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/fb8ffab8-49f2-437e-a5a2-243db65130ca_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/72aa70d9-f1e9-4165-bd49-314f9d6d591e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/72aa70d9-f1e9-4165-bd49-314f9d6d591e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/72aa70d9-f1e9-4165-bd49-314f9d6d591e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0aa5198-ebcc-48a8-9f94-e8258ed17c3d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0aa5198-ebcc-48a8-9f94-e8258ed17c3d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0aa5198-ebcc-48a8-9f94-e8258ed17c3d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/cb6d370e-f151-4c35-8962-b059ec4322fb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/cb6d370e-f151-4c35-8962-b059ec4322fb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/cb6d370e-f151-4c35-8962-b059ec4322fb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/081dc5a5-3497-4bf6-90e5-4e6ec9d0dc25_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/081dc5a5-3497-4bf6-90e5-4e6ec9d0dc25_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/081dc5a5-3497-4bf6-90e5-4e6ec9d0dc25_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/2a39cc5d-79bd-4f93-9a10-b0e91463af59_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/2a39cc5d-79bd-4f93-9a10-b0e91463af59_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/2a39cc5d-79bd-4f93-9a10-b0e91463af59_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/b27159e7-9db6-4745-b66c-096b99a73f66_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/b27159e7-9db6-4745-b66c-096b99a73f66_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/b27159e7-9db6-4745-b66c-096b99a73f66_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/aca636da-7f95-42a3-8559-94e3690d8218_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/aca636da-7f95-42a3-8559-94e3690d8218_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/aca636da-7f95-42a3-8559-94e3690d8218_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/28db5fd8-bee6-4d83-b199-185db7003ab3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/28db5fd8-bee6-4d83-b199-185db7003ab3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/28db5fd8-bee6-4d83-b199-185db7003ab3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/347e3e18-f9fe-4122-9746-42a93048c234_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/347e3e18-f9fe-4122-9746-42a93048c234_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/347e3e18-f9fe-4122-9746-42a93048c234_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/4bad6f69-bc5c-49de-975d-b34c863cb317_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/4bad6f69-bc5c-49de-975d-b34c863cb317_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/4bad6f69-bc5c-49de-975d-b34c863cb317_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/66935c6f-5f4b-4847-b574-b0ce0f21eb30_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/66935c6f-5f4b-4847-b574-b0ce0f21eb30_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/66935c6f-5f4b-4847-b574-b0ce0f21eb30_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0a9681d-55cc-4690-a3a8-71d350ffe9b9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0a9681d-55cc-4690-a3a8-71d350ffe9b9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0a9681d-55cc-4690-a3a8-71d350ffe9b9_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.1618334,
+      "latitude": 53.2855162
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 18,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/7/6/2/5028267/e0a9681d-55cc-4690-a3a8-71d350ffe9b9_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 386986,
+    "Name": "Auctioneera",
+    "DisplayPhone": "01 9038335",
+    "Email": "hello@auctioneera.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "auctioneera",
+    "SeoName": "auctioneera",
+    "Address": "201 Q-House, Furze Road, Sandyford Industrial Estate, Dublin 18",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/6/8/9/386986/logo.jpg",
+    "SalesLicense": "003912",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "blackrock-dublin/1258",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5028788,
+      "Address": "No 44 Les Buissonnetts , Sweetmans Ave, Frascati Rd ,Blackrock Co Dublin , Blackrock, Dublin",
+      "HasWebP": false,
+      "Price": 500000,
+      "PrevPrice": 525000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -4.7619,
+      "Created": "19th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/no-44-les-buissonnetts-sweetmans-ave-frascati-rd-blackrock-co-dublin-blackrock-dublin/5028788",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4982361,
+      "Address": "17 Castlebyrne Park, Blackrock, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/6/3/4982361/514f2ec0-e308-47fb-ba4f-7796eada0074_t.png",
+      "HasWebP": false,
+      "Price": 575000,
+      "PrevPrice": 525000,
+      "PriceChangeDelta": 50000,
+      "PriceChangePercentage": 9.5238,
+      "Created": "11th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/17-castlebyrne-park-blackrock-county-dublin/4982361",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4985779,
+      "Address": "The Penthouses at Woodlands Grove, Blackrock, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/7/7/4985779/820eeeb0-50ce-4752-9872-cc4c5129f4b9_t.jpg",
+      "HasWebP": false,
+      "Price": 1350000,
+      "PrevPrice": 1525000,
+      "PriceChangeDelta": -175000,
+      "PriceChangePercentage": -11.4754,
+      "Created": "11th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "BerRating": "A3",
+      "SeoUrl": "/residential/brochure/the-penthouses-at-woodlands-grove-blackrock-county-dublin/4985779",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4985713,
+      "Address": "Woodlands Grove, Blackrock, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/7/4985713/bb1ce4f2-4dfe-475b-92fa-97a9366d91f0_t.jpg",
+      "HasWebP": false,
+      "Price": 625000,
+      "PrevPrice": 685000,
+      "PriceChangeDelta": -60000,
+      "PriceChangePercentage": -8.7591,
+      "Created": "11th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "SeoUrl": "/residential/brochure/woodlands-grove-blackrock-county-dublin/4985713",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/13-the-sycamores-stradbrook-hill-blackrock-dublin/5028267",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 354740,
+    "Name": "Dublin  Office",
+    "Phone": "01 903 8335",
+    "Email": "hello@auctioneera.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/0/4/7/354740/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 386986,
+    "MYH_LocalityID": 1258,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1265,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Washing Machine",
+      "Cable Television",
+      "Central Heating",
+      "Broadband",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Washing Machine,Cable Television,Central Heating,Broadband,Garden",
+    "MYH_MaxPrice": 300000,
+    "MYH_MinBeds": 1,
+    "MYH_MinEnergyRating": 75,
+    "MYH_MinPrice": 300000,
+    "MYH_MinSize": 37,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5028267,
+    "MYH_PropertyTypeID": 36
+  }
+}

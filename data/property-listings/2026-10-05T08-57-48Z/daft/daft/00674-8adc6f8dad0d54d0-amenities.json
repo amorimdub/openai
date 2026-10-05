@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SISTERS OF CHARITY",
+      "numPupils": 392,
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.354103",
+        "lon": "-7.704370"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S C.B.S., PRIMARY",
+      "numPupils": 213,
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.352478",
+        "lon": "-7.712107"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL CHLUAIN MEALA",
+      "numPupils": 291,
+      "distance": {
+        "value": 0.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.352055",
+        "lon": "-7.713158"
+      }
+    },
+    {
+      "schoolName": "ST MARYS PAROCHIAL SCHOOL",
+      "numPupils": 26,
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.353947",
+        "lon": "-7.714533"
+      }
+    },
+    {
+      "schoolName": "ST PETER AND PAUL",
+      "numPupils": 291,
+      "distance": {
+        "value": 0.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.356724",
+        "lon": "-7.700500"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY SCHOOL",
+      "numPupils": 274,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.348370",
+        "lon": "-7.718085"
+      }
+    },
+    {
+      "schoolName": "ST OLIVER PLUNKETTS NATIONAL SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.360410",
+        "lon": "-7.716539"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE SLIABH NA MBAN",
+      "numPupils": 12,
+      "distance": {
+        "value": 3.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.358147",
+        "lon": "-7.654295"
+      }
+    },
+    {
+      "schoolName": "POWERSTOWN NATIONAL SCHOOL",
+      "numPupils": 334,
+      "distance": {
+        "value": 3.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.371986",
+        "lon": "-7.663688"
+      }
+    },
+    {
+      "schoolName": "RATHKEEVIN NATIONAL SCHOOL",
+      "numPupils": 141,
+      "distance": {
+        "value": 5.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.373196",
+        "lon": "-7.783728"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "HIGH SCHOOL CLONMEL",
+      "numPupils": 700,
+      "distance": {
+        "value": 0.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.356926",
+        "lon": "-7.698911"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 473,
+      "distance": {
+        "value": 0.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.348680",
+        "lon": "-7.717228"
+      }
+    },
+    {
+      "schoolName": "CENTRAL TECHNICAL INSTITUTE, CLONMEL",
+      "numPupils": 316,
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.353850",
+        "lon": "-7.695443"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 467,
+      "distance": {
+        "value": 0.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.350323",
+        "lon": "-7.694129"
+      }
+    },
+    {
+      "schoolName": "PATRICIAN PRESENTATION",
+      "numPupils": 280,
+      "distance": {
+        "value": 12.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.468230",
+        "lon": "-7.698354"
+      }
+    },
+    {
+      "schoolName": "COLAISTE DUN IASCAIGH",
+      "numPupils": 904,
+      "distance": {
+        "value": 14.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.381360",
+        "lon": "-7.917705"
+      }
+    },
+    {
+      "schoolName": "ROCKWELL COLLEGE",
+      "numPupils": 478,
+      "distance": {
+        "value": 17.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.458214",
+        "lon": "-7.893727"
+      }
+    },
+    {
+      "schoolName": "COMERAGH COLLEGE",
+      "numPupils": 565,
+      "distance": {
+        "value": 20.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.349537",
+        "lon": "-7.410444"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE",
+      "numPupils": 486,
+      "distance": {
+        "value": 20.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.350464",
+        "lon": "-7.401421"
+      }
+    },
+    {
+      "schoolName": "EDMUND RICE SECONDARY SCHOOL",
+      "numPupils": 316,
+      "distance": {
+        "value": 20.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.348312",
+        "lon": "-7.399247"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "CL9",
+      "destination": "Ard Gaoithe Business Park",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 0.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.355097",
+        "lon": "-7.707154"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Street",
+      "route": "CL9",
+      "destination": "Crann Ard",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.352869",
+        "lon": "-7.702298"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "55",
+      "destination": "Waterford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.3554",
+        "lon": "-7.70641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "355",
+      "destination": "Waterford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.3554",
+        "lon": "-7.70641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "CL2",
+      "destination": "Crann Ard",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.3554",
+        "lon": "-7.70641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "356",
+      "destination": "Ballinroad",
+      "provider": "TFI Local Link Waterford",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.3554",
+        "lon": "-7.70641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "CL1",
+      "destination": "Crann Ard",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.3554",
+        "lon": "-7.70641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Queen Street",
+      "route": "245",
+      "destination": "Clonmel",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.3554",
+        "lon": "-7.70641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Street",
+      "route": "CL1",
+      "destination": "Poppyfield Retail Park",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.352863",
+        "lon": "-7.70185"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "O'Connell Street",
+      "route": "CL2",
+      "destination": "Ard Gaoithe Business Park",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.352863",
+        "lon": "-7.70185"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=133",
+  "fetchedAt": "2026-10-05T11:22:47.311Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=133",
+  "kind": "search",
+  "responseSha256": "1550b274731a92d4135aebbcce80e0015efab839f3c781a000d9a7fd32afad0f",
+  "files": [
+    {
+      "path": "myhome/03258-440de3175b1b7e71-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=133\"].SearchResults",
+      "sha256": "9f984b806b3fd7afe3aa8f7e7b41736ae0ead02bd3b4c0f7a590c3a4efbf67d7",
+      "bytes": 111197
+    },
+    {
+      "path": "myhome/03258-440de3175b1b7e71-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=133\"] (paging fields)",
+      "sha256": "496eeb1ecfad3c27a55dbb38e340f0b0f3d1ae6835352fb374c72a5accfecdbe",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/36-grace-park-meadows-drumcondra-dublin/5009956",
+    "https://www.myhome.ie/residential/brochure/8-gleann-na-ri-druids-valley-cabinteely-dublin/5029431",
+    "https://www.myhome.ie/residential/brochure/39b-the-bottleworks-dermot-o-hurley-avenue-ringsend-dublin-4/4938599",
+    "https://www.myhome.ie/residential/brochure/lack-parke-castlebar-co-mayo/5029432",
+    "https://www.myhome.ie/residential/brochure/13-abbey-park-ferrybank-waterford/5028417",
+    "https://www.myhome.ie/residential/brochure/gillie-s-hut-station-road-foxford-co-mayo/5029423",
+    "https://www.myhome.ie/residential/brochure/46-cloon-lara-mullingar-westmeath/5029397",
+    "https://www.myhome.ie/residential/brochure/31-boyne-meadow-slane-road-drogheda-co-louth/5029416",
+    "https://www.myhome.ie/residential/brochure/131-uam-var-drive-bishopstown-cork/5029407",
+    "https://www.myhome.ie/residential/brochure/15-dr-mannix-road-salthill-galway-city/5028348",
+    "https://www.myhome.ie/residential/brochure/166-block-1-belgrove-park-mount-prospect-lawns-clontarf-dublin-3/5015487",
+    "https://www.myhome.ie/residential/brochure/9-botanic-square-botanic-avenue-glasnevin-dublin-9/5004931",
+    "https://www.myhome.ie/residential/brochure/10-bridgewater-hall-summerhill-parade-north-city-centre-dublin-1/5026242",
+    "https://www.myhome.ie/residential/brochure/effrinagh-kilclare-carrick-on-shannon-leitrim/5029404",
+    "https://www.myhome.ie/residential/brochure/c-16-acres-moorhill-brannockstown-naas-kildare/5026796",
+    "https://www.myhome.ie/residential/brochure/1-eaton-place-monkstown-co-dublin/5029408",
+    "https://www.myhome.ie/residential/brochure/shanbogh-upper-rosbercon-kilkenny/5029402",
+    "https://www.myhome.ie/residential/brochure/hinchogue-cottage-golf-lane-carrickmines-dublin-18/5006608",
+    "https://www.myhome.ie/residential/brochure/63-kirkpatrick-house-ifsc-dublin-1/4966860",
+    "https://www.myhome.ie/residential/brochure/4-apartments-church-inn-moate-co-westmeath/5029399"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=134",
+  "paginationLimited": false
+}

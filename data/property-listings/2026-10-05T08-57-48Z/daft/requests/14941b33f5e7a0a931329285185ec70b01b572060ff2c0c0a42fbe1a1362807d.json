@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/22-x-apartments-parkview-court-lord-edward-street-limerick-city-centre-co-limerick/6678008",
+  "fetchedAt": "2026-10-05T09:14:51.365Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/22-x-apartments-parkview-court-lord-edward-street-limerick-city-centre-co-limerick/6678008",
+  "kind": "listing",
+  "responseSha256": "303dec67102d1872cbb89c4e0c6c20ddf7be7afec044077390cbd19fdeacfe33",
+  "files": [
+    {
+      "path": "daft/00682-14941b33f5e7a0a9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "59cc5b2d8156cd2b7587c9c576ea2ca30eeef10a6b5d6a54a1851e57fbb84f35",
+      "bytes": 79447
+    },
+    {
+      "path": "daft/00682-14941b33f5e7a0a9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "89b3615eaa0a1779f4cb46a3550127e9ecb5168748204e2692afb065b114773d",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-3-70-leeson-close-dublin-2/6672511",
+  "fetchedAt": "2026-10-05T09:11:54.090Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-3-70-leeson-close-dublin-2/6672511",
+  "kind": "listing",
+  "responseSha256": "e6984910184cdad992e3bfde049068241cf80f971cd3bfb20d902daa018b182c",
+  "files": [
+    {
+      "path": "daft/00564-bae8d0190618d82f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d655611cfafaef0e08850829a1f99c9bec747dd374891ee39662796d9efafe36",
+      "bytes": 66230
+    },
+    {
+      "path": "daft/00564-bae8d0190618d82f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e790abbe6df4e45bbdd1fec71986350fe0d62a7959e2a6f33cffd760f2c2d1c3",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

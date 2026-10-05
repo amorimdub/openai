@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/lenaboy-park-salthill-co-galway/6529172",
+  "fetchedAt": "2026-10-05T09:14:15.305Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/lenaboy-park-salthill-co-galway/6529172",
+  "kind": "listing",
+  "responseSha256": "82883164d9219cb8d7419b2911216f1310ee2364e640d6f4ea68e04d2a5d3316",
+  "files": [
+    {
+      "path": "daft/00658-501f2d49d2c75eb9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3a0a6f1931f5729f01f674328a9f00b5d1538cc11eec1d6cb7bad94622e58c44",
+      "bytes": 31882
+    },
+    {
+      "path": "daft/00658-501f2d49d2c75eb9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "86fb87ca6d512511de8b3515d34da0a87e192fa6cc4c27b73a0f928623c931a1",
+      "bytes": 7988
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

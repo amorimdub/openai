@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=42",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=42",
+  "fetchedAt": "2026-10-05T09:33:34.663Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "417c7793e466f5e950c0fe15cafc2b8b02c4ba573344cceccdf2f3c1f6d42900",
+  "files": [
+    {
+      "path": "myhome/01425-2a830cb7008516de-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=42\"].SearchResults",
+      "sha256": "03ac63398f66696d494b65b800c518e449d2c7ec64f0080d360b75f50736ae63",
+      "bytes": 135819
+    },
+    {
+      "path": "myhome/01425-2a830cb7008516de-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=42\"] (paging fields)",
+      "sha256": "0153bb1903f89c4f9142a1e8a9a24e4c8659cee8af4dc810ad482bed69925a7b",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/79-monread-heights-naas-county-kildare/5031531",
+    "https://www.myhome.ie/residential/brochure/38-woodleigh-way-blessington-wicklow/5001722",
+    "https://www.myhome.ie/residential/brochure/1-birr-road-shinrone-birr-co-offaly/5031528",
+    "https://www.myhome.ie/residential/brochure/robin-s-rest-red-road-ballygahan-lower-avoca-county-wicklow/4904747",
+    "https://www.myhome.ie/residential/brochure/7-butterfield-grove-rathfarnham-dublin-14/5008385",
+    "https://www.myhome.ie/residential/brochure/13-brookvale-road-donnybrook-dublin-4/5011089",
+    "https://www.myhome.ie/residential/brochure/the-pines-62-stillorgan-grove-blackrock-county-dublin/5028490",
+    "https://www.myhome.ie/residential/brochure/the-heather-the-blossoms-at-tandy-s-lane-adamstown-lucan-co-dublin/4806752",
+    "https://www.myhome.ie/residential/brochure/49-st-brendans-park-coolock-dublin-5/5031527",
+    "https://www.myhome.ie/residential/brochure/mentone-marino-avenue-east-killiney-co-dublin/4921806",
+    "https://www.myhome.ie/residential/brochure/37-baskin-cottages-baskin-lane-kinsealy-county-dublin/5030552",
+    "https://www.myhome.ie/residential/brochure/3-crescent-villas-glasnevin-dublin-9/5021704",
+    "https://www.myhome.ie/residential/brochure/27-druid-s-avenue-druid-s-glen-resort-newtownmountkennedy-wicklow/5022215",
+    "https://www.myhome.ie/residential/brochure/6-quartz-the-grange-stillorgan-dublin/5031404",
+    "https://www.myhome.ie/residential/brochure/the-beacon-extended-pebble-cove-portmarnock-county-dublin/4973439",
+    "https://www.myhome.ie/residential/brochure/16-cliftonville-road-plus-attic-conversion-glasnevin-dublin-9/5028653",
+    "https://www.myhome.ie/residential/brochure/112-glasnevin-downs-glasnevin-dublin-11/5014634",
+    "https://www.myhome.ie/residential/brochure/29-elmfield-grove-clarehall-dublin-13/5031524",
+    "https://www.myhome.ie/residential/brochure/117-boroimhe-beech-swords-county-dublin/5031490",
+    "https://www.myhome.ie/residential/brochure/rockview-house-formerly-rockville-house-culleenamore-co-sligo/5029382"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=43",
+  "paginationLimited": false
+}

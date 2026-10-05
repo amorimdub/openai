@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=392",
+  "fetchedAt": "2026-10-05T13:36:34.163Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=392",
+  "kind": "search",
+  "responseSha256": "45a771fcc80c4a75fd4d3b7e975eaedeba60c371192476d05ce26360ac0b595a",
+  "files": [
+    {
+      "path": "myhome/08593-146b3ad6a6ed97a1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=392\"].SearchResults",
+      "sha256": "12461ba270f2fb5247cdce2a37800445dff06ae48bae29c7191bd7666e547fea",
+      "bytes": 114812
+    },
+    {
+      "path": "myhome/08593-146b3ad6a6ed97a1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=392\"] (paging fields)",
+      "sha256": "c0263bbd94049a4e78845d40df6e163d4b2e91a709243ec433471aa839b53c14",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/robin-hill-ballyguiry-dungarvan-waterford/5016550",
+    "https://www.myhome.ie/residential/brochure/drumaghy-ardara-donegal/5010717",
+    "https://www.myhome.ie/residential/brochure/8-green-acres-donaghmore-ballygarrett-co-wexford/5016167",
+    "https://www.myhome.ie/residential/brochure/6-the-green-clara-co-offaly/5016065",
+    "https://www.myhome.ie/residential/brochure/cloghernagh-horn-head-dunfanaghy-county-donegal/5016034",
+    "https://www.myhome.ie/residential/brochure/tenaya-5-lia-f-il-kerry-road-tower-cork/5015953",
+    "https://www.myhome.ie/residential/brochure/rinclevan-dunfanaghy-co-donegal/5015928",
+    "https://www.myhome.ie/residential/brochure/derreenavoggy-arigna-carrick-on-shannon-roscommon/5015899",
+    "https://www.myhome.ie/residential/brochure/14-davis-place-christchurch-dublin-8-christchurch-dublin-8/5015901",
+    "https://www.myhome.ie/residential/brochure/20-coleman-crescent-lusk-village-lusk-co-dublin/5000142",
+    "https://www.myhome.ie/residential/brochure/54-the-waterways-sallins-co-kildare-naas/5015889",
+    "https://www.myhome.ie/residential/brochure/12-woodford-parade-clondalkin-dublin-22/5015757",
+    "https://www.myhome.ie/residential/brochure/1-sun-view-villas-south-douglas-road-douglas-cork/5015856",
+    "https://www.myhome.ie/residential/brochure/ballinacrow-stratford-on-slaney-baltinglass-wicklow/5015857",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-house-donaghcumper-gate-dublin-road-celbridge-co-kildare/5015854",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-house-donaghcumper-gate-dublin-road-celbridge-co-kildare/5015852",
+    "https://www.myhome.ie/residential/brochure/querrin-kilkee-clare/5015828",
+    "https://www.myhome.ie/residential/brochure/rosebury-lodge-ballykilliane-drinagh-wexford-town-wexford/5015827",
+    "https://www.myhome.ie/residential/brochure/214d-kilworth-road-drimnagh-dublin-12/5010067",
+    "https://www.myhome.ie/residential/brochure/11-kempton-lawn-navan-road-dublin-7/5015834"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=393",
+  "paginationLimited": false
+}

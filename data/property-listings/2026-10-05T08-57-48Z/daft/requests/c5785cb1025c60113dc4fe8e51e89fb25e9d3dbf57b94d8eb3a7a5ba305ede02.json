@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-sand-house-glass-bottle-cullet-walk-d04-f8fc-dublin-4/6632234",
+  "fetchedAt": "2026-10-05T08:58:49.753Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-sand-house-glass-bottle-cullet-walk-d04-f8fc-dublin-4/6632234",
+  "kind": "listing",
+  "responseSha256": "400ed357d3d8f848eba320174f6dfb305c8c46b85889120bf765f0d081d7ef81",
+  "files": [
+    {
+      "path": "daft/00042-c5785cb1025c6011-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "75e5cd363ee66902e717779befea4f8f2d80a1274d340bb76169d103c9dd50e5",
+      "bytes": 26624
+    },
+    {
+      "path": "daft/00042-c5785cb1025c6011-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ab529e23c6f357466b393f6391357c1870770207c3f052762bfaf8c2e33dc644",
+      "bytes": 8168
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

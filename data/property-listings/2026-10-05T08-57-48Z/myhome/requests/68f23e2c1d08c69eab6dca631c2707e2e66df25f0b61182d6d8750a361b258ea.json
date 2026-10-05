@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=12",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=12",
+  "fetchedAt": "2026-10-05T09:07:18.583Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "43ed57eda54b9d71e9cdc3ec9bfb2622065713e7b7a8c52a5aa91df4197e4698",
+  "files": [
+    {
+      "path": "myhome/00380-68f23e2c1d08c69e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=12\"].SearchResults",
+      "sha256": "cec40f0f42d0d90d7bf8cb24f4f7ccfd4f251d109c9de9f4f1f89da56687fefd",
+      "bytes": 115440
+    },
+    {
+      "path": "myhome/00380-68f23e2c1d08c69e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=12\"] (paging fields)",
+      "sha256": "40708864e65a000efbf444d7c5cd949bb199d4fe8213f9afa1c9f4ffd3fd1392",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-madden-road-south-circular-road-dublin-8/5021333",
+    "https://www.myhome.ie/residential/brochure/7-bolton-view-bolton-park-rathfarnham-dublin-16/5016821",
+    "https://www.myhome.ie/residential/brochure/11-dodder-park-road-rathfarnham-dublin-14/5019813",
+    "https://www.myhome.ie/residential/brochure/65-st-peter-s-place-arklow-wicklow/5023337",
+    "https://www.myhome.ie/residential/brochure/no-9-abbey-street-kilkenny-kilkenny/5031832",
+    "https://www.myhome.ie/residential/brochure/45-ivy-court-beaumont-woods-beaumont-dublin-9/5032029",
+    "https://www.myhome.ie/residential/brochure/11-moyville-rathfarnham-dublin-16/5032028",
+    "https://www.myhome.ie/residential/brochure/boskill-caherconlish-limerick/5032027",
+    "https://www.myhome.ie/residential/brochure/39-pairc-na-habhann-athenry-county-galway/5032026",
+    "https://www.myhome.ie/residential/brochure/25-ballyowen-hall-lucan-dublin/5032006",
+    "https://www.myhome.ie/residential/brochure/beechfield-the-square-skerries-county-dublin/5032025",
+    "https://www.myhome.ie/residential/brochure/apt-82-chapelgate-st-alphonsus-road-lower-drumcondra-dublin-9/5031780",
+    "https://www.myhome.ie/residential/brochure/21-killadreenan-newtownmountkennedy-wicklow/5032014",
+    "https://www.myhome.ie/residential/brochure/elm-place-milltown-dublin-6/5031896",
+    "https://www.myhome.ie/residential/brochure/barronastook-old-parish-dungarvan-waterford/5032007",
+    "https://www.myhome.ie/residential/brochure/elm-place-milltown-dublin-6/5031890",
+    "https://www.myhome.ie/residential/brochure/laurel-hurst-model-farm-road-carrigrohane-co-cork/5032020",
+    "https://www.myhome.ie/residential/brochure/19-woodstown-heath-knocklyon-dublin-16/5032019",
+    "https://www.myhome.ie/residential/brochure/33-kings-inn-court-phibsborough-road-phibsborough-dublin-7/5032008",
+    "https://www.myhome.ie/residential/brochure/9a-carrig-villas-killincarrig-greystones-co-wicklow/5032018"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=13",
+  "paginationLimited": false
+}

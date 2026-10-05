@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "THE ASSUMPTION JUNIOR SCHOOL",
+      "numPupils": 449,
+      "distance": {
+        "value": 0.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.319214",
+        "lon": "-6.332105"
+      }
+    },
+    {
+      "schoolName": "ASSUMPTION SENIOR GIRLS NATIONAL SC",
+      "numPupils": 229,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322900",
+        "lon": "-6.332111"
+      }
+    },
+    {
+      "schoolName": "ST CILLIANS MIXED NATIONAL SCHOOL",
+      "numPupils": 32,
+      "distance": {
+        "value": 0.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.325096",
+        "lon": "-6.345782"
+      }
+    },
+    {
+      "schoolName": "DRIMNAGH CASTLE PRIMARY SCHOOL",
+      "numPupils": 343,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324360",
+        "lon": "-6.330916"
+      }
+    },
+    {
+      "schoolName": "ST DAMIAN'S NATIONAL SCHOOL",
+      "numPupils": 232,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314236",
+        "lon": "-6.321282"
+      }
+    },
+    {
+      "schoolName": "HOLY SPIRIT JUNIOR PRIMARY SCHOOL",
+      "numPupils": 277,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310080",
+        "lon": "-6.325699"
+      }
+    },
+    {
+      "schoolName": "HOLY SPIRIT SENIOR PRIMARY SCHOOL",
+      "numPupils": 266,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310080",
+        "lon": "-6.325699"
+      }
+    },
+    {
+      "schoolName": "BLUEBELL NATIONAL SCHOOL",
+      "numPupils": 125,
+      "distance": {
+        "value": 1.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.331300",
+        "lon": "-6.337888"
+      }
+    },
+    {
+      "schoolName": "SOLAS HOSPITAL SCHOOL",
+      "numPupils": 91,
+      "distance": {
+        "value": 1.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326183",
+        "lon": "-6.321209"
+      }
+    },
+    {
+      "schoolName": "RIVERVIEW EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 234,
+      "distance": {
+        "value": 1.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304966",
+        "lon": "-6.328266"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ASSUMPTION SECONDARY SCHOOL",
+      "numPupils": 286,
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322227",
+        "lon": "-6.331626"
+      }
+    },
+    {
+      "schoolName": "DRIMNAGH CASTLE SECONDARY SCHOOL",
+      "numPupils": 506,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324210",
+        "lon": "-6.333720"
+      }
+    },
+    {
+      "schoolName": "GREENHILLS COMMUNITY COLLEGE",
+      "numPupils": 177,
+      "distance": {
+        "value": 1.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.307987",
+        "lon": "-6.336019"
+      }
+    },
+    {
+      "schoolName": "ST PAULS SECONDARY SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 1.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.307850",
+        "lon": "-6.331982"
+      }
+    },
+    {
+      "schoolName": "OUR LADY OF MERCY SECONDARY SCHOOL",
+      "numPupils": 280,
+      "distance": {
+        "value": 1.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330956",
+        "lon": "-6.319218"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE DE HÍDE",
+      "numPupils": 267,
+      "distance": {
+        "value": 2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301247",
+        "lon": "-6.349289"
+      }
+    },
+    {
+      "schoolName": "ROSARY COLLEGE",
+      "numPupils": 225,
+      "distance": {
+        "value": 2.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318680",
+        "lon": "-6.307461"
+      }
+    },
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 328,
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336765",
+        "lon": "-6.321998"
+      }
+    },
+    {
+      "schoolName": "TEMPLEOGUE COLLEGE",
+      "numPupils": 660,
+      "distance": {
+        "value": 2.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304165",
+        "lon": "-6.311983"
+      }
+    },
+    {
+      "schoolName": "ST. MAC DARA'S COMMUNITY COLLEGE",
+      "numPupils": 901,
+      "distance": {
+        "value": 2.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.297300",
+        "lon": "-6.327571"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Walkinstown Cres",
+      "route": "56A",
+      "destination": "The Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.317105",
+        "lon": "-6.337211"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Walkinstown Pk Est",
+      "route": "56A",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3191699520228",
+        "lon": "-6.33638045222645"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballymount Dr",
+      "route": "56A",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316532",
+        "lon": "-6.342532"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Walkinstown Avenue",
+      "route": "56A",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318261",
+        "lon": "-6.33499"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Walkinstown Park",
+      "route": "56A",
+      "destination": "The Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.32137",
+        "lon": "-6.339477"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Community Centre",
+      "route": "56A",
+      "destination": "The Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3179354289289",
+        "lon": "-6.33422202603397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "M Keane IE",
+      "route": "27",
+      "destination": "Eden Quay",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316047",
+        "lon": "-6.334161"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "M Keane IE",
+      "route": "77A",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316047",
+        "lon": "-6.334161"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "M Keane IE",
+      "route": "77n",
+      "destination": "Tallaght (Westbrook Estate)",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.315534",
+        "lon": "-6.334751"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Robinhood Ind Est",
+      "route": "56A",
+      "destination": "The Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.316385",
+        "lon": "-6.345524"
+      }
+    }
+  ]
+}

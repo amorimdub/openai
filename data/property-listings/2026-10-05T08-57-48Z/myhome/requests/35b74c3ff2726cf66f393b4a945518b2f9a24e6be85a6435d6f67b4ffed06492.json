@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=411",
+  "fetchedAt": "2026-10-05T13:46:27.057Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=411",
+  "kind": "search",
+  "responseSha256": "0eec4794c5955908853e0482252724902e82620fa7ecdc593d3f0db2e985759d",
+  "files": [
+    {
+      "path": "myhome/08987-35b74c3ff2726cf6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=411\"].SearchResults",
+      "sha256": "810ed8a12c2324b9751ec5174338fa06d035c6f8ba9cc295d1c1e38eb77747e2",
+      "bytes": 121000
+    },
+    {
+      "path": "myhome/08987-35b74c3ff2726cf6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=411\"] (paging fields)",
+      "sha256": "6057ff9b5fc7a3b4fc025297243bba9c6a8208626f20c7b2352dc4bd382c7e06",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/75-ennel-drive-dublin-5-dublin/5013630",
+    "https://www.myhome.ie/residential/brochure/10-springhill-ballinglanna-glanmire-cork/5013554",
+    "https://www.myhome.ie/residential/brochure/2-whitegate-sandyford-village-sandyford-dublin-18/5005940",
+    "https://www.myhome.ie/residential/brochure/84-the-mizen-harty-s-quay-rochestown-cork/5013305",
+    "https://www.myhome.ie/residential/brochure/7-ashewood-walk-ashewood-ashbourne-co-meath/5013620",
+    "https://www.myhome.ie/residential/brochure/drummindoo-westport-co-mayo/5013617",
+    "https://www.myhome.ie/residential/brochure/6-cherrywood-close-termon-abbey-drogheda-co-louth/5013614",
+    "https://www.myhome.ie/residential/brochure/clogherane-lauragh-upper-kenmare-co-kerry/5013609",
+    "https://www.myhome.ie/residential/brochure/denbri-fairyhouse-road-ennistown-ratoath-co-meath/5013602",
+    "https://www.myhome.ie/residential/brochure/no-1-priory-court-enniscorthy-wexford/5013597",
+    "https://www.myhome.ie/residential/brochure/8-rutland-cottages-summerhill-dublin-1/5013583",
+    "https://www.myhome.ie/residential/brochure/47-cairnsfort-golf-links-road-limerick-county-limerick/5013582",
+    "https://www.myhome.ie/residential/brochure/ballinvalley-killenagh-gorey-co-wexford/5013572",
+    "https://www.myhome.ie/residential/brochure/cobwebs-john-street-killaloe-clare/5005065",
+    "https://www.myhome.ie/residential/brochure/4-bellview-terrace-austin-friar-st-mullingar-westmeath/5013538",
+    "https://www.myhome.ie/residential/brochure/7-glen-cove-courtown-co-wexford/5013552",
+    "https://www.myhome.ie/residential/brochure/main-street-upper-cappawhite-co-tipperary/5013551",
+    "https://www.myhome.ie/residential/brochure/augherskea-drumree-meath/5013546",
+    "https://www.myhome.ie/residential/brochure/4-exham-place-city-centre-sth-cork-city/5013520",
+    "https://www.myhome.ie/residential/brochure/lands-at-ballanabarney-inistioge-co-kilkenny/5013536"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=412",
+  "paginationLimited": false
+}

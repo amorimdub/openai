@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/westend-gate-tallaght-dublin-24/6600896",
+  "fetchedAt": "2026-10-05T09:15:18.412Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/westend-gate-tallaght-dublin-24/6600896",
+  "kind": "listing",
+  "responseSha256": "b12d8457e4e1883b337022f6bca9a6ed8a19efe2738b445b04f00fae3fb8ca6e",
+  "files": [
+    {
+      "path": "daft/00700-ca216188a162dfbf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "308c70f3ef56c0d53d348816e353afcce26b9c4ad9ecf701709e5c9a720d5c98",
+      "bytes": 47748
+    },
+    {
+      "path": "daft/00700-ca216188a162dfbf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c76bf1a838fedade3edca635e8bfd017c18d09c4b6d69c2bf170a11522b284b8",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/one-bed-18-newmarket-square-dublin-city-centre-dublin-8/6312222",
+  "fetchedAt": "2026-10-05T08:59:28.794Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/one-bed-18-newmarket-square-dublin-city-centre-dublin-8/6312222",
+  "kind": "listing",
+  "responseSha256": "9112ed923e3f0d703923c7cba2deba833d9b22cfac2974d1503ac9bb5dcbfdf0",
+  "files": [
+    {
+      "path": "daft/00068-42c6ff363035426f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "65627d7557a0984d3f307da301e2a4d70c18c9d2bad114579e481e494ccce69f",
+      "bytes": 30350
+    },
+    {
+      "path": "daft/00068-42c6ff363035426f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f77914467ee77f37e5847ec28e3e8e2740c2c8393a4679145519add2eb281e2d",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

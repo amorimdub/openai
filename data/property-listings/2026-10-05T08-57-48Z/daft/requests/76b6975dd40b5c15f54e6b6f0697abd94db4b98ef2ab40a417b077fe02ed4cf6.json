@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-clanbrassil-street-lower-portobello-dublin-8/6685339",
+  "fetchedAt": "2026-10-05T09:36:44.076Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-clanbrassil-street-lower-portobello-dublin-8/6685339",
+  "kind": "listing",
+  "responseSha256": "f05625e146fc608d367535595811b6747431bb12b6ebe152ed588220313b024e",
+  "files": [
+    {
+      "path": "daft/01556-76b6975dd40b5c15-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "28b753e61dd8dd1b518c358a873dcfc9ea36fa17f945301518a85db7ebfcd379",
+      "bytes": 16853
+    },
+    {
+      "path": "daft/01556-76b6975dd40b5c15-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a3403b4278aad60a36d99ca12ff83a788d2abc04a9dce873d529f66ccc76b4fa",
+      "bytes": 8083
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

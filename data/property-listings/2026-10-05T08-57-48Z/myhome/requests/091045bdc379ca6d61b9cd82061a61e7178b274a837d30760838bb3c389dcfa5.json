@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=320",
+  "fetchedAt": "2026-10-05T12:59:43.130Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=320",
+  "kind": "search",
+  "responseSha256": "0f89bf35f657a446b7eebca45bb2eb7e1779260d1fff7ff55a49207b9662d2f9",
+  "files": [
+    {
+      "path": "myhome/07122-091045bdc379ca6d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=320\"].SearchResults",
+      "sha256": "11e4b99bcac65912e1d1f102ea520740d41e3eefe78ac376d8756e68d70a98ed",
+      "bytes": 112254
+    },
+    {
+      "path": "myhome/07122-091045bdc379ca6d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=320\"] (paging fields)",
+      "sha256": "9645490742acb20eb4b38c4ffaa5db2aca60b3c38fa5e5419c23012a0eb656cc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/philipstown-rathvilly-carlow/5022788",
+    "https://www.myhome.ie/residential/brochure/ballinvreena-kilmallock-limerick/5022740",
+    "https://www.myhome.ie/residential/brochure/acla-main-street-balla-castlebar-mayo/5022748",
+    "https://www.myhome.ie/residential/brochure/4-castle-drive-kilminchy-portlaoise-co-laois/5022785",
+    "https://www.myhome.ie/residential/brochure/47-burnell-square-northern-cross-dublin-17/5022783",
+    "https://www.myhome.ie/residential/brochure/250-dundoogan-dundalk-co-louth/5022781",
+    "https://www.myhome.ie/residential/brochure/28-sandycove-avenue-west-sandycove-co-dublin/5022779",
+    "https://www.myhome.ie/residential/brochure/apartment-20-the-lighthouse-north-strand-dublin-3/5022767",
+    "https://www.myhome.ie/residential/brochure/1-stepaside-villas-stepaside/5008024",
+    "https://www.myhome.ie/residential/brochure/ref-1242-cromane-lower-killorglin-cromane-kerry/5022753",
+    "https://www.myhome.ie/residential/brochure/20-swords-manor-crescent-swords-dublin/5016665",
+    "https://www.myhome.ie/residential/brochure/27-farnamurray-close-nenagh-co-tipperary/5022755",
+    "https://www.myhome.ie/residential/brochure/42-coolatree-road-beaumont-dublin-9/5010411",
+    "https://www.myhome.ie/residential/brochure/22-beverly-lawns-knocklyon-dublin-16/5022736",
+    "https://www.myhome.ie/residential/brochure/58-glenabbey-road-mount-merrion-county-dublin/5008595",
+    "https://www.myhome.ie/residential/brochure/150-an-fiod-n-doughiska-galway-city/5022741",
+    "https://www.myhome.ie/residential/brochure/cloggernagh-east-islandeady-castlebar-co-mayo/5022743",
+    "https://www.myhome.ie/residential/brochure/10-waterside-dungarvan-waterford/5022738",
+    "https://www.myhome.ie/residential/brochure/7-riverdale-skibbereen-west-cork/5022729",
+    "https://www.myhome.ie/residential/brochure/4-fairgreen-row-dundalk-louth/5022733"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=321",
+  "paginationLimited": false
+}

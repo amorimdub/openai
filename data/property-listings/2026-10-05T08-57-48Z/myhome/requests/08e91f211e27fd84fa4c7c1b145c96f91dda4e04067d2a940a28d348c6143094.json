@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=446",
+  "fetchedAt": "2026-10-05T14:04:17.208Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=446",
+  "kind": "search",
+  "responseSha256": "9797ad773af786d84a70e2a911fd21711e63f173da6c34cb3af12fa2dd1da3d9",
+  "files": [
+    {
+      "path": "myhome/09699-08e91f211e27fd84-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=446\"].SearchResults",
+      "sha256": "2d574e2b37f5b06816a68a7facaab86d0c9e4fc3b54f7f3786f7cd66cd5232f3",
+      "bytes": 127829
+    },
+    {
+      "path": "myhome/09699-08e91f211e27fd84-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=446\"] (paging fields)",
+      "sha256": "0f1a55d79382484837c23ba34a0e4ef0d2cd7f098a571409b05c7244c8b033a8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-beech-hill-crossmolina-mayo/5009207",
+    "https://www.myhome.ie/residential/brochure/3-maple-drive-dunmanway-road-bandon-cork/5009199",
+    "https://www.myhome.ie/residential/brochure/gallanes-clonakilty-co-cork/5009200",
+    "https://www.myhome.ie/residential/brochure/tirnawannagh-bawnboy-county-cavan/5009192",
+    "https://www.myhome.ie/residential/brochure/drayton-manor-three-mile-water-brittas-bay-co-wicklow/5009185",
+    "https://www.myhome.ie/residential/brochure/5-branogue-park-riverchapel-co-wexford/5009176",
+    "https://www.myhome.ie/residential/brochure/9-hillcrest-avenue-lucan-co-dublin/5009173",
+    "https://www.myhome.ie/residential/brochure/beau-regard-hempfield-enniscorthy-wexford/5009125",
+    "https://www.myhome.ie/residential/brochure/68a-albert-road-lower-sandycove-co-dublin/5009155",
+    "https://www.myhome.ie/residential/brochure/riverstown-kilmessan-co-meath/5009153",
+    "https://www.myhome.ie/residential/brochure/169-hampton-square-navan-road-dublin-7/5009145",
+    "https://www.myhome.ie/residential/brochure/48-mariners-avenue-mariners-way-rush-co-dublin/5009143",
+    "https://www.myhome.ie/residential/brochure/no-9-lakeside-cottage-drumcong-drumshanbo-leitrim/5009136",
+    "https://www.myhome.ie/residential/brochure/drayton-manor-three-mile-water-brittas-bay-co-wicklow/5009133",
+    "https://www.myhome.ie/residential/brochure/adare-portrane-road-donabate-co-dublin/5009130",
+    "https://www.myhome.ie/residential/brochure/74-garr-n-ard-doughiska-galway-city/5008997",
+    "https://www.myhome.ie/residential/brochure/90-dun-na-coirbe-headford-road-galway-city/5008992",
+    "https://www.myhome.ie/residential/brochure/kavanagh-cottage-fethard-co-wexford/5009108",
+    "https://www.myhome.ie/residential/brochure/47-clarinda-park-east-dun-laoghaire-county-dublin/5009107",
+    "https://www.myhome.ie/residential/brochure/dernish-island-grange-sligo/5009103"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=447",
+  "paginationLimited": false
+}

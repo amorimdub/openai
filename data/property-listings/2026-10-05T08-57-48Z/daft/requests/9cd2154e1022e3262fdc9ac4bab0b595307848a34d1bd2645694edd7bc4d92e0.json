@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apt-18-fair-street-drogheda-co-louth-drogheda-co-louth/6686241",
+  "fetchedAt": "2026-10-05T09:30:07.653Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apt-18-fair-street-drogheda-co-louth-drogheda-co-louth/6686241",
+  "kind": "listing",
+  "responseSha256": "b08fe1db011f059149eac590311a85a1654364a0c0a2002b177f7589454889f8",
+  "files": [
+    {
+      "path": "daft/01292-9cd2154e1022e326-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ed647456dc92603bbf7ec31fb44591d3121ef615b6072b31791ac91ccbf19827",
+      "bytes": 17216
+    },
+    {
+      "path": "daft/01292-9cd2154e1022e326-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "680b1f2638e6ca762f9313f3ee248c287d52a4c41f6b15cebb3c9bea0b8bf340",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

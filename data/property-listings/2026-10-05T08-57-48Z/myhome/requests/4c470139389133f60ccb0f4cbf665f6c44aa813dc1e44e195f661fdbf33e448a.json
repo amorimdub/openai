@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=424",
+  "fetchedAt": "2026-10-05T13:52:57.866Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=424",
+  "kind": "search",
+  "responseSha256": "201c2306d6ae64e4acc8069753524c27f8e0c75de0d096731464d5238b66c1e2",
+  "files": [
+    {
+      "path": "myhome/09247-4c470139389133f6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=424\"].SearchResults",
+      "sha256": "f6fbef8d073571d15820ee6de8aaf87f0aee7f6930f7940fb91fd5903a856dec",
+      "bytes": 116494
+    },
+    {
+      "path": "myhome/09247-4c470139389133f6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=424\"] (paging fields)",
+      "sha256": "b598ed64c523c246b2ce7f077a4da02ede35707f0374be48be3223a4959ba535",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/45-college-avenue-clonmel-tipperary/5011253",
+    "https://www.myhome.ie/residential/brochure/the-gables-33-saint-marys-road-galway/5011251",
+    "https://www.myhome.ie/residential/brochure/13-emmet-street-kilkenny/5011244",
+    "https://www.myhome.ie/residential/brochure/kilgarve-gardens-ballinasloe-galway/5011227",
+    "https://www.myhome.ie/residential/brochure/7-clonattin-road-gorey-co-wexford/5011225",
+    "https://www.myhome.ie/residential/brochure/56-ennafort-road-raheny-dublin-5/5004068",
+    "https://www.myhome.ie/residential/brochure/41-laurel-ridge-shanakiel-cork/5011216",
+    "https://www.myhome.ie/residential/brochure/2-the-alcove-channel-road-rush-co-dublin/4819262",
+    "https://www.myhome.ie/residential/brochure/2-holmpatrick-terrace-skerries-co-dublin/4999949",
+    "https://www.myhome.ie/residential/brochure/5-strand-street-skerries-co-dublin/5005092",
+    "https://www.myhome.ie/residential/brochure/14-mooreville-estate-rathdowney-laois/5009652",
+    "https://www.myhome.ie/residential/brochure/glencraig-59-muirhevna-dundalk-county-louth/5011199",
+    "https://www.myhome.ie/residential/brochure/bishop-wood-dundrum-clonoulty-tipperary/5009910",
+    "https://www.myhome.ie/residential/brochure/fostragh-aughnacliffe-longford/5011179",
+    "https://www.myhome.ie/residential/brochure/55-killinarden-estate-tallaght-dublin-24/5011191",
+    "https://www.myhome.ie/residential/brochure/residence-on-c-8-10-acres-in-lots-ballynacorra-newbridge-county-galway/5011185",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-detached-house-ard-rua-meadows-claremorris-co-mayo/5011183",
+    "https://www.myhome.ie/residential/brochure/sandycove-kinsale-west-cork/4537350",
+    "https://www.myhome.ie/residential/brochure/5-mathew-place-ballintemple-cork-city/5011178",
+    "https://www.myhome.ie/residential/brochure/109-boroimhe-hazel-swords-county-dublin/5003922"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=425",
+  "paginationLimited": false
+}

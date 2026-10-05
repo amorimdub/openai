@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=288",
+  "fetchedAt": "2026-10-05T12:43:23.791Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=288",
+  "kind": "search",
+  "responseSha256": "3962796b8ac64adc583389efb461c142be4b1d0770c8438d5594e0829c745952",
+  "files": [
+    {
+      "path": "myhome/06475-d3f0f37f7f6f49c0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=288\"].SearchResults",
+      "sha256": "98e3816d83ccb9fcd6c94b743c6e4f60960356681566c654c4be6db195f79c54",
+      "bytes": 128457
+    },
+    {
+      "path": "myhome/06475-d3f0f37f7f6f49c0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=288\"] (paging fields)",
+      "sha256": "cdae2b1713262409427c00c7233878395d8caedb3f555052f52bb51221682214",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/oakwood-32a-kill-abbey-kill-o-the-grange-blackrock-co-dublin/5024756",
+    "https://www.myhome.ie/residential/brochure/carrigkeal-carrickbrack-road-howth-dublin-13/5023085",
+    "https://www.myhome.ie/residential/brochure/54-high-street-killarney-co-kerry/5024751",
+    "https://www.myhome.ie/residential/brochure/hillside-cottage-delgany-wicklow/5024741",
+    "https://www.myhome.ie/residential/brochure/drumerlough-beg-magheracloone-carrickmacross-monaghan-a81d935-kingscourt-cavan/5024637",
+    "https://www.myhome.ie/residential/brochure/extensive-equestrian-property-clifdon-lodge-ballysax-curragh-kildare/5006925",
+    "https://www.myhome.ie/residential/brochure/15-rivermill-view-navan-co-meath/5024745",
+    "https://www.myhome.ie/residential/brochure/29-rivermill-view-navan-co-meath/5024744",
+    "https://www.myhome.ie/residential/brochure/ref-1246-lakeside-residence-beenbane-waterville-kerry/5024703",
+    "https://www.myhome.ie/residential/brochure/drumnalassan-ballaghaderreen-ballagh-roscommon/5024721",
+    "https://www.myhome.ie/residential/brochure/beechmount-house-garryhankard-innishannon-cork/5024740",
+    "https://www.myhome.ie/residential/brochure/rassan-ballyjamesduff-county-cavan/5024739",
+    "https://www.myhome.ie/residential/brochure/4-grove-lawn-blackrock-county-dublin/5024738",
+    "https://www.myhome.ie/residential/brochure/castleroe-28-castletown-road-dundalk-county-louth/5024736",
+    "https://www.myhome.ie/residential/brochure/ballyheady-bridge-killarah-ballyconnell-cavan/5024714",
+    "https://www.myhome.ie/residential/brochure/mount-pleasant-16-thormanby-road-howth-county-dublin/5018863",
+    "https://www.myhome.ie/residential/brochure/41-rowan-walk-kilcarbery-grange-clondalkin-dublin-22/5024726",
+    "https://www.myhome.ie/residential/brochure/11-marine-parade-kilkee-clare/5024715",
+    "https://www.myhome.ie/residential/brochure/19-gort-na-coiribe-headford-road-galway-city/5024720",
+    "https://www.myhome.ie/residential/brochure/23-drummartin-park-goatstown-dublin-14/5021974"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=289",
+  "paginationLimited": false
+}

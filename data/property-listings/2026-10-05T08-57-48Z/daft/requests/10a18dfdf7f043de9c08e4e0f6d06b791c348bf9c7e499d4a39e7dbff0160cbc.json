@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=47",
+  "fetchedAt": "2026-10-05T09:50:46.882Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=47",
+  "kind": "search",
+  "responseSha256": "b6b1ad5ddb93b938b373780013228f26ea763bbef9ad5513250cf57b2d6eb583",
+  "files": [
+    {
+      "path": "daft/02117-10a18dfdf7f043de-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "2b6ec1d55ecad8fc8bb8cf5ed0cac4575034ed44c63a3f69fc88aa8a61cd772e",
+      "bytes": 224559
+    },
+    {
+      "path": "daft/02117-10a18dfdf7f043de-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02117-10a18dfdf7f043de-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "adac83b9245c45f31fbb4d5125f2e6d827c0e7fe1f6cf03b42b6bb1b740b9089",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/coolquay-common-the-ward-co-dublin/6683087",
+    "https://www.daft.ie/for-rent/bachelors-walk-dublin-1/6683042",
+    "https://www.daft.ie/for-rent/apartment-2-1-southern-road-blackrock-co-cork/6683051",
+    "https://www.daft.ie/for-rent/bloomswood-33-shelbourne-place-campile-new-ross-campile-co-wexford/6683017",
+    "https://www.daft.ie/for-rent/25-fitzwilliam-court-winton-road-ranelagh-dublin-6/6682993",
+    "https://www.daft.ie/for-rent/5-the-glen-coosan-road-athlone-co-westmeath/6682903",
+    "https://www.daft.ie/for-rent/cois-na-habhainn-ballygaddy-road-tuam-co-galway/6682917",
+    "https://www.daft.ie/for-rent/rosevale-apartments-raheny-dublin-5/6682867",
+    "https://www.daft.ie/for-rent/springhill-timahoe-west-coill-dubh-coill-dubh-co-kildare/6682886",
+    "https://www.daft.ie/for-rent/elmfield-court-clondalkin-dublin-22/6682880",
+    "https://www.daft.ie/for-rent/cannon-place-herbert-road-ballsbridge-co-dublin/6682906",
+    "https://www.daft.ie/for-rent/apt-5-c-j-s-linenhall-street-castlebar-co-mayo/6682894",
+    "https://www.daft.ie/for-rent/28-woodlands-mullingar-co-westmeath/6682875",
+    "https://www.daft.ie/for-rent/32-6-ushers-quay-south-city-centre-dublin-8/6682121",
+    "https://www.daft.ie/for-rent/apartment-5-old-school-house-cavan-road-virginia-co-cavan/6682874",
+    "https://www.daft.ie/for-rent/-the-maples-orchard-square-clonskeagh-dublin-14/6682791",
+    "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6682870",
+    "https://www.daft.ie/for-rent/61-bremore-pastures-way-balbriggan-balbriggan-co-dublin/6682863",
+    "https://www.daft.ie/for-rent/1b-carpenterstown-road-castleknock-dublin-15-co-dublin/6682844",
+    "https://www.daft.ie/for-rent/rathlyon-grove-knocklyon-dublin-16/6682842"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=48",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=416",
+  "fetchedAt": "2026-10-05T13:48:55.861Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=416",
+  "kind": "search",
+  "responseSha256": "b985e9c3c453184016035a2b18f2ba4da77c397b49f735e09381c575d4717aac",
+  "files": [
+    {
+      "path": "myhome/09086-49797e18a4a9f057-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=416\"].SearchResults",
+      "sha256": "a28f97d44a143c6053d50896897e803694c19e545966fd1b0cecaf5971711fd1",
+      "bytes": 111731
+    },
+    {
+      "path": "myhome/09086-49797e18a4a9f057-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=416\"] (paging fields)",
+      "sha256": "c74c8d7c13744b1bdc9707af5684a8d574f7eb419888937d3aca4e855e1de5ef",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/61-wilford-court-bray-dublin-south-county/5012001",
+    "https://www.myhome.ie/residential/brochure/12-heathervue-road-waterford-riverview-co-waterford/5011992",
+    "https://www.myhome.ie/residential/brochure/craghyboyle-dungloe-county-donegal/5011978",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5011164",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5011262",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5011295",
+    "https://www.myhome.ie/residential/brochure/5-gleann-na-ri-valley-ave-druids-glen-cabinteely-dublin-18/5011924",
+    "https://www.myhome.ie/residential/brochure/13-ard-na-greine-shanbally-ringaskiddy-co-cork/5011949",
+    "https://www.myhome.ie/residential/brochure/fatima-new-market-lane-callan-kilkenny/5011935",
+    "https://www.myhome.ie/residential/brochure/cherryvalley-park-rathmolyon-co-meath-4-bedroom-detached/4967664",
+    "https://www.myhome.ie/residential/brochure/62-abbeyville-ennis-clare/5010183",
+    "https://www.myhome.ie/residential/brochure/70-the-coombe-dublin-8-dublin/5011922",
+    "https://www.myhome.ie/residential/brochure/35-the-birches-close-galway-road-tuam-co-galway/5011919",
+    "https://www.myhome.ie/residential/brochure/johnstown-demesne-enfield-co-meath-3-bedroom-mid-terrace/4952323",
+    "https://www.myhome.ie/residential/brochure/tullinadaly-road-tuam-co-galway/5011916",
+    "https://www.myhome.ie/residential/brochure/97-athenry-road-tuam-co-galway/5011914",
+    "https://www.myhome.ie/residential/brochure/gurtcreen-listowel-co-kerry/5011909",
+    "https://www.myhome.ie/residential/brochure/139-canterbrook-navan-co-meath/5003886",
+    "https://www.myhome.ie/residential/brochure/clonainey-ballyhack-kilsallaghan-swords-county-dublin/4998833",
+    "https://www.myhome.ie/residential/brochure/6-bramble-glade-ashford-co-wicklow/5003073"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=417",
+  "paginationLimited": false
+}

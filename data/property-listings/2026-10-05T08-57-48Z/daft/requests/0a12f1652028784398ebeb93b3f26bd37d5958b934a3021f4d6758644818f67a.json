@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/accommodation-road-carlow-town-co-carlow/6290178",
+  "fetchedAt": "2026-10-05T09:32:40.822Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/accommodation-road-carlow-town-co-carlow/6290178",
+  "kind": "listing",
+  "responseSha256": "15812663bd321d51a40f2e26fb36d67e93c2515ba9f1298450082727a7eb5e20",
+  "files": [
+    {
+      "path": "daft/01394-0a12f16520287843-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "68937c5cddf82b5b8ad615445ae881cc551b7c6e1d95358b4b2dbd1cde754ec7",
+      "bytes": 88067
+    },
+    {
+      "path": "daft/01394-0a12f16520287843-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0c273143d7516bee2f29c5107d8dc19a53e776fa07afa78809d5c6be7329531b",
+      "bytes": 8119
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

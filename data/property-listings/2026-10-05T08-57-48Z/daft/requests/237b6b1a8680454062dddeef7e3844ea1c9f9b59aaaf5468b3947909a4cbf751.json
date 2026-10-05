@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/occu-cedar-place-cedar-place-swords-co-dublin/3814786",
+  "fetchedAt": "2026-10-05T09:05:26.645Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/occu-cedar-place-cedar-place-swords-co-dublin/3814786",
+  "kind": "listing",
+  "responseSha256": "88f236e893e027e3d6d8d2f3cee210a4cd510a48ebbcba857eb0e6318afae013",
+  "files": [
+    {
+      "path": "daft/00306-237b6b1a86804540-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e259a02d8e29dc44ddbf11ec688688c7d48129589046c9dec2f6bf96c14a87ad",
+      "bytes": 201863
+    },
+    {
+      "path": "daft/00306-237b6b1a86804540-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1f927236cd619b54d8923790ed06bdf41220ac7718486ae1174d2a214c7cb9a0",
+      "bytes": 8104
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

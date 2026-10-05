@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-u-bancroft-bancroft-tallaght-co-dublin/6502128",
+  "fetchedAt": "2026-10-05T09:06:41.719Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-u-bancroft-bancroft-tallaght-co-dublin/6502128",
+  "kind": "listing",
+  "responseSha256": "a6535f5b9e3452383518e33d6b625c7e87ad0afb5f10b8374876054cf8ea1dc5",
+  "files": [
+    {
+      "path": "daft/00356-f6e8f41806e65f1d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "be8d8098fc601399c228ae59ef46838b57dff09969f1b07b184a377b9e1cb2f1",
+      "bytes": 54629
+    },
+    {
+      "path": "daft/00356-f6e8f41806e65f1d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76fa5fd03d76cad11384f5a638d39cd0f1a6040406c5a759b627c03b5b6aa2a0",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

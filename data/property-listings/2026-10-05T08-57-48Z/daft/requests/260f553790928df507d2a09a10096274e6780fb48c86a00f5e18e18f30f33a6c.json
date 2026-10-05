@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/howth-rd-clontarf-dublin-3/6683506",
+  "fetchedAt": "2026-10-05T09:49:10.689Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/howth-rd-clontarf-dublin-3/6683506",
+  "kind": "listing",
+  "responseSha256": "3245d52bd5b43b15d3ba421a6266cb1b8347cc3087e9db8f9919c20f55242d9d",
+  "files": [
+    {
+      "path": "daft/02053-260f553790928df5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e7ecff93ec50478fb89a65351467444246b47fb8e82f54fc99c197fdb7607457",
+      "bytes": 18432
+    },
+    {
+      "path": "daft/02053-260f553790928df5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "36f57d6747d1de34713f092fd8be5ff28e60f9e7e0ed0ef10d47eec56bab8090",
+      "bytes": 8206
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=169",
+  "fetchedAt": "2026-10-05T11:41:36.009Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=169",
+  "kind": "search",
+  "responseSha256": "915fc38541847c21f71abb1ed53c433f18e4c7eb2790dddbd1b2a4f0a7ea57d6",
+  "files": [
+    {
+      "path": "myhome/04009-c969861fa96eb4f0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=169\"].SearchResults",
+      "sha256": "76df92a79a9473ada3ed47c2d40d8a43cefb6273c8ca50809e0bbca0536a6b07",
+      "bytes": 115921
+    },
+    {
+      "path": "myhome/04009-c969861fa96eb4f0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=169\"] (paging fields)",
+      "sha256": "0cba3df4edb3959df85e05cf8eebcee0c5edf734f06160b147072ba8d0a5a2aa",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/parochial-house-drogheda-street-monasterevin-co-kildare/5028469",
+    "https://www.myhome.ie/residential/brochure/171-new-ireland-road-rialto-dublin-8/5028462",
+    "https://www.myhome.ie/residential/brochure/the-glen-meadowlands-upper-rochestown-cork/4936592",
+    "https://www.myhome.ie/residential/brochure/gaulstown-drumree-meath/5028464",
+    "https://www.myhome.ie/residential/brochure/2-charlestown-green-finglas-dublin-11/5028465",
+    "https://www.myhome.ie/residential/brochure/6-radharc-na-farraige-ballymoneen-road-knocknacarra-galway-city/5028463",
+    "https://www.myhome.ie/residential/brochure/apartment-35-aran-house-custom-house-square-ifsc-dublin-1/4924152",
+    "https://www.myhome.ie/residential/brochure/29-oakview-avenue-hartstown-dublin/5028455",
+    "https://www.myhome.ie/residential/brochure/34-finn-street-stoneybatter-dublin-7/5028453",
+    "https://www.myhome.ie/residential/brochure/9-cranfield-place-sandymount-dublin-4/5028413",
+    "https://www.myhome.ie/residential/brochure/1-woodford-meadows-dublin-22-co-dublin/5028452",
+    "https://www.myhome.ie/residential/brochure/30-malachi-road-stoneybatter-dublin-7/5028445",
+    "https://www.myhome.ie/residential/brochure/fairwinds-shielmartin-road-sutton-dublin-13/5025768",
+    "https://www.myhome.ie/residential/brochure/9-shea-s-court-manor-street-stoneybatter-dublin-7/5028188",
+    "https://www.myhome.ie/residential/brochure/73-chancery-street-smithfield-dublin-7/5028439",
+    "https://www.myhome.ie/residential/brochure/49-diswellstown-manor-castleknock-dublin-15/5028443",
+    "https://www.myhome.ie/residential/brochure/quay-cottage-the-quay-ballina-co-mayo/5028442",
+    "https://www.myhome.ie/residential/brochure/24-orlagh-downs-knocklyon-dublin-16/5028441",
+    "https://www.myhome.ie/residential/brochure/20-park-heath-grangerath-drogheda-meath/5028437",
+    "https://www.myhome.ie/residential/brochure/46-lissadel-crescent-malahide-county-dublin/5028406"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=170",
+  "paginationLimited": false
+}

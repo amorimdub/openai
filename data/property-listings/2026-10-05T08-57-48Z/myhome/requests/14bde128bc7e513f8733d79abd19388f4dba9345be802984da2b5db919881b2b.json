@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=119",
+  "fetchedAt": "2026-10-05T11:15:02.659Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=119",
+  "kind": "search",
+  "responseSha256": "71c3036f141fd61b1906131a33d2826a412a68b3724864af47a2db3c37831134",
+  "files": [
+    {
+      "path": "myhome/02968-14bde128bc7e513f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=119\"].SearchResults",
+      "sha256": "a8d89c696e7aaab84e7352f9b825cb135ca8080ef2a8b015b95f56e532f3b701",
+      "bytes": 108216
+    },
+    {
+      "path": "myhome/02968-14bde128bc7e513f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=119\"] (paging fields)",
+      "sha256": "a2f7a5ccce0ed5faf5ea729f1e2d55700f02e46e3a04b1cdd18fe18cf5a937ae",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/207-ivy-exchange-dublin-1/5029833",
+    "https://www.myhome.ie/residential/brochure/5-traders-wharf-usher-s-quay-dublin-8/5029831",
+    "https://www.myhome.ie/residential/brochure/1-tur-eanna-clybaun-road-knocknacarra-galway/5029830",
+    "https://www.myhome.ie/residential/brochure/32-oakleigh-wood-dooradoyle-limerick/5028320",
+    "https://www.myhome.ie/residential/brochure/st-gabriel-s-3-caherina-tralee-kerry/5029824",
+    "https://www.myhome.ie/residential/brochure/3-kellys-bay-tide-skerries-county-dublin/5029826",
+    "https://www.myhome.ie/residential/brochure/45-fitzwilliam-point-ringsend-dublin-4/5029790",
+    "https://www.myhome.ie/residential/brochure/elderwood-rectory-road-enniscorthy-co-wexford/5029822",
+    "https://www.myhome.ie/residential/brochure/site-baltinglass-west-baltinglass-co-wicklow/5029821",
+    "https://www.myhome.ie/residential/brochure/82-coille-bheithe-nenagh-tipperary/5029816",
+    "https://www.myhome.ie/residential/brochure/31-reginald-street-south-city-centre-dublin-8/5029805",
+    "https://www.myhome.ie/residential/brochure/32-beechlawn-heights-ballinasloe-county-galway/5029814",
+    "https://www.myhome.ie/residential/brochure/29-beechlawn-heights-ballinasloe-county-galway/5029813",
+    "https://www.myhome.ie/residential/brochure/28-beechlawn-heights-ballinasloe-county-galway/5029812",
+    "https://www.myhome.ie/residential/brochure/38-abbey-glen-knockaunglass-athenry-co-galway/5029810",
+    "https://www.myhome.ie/residential/brochure/13-boderg-shannon-court-carrick-on-shannon-co-leitrim/5029809",
+    "https://www.myhome.ie/residential/brochure/the-lodge-castlecrine-sixmilebridge-co-clare/5029808",
+    "https://www.myhome.ie/residential/brochure/34-orwell-woods-rathgar-dublin-6/4994655",
+    "https://www.myhome.ie/residential/brochure/girley-fordstown-co-meath/5029806",
+    "https://www.myhome.ie/residential/brochure/belleek-road-ballyshannon-co-donegal/5029804"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=120",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=449",
+  "fetchedAt": "2026-10-05T14:05:51.906Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=449",
+  "kind": "search",
+  "responseSha256": "6e7f3ed86562cee966d769b50c93be29ff67d6c68a97a3be350a21e6cfb48058",
+  "files": [
+    {
+      "path": "myhome/09762-8d34ae87cc6b5d41-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=449\"].SearchResults",
+      "sha256": "4358ae379b37f522354ff29035465ee2c70573cd1777683e37432dcc23b16b50",
+      "bytes": 104107
+    },
+    {
+      "path": "myhome/09762-8d34ae87cc6b5d41-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=449\"] (paging fields)",
+      "sha256": "3a8ecda52104f30dc367d4704660435a90f01635e60dae5243b7b651db938d21",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/braide-rossgier-lifford-county-donegal/5008800",
+    "https://www.myhome.ie/residential/brochure/76-millrace-road-castleknock-dublin-15/5008788",
+    "https://www.myhome.ie/residential/brochure/site-loreto-crescent-rathfarnham-dublin-14/5008790",
+    "https://www.myhome.ie/residential/brochure/41-meadow-view-avondale-park-dundalk-co-louth/5008794",
+    "https://www.myhome.ie/residential/brochure/ardeskin-donegal-co-donegal/5008781",
+    "https://www.myhome.ie/residential/brochure/knockmuldowney-ballisodare-sligo/5006353",
+    "https://www.myhome.ie/residential/brochure/181-an-fiodan-doughiska-galway/5008769",
+    "https://www.myhome.ie/residential/brochure/site-10-corrig-road-dalkey-co-dublin/5008765",
+    "https://www.myhome.ie/residential/brochure/carrignafoy-avenue-carrignafoy-cobh-cork/5008723",
+    "https://www.myhome.ie/residential/brochure/belle-vue-aileach-road-buncrana-donegal/5008735",
+    "https://www.myhome.ie/residential/brochure/no-22-elderwood-castlebridge-wexford/5008734",
+    "https://www.myhome.ie/residential/brochure/9-westbury-woods-enniscorthy-co-wexford/5008729",
+    "https://www.myhome.ie/residential/brochure/5-doonbeg-house-clare-village-clarehall-dublin-13/5008718",
+    "https://www.myhome.ie/residential/brochure/63-castleview-road-clondalkin-dublin-22/5008716",
+    "https://www.myhome.ie/residential/brochure/test-bunglow-1-bansha-co-tipperary/5008708",
+    "https://www.myhome.ie/residential/brochure/19-ballyknockan-manor-leighlinbridge-co-carlow/5008702",
+    "https://www.myhome.ie/residential/brochure/16-malachi-road-stoneybatter-dublin-7-stoneybatter-dublin-7/5008690",
+    "https://www.myhome.ie/residential/brochure/57-chandlers-rest-rushbrooke-links-cobh-cork/5008687",
+    "https://www.myhome.ie/residential/brochure/62-meadowbrook-mill-road-corbally-county-limerick/5008677",
+    "https://www.myhome.ie/residential/brochure/booleenshere-ballyheigue-kerry/5002399"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=450",
+  "paginationLimited": false
+}

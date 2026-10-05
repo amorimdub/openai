@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=145",
+  "fetchedAt": "2026-10-05T11:29:05.959Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=145",
+  "kind": "search",
+  "responseSha256": "31642c0f44e4abb5de7fbffddf87239f32090a10234cae9337223942d5ff1f04",
+  "files": [
+    {
+      "path": "myhome/03510-595689aa3d291be5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=145\"].SearchResults",
+      "sha256": "d86dccb06750d8e7aa7b7d801fb9b1bf19540d8444c7f72b7a8e1e2c32692fd3",
+      "bytes": 117980
+    },
+    {
+      "path": "myhome/03510-595689aa3d291be5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=145\"] (paging fields)",
+      "sha256": "49d84c9d5bce91f12c89b54789ee67f9dbc9230ee067c8e881cb6276d6216136",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/17-millrace-garden-saggart-co-dublin/5029093",
+    "https://www.myhome.ie/residential/brochure/apt-6-block-c-grenville-court-city-centre-sth-cork-city/5029036",
+    "https://www.myhome.ie/residential/brochure/13-dangan-kilmacow-co-kilkenny/5029092",
+    "https://www.myhome.ie/residential/brochure/56-college-manor-dundalk-co-louth/5029088",
+    "https://www.myhome.ie/residential/brochure/39-lismore-park-waterford-city-co-waterford/5029084",
+    "https://www.myhome.ie/residential/brochure/3c-avalon-burrow-road-sutton-dublin-13/4986354",
+    "https://www.myhome.ie/residential/brochure/34-beechpark-cahir-tipperary/5029080",
+    "https://www.myhome.ie/residential/brochure/12-kingscourt-castlepollard-mullingar-co-westmeath/5029082",
+    "https://www.myhome.ie/residential/brochure/80-brabazon-links-golf-links-road-bettystown-meath/5028317",
+    "https://www.myhome.ie/residential/brochure/convent-road-claremorris-mayo/5028503",
+    "https://www.myhome.ie/residential/brochure/apt-30-longmeadow-conyngham-road-dublin-8/5029079",
+    "https://www.myhome.ie/residential/brochure/drumhaughley-killoe-longford-longford/5029038",
+    "https://www.myhome.ie/residential/brochure/clone-west-monamolin-gorey-wexford/5029071",
+    "https://www.myhome.ie/residential/brochure/20-ave-maria-park-moate-co-westmeath/5029067",
+    "https://www.myhome.ie/residential/brochure/14-mount-eustace-rise-tyrrelstown-dublin-15-d15-p0k8/5029066",
+    "https://www.myhome.ie/residential/brochure/2-kincora-avenue-clontarf-dublin-3/5028373",
+    "https://www.myhome.ie/residential/brochure/apartment-88-block-a-smithfield-market-smithfield-dublin-7/5029060",
+    "https://www.myhome.ie/residential/brochure/monroe-screen-co-wexford/5029063",
+    "https://www.myhome.ie/residential/brochure/19-farm-green-manor-farm-lehenaghmore-cork/5029041",
+    "https://www.myhome.ie/residential/brochure/65-the-cairns-beaubec-drogheda-co-louth/5029062"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=146",
+  "paginationLimited": false
+}

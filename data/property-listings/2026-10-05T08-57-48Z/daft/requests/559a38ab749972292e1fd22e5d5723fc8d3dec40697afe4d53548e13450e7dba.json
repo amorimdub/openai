@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/14-old-cork-road-midleton-co-cork/6662955",
+  "fetchedAt": "2026-10-05T09:19:33.694Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/14-old-cork-road-midleton-co-cork/6662955",
+  "kind": "listing",
+  "responseSha256": "4e6dd0c9e92518286721b5c9a4e5f96e0edf498d8012a7776f8d86670ad5c5bd",
+  "files": [
+    {
+      "path": "daft/00870-559a38ab74997229-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c118a5489088abca0d8b096f584404c4afaba7491bd97f8442fbd76ab3189e0c",
+      "bytes": 35223
+    },
+    {
+      "path": "daft/00870-559a38ab74997229-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cb1727d0e448012d2b6d6eecd3678d975e77f444c048ea1b12a99d7952797f7a",
+      "bytes": 8005
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

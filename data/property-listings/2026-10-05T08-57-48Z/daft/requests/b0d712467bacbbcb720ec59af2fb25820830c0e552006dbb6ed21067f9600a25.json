@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/48-barrack-street-cappoquin-co-waterford/6662885",
+  "fetchedAt": "2026-10-05T09:24:08.551Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/48-barrack-street-cappoquin-co-waterford/6662885",
+  "kind": "listing",
+  "responseSha256": "e94616a40896d5d39b1d75d8a732e77db7966274049360658f59951048b2845b",
+  "files": [
+    {
+      "path": "daft/01053-b0d712467bacbbcb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8f9a40475cf1fa92bff34b70a80bd1990e42a5a8138d641ac337a9d266113e95",
+      "bytes": 53194
+    },
+    {
+      "path": "daft/01053-b0d712467bacbbcb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1672b173cd7b63c44c0d1c3069f68ff338cc30de6bdc72d3b6bfc9ddf1913818",
+      "bytes": 8124
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

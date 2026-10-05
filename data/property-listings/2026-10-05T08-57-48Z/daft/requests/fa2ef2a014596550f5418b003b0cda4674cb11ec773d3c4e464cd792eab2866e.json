@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/knocktopher-abbey-newmarket-co-kilkenny/6577169",
+  "fetchedAt": "2026-10-05T09:22:59.448Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/knocktopher-abbey-newmarket-co-kilkenny/6577169",
+  "kind": "listing",
+  "responseSha256": "406b225a61849bcef04f4366f4137c5ff25a8dc786166a147a8bd190acf6d614",
+  "files": [
+    {
+      "path": "daft/01007-fa2ef2a014596550-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "215d5f65645f995475550bfd2ddd2ee09c46274af41c5c3c36485dd06b27cd4e",
+      "bytes": 27954
+    },
+    {
+      "path": "daft/01007-fa2ef2a014596550-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "04aaee02a4e54093a9ee3ecb3b624288cadeb2b3b0cd7eb1d9cae41d9af5f2fc",
+      "bytes": 8152
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

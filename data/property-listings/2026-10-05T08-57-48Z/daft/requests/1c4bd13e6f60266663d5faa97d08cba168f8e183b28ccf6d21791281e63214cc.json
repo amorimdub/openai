@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/150-an-fiodan-doughiska-co-galway/6649101",
+  "fetchedAt": "2026-10-05T09:46:22.413Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/150-an-fiodan-doughiska-co-galway/6649101",
+  "kind": "listing",
+  "responseSha256": "e3095e90ea4a124ce49fd54b138f42cc84d402a4c834e415d1be234b2bace11e",
+  "files": [
+    {
+      "path": "daft/01941-1c4bd13e6f602666-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c7307b6911701fc907e9ed656e912c797efa1d72ff59fa10cf16f275c66e2f3c",
+      "bytes": 75204
+    },
+    {
+      "path": "daft/01941-1c4bd13e6f602666-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "afd7c66e8c8805dd7356c8b19df61e445f6923d9de768aef7f83ae4b2c34cfcf",
+      "bytes": 8015
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

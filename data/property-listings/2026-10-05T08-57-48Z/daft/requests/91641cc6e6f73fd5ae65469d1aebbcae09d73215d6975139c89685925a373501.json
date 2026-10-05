@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-rathborne-rathborne-ashtown-co-dublin/4532029",
+  "fetchedAt": "2026-10-05T09:06:46.228Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-rathborne-rathborne-ashtown-co-dublin/4532029",
+  "kind": "listing",
+  "responseSha256": "7505415795b5a93f8c2360fff742c7106f228a4b2e1860a1e3de6ea1666324f2",
+  "files": [
+    {
+      "path": "daft/00359-91641cc6e6f73fd5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0d124b73cfe89d0c8500c731963353fe0cebe7b9f4ee884a4f29ed857e7045ee",
+      "bytes": 126535
+    },
+    {
+      "path": "daft/00359-91641cc6e6f73fd5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f94e04222713bc411762f6149c47744be772a09629777888efc8c073a9fea93",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

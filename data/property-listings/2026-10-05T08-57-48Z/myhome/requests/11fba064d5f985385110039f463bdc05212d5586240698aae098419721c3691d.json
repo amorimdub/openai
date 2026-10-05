@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=488",
+  "fetchedAt": "2026-10-05T14:25:58.929Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=488",
+  "kind": "search",
+  "responseSha256": "a9ba10d4527dae8e8d704f8691af8b96406e9dd3abb21ef969dd72d1a5bbe16e",
+  "files": [
+    {
+      "path": "myhome/10565-11fba064d5f98538-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=488\"].SearchResults",
+      "sha256": "3391a873c1efbae4f84e87a1974dee4f11a161c8de64fb2ec2a34f2763db2f6d",
+      "bytes": 99207
+    },
+    {
+      "path": "myhome/10565-11fba064d5f98538-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=488\"] (paging fields)",
+      "sha256": "1d7250374dfce517c9eecc06dbe8cc8506836fdb3d6b2bf3c3736e4da18ea8de",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/wild-acre-mountain-road-kilmoney-carrigaline-cork/5003960",
+    "https://www.myhome.ie/residential/brochure/darney-bruckless-co-donegal-clare/5003972",
+    "https://www.myhome.ie/residential/brochure/darney-bruckless-co-donegal-clare/5003970",
+    "https://www.myhome.ie/residential/brochure/54-pakenham-house-spencer-dock-ifsc-dublin-1/5003969",
+    "https://www.myhome.ie/residential/brochure/darney-bruckless-co-donegal/5003968",
+    "https://www.myhome.ie/residential/brochure/aderawinny-schull-west-cork/5002090",
+    "https://www.myhome.ie/residential/brochure/the-orient-4-bedroom-house-redford-adamstown-dublin/5003901",
+    "https://www.myhome.ie/residential/brochure/the-express-4-bedroom-house-redford-adamstown-dublin/5003894",
+    "https://www.myhome.ie/residential/brochure/30-grange-wood-rathfarnham-dublin-16/5003932",
+    "https://www.myhome.ie/residential/brochure/4-aisling-close-ballincollig-cork/5001599",
+    "https://www.myhome.ie/residential/brochure/doonmeegin-ballymote-sligo/5000458",
+    "https://www.myhome.ie/residential/brochure/mylerstown-two-mile-house-kildare/5003926",
+    "https://www.myhome.ie/residential/brochure/20-parkside-boulevard-balgriffin-dublin-13/5003910",
+    "https://www.myhome.ie/residential/brochure/gardenrath-road-kells-meath/5003902",
+    "https://www.myhome.ie/residential/brochure/castlepole-kells-meath/5003849",
+    "https://www.myhome.ie/residential/brochure/east-end-ballydehob-west-cork/4990406",
+    "https://www.myhome.ie/residential/brochure/31-35-grosvenor-square-rathmines-dublin-6/4987389",
+    "https://www.myhome.ie/residential/brochure/apartment-38-wellington-court-mountjoy-street-phibsborough-dublin-7-co-dublin/5003880",
+    "https://www.myhome.ie/residential/brochure/st-mary-s-road-ballsbridge-dublin-4/5003869",
+    "https://www.myhome.ie/residential/brochure/apartment-63-castle-mill-hamlet-lane-balbriggan-co-dublin/5003867"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=489",
+  "paginationLimited": false
+}

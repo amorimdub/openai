@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-station-view-station-view-station-view-the-crossings-adamstown-co-dublin/6469936",
+  "fetchedAt": "2026-10-05T09:03:18.987Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-station-view-station-view-station-view-the-crossings-adamstown-co-dublin/6469936",
+  "kind": "listing",
+  "responseSha256": "2bb200feac68a558082cb3dd4e2843756c099682afd1a0d831f98986b5461015",
+  "files": [
+    {
+      "path": "daft/00221-8a106e073c3180ab-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b71e8ffc6e5ed02175bb2a5a049e542b70dc17ef317113a2acd9b7ed25cb1761",
+      "bytes": 29172
+    },
+    {
+      "path": "daft/00221-8a106e073c3180ab-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4280c81bfbc8a1677d027c879aa4c10094318f6c31fb74105ec47b0965a32669",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

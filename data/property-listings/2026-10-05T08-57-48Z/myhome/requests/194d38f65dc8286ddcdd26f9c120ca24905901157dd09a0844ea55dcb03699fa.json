@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=221",
+  "fetchedAt": "2026-10-05T12:08:21.935Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=221",
+  "kind": "search",
+  "responseSha256": "c71c1617fc2c62657875ce5e4c19ce8b4302b9f8aed381fc8ab42dafbe321f26",
+  "files": [
+    {
+      "path": "myhome/05077-194d38f65dc8286d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=221\"].SearchResults",
+      "sha256": "887ea6c30427dcc6d291d197d406ff22dd42c5846529a89328282e2add88cb27",
+      "bytes": 109297
+    },
+    {
+      "path": "myhome/05077-194d38f65dc8286d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=221\"] (paging fields)",
+      "sha256": "76b6bb9d5981656cd2e8bece38ca8ffbeb24ca2f3d164fe7eab746bb7bcfa52a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/cappantymore-meelick-co-clare-meelick-clare/5027016",
+    "https://www.myhome.ie/residential/brochure/62-the-academy-building-parkwest-dublin-12/5027024",
+    "https://www.myhome.ie/residential/brochure/1-stocking-wood-green-stocking-avenue-rathfarnham-dublin/5026918",
+    "https://www.myhome.ie/residential/brochure/23-laurel-park-pollerton-carlow-county-carlow/5027021",
+    "https://www.myhome.ie/residential/brochure/3-fairy-hill-strand-road-monkstown-cork/5027014",
+    "https://www.myhome.ie/residential/brochure/trade-winds-5c-coady-s-quay-dungarvan-waterford/5026879",
+    "https://www.myhome.ie/residential/brochure/stonehaven-blessington-road-naas-kildare/4971598",
+    "https://www.myhome.ie/residential/brochure/apartment-63-eden-wood-delgany-greystones-co-wicklow/5021579",
+    "https://www.myhome.ie/residential/brochure/15a-walkinstown-park-walkinstown-dublin-12/5027019",
+    "https://www.myhome.ie/residential/brochure/25-eaton-close-rathcoole-co-dublin/5027017",
+    "https://www.myhome.ie/residential/brochure/78-ashmount-silversprings-cork/5026999",
+    "https://www.myhome.ie/residential/brochure/2g-clonmullen-hall-edenderry-offaly/5027004",
+    "https://www.myhome.ie/residential/brochure/33-d-n-r-oga-crescent-dunshaughlin-meath/5004919",
+    "https://www.myhome.ie/residential/brochure/62-norfolk-road-phibsborough-dublin-7/5027003",
+    "https://www.myhome.ie/residential/brochure/ballyshingadaun-the-neale-county-mayo/5027002",
+    "https://www.myhome.ie/residential/brochure/5-station-road-clondalkin-dublin-22/5014282",
+    "https://www.myhome.ie/residential/brochure/apartment-19-greenhills-court-tallaght-dublin-24/5016927",
+    "https://www.myhome.ie/residential/brochure/751-south-circular-road-island-bridge-dublin-8/5009323",
+    "https://www.myhome.ie/residential/brochure/15-osprey-barnageeragh-cove-skerries-co-dublin/5027000",
+    "https://www.myhome.ie/residential/brochure/4-rossmore-castlebar-mayo/5026986"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=222",
+  "paginationLimited": false
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=9",
+  "fetchedAt": "2026-10-05T09:11:04.519Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=9",
+  "kind": "search",
+  "responseSha256": "16a16bc4f54e60b213f3f34cb741da0e3c21a400b0eba92d56238ae7c9093e0f",
+  "files": [
+    {
+      "path": "daft/00531-7ba831824f097dbe-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "4b41ff0a67c7fe5cd55aac94dd5794f14ba828a300751a10e180dbfb8066f58d",
+      "bytes": 243894
+    },
+    {
+      "path": "daft/00531-7ba831824f097dbe-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00531-7ba831824f097dbe-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "8dac022b5e7338992c31afafe1c4ea8bc1366751a91cde987b3ab614a1155af7",
+      "bytes": 176
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-305-charlestown-place-finglas-dublin-11/6681501",
+    "https://www.daft.ie/for-rent/apartment-18-block-5-tallaght-dublin-24/6681473",
+    "https://www.daft.ie/for-rent/67-coldcut-park-3-bed-clondalkin-co-dublin/6681461",
+    "https://www.daft.ie/for-rent/taylor-hill-park-balbriggan-balbriggan-co-dublin/6680575",
+    "https://www.daft.ie/for-rent/34-phoenix-street-dublin-10-kilmainham-co-dublin/6671574",
+    "https://www.daft.ie/for-rent/dungourney-midleton-co-cork/6665164",
+    "https://www.daft.ie/for-rent/mine-road-coolcoulaghta-durrus-bantry-co-cork-dunmanus-co-cork/6590698",
+    "https://www.daft.ie/for-rent/62-beresford-house-custom-house-square-i-f-s-c-dublin-1-ifsc-dublin-1/6680633",
+    "https://www.daft.ie/for-rent/harcourt-green-charlemont-street-dublin-2/6635035",
+    "https://www.daft.ie/for-rent/apartment-64-the-links-elmpark-merrion-dublin-4/6680180",
+    "https://www.daft.ie/for-rent/apartment-79-the-links-elmpark-merrion-dublin-4/6680171",
+    "https://www.daft.ie/for-rent/unfurnished-stillorgan-heath-stillorgan-co-dublin-stillorgan-co-dublin/6536148",
+    "https://www.daft.ie/for-rent/apartment-278-block-7a-tallaght-cross-west-tallaght-dublin-24/6669200",
+    "https://www.daft.ie/for-rent/ballymorefinn-bohernabreena-ballinascorney-dublin-24/6677972",
+    "https://www.daft.ie/for-rent/apartment-the-lansdowne-block-pembroke-square-grand-canal-dock-dublin-4/6656173",
+    "https://www.daft.ie/for-rent/apartment-23-kennedy-plaza-the-quay-new-ross-co-wexford/6678489",
+    "https://www.daft.ie/for-rent/136-old-youghal-road-cork-ballyvolane-co-cork/6603207",
+    "https://www.daft.ie/for-rent/apartment-10-block-3a-tallaght-dublin-24/6674759",
+    "https://www.daft.ie/for-rent/opera-lane-apartments-cork-city-centre-co-cork/6639752",
+    "https://www.daft.ie/for-rent/apartment-a-2a-jamestown-road-inchicore-dublin-8/6676707"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=10",
+  "paginationLimited": false
+}

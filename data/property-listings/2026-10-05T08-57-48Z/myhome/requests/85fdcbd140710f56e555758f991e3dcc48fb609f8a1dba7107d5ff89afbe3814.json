@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=55",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=55",
+  "fetchedAt": "2026-10-05T09:40:17.179Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e608c999ef0402c3ad7b3cc30acd94c0abba71b8cbf6bd12e8d63a593f996a06",
+  "files": [
+    {
+      "path": "myhome/01693-85fdcbd140710f56-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=55\"].SearchResults",
+      "sha256": "f00bf16c4f821a4a4996a279b0c90956c3532a49e43c4b0aabe741d2b6545ea6",
+      "bytes": 108635
+    },
+    {
+      "path": "myhome/01693-85fdcbd140710f56-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=55\"] (paging fields)",
+      "sha256": "12326d98f466d87e6cf20e58883c07a6a874820fca02c214aa73fa9a3f45c095",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/95-white-oaks-wilton-cork/5029474",
+    "https://www.myhome.ie/residential/brochure/134-glasmore-park-swords-co-dublin/5029849",
+    "https://www.myhome.ie/residential/brochure/kinnakillew-glencolmcille-co-donegal/5031317",
+    "https://www.myhome.ie/residential/brochure/15-thornleigh-road-applewood-swords-co-dublin/5030098",
+    "https://www.myhome.ie/residential/brochure/apartment-49-rochford-park-kill-co-kildare/4980990",
+    "https://www.myhome.ie/residential/brochure/59-boroimhe-alder-boroimhe-swords-co-dublin/5030371",
+    "https://www.myhome.ie/residential/brochure/chestnut-house-rolestown-east-swords-co-dublin/5031240",
+    "https://www.myhome.ie/residential/brochure/19-diswellstown-court-hamilton-park-castleknock-dublin-15/5014367",
+    "https://www.myhome.ie/residential/brochure/18a-clonshaugh-crescent-clonshaugh-dublin-17/5030909",
+    "https://www.myhome.ie/residential/brochure/18-hyde-park-dundalk-louth/5031310",
+    "https://www.myhome.ie/residential/brochure/7-qa-road-unit-2-block-d-achonry-sligo/5031315",
+    "https://www.myhome.ie/residential/brochure/4-mount-eustace-walk-tyrrelstown-dublin-15/5031307",
+    "https://www.myhome.ie/residential/brochure/5-stradbrook-road-blackrock-county-dublin/5031314",
+    "https://www.myhome.ie/residential/brochure/140-donomore-crescent-tallaght-dublin-24-d24-t9rh/5031313",
+    "https://www.myhome.ie/residential/brochure/45-the-courtyard-clonsilla-dublin-15/5001142",
+    "https://www.myhome.ie/residential/brochure/24-cherryfield-close-hartstown-clonsilla-dublin-15/4990281",
+    "https://www.myhome.ie/residential/brochure/beagh-virginia-co-cavan/5031312",
+    "https://www.myhome.ie/residential/brochure/manresa-old-naas-road-dublin-12/5031311",
+    "https://www.myhome.ie/residential/brochure/3-sli-garmon-slane-meath/5031304",
+    "https://www.myhome.ie/residential/brochure/apartment-3-windmill-court-windmill-road-drogheda-co-louth/5031309"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=56",
+  "paginationLimited": false
+}

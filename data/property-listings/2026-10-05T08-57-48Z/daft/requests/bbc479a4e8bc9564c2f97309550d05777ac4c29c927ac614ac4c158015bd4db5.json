@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/serviced-studio-apartment-niche-living-rathmines-ardee-road-rathmines/5705486",
+  "fetchedAt": "2026-10-05T08:59:58.836Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/serviced-studio-apartment-niche-living-rathmines-ardee-road-rathmines/5705486",
+  "kind": "listing",
+  "responseSha256": "825e825d027d7cac44ed3535d9a4a3cc91d6afe58ca641529a5211fbd57d0bbd",
+  "files": [
+    {
+      "path": "daft/00088-bbc479a4e8bc9564-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5b6c3a88aa4d0c7b9f84f186a81eaf87f2ca09b0a1eb3b70e515cbcca476ee51",
+      "bytes": 55484
+    },
+    {
+      "path": "daft/00088-bbc479a4e8bc9564-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "42c83685efe3065118c4b29c514da015d066dda6f160cd812420f39201b9d1d1",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

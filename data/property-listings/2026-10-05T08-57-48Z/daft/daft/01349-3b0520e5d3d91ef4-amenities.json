@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "DUNSHAUGHLIN COMMUNITY NATIONAL SCH",
+      "numPupils": 116,
+      "distance": {
+        "value": 2.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.516006",
+        "lon": "-6.551909"
+      }
+    },
+    {
+      "schoolName": "DUNSANY NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 2.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.544044",
+        "lon": "-6.617460"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL NA RITHE",
+      "numPupils": 218,
+      "distance": {
+        "value": 3.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513930",
+        "lon": "-6.543275"
+      }
+    },
+    {
+      "schoolName": "ST SEACHNALL'S NATIONAL SCHOOL",
+      "numPupils": 623,
+      "distance": {
+        "value": 3.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.509018",
+        "lon": "-6.540437"
+      }
+    },
+    {
+      "schoolName": "CULMULLEN NATIONAL SCHOOL",
+      "numPupils": 115,
+      "distance": {
+        "value": 4.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.489704",
+        "lon": "-6.606356"
+      }
+    },
+    {
+      "schoolName": "PELLETSTOWN ETNS",
+      "numPupils": 388,
+      "distance": {
+        "value": 4.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.490190",
+        "lon": "-6.572034"
+      }
+    },
+    {
+      "schoolName": "KILTALE NATIONAL SCHOOL",
+      "numPupils": 114,
+      "distance": {
+        "value": 5.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524376",
+        "lon": "-6.672858"
+      }
+    },
+    {
+      "schoolName": "SKRYNE NATIONAL SCHOOL",
+      "numPupils": 209,
+      "distance": {
+        "value": 6.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.575108",
+        "lon": "-6.556911"
+      }
+    },
+    {
+      "schoolName": "KILMESSAN NATIONAL SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 6.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.560610",
+        "lon": "-6.663323"
+      }
+    },
+    {
+      "schoolName": "RATHREGAN NATIONAL SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 7.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.468380",
+        "lon": "-6.534675"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COMMUNITY COLLEGE DUNSHAUGHLIN",
+      "numPupils": 1135,
+      "distance": {
+        "value": 3.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513973",
+        "lon": "-6.549007"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE RIOGA",
+      "numPupils": 193,
+      "distance": {
+        "value": 4.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.506660",
+        "lon": "-6.536972"
+      }
+    },
+    {
+      "schoolName": "RATOATH COLLEGE",
+      "numPupils": 1112,
+      "distance": {
+        "value": 9.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.499630",
+        "lon": "-6.458262"
+      }
+    },
+    {
+      "schoolName": "DE LACY COLLEGE",
+      "numPupils": 913,
+      "distance": {
+        "value": 12.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.510750",
+        "lon": "-6.405474"
+      }
+    },
+    {
+      "schoolName": "BOYNE COMMUNITY SCHOOL",
+      "numPupils": 998,
+      "distance": {
+        "value": 13.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.550640",
+        "lon": "-6.784260"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE TRIM",
+      "numPupils": 820,
+      "distance": {
+        "value": 13.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.552498",
+        "lon": "-6.789659"
+      }
+    },
+    {
+      "schoolName": "ASHBOURNE COMMUNITY SCHOOL",
+      "numPupils": 1111,
+      "distance": {
+        "value": 13.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.504128",
+        "lon": "-6.388206"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA MÍ",
+      "numPupils": 873,
+      "distance": {
+        "value": 13.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.643536",
+        "lon": "-6.652752"
+      }
+    },
+    {
+      "schoolName": "ST. PETER'S COLLEGE",
+      "numPupils": 1227,
+      "distance": {
+        "value": 14.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.418440",
+        "lon": "-6.468892"
+      }
+    },
+    {
+      "schoolName": "SCOIL DARA",
+      "numPupils": 860,
+      "distance": {
+        "value": 14.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.402996",
+        "lon": "-6.670221"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Warrenstown",
+      "route": "111X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5118881879997",
+        "lon": "-6.61856477702799"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Warrenstown",
+      "route": "111",
+      "destination": "Delvin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5118633258938",
+        "lon": "-6.61874651853271"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunsany",
+      "route": "109B",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.541783",
+        "lon": "-6.621168"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange Hall",
+      "route": "109A",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5177739161998",
+        "lon": "-6.54573340386563"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange Hall",
+      "route": "109B",
+      "destination": "Athboy",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5167710254634",
+        "lon": "-6.54456138186466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange Hall",
+      "route": "109",
+      "destination": "Virginia",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5167710254634",
+        "lon": "-6.54456138186466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunshaughlin",
+      "route": "109A",
+      "destination": "Kells",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513391",
+        "lon": "-6.540124"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunshaughlin",
+      "route": "109",
+      "destination": "Virginia",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513391",
+        "lon": "-6.540124"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunshaughlin",
+      "route": "UM05",
+      "destination": "Kells",
+      "provider": "Streamline Coaches",
+      "distance": {
+        "value": 3.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.512453",
+        "lon": "-6.53947"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dunshaughlin",
+      "route": "109B",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.512453",
+        "lon": "-6.53947"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/morriscastle-village-kilmuckridge-co-wexford/6664474",
+  "fetchedAt": "2026-10-05T09:21:51.844Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/morriscastle-village-kilmuckridge-co-wexford/6664474",
+  "kind": "listing",
+  "responseSha256": "c430a05d8e5d111d8fceb3d548c9b488161de5e52fc6ccc3c0e7a434ee1e3ddb",
+  "files": [
+    {
+      "path": "daft/00962-17b8d22d98a4e543-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "053627c530896c42ada9b2ca189f95939fa4a49d6e6e39000f7c5d9c030110a7",
+      "bytes": 58006
+    },
+    {
+      "path": "daft/00962-17b8d22d98a4e543-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0046ea4d2805ce29de1d47af48fe1f506b3078327ac59c4d2ac9e1b66fc17817",
+      "bytes": 8104
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

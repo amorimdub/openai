@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mayeston-square-finglas-dublin-11/6683192",
+  "fetchedAt": "2026-10-05T09:50:49.885Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mayeston-square-finglas-dublin-11/6683192",
+  "kind": "listing",
+  "responseSha256": "0a58d4892246dc198b96c44fece448cb6fffa18b40641ba321902ee69d5f0683",
+  "files": [
+    {
+      "path": "daft/02119-3e623e1be829d561-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f90de6e74233e6397b46990a3df90775d608c520dafeccd7f2e6df8332860ce6",
+      "bytes": 32382
+    },
+    {
+      "path": "daft/02119-3e623e1be829d561-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9ff46736d84cc19b1cc0311deb95c4fca4b0ebdae579571c139e07c234e728d7",
+      "bytes": 8048
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

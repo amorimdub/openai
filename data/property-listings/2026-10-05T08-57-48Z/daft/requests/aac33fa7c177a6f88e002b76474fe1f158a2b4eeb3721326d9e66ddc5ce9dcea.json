@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-dromard-apartments-summerhill-co-meath/6684981",
+  "fetchedAt": "2026-10-05T09:39:36.763Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-dromard-apartments-summerhill-co-meath/6684981",
+  "kind": "listing",
+  "responseSha256": "ab0a591bd48ff85dc103922698939f0c8266a7fd8755d5216e57a8b45b713cce",
+  "files": [
+    {
+      "path": "daft/01671-aac33fa7c177a6f8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "97e2a2dee4e6956c9fbf7ad44979f199f67337b66d37d6ba744cab2f30a05782",
+      "bytes": 13756
+    },
+    {
+      "path": "daft/01671-aac33fa7c177a6f8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0483b6382c82b3c2d5d2eab0111e67c105c5c4834843b54ace428520ca5cbb0b",
+      "bytes": 8036
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

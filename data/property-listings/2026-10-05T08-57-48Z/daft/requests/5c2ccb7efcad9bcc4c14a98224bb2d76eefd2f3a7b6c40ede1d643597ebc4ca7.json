@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/the-lodge-castle-road-blackrock-cork/5846694",
+  "fetchedAt": "2026-10-05T09:13:00.186Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/the-lodge-castle-road-blackrock-cork/5846694",
+  "kind": "listing",
+  "responseSha256": "9592c67abc3313e4b585b51005830b87f8f8a09bbfb882fbbbaf4d2f6775f015",
+  "files": [
+    {
+      "path": "daft/00608-5c2ccb7efcad9bcc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "81f9a0eba122b3325fe7f0d781bcbdc9b0f934871f3e6158ec3c037924163df7",
+      "bytes": 89206
+    },
+    {
+      "path": "daft/00608-5c2ccb7efcad9bcc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b06b33d54386dfa93f91f07a468b85ad683a31b7a5ee020a3cd28d7010a0d076",
+      "bytes": 8047
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=277",
+  "fetchedAt": "2026-10-05T12:37:42.547Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=277",
+  "kind": "search",
+  "responseSha256": "957b16ec4aec80620354741ab1d8351f67861b303e67bbf4d4685ba61ea7f356",
+  "files": [
+    {
+      "path": "myhome/06248-ac1d61c7abf04895-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=277\"].SearchResults",
+      "sha256": "904f9fca3bf07f895df661642319acd80cb0da4eee34d82029cc53ec96879a8e",
+      "bytes": 117016
+    },
+    {
+      "path": "myhome/06248-ac1d61c7abf04895-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=277\"] (paging fields)",
+      "sha256": "a7f1707a4431982024d664b79c52fedf8ae03dda5666cd80d643103dac434b99",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/carrig-ban-ballykea-loughshinny-co-dublin/5025174",
+    "https://www.myhome.ie/residential/brochure/180-silverlawn-navan-meath/5025114",
+    "https://www.myhome.ie/residential/brochure/20-barrack-street-cork-city/4907841",
+    "https://www.myhome.ie/residential/brochure/st-michael-s-road-gorey-wexford/5025168",
+    "https://www.myhome.ie/residential/brochure/no-21a-no-21b-king-st-wexford-town-co-wexford/5025167",
+    "https://www.myhome.ie/residential/brochure/75-morehampton-square-donnybrook-dublin-4/5025129",
+    "https://www.myhome.ie/residential/brochure/25-harmony-avenue-donnybrook-dublin-4/4964891",
+    "https://www.myhome.ie/residential/brochure/1-duffsfarm-termonfeckin-co-louth/5025161",
+    "https://www.myhome.ie/residential/brochure/ballyfilibeen-mourneabbey-co-cork/5025160",
+    "https://www.myhome.ie/residential/brochure/mornington-saval-park-road-dalkey-co-dublin/5003679",
+    "https://www.myhome.ie/residential/brochure/cloonlaheen-middle-mullagh-county-clare/5025154",
+    "https://www.myhome.ie/residential/brochure/moyleen-loughrea-co-galway/5025152",
+    "https://www.myhome.ie/residential/brochure/132-meadow-park-churchtown-dublin-14/4970493",
+    "https://www.myhome.ie/residential/brochure/apartment-104-the-clayton-the-gasworks-south-lotts-road-ringsend-dublin-4/5025145",
+    "https://www.myhome.ie/residential/brochure/sarnaught-lodge-sanaught-pontoon-road-castlebar-mayo/5023578",
+    "https://www.myhome.ie/residential/brochure/44-poolbeg-quay-pigeon-house-road-ringsend-dublin-4/5008848",
+    "https://www.myhome.ie/residential/brochure/13-emmett-place-st-joseph-street-limerick-city-limerick/5025115",
+    "https://www.myhome.ie/residential/brochure/80-ballymun-road-glasnevin-dublin-9/5004298",
+    "https://www.myhome.ie/residential/brochure/32-ballygall-road-east-glasnevin-dublin-11/4998991",
+    "https://www.myhome.ie/residential/brochure/st-marys-gate-lodge-5b-griffith-avenue-drumcondra-dublin-9/4959943"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=278",
+  "paginationLimited": false
+}

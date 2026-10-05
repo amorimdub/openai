@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CLIFFONEY NATIONAL SCHOOL",
+      "numPupils": 83,
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.430443",
+        "lon": "-8.453034"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE CARNS",
+      "numPupils": 39,
+      "distance": {
+        "value": 3.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.411007",
+        "lon": "-8.493593"
+      }
+    },
+    {
+      "schoolName": "ST AIDAN'S BALLINTRILLICK",
+      "numPupils": 19,
+      "distance": {
+        "value": 3.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.407000",
+        "lon": "-8.407227"
+      }
+    },
+    {
+      "schoolName": "CASTLEGAL NATIONAL SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 4.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.455322",
+        "lon": "-8.397034"
+      }
+    },
+    {
+      "schoolName": "SCOIL NAOMH MOLAISE",
+      "numPupils": 269,
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.393090",
+        "lon": "-8.526041"
+      }
+    },
+    {
+      "schoolName": "FOUR MASTERS NATIONAL SCHOOL",
+      "numPupils": 266,
+      "distance": {
+        "value": 10.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.445995",
+        "lon": "-8.288970"
+      }
+    },
+    {
+      "schoolName": "ST MACARTAN'S NATIONAL SCHOOL",
+      "numPupils": 282,
+      "distance": {
+        "value": 12.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.475800",
+        "lon": "-8.281631"
+      }
+    },
+    {
+      "schoolName": "RATHCORMAC NATIONAL SCHOOL",
+      "numPupils": 253,
+      "distance": {
+        "value": 12.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.317020",
+        "lon": "-8.478863"
+      }
+    },
+    {
+      "schoolName": "SCOIL PÁDRAIG NAOFA",
+      "numPupils": 66,
+      "distance": {
+        "value": 14.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.347202",
+        "lon": "-8.620757"
+      }
+    },
+    {
+      "schoolName": "ST. CECILIA'S SCHOOL",
+      "numPupils": 82,
+      "distance": {
+        "value": 14.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.305190",
+        "lon": "-8.515904"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "GRANGE POST PRIMARY SCHOOL",
+      "numPupils": 281,
+      "distance": {
+        "value": 6.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.391620",
+        "lon": "-8.522493"
+      }
+    },
+    {
+      "schoolName": "MAGH ENE COLLEGE",
+      "numPupils": 354,
+      "distance": {
+        "value": 12.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.475155",
+        "lon": "-8.279327"
+      }
+    },
+    {
+      "schoolName": "BALLINODE COLLEGE",
+      "numPupils": 246,
+      "distance": {
+        "value": 16.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.279087",
+        "lon": "-8.459239"
+      }
+    },
+    {
+      "schoolName": "URSULINE COLLEGE",
+      "numPupils": 632,
+      "distance": {
+        "value": 17.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.275740",
+        "lon": "-8.487783"
+      }
+    },
+    {
+      "schoolName": "SLIGO GRAMMAR SCHOOL",
+      "numPupils": 495,
+      "distance": {
+        "value": 17.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.273235",
+        "lon": "-8.462927"
+      }
+    },
+    {
+      "schoolName": "MERCY COLLEGE",
+      "numPupils": 676,
+      "distance": {
+        "value": 17.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.267334",
+        "lon": "-8.466908"
+      }
+    },
+    {
+      "schoolName": "SUMMERHILL COLLEGE",
+      "numPupils": 1108,
+      "distance": {
+        "value": 18.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.266980",
+        "lon": "-8.479685"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOLMCILLE",
+      "numPupils": 700,
+      "distance": {
+        "value": 19.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.503242",
+        "lon": "-8.184289"
+      }
+    },
+    {
+      "schoolName": "ST. CLARE'S COMPREHENSIVE SCHOOL",
+      "numPupils": 519,
+      "distance": {
+        "value": 22.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.301920",
+        "lon": "-8.176970"
+      }
+    },
+    {
+      "schoolName": "ST. CATHERINE'S VOCATIONAL SCHOOL",
+      "numPupils": 366,
+      "distance": {
+        "value": 23.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.639240",
+        "lon": "-8.437366"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Cliffony",
+      "route": "982",
+      "destination": "Ballyshannon",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.4298942938264",
+        "lon": "-8.45501075219614"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cliffony",
+      "route": "480",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.4298942938264",
+        "lon": "-8.45501075219614"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cliffony",
+      "route": "64",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.4298942938264",
+        "lon": "-8.45501075219614"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Creevykeel",
+      "route": "982",
+      "destination": "Ballyshannon",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.438747",
+        "lon": "-8.434776"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mount Temple",
+      "route": "982",
+      "destination": "Sligo Station",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 3.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.410951",
+        "lon": "-8.49436"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mullaghmore",
+      "route": "982",
+      "destination": "Mullaghmore",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 4.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.46439",
+        "lon": "-8.45053"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange",
+      "route": "982",
+      "destination": "Ballyshannon",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 5.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.3930735685696",
+        "lon": "-8.52340098399301"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange",
+      "route": "480",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.3930735685696",
+        "lon": "-8.52340098399301"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange",
+      "route": "64",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.3930008210674",
+        "lon": "-8.52360023052353"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Grange",
+      "route": "964",
+      "destination": "ATU Galway",
+      "provider": "Bus Feda",
+      "distance": {
+        "value": 5.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.3930008210674",
+        "lon": "-8.52360023052353"
+      }
+    }
+  ]
+}

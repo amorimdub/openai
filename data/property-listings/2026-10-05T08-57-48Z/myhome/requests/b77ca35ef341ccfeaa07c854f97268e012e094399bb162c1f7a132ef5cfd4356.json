@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=41",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=41",
+  "fetchedAt": "2026-10-05T09:33:03.123Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "fec85c03de99822dedefabfcd0cd36d6a87909133c83be6d77351550204d9a89",
+  "files": [
+    {
+      "path": "myhome/01404-b77ca35ef341ccfe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=41\"].SearchResults",
+      "sha256": "e2bd2d16cbe980f44f76cb333ec9d379f5c404767ae5e8308667899b886dbd73",
+      "bytes": 103990
+    },
+    {
+      "path": "myhome/01404-b77ca35ef341ccfe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=41\"] (paging fields)",
+      "sha256": "3514824dbaa7dbaaf9be8f300980b714fbfb21b69003bc51367bce37c9be29cd",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-alden-park-sutton-dublin-13/5031537",
+    "https://www.myhome.ie/residential/brochure/71-hunters-way-hunterswood-ballycullen-dublin-24/5027954",
+    "https://www.myhome.ie/residential/brochure/39-the-mill-cloondara-co-longford/5031536",
+    "https://www.myhome.ie/residential/brochure/no-4-cedarwood-avenue-loughboy-kilkenny-kilkenny/5030383",
+    "https://www.myhome.ie/residential/brochure/32-royal-terrace-west-dun-laoghaire-county-dublin/5028277",
+    "https://www.myhome.ie/residential/brochure/34-the-poplars-monkstown-county-dublin/5015254",
+    "https://www.myhome.ie/residential/brochure/apt-25-bartra-rock-harbour-road-dalkey-county-dublin/5019773",
+    "https://www.myhome.ie/residential/brochure/2-doonanore-park-glenageary-county-dublin/5026189",
+    "https://www.myhome.ie/residential/brochure/11-monkstown-square-monkstown-avenue-monkstown-county-dublin/5031175",
+    "https://www.myhome.ie/residential/brochure/32-anne-devlin-avenue-rathfarnham-dublin-14/5016780",
+    "https://www.myhome.ie/residential/brochure/56-pembroke-road-ballsbridge-dublin-4/5024677",
+    "https://www.myhome.ie/residential/brochure/54a-baggot-lane-ballsbridge-dublin-4/5024694",
+    "https://www.myhome.ie/residential/brochure/apt-1-ashley-court-31-clyde-court-ballsbridge-dublin-4/5025417",
+    "https://www.myhome.ie/residential/brochure/apartment-87-block-3-the-watermill-raheny-dublin-5/5026744",
+    "https://www.myhome.ie/residential/brochure/apartment-30-block-b-altamont-hall-stoney-road-dundrum-dublin-14/5030417",
+    "https://www.myhome.ie/residential/brochure/166-millpark-old-nangor-road-dublin-22/5030168",
+    "https://www.myhome.ie/residential/brochure/13-boroimhe-hazel-swords-county-dublin/5027572",
+    "https://www.myhome.ie/residential/brochure/166-mulvey-park-dundrum-dublin-14/4998162",
+    "https://www.myhome.ie/residential/brochure/apartment-3-block-3-grange-lodge-avenue-clongriffin-dublin-13/5026810",
+    "https://www.myhome.ie/residential/brochure/54-clearstream-court-finglas-dublin-11/5026086"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=42",
+  "paginationLimited": false
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST KILLIANS SPEC  SCH",
+      "numPupils": 102,
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.914585",
+        "lon": "-8.431879"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE AGUS EOIN",
+      "numPupils": 300,
+      "distance": {
+        "value": 0.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912980",
+        "lon": "-8.424204"
+      }
+    },
+    {
+      "schoolName": "CARA JUNIOR SCHOOL",
+      "numPupils": 72,
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917088",
+        "lon": "-8.425361"
+      }
+    },
+    {
+      "schoolName": "ST. PAUL'S SCHOOL",
+      "numPupils": 92,
+      "distance": {
+        "value": 0.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907394",
+        "lon": "-8.437640"
+      }
+    },
+    {
+      "schoolName": "SCOIL EANNA",
+      "numPupils": 72,
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907314",
+        "lon": "-8.438824"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL AN GHOIRT ÁLAINN",
+      "numPupils": 375,
+      "distance": {
+        "value": 0.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908646",
+        "lon": "-8.441823"
+      }
+    },
+    {
+      "schoolName": "BONNINGTON SPECIAL SCHOOL",
+      "numPupils": 130,
+      "distance": {
+        "value": 0.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.906820",
+        "lon": "-8.438550"
+      }
+    },
+    {
+      "schoolName": "NEW INN NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 1.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.919950",
+        "lon": "-8.412974"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S GIRLS NATIONAL SCHOOL",
+      "numPupils": 134,
+      "distance": {
+        "value": 1.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908302",
+        "lon": "-8.454533"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S BOYS' SCHOOL",
+      "numPupils": 166,
+      "distance": {
+        "value": 1.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907566",
+        "lon": "-8.454689"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MAYFIELD COMMUNITY SCHOOL",
+      "numPupils": 345,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912518",
+        "lon": "-8.443581"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908325",
+        "lon": "-8.454953"
+      }
+    },
+    {
+      "schoolName": "ST. AIDAN'S COMMUNITY COLLEGE",
+      "numPupils": 329,
+      "distance": {
+        "value": 2.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.921143",
+        "lon": "-8.462548"
+      }
+    },
+    {
+      "schoolName": "URSULINE COLLEGE BLACKROCK",
+      "numPupils": 359,
+      "distance": {
+        "value": 2.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895750",
+        "lon": "-8.416107"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN PHIARSAIGH",
+      "numPupils": 576,
+      "distance": {
+        "value": 2.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.918180",
+        "lon": "-8.398419"
+      }
+    },
+    {
+      "schoolName": "ASHTON SCHOOL",
+      "numPupils": 532,
+      "distance": {
+        "value": 2.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893370",
+        "lon": "-8.452039"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS COLLEGE",
+      "numPupils": 912,
+      "distance": {
+        "value": 2.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903620",
+        "lon": "-8.467769"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE",
+      "numPupils": 429,
+      "distance": {
+        "value": 2.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.902218",
+        "lon": "-8.468075"
+      }
+    },
+    {
+      "schoolName": "ST. ANGELA'S COLLEGE",
+      "numPupils": 608,
+      "distance": {
+        "value": 2.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.902706",
+        "lon": "-8.470994"
+      }
+    },
+    {
+      "schoolName": "CORK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 409,
+      "distance": {
+        "value": 3.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892235",
+        "lon": "-8.402829"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Glenamoy Ln",
+      "route": "208",
+      "destination": "Curraheen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.913467",
+        "lon": "-8.433473"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mayfield SC",
+      "route": "201",
+      "destination": "University Hospital",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.913959",
+        "lon": "-8.429204"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mayfield SC",
+      "route": "208",
+      "destination": "St. Patrick Street",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.913959",
+        "lon": "-8.429204"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mayfield SC",
+      "route": "209",
+      "destination": "Lotamore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.913959",
+        "lon": "-8.429204"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lagan Grove",
+      "route": "201",
+      "destination": "University Hospital",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.9160158954809",
+        "lon": "-8.42958735738916"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Colmcille Avenue",
+      "route": "209",
+      "destination": "Lotamore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.9104410326841",
+        "lon": "-8.43491190325674"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Colmcille Avenue",
+      "route": "208",
+      "destination": "Lotabeg",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.9104410326841",
+        "lon": "-8.43491190325674"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kerry Road",
+      "route": "209",
+      "destination": "Lotamore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.910223",
+        "lon": "-8.430709"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kerry Road",
+      "route": "208",
+      "destination": "Lotabeg",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.910223",
+        "lon": "-8.430709"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Liffey Park",
+      "route": "201",
+      "destination": "Lotabeg",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.916857",
+        "lon": "-8.435614"
+      }
+    }
+  ]
+}

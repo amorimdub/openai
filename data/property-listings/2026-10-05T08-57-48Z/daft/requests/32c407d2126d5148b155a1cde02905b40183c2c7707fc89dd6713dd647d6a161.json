@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/23-pebble-grove-pebble-beach-tramore-co-waterford/6685537",
+  "fetchedAt": "2026-10-05T09:35:42.516Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/23-pebble-grove-pebble-beach-tramore-co-waterford/6685537",
+  "kind": "listing",
+  "responseSha256": "96ab1cf105fcaa1d58f95e9c7662782d811c36165fafba7c7b945483e2fb4dcb",
+  "files": [
+    {
+      "path": "daft/01515-32c407d2126d5148-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "afccb143b2a6993772cc35e646407eaf66b454755e76d417dd095e5cf5862da9",
+      "bytes": 32869
+    },
+    {
+      "path": "daft/01515-32c407d2126d5148-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "898e9bcde84e0ac755f5fc69ed45bf368b641bb9d892047004f35643ea557e82",
+      "bytes": 8103
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-hanover-mills-dublin-2/6646609",
+  "fetchedAt": "2026-10-05T09:22:50.433Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-hanover-mills-dublin-2/6646609",
+  "kind": "listing",
+  "responseSha256": "4ed475f2dcdea8377b9095e49e2284d00ddf0e89ab74104d3132dcbc6f066b1e",
+  "files": [
+    {
+      "path": "daft/01001-91d0cf01b26c429a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e3ac736256c8ff152821f5146971f6aa31e28884c2a7f0f125e779c393cb8ae5",
+      "bytes": 9440
+    },
+    {
+      "path": "daft/01001-91d0cf01b26c429a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f9e909fea07bf8ec91519ea08e6380c6f40562b5d0241926c582f30d6b03f00e",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

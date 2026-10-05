@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=19",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=19",
+  "fetchedAt": "2026-10-05T09:15:10.161Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "796a7ba8e765e37acc11af4038dfd8ad47f890e41eb1284ca23fb579cec97b6e",
+  "files": [
+    {
+      "path": "myhome/00690-f4e78fb32a182df8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=19\"].SearchResults",
+      "sha256": "322680d766b79a72c84ff90a61422666dbbde159e7ca9df6d943778f5539e900",
+      "bytes": 88947
+    },
+    {
+      "path": "myhome/00690-f4e78fb32a182df8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=19\"] (paging fields)",
+      "sha256": "9674dd5a2287a7c7a3ebf0e23317ad5b8cb25e824fd6c91049227929066fafb7",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/alta-verde-cross-avenue-blackrock-dublin/4925324",
+    "https://www.myhome.ie/rentals/brochure/alta-verde-cross-avenue-blackrock-dublin/4925336",
+    "https://www.myhome.ie/rentals/brochure/2-taney-manor-dundrum-dublin-14/5023013",
+    "https://www.myhome.ie/rentals/brochure/school-house-delgany-co-wicklow/5022723",
+    "https://www.myhome.ie/rentals/brochure/newmarket-square-wards-hill-dublin-8/5022628",
+    "https://www.myhome.ie/rentals/brochure/reenmurragha-skibbereen-west-cork/4919308",
+    "https://www.myhome.ie/rentals/brochure/dromcarra-avenue-tallaght-dublin-24/5022065",
+    "https://www.myhome.ie/rentals/brochure/beechpark-wood-leixlip-co-kildare/5021984",
+    "https://www.myhome.ie/rentals/brochure/teachers-house-coolboy-tinahely-wicklow/5021719",
+    "https://www.myhome.ie/rentals/brochure/the-penthouse-smithfield-market-block-b-dublin-7-dublin/5008280",
+    "https://www.myhome.ie/rentals/brochure/cuil-duin-walk-citywest-co-dublin/5021650",
+    "https://www.myhome.ie/rentals/brochure/glebe-square-newcastle-co-dublin/5021538",
+    "https://www.myhome.ie/rentals/brochure/belfry-square-citywest-co-dublin-room-a/5021531",
+    "https://www.myhome.ie/rentals/brochure/belfry-square-citywest-co-dublin-room-c/5021521",
+    "https://www.myhome.ie/rentals/brochure/belfry-square-citywest-co-dublin-room-b/5021513",
+    "https://www.myhome.ie/rentals/brochure/eaton-terrace-rathcoole-co-dublin/5021496",
+    "https://www.myhome.ie/rentals/brochure/the-courthouse-rathcoole-co-dublin/5021480",
+    "https://www.myhome.ie/rentals/brochure/2-tydavnet-tydavnet-monaghan/5021357",
+    "https://www.myhome.ie/rentals/brochure/crumlin-road-crumlin-dublin-12/5020981",
+    "https://www.myhome.ie/rentals/brochure/ard-mor-close-tallaght-dublin-24/5020978"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=20",
+  "paginationLimited": false
+}

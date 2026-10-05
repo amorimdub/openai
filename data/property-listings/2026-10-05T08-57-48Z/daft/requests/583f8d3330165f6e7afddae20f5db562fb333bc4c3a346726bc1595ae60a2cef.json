@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-cornerstone-lower-kilmacud-road-stillorgan-co-dublin/5650337",
+  "fetchedAt": "2026-10-05T08:58:39.241Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-cornerstone-lower-kilmacud-road-stillorgan-co-dublin/5650337",
+  "kind": "listing",
+  "responseSha256": "7ec35b4b25a5d70f935c845a08bcf1a99a95f96f1b280e8004e1a3a6316f65d8",
+  "files": [
+    {
+      "path": "daft/00035-583f8d3330165f6e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "66e4e87bd1c10d5c4d8898c7774aa24359e0b077bdcbcfffed3e1e8a2a164f63",
+      "bytes": 297820
+    },
+    {
+      "path": "daft/00035-583f8d3330165f6e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b57396adcfc0ae586d2a13eedfe9d60a6f54d7fc708b3f8f9fe81e1de7ac5103",
+      "bytes": 8088
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

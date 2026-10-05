@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-glenryan-mews-blarney-street-cork-sundays-well-co-cork/6682007",
+  "fetchedAt": "2026-10-05T09:11:31.544Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-glenryan-mews-blarney-street-cork-sundays-well-co-cork/6682007",
+  "kind": "listing",
+  "responseSha256": "24a04c7326915bab47ba2f1b4cb774fdf85fb631efc8c5034ca77c810dc71c02",
+  "files": [
+    {
+      "path": "daft/00549-8909838fe1f76692-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "69fd06a4d5a3db489c861c21c41f3bfa55a741c17e87c2395cfe002afb15ac56",
+      "bytes": 45015
+    },
+    {
+      "path": "daft/00549-8909838fe1f76692-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bfc6367dac12715239c2dae5d6147a22feade444334828fb5480b40734d58099",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

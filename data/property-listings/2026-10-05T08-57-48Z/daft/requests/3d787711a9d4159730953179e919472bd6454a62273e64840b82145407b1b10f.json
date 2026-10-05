@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/south-circular-road-rialto-dublin-8/6683748",
+  "fetchedAt": "2026-10-05T09:47:49.570Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/south-circular-road-rialto-dublin-8/6683748",
+  "kind": "listing",
+  "responseSha256": "5d264f2ef94ef5b6bf4898564e69040aeabfb4bc6c952a339bbc42dce8e85620",
+  "files": [
+    {
+      "path": "daft/01999-3d787711a9d41597-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9a5e6e9f868f9bf265646d2f42a6cc84cc7a2fbb7fd7d29867ef6c41ebd2352d",
+      "bytes": 14192
+    },
+    {
+      "path": "daft/01999-3d787711a9d41597-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8dc5d092b896854dde894868b31069b6eb94dd25f76dc0f28a2129f2fee1e364",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

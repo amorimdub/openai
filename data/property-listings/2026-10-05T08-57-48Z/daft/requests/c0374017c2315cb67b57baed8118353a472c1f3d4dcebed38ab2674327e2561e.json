@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/pier-road-leckanvy-co-mayo/6683961",
+  "fetchedAt": "2026-10-05T09:45:55.360Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/pier-road-leckanvy-co-mayo/6683961",
+  "kind": "listing",
+  "responseSha256": "545899f3d0846bc2190f94eebf6cc26f32c6899b02f3e81b506c3877c9abe307",
+  "files": [
+    {
+      "path": "daft/01923-c0374017c2315cb6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "31f4283a7b3362e0f99aa91484482365bb734dd69ea4be21e8562e518e086605",
+      "bytes": 37691
+    },
+    {
+      "path": "daft/01923-c0374017c2315cb6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "be4af08b28e80a98fc7666f9b56536838eec4d2b20103f179ac28ea657f54244",
+      "bytes": 7986
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

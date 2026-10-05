@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=185",
+  "fetchedAt": "2026-10-05T11:49:55.694Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=185",
+  "kind": "search",
+  "responseSha256": "6701c70284715073875325dff02beae77491fe7f6d5c4fd8d138ce6024b02c03",
+  "files": [
+    {
+      "path": "myhome/04341-a0bdcb5b1162bb02-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=185\"].SearchResults",
+      "sha256": "303fad9afd2d035a61d29cd8868264792d7a07635bb3dd0751ca3f52a10212ff",
+      "bytes": 116240
+    },
+    {
+      "path": "myhome/04341-a0bdcb5b1162bb02-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=185\"] (paging fields)",
+      "sha256": "21eea457852a8db28d7e84edde24b0c47be57ebe6b356311e7e143db769f3b75",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/thatch-cottage-riverstown-rathfeigh-navan-meath/5028013",
+    "https://www.myhome.ie/residential/brochure/the-wood-kildalkey-county-meath/5028026",
+    "https://www.myhome.ie/residential/brochure/gortatleva-claregalway-co-galway/5028023",
+    "https://www.myhome.ie/residential/brochure/flanmur-lynches-cross-tullyallen-louth/5027897",
+    "https://www.myhome.ie/residential/brochure/67-leeson-street-upper-donnybrook-dublin-4/5028000",
+    "https://www.myhome.ie/residential/brochure/residence-at-carrowbrowne-galway/5028002",
+    "https://www.myhome.ie/residential/brochure/apartment-14-block-a-city-gate-sligo/5027990",
+    "https://www.myhome.ie/residential/brochure/48-daleview-road-swords-county-dublin/5013494",
+    "https://www.myhome.ie/residential/brochure/13-bellgree-woods-tyrrelstown-dublin-15/5028018",
+    "https://www.myhome.ie/residential/brochure/60-ballyfermot-avenue-ballyfermot-dublin-10/5028016",
+    "https://www.myhome.ie/residential/brochure/7-phoenix-park-way-phoenix-park-racecourse-dublin-15/5028015",
+    "https://www.myhome.ie/residential/brochure/apartment-512-aviary-house-windmill-street-limerick-city-centre-limerick-limerick-city/5028010",
+    "https://www.myhome.ie/residential/brochure/44-hawthorn-hill-newtowncunningham-co-donegal/5028012",
+    "https://www.myhome.ie/residential/brochure/10-drury-park-saggart-co-dublin/5028011",
+    "https://www.myhome.ie/residential/brochure/5-richmond-way-killarney-road-bray-co-wicklow/5028009",
+    "https://www.myhome.ie/residential/brochure/22-the-abbey-cahir-county-tipperary/5028007",
+    "https://www.myhome.ie/residential/brochure/455-casement-road-finglas-dublin-11/5028004",
+    "https://www.myhome.ie/residential/brochure/80-friars-green-tullow-road-carlow-town-carlow/5017684",
+    "https://www.myhome.ie/residential/brochure/201-the-links-elm-park-merrion-dublin-4/5027955",
+    "https://www.myhome.ie/residential/brochure/93-friars-green-carlow-town-carlow/5025231"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=186",
+  "paginationLimited": false
+}

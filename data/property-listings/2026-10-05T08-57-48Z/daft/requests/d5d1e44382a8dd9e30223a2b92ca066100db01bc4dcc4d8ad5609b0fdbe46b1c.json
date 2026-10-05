@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/9-sion-row-dock-road-ferrybank-waterford-ferrybank-co-waterford/6686717",
+  "fetchedAt": "2026-10-05T09:26:16.251Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/9-sion-row-dock-road-ferrybank-waterford-ferrybank-co-waterford/6686717",
+  "kind": "listing",
+  "responseSha256": "77712b56bc024f45fcb78f81f6b600c976dcb89a4ee3860555a5e42c11586770",
+  "files": [
+    {
+      "path": "daft/01138-d5d1e44382a8dd9e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5d96e0a87dcf3571ee3a936cf5488cbeed4d395068360e77d71d0866a48c5d20",
+      "bytes": 49574
+    },
+    {
+      "path": "daft/01138-d5d1e44382a8dd9e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "62a0f298361d65aa7bf69410af01b0e3d0a253e985b0bc5a40a76c4839cc8536",
+      "bytes": 8229
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

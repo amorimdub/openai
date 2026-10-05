@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-oneill-court-main-street-belmayne-dublin-17/5987931",
+  "fetchedAt": "2026-10-05T09:00:40.877Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-oneill-court-main-street-belmayne-dublin-17/5987931",
+  "kind": "listing",
+  "responseSha256": "a418cd23ac48c51f17736606582bda7fe534bc35596d701d519edf28691ed6c5",
+  "files": [
+    {
+      "path": "daft/00116-55c206d6cedceb57-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4d27e7d168a7c361dba04e191f347ba019eccdd4e3c9ed4aebe38c93145c1bc0",
+      "bytes": 40619
+    },
+    {
+      "path": "daft/00116-55c206d6cedceb57-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f1a9efb6ca76bba7fdc6cc40564d5693cc5d42fd9162e3971f1d69834fa8529f",
+      "bytes": 8076
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

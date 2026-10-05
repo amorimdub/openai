@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/leinster-road-rathmines-dublin-6/6683606",
+  "fetchedAt": "2026-10-05T09:48:43.649Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/leinster-road-rathmines-dublin-6/6683606",
+  "kind": "listing",
+  "responseSha256": "ff2208991e2e46c2d6f3e10cb37fded11f4efe4a82bed3f1e89e43f5ab4609fe",
+  "files": [
+    {
+      "path": "daft/02035-36f98def3b98c2ef-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "47e1cb09ccf6be61d83de98b9dbf283377b0dceb2e38fb8c5d7c7f198ee8bb93",
+      "bytes": 9586
+    },
+    {
+      "path": "daft/02035-36f98def3b98c2ef-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "951551369afa87c4275ef57eeb32488bd6dfea9b7926dbef049ffdc4071f19e1",
+      "bytes": 8153
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

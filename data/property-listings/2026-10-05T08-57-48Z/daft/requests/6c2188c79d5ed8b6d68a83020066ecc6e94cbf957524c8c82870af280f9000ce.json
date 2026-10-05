@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/20-hilton-gardens-ballinteer-dublin-16/6650238",
+  "fetchedAt": "2026-10-05T09:04:05.546Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/20-hilton-gardens-ballinteer-dublin-16/6650238",
+  "kind": "listing",
+  "responseSha256": "e08a91891816c53eaed6e599520f1a1293e3d877ebe84ac7db2bd30a0d07b574",
+  "files": [
+    {
+      "path": "daft/00252-6c2188c79d5ed8b6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5adb7c2d3d70532974a7f716128c05ca3b1608c0ddd5db5c591591296cd82315",
+      "bytes": 55312
+    },
+    {
+      "path": "daft/00252-6c2188c79d5ed8b6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ceb056c044cd1a1688431981e131b5ecf5337ed2dce2ea97b3c1dcb221a08044",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

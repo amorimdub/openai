@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/51-whitestown-park-dublin-15/6666055",
+  "fetchedAt": "2026-10-05T09:25:22.176Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/51-whitestown-park-dublin-15/6666055",
+  "kind": "listing",
+  "responseSha256": "da7c5b5f02abdc9742fb2c1ff3af6e3e5640e2b684c6c80489453d4718e5c6af",
+  "files": [
+    {
+      "path": "daft/01102-d8379f1b160b59fd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "41f7e414e6e09455b217639b848369a8bcf71bf37ddb068be5b4aab4be0a5314",
+      "bytes": 66722
+    },
+    {
+      "path": "daft/01102-d8379f1b160b59fd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ec1054bafa901b7a35d36a43a62f082ed6cd0660027f68d5db557cbd007e7c12",
+      "bytes": 8123
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

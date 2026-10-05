@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/main-street-kinnegad-co-westmeath/6669681",
+  "fetchedAt": "2026-10-05T09:30:43.693Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/main-street-kinnegad-co-westmeath/6669681",
+  "kind": "listing",
+  "responseSha256": "f075e13de044233ed2d0311aa97d0f7d80b9b148f29b945ad871d6cea38e9f89",
+  "files": [
+    {
+      "path": "daft/01316-71bf7edfcdf565f5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "813a64fc476dc57a0c4b80a0f415edc9b14ac2e074ee3e8c0c9c3fd4857c4279",
+      "bytes": 73552
+    },
+    {
+      "path": "daft/01316-71bf7edfcdf565f5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2e819809ffeaf9e720428751ec7d991fc0a6aab4bdd211e3712fa67aab82e986",
+      "bytes": 8115
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

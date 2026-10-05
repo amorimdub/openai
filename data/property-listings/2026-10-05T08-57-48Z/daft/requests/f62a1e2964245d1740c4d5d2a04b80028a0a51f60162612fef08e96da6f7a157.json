@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apt-at-27-church-road-north-wall-dublin-3/6686891",
+  "fetchedAt": "2026-10-05T09:25:55.223Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apt-at-27-church-road-north-wall-dublin-3/6686891",
+  "kind": "listing",
+  "responseSha256": "efffae4e46770101d21df700827f39a9c49828133cd95a9ae6a70d8f332c28f3",
+  "files": [
+    {
+      "path": "daft/01124-f62a1e2964245d17-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1c212e5ea0b6baf73ec920f7090ad0faa4df5105ec832f0322953d18d95d2c56",
+      "bytes": 12340
+    },
+    {
+      "path": "daft/01124-f62a1e2964245d17-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "143b5786d122aa0af457dfc56e772facbdcdff99390067aad0d7961280b8b2a7",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

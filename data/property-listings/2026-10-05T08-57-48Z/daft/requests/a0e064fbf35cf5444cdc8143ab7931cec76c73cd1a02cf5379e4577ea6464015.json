@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/woodfield-knocknacarra-co-galway/6684872",
+  "fetchedAt": "2026-10-05T09:40:27.832Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/woodfield-knocknacarra-co-galway/6684872",
+  "kind": "listing",
+  "responseSha256": "dc8ccaf244f4c47205e9144c5833281f0870c5cb077ada4aa6cb15bd052502bc",
+  "files": [
+    {
+      "path": "daft/01705-a0e064fbf35cf544-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b6bd381b61fdb9f9942a251068e928fbedb49eef1d830e0fc2f72c15f6ef5158",
+      "bytes": 47864
+    },
+    {
+      "path": "daft/01705-a0e064fbf35cf544-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "817df374cfa9486df5f5c4b84c8d54230f8a080497b960edc1c7f84f26af1c9b",
+      "bytes": 8026
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

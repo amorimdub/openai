@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=395",
+  "fetchedAt": "2026-10-05T13:38:08.843Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=395",
+  "kind": "search",
+  "responseSha256": "90a5ae94331d842cb5f2473a517fca0251c3fc0c87c2df04df710abb5bc6ccd4",
+  "files": [
+    {
+      "path": "myhome/08656-0b9635b60c1d6bb9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=395\"].SearchResults",
+      "sha256": "02e72d2f30bafef73c8f1fdb9e15583c2fed321feaf721d026839d4779ada8c1",
+      "bytes": 119466
+    },
+    {
+      "path": "myhome/08656-0b9635b60c1d6bb9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=395\"] (paging fields)",
+      "sha256": "99700842526c3ad5eaae6851836cc888eaa2aaa3e489cd4fa7dfb47629d54ea7",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/130-gaybrook-lawns-malahide-dublin/5015641",
+    "https://www.myhome.ie/residential/brochure/drybridge-house-tullyvaragh-lower-castleblayney-monaghan/5015621",
+    "https://www.myhome.ie/residential/brochure/no-20-bellefield-road-enniscorthy-county-wexford/5015633",
+    "https://www.myhome.ie/residential/brochure/esker-pines-ballyhaunis-mayo/5015632",
+    "https://www.myhome.ie/residential/brochure/57-scholar-s-way-ballynagee-wexford-town-co-wexford/5015630",
+    "https://www.myhome.ie/residential/brochure/3-kalimagden-church-road-mitchelstown-cork/5015618",
+    "https://www.myhome.ie/residential/brochure/26-ferrycarrig-drive-coolock-dublin-17/5015467",
+    "https://www.myhome.ie/residential/brochure/reahouse-duncormick-co-wexford/5015613",
+    "https://www.myhome.ie/residential/brochure/12-woodlawn-mitchelstown-cork/5015609",
+    "https://www.myhome.ie/residential/brochure/glenbrook-house-and-mews-enniskerry-co-wicklow/4929349",
+    "https://www.myhome.ie/residential/brochure/gullane-rosscarbery-cork/5015568",
+    "https://www.myhome.ie/residential/brochure/killaha-kenmare-kerry/5015598",
+    "https://www.myhome.ie/residential/brochure/14-an-gaird-n-keshcarrigan-carrick-on-shannon-leitrim/5015602",
+    "https://www.myhome.ie/residential/brochure/woodlands-letterkenny-co-donegal/5015601",
+    "https://www.myhome.ie/residential/brochure/corduff-2-thormanby-road-howth-county-dublin/5008161",
+    "https://www.myhome.ie/residential/brochure/4a-the-glen-watermill-road-raheny-dublin-5-co-dublin/5015596",
+    "https://www.myhome.ie/residential/brochure/church-road-lower-aghada-co-cork/5015590",
+    "https://www.myhome.ie/residential/brochure/3-bishop-s-grove-grantstown-waterford/5015381",
+    "https://www.myhome.ie/residential/brochure/site-fpp-with-adjoining-lands-ardkeen-kilmeena-westport-co-mayo/5015583",
+    "https://www.myhome.ie/residential/brochure/77-marian-estate-kilkee-clare/5015572"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=396",
+  "paginationLimited": false
+}

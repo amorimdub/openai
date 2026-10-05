@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=206",
+  "fetchedAt": "2026-10-05T12:00:32.955Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=206",
+  "kind": "search",
+  "responseSha256": "0c76a5e58794d7e479ca138c6e79bfd13992525129674eed30c5d4936908fe56",
+  "files": [
+    {
+      "path": "myhome/04765-4fca222e174267ba-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=206\"].SearchResults",
+      "sha256": "0bc1629aba60b46ad6a6118e2befe3858a0af72752fa7c73099036fa2ce95127",
+      "bytes": 119116
+    },
+    {
+      "path": "myhome/04765-4fca222e174267ba-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=206\"] (paging fields)",
+      "sha256": "0a9cbc4c49aeaeae32176919251fc694d4799a210da9ddd6f991413467b42271",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/kylemore-coolgreaney-road-arklow-co-wicklow/5011740",
+    "https://www.myhome.ie/residential/brochure/ballymoneen-avoca-co-wicklow/5014836",
+    "https://www.myhome.ie/residential/brochure/aurora-ballymacahara-ashford-co-wicklow/5027434",
+    "https://www.myhome.ie/residential/brochure/4-sean-allen-terrace-cashel-road-tipperary-town/5027433",
+    "https://www.myhome.ie/residential/brochure/51-castlepark-caherconlish-limerick-county-limerick/5027430",
+    "https://www.myhome.ie/residential/brochure/coolgarriv-tralee-road-killarney-co-kerry/5027429",
+    "https://www.myhome.ie/residential/brochure/tullyhoner-breenagh-letterkenny-county-donegal/5027428",
+    "https://www.myhome.ie/residential/brochure/the-cottage-knockanree-avoca-co-wicklow/5027426",
+    "https://www.myhome.ie/residential/brochure/49-rialto-cottages-rialto-dublin-8-d08v63v/5027206",
+    "https://www.myhome.ie/residential/brochure/woodlands-grove-blackrock-county-dublin/4985713",
+    "https://www.myhome.ie/residential/brochure/76-glasmore-park-swords-dublin/5027418",
+    "https://www.myhome.ie/residential/brochure/cleendra-dungloe-county-donegal/5027420",
+    "https://www.myhome.ie/residential/brochure/15-aisling-heights-raheen-limerick-city/5027414",
+    "https://www.myhome.ie/residential/brochure/20-abbotts-wood-kildangan-kildare/5027413",
+    "https://www.myhome.ie/residential/brochure/6-careystown-meadows-whitegate-midleton-co-cork/5027419",
+    "https://www.myhome.ie/residential/brochure/99-patrician-villas-stillorgan-county-dublin/4991940",
+    "https://www.myhome.ie/residential/brochure/63-highfield-road-rathgar-dublin-6/5027416",
+    "https://www.myhome.ie/residential/brochure/15-sycamore-road-mount-merrion-blackrock-co-dublin/5027415",
+    "https://www.myhome.ie/residential/brochure/makasi-swords-road-malahide-co-dublin/5001696",
+    "https://www.myhome.ie/residential/brochure/17-elm-grove-castlemartyr-cork/5027412"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=207",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/15-18-fairview-cottages-kildare-kildare-co-kildare/6682992",
+  "fetchedAt": "2026-10-05T09:50:48.383Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/15-18-fairview-cottages-kildare-kildare-co-kildare/6682992",
+  "kind": "listing",
+  "responseSha256": "7ef9b70b8f6cbcd75fe7dc3fc2776fe5cf877ec00f5e902b3a7cf96edc1ce4ab",
+  "files": [
+    {
+      "path": "daft/02118-e8693e8b0a055c2c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f453150ba0f235b82ead6d153418f67c9fd9653c46adcf76d0d14b298faab2fd",
+      "bytes": 22789
+    },
+    {
+      "path": "daft/02118-e8693e8b0a055c2c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0cfec79e520d5af2363c632baa1535e614f3721c691344d4edad2c01fb34669a",
+      "bytes": 8224
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

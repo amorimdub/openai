@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ARDRAHAN NATIONAL SCHOOL",
+      "numPupils": 154,
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.141590",
+        "lon": "-8.805069"
+      }
+    },
+    {
+      "schoolName": "BALLYGLASS NATIONAL SCHOOL",
+      "numPupils": 60,
+      "distance": {
+        "value": 3.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.169050",
+        "lon": "-8.757707"
+      }
+    },
+    {
+      "schoolName": "KILTIERNAN NATIONAL SCHOOL",
+      "numPupils": 61,
+      "distance": {
+        "value": 4.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.177624",
+        "lon": "-8.840307"
+      }
+    },
+    {
+      "schoolName": "S N NAOMH THOMAIS",
+      "numPupils": 62,
+      "distance": {
+        "value": 4.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.114320",
+        "lon": "-8.747221"
+      }
+    },
+    {
+      "schoolName": "S N CILL TARTAIN",
+      "numPupils": 116,
+      "distance": {
+        "value": 5.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.096676",
+        "lon": "-8.816675"
+      }
+    },
+    {
+      "schoolName": "S N CINN MARA",
+      "numPupils": 65,
+      "distance": {
+        "value": 7.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.127346",
+        "lon": "-8.904359"
+      }
+    },
+    {
+      "schoolName": "BALLYMANA NATIONAL SCHOOL",
+      "numPupils": 111,
+      "distance": {
+        "value": 8.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.198742",
+        "lon": "-8.710890"
+      }
+    },
+    {
+      "schoolName": "KILBEACANTY NATIONAL SCHOOL",
+      "numPupils": 66,
+      "distance": {
+        "value": 8.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.068970",
+        "lon": "-8.782757"
+      }
+    },
+    {
+      "schoolName": "KILLEENEEN NATIONAL SCHOOL",
+      "numPupils": 198,
+      "distance": {
+        "value": 8.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.220800",
+        "lon": "-8.807736"
+      }
+    },
+    {
+      "schoolName": "KILCOLGAN EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 206,
+      "distance": {
+        "value": 8.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.208633",
+        "lon": "-8.867801"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "SEAMOUNT COLLEGE",
+      "numPupils": 628,
+      "distance": {
+        "value": 9.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.138750",
+        "lon": "-8.935410"
+      }
+    },
+    {
+      "schoolName": "GORT COMMUNITY SCHOOL",
+      "numPupils": 1018,
+      "distance": {
+        "value": 9.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.061367",
+        "lon": "-8.811457"
+      }
+    },
+    {
+      "schoolName": "CALASANCTIUS COLLEGE",
+      "numPupils": 925,
+      "distance": {
+        "value": 16.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267582",
+        "lon": "-8.933208"
+      }
+    },
+    {
+      "schoolName": "ST. RAPHAEL'S COLLEGE",
+      "numPupils": 741,
+      "distance": {
+        "value": 16.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.197710",
+        "lon": "-8.562698"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S COLLEGE",
+      "numPupils": 754,
+      "distance": {
+        "value": 16.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.195717",
+        "lon": "-8.559335"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COLLEGE",
+      "numPupils": 1081,
+      "distance": {
+        "value": 17.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301342",
+        "lon": "-8.747338"
+      }
+    },
+    {
+      "schoolName": "CLARIN COLLEGE",
+      "numPupils": 1102,
+      "distance": {
+        "value": 17.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301395",
+        "lon": "-8.745524"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN EACHRÉIDH",
+      "numPupils": 238,
+      "distance": {
+        "value": 17.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.302185",
+        "lon": "-8.748791"
+      }
+    },
+    {
+      "schoolName": "GALWAY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 350,
+      "distance": {
+        "value": 19.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274510",
+        "lon": "-8.998752"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MHUIRLINNE/MERLIN COLLEGE",
+      "numPupils": 725,
+      "distance": {
+        "value": 19.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283947",
+        "lon": "-8.983322"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Labane",
+      "route": "51",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.141344",
+        "lon": "-8.804647"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Labane",
+      "route": "434",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.141344",
+        "lon": "-8.804647"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ardrahan",
+      "route": "434",
+      "destination": "Gort",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.156702",
+        "lon": "-8.806175"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ardrahan",
+      "route": "51",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.156702",
+        "lon": "-8.806175"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Ardrahan",
+      "route": "rail",
+      "destination": "Ennis",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 1.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.157044",
+        "lon": "-8.814752"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Corker",
+      "route": "434",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.105818",
+        "lon": "-8.806986"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballylee",
+      "route": "YGE",
+      "destination": "Coole Park",
+      "provider": "Yeats Gregory Explorer",
+      "distance": {
+        "value": 4.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.103745",
+        "lon": "-8.774152"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Peterswell",
+      "route": "934",
+      "destination": "Gort",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 4.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.11615",
+        "lon": "-8.74302"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kiltartan",
+      "route": "YGE",
+      "destination": "Coole Park",
+      "provider": "Yeats Gregory Explorer",
+      "distance": {
+        "value": 5.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.09939",
+        "lon": "-8.81512"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kiltartan",
+      "route": "434",
+      "destination": "Gort",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.098051",
+        "lon": "-8.815277"
+      }
+    }
+  ]
+}

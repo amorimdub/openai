@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/fixed-price-370-000-no-bidding-apartment-15-liberty-view-st-james-gate-dublin-8/6597314",
+  "fetchedAt": "2026-10-05T09:52:47.029Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/fixed-price-370-000-no-bidding-apartment-15-liberty-view-st-james-gate-dublin-8/6597314",
+  "kind": "listing",
+  "responseSha256": "cabac375afa8707664409cc94b34c259833670281ab1292f27ad7bf7f99b5145",
+  "files": [
+    {
+      "path": "daft/02197-fe9120f8390f0aa7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6a1da627eb554310ddd32f6622a1fd26574c44fd550d1dca75afa38f0b3bdf49",
+      "bytes": 25687
+    },
+    {
+      "path": "daft/02197-fe9120f8390f0aa7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dc77ec14fe62614de3d60f1417e2455b811147c167c4b9e188db5275e11f60c5",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

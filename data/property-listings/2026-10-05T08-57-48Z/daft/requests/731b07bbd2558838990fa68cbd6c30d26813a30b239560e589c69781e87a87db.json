@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/connaught-street-phibsborough-dublin-7/6686276",
+  "fetchedAt": "2026-10-05T09:30:00.143Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/connaught-street-phibsborough-dublin-7/6686276",
+  "kind": "listing",
+  "responseSha256": "f0e16fa9efdb17feaebe77448a1596ddfe68b937488fbd76793c1d26dff950c9",
+  "files": [
+    {
+      "path": "daft/01287-731b07bbd2558838-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6648fe1ff975bc44574d8aa8e69e3103e9745e8d6d5decc3b6cdc2c34a2916a4",
+      "bytes": 24696
+    },
+    {
+      "path": "daft/01287-731b07bbd2558838-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "11026985b26f5c6deb30667a468bb3f80898bde82eadf812cc66e34eccba8deb",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

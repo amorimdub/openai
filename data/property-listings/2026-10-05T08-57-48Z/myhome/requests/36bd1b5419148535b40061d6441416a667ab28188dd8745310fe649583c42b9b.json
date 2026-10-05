@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=319",
+  "fetchedAt": "2026-10-05T12:59:11.572Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=319",
+  "kind": "search",
+  "responseSha256": "10bda05265a74b22c130b4e4bd57888ac4abc2de4ebfd7a888c3ec4ed834eee1",
+  "files": [
+    {
+      "path": "myhome/07101-36bd1b5419148535-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=319\"].SearchResults",
+      "sha256": "c450ff40669b7957fac5e96550d96c83a80370e8f97e2e58867657e3a7e30fe6",
+      "bytes": 116941
+    },
+    {
+      "path": "myhome/07101-36bd1b5419148535-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=319\"] (paging fields)",
+      "sha256": "4ec7aaaa13a09663e968dc52408f98484fc553a161c8e4e6de7fe3e6f1be7134",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/new-home-16-gl-r-na-mara-ardmore-waterford/5022837",
+    "https://www.myhome.ie/residential/brochure/11-somerton-rochestown-ave-dun-laoghaire-co-dublin/5022840",
+    "https://www.myhome.ie/residential/brochure/cloneen-castlecomer-co-kilkenny/5022835",
+    "https://www.myhome.ie/residential/brochure/4-tralee-bay-holiday-village-aughacasla-south-co-kerry/5022834",
+    "https://www.myhome.ie/residential/brochure/6-ardevan-court-monasterevin-co-kildare/5022833",
+    "https://www.myhome.ie/residential/brochure/12-arnold-grove-glenageary-co-dublin/5022832",
+    "https://www.myhome.ie/residential/brochure/7-parkview-shanagolden-county-limerick/5022829",
+    "https://www.myhome.ie/residential/brochure/little-chantri-21-killiney-road-dalkey-co-dublin/5022826",
+    "https://www.myhome.ie/residential/brochure/aspen-violet-hill-church-road-killiney-co-dublin/4958322",
+    "https://www.myhome.ie/residential/brochure/ballintlea-upper-timahoe-co-laois/5022809",
+    "https://www.myhome.ie/residential/brochure/6-the-courtyard-baltimore-cork/5022805",
+    "https://www.myhome.ie/residential/brochure/94-shelbourne-park-apartments-south-lotts-road-ringsend-dublin-4/5022806",
+    "https://www.myhome.ie/residential/brochure/9a-binn-eadair-view-sutton-dublin-13/5022587",
+    "https://www.myhome.ie/residential/brochure/liddane-house-kilkee-clare/5022801",
+    "https://www.myhome.ie/residential/brochure/4-castleland-park-avenue-balbriggan-dublin/5022799",
+    "https://www.myhome.ie/residential/brochure/ref-1243-tinnies-upper-valentia-island-kerry/5022790",
+    "https://www.myhome.ie/residential/brochure/main-street-gowran-co-kilkenny-gowran-kilkenny/5022772",
+    "https://www.myhome.ie/residential/brochure/8-mariners-cove-howth-county-dublin/3246970",
+    "https://www.myhome.ie/residential/brochure/saile-n-8-gormanston-meadows-stamullen-county-meath/5022796",
+    "https://www.myhome.ie/residential/brochure/apt-1-80-reuben-street-rialto-dublin-8/5003439"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=320",
+  "paginationLimited": false
+}

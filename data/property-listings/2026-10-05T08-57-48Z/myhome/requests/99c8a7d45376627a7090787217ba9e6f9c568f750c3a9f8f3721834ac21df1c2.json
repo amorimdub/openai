@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=394",
+  "fetchedAt": "2026-10-05T13:37:37.287Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=394",
+  "kind": "search",
+  "responseSha256": "d6472038e60d9c7021805a391a737836fc6313fa7ae73150d95ba868d8a9f5ea",
+  "files": [
+    {
+      "path": "myhome/08635-99c8a7d45376627a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=394\"].SearchResults",
+      "sha256": "7ba6fc4a93e1d9ed16f83ad4c89022ecdba1404eca1e12e5f9db238b55eff034",
+      "bytes": 119631
+    },
+    {
+      "path": "myhome/08635-99c8a7d45376627a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=394\"] (paging fields)",
+      "sha256": "8b1e9056709b0968b2a756c9102b554f48a568bf78ef3e50fc787b9383baa6f4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-foxwood-monaghan-town-monaghan/5008504",
+    "https://www.myhome.ie/residential/brochure/site-with-full-planning-permission-bohaun-south-killawalla-westport-co-mayo/5015732",
+    "https://www.myhome.ie/residential/brochure/107-st-anne-s-kimmage-dublin-12/5003864",
+    "https://www.myhome.ie/residential/brochure/9-fern-dale-castle-heights-carrigaline-cork/5011646",
+    "https://www.myhome.ie/residential/brochure/rowan-lodge-kilcashel-avoca-co-wicklow/4985466",
+    "https://www.myhome.ie/residential/brochure/234-eagle-valley-sarsfield-road-wilton-cork/5015726",
+    "https://www.myhome.ie/residential/brochure/bruckey-castlegar-co-galway/5015721",
+    "https://www.myhome.ie/residential/brochure/1-laharran-west-manor-farm-lehenaghmore-cork/5015719",
+    "https://www.myhome.ie/residential/brochure/94-dolphin-road-drimnagh-dublin-12/5015714",
+    "https://www.myhome.ie/residential/brochure/11-cois-na-habhann-belcarra-castlebar-co-mayo/5015712",
+    "https://www.myhome.ie/residential/brochure/beechpark-athlone-east-westmeath/5015695",
+    "https://www.myhome.ie/residential/brochure/63-rath-park-shanrath-west-athy-co-kildare/5015709",
+    "https://www.myhome.ie/residential/brochure/5-the-forge-coolbane-liscarroll-co-cork/5015707",
+    "https://www.myhome.ie/residential/brochure/8-kenmare-house-north-great-georges-street-dublin-1/5015703",
+    "https://www.myhome.ie/residential/brochure/the-sycamores-station-road-bagenalstown-co-carlow/5015697",
+    "https://www.myhome.ie/residential/brochure/no-1-atlantic-drive-lisdoonvarna-clare/5015687",
+    "https://www.myhome.ie/residential/brochure/inisfree-dublin-road-tuam-co-galway/5015676",
+    "https://www.myhome.ie/residential/brochure/11-cois-cuain-courtmacsherry-courtmacsherry-west-cork/5015664",
+    "https://www.myhome.ie/residential/brochure/kyle-road-cappamore-limerick/5015662",
+    "https://www.myhome.ie/residential/brochure/60-saint-annes-park-turners-cross-cork/5015642"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=395",
+  "paginationLimited": false
+}

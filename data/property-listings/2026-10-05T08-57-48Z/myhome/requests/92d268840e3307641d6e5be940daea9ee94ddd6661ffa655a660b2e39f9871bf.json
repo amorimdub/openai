@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=43",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=43",
+  "fetchedAt": "2026-10-05T09:34:00.196Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "49969b074021491f5333f69da2519672204416f35ceab0dace8550e055bd984e",
+  "files": [
+    {
+      "path": "myhome/01442-92d268840e330764-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=43\"].SearchResults",
+      "sha256": "220080e4e1e10c0ce59b8f4e1810d08d10f778149d1b449d040cdcfcebc4a425",
+      "bytes": 122444
+    },
+    {
+      "path": "myhome/01442-92d268840e330764-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=43\"] (paging fields)",
+      "sha256": "86cbe10e00623a1fd3bff652608324dc99397ef226af999a06912b222de209a0",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/melrose-house-faughts-dunally-co-sligo/5028120",
+    "https://www.myhome.ie/residential/brochure/an-chathair-kilroe-east-inverin-co-galway/4999415",
+    "https://www.myhome.ie/residential/brochure/1-south-circular-road-south-circular-road-dublin-8/4988267",
+    "https://www.myhome.ie/residential/brochure/65-walsh-road-drumcondra-dublin-9/5005560",
+    "https://www.myhome.ie/residential/brochure/16-sion-hill-road-drumcondra-dublin-9/5027326",
+    "https://www.myhome.ie/residential/brochure/124-grace-park-road-drumcondra-dublin-9/5027327",
+    "https://www.myhome.ie/residential/brochure/38-hansted-way-lucan-co-dublin/5031521",
+    "https://www.myhome.ie/residential/brochure/st-jude-s-curragh-wood-kilanerin-gorey-county-wexford/5031520",
+    "https://www.myhome.ie/residential/brochure/143-st-johns-wood-west-clondalkin-dublin-22/5028715",
+    "https://www.myhome.ie/residential/brochure/15-tallow-hall-belgard-square-west-tallaght-dublin-24/5027410",
+    "https://www.myhome.ie/residential/brochure/17-presentation-road-city-centre-galway-city/5031518",
+    "https://www.myhome.ie/residential/brochure/18-carlisle-avenue-donnybrook-dublin-4/5031517",
+    "https://www.myhome.ie/residential/brochure/24-brookwood-lawn-artane-dublin-5/5031369",
+    "https://www.myhome.ie/residential/brochure/141-ardlea-road-artane-dublin-5/5029360",
+    "https://www.myhome.ie/residential/brochure/37-montrose-close-artane-dublin-5/4996800",
+    "https://www.myhome.ie/residential/brochure/glendalough-44-howth-road-clontarf-dublin-3/5031156",
+    "https://www.myhome.ie/residential/brochure/13-mount-prospect-park-clontarf-dublin-3/5031197",
+    "https://www.myhome.ie/residential/brochure/9-seascape-clontarf-road-clontarf-dublin-3/5030257",
+    "https://www.myhome.ie/residential/brochure/31-prospect-bay-mount-prospect-avenue-clontarf-dublin-3/5019167",
+    "https://www.myhome.ie/residential/brochure/58-viking-road-stoneybatter-dublin-7/5028074"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=44",
+  "paginationLimited": false
+}

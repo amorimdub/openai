@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-1-main-street-athboy-co-meath/6684529",
+  "fetchedAt": "2026-10-05T09:41:53.465Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-1-main-street-athboy-co-meath/6684529",
+  "kind": "listing",
+  "responseSha256": "efdb6db0621864d35271df5ae0328c3113c90faf8f12d0360d70f95b076638f8",
+  "files": [
+    {
+      "path": "daft/01762-b8b54c13d66add16-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9c50a459ea63d901cbd565c9da66649c7f0df1e974dd2bcbe7feefc1f68c2ac2",
+      "bytes": 2298
+    },
+    {
+      "path": "daft/01762-b8b54c13d66add16-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "174599ede1565536a354ff35a6b69844d9c3ca98012856cc5b178b3eb3490fda",
+      "bytes": 8164
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

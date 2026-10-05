@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=487",
+  "fetchedAt": "2026-10-05T14:25:27.356Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=487",
+  "kind": "search",
+  "responseSha256": "3d8416d918cf4f483c3ee4aefb19e02d0913d7693bed68b3f6b746ec60ec8036",
+  "files": [
+    {
+      "path": "myhome/10544-335b158e456a6f79-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=487\"].SearchResults",
+      "sha256": "cedca7d3b0c23908f6b00c66fecdc51493d2b18f4d6e4457070540080886c3bc",
+      "bytes": 126375
+    },
+    {
+      "path": "myhome/10544-335b158e456a6f79-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=487\"] (paging fields)",
+      "sha256": "41c3cc652d9f99f1bfe7703141eabf3a134b990b4b4d32b7ee945c8b0fb6012f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/25-elder-heath-view-kiltipper-dublin-24/5004131",
+    "https://www.myhome.ie/residential/brochure/rock-springs-marlon-road-wicklow-town-wicklow/4960165",
+    "https://www.myhome.ie/residential/brochure/4-5-ward-s-terrace-longford/5004119",
+    "https://www.myhome.ie/residential/brochure/15-college-avenue-college-manor-cobh-cork/5004114",
+    "https://www.myhome.ie/residential/brochure/drumfad-raphoe-co-donegal/5004101",
+    "https://www.myhome.ie/residential/brochure/snipe-lodge-keeagh-moycullen-co-galway/5004099",
+    "https://www.myhome.ie/residential/brochure/93-the-oaks-maryborough-ridge-douglas-cork-t12-ya32-cork-city-cork/5004063",
+    "https://www.myhome.ie/residential/brochure/20-saint-mel-s-road-longford/5004074",
+    "https://www.myhome.ie/residential/brochure/garra-oulart-co-wexford/5004047",
+    "https://www.myhome.ie/residential/brochure/41-ciamaltha-meadows-nenagh-co-tipperary/5004043",
+    "https://www.myhome.ie/residential/brochure/3-rosebank-hall-clondalkin-dublin-22/5004039",
+    "https://www.myhome.ie/residential/brochure/rinneroon-bay-house-lough-corrib-oughterard-co-galway/5002117",
+    "https://www.myhome.ie/residential/brochure/crockahanny-rossnowlagh-donegal/5004005",
+    "https://www.myhome.ie/residential/brochure/dreemskerry-ballyhurst-trinity-barntown-co-wexford/5004002",
+    "https://www.myhome.ie/residential/brochure/1-woodford-cottage-woodford-lane-portmarnock-county-dublin/5003947",
+    "https://www.myhome.ie/residential/brochure/the-laurels-killeshin-road-carlow/5003986",
+    "https://www.myhome.ie/residential/brochure/barnhill-11-benvoirlich-estate-bishopstown-cork/5003961",
+    "https://www.myhome.ie/residential/brochure/the-laurels-killeshin-road-carlow-co-laois/5003984",
+    "https://www.myhome.ie/residential/brochure/wild-acre-mountain-road-kilmoney-carrigaline-cork/5003960",
+    "https://www.myhome.ie/residential/brochure/darney-bruckless-co-donegal-clare/5003972"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=488",
+  "paginationLimited": false
+}

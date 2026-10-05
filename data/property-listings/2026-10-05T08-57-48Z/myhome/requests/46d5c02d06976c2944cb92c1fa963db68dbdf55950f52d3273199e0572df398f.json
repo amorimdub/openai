@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=15",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=15",
+  "fetchedAt": "2026-10-05T09:10:26.367Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "747297e5e904577a005c48a4bbe0507f47d35882084d3b455f8776dc1888c841",
+  "files": [
+    {
+      "path": "myhome/00505-46d5c02d06976c29-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=15\"].SearchResults",
+      "sha256": "0c46facb30c1a0272e99f5c7597f2d179bf1468f1f06bd06eb0daa36635202e2",
+      "bytes": 117580
+    },
+    {
+      "path": "myhome/00505-46d5c02d06976c29-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=15\"] (paging fields)",
+      "sha256": "7bd82208ae307a96250702c4dad9d076390bc0c05c815163ee81b23ce2cbb4bd",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/85-the-green-clara-offaly/5031992",
+    "https://www.myhome.ie/residential/brochure/fennor-kildare-town-kildare/5031975",
+    "https://www.myhome.ie/residential/brochure/1-newpark-drive-chapel-road-kinsealy-malahide-county-dublin/5031967",
+    "https://www.myhome.ie/residential/brochure/woodview-scartnamuck-templemartin-bandon-co-cork/5031991",
+    "https://www.myhome.ie/residential/brochure/apartment-501-swiftwood-garters-lane-citywest-dublin-24/5031986",
+    "https://www.myhome.ie/residential/brochure/eagle-court-clonee-dublin-15/5031964",
+    "https://www.myhome.ie/residential/brochure/1-bridgemeadow-milehouse-road-enniscorthy-wexford/5031943",
+    "https://www.myhome.ie/residential/brochure/26-crestwood-road-ashbourne-co-meath/5031990",
+    "https://www.myhome.ie/residential/brochure/41-warner-s-lane-ranelagh-dublin-6/5031988",
+    "https://www.myhome.ie/residential/brochure/ballynalty-ower-glencorrib-headford-galway/5031969",
+    "https://www.myhome.ie/residential/brochure/31-avondale-avenue-phibsborough-dublin-7-co-dublin/5003348",
+    "https://www.myhome.ie/residential/brochure/borora-cottage-carlanstown-meath/5031980",
+    "https://www.myhome.ie/residential/brochure/apartment-73-block-3-parkgate-place-parkgate-street-dublin-8-co-dublin/4976669",
+    "https://www.myhome.ie/residential/brochure/21-ballymun-road-glasnevin-dublin-9/5026609",
+    "https://www.myhome.ie/residential/brochure/8-chipping-terrace-ongar-dublin-15-d15-nt27/5031983",
+    "https://www.myhome.ie/residential/brochure/10-millbourne-drive-ashbourne-co-meath/5031981",
+    "https://www.myhome.ie/residential/brochure/11-edgewood-maryborough-ridge-rochestown-cork/5031959",
+    "https://www.myhome.ie/residential/brochure/apartment-44-millbank-the-links-portmarnock-county-dublin/5031979",
+    "https://www.myhome.ie/residential/brochure/55-belfield-abbey-boreenmanna-road-cork/5031978",
+    "https://www.myhome.ie/residential/brochure/5-beechview-rathwire-killucan-co-westmeath/5031976"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=16",
+  "paginationLimited": false
+}

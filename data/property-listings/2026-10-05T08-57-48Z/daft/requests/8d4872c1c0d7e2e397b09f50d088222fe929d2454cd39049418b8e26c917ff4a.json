@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/portanure-gowna-co-cavan/6683256",
+  "fetchedAt": "2026-10-05T09:50:04.821Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/portanure-gowna-co-cavan/6683256",
+  "kind": "listing",
+  "responseSha256": "53eefa477b5ae3b9892f352acecb0aafedf78f31bd2da012051758aaf94d70d9",
+  "files": [
+    {
+      "path": "daft/02089-8d4872c1c0d7e2e3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6c6be15914362e1a53481a80bbd2ccfbed4da6d3c7bcabe14d2ce616db7a6671",
+      "bytes": 27557
+    },
+    {
+      "path": "daft/02089-8d4872c1c0d7e2e3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76663612765c4863aaa698ee480a6d4c2cd9ca9807de57761dab5ce931b6d163",
+      "bytes": 8189
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

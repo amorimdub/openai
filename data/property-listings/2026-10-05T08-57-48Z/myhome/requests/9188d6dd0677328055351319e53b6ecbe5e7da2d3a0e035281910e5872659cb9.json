@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=276",
+  "fetchedAt": "2026-10-05T12:37:10.979Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=276",
+  "kind": "search",
+  "responseSha256": "c09e1025cf6549e986cfe6397ecabf3a22da21bf1170251688576f86236ddca8",
+  "files": [
+    {
+      "path": "myhome/06227-9188d6dd06773280-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=276\"].SearchResults",
+      "sha256": "6ea152cad2bc669e24f68d345313ddaea80022e37d1515349b8806171f30a765",
+      "bytes": 122198
+    },
+    {
+      "path": "myhome/06227-9188d6dd06773280-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=276\"] (paging fields)",
+      "sha256": "0dc286021ad951a2838ce703a18a4f8ba1ebf7f4f1025ca6e2cf61efbeae0bb7",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-kilkieran-court-cabra-dublin-7/5025214",
+    "https://www.myhome.ie/residential/brochure/apartment-108-the-casino-dublin-road-malahide-county-dublin/5021121",
+    "https://www.myhome.ie/residential/brochure/235-glenview-park-tallaght-dublin-24/5025208",
+    "https://www.myhome.ie/residential/brochure/toomard-sarsfield-street-abbeyside-dungarvan-waterford/5025201",
+    "https://www.myhome.ie/residential/brochure/hazelhill-ballyhaunis-mayo/5023565",
+    "https://www.myhome.ie/residential/brochure/magheraboy-raphoe-donegal/5015210",
+    "https://www.myhome.ie/residential/brochure/the-manse-103-howth-road-howth-county-dublin/5011476",
+    "https://www.myhome.ie/residential/brochure/9-benvoirlich-estate-bishopstown-cork/4948149",
+    "https://www.myhome.ie/residential/brochure/4-newtown-wood-drogheda-co-louth/5025199",
+    "https://www.myhome.ie/residential/brochure/wintzerhaus-channel-road-rush-co-dublin/5017074",
+    "https://www.myhome.ie/residential/brochure/21-forge-avenue-lusk-co-dublin/5010151",
+    "https://www.myhome.ie/residential/brochure/47-hayworth-terrace-ongar-dublin-15/5025197",
+    "https://www.myhome.ie/residential/brochure/88-ivy-court-beaumont-woods-beaumont-dublin-9/5025189",
+    "https://www.myhome.ie/residential/brochure/98-clonliffe-road-drumcondra-dublin-3/5025187",
+    "https://www.myhome.ie/residential/brochure/24-countess-grove-killarney-co-kerry/5025185",
+    "https://www.myhome.ie/residential/brochure/100-foxlodge-manor-ratoath-co-meath/5025182",
+    "https://www.myhome.ie/residential/brochure/11-cluain-riada-browneshill-road-carlow-town-carlow/5025181",
+    "https://www.myhome.ie/residential/brochure/2-the-cloisters-kells-co-meath/5025180",
+    "https://www.myhome.ie/residential/brochure/30-boyd-house-myrtle-avenue-baldoyle-dublin-13/5025179",
+    "https://www.myhome.ie/residential/brochure/9-woodbrook-court-castleknock-dublin-15/5025177"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=277",
+  "paginationLimited": false
+}

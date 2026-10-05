@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/priory-hall-spawell-rd-wexford-town-co-wexford/6685473",
+  "fetchedAt": "2026-10-05T09:16:32.002Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/priory-hall-spawell-rd-wexford-town-co-wexford/6685473",
+  "kind": "listing",
+  "responseSha256": "ce9193b2a941cb0a1abd208ec1f78c56666c5633b72547e2e7dd976910c12675",
+  "files": [
+    {
+      "path": "daft/00749-09dcb458c3481400-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "02be0f985ec3e42e5ffb9282f01201c4002dbb6246f3a5f18986d8117862e2af",
+      "bytes": 32061
+    },
+    {
+      "path": "daft/00749-09dcb458c3481400-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e8dce26207f7759965770e6b45e7cd09c1fbc71f69c406f09038a5b246fff9fa",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

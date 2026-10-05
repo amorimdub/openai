@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/coopers-cross-mayor-street-upper-dublin-1/5374211",
+  "fetchedAt": "2026-10-05T09:08:11.822Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/coopers-cross-mayor-street-upper-dublin-1/5374211",
+  "kind": "listing",
+  "responseSha256": "35cfae4adcfb6bdcff807c83bda0cdf66cf91171dd844706660ddf5cfa0c5ecd",
+  "files": [
+    {
+      "path": "daft/00416-e9a8151e6c5ecc0e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5dfc563289a71df37aca1e8fd27e8aec0c27f2957801c530863eb0475ff2667f",
+      "bytes": 133653
+    },
+    {
+      "path": "daft/00416-e9a8151e6c5ecc0e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cbf18bdcbc3786e4aa3d273ce9b35352ceeec6eac617b71ae517b06880a63617",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-12a-doughiska-road-briarhill-co-galway/6687021",
+  "fetchedAt": "2026-10-05T09:24:58.137Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-12a-doughiska-road-briarhill-co-galway/6687021",
+  "kind": "listing",
+  "responseSha256": "86ff3342bb99a283960a324098a3f0614fc38265dc70b7215373a241eb1e757d",
+  "files": [
+    {
+      "path": "daft/01086-a7db4e033afeeadc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dd31b19e71ee7b47a555b6b955f695556a7a1ec10a7249b427c1378868d0b894",
+      "bytes": 18481
+    },
+    {
+      "path": "daft/01086-a7db4e033afeeadc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fcddc0a81031716f11d9c414dcc3bb553c875ab7b7cc9ed6cc01069c5ffc16d6",
+      "bytes": 8025
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

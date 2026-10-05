@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-carton-grove-carton-grove-maynooth-co-kildare/4555230",
+  "fetchedAt": "2026-10-05T09:08:55.374Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-carton-grove-carton-grove-maynooth-co-kildare/4555230",
+  "kind": "listing",
+  "responseSha256": "a1429e5858fdce58fdf5e5d3b747879559d692165ac187d81aaa195b51ced58c",
+  "files": [
+    {
+      "path": "daft/00445-6e43cf257b1eef19-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "32774e285ef20b791849e9626b5a2c2e5636c0e6c44605f53f12b95b21e19185",
+      "bytes": 157712
+    },
+    {
+      "path": "daft/00445-6e43cf257b1eef19-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "46a48f386cee3c58585fcab7e529d221c57691ef3707673c148edc667cf70d0a",
+      "bytes": 8112
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=422",
+  "fetchedAt": "2026-10-05T13:51:57.740Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=422",
+  "kind": "search",
+  "responseSha256": "b3ac1d4245b28ec0d0d28211fb2a1ca509f04ad1967fb5ebf00f85f92a7c9ef0",
+  "files": [
+    {
+      "path": "myhome/09207-45824dec5c277a51-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=422\"].SearchResults",
+      "sha256": "6003cd9e3549c9ff33be60e45505f1b5e7acf7bb1f7d931dd6bf830f8a037c14",
+      "bytes": 108290
+    },
+    {
+      "path": "myhome/09207-45824dec5c277a51-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=422\"] (paging fields)",
+      "sha256": "f5dfd80d44d376370f3be837065777d5954e859c95846f1379eaf60d1628064a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-monastery-heath-avenue-clondalkin-dublin-22/4998287",
+    "https://www.myhome.ie/residential/brochure/35-upper-john-street-wexford-town-wexford/5011426",
+    "https://www.myhome.ie/residential/brochure/coolmeen-co-sligo-kilmactranny/5011423",
+    "https://www.myhome.ie/residential/brochure/44-boot-road-clondalkin-dublin-22/4998385",
+    "https://www.myhome.ie/residential/brochure/7-loreto-park-kilkenny-co-kilkenny/5011413",
+    "https://www.myhome.ie/residential/brochure/17-castlepark-castlerock-bunclody-co-carlow/5011411",
+    "https://www.myhome.ie/residential/brochure/4-clonmore-terrace-north-strand-dublin-3/4987383",
+    "https://www.myhome.ie/residential/brochure/58-sandford-road-ranelagh-dublin-6/4983590",
+    "https://www.myhome.ie/residential/brochure/8-liffey-downs-lucan-co-dublin/5011397",
+    "https://www.myhome.ie/residential/brochure/the-grove-springmount-duagh-listowel-co-kerry/5008556",
+    "https://www.myhome.ie/residential/brochure/7-rose-lane-ballinacurra-midleton-co-cork/5011378",
+    "https://www.myhome.ie/residential/brochure/semi-detached-bungalows-ard-rua-meadows-claremorris-co-mayo/5011372",
+    "https://www.myhome.ie/residential/brochure/end-of-terrace-houses-ard-rua-meadows-claremorris-co-mayo/5011370",
+    "https://www.myhome.ie/residential/brochure/1-lennon-melia-terrace-armagh-road-dundalk-louth/5011366",
+    "https://www.myhome.ie/residential/brochure/11-the-village-eastham-road-bettystown-co-meath/5011368",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-end-of-terrace-convent-place-delgany-wicklow/5011149",
+    "https://www.myhome.ie/residential/brochure/6-kilmore-close-artane-dublin-5/5011359",
+    "https://www.myhome.ie/residential/brochure/50-bunratty-drive-coolock-dublin-17/5011357",
+    "https://www.myhome.ie/residential/brochure/57-dexter-terrace-northbrook-road-ranelagh-dublin-6/5011356",
+    "https://www.myhome.ie/residential/brochure/site-with-fpp-at-sandy-lane-curracloe-wexford/5011343"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=423",
+  "paginationLimited": false
+}

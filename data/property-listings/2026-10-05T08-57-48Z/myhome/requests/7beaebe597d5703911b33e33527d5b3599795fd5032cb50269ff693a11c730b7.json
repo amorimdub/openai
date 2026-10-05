@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=437",
+  "fetchedAt": "2026-10-05T13:59:33.145Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=437",
+  "kind": "search",
+  "responseSha256": "1df760505bf1eebb31c5d58a2b33887f6c6e52597a08be13923355ca5b952a73",
+  "files": [
+    {
+      "path": "myhome/09510-7beaebe597d57039-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=437\"].SearchResults",
+      "sha256": "cc0d7d02b66c9f62ef5ee77e4d3a3e9b3e575a398d5d95ae4e8e2cd1d7876846",
+      "bytes": 111170
+    },
+    {
+      "path": "myhome/09510-7beaebe597d57039-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=437\"] (paging fields)",
+      "sha256": "511e46042cd270b0f2ac356fbd31012eff3fcd6c755ebd01881a339b09aea309",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/galley-cove-crookhaven-west-cork/4678170",
+    "https://www.myhome.ie/residential/brochure/23-grange-heights-waterford-city-co-waterford/5010103",
+    "https://www.myhome.ie/residential/brochure/elltim-the-rise-bishopstown-cork/5010099",
+    "https://www.myhome.ie/residential/brochure/cavancoulter-mountnugent-cavan/5010091",
+    "https://www.myhome.ie/residential/brochure/apartment-78-richmond-hall-richmond-road-drumcondra-dublin-3/4993969",
+    "https://www.myhome.ie/residential/brochure/80-hazelwood-gorey-co-wexford/5010075",
+    "https://www.myhome.ie/residential/brochure/17-merchants-square-east-wall-dublin-3/5010070",
+    "https://www.myhome.ie/residential/brochure/2-the-strand-holiday-homes-kilkee-clare/5002104",
+    "https://www.myhome.ie/residential/brochure/6-seapoint-court-apartments-seapoint-road-bray-wicklow/4991977",
+    "https://www.myhome.ie/residential/brochure/sea-road-blackrock-louth/5010036",
+    "https://www.myhome.ie/residential/brochure/the-teal-canal-gardens-luttrellstown-dublin-15-dublin/4992339",
+    "https://www.myhome.ie/residential/brochure/1-the-laurels-mccurtain-street-gorey-co-wexford/4730599",
+    "https://www.myhome.ie/residential/brochure/aisling-abbeyleix-road-portlaoise-co-laois/5010052",
+    "https://www.myhome.ie/residential/brochure/c-0-47-acre-site-at-starvehall-coolballow-wexford-town-wexford/5010050",
+    "https://www.myhome.ie/residential/brochure/11a-and-11b-fernhill-road-terenure-dublin-12/4999162",
+    "https://www.myhome.ie/residential/brochure/darnley-grove-athboy-meath/5004282",
+    "https://www.myhome.ie/residential/brochure/type-c-yourell-s-meadows-the-back-road-malahide-county-dublin/4972368",
+    "https://www.myhome.ie/residential/brochure/commercial-premises-5-bed-house-hollyford-village-hollyford-co-tipperary/4992464",
+    "https://www.myhome.ie/residential/brochure/gleann-cottage-errisbeg-west-connemara-roundstone-galway/4805377",
+    "https://www.myhome.ie/residential/brochure/119-churchfield-avenue-churchfield-cork/5010030"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=438",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=9",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=9",
+  "fetchedAt": "2026-10-05T09:04:15.628Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e74623272f493e01bdceea9f810fe8f41989f37120f6e1e5cd798a73c195476d",
+  "files": [
+    {
+      "path": "myhome/00259-0ee893cbc96a13bc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=9\"].SearchResults",
+      "sha256": "f66a69e6a819e4584d4ebfa77cb87a43fc79d9a4e6f675bb033085f2ae8a8668",
+      "bytes": 119106
+    },
+    {
+      "path": "myhome/00259-0ee893cbc96a13bc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=9\"] (paging fields)",
+      "sha256": "6437d4c452fecef20885a2b852d4e821f2581091242a0707aa9ece636d7ded35",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-40-wingfield-enniskerry-road-stepaside-county-dublin/5032067",
+    "https://www.myhome.ie/residential/brochure/carha-rehins-castlebar-co-mayo/5032065",
+    "https://www.myhome.ie/residential/brochure/27-saint-mary-s-road-north-east-wall-dublin-3/5016998",
+    "https://www.myhome.ie/residential/brochure/dun-ard-friars-hill-wicklow-town-wicklow/5032064",
+    "https://www.myhome.ie/residential/brochure/84-abbeyfield-milltown-dublin-6-co-dublin/5032063",
+    "https://www.myhome.ie/residential/brochure/23-the-gardens-kilmartin-grove-hollystown-dublin-15/5032062",
+    "https://www.myhome.ie/residential/brochure/3-rowan-park-kilcarbery-dublin-22/5032061",
+    "https://www.myhome.ie/residential/brochure/curraghboy-village-curraghboy-athlone-co-roscommon/5032060",
+    "https://www.myhome.ie/residential/brochure/apartment-32-chancery-court-bride-street-dublin-8-dublin/5032059",
+    "https://www.myhome.ie/residential/brochure/bayview-kilbride-arklow-wicklow/5022821",
+    "https://www.myhome.ie/residential/brochure/apartment-90-hill-of-down-house-spencer-dock-dublin-1-dublin/5032057",
+    "https://www.myhome.ie/residential/brochure/16-birchwood-close-dublin-24-co-dublin/5032056",
+    "https://www.myhome.ie/residential/brochure/8-altan-western-distributor-road-knocknacarra-county-galway/5032055",
+    "https://www.myhome.ie/residential/brochure/farrigans-lettermacaward-donegal/5008220",
+    "https://www.myhome.ie/residential/brochure/the-beckett-macnebury-mews-cherrywood-dublin-18/5001477",
+    "https://www.myhome.ie/residential/brochure/narin-portnoo-donegal/5015207",
+    "https://www.myhome.ie/residential/brochure/straboy-glenties-donegal/5009247",
+    "https://www.myhome.ie/residential/brochure/1-marian-park-tralee-kerry/5030998",
+    "https://www.myhome.ie/residential/brochure/4-cooldrinagh-cottages-cooldrinagh-lane-lucan-co-dublin/5005031",
+    "https://www.myhome.ie/residential/brochure/26-mount-andrew-court-lucan-co-dublin/5030355"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=10",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/app-2-9-vicar-street-kilkenny-co-kilkenny/6687202",
+  "fetchedAt": "2026-10-05T09:24:05.546Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/app-2-9-vicar-street-kilkenny-co-kilkenny/6687202",
+  "kind": "listing",
+  "responseSha256": "6cd8984911989d7467b7e71dbfa9d655f4800d0e2a3577fe16732d1f40fd332f",
+  "files": [
+    {
+      "path": "daft/01051-8b05185e02f7a57b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c43f9e7c37e86173927ec1723de5781e006162ab8132f0b52efa3b12d211a11f",
+      "bytes": 12723
+    },
+    {
+      "path": "daft/01051-8b05185e02f7a57b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5c621c89d229369faf68d7cfa1f595b95aa3c5a7e5014efa0721fdc80970a4eb",
+      "bytes": 8088
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

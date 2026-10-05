@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=471",
+  "fetchedAt": "2026-10-05T14:17:08.311Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=471",
+  "kind": "search",
+  "responseSha256": "364f4c14245278aec9afbab5a3234eb8e090d117e36e1fbb7772d6c2c47a8785",
+  "files": [
+    {
+      "path": "myhome/10212-de84cc175210fc56-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=471\"].SearchResults",
+      "sha256": "02ad72457cd8c7633d17578ede7a5e476912b65595d8bb504e020f35edb15e05",
+      "bytes": 119057
+    },
+    {
+      "path": "myhome/10212-de84cc175210fc56-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=471\"] (paging fields)",
+      "sha256": "f28ea89f7b29095099ce2778aa4715a5867b0d08ac24b9ca71a17b8b86a6065b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/san-antonio-cummeen-donoughmore-co-cork/5006127",
+    "https://www.myhome.ie/residential/brochure/ballyellis-mallow-cork/5003951",
+    "https://www.myhome.ie/residential/brochure/60-cluain-aoibhinn-naas-county-kildare/5006124",
+    "https://www.myhome.ie/residential/brochure/111-grianan-fidh-aiken-s-village-stepaside-dublin-18-stepaside-dublin/5006104",
+    "https://www.myhome.ie/residential/brochure/11-kilmagig-avoca-co-wicklow/5006105",
+    "https://www.myhome.ie/residential/brochure/aston-abbey-10-aston-quay-4-x-1-bed-units-10-yield-temple-bar-dublin-2/5006087",
+    "https://www.myhome.ie/residential/brochure/knockacrin-the-swan-athy-co-kildare/5006096",
+    "https://www.myhome.ie/residential/brochure/4-river-view-ash-grove-mountmellick-co-laois/5006094",
+    "https://www.myhome.ie/residential/brochure/newtown-cottage-newtown-durrow-durrow-co-laois/5006093",
+    "https://www.myhome.ie/residential/brochure/dunany-meadowlands-upper-rochestown-cork/5006091",
+    "https://www.myhome.ie/residential/brochure/7-saint-patricks-terrace-lower-glanmire-road-city-centre-sth-cork-city/5006086",
+    "https://www.myhome.ie/residential/brochure/mullaghanard-house-mullaghanard-rosenallis-co-laois/5006090",
+    "https://www.myhome.ie/residential/brochure/18-cuanahowan-tullow-co-carlow/5006089",
+    "https://www.myhome.ie/residential/brochure/apartment-4-bridle-walk-kilminchy-portlaoise-co-laois/5006088",
+    "https://www.myhome.ie/residential/brochure/54-crenigans-banog-ashbourne-meath/5006085",
+    "https://www.myhome.ie/residential/brochure/ringlestown-kilmessan-meath/5005664",
+    "https://www.myhome.ie/residential/brochure/walshtown-view-walshtown-beg-midleton-co-cork/5006070",
+    "https://www.myhome.ie/residential/brochure/9-10-bridge-street-carrick-on-suir-tipperary/5003810",
+    "https://www.myhome.ie/residential/brochure/aston-abbey-10-aston-quay-4-x-1-bed-units-10-yield-temple-bar-dublin-2/5006054",
+    "https://www.myhome.ie/residential/brochure/hill-view-house-spring-valley-enniscorthy-wexford/5006051"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=472",
+  "paginationLimited": false
+}

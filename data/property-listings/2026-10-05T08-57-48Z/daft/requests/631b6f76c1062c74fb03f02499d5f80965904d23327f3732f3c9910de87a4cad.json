@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-hibernian-the-gasworks-ballsbridge-co-dublin/6685296",
+  "fetchedAt": "2026-10-05T09:37:29.123Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-hibernian-the-gasworks-ballsbridge-co-dublin/6685296",
+  "kind": "listing",
+  "responseSha256": "9bc792e61c2f413243998ca3ceea96a33e83b8d7994c2d48c5fb89da3023cac3",
+  "files": [
+    {
+      "path": "daft/01586-631b6f76c1062c74-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c4392d58d9703778749331950bd0e7216cd993b19a70312112cae9ca0a20ef7c",
+      "bytes": 22303
+    },
+    {
+      "path": "daft/01586-631b6f76c1062c74-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2c13076c3c0a032069325980222dbcc9c7d4ffa67bb871534e7270d7ec6574c3",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

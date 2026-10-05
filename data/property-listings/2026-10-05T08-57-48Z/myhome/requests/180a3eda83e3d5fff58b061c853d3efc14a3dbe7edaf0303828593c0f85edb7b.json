@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=105",
+  "fetchedAt": "2026-10-05T11:08:00.551Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=105",
+  "kind": "search",
+  "responseSha256": "82238e471551236a4016cfa130c0bb5227d75fcbd61b79190c750b899ddfaf69",
+  "files": [
+    {
+      "path": "myhome/02687-180a3eda83e3d5ff-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=105\"].SearchResults",
+      "sha256": "8391c688ffda0b37371fd29d550b442a13ecebbf02b2188354bef3aa3c0e0699",
+      "bytes": 99834
+    },
+    {
+      "path": "myhome/02687-180a3eda83e3d5ff-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=105\"] (paging fields)",
+      "sha256": "207a68bede0530b975f7af1dabeffe71c2e3bc388b0fcbb495863c4d002faea3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/kilkea-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030230",
+    "https://www.myhome.ie/residential/brochure/ballysax-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030227",
+    "https://www.myhome.ie/residential/brochure/sunnyhill-cluain-aoibhinn-carrighill-upper-calverstown-kildare/5030221",
+    "https://www.myhome.ie/residential/brochure/ballynumera-bangor-erris-mayo/5030197",
+    "https://www.myhome.ie/residential/brochure/38-shelmalier-road-east-wall-dublin-3/4997079",
+    "https://www.myhome.ie/residential/brochure/57-the-willow-trimbleston-goatstown-dublin-14/4985975",
+    "https://www.myhome.ie/residential/brochure/no-142-the-sycamores-freshford-road-kilkenny-kilkenny/5029089",
+    "https://www.myhome.ie/residential/brochure/inverbrinny-skevanish-innishannon-co-cork/5030215",
+    "https://www.myhome.ie/residential/brochure/5-oldtown-road-santry-dublin-9/5030205",
+    "https://www.myhome.ie/residential/brochure/kilmallock-grange-limerick/5030211",
+    "https://www.myhome.ie/residential/brochure/5-parkhill-road-kilnamanagh-tallaght-dublin-24/5030212",
+    "https://www.myhome.ie/residential/brochure/6-greenville-road-blackrock-co-dublin/5024894",
+    "https://www.myhome.ie/residential/brochure/18-hermitage-drive-rushbrooke-links-cobh-co-cork-cobh-cork/5030202",
+    "https://www.myhome.ie/residential/brochure/17-the-lawn-priory-court-watergrasshill-cork/5029380",
+    "https://www.myhome.ie/residential/brochure/16d-cherrywood-loughlinstown-co-dublin-glenageary/5030198",
+    "https://www.myhome.ie/residential/brochure/1-atlantic-way-ardfield-clonakilty-cork/4790932",
+    "https://www.myhome.ie/residential/brochure/baltinglass-west-baltinglass-co-wicklow/5030196",
+    "https://www.myhome.ie/residential/brochure/203-the-camden-charlotte-quay-dock-dublin-4/5030195",
+    "https://www.myhome.ie/residential/brochure/7-earls-court-lyreen-manor-maynooth-co-kildare/5030193",
+    "https://www.myhome.ie/residential/brochure/ardmanagh-schull-west-cork/5028900"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=106",
+  "paginationLimited": false
+}

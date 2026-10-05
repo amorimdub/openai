@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/emor-street-dublin-8-portobello-dublin-8/6686780",
+  "fetchedAt": "2026-10-05T09:15:36.444Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/emor-street-dublin-8-portobello-dublin-8/6686780",
+  "kind": "listing",
+  "responseSha256": "db5057ad672addeb1f8d3532d1e4adb149c86d9dac686fdd569a836e83a0ed93",
+  "files": [
+    {
+      "path": "daft/00712-4fbcec4f266a410e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "69f42aaa5e8b6d29f38343a7fc1982ace10bc429d0a2468e21d992b55b80b1a7",
+      "bytes": 17297
+    },
+    {
+      "path": "daft/00712-4fbcec4f266a410e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "412e9a7d9f1d93e1009afbe1891dd1d5794e8caf19af9a63b626ee5c99bad154",
+      "bytes": 8180
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

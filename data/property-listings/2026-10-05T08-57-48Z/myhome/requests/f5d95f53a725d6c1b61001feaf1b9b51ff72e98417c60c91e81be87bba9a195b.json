@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=480",
+  "fetchedAt": "2026-10-05T14:21:49.403Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=480",
+  "kind": "search",
+  "responseSha256": "7186181524f97ff0cfeb910403bb94968f98e413c76679781e2a7a93f5bccbe3",
+  "files": [
+    {
+      "path": "myhome/10399-f5d95f53a725d6c1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=480\"].SearchResults",
+      "sha256": "e79ab7aafd8c214f76913621875ff0243701c6542138b1e658275258147d5214",
+      "bytes": 118728
+    },
+    {
+      "path": "myhome/10399-f5d95f53a725d6c1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=480\"] (paging fields)",
+      "sha256": "a0ecf8a35f99453bafe5b6754a721c63a2509b0c5a57cc4a30443a74d6ec87e0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-pineview-commons-road-navan-meath/5004990",
+    "https://www.myhome.ie/residential/brochure/14-hawthorn-drive-listowel-co-kerry/5000581",
+    "https://www.myhome.ie/residential/brochure/39-leslie-s-arch-old-quarter-ballincollig-cork/5004969",
+    "https://www.myhome.ie/residential/brochure/203-quay-mills-merchants-quay-kilrush-co-clare/5004973",
+    "https://www.myhome.ie/residential/brochure/ferrycarrig-lodge-ferrycarrig-wexford-town-wexford/5004906",
+    "https://www.myhome.ie/residential/brochure/carnakib-claran-headford-co-galway/5004890",
+    "https://www.myhome.ie/residential/brochure/9-daar-wood-newcastle-west-co-limerick-v42nh64-newcastle-west-limerick/5004882",
+    "https://www.myhome.ie/residential/brochure/apt-11-cuilcagh-russell-quay-ballyconnell-cavan/5004871",
+    "https://www.myhome.ie/residential/brochure/sandhill-road-ballybunion-kerry/4994856",
+    "https://www.myhome.ie/residential/brochure/lispatrick-lower-old-head-garrettstown-cork/5004845",
+    "https://www.myhome.ie/residential/brochure/corratober-kingscourt-drumconrath-meath/5004847",
+    "https://www.myhome.ie/residential/brochure/7-flemings-court-tallow-street-youghal-east-cork/4998322",
+    "https://www.myhome.ie/residential/brochure/berwick-pines-foxrock-dublin-18/5004455",
+    "https://www.myhome.ie/residential/brochure/berwick-pines-foxrock-dublin-18/5004452",
+    "https://www.myhome.ie/residential/brochure/apartment-11-the-millhouse-the-steelworks-foley-street-dublin-1-dublin/5004824",
+    "https://www.myhome.ie/residential/brochure/crannogbois-ardara-donegal/5004815",
+    "https://www.myhome.ie/residential/brochure/ballyshannon-lodge-ballyshannon-kildare/5004797",
+    "https://www.myhome.ie/residential/brochure/64-glenview-park-kilpedder-co-wicklow/5004795",
+    "https://www.myhome.ie/residential/brochure/10-distillery-court-westport-co-mayo/5004788",
+    "https://www.myhome.ie/residential/brochure/central-athlone-westmeath/4987841"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=481",
+  "paginationLimited": false
+}

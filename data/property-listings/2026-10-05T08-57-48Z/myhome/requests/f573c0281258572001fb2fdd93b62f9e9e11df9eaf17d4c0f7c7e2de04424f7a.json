@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=194",
+  "fetchedAt": "2026-10-05T11:54:36.750Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=194",
+  "kind": "search",
+  "responseSha256": "5115d43097e59b118441c57ea871dbf5e217ab4676eded6c0108e9da0385f3fc",
+  "files": [
+    {
+      "path": "myhome/04528-f573c02812585720-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=194\"].SearchResults",
+      "sha256": "7dd3a2f280f89a5ae661e9835437a4e72d7f8d20941835b56ee3fae1f7f7e4cc",
+      "bytes": 123938
+    },
+    {
+      "path": "myhome/04528-f573c02812585720-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=194\"] (paging fields)",
+      "sha256": "4d3805f9f4ca3f7d14225a80f83976a6ec86f5eb56abf1ed9cfc42cf7803f71d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/31-burnaby-mill-greystones-wicklow/5027288",
+    "https://www.myhome.ie/residential/brochure/48-glenealy-road-crumlin-dublin-12/5027797",
+    "https://www.myhome.ie/residential/brochure/1-cherry-hill-grove-kells-co-meath/5027793",
+    "https://www.myhome.ie/residential/brochure/lilac-cottage-knocknagroagh-ballyvaughan-co-clare/5027792",
+    "https://www.myhome.ie/residential/brochure/horetown-glebe-deerpark-foulksmills-co-wexford-foulksmills-wexford/5027785",
+    "https://www.myhome.ie/residential/brochure/aenbarr-glencap-kilmacanogue-wicklow/5027755",
+    "https://www.myhome.ie/residential/brochure/142-drominbeg-rhebogue-limerick-county-limerick/5027788",
+    "https://www.myhome.ie/residential/brochure/ballybroder-kilbeggan-county-westmeath/5027787",
+    "https://www.myhome.ie/residential/brochure/7-carrig-avenue-carrig-na-curra-carrigaline-cork/5026340",
+    "https://www.myhome.ie/residential/brochure/2-the-terrace-lower-road-scilly-kinsale-cork/5010383",
+    "https://www.myhome.ie/residential/brochure/tuckmill-lower-baltinglass-wicklow/5027774",
+    "https://www.myhome.ie/residential/brochure/21-rowan-house-mespil-estate-ballsbridge-dublin-4/5024349",
+    "https://www.myhome.ie/residential/brochure/2-canonbrook-court-lucan-co-dublin/5027783",
+    "https://www.myhome.ie/residential/brochure/mail-coach-road-sligo/5024704",
+    "https://www.myhome.ie/residential/brochure/35-the-sycamores-stradbrook-hill-blackrock-dublin/5027773",
+    "https://www.myhome.ie/residential/brochure/16-swords-street-stoneybatter-dublin-7/5027236",
+    "https://www.myhome.ie/residential/brochure/ballybrack-kilcock-co-kildare/5027778",
+    "https://www.myhome.ie/residential/brochure/strawberry-lodge-firmount-west-clane-co-kildare/5027777",
+    "https://www.myhome.ie/residential/brochure/1-willows-court-clonsilla-dublin-15/5027765",
+    "https://www.myhome.ie/residential/brochure/caherscullibeen-ballydavid-kerry/5027758"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=195",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=385",
+  "fetchedAt": "2026-10-05T13:32:57.745Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=385",
+  "kind": "search",
+  "responseSha256": "f1a3cb23004dcdc9cc78a45eb3044f4f775d9981770dacb154fef91f41322452",
+  "files": [
+    {
+      "path": "myhome/08449-b063131d102ac9fd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=385\"].SearchResults",
+      "sha256": "f96869af833002f9be3dc95f24051ac34f7a04d9193e9e3a076fb4d6ed2cf5f2",
+      "bytes": 114031
+    },
+    {
+      "path": "myhome/08449-b063131d102ac9fd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=385\"] (paging fields)",
+      "sha256": "66e5eb38f6bdb2b35aae2e10bfa1d21362ff6f6eef109d8661b5184dd6326f4d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/45-fox-lodge-manor-ratoath-ratoath-ratoath-meath/5015223",
+    "https://www.myhome.ie/residential/brochure/3-beech-grove-booterstown-co-dublin/5017212",
+    "https://www.myhome.ie/residential/brochure/no-20-loreto-avenue-kilkenny-kilkenny/5016741",
+    "https://www.myhome.ie/residential/brochure/1-pinehurst-monastery-road-enniskerry-co-wicklow/5017204",
+    "https://www.myhome.ie/residential/brochure/c-8-78-hectares-21-70-acres-at-nicharee-duncormick-wexford/5017193",
+    "https://www.myhome.ie/residential/brochure/29-gl-r-na-mara-rosslare-strand-wexford/5017189",
+    "https://www.myhome.ie/residential/brochure/26-the-paddocks-tipper-west-naas-co-kildare/5017187",
+    "https://www.myhome.ie/residential/brochure/cappanacush-east-templenoe-kenmare-co-kerry/5017179",
+    "https://www.myhome.ie/residential/brochure/no-51-the-demesne-longford-longford/5017178",
+    "https://www.myhome.ie/residential/brochure/no-20-beech-road-fota-rock-carrigtwohill-co-cork-cobh-cork/5017173",
+    "https://www.myhome.ie/residential/brochure/5-bellvue-place-townshend-street-skibbereen-west-cork/5016729",
+    "https://www.myhome.ie/residential/brochure/gleann-loic-dunquin-dingle-kerry/5017168",
+    "https://www.myhome.ie/residential/brochure/nunnery-lane-stradbally-waterford/5017167",
+    "https://www.myhome.ie/residential/brochure/camelot-1-ailesbury-way-ailesbury-road-dublin-4/4987774",
+    "https://www.myhome.ie/residential/brochure/no-26-bishopswater-wexford-town-wexford/5017161",
+    "https://www.myhome.ie/residential/brochure/apt-43-55-mountjoy-square-west-dublin-1/5017158",
+    "https://www.myhome.ie/residential/brochure/21-woodland-heights-carrick-on-suir-tipperary/5017012",
+    "https://www.myhome.ie/residential/brochure/iona-4-woodlands-courtown-wexford/5017116",
+    "https://www.myhome.ie/residential/brochure/4-blakestown-road-dublin-15-dublin/5017148",
+    "https://www.myhome.ie/residential/brochure/46-the-saltings-annagassan-louth/5009868"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=386",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/59-grande-central-south-central-rockbrook-sandyford-co-dublin/6680288",
+  "fetchedAt": "2026-10-05T09:02:57.963Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/59-grande-central-south-central-rockbrook-sandyford-co-dublin/6680288",
+  "kind": "listing",
+  "responseSha256": "f87110117fa1f20fb4f81f645d2bf670045cfa611dbac8b86dafe40b37d75710",
+  "files": [
+    {
+      "path": "daft/00207-0ea381fde31821c9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d6ec62a4ccfb1169680957fb4c19fe0a8b06fbf76b36bc65525ba111ee54ec0d",
+      "bytes": 32323
+    },
+    {
+      "path": "daft/00207-0ea381fde31821c9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bd6e98f90cfb36f9e60e3c1dbe59ffa3560c0fdbd0ea25ef62c3f0ae54ae9938",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

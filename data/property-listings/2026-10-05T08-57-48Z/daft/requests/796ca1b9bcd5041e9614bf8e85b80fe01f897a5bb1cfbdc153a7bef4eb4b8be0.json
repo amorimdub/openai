@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cl-s-na-croise-ballivor-co-meath/6676083",
+  "fetchedAt": "2026-10-05T09:18:36.637Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cl-s-na-croise-ballivor-co-meath/6676083",
+  "kind": "listing",
+  "responseSha256": "224521898ae5ed135eda3c27f08ac9b175fd6da4fd93af2a90d28c237e57a290",
+  "files": [
+    {
+      "path": "daft/00832-796ca1b9bcd5041e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f2365eb78a7eb7232d502133db165f0bbdb8f2463de8e44195dd0350ac76fb23",
+      "bytes": 38772
+    },
+    {
+      "path": "daft/00832-796ca1b9bcd5041e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "78f63b6edea08ac0f39c917a9cca91f97ea45cea25188fad810517e8a9503520",
+      "bytes": 8082
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=22",
+  "fetchedAt": "2026-10-05T09:24:44.613Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=22",
+  "kind": "search",
+  "responseSha256": "6d930d591b9656f07b6d415a03b97d666b2eef8a1055d6acc1dc0818508cc7e2",
+  "files": [
+    {
+      "path": "daft/01077-e49d020c994024d4-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "9fb4f795eb6890bdd56934efdc0eb22818c3d73366572e425cf0680f8778e26c",
+      "bytes": 227261
+    },
+    {
+      "path": "daft/01077-e49d020c994024d4-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01077-e49d020c994024d4-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "7c3da67bdf86f5096176c80027bf33ed4c183e6dc6d2e2f1c32810c154cd1290",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-5-57-bath-avenue-ballsbridge-dublin-4/6686937",
+    "https://www.daft.ie/for-rent/the-laurels-regents-hall-ashbourne-co-meath-ashbourne-co-meath/6686933",
+    "https://www.daft.ie/for-rent/12-arklow-street-north-circular-road-dublin-7/6686925",
+    "https://www.daft.ie/for-rent/apartment-16-the-pines-beckett-woods-brighton-road-foxrock-dublin-18/6686613",
+    "https://www.daft.ie/for-rent/finn-street-stoneybatter-co-dublin/6686892",
+    "https://www.daft.ie/for-rent/2-bed-apt-at-27-church-road-north-wall-dublin-3/6686891",
+    "https://www.daft.ie/for-rent/3-slaney-medical-centre-enniscorthy-co-wexford/6686054",
+    "https://www.daft.ie/for-rent/15-maple-lawns-oldtown-demesne-naas-co-kildare/6686835",
+    "https://www.daft.ie/for-rent/fardrum-with-office-athlone-co-westmeath/6662436",
+    "https://www.daft.ie/for-rent/tysaxon-athenry-co-galway/6686808",
+    "https://www.daft.ie/for-rent/ardee-co-louth-ardee-co-louth/6664285",
+    "https://www.daft.ie/for-rent/duplex-apartment-riversdale-place-sundays-well-road-cork-city-centre-co-cork/6686778",
+    "https://www.daft.ie/for-rent/cottage-2-sheastown-bennettsbridge-co-kilkenny/6686735",
+    "https://www.daft.ie/for-rent/18-bishop-street-newcastle-west-co-limerick/6686712",
+    "https://www.daft.ie/for-rent/straffan-kill-bishopscourt-area-straffan-co-kildare/6686697",
+    "https://www.daft.ie/for-rent/sunshine-cottage-ballyhane-birdhill-limerick-birdhill-co-tipperary/6686562",
+    "https://www.daft.ie/for-rent/the-tallow-ashtown-co-dublin/6686755",
+    "https://www.daft.ie/for-rent/the-mews-3-leeson-close-dublin-2/6686732",
+    "https://www.daft.ie/for-rent/newmarket-on-fergus-quin-co-clare/6686720",
+    "https://www.daft.ie/for-rent/9-sion-row-dock-road-ferrybank-waterford-ferrybank-co-waterford/6686717"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=23",
+  "paginationLimited": false
+}

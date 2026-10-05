@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/60-kylemore-hill-rathoe-rathoe-co-carlow/6686103",
+  "fetchedAt": "2026-10-05T09:30:03.148Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/60-kylemore-hill-rathoe-rathoe-co-carlow/6686103",
+  "kind": "listing",
+  "responseSha256": "8c3ee8957d59e0adac53c31d99a0f0b0584ae69cc837733a49150e09b76e75ed",
+  "files": [
+    {
+      "path": "daft/01289-e783edc8c2ddc5ff-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e89460ad5fa73c6064a21d5cfffbf529d0426884aada775a59d5049e549df8d",
+      "bytes": 39891
+    },
+    {
+      "path": "daft/01289-e783edc8c2ddc5ff-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "82d4a14bd00ee575450051f3e016fab14b5e255170570a0ba64013650263a8c5",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

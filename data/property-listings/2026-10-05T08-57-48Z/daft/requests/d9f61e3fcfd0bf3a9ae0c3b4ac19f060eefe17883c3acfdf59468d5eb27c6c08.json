@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-the-oslo-sandyford-central-sandyford-co-dublin/5426428",
+  "fetchedAt": "2026-10-05T09:08:29.843Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-the-oslo-sandyford-central-sandyford-co-dublin/5426428",
+  "kind": "listing",
+  "responseSha256": "e4679e424dcace84d5d91be9291f789da25101a554bc138829b8f7819565863d",
+  "files": [
+    {
+      "path": "daft/00428-d9f61e3fcfd0bf3a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "748be0d2a56cf54f468e3c26a992306717c8008fa0927fcb66d2ea4c27b51199",
+      "bytes": 35492
+    },
+    {
+      "path": "daft/00428-d9f61e3fcfd0bf3a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9a80db0d742f6790cee2b6d8ee221a1a9a39ec029b6ff97f244d842991e1e7d",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

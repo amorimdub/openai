@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/furnished-apartment-at-the-neptune-hartys-quay-quayside-living-at-hartys-quay-hartys-quay-rochestown-rochestown-co-cork/6628450",
+  "fetchedAt": "2026-10-05T09:01:24.429Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/furnished-apartment-at-the-neptune-hartys-quay-quayside-living-at-hartys-quay-hartys-quay-rochestown-rochestown-co-cork/6628450",
+  "kind": "listing",
+  "responseSha256": "b356a0da49e6a5391dedc6e23742e3a4840481c2f341820da151ce9c83874bd6",
+  "files": [
+    {
+      "path": "daft/00145-89cff5c7c748b944-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1676f085160a9c639763533ce4af5b20837cc67ba9ce1c6be1ad75c43b2681af",
+      "bytes": 73363
+    },
+    {
+      "path": "daft/00145-89cff5c7c748b944-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "82c058ecf8ab8e690bff11f542a541706327c775a848e58d11955a38e1a1d0b6",
+      "bytes": 8165
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

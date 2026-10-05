@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/allen-park-road-stillorgan-stillorgan-co-dublin/6671030",
+  "fetchedAt": "2026-10-05T09:13:36.243Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/allen-park-road-stillorgan-stillorgan-co-dublin/6671030",
+  "kind": "listing",
+  "responseSha256": "5528fbba1fbf813eeac6fffc3a3ee0fe3fa020cbde20c3be8b750bd78d1cc5cd",
+  "files": [
+    {
+      "path": "daft/00632-fc743b3540e0acb9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e20acb89af42ae94442f5b4c9e8739faa62910c2ceda9ff8c35771ae1e1402df",
+      "bytes": 51993
+    },
+    {
+      "path": "daft/00632-fc743b3540e0acb9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ab21a8bcc50cd857f43b10a42548a9a760a74f21bdf6d0dd63d49a679d1bea17",
+      "bytes": 8031
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

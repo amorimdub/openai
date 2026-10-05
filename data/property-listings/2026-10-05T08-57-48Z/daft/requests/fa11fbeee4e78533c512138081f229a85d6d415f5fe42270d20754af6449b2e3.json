@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/neptune-by-havitat-honeypark-dun-laoghaire-co-dublin/6679615",
+  "fetchedAt": "2026-10-05T09:02:59.464Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/neptune-by-havitat-honeypark-dun-laoghaire-co-dublin/6679615",
+  "kind": "listing",
+  "responseSha256": "7c7ff59a36bbda25629fb43d157ed8d9b3fa52eb192d8e9c4a9eb0da1d19a4b2",
+  "files": [
+    {
+      "path": "daft/00208-fa11fbeee4e78533-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fbe7a53baf1ddce48b03abdd9b95534fe605f3dd6d0ba085d6741671e0582baf",
+      "bytes": 216684
+    },
+    {
+      "path": "daft/00208-fa11fbeee4e78533-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "22b1cb6335121227e9f7e243faf6b8cf1a3cb1c64da8abb3e0e3fa4517eed8b3",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

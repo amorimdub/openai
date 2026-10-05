@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-9-39-dorset-street-upper-dublin-1/6645682",
+  "fetchedAt": "2026-10-05T09:18:21.621Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-9-39-dorset-street-upper-dublin-1/6645682",
+  "kind": "listing",
+  "responseSha256": "0c7c9692f2ccda5dfb4c1b093654dffc246ebff9ee412bb0a94e14a09c32924e",
+  "files": [
+    {
+      "path": "daft/00822-b4df406402be7632-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2223aeea3527e20af0cd1662f6b105e1c69341f177c668db0013125190e287b0",
+      "bytes": 42034
+    },
+    {
+      "path": "daft/00822-b4df406402be7632-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "44e284c854af6717645b716aafd18519980b6301d3c6605c38f09195ba400608",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

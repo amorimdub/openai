@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/coralstown-mullingar-co-westmeath/6640940",
+  "fetchedAt": "2026-10-05T09:16:36.507Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/coralstown-mullingar-co-westmeath/6640940",
+  "kind": "listing",
+  "responseSha256": "3b936b467dfe80d30f6c571eccef8024ae4e44c795b955ba91b1203869c663c9",
+  "files": [
+    {
+      "path": "daft/00752-e21c2db4fa3ae2fd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5626d0d72b76ef3eeaffb7880043c79c920f33bfdb09eeee78715b099b63e714",
+      "bytes": 21133
+    },
+    {
+      "path": "daft/00752-e21c2db4fa3ae2fd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1c0ede2104e4d9d93d234a3210c96722c17fa4ebeae77c206435175de5581f6b",
+      "bytes": 8060
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

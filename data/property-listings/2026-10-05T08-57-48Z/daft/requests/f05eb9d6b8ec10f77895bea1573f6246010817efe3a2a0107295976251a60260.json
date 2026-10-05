@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-cim-na-carraige-rockcorry-monaghan-rockcorry-co-monaghan/6686787",
+  "fetchedAt": "2026-10-05T09:25:10.157Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-cim-na-carraige-rockcorry-monaghan-rockcorry-co-monaghan/6686787",
+  "kind": "listing",
+  "responseSha256": "9dac470cf7dae53dd33f51a8f63059cb337b8d9e550d25aff910d65cdf77e09b",
+  "files": [
+    {
+      "path": "daft/01094-f05eb9d6b8ec10f7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5cd2aa212006f0b35af3c39b8db57913ab94cfca08cc8d00a6c47adb52209e10",
+      "bytes": 17172
+    },
+    {
+      "path": "daft/01094-f05eb9d6b8ec10f7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7e811d277a49259590964f88fa188b0a51a60f10664c2457da89b8ee68a55385",
+      "bytes": 8148
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

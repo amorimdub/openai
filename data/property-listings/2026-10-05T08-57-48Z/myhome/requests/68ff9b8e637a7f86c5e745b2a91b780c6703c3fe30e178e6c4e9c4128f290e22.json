@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=315",
+  "fetchedAt": "2026-10-05T12:57:20.354Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=315",
+  "kind": "search",
+  "responseSha256": "9e5af92ce431decd5b482c5da2aa51efd33fb5b17480a74535b661feecd80873",
+  "files": [
+    {
+      "path": "myhome/07027-68ff9b8e637a7f86-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=315\"].SearchResults",
+      "sha256": "9772e1deef568c8a67091fd61967750e8861d7ab4f34a1d08dc81c29ebacd777",
+      "bytes": 112718
+    },
+    {
+      "path": "myhome/07027-68ff9b8e637a7f86-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=315\"] (paging fields)",
+      "sha256": "983b3d699bd0dc9109529f8e6603a3cc69cbc5bb3be0951270ed07e39356db19",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-raheny-close-lusk-county-dublin/5023049",
+    "https://www.myhome.ie/residential/brochure/5-lansdowne-terrace-ennis-road-limerick/4999079",
+    "https://www.myhome.ie/residential/brochure/the-old-mill-rassan-ballyjamesduff-county-cavan/5023096",
+    "https://www.myhome.ie/residential/brochure/aille-west-inverin-co-galway/5023095",
+    "https://www.myhome.ie/residential/brochure/26-the-crescent-silver-banks-stamullen-meath/5022836",
+    "https://www.myhome.ie/residential/brochure/instow-riverbank-douglas-road-cork-douglas-cork/5023027",
+    "https://www.myhome.ie/residential/brochure/7-bridget-s-terrace-longford-longford/5023058",
+    "https://www.myhome.ie/residential/brochure/gortdromakiery-muckross-killarney-kerry/5023050",
+    "https://www.myhome.ie/residential/brochure/the-waterways-loughanleigh-mungret-co-limerick/5023083",
+    "https://www.myhome.ie/residential/brochure/1-st-mochtas-lawn-clonsilla-dublin-15/5018370",
+    "https://www.myhome.ie/residential/brochure/main-street-roscrea-co-tipperary/4957110",
+    "https://www.myhome.ie/residential/brochure/75-gandon-hall-gardiner-street-dublin-1/5023079",
+    "https://www.myhome.ie/residential/brochure/apartment-3e-roseville-court-henry-road-newbridge-co-kildare/5023078",
+    "https://www.myhome.ie/residential/brochure/moynalty-road-kells-meath/5023055",
+    "https://www.myhome.ie/residential/brochure/5-station-court-way-clonsilla-dublin-15/5023053",
+    "https://www.myhome.ie/residential/brochure/120-harold-s-cross-cottages-harold-s-cross-dublin-6/5016938",
+    "https://www.myhome.ie/residential/brochure/the-erin-3-bedroom-house-redford-adamstown-dublin/5022971",
+    "https://www.myhome.ie/residential/brochure/boytonrath-new-inn-cashel-tipperary/5023039",
+    "https://www.myhome.ie/residential/brochure/36-yourell-s-meadows-the-back-road-malahide-malahide-county-dublin/5022940",
+    "https://www.myhome.ie/residential/brochure/3-tyrrellsbrook-crescent-tyrrellsbrook-edenderry-offaly/5023032"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=316",
+  "paginationLimited": false
+}

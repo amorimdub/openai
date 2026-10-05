@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-marshall-yards-east-road-east-wall-co-dublin/6141979",
+  "fetchedAt": "2026-10-05T08:59:19.784Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-marshall-yards-east-road-east-wall-co-dublin/6141979",
+  "kind": "listing",
+  "responseSha256": "eef0513dd2745418c5d2e76f064c4da52efd22485401a1f88d3a16e7827626c6",
+  "files": [
+    {
+      "path": "daft/00062-5b97b535d6607c32-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b518b9f686684d1f9e52320062492ed31ef854753d44193ce0e59f710d9c7e70",
+      "bytes": 37362
+    },
+    {
+      "path": "daft/00062-5b97b535d6607c32-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a02dd76e285acc1d0383707a8daca96041b3f541d718371990517f5865e37840",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

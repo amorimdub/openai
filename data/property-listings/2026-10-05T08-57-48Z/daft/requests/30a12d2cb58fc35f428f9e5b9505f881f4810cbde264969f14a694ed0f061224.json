@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cluain-glasan-cluain-glasan-grange-co-kilkenny/6683510",
+  "fetchedAt": "2026-10-05T09:02:51.956Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cluain-glasan-cluain-glasan-grange-co-kilkenny/6683510",
+  "kind": "listing",
+  "responseSha256": "44be031fc41ff994f4de4111ff38eac90f8976fb4c4dce9646fd7d13e1e9add1",
+  "files": [
+    {
+      "path": "daft/00203-30a12d2cb58fc35f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dc75d21fc314bf07ba722db5d4217bdabe0628b809070b45b3f5cee0ab8b213a",
+      "bytes": 66054
+    },
+    {
+      "path": "daft/00203-30a12d2cb58fc35f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "63b410e00c678cc0d1a3e5c55d260ed0389e0839181030dcdb753a6b63376c76",
+      "bytes": 8103
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

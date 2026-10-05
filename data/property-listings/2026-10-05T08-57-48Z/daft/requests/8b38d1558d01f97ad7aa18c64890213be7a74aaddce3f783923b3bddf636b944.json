@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/5-brightwater-crosshaven-myrtleville-co-cork/6684647",
+  "fetchedAt": "2026-10-05T09:41:32.429Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/5-brightwater-crosshaven-myrtleville-co-cork/6684647",
+  "kind": "listing",
+  "responseSha256": "dd65b6f6f96129599252b0a569a18ae902f904836323d395189bc23ad08e4fef",
+  "files": [
+    {
+      "path": "daft/01748-8b38d1558d01f97a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "15bd7e2decd01f6048e1a64887ad2ec996b3c1076976a4e05c7c1c56840c8bd6",
+      "bytes": 54973
+    },
+    {
+      "path": "daft/01748-8b38d1558d01f97a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "54350da9fd3bbc3564e234491d66f656487dfe7fc10740c454b284862721b63a",
+      "bytes": 8023
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

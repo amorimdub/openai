@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-305-charlestown-place-finglas-dublin-11/6681501",
+  "fetchedAt": "2026-10-05T09:12:09.107Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-305-charlestown-place-finglas-dublin-11/6681501",
+  "kind": "listing",
+  "responseSha256": "01c96c106e07f60b10984abfe53e83c42daca1fd7c5449ee89299674b5d2dcd6",
+  "files": [
+    {
+      "path": "daft/00574-1fea8d97df88e59a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "60b2d3dfd1f5c92209244e840a514508c65216f3247bb58a4f66f67e84894903",
+      "bytes": 13915
+    },
+    {
+      "path": "daft/00574-1fea8d97df88e59a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f64fd3fd5ce38ed25967b71003290d5bd332709e5c07b4f376fb8223e35a9011",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

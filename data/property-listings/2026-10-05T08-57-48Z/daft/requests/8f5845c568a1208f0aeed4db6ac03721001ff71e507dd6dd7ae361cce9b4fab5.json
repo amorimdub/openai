@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/castle-street-ardee-co-louth/6686742",
+  "fetchedAt": "2026-10-05T09:10:17.966Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/castle-street-ardee-co-louth/6686742",
+  "kind": "listing",
+  "responseSha256": "412334eb9b01a91f03e88255ed5ff7fc53ada7b347b46c3a852d73ba3d1da33b",
+  "files": [
+    {
+      "path": "daft/00500-8f5845c568a1208f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c2d2ff2742662ee9b515cf910793e89c996cfc1619ffb36fa08a944420243afa",
+      "bytes": 23828
+    },
+    {
+      "path": "daft/00500-8f5845c568a1208f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aadba29e023ffb9f949c3a398f81bf5a178eecb3de8b177314a1c5d149c17030",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

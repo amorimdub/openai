@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rathmines-road-upper-rathmines-dublin-6/6687233",
+  "fetchedAt": "2026-10-05T09:24:02.543Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rathmines-road-upper-rathmines-dublin-6/6687233",
+  "kind": "listing",
+  "responseSha256": "865cad50b5d5a851dcb58c65ce0042424077d93ede996b16b4579b0e78190067",
+  "files": [
+    {
+      "path": "daft/01049-41fbc3fa65c7ec34-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ed0607c9de43c6586535c74e60b6919cb5da849a255c1de4833db8af79dbb815",
+      "bytes": 13969
+    },
+    {
+      "path": "daft/01049-41fbc3fa65c7ec34-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9d5ee8473d5ff2b9ef3605975f9625f9b265500dffd918356247ad1b63bfd3ca",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

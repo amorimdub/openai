@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-pad-rathmines-house-all-bills-included-rathmines-co-dublin/5490881",
+  "fetchedAt": "2026-10-05T09:08:32.848Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-pad-rathmines-house-all-bills-included-rathmines-co-dublin/5490881",
+  "kind": "listing",
+  "responseSha256": "b3fd5c970a3756b416ce566bdbc371311c886fb0064227f61f5bdfa5c6c693ba",
+  "files": [
+    {
+      "path": "daft/00430-bacbc3cc5e27c387-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f8a6441b0a3ee5052a597d85ca2aab02dc27c526105ccb4256a2d7e9d51b35fd",
+      "bytes": 29454
+    },
+    {
+      "path": "daft/00430-bacbc3cc5e27c387-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7283bf0ef21a965c85afddc6d05b9844abcb72d489e5fc5128a8229d1c118de6",
+      "bytes": 8012
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

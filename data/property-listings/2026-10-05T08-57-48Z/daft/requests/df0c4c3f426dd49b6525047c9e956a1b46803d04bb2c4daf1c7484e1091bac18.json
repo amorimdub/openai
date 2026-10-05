@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-10-suttonfield-court-suttonfield-park-carrickmines-dublin-18/6643190",
+  "fetchedAt": "2026-10-05T09:22:56.442Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-10-suttonfield-court-suttonfield-park-carrickmines-dublin-18/6643190",
+  "kind": "listing",
+  "responseSha256": "073be9680befd7af1c6d3a8e2a539df9ec5d7e1525c577704106c81dacb7b713",
+  "files": [
+    {
+      "path": "daft/01005-df0c4c3f426dd49b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04181e5c3e5ea600590d90a48ea8bd8afdd6f739f6be3560552b078979e0db90",
+      "bytes": 38036
+    },
+    {
+      "path": "daft/01005-df0c4c3f426dd49b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8b3828ebb7565bb9c8ac228f34bc3597c623435698987d1ac01f5a10ef7d402a",
+      "bytes": 8147
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

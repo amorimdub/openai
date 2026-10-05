@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "HOLY FAMILY SENIOR SCHOOL",
+      "numPupils": 296,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.841873",
+        "lon": "-8.981315"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY JUNIOR SCHOOL",
+      "numPupils": 185,
+      "distance": {
+        "value": 0.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.842510",
+        "lon": "-8.981139"
+      }
+    },
+    {
+      "schoolName": "ENNIS NATIONAL SCHOOL",
+      "numPupils": 622,
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.841335",
+        "lon": "-8.987302"
+      }
+    },
+    {
+      "schoolName": "CBS PRIMARY SCHOOL",
+      "numPupils": 648,
+      "distance": {
+        "value": 1.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.848343",
+        "lon": "-8.977509"
+      }
+    },
+    {
+      "schoolName": "CHRIOST RI",
+      "numPupils": 235,
+      "distance": {
+        "value": 1.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.847770",
+        "lon": "-8.992824"
+      }
+    },
+    {
+      "schoolName": "ST ANNE'S SPECIAL SCHOOL",
+      "numPupils": 137,
+      "distance": {
+        "value": 2.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.853860",
+        "lon": "-8.975535"
+      }
+    },
+    {
+      "schoolName": "CLARECASTLE NATIONAL SCHOOL",
+      "numPupils": 356,
+      "distance": {
+        "value": 2.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.817047",
+        "lon": "-8.970436"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL MHÍCHÍL CÍOSÓG INIS",
+      "numPupils": 471,
+      "distance": {
+        "value": 2.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.855892",
+        "lon": "-8.980846"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S ENNIS",
+      "numPupils": 110,
+      "distance": {
+        "value": 2.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.857044",
+        "lon": "-8.978622"
+      }
+    },
+    {
+      "schoolName": "ENNIS EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 149,
+      "distance": {
+        "value": 2.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.859177",
+        "lon": "-8.983097"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST FLANNAN'S COLLEGE",
+      "numPupils": 1273,
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.834080",
+        "lon": "-8.983918"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MUIRE",
+      "numPupils": 999,
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.846990",
+        "lon": "-8.985467"
+      }
+    },
+    {
+      "schoolName": "RICE COLLEGE",
+      "numPupils": 700,
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.847824",
+        "lon": "-8.979532"
+      }
+    },
+    {
+      "schoolName": "ENNIS COMMUNITY COLLEGE",
+      "numPupils": 612,
+      "distance": {
+        "value": 1.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.847187",
+        "lon": "-8.987692"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S SECONDARY SCHOOL TULLA",
+      "numPupils": 728,
+      "distance": {
+        "value": 15.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.864773",
+        "lon": "-8.760444"
+      }
+    },
+    {
+      "schoolName": "SHANNON COMPREHENSIVE SCHOOL",
+      "numPupils": 750,
+      "distance": {
+        "value": 16.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.704820",
+        "lon": "-8.879650"
+      }
+    },
+    {
+      "schoolName": "ST CAIMIN'S COMMUNITY SCHOOL",
+      "numPupils": 771,
+      "distance": {
+        "value": 16.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.705902",
+        "lon": "-8.861799"
+      }
+    },
+    {
+      "schoolName": "ST JOHN BOSCO COMMUNITY COLLEGE",
+      "numPupils": 301,
+      "distance": {
+        "value": 19.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.673050",
+        "lon": "-9.104575"
+      }
+    },
+    {
+      "schoolName": "SALESIAN SECONDARY COLLEGE",
+      "numPupils": 732,
+      "distance": {
+        "value": 22.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.647198",
+        "lon": "-8.857339"
+      }
+    },
+    {
+      "schoolName": "CBS SECONDARY SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 23.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.941784",
+        "lon": "-9.289401"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Castlewood",
+      "route": "330X",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8367",
+        "lon": "-8.98161"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clare Road",
+      "route": "317A",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.836442",
+        "lon": "-8.982937"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clare Road",
+      "route": "330",
+      "destination": "Shannon Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.836532",
+        "lon": "-8.98291"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "West County Hotel",
+      "route": "337",
+      "destination": "Kilrush",
+      "provider": "TFI Local Link Limerick Clare",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8320401309392",
+        "lon": "-8.98044864796126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "West County Hotel",
+      "route": "330X",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8320401309392",
+        "lon": "-8.98044864796126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "West County Hotel",
+      "route": "330",
+      "destination": "Shannon Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8320401309392",
+        "lon": "-8.98044864796126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ennis Station",
+      "route": "318",
+      "destination": "Limerick Arthur's Quay",
+      "provider": "TFI Local Link Limerick Clare",
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8393",
+        "lon": "-8.9757"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ennis Station",
+      "route": "337",
+      "destination": "Ennis",
+      "provider": "TFI Local Link Limerick Clare",
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8393",
+        "lon": "-8.9757"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ennis Station",
+      "route": "330",
+      "destination": "Ennis",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8393",
+        "lon": "-8.9757"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ennis Station",
+      "route": "336",
+      "destination": "Kilkee",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.8393",
+        "lon": "-8.9757"
+      }
+    }
+  ]
+}

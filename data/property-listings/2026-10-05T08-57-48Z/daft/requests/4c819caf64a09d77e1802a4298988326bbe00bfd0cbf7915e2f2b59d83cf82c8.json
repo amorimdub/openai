@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-occu-brookwood-st-brigids-road-killester-co-dublin/4506603",
+  "fetchedAt": "2026-10-05T09:08:46.365Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-occu-brookwood-st-brigids-road-killester-co-dublin/4506603",
+  "kind": "listing",
+  "responseSha256": "3b95eacdef81b1187963d68cedd27a4a4124f00b232f6f68d0d7c0800286a318",
+  "files": [
+    {
+      "path": "daft/00439-4c819caf64a09d77-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8e32c047ccb442c0bf6ecd0625ebc6a9db0621d2c0c76f678ea791141bdd2036",
+      "bytes": 63601
+    },
+    {
+      "path": "daft/00439-4c819caf64a09d77-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a200b9437036ab5b55aa41a7de841520630787dd551aeae85603fdf27d0fdf05",
+      "bytes": 7997
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

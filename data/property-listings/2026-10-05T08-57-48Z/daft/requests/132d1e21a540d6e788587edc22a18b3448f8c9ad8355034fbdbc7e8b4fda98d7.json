@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rostrevor-place-orwell-road-rathgar-co-dublin/3547526",
+  "fetchedAt": "2026-10-05T09:03:35.511Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rostrevor-place-orwell-road-rathgar-co-dublin/3547526",
+  "kind": "listing",
+  "responseSha256": "2ba7b024b490feb9e84aeda3a0ee45e8d696c3e4f5922d097e87d81febf25b11",
+  "files": [
+    {
+      "path": "daft/00232-132d1e21a540d6e7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d93fc795c16c11d3f6c19aeb91a072ac0c67d4904be3e91514df9e6b49036b8f",
+      "bytes": 99256
+    },
+    {
+      "path": "daft/00232-132d1e21a540d6e7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "49b111af2fa7f1dcc4682bc75ccdc36d5b16ccc041c1c95dce83e9455d85048c",
+      "bytes": 7998
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

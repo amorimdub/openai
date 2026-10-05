@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=17",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=17",
+  "fetchedAt": "2026-10-05T09:13:08.440Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "fc5dd049cdb6d9459b4d404f148fddb36c0332defc7c11be2168658ab34aed78",
+  "files": [
+    {
+      "path": "myhome/00609-e185743730578a98-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=17\"].SearchResults",
+      "sha256": "9ce37054e1bb40e615684f00cd589178b6b5414a7482af308c5d252189716334",
+      "bytes": 95741
+    },
+    {
+      "path": "myhome/00609-e185743730578a98-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=17\"] (paging fields)",
+      "sha256": "6b973136c5be88cc5eea9e311f23e23277ed3294c4e4dda115dcca281522df24",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/apartment-10-the-olde-dock-ship-street-little-dublin-8/5027061",
+    "https://www.myhome.ie/rentals/brochure/ashfield-grove-huntstown-dublin-15/5026954",
+    "https://www.myhome.ie/rentals/brochure/glenfield-south-liscarroll-co-cork/5015748",
+    "https://www.myhome.ie/rentals/brochure/clarion-quay-ifsc-dublin-1/5026852",
+    "https://www.myhome.ie/rentals/brochure/school-house-delgany-co-wicklow/5026815",
+    "https://www.myhome.ie/rentals/brochure/the-watermill-raheny-dublin-5/5026631",
+    "https://www.myhome.ie/rentals/brochure/apartment-23-oak-house-carrickmines-green-dublin-18/5026623",
+    "https://www.myhome.ie/rentals/brochure/hampton-park-st-helens-wood-co-dublin-booterstown-county-dublin/4983431",
+    "https://www.myhome.ie/rentals/brochure/belfry-square-citywest-co-dublin/5026383",
+    "https://www.myhome.ie/rentals/brochure/tirhomin-milford-county-donegal/5026367",
+    "https://www.myhome.ie/rentals/brochure/mews-house-blackrock-county-dublin/5026343",
+    "https://www.myhome.ie/rentals/brochure/apt-9-johnstown-house-glasnevin-dublin-11/5026251",
+    "https://www.myhome.ie/rentals/brochure/coppinger-glade-stillorgan-county-dublin/299058",
+    "https://www.myhome.ie/rentals/brochure/the-height-ballinglen-tinahely-wicklow/5026105",
+    "https://www.myhome.ie/rentals/brochure/41-malahide-marina-village-malahide-county-dublin/5026054",
+    "https://www.myhome.ie/rentals/brochure/49-ardmore-park-bray-wicklow/5026053",
+    "https://www.myhome.ie/rentals/brochure/8-fairyhill-bray-wicklow/5026051",
+    "https://www.myhome.ie/rentals/brochure/loughtown-lodge-donadea-county-kildare/5025979",
+    "https://www.myhome.ie/rentals/brochure/hampton-park-st-helens-wood-booterstown-county-dublin/299027",
+    "https://www.myhome.ie/rentals/brochure/sundrive-road-crumlin-dublin-12/5025697"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=18",
+  "paginationLimited": false
+}

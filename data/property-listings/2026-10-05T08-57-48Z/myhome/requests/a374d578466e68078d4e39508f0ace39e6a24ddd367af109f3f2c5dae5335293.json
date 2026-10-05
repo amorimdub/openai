@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=304",
+  "fetchedAt": "2026-10-05T12:51:45.096Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=304",
+  "kind": "search",
+  "responseSha256": "d9f52ed3971ddfdf47067a3dd3fb8a1b05979ac04036e38799bb4ff3c68b82e2",
+  "files": [
+    {
+      "path": "myhome/06804-a374d578466e6807-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=304\"].SearchResults",
+      "sha256": "30818c4b7061fbe5a9b21219e3951fe85ec48d673f106844dfd2313b1ecf5c1c",
+      "bytes": 110917
+    },
+    {
+      "path": "myhome/06804-a374d578466e6807-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=304\"] (paging fields)",
+      "sha256": "d00be9e73e5c327e97c356a1095e66afdcb52c70aca0451987003d3c8e040952",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-lyons-lane-newcastle-baldonnel-dublin-22/5023583",
+    "https://www.myhome.ie/residential/brochure/51-brookvale-downs-rathfarnham-dublin-14/5023445",
+    "https://www.myhome.ie/residential/brochure/apartment-25-the-barge-market-point-mullingar-co-westmeath/5023587",
+    "https://www.myhome.ie/residential/brochure/126-north-strand-road-fairview-dublin-3/5023585",
+    "https://www.myhome.ie/residential/brochure/6-bellair-close-bellair-estate-ballinlough-cork-city/5023584",
+    "https://www.myhome.ie/residential/brochure/de-clare-house-gallows-hill-bennettsbridge-road-kilkenny-kilkenny/5023550",
+    "https://www.myhome.ie/residential/brochure/14-lower-john-street-wexford-town/5023577",
+    "https://www.myhome.ie/residential/brochure/33-kingsgrove-athy-kildare/4997402",
+    "https://www.myhome.ie/residential/brochure/40-avondale-drive-athy-kildare/4998706",
+    "https://www.myhome.ie/residential/brochure/deerpark-ennistymon-clare/5023570",
+    "https://www.myhome.ie/residential/brochure/76-the-glebe-ballina-co-mayo/5023572",
+    "https://www.myhome.ie/residential/brochure/6-belarmine-vale-stepaside-dublin-18/5023557",
+    "https://www.myhome.ie/residential/brochure/the-haven-south-shore-road-rush-dublin/5023562",
+    "https://www.myhome.ie/residential/brochure/curralime-25-strandville-gardens-o-callaghan-strand-limerick/5023564",
+    "https://www.myhome.ie/residential/brochure/roxton-corofin-county-clare/5023559",
+    "https://www.myhome.ie/residential/brochure/the-new-house-ballinspittle-kinsale-cork/5023528",
+    "https://www.myhome.ie/residential/brochure/23-parkvale-dundrum-dublin-16/5008464",
+    "https://www.myhome.ie/residential/brochure/27-maple-drive-kells-meath/5023547",
+    "https://www.myhome.ie/residential/brochure/14-beline-close-banagher-court-piltown-co-kilkenny/5023545",
+    "https://www.myhome.ie/residential/brochure/palmhill-house-kiltrogue-cregmore-claregalway-co-galway/5023538"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=305",
+  "paginationLimited": false
+}

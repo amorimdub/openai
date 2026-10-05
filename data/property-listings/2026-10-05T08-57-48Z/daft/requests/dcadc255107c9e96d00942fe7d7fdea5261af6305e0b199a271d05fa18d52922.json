@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/36-glenmalure-square-milltown-dublin-6/6158162",
+  "fetchedAt": "2026-10-05T09:15:12.404Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/36-glenmalure-square-milltown-dublin-6/6158162",
+  "kind": "listing",
+  "responseSha256": "4a7b91a4bdb56c2b153eafe6afbf44e86f860811fcf2b26b1090868fad3aceef",
+  "files": [
+    {
+      "path": "daft/00696-dcadc255107c9e96-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "06d5f1a38db73e869cb291194d7c479d841034afb7d6f831c615e1eb27116767",
+      "bytes": 46959
+    },
+    {
+      "path": "daft/00696-dcadc255107c9e96-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "89f8f44c5145585763f447bb5cb220b4aa12f36545b6e2785cb400e393a33c75",
+      "bytes": 8009
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

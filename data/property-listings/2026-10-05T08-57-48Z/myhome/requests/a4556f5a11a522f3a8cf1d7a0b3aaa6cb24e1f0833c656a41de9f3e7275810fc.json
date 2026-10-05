@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=332",
+  "fetchedAt": "2026-10-05T13:05:37.931Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=332",
+  "kind": "search",
+  "responseSha256": "570f7cff41425c3b880bc0a0ca560f557048ee9c9fb27efabf801b0439b81ed0",
+  "files": [
+    {
+      "path": "myhome/07358-a4556f5a11a522f3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=332\"].SearchResults",
+      "sha256": "198deed67d0019faeb78a31840a2e67267499586202762d2c0b0fa9dd230ee15",
+      "bytes": 127160
+    },
+    {
+      "path": "myhome/07358-a4556f5a11a522f3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=332\"] (paging fields)",
+      "sha256": "3f5aa813ebd7326a9fa7f8b59c141d9d186d06e3113b9a01bb80b818e843b0bd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/coolboy-tinahely-county-wicklow/5021760",
+    "https://www.myhome.ie/residential/brochure/25-cubes-1-beacon-south-quarter-sandyford-dublin-18/5021751",
+    "https://www.myhome.ie/residential/brochure/mermaid-isle-glanlough-lower-sneem-kerry/5021745",
+    "https://www.myhome.ie/residential/brochure/148-cherryfield-road-walkinstown-dublin-12/5017517",
+    "https://www.myhome.ie/residential/brochure/5-bancroft-court-tallaght-dublin-24/5010472",
+    "https://www.myhome.ie/residential/brochure/erin-s-cottage-college-farm-road-letterkenny-co-donegal/5021742",
+    "https://www.myhome.ie/residential/brochure/12-yachtmans-point-wicklow-town-wicklow/4997172",
+    "https://www.myhome.ie/residential/brochure/clarisses-cottage-glenmacnass-glendalough-wicklow/4871163",
+    "https://www.myhome.ie/residential/brochure/apartment-9-39-dorset-street-upper-dublin-1-dublin/5021713",
+    "https://www.myhome.ie/residential/brochure/4-sunview-court-south-douglas-road-city-centre-sth-cork/5021261",
+    "https://www.myhome.ie/residential/brochure/24-killiney-court-seafield-road-killiney-co-dublin/5021739",
+    "https://www.myhome.ie/residential/brochure/29-admiran-park-stranorlar-co-donegal/5021736",
+    "https://www.myhome.ie/residential/brochure/heavenstown-cleariestown-co-wexford/5021731",
+    "https://www.myhome.ie/residential/brochure/7-sliabh-ros-bunclody-co-wexford/5021474",
+    "https://www.myhome.ie/residential/brochure/card-ross-99-glasheen-road-glasheen-cork/5021709",
+    "https://www.myhome.ie/residential/brochure/35-glenbrook-knock-co-mayo/5021729",
+    "https://www.myhome.ie/residential/brochure/stylebawn-delgany-co-wicklow-greystones/5021717",
+    "https://www.myhome.ie/residential/brochure/thislldome-ardcavan-wexford-town-wexford/5021711",
+    "https://www.myhome.ie/residential/brochure/20-lower-o-connell-street-kinsale-co-cork-kinsale-cork/5021702",
+    "https://www.myhome.ie/residential/brochure/26-brookville-park-artane-dublin-5/5003000"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=333",
+  "paginationLimited": false
+}

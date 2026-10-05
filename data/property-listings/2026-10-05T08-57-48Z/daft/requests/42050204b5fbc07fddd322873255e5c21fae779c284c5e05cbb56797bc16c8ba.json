@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-74-thornfield-square-clondalkin-dublin-22/6685116",
+  "fetchedAt": "2026-10-05T09:38:39.700Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-74-thornfield-square-clondalkin-dublin-22/6685116",
+  "kind": "listing",
+  "responseSha256": "ee915130d2d22ec7ead5524aa404117285610514a54362bc2f94b44eae7f9c8c",
+  "files": [
+    {
+      "path": "daft/01633-42050204b5fbc07f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a81d87b9435217671abe2d4db5ba6f6c50958390dcc04891b09d031de3ec62cc",
+      "bytes": 25193
+    },
+    {
+      "path": "daft/01633-42050204b5fbc07f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3ffe8615722bff4fd224492b062da5da72500dc6b7e7da09cd6e96d9c0cd17f3",
+      "bytes": 8024
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

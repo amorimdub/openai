@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=148",
+  "fetchedAt": "2026-10-05T11:30:40.622Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=148",
+  "kind": "search",
+  "responseSha256": "ba5db7736647ec6f31f38c359d73318929fdfdf59fb48a59cf97d1e7c6641a96",
+  "files": [
+    {
+      "path": "myhome/03573-a89c2fa2eea62553-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=148\"].SearchResults",
+      "sha256": "309ba287a6a0bba1428c64ff54214c9cd004e61d49407f7270b02ebf99701439",
+      "bytes": 112028
+    },
+    {
+      "path": "myhome/03573-a89c2fa2eea62553-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=148\"] (paging fields)",
+      "sha256": "b2b6491cfb775a3df7306e289cb5d31e527b82761b4f09763ea21b5c4affd085",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/184-applewood-heights-greystones-wicklow/4981591",
+    "https://www.myhome.ie/residential/brochure/613-virginia-heights-springfield-tallaght-dublin-24/5029004",
+    "https://www.myhome.ie/residential/brochure/27-booterstown-wood-booterstown-avenue-booterstown-dublin/5028996",
+    "https://www.myhome.ie/residential/brochure/coonawarra-38-killiney-road-dalkey-county-dublin/5028749",
+    "https://www.myhome.ie/residential/brochure/keenogue-julianstown-drogheda-co-louth/5029000",
+    "https://www.myhome.ie/residential/brochure/25-the-pines-arklow-wicklow/5016954",
+    "https://www.myhome.ie/residential/brochure/81-castlegate-way-adamstown-lucan-county-dublin/5028999",
+    "https://www.myhome.ie/residential/brochure/derelict-residence-granary-on-c-28-02-acres-kilcar-curraghboy-county-roscommon/5028998",
+    "https://www.myhome.ie/residential/brochure/100-cedarwood-road-glasnevin-dublin-11/5028995",
+    "https://www.myhome.ie/residential/brochure/17-chapel-manor-dunlavin-wicklow/5025211",
+    "https://www.myhome.ie/residential/brochure/52-saint-fintans-villas-deansgrange-blackrock/5028994",
+    "https://www.myhome.ie/residential/brochure/station-view-teeling-st-tubbercurry-sligo/5028993",
+    "https://www.myhome.ie/residential/brochure/6-cleamore-terrace-kildare-town-co-kildare/5028992",
+    "https://www.myhome.ie/residential/brochure/ballynaparka-house-aglish-waterford/5023510",
+    "https://www.myhome.ie/residential/brochure/9-mill-meadows-arklow-co-wicklow/5028990",
+    "https://www.myhome.ie/residential/brochure/14-priest-s-lane-drogheda-co-louth/5028988",
+    "https://www.myhome.ie/residential/brochure/4-albert-college-park-glasnevin-dublin-9/5025870",
+    "https://www.myhome.ie/residential/brochure/roker-thormanby-road-howth-county-dublin/5026177",
+    "https://www.myhome.ie/residential/brochure/1-the-long-meadow-fethard-on-sea-fethard-wexford/5028980",
+    "https://www.myhome.ie/residential/brochure/dunbin-knockbridge-louth/5028877"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=149",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-3-the-glenville-centre-ardkeen-co-waterford/6685221",
+  "fetchedAt": "2026-10-05T09:37:41.135Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-3-the-glenville-centre-ardkeen-co-waterford/6685221",
+  "kind": "listing",
+  "responseSha256": "4f71c9ad7363e59d4d94f2a65096dc3f80176027c499335ebd42823bc41e4f67",
+  "files": [
+    {
+      "path": "daft/01594-ff11631da5a4ff25-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8522f572ee834d42d0d7443363d48cc434fc4e22d6f67cd3c2f97ff9c990eb99",
+      "bytes": 20234
+    },
+    {
+      "path": "daft/01594-ff11631da5a4ff25-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a4688aea2e4ab8db9e3f2ea0629d4616a87adc3c8d3a7e085515e6ef7da6af0c",
+      "bytes": 8052
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

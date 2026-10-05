@@ -1,0 +1,432 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "16 pairc an tobar kanturk cork",
+    "GroupId": 389177,
+    "Address": "16 Pairc An Tobar",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/3fccfff9-00cb-464b-9e03-3ccb29f85e85_l.png",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/3fccfff9-00cb-464b-9e03-3ccb29f85e85_x.png",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/3fccfff9-00cb-464b-9e03-3ccb29f85e85_l.png",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c3afcc7f-107a-440f-9c9a-7657167819a9_l.png",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/613ac05d-9af8-4550-b9ba-5effa8550489_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/419fcc42-2d29-4330-99a3-e8c3475158b1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/d31048cf-7701-4f46-8b99-04b3367ddd36_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/aac2881c-7029-4b2f-97f8-135631ef7fa9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/e67a43f4-d853-43d6-9bad-bdcdffda00d1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/94dcf44e-d3fe-4904-ad8d-996fc6c7900e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9544452a-3a07-4d10-ab6d-886954c41cd5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/426c936d-e21f-4f05-ad31-cfc3dd158de1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/0cddef3d-1d0e-4042-b2f9-9cbee669ba16_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/75793b15-c981-480e-a314-99946ea56a24_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c32c273d-4469-4102-849e-e12c131c4c34_l.png",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c714416e-4dc1-4b6f-8201-8d19994062a6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9e61f65e-8bb8-400f-80aa-ee6d64fec3f6_l.png",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/35e22bb0-7a27-457c-bff6-558f40c81947_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/cb32df5f-005f-49d1-b91b-47d02e143b9a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/2174445f-e756-4ed9-950e-ce01fe770889_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/20cd4e30-f783-4127-ad56-5af10c33d9d5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/503b100e-bf14-4742-91b1-fe1cd4b9f1ba_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/5/6/5016653/18f1dfe0-e223-426f-9987-dc02ff3426a6_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 134,
+    "MaxSize": 134,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 26,
+        "Name": "Garage",
+        "CreatedOn": "2018-09-11T10:20:02.6870000+01:00",
+        "IconName": "myh-icon-garage",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Welcome to 16 Páirc An Tobar, Kanturk – a deceptively spacious family home that is guaranteed to impress from the moment you step inside. Beautifully presented and thoughtfully updated, this bright and welcoming property offers exceptional space, comfort and versatility in one of Kanturk’s most sought-after family-friendly residential developments.\r\n\r\nThe accommodation comprises five generous bedrooms and three bathrooms, providing all the space today’s growing families need. Whether you’re looking for additional bedrooms, a home office, playroom, hobby room or guest accommodation, this home adapts effortlessly to your lifestyle. It would also make an excellent investment opportunity for those seeking a quality rental property.\r\n\r\nThe real showstopper, however, is the exceptionally large rear garden. Private, picturesque and enjoying lovely open views, it provides the perfect setting for entertaining, relaxing or simply watching children and pets make the most of the wonderful outdoor space. Mature trees, colourful rose bushes and established planting create a charming backdrop for keen gardeners, while the patio is an ideal spot to enjoy your morning coffee or long summer evenings.\r\n\r\nInside, the spacious open-plan kitchen and dining area forms the heart of the home, perfect for everyday family life and entertaining alike. A convenient ground-floor guest WC adds practicality, while the cosy sitting room, complete with a feature fireplace, offers the perfect retreat for family gatherings or relaxing movie nights. All kitchen appliances are included in the sale, making moving in even easier.\r\n\r\nPositioned in a quiet cul-de-sac, 16 Páirc An Tobar enjoys a superb location within walking distance of schools, shops, churches, sporting facilities and all the amenities Kanturk has to offer. Families will particularly appreciate the safe, welcoming neighbourhood where children can enjoy outdoor play with peace of mind.\r\n\r\nProperties offering five bedrooms, parking for two vehicles, an exceptional rear garden and such a convenient location rarely become available. This is a home that offers space to grow, entertain and create lasting family memories.\r\n\r\nEarly viewing is highly recommended.\r\n\r\nContact Sherry O’Callaghan Town & Country Real Estate today to arrange your private viewing."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Freshly painted with new flooring installed throughout\r\nNew front door and window recently added\r\nClose proximity to Kanturk town & all its amenities\r\nHuge rear garden with lovely patio area\r\nRear garden features access from each side with garage\r\nAttractive fireplace in sitting room\r\nWell apportioned kitchen and dining area\r\n5 bedrooms + 3 bathrooms= developed WITH planning permission on all 3 levels\r\nFamily friendly estate"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C1"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 606518,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-07-23T08:57:48.1230000+01:00",
+    "ModifiedOnDate": "2026-09-22T15:55:15.8770000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-07-23T09:20:32.3700000+01:00",
+    "RefreshedOn": "2026-07-23T09:20:32.3700000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€350,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5016653,
+    "BedsString": "5 beds",
+    "SizeStringMeters": 134,
+    "DisplayAddress": "16 Pairc An Tobar, Kanturk, Cork",
+    "Eircode": "P51T6H6",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 737,
+    "RegionName": "Cork",
+    "LocalityId": 823,
+    "LocalityName": "Kanturk",
+    "Price": {
+      "MinPrice": 350000,
+      "MaxPrice": 350000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/3fccfff9-00cb-464b-9e03-3ccb29f85e85_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/3fccfff9-00cb-464b-9e03-3ccb29f85e85_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/3fccfff9-00cb-464b-9e03-3ccb29f85e85_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c3afcc7f-107a-440f-9c9a-7657167819a9_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c3afcc7f-107a-440f-9c9a-7657167819a9_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c3afcc7f-107a-440f-9c9a-7657167819a9_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/613ac05d-9af8-4550-b9ba-5effa8550489_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/613ac05d-9af8-4550-b9ba-5effa8550489_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/613ac05d-9af8-4550-b9ba-5effa8550489_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/419fcc42-2d29-4330-99a3-e8c3475158b1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/419fcc42-2d29-4330-99a3-e8c3475158b1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/419fcc42-2d29-4330-99a3-e8c3475158b1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/d31048cf-7701-4f46-8b99-04b3367ddd36_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/d31048cf-7701-4f46-8b99-04b3367ddd36_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/d31048cf-7701-4f46-8b99-04b3367ddd36_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/aac2881c-7029-4b2f-97f8-135631ef7fa9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/aac2881c-7029-4b2f-97f8-135631ef7fa9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/aac2881c-7029-4b2f-97f8-135631ef7fa9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/e67a43f4-d853-43d6-9bad-bdcdffda00d1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/e67a43f4-d853-43d6-9bad-bdcdffda00d1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/e67a43f4-d853-43d6-9bad-bdcdffda00d1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/94dcf44e-d3fe-4904-ad8d-996fc6c7900e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/94dcf44e-d3fe-4904-ad8d-996fc6c7900e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/94dcf44e-d3fe-4904-ad8d-996fc6c7900e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9544452a-3a07-4d10-ab6d-886954c41cd5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9544452a-3a07-4d10-ab6d-886954c41cd5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9544452a-3a07-4d10-ab6d-886954c41cd5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/426c936d-e21f-4f05-ad31-cfc3dd158de1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/426c936d-e21f-4f05-ad31-cfc3dd158de1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/426c936d-e21f-4f05-ad31-cfc3dd158de1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/0cddef3d-1d0e-4042-b2f9-9cbee669ba16_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/0cddef3d-1d0e-4042-b2f9-9cbee669ba16_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/0cddef3d-1d0e-4042-b2f9-9cbee669ba16_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/75793b15-c981-480e-a314-99946ea56a24_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/75793b15-c981-480e-a314-99946ea56a24_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/75793b15-c981-480e-a314-99946ea56a24_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c32c273d-4469-4102-849e-e12c131c4c34_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c32c273d-4469-4102-849e-e12c131c4c34_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c32c273d-4469-4102-849e-e12c131c4c34_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c714416e-4dc1-4b6f-8201-8d19994062a6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c714416e-4dc1-4b6f-8201-8d19994062a6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/c714416e-4dc1-4b6f-8201-8d19994062a6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9e61f65e-8bb8-400f-80aa-ee6d64fec3f6_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9e61f65e-8bb8-400f-80aa-ee6d64fec3f6_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/9e61f65e-8bb8-400f-80aa-ee6d64fec3f6_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/35e22bb0-7a27-457c-bff6-558f40c81947_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/35e22bb0-7a27-457c-bff6-558f40c81947_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/35e22bb0-7a27-457c-bff6-558f40c81947_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/cb32df5f-005f-49d1-b91b-47d02e143b9a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/cb32df5f-005f-49d1-b91b-47d02e143b9a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/cb32df5f-005f-49d1-b91b-47d02e143b9a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/2174445f-e756-4ed9-950e-ce01fe770889_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/2174445f-e756-4ed9-950e-ce01fe770889_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/2174445f-e756-4ed9-950e-ce01fe770889_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/20cd4e30-f783-4127-ad56-5af10c33d9d5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/20cd4e30-f783-4127-ad56-5af10c33d9d5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/20cd4e30-f783-4127-ad56-5af10c33d9d5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/503b100e-bf14-4742-91b1-fe1cd4b9f1ba_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/503b100e-bf14-4742-91b1-fe1cd4b9f1ba_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/503b100e-bf14-4742-91b1-fe1cd4b9f1ba_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/18f1dfe0-e223-426f-9987-dc02ff3426a6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/18f1dfe0-e223-426f-9987-dc02ff3426a6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/5/6/5016653/18f1dfe0-e223-426f-9987-dc02ff3426a6_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -8.8963647,
+      "latitude": 52.1813608
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 21,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "ee2c037c-5246-405d-9fd4-9da6af901069",
+        "Filename": "https://youtube.com/embed/hdd-OQzv2DI?si=fl_Z3swHt7TTslOS",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "96ce3d60-eb0f-4902-8ac2-6206fbb4aa55",
+        "Filename": "https://youtube.com/embed/DzMhB0lOJOM?si=jipsHIsPVGiI1o3S",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 389177,
+    "Name": "O'Callaghan Town & Country Real Estate",
+    "DisplayPhone": "086 271 6598",
+    "Email": "sherry@townandcountryrealestate.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "ocallaghan-town-country-real-estate",
+    "SeoName": "ocallaghan-town-country-real-estate",
+    "Address": "18 New Street, Killarney, Co. Kerry",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/7/7/1/389177/logo.jpg",
+    "SalesLicense": "004523",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "kanturk/823",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/16-pairc-an-tobar-kanturk-cork/5016653",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 606518,
+    "Name": "Sherry O'Callaghan",
+    "Email": "sherry@townandcountryrealestate.ie",
+    "Licence": ""
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 389177,
+    "MYH_LocalityID": 823,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 737,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Garden",
+      "Patio",
+      "Dishwasher",
+      "Garage"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Central Heating,Microwave,Broadband,Garden,Patio,Dishwasher,Garage",
+    "MYH_MaxPrice": 350000,
+    "MYH_MinBeds": 5,
+    "MYH_MinEnergyRating": 90,
+    "MYH_MinPrice": 350000,
+    "MYH_MinSize": 134,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5016653,
+    "MYH_PropertyTypeID": 39
+  }
+}
