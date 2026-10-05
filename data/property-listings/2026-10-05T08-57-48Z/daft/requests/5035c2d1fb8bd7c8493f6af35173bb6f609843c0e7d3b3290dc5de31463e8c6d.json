@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/clonliffe-road-drumcondra-co-dublin/6683467",
+  "fetchedAt": "2026-10-05T09:49:52.742Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/clonliffe-road-drumcondra-co-dublin/6683467",
+  "kind": "listing",
+  "responseSha256": "8225cb7ec5436762bdb09674a8650fe0b44855e3e8eed324d622905be3f2b57a",
+  "files": [
+    {
+      "path": "daft/02081-5035c2d1fb8bd7c8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4533e850f36e723b2196322aa7624579cf80085d2b548ed1d1246c8df4b35552",
+      "bytes": 2387
+    },
+    {
+      "path": "daft/02081-5035c2d1fb8bd7c8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a15172b795af8ce535377a30203ae643c4b6bc04254b79730cef4dfe2da7d165",
+      "bytes": 8074
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

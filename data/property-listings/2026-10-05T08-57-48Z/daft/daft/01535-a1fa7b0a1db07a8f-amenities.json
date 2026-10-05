@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "LAKEVIEW SCHOOL",
+      "numPupils": 74,
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276320",
+        "lon": "-9.028107"
+      }
+    },
+    {
+      "schoolName": "ROSEDALE SCHOOL",
+      "numPupils": 73,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279606",
+        "lon": "-9.028494"
+      }
+    },
+    {
+      "schoolName": "RENMORE SENIOR SCHOOL",
+      "numPupils": 361,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276370",
+        "lon": "-9.017639"
+      }
+    },
+    {
+      "schoolName": "SCOIL CHAITRÍONA JUNIOR SCHOOL",
+      "numPupils": 367,
+      "distance": {
+        "value": 0.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276627",
+        "lon": "-9.017614"
+      }
+    },
+    {
+      "schoolName": "RADHARC NA MARA NATIONAL SCHOOL",
+      "numPupils": 351,
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.281710",
+        "lon": "-9.022004"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL DARA",
+      "numPupils": 428,
+      "distance": {
+        "value": 1.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276394",
+        "lon": "-9.012272"
+      }
+    },
+    {
+      "schoolName": "MERCY PRIMARY",
+      "numPupils": 261,
+      "distance": {
+        "value": 1.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275715",
+        "lon": "-9.053796"
+      }
+    },
+    {
+      "schoolName": "ST NICHOLAS' PRIMARY SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 1.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276405",
+        "lon": "-9.054381"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 1.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272263",
+        "lon": "-9.055382"
+      }
+    },
+    {
+      "schoolName": "TIRELLAN HEIGHTS NATIONAL SCHOOL",
+      "numPupils": 349,
+      "distance": {
+        "value": 2.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289757",
+        "lon": "-9.043773"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 1.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "GALWAY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 350,
+      "distance": {
+        "value": 1.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274510",
+        "lon": "-8.998752"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COLLEGE",
+      "numPupils": 767,
+      "distance": {
+        "value": 2.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272594",
+        "lon": "-9.058093"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S COLLEGE",
+      "numPupils": 249,
+      "distance": {
+        "value": 2.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273636",
+        "lon": "-9.059698"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IOGNÁID S.J.",
+      "numPupils": 636,
+      "distance": {
+        "value": 2.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269960",
+        "lon": "-9.061381"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE MÁTHAIR",
+      "numPupils": 765,
+      "distance": {
+        "value": 2.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271027",
+        "lon": "-9.064991"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 415,
+      "distance": {
+        "value": 2.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271060",
+        "lon": "-9.067110"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MHUIRLINNE/MERLIN COLLEGE",
+      "numPupils": 725,
+      "distance": {
+        "value": 3.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283947",
+        "lon": "-8.983322"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE",
+      "numPupils": 601,
+      "distance": {
+        "value": 3.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268574",
+        "lon": "-9.076905"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÉINDE",
+      "numPupils": 806,
+      "distance": {
+        "value": 4.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.265705",
+        "lon": "-9.089664"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Renmore Barracks",
+      "route": "402",
+      "destination": "Merlin Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273607",
+        "lon": "-9.028516"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Arbutus Avenue",
+      "route": "402",
+      "destination": "Seacrest",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2724902891581",
+        "lon": "-9.02357157141729"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dun na Mara",
+      "route": "402",
+      "destination": "Seacrest",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275569",
+        "lon": "-9.026074"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hawthorn Dr",
+      "route": "402",
+      "destination": "Seacrest",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272285",
+        "lon": "-9.021318"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Renmore Pk",
+      "route": "402",
+      "destination": "Merlin Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276829",
+        "lon": "-9.02381"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rowan Ave",
+      "route": "402",
+      "destination": "Merlin Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27307",
+        "lon": "-9.018833"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bon Secours Hospl",
+      "route": "402",
+      "destination": "Merlin Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278347",
+        "lon": "-9.021822"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fuschia Drive",
+      "route": "402",
+      "destination": "Seacrest",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2728776170142",
+        "lon": "-9.01611435151466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Woodlands Cm",
+      "route": "404",
+      "destination": "Oranmore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279859",
+        "lon": "-9.024782"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Woodlands Cm",
+      "route": "409",
+      "destination": "Celestica",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279859",
+        "lon": "-9.024782"
+      }
+    }
+  ]
+}

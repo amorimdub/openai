@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/groody-road-castletroy-co-limerick/6686632",
+  "fetchedAt": "2026-10-05T09:27:07.339Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/groody-road-castletroy-co-limerick/6686632",
+  "kind": "listing",
+  "responseSha256": "813b0d19674e528ea4413c8cf0e09da7a7d30d51dc068edf00ef139a367dfb9a",
+  "files": [
+    {
+      "path": "daft/01172-a882334cd00be59c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "91d6f08c65d252b989ae51132387b79f361372526a6029f0d71f083c3b585531",
+      "bytes": 37158
+    },
+    {
+      "path": "daft/01172-a882334cd00be59c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "87635a58ecaee047131e3e0ea6eadf07315c2084e0260b1fdabb6c9c8e216417",
+      "bytes": 8089
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

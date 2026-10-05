@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=11",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=11",
+  "fetchedAt": "2026-10-05T09:06:19.996Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "7af75831a67dac46622905ceacb3850faba23db1f2fadedf6964505c7c8e9f35",
+  "files": [
+    {
+      "path": "myhome/00341-58fa8df08ab7fd51-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=11\"].SearchResults",
+      "sha256": "cf3c3f7a1372d731a2fd501df04ce5e7b26d6141612b496d9acc19c7f61ae92e",
+      "bytes": 102552
+    },
+    {
+      "path": "myhome/00341-58fa8df08ab7fd51-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=11\"] (paging fields)",
+      "sha256": "f5bdaf122ad6bb6ff55290d0bd983838729e30fe58b8ac57a182c9bb85aaeae1",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/10-myrtle-close-boyd-house-the-coast-dublin-13-baldoyle/5032048",
+    "https://www.myhome.ie/residential/brochure/whitehall-riverstown-co-sligo/5032047",
+    "https://www.myhome.ie/residential/brochure/87b-rosehill-wicklow-co-wicklow/5032045",
+    "https://www.myhome.ie/residential/brochure/beal-an-atha-minna-inverin-co-galway/5032046",
+    "https://www.myhome.ie/residential/brochure/apartment-3-green-view-verdemont-dublin-15-dublin/5032044",
+    "https://www.myhome.ie/residential/brochure/3-rathoe-newtown-ramsgrange-wexford/5005740",
+    "https://www.myhome.ie/residential/brochure/8-9-jkl-street-edenderry-co-kildare/5032042",
+    "https://www.myhome.ie/residential/brochure/30-beacon-court-dundalk-co-louth/5032041",
+    "https://www.myhome.ie/residential/brochure/main-street-ardagh-co-limerick/5032039",
+    "https://www.myhome.ie/residential/brochure/62-dufferin-avenue-south-circular-road-dublin-8/5031844",
+    "https://www.myhome.ie/residential/brochure/41-haven-hill-summercove-kinsale-county-cork/5032040",
+    "https://www.myhome.ie/residential/brochure/106-wylies-hill-ballybay-co-monaghan/5032038",
+    "https://www.myhome.ie/residential/brochure/auguste-ballindud-co-waterford/5032037",
+    "https://www.myhome.ie/residential/brochure/berwick-pines-foxrock-dublin-18/5004458",
+    "https://www.myhome.ie/residential/brochure/28-castleknock-ave-castleknock-dublin-15/5030978",
+    "https://www.myhome.ie/residential/brochure/11-eastmoreland-place-dublin-4-ballsbridge/5032035",
+    "https://www.myhome.ie/residential/brochure/26-aberdeen-street-stoneybatter-dublin-7/5032036",
+    "https://www.myhome.ie/residential/brochure/syngefield-house-clonoghill-upper-birr-co-offaly/5032034",
+    "https://www.myhome.ie/residential/brochure/81-glenbrook-park-rathfarnham-dublin-14/5032033",
+    "https://www.myhome.ie/residential/brochure/leighton-close-two-mile-borris-thurles-co-tipperary/5032032"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=12",
+  "paginationLimited": false
+}

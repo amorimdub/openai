@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/dun-na-carraige-blackrock-salthill-co-galway/6668160",
+  "fetchedAt": "2026-10-05T09:21:47.337Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/dun-na-carraige-blackrock-salthill-co-galway/6668160",
+  "kind": "listing",
+  "responseSha256": "e431b13d91cb6edfa742fd6e48e051ce45cfb5ef2bedb3250ff65b6421b839da",
+  "files": [
+    {
+      "path": "daft/00959-6d0916445a8fcb06-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cdc1e6588582555f8c618f9804b84cac12ce1929647fed5c99d5d982b7873cc7",
+      "bytes": 78722
+    },
+    {
+      "path": "daft/00959-6d0916445a8fcb06-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7ec011c4777104e8f48e35b60d97ae62ffc0d1698206e07a3e897469e2b4e9f5",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

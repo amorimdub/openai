@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=327",
+  "fetchedAt": "2026-10-05T13:03:06.103Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=327",
+  "kind": "search",
+  "responseSha256": "116a023ab0ced0dab45d89eb55c35dbc9488f3a62fb0ebb4d5184befbccfa9f0",
+  "files": [
+    {
+      "path": "myhome/07257-d895bc42fd6c96fc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=327\"].SearchResults",
+      "sha256": "13276a2d3fd4addcfb9fdbc777977fd14a7ce1a3ac767317135021eabce6e51f",
+      "bytes": 136727
+    },
+    {
+      "path": "myhome/07257-d895bc42fd6c96fc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=327\"] (paging fields)",
+      "sha256": "41a68fa23d2d06910417b947ed60828a32158cc434eb407e8ddbb8a13b4dd276",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/12-bishopswater-wexford-town-wexford/5022039",
+    "https://www.myhome.ie/residential/brochure/mount-alexander-gorey-wexford/5021988",
+    "https://www.myhome.ie/residential/brochure/ballyvoodrane-blackwater-enniscorthy-co-wexford/5022021",
+    "https://www.myhome.ie/residential/brochure/9-the-townhouses-crab-lane-ballintemple-cork/5021798",
+    "https://www.myhome.ie/residential/brochure/apartment-20-griffith-hall-drumcondra-dublin-9/5022010",
+    "https://www.myhome.ie/residential/brochure/16-beechmount-newbridge-co-kildare/5022014",
+    "https://www.myhome.ie/residential/brochure/94-derrygreenagh-park-rochfortbridge-mullingar-co-westmeath/5022013",
+    "https://www.myhome.ie/residential/brochure/ballinlough-kill-co-waterford/5022009",
+    "https://www.myhome.ie/residential/brochure/36-jack-s-hole-beach-resort-brittas-bay-wicklow/5022001",
+    "https://www.myhome.ie/residential/brochure/cliffs-landing-kinure-oysterhaven-kinsale-cork/5011555",
+    "https://www.myhome.ie/residential/brochure/cregg-nobber-co-meath-kells/5022005",
+    "https://www.myhome.ie/residential/brochure/316-kildare-road-crumlin-dublin-12/5021995",
+    "https://www.myhome.ie/residential/brochure/110-hampton-wood-avenue-finglas-dublin-11/5022002",
+    "https://www.myhome.ie/residential/brochure/cloonlara-firies-kerry/5021982",
+    "https://www.myhome.ie/residential/brochure/1-charleton-mews-newbridge-co-kildare/5021993",
+    "https://www.myhome.ie/residential/brochure/main-street-portarlington-laois/5004127",
+    "https://www.myhome.ie/residential/brochure/main-street-manorhamilton-leitrim/5021987",
+    "https://www.myhome.ie/residential/brochure/8-cormac-terrace-terenure-dublin-6w/5021979",
+    "https://www.myhome.ie/residential/brochure/springfield-ballyfeard-minane-bridge-cork/5008495",
+    "https://www.myhome.ie/residential/brochure/woodstown-annestown-co-waterford/5021977"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=328",
+  "paginationLimited": false
+}

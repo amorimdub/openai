@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/baggot-street-lower-dublin-2/6683521",
+  "fetchedAt": "2026-10-05T09:49:07.686Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/baggot-street-lower-dublin-2/6683521",
+  "kind": "listing",
+  "responseSha256": "fc5cd7f2d6ce52e2a434ad20e4ea43d8705e1a6778bdd85e679aeff5665f75c6",
+  "files": [
+    {
+      "path": "daft/02051-544c96f34fc36b29-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "aef20d520276b6183a2f6a36d01cb72aadbbd4b65f11b0c611c855401ef9d047",
+      "bytes": 16611
+    },
+    {
+      "path": "daft/02051-544c96f34fc36b29-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e72c0745f907367f52c685ee07d60df0bfad35e5c0351503b7ea39a439f7e461",
+      "bytes": 8030
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

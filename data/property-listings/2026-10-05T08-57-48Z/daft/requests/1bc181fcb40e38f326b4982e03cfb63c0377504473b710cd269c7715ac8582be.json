@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=11",
+  "fetchedAt": "2026-10-05T09:13:10.703Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=11",
+  "kind": "search",
+  "responseSha256": "8995f7f49756152f80bbf2bad8188301097c5309836665f6e7f02c861ea2a83d",
+  "files": [
+    {
+      "path": "daft/00615-1bc181fcb40e38f3-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "b16d25f11d1781776711f3901dcaf6f44c8c0e8528390357ba3fbdcf642b7c49",
+      "bytes": 249942
+    },
+    {
+      "path": "daft/00615-1bc181fcb40e38f3-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00615-1bc181fcb40e38f3-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "03152df14784e228040956b1cd98c423bd8a1604f6c8748a607eaf058e046742",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/lenaboy-park-salthill-co-galway/6529172",
+    "https://www.daft.ie/for-rent/trimbleston-apartments-goatstown-co-dublin/6669986",
+    "https://www.daft.ie/for-rent/channonrock-chanonrock-co-louth/6669302",
+    "https://www.daft.ie/for-rent/ely-court-ely-square-nutgrove-avenue-rathfarnham-dublin-14/6669135",
+    "https://www.daft.ie/for-rent/apartment-385-block-9a-tallaght-cross-west-tallaght-dublin-24/6668996",
+    "https://www.daft.ie/for-rent/9-whiteoak-clonskeagh-co-dublin/6653291",
+    "https://www.daft.ie/for-rent/francis-street-christchurch-co-dublin/6667787",
+    "https://www.daft.ie/for-rent/7-richview-villas-clonskeagh-road-clonskeagh-dublin-14/6660368",
+    "https://www.daft.ie/for-rent/lismore-park-cork-road-waterford-city-centre-co-waterford/6564903",
+    "https://www.daft.ie/for-rent/apartment-the-barrington-lansdowne-place-ballsbridge-dublin-4/6665495",
+    "https://www.daft.ie/for-rent/146-stillorgan-road-donnybrook-dublin-4/6663564",
+    "https://www.daft.ie/for-rent/-the-green-building-23-24-temple-lane-south-dublin-2-bills-included-temple-bar-dublin-2/6665273",
+    "https://www.daft.ie/for-rent/knockmaree-apartments-lucan-road-dublin-20-chapelizod-dublin-20/6664124",
+    "https://www.daft.ie/for-rent/greenfields-rossbrien-ballinacurra-co-limerick/6664882",
+    "https://www.daft.ie/for-rent/merrion-village-merrion-road-ballsbridge-dublin-4/6664780",
+    "https://www.daft.ie/for-rent/latton-ballybay-co-monaghan/6664598",
+    "https://www.daft.ie/for-rent/oneill-street-clonmel-co-tipperary/6664585",
+    "https://www.daft.ie/for-rent/eastham-wellington-place-ballsbridge-dublin-4/6660750",
+    "https://www.daft.ie/for-rent/leinster-street-east-north-strand-north-strand-dublin-3/6658657",
+    "https://www.daft.ie/for-rent/friarsland-road-goatstown-clonskeagh-dublin-14/6641341"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=12",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=268",
+  "fetchedAt": "2026-10-05T12:32:59.920Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=268",
+  "kind": "search",
+  "responseSha256": "58b517d4b66b4174f57e9ccbc1f2cb7d2e167a8e097eb5b744358da1c800d3e2",
+  "files": [
+    {
+      "path": "myhome/06060-58b5e661179c19eb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=268\"].SearchResults",
+      "sha256": "67d5550e784f76c7e6ba353d67e1f6144b18cb429311d0cd0916178c7c2c806f",
+      "bytes": 113394
+    },
+    {
+      "path": "myhome/06060-58b5e661179c19eb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=268\"] (paging fields)",
+      "sha256": "06cd057b193b0681d5e978e69e1995d26d0d7c80e339af670edd0d9a08b90f59",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/coolroe-ballycullane-co-wexford/5025469",
+    "https://www.myhome.ie/residential/brochure/apartment-19-block-4-the-walk-moyglare-hall-maynooth-co-kildare/5025467",
+    "https://www.myhome.ie/residential/brochure/apartment-15-block-4-the-walk-moyglare-hall-maynooth-co-kildare/5025464",
+    "https://www.myhome.ie/residential/brochure/11-grove-paddock-blackrock-co-dublin/5025463",
+    "https://www.myhome.ie/residential/brochure/5-chestnut-mews-cluain-ard-cobh-co-cork-cobh-cork/5025461",
+    "https://www.myhome.ie/residential/brochure/no-12-ashgrove-lawn-carrigaline-co-cork/5025456",
+    "https://www.myhome.ie/residential/brochure/an-bothar-bui-carraroe-co-galway/4982803",
+    "https://www.myhome.ie/residential/brochure/apt-113-bachelors-walk-abbey-street-dublin-1/5025454",
+    "https://www.myhome.ie/residential/brochure/2-madeira-island-house-mill-street-galway-city-centre-galway/5009253",
+    "https://www.myhome.ie/residential/brochure/saint-jude-175-new-ireland-road-rialto-dublin-8/5025453",
+    "https://www.myhome.ie/residential/brochure/paddinstown-ballynacarrigy-westmeath/5025400",
+    "https://www.myhome.ie/residential/brochure/51-hampton-wood-green-finglas-dublin-11/5025451",
+    "https://www.myhome.ie/residential/brochure/14-st-patrick-s-terrace-russell-street-north-city-centre-dublin-1/4986684",
+    "https://www.myhome.ie/residential/brochure/19-davis-street-tipperary-town/5025447",
+    "https://www.myhome.ie/residential/brochure/37-mount-bellew-crescent-lucan-county-dublin/5025441",
+    "https://www.myhome.ie/residential/brochure/4-anderson-s-street-city-centre-sth-cork-city/5019108",
+    "https://www.myhome.ie/residential/brochure/235-rochestown-avenue-dun-laoghaire-co-dublin/5025434",
+    "https://www.myhome.ie/residential/brochure/crag-point-craglea-killaloe-clare/5017217",
+    "https://www.myhome.ie/residential/brochure/briarfield-lisacul-castlerea-co-roscommon/5025430",
+    "https://www.myhome.ie/residential/brochure/glanleam-castlequarter-coosan-athlone-westmeath/5025427"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=269",
+  "paginationLimited": false
+}

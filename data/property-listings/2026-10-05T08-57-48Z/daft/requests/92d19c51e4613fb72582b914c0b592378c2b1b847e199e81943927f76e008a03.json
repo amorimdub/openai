@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-old-city-music-hall-temple-bar-dublin-8/6686086",
+  "fetchedAt": "2026-10-05T09:31:21.233Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-old-city-music-hall-temple-bar-dublin-8/6686086",
+  "kind": "listing",
+  "responseSha256": "df4f2971ee1e03d47f1cef0e0189fcc53355f08e176f1a0bf684d5ffa448d94e",
+  "files": [
+    {
+      "path": "daft/01341-92d19c51e4613fb7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2532e34f2b32157ebaa65e8e96da7db4c504a13094a09bfca085d8331c1cec4e",
+      "bytes": 34056
+    },
+    {
+      "path": "daft/01341-92d19c51e4613fb7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c41449a6d1e55708bad5fe66de8591bfe23e35ecbca16ef35ea8549f5071672f",
+      "bytes": 7973
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

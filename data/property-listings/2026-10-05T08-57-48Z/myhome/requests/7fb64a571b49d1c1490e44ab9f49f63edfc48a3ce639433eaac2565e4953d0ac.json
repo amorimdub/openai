@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=211",
+  "fetchedAt": "2026-10-05T12:03:09.261Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=211",
+  "kind": "search",
+  "responseSha256": "76deabfc463a859e9b537f16ee05a7e25a2797464b50bbe2d8e9157c8bedf960",
+  "files": [
+    {
+      "path": "myhome/04869-7fb64a571b49d1c1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=211\"].SearchResults",
+      "sha256": "e5714ed03918137691166ee824d7a81ff75fc94217ebdb26c9649c6362456993",
+      "bytes": 120561
+    },
+    {
+      "path": "myhome/04869-7fb64a571b49d1c1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=211\"] (paging fields)",
+      "sha256": "d04124fd3aad1f9674d3ce9d940ac695733381ddb1fad3f2a42b51642375aefc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-longwood-wynnsward-park-clonskeagh-dublin/5027302",
+    "https://www.myhome.ie/residential/brochure/14-stralem-crescent-ongar-village-dublin-15-d15k6k7/5027298",
+    "https://www.myhome.ie/residential/brochure/140-grattan-lodge-hole-in-the-wall-road-donaghmede-dublin-13/5027296",
+    "https://www.myhome.ie/residential/brochure/97-rowanbyrn-blackrock-county-dublin/5027293",
+    "https://www.myhome.ie/residential/brochure/2-kildalloge-heights-strokestown-roscommon/5027292",
+    "https://www.myhome.ie/residential/brochure/4-glenard-castletownshend-cork/5027289",
+    "https://www.myhome.ie/residential/brochure/15-struan-hill-delgany-co-wicklow/5027290",
+    "https://www.myhome.ie/residential/brochure/22-st-patricks-terrace-monaghan/5027287",
+    "https://www.myhome.ie/residential/brochure/drumraghool-north-mohill-leitrim/5027285",
+    "https://www.myhome.ie/residential/brochure/11-dun-na-riogh-walk-naas-kildare/4961086",
+    "https://www.myhome.ie/residential/brochure/lands-of-2-11-hectare-at-mullacash-naas-kildare/4981477",
+    "https://www.myhome.ie/residential/brochure/gorteen-johnstownbridge-kildare/4984792",
+    "https://www.myhome.ie/residential/brochure/sherlockstown-sallins-kildare/4999622",
+    "https://www.myhome.ie/residential/brochure/51-the-station-house-the-waterways-sallins-kildare/5017389",
+    "https://www.myhome.ie/residential/brochure/14-the-walk-coach-yard-meadows-clane-kildare/5025064",
+    "https://www.myhome.ie/residential/brochure/glencara-5-maryborough-hill-douglas-cork/5027281",
+    "https://www.myhome.ie/residential/brochure/3-the-dale-brookwood-bray-wicklow/5017795",
+    "https://www.myhome.ie/residential/brochure/9-the-lawn-donacarney-wood-mornington-meath/5027103",
+    "https://www.myhome.ie/residential/brochure/20-ros-ard-cappagh-road-knocknacarra-galway-city/5027278",
+    "https://www.myhome.ie/residential/brochure/no-28-priory-wexford-town-wexford/5027261"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=212",
+  "paginationLimited": false
+}

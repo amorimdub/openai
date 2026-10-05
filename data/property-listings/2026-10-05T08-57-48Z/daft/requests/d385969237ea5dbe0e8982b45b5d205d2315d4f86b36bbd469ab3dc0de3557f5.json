@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/lismore-park-cork-road-waterford-city-centre-co-waterford/6564903",
+  "fetchedAt": "2026-10-05T09:14:27.325Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/lismore-park-cork-road-waterford-city-centre-co-waterford/6564903",
+  "kind": "listing",
+  "responseSha256": "6cd669040c2cefbb11ce3e4e0af619c2a60189132dd6b5ae59c7fef73cf8cbd0",
+  "files": [
+    {
+      "path": "daft/00666-d385969237ea5dbe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a50d5d64ef3646ee4ca53b920ed2c94be6c9a94e0dd2b6427ef3556cdd68a135",
+      "bytes": 15502
+    },
+    {
+      "path": "daft/00666-d385969237ea5dbe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c040ad861271adeba88b107fa6c077a6d707eebb63dcd38b0ddb48868a8972c6",
+      "bytes": 8173
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

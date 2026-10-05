@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=380",
+  "fetchedAt": "2026-10-05T13:30:24.469Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=380",
+  "kind": "search",
+  "responseSha256": "cfecde5165b3ce5697cf06074073d173b1afb615d69b634be78bd4728643aa91",
+  "files": [
+    {
+      "path": "myhome/08347-405e123837691281-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=380\"].SearchResults",
+      "sha256": "944321da0a4d901660d0d25b749cacf3ce2d60673dd1523d5067cbcc44413f65",
+      "bytes": 113549
+    },
+    {
+      "path": "myhome/08347-405e123837691281-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=380\"] (paging fields)",
+      "sha256": "1d00814c8c955957d5afa5dd0388bd2f47a3a8fd9d85c0cf9895e4c571e6114f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-white-pines-court-stocking-avenue-rathfarnham-dublin-16/5017607",
+    "https://www.myhome.ie/residential/brochure/lot-3-gatekeeper-s-cottage-lisnavagh-rathvilly-carlow/5017606",
+    "https://www.myhome.ie/residential/brochure/6-jutland-hall-limerick-county-limerick/5017602",
+    "https://www.myhome.ie/residential/brochure/whole-lands-cottage-lisnavagh-rathvilly-carlow/5017599",
+    "https://www.myhome.ie/residential/brochure/33-donore-avenue-south-circular-road-dublin/5017441",
+    "https://www.myhome.ie/residential/brochure/76-monksfield-abbeyside-dungarvan-waterford/5017562",
+    "https://www.myhome.ie/residential/brochure/great-connell-newbridge-co-kildare/5017581",
+    "https://www.myhome.ie/residential/brochure/104-creagan-barna-galway-county-galway/5017577",
+    "https://www.myhome.ie/residential/brochure/aghalustia-ballaghaderreen-co-roscommon/5017569",
+    "https://www.myhome.ie/residential/brochure/augherskea-drumree-county-meath/5017565",
+    "https://www.myhome.ie/residential/brochure/knockranny-estate-kilronan-co-roscommon/5007124",
+    "https://www.myhome.ie/residential/brochure/convent-gate-convent-road-claremorris-mayo/5015075",
+    "https://www.myhome.ie/residential/brochure/26-dun-na-ri-shannon-clare/5017563",
+    "https://www.myhome.ie/residential/brochure/bunowen-beg-ballyconneely-galway/5017491",
+    "https://www.myhome.ie/residential/brochure/5-an-cheapach-liath-cosmona-loughrea-co-galway/5017560",
+    "https://www.myhome.ie/residential/brochure/9-st-ann-s-donnybrook-dublin-4/5011840",
+    "https://www.myhome.ie/residential/brochure/no-42-westgate-park-wexford-town-wexford/5017553",
+    "https://www.myhome.ie/residential/brochure/anisa-warrington-kilkenny-kilkenny/5017530",
+    "https://www.myhome.ie/residential/brochure/120-lough-conn-road-ballyfermot-dublin-10-d10-pa02/5017535",
+    "https://www.myhome.ie/residential/brochure/12-glenina-heights-dublin-road-renmore-galway/5017528"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=381",
+  "paginationLimited": false
+}

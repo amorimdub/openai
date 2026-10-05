@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bedroom-house-st-marnocks-bay-portmarnock-portmarnock-co-dublin/3655793",
+  "fetchedAt": "2026-10-05T09:07:14.761Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bedroom-house-st-marnocks-bay-portmarnock-portmarnock-co-dublin/3655793",
+  "kind": "listing",
+  "responseSha256": "2933b81f9af5fefe4372450a1eb755101b7f21246f1cfc4b0934844359fd5ca4",
+  "files": [
+    {
+      "path": "daft/00378-4dc8c6e2f4196511-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "48ec24606f3fd5d204e7358d3604818fbbe23b596cdc79aa81566c4dea091b0d",
+      "bytes": 46226
+    },
+    {
+      "path": "daft/00378-4dc8c6e2f4196511-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "40d2acba28ac62da78e0cd7e54868feb67cd4bc226ee99055ddd4ba5c8701d39",
+      "bytes": 8196
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

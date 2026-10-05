@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=311",
+  "fetchedAt": "2026-10-05T12:55:14.069Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=311",
+  "kind": "search",
+  "responseSha256": "11317805cbb3ff9f3317148e3fb0a49d16d6b4e48b338f1bdb64deb4371e247f",
+  "files": [
+    {
+      "path": "myhome/06943-954cd4712b4c8047-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=311\"].SearchResults",
+      "sha256": "4157ab6fb695b452b00d6e36e98502d839cafb1d8ff63c958c5e2f13d639ee6b",
+      "bytes": 115401
+    },
+    {
+      "path": "myhome/06943-954cd4712b4c8047-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=311\"] (paging fields)",
+      "sha256": "efca599b64cad16058dc0a90239711f7458d3f54ea9214e3bf7bbe2c1666ac1d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/brocurrow-adamstown-co-wexford/5023277",
+    "https://www.myhome.ie/residential/brochure/castlematrix-rathkeale-limerick/5023270",
+    "https://www.myhome.ie/residential/brochure/6-the-alders-roundwood-wicklow/5023271",
+    "https://www.myhome.ie/residential/brochure/kilkeanna-kenmare-co-kerry/5023267",
+    "https://www.myhome.ie/residential/brochure/28-belarmine-vale-stepaside-dublin-18/5023224",
+    "https://www.myhome.ie/residential/brochure/swordlestown-lodge-punchestown-naas-co-kildare/5023264",
+    "https://www.myhome.ie/residential/brochure/13-father-meehan-place-castlebar-co-mayo/5023261",
+    "https://www.myhome.ie/residential/brochure/wolverton-house-barnhill-road-dalkey-co-dublin/5023260",
+    "https://www.myhome.ie/residential/brochure/apartment-3-beacon-one-beacon-court-sandyford-dublin-18/5023259",
+    "https://www.myhome.ie/residential/brochure/16-the-woods-glounthaune-cork/5023253",
+    "https://www.myhome.ie/residential/brochure/lurgans-carrickmacross-monaghan/5023252",
+    "https://www.myhome.ie/residential/brochure/22-ardavon-hall-hazelbrook-square-whitehall-road-churchtown-dublin-14/5023192",
+    "https://www.myhome.ie/residential/brochure/16-bath-avenue-gardens-sandymount-dublin-4/5023255",
+    "https://www.myhome.ie/residential/brochure/6-ferndene-greenville-listowel-co-kerry/5023254",
+    "https://www.myhome.ie/residential/brochure/8-hampton-woods-balbriggan-dublin/5023247",
+    "https://www.myhome.ie/residential/brochure/5-the-village-ballymoney-gorey-co-wexford/5023250",
+    "https://www.myhome.ie/residential/brochure/58-woodbrook-crescent-castleknock-dublin-15/5023245",
+    "https://www.myhome.ie/residential/brochure/25-mornington-road-ranelagh-dublin-6/5023243",
+    "https://www.myhome.ie/residential/brochure/10-crosthwaite-park-south-dun-laoghaire-co-dublin/4993466",
+    "https://www.myhome.ie/residential/brochure/17-woodbrook-park-castleknock-dublin-15/5001632"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=312",
+  "paginationLimited": false
+}

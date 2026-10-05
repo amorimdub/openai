@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=62",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=62",
+  "fetchedAt": "2026-10-05T09:43:49.061Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "4af7018cad5b92431a93732cf7633a04f2f2bd820f5b5521e83cdfac9ddebb76",
+  "files": [
+    {
+      "path": "myhome/01834-9e89c0c7d3cd8072-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=62\"].SearchResults",
+      "sha256": "b7d56818e3ec487f671f27ff69f76592c70278d768ad21aba6ab5fafa07238b1",
+      "bytes": 113714
+    },
+    {
+      "path": "myhome/01834-9e89c0c7d3cd8072-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=62\"] (paging fields)",
+      "sha256": "5d7d8a7094e3017b5becce2619ceed91dc8c6518dbc9ff21b2f40149393808c6",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/34-fairview-close-drumcondra-dublin-3/4990174",
+    "https://www.myhome.ie/residential/brochure/101-clonliffe-road-drumcondra-dublin-3/5000073",
+    "https://www.myhome.ie/residential/brochure/100-glasnevin-downs-glasnevin-dublin-11/5023664",
+    "https://www.myhome.ie/residential/brochure/8-the-poplars-delgany-wicklow/5030359",
+    "https://www.myhome.ie/residential/brochure/lackandarra-colligan-dungarvan-waterford/5031195",
+    "https://www.myhome.ie/residential/brochure/10-court-street-enniscorthy-wexford/5031189",
+    "https://www.myhome.ie/residential/brochure/coliemore-house-curracloe-road-castlebridge-wexford/5031185",
+    "https://www.myhome.ie/residential/brochure/glenmore-kilmihil-kilrush-co-clare/5031193",
+    "https://www.myhome.ie/residential/brochure/8-laburnum-square-north-road-drogheda-co-louth/5031191",
+    "https://www.myhome.ie/residential/brochure/5-shrewsbury-lawn-westbury-corbally-limerick/5031190",
+    "https://www.myhome.ie/residential/brochure/16-sallynoggin-villas-glenageary-county-dublin/5031160",
+    "https://www.myhome.ie/residential/brochure/18-sea-view-terrace-killala-ballina-co-mayo/5031188",
+    "https://www.myhome.ie/residential/brochure/apartment-28-block-a-the-timber-mill-artane-dublin-5/5031184",
+    "https://www.myhome.ie/residential/brochure/no-1-carraig-mh-r-wexford-town-wexford/5031179",
+    "https://www.myhome.ie/residential/brochure/5-glen-abhainn-drive-glen-abhainn-enfield-co-meath/5019217",
+    "https://www.myhome.ie/residential/brochure/apartment-16-hazelbrook-kilmacud-road-upper-dundrum/5031183",
+    "https://www.myhome.ie/residential/brochure/gate-lodge-oatlands-house-castleknock-dublin-15-castleknock-dublin-15/5031170",
+    "https://www.myhome.ie/residential/brochure/deer-park-carbad-more-killala-co-mayo/5031181",
+    "https://www.myhome.ie/residential/brochure/5-egremont-church-road-killiney-co-dublin/5029733",
+    "https://www.myhome.ie/residential/brochure/32-walkinstown-drive-walkinstown-dublin-12/4966864"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=63",
+  "paginationLimited": false
+}

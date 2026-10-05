@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-the-green-building-23-24-temple-lane-south-dublin-2-bills-included-temple-bar-dublin-2/6665273",
+  "fetchedAt": "2026-10-05T09:14:31.833Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-the-green-building-23-24-temple-lane-south-dublin-2-bills-included-temple-bar-dublin-2/6665273",
+  "kind": "listing",
+  "responseSha256": "8459670a736463379c0f655a704260449f95c683ac845e50e5fc1b0de231749d",
+  "files": [
+    {
+      "path": "daft/00669-26c10fc45e343794-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4cf9dfa71d3caf008eeb7af0e02e6637ab309ee45d6cc196ca2bc3d53714eac7",
+      "bytes": 66746
+    },
+    {
+      "path": "daft/00669-26c10fc45e343794-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

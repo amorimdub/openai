@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=279",
+  "fetchedAt": "2026-10-05T12:38:44.186Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=279",
+  "kind": "search",
+  "responseSha256": "b1bf51fdaff06098aad7ca7cec500187966fe4b787a0b88a7f943ccf89d25239",
+  "files": [
+    {
+      "path": "myhome/06289-5e4307c74f18da91-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=279\"].SearchResults",
+      "sha256": "f356e08ab90f162e80cac6b10e796f31f78f7d4287ccaf7367368d33d39189a8",
+      "bytes": 131055
+    },
+    {
+      "path": "myhome/06289-5e4307c74f18da91-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=279\"] (paging fields)",
+      "sha256": "a65ed2cdd22f16bd4b1a6dafc7fb073898f13b570917a6391bf0c9f831d69566",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-laurelton-swords-co-dublin/5025098",
+    "https://www.myhome.ie/residential/brochure/chapel-park-kinnegad-co-westmeath-4-bedroom-semi-detached/5017487",
+    "https://www.myhome.ie/residential/brochure/26-clonturk-park-drumcondra-dublin-9/5005899",
+    "https://www.myhome.ie/residential/brochure/silver-birches-ladytown-newbridge-co-kildare/5018851",
+    "https://www.myhome.ie/residential/brochure/60-the-crescent-millbrook-lawns-tallaght-dublin-24/5023143",
+    "https://www.myhome.ie/residential/brochure/waters-edge-augharan-aughavas-leitrim/5025093",
+    "https://www.myhome.ie/residential/brochure/6-laurel-avenue-ballinalee-road-longford/5025092",
+    "https://www.myhome.ie/residential/brochure/78-griffith-road-glasnevin-dublin-11/4980339",
+    "https://www.myhome.ie/residential/brochure/71-river-walk-ballymore-eustace-kildare/4980472",
+    "https://www.myhome.ie/residential/brochure/main-street-stranorlar-donegal/5025090",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-duplex-heron-wood-cabinteely-dublin-18/4935135",
+    "https://www.myhome.ie/residential/brochure/churchville-church-street-rathdowney-co-laois/5025088",
+    "https://www.myhome.ie/residential/brochure/80-parkmore-drive-terenure-dublin-6w/5025074",
+    "https://www.myhome.ie/residential/brochure/93-carrigwood-firhouse-dublin-24/5025069",
+    "https://www.myhome.ie/residential/brochure/13-killakee-lawns-firhouse-dublin/5025067",
+    "https://www.myhome.ie/residential/brochure/118-boyne-meadows-edenderry-offaly/5025065",
+    "https://www.myhome.ie/residential/brochure/elly-clogher-ballina-co-mayo/5025063",
+    "https://www.myhome.ie/residential/brochure/14-ruanbeg-avenue-kildare-town-kildare/5025053",
+    "https://www.myhome.ie/residential/brochure/10-gort-leamhan-roslevan-ennis-county-clare/5025060",
+    "https://www.myhome.ie/residential/brochure/44-knockaire-knocklyon-dublin-16/5025058"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=280",
+  "paginationLimited": false
+}

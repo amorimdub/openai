@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-melrose-avenue-marino-dublin-3/6685325",
+  "fetchedAt": "2026-10-05T09:37:21.617Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-melrose-avenue-marino-dublin-3/6685325",
+  "kind": "listing",
+  "responseSha256": "81e77a983e5f31d9b8e36de90fca1021c4c7cc881e0ed5a6ee1cedb486f806a1",
+  "files": [
+    {
+      "path": "daft/01581-6348686e281eb596-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c2f6060e979b3aa41315e3caff9ce9809c4ec4ae6806a8b617ed8e97ee7fb187",
+      "bytes": 20854
+    },
+    {
+      "path": "daft/01581-6348686e281eb596-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "72700ddc43d9071a697122bd51e28b8d41639578feed963e85d8147634effc22",
+      "bytes": 8139
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

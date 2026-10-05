@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/5-millbrook-drive-monksland-athlone-co-roscommon/6684513",
+  "fetchedAt": "2026-10-05T09:42:31.020Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/5-millbrook-drive-monksland-athlone-co-roscommon/6684513",
+  "kind": "listing",
+  "responseSha256": "0384653e39b96e3aa84f76fe3efdc63e41e22f12493654d7af9ba82a3222d51f",
+  "files": [
+    {
+      "path": "daft/01787-5c002f0ca383874b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a62dc61091df0a2136a1b1c607251a91d7aaebcc821ee5f7f1193cc88ff22f6a",
+      "bytes": 18324
+    },
+    {
+      "path": "daft/01787-5c002f0ca383874b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e8876fb34776c61dd3c5b2e0032847ebaca843d807cb1eccd2e5e58c8bbcbcdd",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

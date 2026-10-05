@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=212",
+  "fetchedAt": "2026-10-05T12:03:39.323Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=212",
+  "kind": "search",
+  "responseSha256": "334c943afdb39c593de1d67e920318d69a8753224d7a6f0ab5720504b0100609",
+  "files": [
+    {
+      "path": "myhome/04889-86cfc925f2e096f0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=212\"].SearchResults",
+      "sha256": "04b72cdff3807bc69d706da06d0cfed059b90a6cf55baab3f08284e6544fd4ef",
+      "bytes": 125075
+    },
+    {
+      "path": "myhome/04889-86cfc925f2e096f0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=212\"] (paging fields)",
+      "sha256": "9582d923c7861cc02356e51c63d62520ab7ae281d51cadf2ac12650cc0247adf",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/56-heathfield-way-cappagh-road-dublin-11/5027268",
+    "https://www.myhome.ie/residential/brochure/74a-coolamber-drive-rathcoole-dublin/5025630",
+    "https://www.myhome.ie/residential/brochure/castletown-inch-gorey-county-wexford/5027265",
+    "https://www.myhome.ie/residential/brochure/86-glasnevin-avenue-glasnevin-dublin-11/5027240",
+    "https://www.myhome.ie/residential/brochure/51-walkinstown-parade-walkinstown-dublin-12/5027252",
+    "https://www.myhome.ie/residential/brochure/4-summertown-avenue-glasheen-cork/5026691",
+    "https://www.myhome.ie/residential/brochure/70-pearse-gardens-sallynoggin-co-dublin/5027263",
+    "https://www.myhome.ie/residential/brochure/80-saint-patricks-park-carrick-on-shannon-leitrim/5027262",
+    "https://www.myhome.ie/residential/brochure/new-house-curraghcreen-lavally-tuam-co-galway/5027260",
+    "https://www.myhome.ie/residential/brochure/28-the-telford-building-heuston-south-quarter-saint-john-s-road-west-dublin-8/5027259",
+    "https://www.myhome.ie/residential/brochure/3-hillview-crescent-seafield-ballymoney-wexford/5027246",
+    "https://www.myhome.ie/residential/brochure/ardskea-beg-ballyglunin-tuam-co-galway/5027256",
+    "https://www.myhome.ie/residential/brochure/alki-4-st-mary-s-villas-sunnyside-drogheda-co-louth/5027255",
+    "https://www.myhome.ie/residential/brochure/54-crannagh-road-rathfarnham-dublin-14/5027239",
+    "https://www.myhome.ie/residential/brochure/no-44-great-water-street-longford-longford/5026988",
+    "https://www.myhome.ie/residential/brochure/manderlay-lodge-4-kinnypottle-cavan/5027251",
+    "https://www.myhome.ie/residential/brochure/ballinakill-lettermullen-lettermore-galway/5027241",
+    "https://www.myhome.ie/residential/brochure/42-the-hibernia-building-heuston-south-quarter-saint-john-s-road-west-dublin-8/5027249",
+    "https://www.myhome.ie/residential/brochure/ardfinnan-glasheen-road-glasheen-cork/5025156",
+    "https://www.myhome.ie/residential/brochure/102-verbena-avenue-sutton-dublin-13/5027207"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=213",
+  "paginationLimited": false
+}

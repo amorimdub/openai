@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/86-lorcan-grove-dublin-9-santry-dublin-9/6656199",
+  "fetchedAt": "2026-10-05T09:45:26.805Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/86-lorcan-grove-dublin-9-santry-dublin-9/6656199",
+  "kind": "listing",
+  "responseSha256": "751dd1416914177484f23a9b74d8d1efae4ea2a41073f1094e9c36dca4b2842b",
+  "files": [
+    {
+      "path": "daft/01904-b5cf8577e2a4da53-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a9f93329b23df5a0d73a9972f04be955d90c950ad005ec090e7c5388c53141ed",
+      "bytes": 59396
+    },
+    {
+      "path": "daft/01904-b5cf8577e2a4da53-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ec88c6c26a206f87c4552558e5ae9f27ceaef7fb99f1994fc85bfbc153ba49a1",
+      "bytes": 8049
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

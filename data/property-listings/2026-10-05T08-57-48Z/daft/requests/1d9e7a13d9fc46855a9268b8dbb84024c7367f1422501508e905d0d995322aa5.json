@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-50-the-horizon-building-royal-canal-park-ashtown-dublin/6660279",
+  "fetchedAt": "2026-10-05T09:37:14.109Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-50-the-horizon-building-royal-canal-park-ashtown-dublin/6660279",
+  "kind": "listing",
+  "responseSha256": "2ec768f3d15c6d6974104dcc45d4a355744b79c5558a15441f5419a917b7de9b",
+  "files": [
+    {
+      "path": "daft/01576-1d9e7a13d9fc4685-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0108e288a02dd3cac389a04aa01f1c42d6ba491d6482fd29698176df151e0b0f",
+      "bytes": 29429
+    },
+    {
+      "path": "daft/01576-1d9e7a13d9fc4685-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1b0bf4257bfd7a113f099684fb86ab0cafcd70de311be271e0e61b54192b4aa3",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

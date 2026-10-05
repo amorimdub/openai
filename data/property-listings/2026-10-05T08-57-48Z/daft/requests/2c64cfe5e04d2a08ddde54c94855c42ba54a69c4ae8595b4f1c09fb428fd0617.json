@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/forramoyle-west-barna-galway-city/6643741",
+  "fetchedAt": "2026-10-05T09:46:17.905Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/forramoyle-west-barna-galway-city/6643741",
+  "kind": "listing",
+  "responseSha256": "03783c11c3992df67cdd7696fe803e59177e6d5dbb1671acfb34db35f06d4042",
+  "files": [
+    {
+      "path": "daft/01938-2c64cfe5e04d2a08-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c5c514c2b52a6e1369b1f5728f5d5cac80941e9157820a73d937daf61de51d98",
+      "bytes": 124078
+    },
+    {
+      "path": "daft/01938-2c64cfe5e04d2a08-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "195e6fc1dd6149d9b1ea91723b6e9805961298a4f0f37238b8507e4666c75881",
+      "bytes": 8060
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

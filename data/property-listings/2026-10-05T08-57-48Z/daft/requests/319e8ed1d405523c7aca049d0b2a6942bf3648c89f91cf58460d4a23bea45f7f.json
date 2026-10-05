@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/24-saint-brendans-avenue-woodquay-woodquay-co-galway/6686974",
+  "fetchedAt": "2026-10-05T09:25:13.162Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/24-saint-brendans-avenue-woodquay-woodquay-co-galway/6686974",
+  "kind": "listing",
+  "responseSha256": "fdcef8daa6fcdbccc0c74259c9ab5bb17aa090a2ea2eb12dd7b872032c67214a",
+  "files": [
+    {
+      "path": "daft/01096-319e8ed1d405523c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a3d7d854797f6027366ed0720a0fc5f61a9429a0a7ef35ffa61a8040c66acb23",
+      "bytes": 28678
+    },
+    {
+      "path": "daft/01096-319e8ed1d405523c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3c5568a4adfb75eb79baa48f5416ab0fa1c6c8646044936950d0e7f01c379049",
+      "bytes": 7979
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

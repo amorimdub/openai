@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/killeen-dunshaughlin-co-meath/6645989",
+  "fetchedAt": "2026-10-05T09:48:36.136Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/killeen-dunshaughlin-co-meath/6645989",
+  "kind": "listing",
+  "responseSha256": "4f783e3e81c939af52e5d3bac1a35314c137ac2258d60cb45e683ea0b8701084",
+  "files": [
+    {
+      "path": "daft/02030-ce4f82591c29100c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4aeffa9a68a38cc15782a583d73df20e19bea9d6c57ae8c5f403798856a98e5b",
+      "bytes": 86877
+    },
+    {
+      "path": "daft/02030-ce4f82591c29100c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a0ab278a3b66b51a7b422d112d54e5bbaf1dbac1b9d2c83a66b62d5478190ce3",
+      "bytes": 8040
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

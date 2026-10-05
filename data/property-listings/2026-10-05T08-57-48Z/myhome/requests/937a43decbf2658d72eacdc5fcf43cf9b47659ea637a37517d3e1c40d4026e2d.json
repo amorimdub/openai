@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=237",
+  "fetchedAt": "2026-10-05T12:16:45.521Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=237",
+  "kind": "search",
+  "responseSha256": "1133eebba9b9c3b7e7556367f5605d673723998158f39bdd644c459358836d01",
+  "files": [
+    {
+      "path": "myhome/05412-937a43decbf2658d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=237\"].SearchResults",
+      "sha256": "be9c85abc7357923b4fb731da425194a93369d1ae34b0cd50d076ceb38a1d94d",
+      "bytes": 128800
+    },
+    {
+      "path": "myhome/05412-937a43decbf2658d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=237\"] (paging fields)",
+      "sha256": "51874aca188eb8f25cb93c2734072e568870623fe26e8e6bff1d3e1808270604",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/riah-teeha-4-seapark-avenue-abbeyside-dungarvan-waterford/5026499",
+    "https://www.myhome.ie/residential/brochure/hawthorn-lodge-pallas-lower-gorey-county-wexford/5026497",
+    "https://www.myhome.ie/residential/brochure/12-tirol-avenue-the-paddocks-maryborough-hill-rochestown-cork/5026493",
+    "https://www.myhome.ie/residential/brochure/killyfargy-house-scotshouse-monaghan/5024131",
+    "https://www.myhome.ie/residential/brochure/20-arlington-kerry-pike-carrigrohane-co-cork/5026495",
+    "https://www.myhome.ie/residential/brochure/54a-kelly-s-bay-promenade-skerries-dublin/5026494",
+    "https://www.myhome.ie/residential/brochure/15-michael-dooley-terrace-athy-county-kildare/5026492",
+    "https://www.myhome.ie/residential/brochure/26-ard-cluain-clonee-co-meath/5026491",
+    "https://www.myhome.ie/residential/brochure/137-shanowen-rathcormac-co-cork/5026490",
+    "https://www.myhome.ie/residential/brochure/broc-n-10b-green-park-rathgar-dublin-14/5026489",
+    "https://www.myhome.ie/residential/brochure/1-northvale-northfields-clonmel-co-tipperary/5026488",
+    "https://www.myhome.ie/residential/brochure/62-tir-an-choir-tuam-co-galway/5026486",
+    "https://www.myhome.ie/residential/brochure/2-hollywood-mews-goatstown-dublin-14/5026471",
+    "https://www.myhome.ie/residential/brochure/24-leeson-park-ranelagh-dublin-6/5012568",
+    "https://www.myhome.ie/residential/brochure/18-warwick-villas-sallymount-avenue-ranelagh-dublin-6/4966387",
+    "https://www.myhome.ie/residential/brochure/26-thorncliffe-park-orwell-road-dublin-14/5001359",
+    "https://www.myhome.ie/residential/brochure/pearse-lodge-pearse-road-sligo/5026345",
+    "https://www.myhome.ie/residential/brochure/38-crann-nua-edenderry-road-portarlington-co-laois/5026479",
+    "https://www.myhome.ie/residential/brochure/18-cloister-close-blackrock-co-dublin/5026478",
+    "https://www.myhome.ie/residential/brochure/4-rose-hill-sligo-sligo/5026455"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=238",
+  "paginationLimited": false
+}

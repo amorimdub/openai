@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-carriageworks-dublin-1/6306467",
+  "fetchedAt": "2026-10-05T08:59:04.768Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-carriageworks-dublin-1/6306467",
+  "kind": "listing",
+  "responseSha256": "6d5d3aeade13e9849a482157c9d60e7194e54b58e56fb41872f53e178b573688",
+  "files": [
+    {
+      "path": "daft/00052-2b39c8208acba870-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a722bf541804a1ea9ccbe88d287d33b0c17309860b32b5610103e382c2429b3a",
+      "bytes": 375405
+    },
+    {
+      "path": "daft/00052-2b39c8208acba870-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ebfe3b7178e69e9ee2f248e06effa0dbdb96e5b76c354d6192abb06b6b10bf79",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

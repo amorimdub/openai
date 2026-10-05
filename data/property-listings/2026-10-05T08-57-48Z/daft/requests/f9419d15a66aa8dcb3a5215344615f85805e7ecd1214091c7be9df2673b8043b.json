@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/103-beechdale-court-ballycullen-dublin-24-co-dublin/6684368",
+  "fetchedAt": "2026-10-05T09:42:53.564Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/103-beechdale-court-ballycullen-dublin-24-co-dublin/6684368",
+  "kind": "listing",
+  "responseSha256": "cc0019d7dc53dad451268f995711679118ae753543bc8f2fa02a2880395948ad",
+  "files": [
+    {
+      "path": "daft/01802-f9419d15a66aa8dc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fa7efb0853ab5af096e17a7ce3f1752dbf13b4c9a27199572c27c7dbeef9439c",
+      "bytes": 45288
+    },
+    {
+      "path": "daft/01802-f9419d15a66aa8dc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "52573db6c05a78b5f47b65f15c6f74e87b2704ebf4c0854248e8b0159f8a597a",
+      "bytes": 8134
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

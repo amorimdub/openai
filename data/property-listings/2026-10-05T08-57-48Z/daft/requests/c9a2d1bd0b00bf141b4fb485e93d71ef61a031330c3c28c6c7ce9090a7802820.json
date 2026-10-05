@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/casement-grove-dublin-11-finglas-dublin-11/6687329",
+  "fetchedAt": "2026-10-05T09:23:43.014Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/casement-grove-dublin-11-finglas-dublin-11/6687329",
+  "kind": "listing",
+  "responseSha256": "c2eec025e70a4f5f9a520763db005bcb8db4314e0e42c265b4a006044f3e52d7",
+  "files": [
+    {
+      "path": "daft/01036-c9a2d1bd0b00bf14-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "834d41c852802c932609a7be706a38b3d1d5c85125c9a533ec4450b3889481c7",
+      "bytes": 24946
+    },
+    {
+      "path": "daft/01036-c9a2d1bd0b00bf14-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "03f38fd0055093ca3f16bcf06190dd03b57898894d470796bf5839423c99d3b2",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

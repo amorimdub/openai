@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/elsmore-naas-co-kildare/6684077",
+  "fetchedAt": "2026-10-05T09:44:53.753Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/elsmore-naas-co-kildare/6684077",
+  "kind": "listing",
+  "responseSha256": "0f401655f30520fb6b0726abd2a8e9057246493de151f7421aaff72fb818e17e",
+  "files": [
+    {
+      "path": "daft/01882-035297a77ac9e011-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "954975426b8f834f062d1788c782df5a15c4ab96c327f7603ef9584dd337cf4a",
+      "bytes": 50545
+    },
+    {
+      "path": "daft/01882-035297a77ac9e011-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "425fe05d1c309d857bb7ed1c804a0d5220f2f4aeec859cc8191922fffebf0b8d",
+      "bytes": 8260
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

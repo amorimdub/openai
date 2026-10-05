@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=23",
+  "fetchedAt": "2026-10-05T09:25:46.213Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=23",
+  "kind": "search",
+  "responseSha256": "7e562fee017eba7582fee2450e73ae85e6f5490fab3befae5e5547aad46b9d05",
+  "files": [
+    {
+      "path": "daft/01118-50ad220cce120658-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "294141b5cc902718834615e29961d890574ab3bceaf726414f0d8eafd5af7fe7",
+      "bytes": 247680
+    },
+    {
+      "path": "daft/01118-50ad220cce120658-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01118-50ad220cce120658-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "bc6d725c73b986bc508fe1cdd42e89aeb553115c2c4725324fbbb04ad518e6e9",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/levmoss-avenue-the-gallops-dublin-18-leopardstown-dublin-18/6686716",
+    "https://www.daft.ie/for-rent/kilbrean-killarney-kilcummin-co-kerry/6686696",
+    "https://www.daft.ie/for-rent/ballydesmond-co-cork-ballydesmond-co-cork/6686685",
+    "https://www.daft.ie/for-rent/3-dillon-place-south-dublin-8-christchurch-dublin-8/6686684",
+    "https://www.daft.ie/for-rent/monastery-avenue-blarney-road-sundays-well-cork-gurranabraher-co-cork/6686602",
+    "https://www.daft.ie/for-rent/park-drive-avenue-castleknock-dublin-15-castleknock-dublin-15/6686674",
+    "https://www.daft.ie/for-rent/greystones-delgany-co-wicklow/6686660",
+    "https://www.daft.ie/for-rent/apartment-60-block-c-smithfield-market-smithfield-dublin-7/6686634",
+    "https://www.daft.ie/for-rent/harmac-court-brighton-road-rathgar-dublin-6/6686654",
+    "https://www.daft.ie/for-rent/74-the-paddocks-hybreasal-kilmainham-dublin-8/6686641",
+    "https://www.daft.ie/for-rent/riverchapel-riverchapel-co-wexford/6686637",
+    "https://www.daft.ie/for-rent/groody-road-castletroy-co-limerick/6686632",
+    "https://www.daft.ie/for-rent/the-village-glengarriff-co-cork/6686626",
+    "https://www.daft.ie/for-rent/ellensborough-rise-kiltipper-dublin-24/6686622",
+    "https://www.daft.ie/for-rent/new-cabra-road-cabra-co-dublin/6686596",
+    "https://www.daft.ie/for-rent/94-blackhall-square-dublin-7-co-dublin/6686573",
+    "https://www.daft.ie/for-rent/ardhu-apartments-north-circular-road-co-limerick/6305007",
+    "https://www.daft.ie/for-rent/apt-3-18-fair-street-drogheda-co-louth-drogheda-co-louth/6686551",
+    "https://www.daft.ie/for-rent/tain-court-bridge-street-dundalk-co-louth/6686549",
+    "https://www.daft.ie/for-rent/pottore-aughnasheelin-carrick-on-shannon-askill-co-leitrim/6686536"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=24",
+  "paginationLimited": false
+}

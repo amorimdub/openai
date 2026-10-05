@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/carrowpeter-dublin-road-tuam-co-galway/6651074",
+  "fetchedAt": "2026-10-05T09:25:29.689Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/carrowpeter-dublin-road-tuam-co-galway/6651074",
+  "kind": "listing",
+  "responseSha256": "1de4561625ae62424b7e5e78d1860fd24b23cf90fadac28c9d29ac7b1d7bdfdd",
+  "files": [
+    {
+      "path": "daft/01107-d6918debea5b3bea-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ab579b2b6ba3597443cc3521aaa843d2efe896814e3ba220d95b777654422166",
+      "bytes": 77130
+    },
+    {
+      "path": "daft/01107-d6918debea5b3bea-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e315f89848948359c7d7a8415db64f1fd6eb2895e1741ca11e2cbc50c045223c",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

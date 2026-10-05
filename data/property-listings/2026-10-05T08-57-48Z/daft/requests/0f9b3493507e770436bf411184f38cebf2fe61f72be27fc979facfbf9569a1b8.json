@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-ashe-rd-dublin-1/6684577",
+  "fetchedAt": "2026-10-05T09:41:45.952Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-ashe-rd-dublin-1/6684577",
+  "kind": "listing",
+  "responseSha256": "c2496ac2573dd80d20dd7230d31aec4d15fd05dbea0a3a854ce74250f9ca000f",
+  "files": [
+    {
+      "path": "daft/01757-0f9b3493507e7704-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9b55ce6537ec0255da40dc6d6a05ad5de7cf2289bdcb87f2e754f84555c3d3f",
+      "bytes": 5266
+    },
+    {
+      "path": "daft/01757-0f9b3493507e7704-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "799fcf55e58f995b93d12b1e7f71bb1891c967c3b3fbaa429ed7f0adf2fa893e",
+      "bytes": 7996
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

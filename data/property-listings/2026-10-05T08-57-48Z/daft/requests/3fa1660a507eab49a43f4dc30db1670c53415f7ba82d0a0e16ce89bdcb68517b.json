@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/block-j-431-castleforbes-square-ifsc-dublin-1/6683727",
+  "fetchedAt": "2026-10-05T09:47:51.071Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/block-j-431-castleforbes-square-ifsc-dublin-1/6683727",
+  "kind": "listing",
+  "responseSha256": "2e032c2d9356c242ebf561cc8a5457aa4dc38ad40a7ac72c0d008615c43ab634",
+  "files": [
+    {
+      "path": "daft/02000-3fa1660a507eab49-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c16d252390b811955d29c66092dddb5eb51148bc6b5bca91c97621a0418d6f79",
+      "bytes": 32973
+    },
+    {
+      "path": "daft/02000-3fa1660a507eab49-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cb6c45609fbfbb5de8c7db6727156eb946a67a4a8b820de45f3f0d6ce23c236c",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

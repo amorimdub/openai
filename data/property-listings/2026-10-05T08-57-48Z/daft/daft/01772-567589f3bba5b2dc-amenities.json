@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST COLEMAN'S NATIONAL SCHOOL",
+      "numPupils": 325,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.014126",
+        "lon": "-7.144617"
+      }
+    },
+    {
+      "schoolName": "COSBY NATIONAL SCHOOL",
+      "numPupils": 52,
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013440",
+        "lon": "-7.145416"
+      }
+    },
+    {
+      "schoolName": "RATHENISKA NATIONAL SCHOOL",
+      "numPupils": 184,
+      "distance": {
+        "value": 5.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.006973",
+        "lon": "-7.215884"
+      }
+    },
+    {
+      "schoolName": "CHURCHTOWN NATIONAL SCHOOL",
+      "numPupils": 57,
+      "distance": {
+        "value": 5.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.009335",
+        "lon": "-7.052225"
+      }
+    },
+    {
+      "schoolName": "BALLYADAMS NATIONAL SCHOOL",
+      "numPupils": 109,
+      "distance": {
+        "value": 6.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.967380",
+        "lon": "-7.079415"
+      }
+    },
+    {
+      "schoolName": "FRAOCH MOR NATIONAL SCHOOL",
+      "numPupils": 214,
+      "distance": {
+        "value": 7.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.055480",
+        "lon": "-7.223948"
+      }
+    },
+    {
+      "schoolName": "TIMAHOE NATIONAL SCHOOL",
+      "numPupils": 200,
+      "distance": {
+        "value": 7.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.962723",
+        "lon": "-7.198944"
+      }
+    },
+    {
+      "schoolName": "KILBERRY NATIONAL SCHOOL",
+      "numPupils": 88,
+      "distance": {
+        "value": 8.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.050457",
+        "lon": "-7.022349"
+      }
+    },
+    {
+      "schoolName": "RATH MIXED NATIONAL SCHOOL",
+      "numPupils": 196,
+      "distance": {
+        "value": 9.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.094660",
+        "lon": "-7.092180"
+      }
+    },
+    {
+      "schoolName": "THE KOLBE SPECIAL SCHOOL",
+      "numPupils": 44,
+      "distance": {
+        "value": 9.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.033600",
+        "lon": "-7.274896"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "SCOIL CHRIOST RI",
+      "numPupils": 802,
+      "distance": {
+        "value": 10.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.048240",
+        "lon": "-7.278459"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S C.B.S.",
+      "numPupils": 803,
+      "distance": {
+        "value": 10.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.048260",
+        "lon": "-7.279020"
+      }
+    },
+    {
+      "schoolName": "ÁRDSCOIL NA TRIONÓIDE",
+      "numPupils": 882,
+      "distance": {
+        "value": 10.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.996178",
+        "lon": "-6.983561"
+      }
+    },
+    {
+      "schoolName": "ATHY COMMUNITY COLLEGE",
+      "numPupils": 655,
+      "distance": {
+        "value": 10.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.987110",
+        "lon": "-6.979499"
+      }
+    },
+    {
+      "schoolName": "DUNAMASE COLLEGE (COLÁISTE DHÚN MÁSC)",
+      "numPupils": 577,
+      "distance": {
+        "value": 11.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.035007",
+        "lon": "-7.299064"
+      }
+    },
+    {
+      "schoolName": "PORTLAOISE COLLEGE",
+      "numPupils": 952,
+      "distance": {
+        "value": 12.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.035545",
+        "lon": "-7.313271"
+      }
+    },
+    {
+      "schoolName": "ST PAULS SECONDARY SCHOOL",
+      "numPupils": 790,
+      "distance": {
+        "value": 14.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.142704",
+        "lon": "-7.066753"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÍOSAGÁIN",
+      "numPupils": 1135,
+      "distance": {
+        "value": 16.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.161457",
+        "lon": "-7.205451"
+      }
+    },
+    {
+      "schoolName": "MOUNTMELLICK COMMUNITY SCHOOL",
+      "numPupils": 706,
+      "distance": {
+        "value": 17.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.118050",
+        "lon": "-7.327565"
+      }
+    },
+    {
+      "schoolName": "HEYWOOD COMMUNITY SCHOOL",
+      "numPupils": 748,
+      "distance": {
+        "value": 18.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.885468",
+        "lon": "-7.299462"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "838",
+      "destination": "Market Yard",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "IW08",
+      "destination": "Carlow Institute",
+      "provider": "Martley's",
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "IW06",
+      "destination": "Hanover Bus Park",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "IW04",
+      "destination": "Carlow Bus Station",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.013666",
+        "lon": "-7.146256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Stradbally",
+      "route": "73",
+      "destination": "Longford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.015956",
+        "lon": "-7.150046"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlemitchell",
+      "route": "IW06",
+      "destination": "Hanover Bus Park",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 5.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0027787652143",
+        "lon": "-7.057821819766"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Timahoe",
+      "route": "838",
+      "destination": "Portlaoise Station",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.960941",
+        "lon": "-7.201579"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Heath",
+      "route": "827",
+      "destination": "Saint Vincent's Community Nursing Unit",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.062594",
+        "lon": "-7.226317"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "The Heath",
+      "route": "829",
+      "destination": "Tullamore Hospital",
+      "provider": "Slieve Bloom Coach Tours",
+      "distance": {
+        "value": 7.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.062594",
+        "lon": "-7.226317"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilberry Ch",
+      "route": "883",
+      "destination": "Athy",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 8.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.03132",
+        "lon": "-7.01702"
+      }
+    }
+  ]
+}

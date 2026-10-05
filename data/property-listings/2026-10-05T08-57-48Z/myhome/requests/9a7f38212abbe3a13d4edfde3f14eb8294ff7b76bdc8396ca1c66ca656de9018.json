@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=86",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=86",
+  "fetchedAt": "2026-10-05T09:55:51.076Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "7a45a61307d7cf43bf8f1b75437451aafe9fc2b8eefbdefce2736f3ab093980a",
+  "files": [
+    {
+      "path": "myhome/02313-9a7f38212abbe3a1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=86\"].SearchResults",
+      "sha256": "874a3fd507834f6b8129946fe0ef3a7732b0eb9fc9e2559104e480104296e542",
+      "bytes": 119270
+    },
+    {
+      "path": "myhome/02313-9a7f38212abbe3a1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=86\"] (paging fields)",
+      "sha256": "fc9f046609419a75f18c7db5a014c126c62e8e2400baa83dfd55be0a2f484be3",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/crickamore-dungloe-county-donegal/5030644",
+    "https://www.myhome.ie/residential/brochure/apartment-12-the-stockyard-the-steelworks-foley-street-dublin-1/5029287",
+    "https://www.myhome.ie/residential/brochure/apartment-1-gledswood-mews-83-bird-avenue-dublin-14-dublin/5030642",
+    "https://www.myhome.ie/residential/brochure/o-growney-street-athboy-meath/5030631",
+    "https://www.myhome.ie/residential/brochure/62-captain-s-avenue-crumlin-dublin-12/4833001",
+    "https://www.myhome.ie/residential/brochure/bell-cottage-cappagh-sixmilebridge-clare/5030640",
+    "https://www.myhome.ie/residential/brochure/no-16-carraig-mhor-wexford-town-wexford/5030629",
+    "https://www.myhome.ie/residential/brochure/7-bay-meadows-crescent-hollystown-dublin-15/5015395",
+    "https://www.myhome.ie/residential/brochure/ayresfields-granges-road-kilkenny/5030638",
+    "https://www.myhome.ie/residential/brochure/cross-residence-creggan-ballaghaderreen-co-roscommon/5030637",
+    "https://www.myhome.ie/residential/brochure/243-cashel-road-crumlin-dublin/5030194",
+    "https://www.myhome.ie/residential/brochure/28-clareville-road-harolds-cross-dublin-6w/5030636",
+    "https://www.myhome.ie/residential/brochure/16-durrow-road-crumlin-dublin-12/4998738",
+    "https://www.myhome.ie/residential/brochure/2-airfield-terrace-donnybrook-dublin-4/5018545",
+    "https://www.myhome.ie/residential/brochure/72-kincora-avenue-clontarf-dublin-3/5005013",
+    "https://www.myhome.ie/residential/brochure/115-castleknock-park-castleknock-dublin-15/5030635",
+    "https://www.myhome.ie/residential/brochure/37-cedar-brook-way-park-west-dublin-10/5030634",
+    "https://www.myhome.ie/residential/brochure/118-beech-park-easton-road-leixlip-kildare/5030497",
+    "https://www.myhome.ie/residential/brochure/13-white-pines-drive-rathfarnham-dublin-16/5030618",
+    "https://www.myhome.ie/residential/brochure/20-mount-drummond-avenue-harold-s-cross-dublin-6/5030633"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=87",
+  "paginationLimited": false
+}

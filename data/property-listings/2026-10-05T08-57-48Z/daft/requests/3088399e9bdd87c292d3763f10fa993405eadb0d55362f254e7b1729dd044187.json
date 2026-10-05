@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=27",
+  "fetchedAt": "2026-10-05T09:29:27.084Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=27",
+  "kind": "search",
+  "responseSha256": "f8b3e6a2822cd20696f8c8c4661da5d81105aad3fc7094d3f75592b0c85ff0ce",
+  "files": [
+    {
+      "path": "daft/01265-3088399e9bdd87c2-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "fdbba17d1a7995c39be5057f4445bfb5dcec737969e27e87c7920eda268721d2",
+      "bytes": 294286
+    },
+    {
+      "path": "daft/01265-3088399e9bdd87c2-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01265-3088399e9bdd87c2-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "ea3c1e0d6929dc91b52169a1eba277f43a0df8df70f380f1f6e21d291386cff0",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/gate-lodge-kilcarra-west-glenart-castle-kilcarra-co-wicklow/6592859",
+    "https://www.daft.ie/for-sale/84-gleann-na-mona-ballymoneen-road-galway/6653337",
+    "https://www.daft.ie/for-sale/219-maolchnoc-ballymoneen-road-knocknacarra-galway/6622500",
+    "https://www.daft.ie/for-sale/216-maolchnoc-ballymoneen-road-knocknacarra-galway/6622674",
+    "https://www.daft.ie/for-sale/1-hawthorn-drive-renmore-co-galway/6668295",
+    "https://www.daft.ie/for-sale/55-college-green-dunmore-road-tuam-co-galway/6669148",
+    "https://www.daft.ie/for-sale/lissananny-tuam-co-galway/6669036",
+    "https://www.daft.ie/for-sale/18-walkinstown-road-walkinstown-dublin-12/6669457",
+    "https://www.daft.ie/for-sale/23-lavender-court-forest-hill-carrigaline-co-cork/6662339",
+    "https://www.daft.ie/for-sale/main-street-kinnegad-co-westmeath/6669681",
+    "https://www.daft.ie/for-sale/mucklagh-co-offaly-screggan-co-offaly/6668639",
+    "https://www.daft.ie/for-sale/4-glenview-house-161-upper-salthill-road-salthill-galway-city/6662654",
+    "https://www.daft.ie/for-sale/the-old-rectory-crookstown-co-cork/6669526",
+    "https://www.daft.ie/for-sale/31-grange-village-mullingar-mullingar-co-westmeath/6669521",
+    "https://www.daft.ie/for-sale/lilac-cottage-knocknagroagh-ballyvaughan-co-clare/6669513",
+    "https://www.daft.ie/for-sale/3-saint-james-court-ennis-road-north-circular-road-co-limerick/6650600",
+    "https://www.daft.ie/for-sale/villa-maria-greenpark-avenue-south-circular-road-co-limerick/6652996",
+    "https://www.daft.ie/for-sale/14-the-orchards-ashbourne-avenue-south-circular-road-co-limerick/6572054",
+    "https://www.daft.ie/for-sale/3-dromhale-close-countess-road-killarney-co-kerry/6654233",
+    "https://www.daft.ie/for-sale/47-abbeyfield-kilcock-co-kildare/6642679"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=28",
+  "paginationLimited": false
+}

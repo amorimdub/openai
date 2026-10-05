@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cam-brideswell-brideswell-co-roscommon/6686162",
+  "fetchedAt": "2026-10-05T09:31:06.217Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cam-brideswell-brideswell-co-roscommon/6686162",
+  "kind": "listing",
+  "responseSha256": "9c760ee599831cea9409d2d3e2e9caaae52645b14ae8269197f68dba3977e1e8",
+  "files": [
+    {
+      "path": "daft/01331-60c0aa20d5a7550d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9fccd5e86c372aefa22374ca68bfb942badc42eb71cac36ce2ee3b1fb6933ef",
+      "bytes": 55364
+    },
+    {
+      "path": "daft/01331-60c0aa20d5a7550d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0af338dccb6a7216e8fb90fc2551f0e0dab8752367cb65ebcd78e2ace5cd28f1",
+      "bytes": 7991
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

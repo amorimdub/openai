@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-the-carriageworks-dublin-1/6604098",
+  "fetchedAt": "2026-10-05T08:59:07.771Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-the-carriageworks-dublin-1/6604098",
+  "kind": "listing",
+  "responseSha256": "499fb5733547efa56d9d0feebe044617a2c714c18b402f9e2f82090910996082",
+  "files": [
+    {
+      "path": "daft/00054-d6e6dca9387aa93a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c532431e28cb311425d3e46e90d850c51706be91c4e137848dadf0df3690d974",
+      "bytes": 74661
+    },
+    {
+      "path": "daft/00054-d6e6dca9387aa93a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ebfe3b7178e69e9ee2f248e06effa0dbdb96e5b76c354d6192abb06b6b10bf79",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

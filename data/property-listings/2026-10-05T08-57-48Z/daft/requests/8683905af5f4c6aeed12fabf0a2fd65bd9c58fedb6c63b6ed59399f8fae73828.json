@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=24",
+  "fetchedAt": "2026-10-05T09:26:49.302Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=24",
+  "kind": "search",
+  "responseSha256": "ced11f95b49da70a0685957626e742e7f6e963c5813282ee0050213f93653c25",
+  "files": [
+    {
+      "path": "daft/01160-8683905af5f4c6ae-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "ab2cfe7ccc87ed11e2e11c88b7939e9de0427b92922c810eb6c7c89254f635c8",
+      "bytes": 218654
+    },
+    {
+      "path": "daft/01160-8683905af5f4c6ae-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01160-8683905af5f4c6ae-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "3c203bf21ac4586b4bf283ff6f324ab7457afc7192490aafb506f5249b7541ea",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/2-bed-apartment-the-printworks-bray-bray-co-wicklow/6686220",
+    "https://www.daft.ie/for-rent/apartment-2f-an-d-n-church-road-raheen-limeric-mungret-co-limerick/6686169",
+    "https://www.daft.ie/for-rent/morrow-house-the-coast-baldoyle-dublin-13/6685843",
+    "https://www.daft.ie/for-rent/cloondara-longford-clondra-co-longford/6686519",
+    "https://www.daft.ie/for-rent/inniskeen-co-monaghan-inniskeen-co-monaghan/6686513",
+    "https://www.daft.ie/for-rent/2-white-fields-cloghan-birr-cloghan-co-offaly/6686520",
+    "https://www.daft.ie/for-rent/custume-pier-custume-place-athlone-co-westmeath/6685600",
+    "https://www.daft.ie/for-rent/silver-quay-northgate-street-athlone-co-westmeath/6685572",
+    "https://www.daft.ie/for-rent/church-road-carrigaline-co-cork/6686268",
+    "https://www.daft.ie/for-rent/17-woodview-enniskillen-co-fermanagh/6686422",
+    "https://www.daft.ie/for-rent/the-gap-riverstown-tramore-co-waterford/6686428",
+    "https://www.daft.ie/for-rent/off-borris-road-portlaoise-co-laois/6686373",
+    "https://www.daft.ie/for-rent/150-rialto-cottages-rialto-dublin-8/6686248",
+    "https://www.daft.ie/for-rent/grosvenor-square-dublin-6-harolds-cross-dublin-6/6686202",
+    "https://www.daft.ie/for-rent/maunsells-road-galway-shantalla-co-galway/6685982",
+    "https://www.daft.ie/for-rent/birch-house-red-arches-park-the-coast-baldoyle-dublin-13/6685489",
+    "https://www.daft.ie/for-rent/rochelle-court-old-blackrock-road-cork-ballinlough-co-cork/6681236",
+    "https://www.daft.ie/for-rent/13-court-mews-bridge-street-tullow-co-carlow/6686497",
+    "https://www.daft.ie/for-rent/basement-buckingham-street-lower-dublin-1-dublin-1/6686495",
+    "https://www.daft.ie/for-rent/collins-avenue-extension-dublin-9-whitehall-dublin-9/6686485"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=25",
+  "paginationLimited": false
+}

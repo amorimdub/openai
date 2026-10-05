@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=387",
+  "fetchedAt": "2026-10-05T13:33:59.369Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=387",
+  "kind": "search",
+  "responseSha256": "af4b1bbe367e71843ea76919a618ef664566cb72e0cb47a8f1676294a6bdfd0d",
+  "files": [
+    {
+      "path": "myhome/08490-93eda5b58adf1a78-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=387\"].SearchResults",
+      "sha256": "e9955e1871f79bc91bbc7b7b5250dbd077f0eea95b248f694e3eab568ba1f50f",
+      "bytes": 108508
+    },
+    {
+      "path": "myhome/08490-93eda5b58adf1a78-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=387\"] (paging fields)",
+      "sha256": "a33fc068c3c63466c98aded1d811b5d718dd4ea642aedb0d81d6388a7c80629e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/parkmore-athleague-roscommon/5017090",
+    "https://www.myhome.ie/residential/brochure/154-santry-close-santry-dublin-9/5017067",
+    "https://www.myhome.ie/residential/brochure/spunkane-waterville-kerry/5016803",
+    "https://www.myhome.ie/residential/brochure/mill-road-saggart-dublin-county-dublin/4969678",
+    "https://www.myhome.ie/residential/brochure/inishlacken-roundstone-co-galway/5017058",
+    "https://www.myhome.ie/residential/brochure/tacumshin-tomhaggard-wexford/5017057",
+    "https://www.myhome.ie/residential/brochure/test-garryhill-carlow/5017050",
+    "https://www.myhome.ie/residential/brochure/straheglin-belturbet-cavan/5017047",
+    "https://www.myhome.ie/residential/brochure/castleshanaghan-letterkenny-co-donegal/5017046",
+    "https://www.myhome.ie/residential/brochure/72-the-green-clonattin-village-gorey-co-wexford/5017045",
+    "https://www.myhome.ie/residential/brochure/apartment-64-cranford-court-stillorgan-road-dublin-4/5017043",
+    "https://www.myhome.ie/residential/brochure/33-rosedale-crescent-castaheany-clonee-dublin-15/5017030",
+    "https://www.myhome.ie/residential/brochure/manorville-3-castle-demesne-tralee-co-kerry/5017040",
+    "https://www.myhome.ie/residential/brochure/portrushen-lower-kiltegan-county-wicklow/5017038",
+    "https://www.myhome.ie/residential/brochure/113-exchange-hall-belgard-square-north-tallaght-dublin-24/5015412",
+    "https://www.myhome.ie/residential/brochure/new-a-rated-homes-na-cair-il-ballinroad-dungarvan-waterford/5016925",
+    "https://www.myhome.ie/residential/brochure/25-chapel-street-balbriggan-dublin/5017023",
+    "https://www.myhome.ie/residential/brochure/ballydavis-portlaoise-co-laois/5017024",
+    "https://www.myhome.ie/residential/brochure/9-croghan-heights-arklow-co-wicklow/5009998",
+    "https://www.myhome.ie/residential/brochure/74-point-road-dundalk-louth/5017009"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=388",
+  "paginationLimited": false
+}

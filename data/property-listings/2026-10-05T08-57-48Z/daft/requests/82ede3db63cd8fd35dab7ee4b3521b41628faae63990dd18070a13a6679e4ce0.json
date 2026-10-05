@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-18-popes-quay-cork-city-centre-co-cork/6685991",
+  "fetchedAt": "2026-10-05T09:32:16.798Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-18-popes-quay-cork-city-centre-co-cork/6685991",
+  "kind": "listing",
+  "responseSha256": "83438f5aa373eb33bc60bd3f7db35a3a16f2ae7f8a30e8ee2b139021e789928b",
+  "files": [
+    {
+      "path": "daft/01378-82ede3db63cd8fd3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fd21b77bcd4db9fee7589a831a32008e7de094b73555cbe12f3f5d26364ae9ce",
+      "bytes": 16206
+    },
+    {
+      "path": "daft/01378-82ede3db63cd8fd3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "00da051e3617c85b654049946cb0fe692887bec45b2067aacc9ffdc09685773f",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

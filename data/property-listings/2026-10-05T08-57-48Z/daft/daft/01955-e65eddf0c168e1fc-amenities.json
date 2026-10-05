@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ARDFINNAN NATIONAL SCHOOL",
+      "numPupils": 241,
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.309155",
+        "lon": "-7.880958"
+      }
+    },
+    {
+      "schoolName": "GRANGE NATIONAL SCHOOL",
+      "numPupils": 157,
+      "distance": {
+        "value": 5.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.338974",
+        "lon": "-7.824362"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE NEWCASTLE",
+      "numPupils": 113,
+      "distance": {
+        "value": 6.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.271590",
+        "lon": "-7.808240"
+      }
+    },
+    {
+      "schoolName": "BALLYLOOBY NATIONAL SCHOOL",
+      "numPupils": 156,
+      "distance": {
+        "value": 7.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.326237",
+        "lon": "-7.985841"
+      }
+    },
+    {
+      "schoolName": "BUNSCOIL NA CATHRACH",
+      "numPupils": 428,
+      "distance": {
+        "value": 7.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.374302",
+        "lon": "-7.919273"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL",
+      "numPupils": 78,
+      "distance": {
+        "value": 8.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.270424",
+        "lon": "-7.990157"
+      }
+    },
+    {
+      "schoolName": "RATHKEEVIN NATIONAL SCHOOL",
+      "numPupils": 141,
+      "distance": {
+        "value": 10,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.373196",
+        "lon": "-7.783728"
+      }
+    },
+    {
+      "schoolName": "BALLYMACARBRY NATIONAL SCHOOL",
+      "numPupils": 169,
+      "distance": {
+        "value": 10.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.281925",
+        "lon": "-7.740626"
+      }
+    },
+    {
+      "schoolName": "BALLYDREHID NATIONAL SCHOOL",
+      "numPupils": 17,
+      "distance": {
+        "value": 12.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.407570",
+        "lon": "-7.965344"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY SCHOOL",
+      "numPupils": 274,
+      "distance": {
+        "value": 12.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.348370",
+        "lon": "-7.718085"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLAISTE DUN IASCAIGH",
+      "numPupils": 904,
+      "distance": {
+        "value": 8.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.381360",
+        "lon": "-7.917705"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 473,
+      "distance": {
+        "value": 12.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.348680",
+        "lon": "-7.717228"
+      }
+    },
+    {
+      "schoolName": "HIGH SCHOOL CLONMEL",
+      "numPupils": 700,
+      "distance": {
+        "value": 13.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.356926",
+        "lon": "-7.698911"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 467,
+      "distance": {
+        "value": 13.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.350323",
+        "lon": "-7.694129"
+      }
+    },
+    {
+      "schoolName": "CENTRAL TECHNICAL INSTITUTE, CLONMEL",
+      "numPupils": 316,
+      "distance": {
+        "value": 13.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.353850",
+        "lon": "-7.695443"
+      }
+    },
+    {
+      "schoolName": "ROCKWELL COLLEGE",
+      "numPupils": 478,
+      "distance": {
+        "value": 16.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.458214",
+        "lon": "-7.893727"
+      }
+    },
+    {
+      "schoolName": "BLACKWATER COMMUNITY SCHOOL",
+      "numPupils": 964,
+      "distance": {
+        "value": 19.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.135117",
+        "lon": "-7.940274"
+      }
+    },
+    {
+      "schoolName": "PATRICIAN PRESENTATION",
+      "numPupils": 280,
+      "distance": {
+        "value": 21.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.468230",
+        "lon": "-7.698354"
+      }
+    },
+    {
+      "schoolName": "CASHEL COMMUNITY SCHOOL",
+      "numPupils": 855,
+      "distance": {
+        "value": 23.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.518963",
+        "lon": "-7.881870"
+      }
+    },
+    {
+      "schoolName": "THE ABBEY SCHOOL",
+      "numPupils": 345,
+      "distance": {
+        "value": 25.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.471600",
+        "lon": "-8.160206"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ardfinnan",
+      "route": "245",
+      "destination": "Clonmel",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.309222",
+        "lon": "-7.885088"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir Castle",
+      "route": "UC04",
+      "destination": "Mooncoin",
+      "provider": "Piltown Coaches",
+      "distance": {
+        "value": 7.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37418",
+        "lon": "-7.92589"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir",
+      "route": "245",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37453",
+        "lon": "-7.92569"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir",
+      "route": "55",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37453",
+        "lon": "-7.92569"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir",
+      "route": "245X",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37453",
+        "lon": "-7.92569"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir",
+      "route": "855",
+      "destination": "Limerick Junction",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 7.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37469",
+        "lon": "-7.92597"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir",
+      "route": "355",
+      "destination": "SETU Cork Road",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37469",
+        "lon": "-7.92597"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Cahir",
+      "route": "rail",
+      "destination": "Waterford (Plunkett)",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 8.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.377832",
+        "lon": "-7.922795"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahir Stn",
+      "route": "855",
+      "destination": "Limerick Junction",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 8.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37859",
+        "lon": "-7.922788"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clogheen",
+      "route": "245",
+      "destination": "Clonmel",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 8.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.275301",
+        "lon": "-7.998725"
+      }
+    }
+  ]
+}

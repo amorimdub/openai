@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-mews-3-leeson-close-dublin-2/6686732",
+  "fetchedAt": "2026-10-05T09:26:13.248Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-mews-3-leeson-close-dublin-2/6686732",
+  "kind": "listing",
+  "responseSha256": "fe323cc7149981c872d85384376d77a2065ca149ec7cf9094e2286970cb038a3",
+  "files": [
+    {
+      "path": "daft/01136-caa0fc66104811b9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8d4a178c538e1f5de4d2f677ed2a5032aa6ce051b061246054f3b060486a1060",
+      "bytes": 95723
+    },
+    {
+      "path": "daft/01136-caa0fc66104811b9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7964da64c08d1d05db335100aae39c3f63f1fda9cd92fb4b42f50f24b8ff5b8b",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

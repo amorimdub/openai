@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/7-crannagh-way-rathfarnham-rathfarnham-dublin-14/6678449",
+  "fetchedAt": "2026-10-05T09:17:12.542Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/7-crannagh-way-rathfarnham-rathfarnham-dublin-14/6678449",
+  "kind": "listing",
+  "responseSha256": "3709c190e9afa146d3201faca7641026ea8823eb5b83570d9bb07f447da95303",
+  "files": [
+    {
+      "path": "daft/00776-030b35da71766886-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ec94d86bc9c612c3560acef38c18c01110c920e568bb3662663ec1481e65f990",
+      "bytes": 63488
+    },
+    {
+      "path": "daft/00776-030b35da71766886-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "06112310465e27c3b6a7cadd20128885b3ae486fb557371bc2423defaa08a9f1",
+      "bytes": 8033
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

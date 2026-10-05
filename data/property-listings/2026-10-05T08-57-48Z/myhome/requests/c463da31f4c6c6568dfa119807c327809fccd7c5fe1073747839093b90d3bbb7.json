@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=326",
+  "fetchedAt": "2026-10-05T13:02:39.046Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=326",
+  "kind": "search",
+  "responseSha256": "833f2f3ab56cdd527640aeb14310cb888d910b7995cc942c4756202ae0a463b8",
+  "files": [
+    {
+      "path": "myhome/07239-c463da31f4c6c656-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=326\"].SearchResults",
+      "sha256": "b02281f7b2098bb7999d8d021f804afe0211066eac0066fbd79a35fc2fa5426c",
+      "bytes": 105782
+    },
+    {
+      "path": "myhome/07239-c463da31f4c6c656-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=326\"] (paging fields)",
+      "sha256": "37bd9fbcdff5b81e057e92762128a7c3555bfcc1b0f5c493c4710a84e0e2e8f2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/17-college-manor-dundalk-county-louth/5022088",
+    "https://www.myhome.ie/residential/brochure/143-brandon-road-drimnagh-dublin-12/5019426",
+    "https://www.myhome.ie/residential/brochure/16-gort-na-greine-ballinanbrannagh-co-carlow/5022085",
+    "https://www.myhome.ie/residential/brochure/apartment-29-ballynoe-grove-off-killarney-road-bray-co-wicklow/5022082",
+    "https://www.myhome.ie/residential/brochure/68-garville-lane-rathgar-dublin-6/5022078",
+    "https://www.myhome.ie/residential/brochure/shantonagh-lodge-doora-shantonagh-co-monaghan-castleblayney-monaghan/5021908",
+    "https://www.myhome.ie/residential/brochure/upper-rathmoyle-abbeyleix-portlaoise-co-laois/5022076",
+    "https://www.myhome.ie/residential/brochure/22-the-meadows-smithborough-monaghan/5022073",
+    "https://www.myhome.ie/residential/brochure/rathview-house-bracknagh-road-rathangan-kildare/5022071",
+    "https://www.myhome.ie/residential/brochure/11-bolton-mews-faithlegg-co-waterford/5022066",
+    "https://www.myhome.ie/residential/brochure/gleann-na-bhfiach-moorechurch-julianstown-drogheda-co-louth/5022063",
+    "https://www.myhome.ie/residential/brochure/glencreagh-bantry-co-cork/5022062",
+    "https://www.myhome.ie/residential/brochure/77-clontarf-road-clontarf-dublin-3/5022060",
+    "https://www.myhome.ie/residential/brochure/nurney-demesne-kildare-nurney-co-kildare/5022058",
+    "https://www.myhome.ie/residential/brochure/leagh-ring-dungarvan-waterford/5022057",
+    "https://www.myhome.ie/residential/brochure/25-roseville-court-dublin-road-bray-co-wicklow/5022054",
+    "https://www.myhome.ie/residential/brochure/moveen-west-kilkee-clare/5022043",
+    "https://www.myhome.ie/residential/brochure/driney-loughglynn-co-roscommon/4819455",
+    "https://www.myhome.ie/residential/brochure/36-bessborough-avenue-north-strand-dublin-3/5022048",
+    "https://www.myhome.ie/residential/brochure/12-bishopswater-wexford-town-wexford/5022039"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=327",
+  "paginationLimited": false
+}

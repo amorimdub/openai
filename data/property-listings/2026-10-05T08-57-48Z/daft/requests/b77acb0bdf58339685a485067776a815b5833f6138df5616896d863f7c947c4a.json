@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-3-56-richmond-street-south-dublin-2/6683731",
+  "fetchedAt": "2026-10-05T09:47:52.574Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-3-56-richmond-street-south-dublin-2/6683731",
+  "kind": "listing",
+  "responseSha256": "063e85623c8f3849f1cfc39a438841153f84796207b2c2a406665def43b2a2c9",
+  "files": [
+    {
+      "path": "daft/02001-b77acb0bdf583396-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b55b1500c9d21ca317a66c9bca60fadce3a32c01c8c0651954bef01b2b49355e",
+      "bytes": 21728
+    },
+    {
+      "path": "daft/02001-b77acb0bdf583396-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fca7582c6acf468c80e62d757b3947bbb9d9f3fa41ce8322bc1a1bf189f5ea01",
+      "bytes": 8124
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cathedral-court-unit-6-new-street-south-dublin-8/2929871",
+  "fetchedAt": "2026-10-05T08:58:55.759Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cathedral-court-unit-6-new-street-south-dublin-8/2929871",
+  "kind": "listing",
+  "responseSha256": "63117c0de3b0c004133b0df7f51a5ae5194da5eb987c4c96fc6720d315a58711",
+  "files": [
+    {
+      "path": "daft/00046-bd4e94ccea6714e0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0ec1cef1a3075ce70642d6cbf3f3e60bde6ff69616ba7e189b65c6ce33f94c13",
+      "bytes": 128490
+    },
+    {
+      "path": "daft/00046-bd4e94ccea6714e0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e4c1367994da58903b2c922c0a7c2c7b86e40b1bec6763a6e0f90dfb0f81c52d",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

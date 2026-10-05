@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/20-oconnell-court-old-waterford-road-clonmel-c-clonmel-co-tipperary/6687265",
+  "fetchedAt": "2026-10-05T09:15:27.428Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/20-oconnell-court-old-waterford-road-clonmel-c-clonmel-co-tipperary/6687265",
+  "kind": "listing",
+  "responseSha256": "92adf3ce328fa93707b01017a5fd9182f95d15cca774e477f6c60472b4b696cd",
+  "files": [
+    {
+      "path": "daft/00706-c3e6c542de246250-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "af688003252e707054317938ec1d8ad78b71848c5616bbbaad113b1ea40ab51f",
+      "bytes": 34422
+    },
+    {
+      "path": "daft/00706-c3e6c542de246250-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0d374f714069cbe4a70b58e40dff837e7ee9a69c16aa644746b9397c3b71bf48",
+      "bytes": 8135
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

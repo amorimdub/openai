@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-385-block-9a-tallaght-cross-west-tallaght-dublin-24/6668996",
+  "fetchedAt": "2026-10-05T09:14:21.316Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-385-block-9a-tallaght-cross-west-tallaght-dublin-24/6668996",
+  "kind": "listing",
+  "responseSha256": "d512ab6e3c3daaf8a48ab43e1748dcb12dcdb6e942e30f5dfcff3b529ffb432b",
+  "files": [
+    {
+      "path": "daft/00662-1b66ff79cffe03f9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "22acbc8c88229a5bd6fbf5351b13a917424f59e1c3c102d4d78d7dfb443d6a89",
+      "bytes": 16273
+    },
+    {
+      "path": "daft/00662-1b66ff79cffe03f9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7d4ca0282d25b0929fdf665a3bbf7315de46c693012912fe1d4d63a02d8244d8",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

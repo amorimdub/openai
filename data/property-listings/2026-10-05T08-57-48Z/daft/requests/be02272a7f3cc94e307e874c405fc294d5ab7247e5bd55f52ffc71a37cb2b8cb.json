@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland",
+  "fetchedAt": "2026-10-05T08:57:48.182Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland",
+  "kind": "search",
+  "responseSha256": "91486e34368a296e65df840c0c3219f37e274aa94968c464e323eb8279c362ff",
+  "files": [
+    {
+      "path": "daft/00001-be02272a7f3cc94e-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "e756e233717046ed36bae9fef87ed66d38833c9f421abf6450904c4a31e577c3",
+      "bytes": 304890
+    },
+    {
+      "path": "daft/00001-be02272a7f3cc94e-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00001-be02272a7f3cc94e-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "47aac617b53223de434a06254c59915338904fe952baeed095627b596dc9e85b",
+      "bytes": 171
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/21-castle-court-daingean-daingean-co-offaly/6684480",
+    "https://www.daft.ie/for-sale/9-beechfield-heights-castaheany-clonee-dublin-15/6666254",
+    "https://www.daft.ie/for-sale/32-castlerock-mews-castleconnell-limerick-co-limerick/6686447",
+    "https://www.daft.ie/for-sale/128-carysfort-park-blackrock-co-dublin/6610105",
+    "https://www.daft.ie/for-sale/14-father-paul-murphy-street-edenderry-edenderry-co-offaly/6684479",
+    "https://www.daft.ie/for-sale/4-saint-conleths-avenue-naas-road-newbridge-co-kildare/6623255",
+    "https://www.daft.ie/for-sale/1-marian-park-tralee-tralee-co-kerry/6682243",
+    "https://www.daft.ie/for-sale/98-caisle-n-na-habhann-castletroy-co-limerick/6675107",
+    "https://www.daft.ie/for-sale/95-kylemore-school-house-road-monaleen-co-limerick/6679030",
+    "https://www.daft.ie/for-sale/27-coolraine-heights-old-cratloe-road-caherdavin-co-limerick/6539150",
+    "https://www.daft.ie/for-sale/7-blackthorn-place-kettles-lane-swords-co-dublin/6680399",
+    "https://www.daft.ie/for-sale/sites-for-sale-in-one-lot-or-for-individual-lots-oilgate-co-wexford/6686255",
+    "https://www.daft.ie/for-sale/5-beechview-rathwire-killucan-co-westmeath/6686219",
+    "https://www.daft.ie/for-sale/10-lime-kiln-lawn-mallow-mallow-co-cork/6672764",
+    "https://www.daft.ie/for-sale/3-herbert-rise-herbert-road-co-wicklow/6655610",
+    "https://www.daft.ie/for-sale/1-the-lodges-rocky-valley-crescent-kilmacanogue-co-wicklow/6653432",
+    "https://www.daft.ie/for-sale/23-rosslyn-co-wicklow/6649703",
+    "https://www.daft.ie/for-sale/apartment-24-block-c-the-bridge-dublin-road-shankill-dublin-18/6648372",
+    "https://www.daft.ie/for-sale/apartment-29-ballynoe-grove-off-killarney-road-co-wicklow/6647531",
+    "https://www.daft.ie/for-sale/1-old-downs-road-willow-grove-delgany-co-wicklow/6646588"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=2",
+  "paginationLimited": false
+}

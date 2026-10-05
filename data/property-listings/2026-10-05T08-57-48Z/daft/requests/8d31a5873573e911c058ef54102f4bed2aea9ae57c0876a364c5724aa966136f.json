@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/227-roundwood-close-maryborough-village-pallas-co-laois/6683804",
+  "fetchedAt": "2026-10-05T09:46:52.477Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/227-roundwood-close-maryborough-village-pallas-co-laois/6683804",
+  "kind": "listing",
+  "responseSha256": "19950a5e4f89a8a1e0e90fa21921b730399829a4faac2c872cc66deeb37c8211",
+  "files": [
+    {
+      "path": "daft/01961-8d31a5873573e911-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0b8ee1cf70355508cbb6fbc82572b8b42afaa1671ff7b724a1df5feb13c2ff6f",
+      "bytes": 36500
+    },
+    {
+      "path": "daft/01961-8d31a5873573e911-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0dbab197919e90ec754031b7a0f5835fabb1d2fc67325a504f359e606475d5e6",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

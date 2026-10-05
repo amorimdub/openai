@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=5",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=5",
+  "fetchedAt": "2026-10-05T09:00:43.881Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "2e88b40fb85692aa9224386a5665b7fe37561ce47af8a3c0c7bb311bf00a4690",
+  "files": [
+    {
+      "path": "myhome/00118-62ee971c0c0e3c2b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=5\"].SearchResults",
+      "sha256": "b52f20b2ac9de0e6d539821daebb382b43c46f2a8d0ccb3c7a573741046d7b90",
+      "bytes": 116800
+    },
+    {
+      "path": "myhome/00118-62ee971c0c0e3c2b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=5\"] (paging fields)",
+      "sha256": "723b9d0fe3140db4045f46c084db84292cb5d9cb329378d50329e22080d41cf0",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rockmount-29-sorrento-road-dalkey-co-dublin/5025488",
+    "https://www.myhome.ie/residential/brochure/apartment-14-the-weir-chapelizod-dublin-20/5024844",
+    "https://www.myhome.ie/residential/brochure/41-monkstown-avenue-monkstown-county-dublin/5025739",
+    "https://www.myhome.ie/residential/brochure/4-villa-park-gardens-navan-road-dublin-7/4991639",
+    "https://www.myhome.ie/residential/brochure/mirehill-caherlistrane-galway/5027134",
+    "https://www.myhome.ie/residential/brochure/28-erris-square-waterville-blanchardstown-dublin-15/5030645",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-apartments-elm-place-milltown-dublin-6/5032085",
+    "https://www.myhome.ie/residential/brochure/1-bedroom-apartments-elm-place-milltown-dublin-6/5032084",
+    "https://www.myhome.ie/residential/brochure/1-ailesbury-road-ballsbridge-dublin-4/5027056",
+    "https://www.myhome.ie/residential/brochure/18-park-avenue-clongriffin-dublin-13/5030160",
+    "https://www.myhome.ie/residential/brochure/22-the-stableyard-oldtown-demesne-naas-co-kildare/5028047",
+    "https://www.myhome.ie/residential/brochure/10-oak-park-avenue-oak-park-naas-co-kildare/5025020",
+    "https://www.myhome.ie/residential/brochure/10-beasley-house-punchestown-gate-naas-co-kildare/4994478",
+    "https://www.myhome.ie/residential/brochure/the-arrowgate-tipperstown-walk-naas-co-kildare-naas-kildare/4949617",
+    "https://www.myhome.ie/residential/brochure/residence-22-woodlands-grove-blackrock-county-dublin/4968078",
+    "https://www.myhome.ie/residential/brochure/the-castleshane-tipperstown-walk-tipper-road-naas-co-kildare-naas-kildare/5009337",
+    "https://www.myhome.ie/residential/brochure/25-nutley-road-ballsbridge-dublin-4/5028395",
+    "https://www.myhome.ie/residential/brochure/the-varenne-tipperstown-walk-tipper-road-naas-co-kildare-naas-kildare/5009333",
+    "https://www.myhome.ie/residential/brochure/2-whitethorn-lawn-naas-co-kildare/5030280",
+    "https://www.myhome.ie/residential/brochure/the-arkle-tipperstown-walk-tipper-road-nass-co-kildare-naas-kildare/5009331"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=6",
+  "paginationLimited": false
+}

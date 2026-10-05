@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/38-saint-brochans-park-bracknagh-co-offaly/6651352",
+  "fetchedAt": "2026-10-05T09:43:28.122Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/38-saint-brochans-park-bracknagh-co-offaly/6651352",
+  "kind": "listing",
+  "responseSha256": "6e52956b88c491374f5edcc656e68cbcc5c54a24538b299e3b2736126af169f0",
+  "files": [
+    {
+      "path": "daft/01825-5ba4532621c2600c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a5c058f57621ba1a2980fec619c634c2b9643fd38188d06f8ff6a0e45bd5a4b9",
+      "bytes": 86568
+    },
+    {
+      "path": "daft/01825-5ba4532621c2600c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "23d1968beb9a1c4b2b1bb0b7dd5b20f87f1dc843d2936444217e741fd8e0dd93",
+      "bytes": 8199
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,402 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "2 ballygarth manor julianstown co meath",
+    "GroupId": 5656,
+    "Address": "2 Ballygarth Manor",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a96dc7b7-75d2-47a9-9ec5-23a761f0bb4c_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a96dc7b7-75d2-47a9-9ec5-23a761f0bb4c_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a96dc7b7-75d2-47a9-9ec5-23a761f0bb4c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/5d3369f7-00b5-4949-b8eb-6cb7436365fb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8d123b06-dce1-45d4-b57f-9b88854426a8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/15251573-c846-4d79-9c12-32e6073c2b5b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f90f2784-4a85-4960-99a6-3edb6ca8f10b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/93d63373-2675-48a8-912c-a35bcd393b5a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/e2bff112-0761-4f87-9af4-6194f5933e3c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b3facbfa-c309-4e2f-8506-54e487eba6bd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b541eba0-f8ba-48e3-bd5e-33022dc5e5c6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/d6e0388d-b4d1-440c-a8c7-81ae4b3befb2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8865b047-620a-482a-94bb-4fd6c772092c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9696736c-14f9-43aa-a18e-f43c464b71c8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f8984126-197c-4d15-b15d-28c8c22f0012_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a8db8546-ea8b-4361-8698-d656e0e74747_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/1cdd6932-196c-4531-89d7-ed4c9da6e94d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/132a1f0c-62a7-4357-8fe7-433901896080_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/3b989318-477e-4500-96b5-a0144dc3039b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a7a838ed-dec8-4128-a76b-d34f23257ba9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/87d6cb04-4096-45ea-975b-f0ff23dc7e04_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/2ab6dd39-6044-444a-bf54-45b052149907_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/897a5c20-0605-4e2c-b326-1d393dc2e0a1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/648e3165-acfc-4fd3-bccf-65043a8e604e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/36c4ce14-d8fa-4335-ae49-1bb4a89e3867_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/c10d6b40-0bd9-401d-acd5-ece09d785236_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a933a405-82ff-450a-ae25-8265c670a7f9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/427fc9c9-3659-4166-b790-69c271c9c25e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9d6ec8a4-a15c-46e6-a3c3-ad34d525bccf_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/125eb9b1-bbe6-42fa-b81b-58407c2e23bb_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 244,
+    "MaxSize": 244,
+    "BerRating": "B",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "\nSherry FitzGerald Lannon are delighted to present this exceptional detached 5 Bedroom residence, ideally positioned within the exclusive development of Ballygarth Manor on the edge of Julianstown village. This impressive 'B' Building Energy Rated home, with Smart thermostat heating controls, extends to Approx. 244m²/2,625ft² and is presented in immaculate showhouse condition, having recently been further enhanced with the installation of solar panels with a 20kWh 'Sigenergy' battery and automatic mains backup.\nFrom the moment you enter, the exceptional quality, attention to detail and elegant style of this beautiful family home are immediately evident. Four reception rooms are arranged off the impressive double height entrance hall, featuring luxurious wainscot wall panelling, which flows seamlessly into a generous open plan Kitchen/Dining/Living space and Sun Room, with direct access to the professionally landscaped rear garden and patio area, perfectly suited to both entertaining and relaxed outdoor living. Further highlights include a superb kitchen with granite and marble worktops, a large fully fitted Utility room and newly refurbished Bathroom, WC and Ensuite, combining comfort, style and practicality throughout.\nExternally, the property benefits from a detached, block-built workshop (Approx. 8m²/85ft²), complete with an electricity supply and offering excellent potential for use as a home office or garden room. There are also three outdoor taps, including one with a hot water supply. To the front, the property is wired for an EV charging point and features a substantial cobble-block driveway, providing ample off-street parking.\nThis outstanding family home enjoys a superb location within easy walking distance of excellent amenities, including the newly renovated and extended Whitecross National School, bus stops serving Bus Éireann and Matthew's Coaches Dublin express service, Julianstown Golf and Pitch & Putt Club and the highly regarded Matt the Thresher Gastropub. The location also offers easy access to a host of nearby beaches, just a 2 or 3 minute drive away, while Drogheda is approximately 7km and access to the M1 motorway via Junction 7 is a mere 4km. Dublin Airport and the M50 orbital motorway are both accessible in approximately 20 minutes. \nThis prestigious and conveniently located residence is undoubtedly one of the finest and most substantial family homes to come to the market in Julianstown in recent times. Viewing is strictly by appointment only with sole agents."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "\nHall - 4.07 x 4.47\n\n\nSitting Room - 5.45 x 3.95\n\n\nKitchen/Dining - 6.84 x 4.82\n\n\nDining Room - 3.74 x 3.95\n\n\nFamily Room - 2.79 x 4.74\n\n\nStudy/Office - 2.67 x 3.33\n\n\nConservatory - 3.64 x 4.18\n\n\nUtility - 2.79 x 4.14\n\n\nWC - 1.55 x 1.45\n\n\nFIRST FLOOR - \n\n\nBedroom 1 - 3.58 x 3.95\n\n\nEnsuite - 1.75 x 2.55\n\n\nBedroom 2 - 3.02 x 4.86\n\n\nBedroom 3 - 3.95 x 3.81\n\n\nBedroom 4 - 3.62 x 2.13\n\n\nBedroom 5 - 3.29 x 2.61\n\n\nBathroom - 3.66 x 2.61\n\n\nTOTAL: - Approx. 244 SqM/2,625 SqFt\n\n\nGarden Room/Shed - 3.40 x 2.30\n\n\nTOTAL: - Approx. 8 SqM/85 SqFt\n\n\n"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "<ul><li>B' Building Energy Rated home</li><li>Oil central heating. Hi Efficiency condensing boiler and motorised controls (All upgraded in 2017)</li><li>Home automation system (lighting/CCTV & heating) controlled via wall-mounted iPad)</li><li>Wood burning stove to Sitting Room</li><li>Newly installed 'Sigenergy' solar and battery system (14 panels with 20kWh battery and automatic home back-up)</li><li>Security alarm and security lighting</li><li>Refurbished WC, Bathroom & Ensuite</li><li>Refurbished Utility Room</li><li>Wired for EV charge point to front of house</li><li>5 Gigabit fibre broadband connection</li><li>Wainscot wall panelling to Hall, Stairs & Landing</li><li>Waste disposal unit to kitchen sink</li><li>Reverse Osmosis Water Filter</li><li>Bespoke plantation shutters to front of house</li><li>Detached block-built workshop with electric supply</li><li>Three outside taps. One with hot water feed</li><li>Floored attic space for storage</li><li>5 minutes' walking distance to Whitecross National School and Bus Stop </li><li>10 minutes' walking distance to Matt The Thresher Gastro Pub and Julianstown Golf/Pitch & Putt Club</li><li>3.3km to Laytown/Coballis Beach</li><li>Approximately 25 minutes' drive to Dublin Airport and M50 orbital motorway</ul>"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B\nBER No: 110343621\nEnergy Performance Indicator: 145.59"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Brian McGuirk"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 0,
+    "MinEnergyRating": 105,
+    "MaxEnergyRating": 105,
+    "BERGrade": "B",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-09-23T12:39:27.2170000+01:00",
+    "ModifiedOnDate": "2026-09-23T12:39:27.2170000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-23T12:39:27.2170000+01:00",
+    "RefreshedOn": "2026-09-23T12:39:27.2170000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+    "IsTransact": false,
+    "PriceAsString": "€745,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5029988,
+    "BedsString": "5 beds",
+    "SizeStringMeters": 244,
+    "DisplayAddress": "2 Ballygarth Manor, Julianstown, Co. Meath",
+    "Eircode": "A92 V052",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 2712,
+    "RegionName": "Meath",
+    "LocalityId": 2747,
+    "LocalityName": "Julianstown",
+    "Price": {
+      "MinPrice": 745000,
+      "MaxPrice": 745000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a96dc7b7-75d2-47a9-9ec5-23a761f0bb4c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a96dc7b7-75d2-47a9-9ec5-23a761f0bb4c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a96dc7b7-75d2-47a9-9ec5-23a761f0bb4c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/5d3369f7-00b5-4949-b8eb-6cb7436365fb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/5d3369f7-00b5-4949-b8eb-6cb7436365fb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/5d3369f7-00b5-4949-b8eb-6cb7436365fb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8d123b06-dce1-45d4-b57f-9b88854426a8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8d123b06-dce1-45d4-b57f-9b88854426a8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8d123b06-dce1-45d4-b57f-9b88854426a8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/15251573-c846-4d79-9c12-32e6073c2b5b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/15251573-c846-4d79-9c12-32e6073c2b5b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/15251573-c846-4d79-9c12-32e6073c2b5b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f90f2784-4a85-4960-99a6-3edb6ca8f10b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f90f2784-4a85-4960-99a6-3edb6ca8f10b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f90f2784-4a85-4960-99a6-3edb6ca8f10b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/93d63373-2675-48a8-912c-a35bcd393b5a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/93d63373-2675-48a8-912c-a35bcd393b5a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/93d63373-2675-48a8-912c-a35bcd393b5a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/e2bff112-0761-4f87-9af4-6194f5933e3c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/e2bff112-0761-4f87-9af4-6194f5933e3c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/e2bff112-0761-4f87-9af4-6194f5933e3c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b3facbfa-c309-4e2f-8506-54e487eba6bd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b3facbfa-c309-4e2f-8506-54e487eba6bd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b3facbfa-c309-4e2f-8506-54e487eba6bd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b541eba0-f8ba-48e3-bd5e-33022dc5e5c6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b541eba0-f8ba-48e3-bd5e-33022dc5e5c6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/b541eba0-f8ba-48e3-bd5e-33022dc5e5c6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/d6e0388d-b4d1-440c-a8c7-81ae4b3befb2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/d6e0388d-b4d1-440c-a8c7-81ae4b3befb2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/d6e0388d-b4d1-440c-a8c7-81ae4b3befb2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8865b047-620a-482a-94bb-4fd6c772092c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8865b047-620a-482a-94bb-4fd6c772092c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/8865b047-620a-482a-94bb-4fd6c772092c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9696736c-14f9-43aa-a18e-f43c464b71c8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9696736c-14f9-43aa-a18e-f43c464b71c8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9696736c-14f9-43aa-a18e-f43c464b71c8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f8984126-197c-4d15-b15d-28c8c22f0012_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f8984126-197c-4d15-b15d-28c8c22f0012_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/f8984126-197c-4d15-b15d-28c8c22f0012_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a8db8546-ea8b-4361-8698-d656e0e74747_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a8db8546-ea8b-4361-8698-d656e0e74747_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a8db8546-ea8b-4361-8698-d656e0e74747_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/1cdd6932-196c-4531-89d7-ed4c9da6e94d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/1cdd6932-196c-4531-89d7-ed4c9da6e94d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/1cdd6932-196c-4531-89d7-ed4c9da6e94d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/132a1f0c-62a7-4357-8fe7-433901896080_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/132a1f0c-62a7-4357-8fe7-433901896080_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/132a1f0c-62a7-4357-8fe7-433901896080_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/3b989318-477e-4500-96b5-a0144dc3039b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/3b989318-477e-4500-96b5-a0144dc3039b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/3b989318-477e-4500-96b5-a0144dc3039b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a7a838ed-dec8-4128-a76b-d34f23257ba9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a7a838ed-dec8-4128-a76b-d34f23257ba9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a7a838ed-dec8-4128-a76b-d34f23257ba9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/87d6cb04-4096-45ea-975b-f0ff23dc7e04_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/87d6cb04-4096-45ea-975b-f0ff23dc7e04_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/87d6cb04-4096-45ea-975b-f0ff23dc7e04_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/2ab6dd39-6044-444a-bf54-45b052149907_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/2ab6dd39-6044-444a-bf54-45b052149907_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/2ab6dd39-6044-444a-bf54-45b052149907_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/897a5c20-0605-4e2c-b326-1d393dc2e0a1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/897a5c20-0605-4e2c-b326-1d393dc2e0a1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/897a5c20-0605-4e2c-b326-1d393dc2e0a1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/648e3165-acfc-4fd3-bccf-65043a8e604e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/648e3165-acfc-4fd3-bccf-65043a8e604e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/648e3165-acfc-4fd3-bccf-65043a8e604e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/36c4ce14-d8fa-4335-ae49-1bb4a89e3867_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/36c4ce14-d8fa-4335-ae49-1bb4a89e3867_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/36c4ce14-d8fa-4335-ae49-1bb4a89e3867_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/c10d6b40-0bd9-401d-acd5-ece09d785236_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/c10d6b40-0bd9-401d-acd5-ece09d785236_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/c10d6b40-0bd9-401d-acd5-ece09d785236_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a933a405-82ff-450a-ae25-8265c670a7f9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a933a405-82ff-450a-ae25-8265c670a7f9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/a933a405-82ff-450a-ae25-8265c670a7f9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/427fc9c9-3659-4166-b790-69c271c9c25e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/427fc9c9-3659-4166-b790-69c271c9c25e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/427fc9c9-3659-4166-b790-69c271c9c25e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9d6ec8a4-a15c-46e6-a3c3-ad34d525bccf_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9d6ec8a4-a15c-46e6-a3c3-ad34d525bccf_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/9d6ec8a4-a15c-46e6-a3c3-ad34d525bccf_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/125eb9b1-bbe6-42fa-b81b-58407c2e23bb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/125eb9b1-bbe6-42fa-b81b-58407c2e23bb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/125eb9b1-bbe6-42fa-b81b-58407c2e23bb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/590785d6-59ea-46b8-aaa8-ea2824a3b124_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/590785d6-59ea-46b8-aaa8-ea2824a3b124_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/8/9/5029988/590785d6-59ea-46b8-aaa8-ea2824a3b124_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.27307,
+      "latitude": 53.66869
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 29,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/8/8/9/5029988/590785d6-59ea-46b8-aaa8-ea2824a3b124_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5656,
+    "Name": "Sherry FitzGerald Lannon",
+    "DisplayPhone": "041 983 8168",
+    "Email": "info@sherryfitzlannon.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "sherry-fitzgerald-lannon",
+    "SeoName": "sherry-fitzgerald-lannon",
+    "Address": "42 Shop Street, Drogheda, Co. Louth",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/6/5/6/5656/logo.jpg",
+    "SalesLicense": "001554",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "julianstown/2747",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/2-ballygarth-manor-julianstown-co-meath/5029988",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5656,
+    "MYH_LocalityID": 2747,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2712,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Central Heating",
+      "Broadband",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "Central Heating,Broadband,Alarm",
+    "MYH_MaxPrice": 750000,
+    "MYH_MinBeds": 5,
+    "MYH_MinEnergyRating": 105,
+    "MYH_MinPrice": 750000,
+    "MYH_MinSize": 244,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5029988,
+    "MYH_PropertyTypeID": 39
+  }
+}

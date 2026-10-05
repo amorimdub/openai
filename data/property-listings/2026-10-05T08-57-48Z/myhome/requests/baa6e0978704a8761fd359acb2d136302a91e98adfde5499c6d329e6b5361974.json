@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=57",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=57",
+  "fetchedAt": "2026-10-05T09:41:20.286Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "bf9a3d1a7761a6555c846a4d5125e8c560b190308807bdce8d37498488d8ae85",
+  "files": [
+    {
+      "path": "myhome/01735-baa6e0978704a876-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=57\"].SearchResults",
+      "sha256": "d7a7f55614e7f58c01609b7eec3e4651e194361bf1c1218155b94c993700ddec",
+      "bytes": 117538
+    },
+    {
+      "path": "myhome/01735-baa6e0978704a876-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=57\"] (paging fields)",
+      "sha256": "886dec87b854d15357bd33547a4919fb03868b2f213301b926a8c05a48c40267",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-coach-house-yard-johnstown-county-kildare/4998342",
+    "https://www.myhome.ie/residential/brochure/11-kenure-lawns-rush-county-dublin/5029607",
+    "https://www.myhome.ie/residential/brochure/woodview-dangan-celbridge-county-kildare/5024538",
+    "https://www.myhome.ie/residential/brochure/88-the-drive-celbridge-county-kildare/5018595",
+    "https://www.myhome.ie/residential/brochure/33-cill-carban-duleek-meath/5031286",
+    "https://www.myhome.ie/residential/brochure/52-thornhill-heights-celbridge-county-kildare/5026511",
+    "https://www.myhome.ie/residential/brochure/59-the-grove-celbridge-county-kildare/5024886",
+    "https://www.myhome.ie/residential/brochure/2-ardrath-meadow-celbridge-county-kildare/5024863",
+    "https://www.myhome.ie/residential/brochure/apartment-26-stapleton-house-mountjoy-square-north-city-centre-dublin-1/5007412",
+    "https://www.myhome.ie/residential/brochure/12-williams-grove-ardclough-celbridge-county-kildare/4990797",
+    "https://www.myhome.ie/residential/brochure/cloonconlon-straide-foxford-co-mayo/5031288",
+    "https://www.myhome.ie/residential/brochure/46-dun-rioga-crescent-dunshaughlin-meath/5030220",
+    "https://www.myhome.ie/residential/brochure/26-windmill-lane-grand-canal-dk-dublin-2/5031284",
+    "https://www.myhome.ie/residential/brochure/87-oak-way-bailis-downs-johnstown-meath/5030265",
+    "https://www.myhome.ie/residential/brochure/46-silloge-gardens-ballymun-dublin-11/5030864",
+    "https://www.myhome.ie/residential/brochure/177-charlesland-wood-greystones-co-wicklow/5031283",
+    "https://www.myhome.ie/residential/brochure/3-bed-duplex-curragh-farm-newbridge-kildare/4721838",
+    "https://www.myhome.ie/residential/brochure/37-elmwood-clonsilla-dublin-15/5030279",
+    "https://www.myhome.ie/residential/brochure/10-moeran-road-walkinstown-dublin-12/5031278",
+    "https://www.myhome.ie/residential/brochure/30-cooleen-avenue-beaumont-dublin-9/5031221"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=58",
+  "paginationLimited": false
+}

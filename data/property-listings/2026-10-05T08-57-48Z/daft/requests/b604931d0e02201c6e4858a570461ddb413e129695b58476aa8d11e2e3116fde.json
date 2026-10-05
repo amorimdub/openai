@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/29-woodville-rochestown-road-cork-rochestown-co-cork/6684468",
+  "fetchedAt": "2026-10-05T09:42:35.527Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/29-woodville-rochestown-road-cork-rochestown-co-cork/6684468",
+  "kind": "listing",
+  "responseSha256": "bbc1a8522d7deee7b1bfc71bcdfbcd590be1936fb5e08f9717b3b524d03f48e5",
+  "files": [
+    {
+      "path": "daft/01790-b604931d0e02201c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bd153f94282b6178bc24b9aa01f07746075f7fb448825f245ba08988c9da9fe2",
+      "bytes": 3318
+    },
+    {
+      "path": "daft/01790-b604931d0e02201c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "86726e22dfff2d1289a239953746e61e1e3b77de5fad0e1dec5aece71f440851",
+      "bytes": 8164
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

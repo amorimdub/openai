@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-7-bakers-quay-the-quay-tinnahinch-graiguenamanagh-co-carlow/6683759",
+  "fetchedAt": "2026-10-05T09:47:46.566Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-7-bakers-quay-the-quay-tinnahinch-graiguenamanagh-co-carlow/6683759",
+  "kind": "listing",
+  "responseSha256": "95bb5c987e305c6db3bb933fd4c7fe92c0df0dfc7514013f7abc2f61e6823188",
+  "files": [
+    {
+      "path": "daft/01997-eece043035d4ac8e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6c6d9cfcce159310160f3f09cd11456b27d32eb0c30aead2a3fb234d6a604e83",
+      "bytes": 24389
+    },
+    {
+      "path": "daft/01997-eece043035d4ac8e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "84387aa0759228d6301b3e8f67116e30dca53886449dd3e914bb3efce0d23bdd",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

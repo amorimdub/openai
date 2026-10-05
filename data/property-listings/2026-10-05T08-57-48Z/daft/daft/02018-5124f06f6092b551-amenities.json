@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BIRDHILL NATIONAL SCHOOL",
+      "numPupils": 110,
+      "distance": {
+        "value": 0.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.746548",
+        "lon": "-8.437049"
+      }
+    },
+    {
+      "schoolName": "NEWPORT CONVENT",
+      "numPupils": 270,
+      "distance": {
+        "value": 3.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.710854",
+        "lon": "-8.411192"
+      }
+    },
+    {
+      "schoolName": "NEWPORT BOYS NATIONAL SCHOOL",
+      "numPupils": 141,
+      "distance": {
+        "value": 3.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.713684",
+        "lon": "-8.400433"
+      }
+    },
+    {
+      "schoolName": "BALLINAHINCH NATIONAL SCHOOL",
+      "numPupils": 98,
+      "distance": {
+        "value": 4.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.767235",
+        "lon": "-8.382112"
+      }
+    },
+    {
+      "schoolName": "CASTLECONNELL NATIONAL SCHOOL",
+      "numPupils": 239,
+      "distance": {
+        "value": 4.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.714080",
+        "lon": "-8.495324"
+      }
+    },
+    {
+      "schoolName": "BRIDGETOWN NATIONAL SCHOOL",
+      "numPupils": 108,
+      "distance": {
+        "value": 6.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.761524",
+        "lon": "-8.524634"
+      }
+    },
+    {
+      "schoolName": "KILLALOE BOYS NATIONAL SCHOOL",
+      "numPupils": 111,
+      "distance": {
+        "value": 7.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.804280",
+        "lon": "-8.444730"
+      }
+    },
+    {
+      "schoolName": "CONVENT PRIMARY SCHOOL",
+      "numPupils": 90,
+      "distance": {
+        "value": 7.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.806103",
+        "lon": "-8.441133"
+      }
+    },
+    {
+      "schoolName": "BALLINA PRIMARY SCHOOL",
+      "numPupils": 413,
+      "distance": {
+        "value": 7.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.811020",
+        "lon": "-8.437082"
+      }
+    },
+    {
+      "schoolName": "CLONLARA NATIONAL SCHOOL",
+      "numPupils": 276,
+      "distance": {
+        "value": 8.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.723930",
+        "lon": "-8.554258"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "NEWPORT COLLEGE",
+      "numPupils": 364,
+      "distance": {
+        "value": 3.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.714870",
+        "lon": "-8.406546"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S SECONDARY SCHOOL",
+      "numPupils": 725,
+      "distance": {
+        "value": 3.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.709633",
+        "lon": "-8.411606"
+      }
+    },
+    {
+      "schoolName": "ST ANNE'S COMMUNITY COLLEGE",
+      "numPupils": 719,
+      "distance": {
+        "value": 6.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.802560",
+        "lon": "-8.440782"
+      }
+    },
+    {
+      "schoolName": "GLENSTAL ABBEY SCHOOL",
+      "numPupils": 202,
+      "distance": {
+        "value": 9.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661720",
+        "lon": "-8.387130"
+      }
+    },
+    {
+      "schoolName": "CASTLETROY COLLEGE",
+      "numPupils": 1329,
+      "distance": {
+        "value": 11.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663136",
+        "lon": "-8.540899"
+      }
+    },
+    {
+      "schoolName": "ST MUNCHIN'S COLLEGE",
+      "numPupils": 662,
+      "distance": {
+        "value": 13.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.681995",
+        "lon": "-8.614303"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 574,
+      "distance": {
+        "value": 14.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670030",
+        "lon": "-8.614521"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE LUIMNIGH",
+      "numPupils": 616,
+      "distance": {
+        "value": 14.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666676",
+        "lon": "-8.619911"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NANO NAGLE",
+      "numPupils": 356,
+      "distance": {
+        "value": 15.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.660180",
+        "lon": "-8.622252"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHICHIL",
+      "numPupils": 346,
+      "distance": {
+        "value": 15.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659195",
+        "lon": "-8.621262"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Thornhill",
+      "route": "323",
+      "destination": "Nenagh",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.749264",
+        "lon": "-8.453156"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Birdhill",
+      "route": "323",
+      "destination": "Nenagh",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.7659",
+        "lon": "-8.44003"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Birdhill",
+      "route": "72",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.7659",
+        "lon": "-8.44003"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Birdhill",
+      "route": "323X",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.766",
+        "lon": "-8.43981"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Birdhill",
+      "route": "rail",
+      "destination": "Ballybrophy",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 2.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.766173",
+        "lon": "-8.441806"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Shower",
+      "route": "332",
+      "destination": "Cashel",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.709211",
+        "lon": "-8.427391"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Newport",
+      "route": "332",
+      "destination": "Cashel",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.7113843931605",
+        "lon": "-8.40737439376614"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Newport",
+      "route": "391",
+      "destination": "Limerick Arthur's Quay",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 3.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.7113843931605",
+        "lon": "-8.40737439376614"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Montpelier",
+      "route": "345",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.7502408840308",
+        "lon": "-8.49656631346942"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glencree",
+      "route": "391",
+      "destination": "Limerick Arthur's Quay",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 4.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.7098687417038",
+        "lon": "-8.40113005152787"
+      }
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SCREEN NATIONAL SCHOOL",
+      "numPupils": 123,
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.411522",
+        "lon": "-6.408344"
+      }
+    },
+    {
+      "schoolName": "CURRACLOE NATIONAL SCHOOL",
+      "numPupils": 87,
+      "distance": {
+        "value": 3.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.392662",
+        "lon": "-6.391872"
+      }
+    },
+    {
+      "schoolName": "BLACKWATER NATIONAL SCHOOL",
+      "numPupils": 232,
+      "distance": {
+        "value": 4.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.445663",
+        "lon": "-6.347638"
+      }
+    },
+    {
+      "schoolName": "BALLYMURN NATIONAL SCHOOL",
+      "numPupils": 116,
+      "distance": {
+        "value": 5.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.441086",
+        "lon": "-6.474653"
+      }
+    },
+    {
+      "schoolName": "CASTLEBRIDGE NATIONAL SCHOOL",
+      "numPupils": 219,
+      "distance": {
+        "value": 5.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.387012",
+        "lon": "-6.450351"
+      }
+    },
+    {
+      "schoolName": "BALLAGHKEENE NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 6.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.481407",
+        "lon": "-6.428665"
+      }
+    },
+    {
+      "schoolName": "GLENBRIEN NATIONAL SCHOOL",
+      "numPupils": 96,
+      "distance": {
+        "value": 8.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.464714",
+        "lon": "-6.500392"
+      }
+    },
+    {
+      "schoolName": "GOREY HILL SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 8.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.359875",
+        "lon": "-6.451888"
+      }
+    },
+    {
+      "schoolName": "CROSSABEG NATIONAL SCHOOL",
+      "numPupils": 214,
+      "distance": {
+        "value": 8.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.388626",
+        "lon": "-6.507845"
+      }
+    },
+    {
+      "schoolName": "OYLEGATE NATIONAL SCHOOL",
+      "numPupils": 145,
+      "distance": {
+        "value": 8.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.424618",
+        "lon": "-6.524560"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 930,
+      "distance": {
+        "value": 10.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.343796",
+        "lon": "-6.473906"
+      }
+    },
+    {
+      "schoolName": "SELSKAR COLLEGE (COLÁISTE SHEILSCIRE)",
+      "numPupils": 390,
+      "distance": {
+        "value": 10.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.341330",
+        "lon": "-6.467307"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 981,
+      "distance": {
+        "value": 10.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.336018",
+        "lon": "-6.464567"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS SECONDARY SCHOOL",
+      "numPupils": 721,
+      "distance": {
+        "value": 11.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.333530",
+        "lon": "-6.463419"
+      }
+    },
+    {
+      "schoolName": "ST. PETER'S COLLEGE",
+      "numPupils": 784,
+      "distance": {
+        "value": 11.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.335050",
+        "lon": "-6.472298"
+      }
+    },
+    {
+      "schoolName": "MEANSCOIL GHARMAN",
+      "numPupils": 228,
+      "distance": {
+        "value": 11.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.465145",
+        "lon": "-6.555841"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN ÁTHA",
+      "numPupils": 366,
+      "distance": {
+        "value": 12.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.511658",
+        "lon": "-6.285835"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BRÍDE",
+      "numPupils": 753,
+      "distance": {
+        "value": 13.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502815",
+        "lon": "-6.559186"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S C.B.S.",
+      "numPupils": 772,
+      "distance": {
+        "value": 13.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.497444",
+        "lon": "-6.569224"
+      }
+    },
+    {
+      "schoolName": "ENNISCORTHY COMMUNITY COLLEGE",
+      "numPupils": 472,
+      "distance": {
+        "value": 15.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.509655",
+        "lon": "-6.585215"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Screen",
+      "route": "WX91",
+      "destination": "Enniscorthy",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 1.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.41164",
+        "lon": "-6.40876"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Lwr",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.421311",
+        "lon": "-6.357112"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmacoe",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.398998",
+        "lon": "-6.369811"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "WX91",
+      "destination": "Curracloe Beach",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393108",
+        "lon": "-6.391278"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393108",
+        "lon": "-6.391278"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "WX90",
+      "destination": "Curracloe Beach",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 3.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393108",
+        "lon": "-6.391278"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmacoe",
+      "route": "872",
+      "destination": "Blackwater",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 3.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.39721",
+        "lon": "-6.37232"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmacoe",
+      "route": "875",
+      "destination": "Clonard Village",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 3.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.397029",
+        "lon": "-6.372284"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "872",
+      "destination": "Blackwater",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 3.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393016",
+        "lon": "-6.387976"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Curracloe",
+      "route": "875",
+      "destination": "Clonard Village",
+      "provider": "Michael Gray Coach Hire",
+      "distance": {
+        "value": 3.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.39295",
+        "lon": "-6.38824"
+      }
+    }
+  ]
+}

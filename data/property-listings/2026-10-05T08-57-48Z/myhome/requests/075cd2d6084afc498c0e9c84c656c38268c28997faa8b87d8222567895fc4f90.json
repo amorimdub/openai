@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=323",
+  "fetchedAt": "2026-10-05T13:01:17.857Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=323",
+  "kind": "search",
+  "responseSha256": "96064a8997e7fd4a953d30fb8d9727f9f6d12319142cb0e595fba43fa6b53b9c",
+  "files": [
+    {
+      "path": "myhome/07185-075cd2d6084afc49-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=323\"].SearchResults",
+      "sha256": "339d7da45028a2e76426381fbd6381b5fc583482b486c43a40799a4e55e74918",
+      "bytes": 107422
+    },
+    {
+      "path": "myhome/07185-075cd2d6084afc49-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=323\"] (paging fields)",
+      "sha256": "8d0c605e930ded5889c2251097673564fb171d80d2720f69e6fbc7a7068309b0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/derelict-georgian-dwelling-clontibret-monaghan/5022629",
+    "https://www.myhome.ie/residential/brochure/test-old-p-o-corravilla-bailieborough-co-cavan/5022622",
+    "https://www.myhome.ie/residential/brochure/6-station-house-new-quarter-macdonagh-junction-kilkenny/5022618",
+    "https://www.myhome.ie/residential/brochure/clonco-woodford-loughrea-co-galway/5022616",
+    "https://www.myhome.ie/residential/brochure/211-clonliffe-road-drumcondra-dublin-9/5022614",
+    "https://www.myhome.ie/residential/brochure/30-roebuck-castle-clonskeagh-dublin-14/5022611",
+    "https://www.myhome.ie/residential/brochure/2-moylebrook-lisronagh-clonmel-tipperary/5022610",
+    "https://www.myhome.ie/residential/brochure/119-moneymore-drogheda-louth/5022605",
+    "https://www.myhome.ie/residential/brochure/9-oriel-heights-collon-louth/5022601",
+    "https://www.myhome.ie/residential/brochure/25-hazel-court-convent-road-ballinrobe-county-mayo/5022603",
+    "https://www.myhome.ie/residential/brochure/kilclooney-205-kimmage-road-lower-kimmage-dublin-6w/4986382",
+    "https://www.myhome.ie/residential/brochure/apartment-24-block-c-the-bridge-dublin-road-shankill-dublin-18/5022590",
+    "https://www.myhome.ie/residential/brochure/cedarmount-mount-anville-road-dublin-14/5015770",
+    "https://www.myhome.ie/residential/brochure/81-cook-street-south-city-centre-dublin-8/5011894",
+    "https://www.myhome.ie/residential/brochure/6-quarry-road-cabra-dublin-7/5022585",
+    "https://www.myhome.ie/residential/brochure/cloonahaha-gort-county-galway/5022584",
+    "https://www.myhome.ie/residential/brochure/38-griffith-hall-glandore-road-drumcondra-dublin-9/4961512",
+    "https://www.myhome.ie/residential/brochure/hawthorn-house-rathconnell-wood-nurney-co-kildare/5022583",
+    "https://www.myhome.ie/residential/brochure/house-c6-acres-of-land-at-cribbons-lane-kildare-rathangan-co-kildare/5022582",
+    "https://www.myhome.ie/residential/brochure/woodside-killanne-enniscorthy-wexford/5022578"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=324",
+  "paginationLimited": false
+}

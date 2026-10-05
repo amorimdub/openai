@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-3-13-kenilworth-road-dublin-6-dublin-6/6684679",
+  "fetchedAt": "2026-10-05T09:41:30.927Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-3-13-kenilworth-road-dublin-6-dublin-6/6684679",
+  "kind": "listing",
+  "responseSha256": "99a0beeb8505fb50e2a7e1fc67dfc0e3c5b090cb42664f4595e6c46108249774",
+  "files": [
+    {
+      "path": "daft/01747-e567f18e08ba555c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "08cb7afa2ce5fe5d7c28fb4aacb65c75948da78fcf6d146489c226fd2c672de0",
+      "bytes": 27979
+    },
+    {
+      "path": "daft/01747-e567f18e08ba555c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8b0cbf37a524c9e26147f6b9d10fe2716fa4b03874e1866ae88009b4e4e704b8",
+      "bytes": 8097
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

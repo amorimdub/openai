@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-penthouse-apartment-cheevers-court-haliday-house-cualanor-crescent-dun-laoghaire-co-dublin/6530916",
+  "fetchedAt": "2026-10-05T09:23:03.957Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cheevers-court-haliday-house-cualanor-crescent-dun-laoghaire-co-dublin/4651239",
+  "kind": "listing",
+  "responseSha256": "5948e3f1d81620cca87f894badcd7de96f488278a75d048f1880f0261a1068b4",
+  "files": [
+    {
+      "path": "daft/01010-c70e66167071d487-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3b3c759dca2dca968b0def0286c3fdcd291619a8fe6b8c8af2b4c20248bf566a",
+      "bytes": 222375
+    },
+    {
+      "path": "daft/01010-c70e66167071d487-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b22e0445ab75db9f179319621f0c594d718ed1641d59f79082908ed1e7b69eeb",
+      "bytes": 8234
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=223",
+  "fetchedAt": "2026-10-05T12:09:25.063Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=223",
+  "kind": "search",
+  "responseSha256": "d0be2fe6420fd576d7e9474a1e14d90187616145b9e969f8840a3b764132a0ba",
+  "files": [
+    {
+      "path": "myhome/05119-4a1f72fbcff2fd4b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=223\"].SearchResults",
+      "sha256": "2bc45e1a20322ee5874214cacd4236e51809f582a70422f20421e7d9e3661270",
+      "bytes": 116652
+    },
+    {
+      "path": "myhome/05119-4a1f72fbcff2fd4b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=223\"] (paging fields)",
+      "sha256": "eeb7f8c0e22991abd678ae2c38951e09683a0eb98b993690ad65424212f87b9c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/64-glasnevin-avenue-glasnevin-dublin-11/5022101",
+    "https://www.myhome.ie/residential/brochure/cloncowley-drumlish-longford/5026967",
+    "https://www.myhome.ie/residential/brochure/11-rivercourt-inchicore-dublin-8/5026971",
+    "https://www.myhome.ie/residential/brochure/19-ardmore-close-mullingar-co-westmeath/5026972",
+    "https://www.myhome.ie/residential/brochure/9-fairfield-new-road-greystones-co-wicklow/5026969",
+    "https://www.myhome.ie/residential/brochure/flower-hill-ballyduff-upper-ballyduff-waterford/4940479",
+    "https://www.myhome.ie/residential/brochure/clogher-banogue-gorey-co-wexford/5026968",
+    "https://www.myhome.ie/residential/brochure/16-kilakee-close-walkinstown-dublin-12/5026965",
+    "https://www.myhome.ie/residential/brochure/cloncowley-drumlish-longford/5026960",
+    "https://www.myhome.ie/residential/brochure/annalore-15-new-westfields-north-circular-road-limerick/5026962",
+    "https://www.myhome.ie/residential/brochure/17-murphy-s-terrace-millstreet-cork/5017763",
+    "https://www.myhome.ie/residential/brochure/103-109-parnell-street-north-city-centre-dublin-1/5019530",
+    "https://www.myhome.ie/residential/brochure/6-maglin-green-ballincollig-cork/5026958",
+    "https://www.myhome.ie/residential/brochure/25-the-olde-dock-ship-street-dublin-8/5026955",
+    "https://www.myhome.ie/residential/brochure/crott-moyne-longford/5026951",
+    "https://www.myhome.ie/residential/brochure/3-iona-crescent-glasnevin-dublin-9/5026952",
+    "https://www.myhome.ie/residential/brochure/cattan-mohill-leitrim/5026948",
+    "https://www.myhome.ie/residential/brochure/76-cois-rioga-caherconlish-limerick/5026943",
+    "https://www.myhome.ie/residential/brochure/447-milltown-convoy-co-donegal/5026950",
+    "https://www.myhome.ie/residential/brochure/13-mount-pleasant-avenue-upper-ranelagh-dublin-6/5007748"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=224",
+  "paginationLimited": false
+}

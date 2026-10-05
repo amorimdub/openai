@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-20-the-ash-carysfort-hall-blackrock-co-dublin/6682933",
+  "fetchedAt": "2026-10-05T09:17:38.070Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-20-the-ash-carysfort-hall-blackrock-co-dublin/6682933",
+  "kind": "listing",
+  "responseSha256": "049c6eada029f04399dfd788a6fba76e17ba8b377c2c2ddaf1dd7e793381b0c0",
+  "files": [
+    {
+      "path": "daft/00793-2a59eb3d60ac3ca2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5144390cb67822fab6a5737e255e36e1ff2e89acda132f68adfaa7634f55875e",
+      "bytes": 38638
+    },
+    {
+      "path": "daft/00793-2a59eb3d60ac3ca2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c682cf525bf1d2c4d5301706ae24f8068a75202bd27cf4bcba4d91768b631912",
+      "bytes": 8030
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

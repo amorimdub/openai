@@ -1,0 +1,401 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "11 hanover quarter grand canal dk dublin 2",
+    "GroupId": 9680,
+    "Address": "11 Hanover Quarter",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/5ae07b0d-6285-48e4-b597-c97a5bdb4e04_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/5ae07b0d-6285-48e4-b597-c97a5bdb4e04_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/5ae07b0d-6285-48e4-b597-c97a5bdb4e04_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/08015db3-98da-4aec-96b0-c8076f737758_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d052f279-ed15-410b-886d-8e57660a2484_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/7998963e-5c32-4e9f-bec3-a3e50e5c394f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/c52dacbb-5cdc-40bc-936d-21578fe23fa4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/ed9c9fb7-07a4-4cb8-9a5f-3953bea975f4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a3315c8c-d475-4b08-abae-c4d6abe5e5f0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d9e42cda-864c-4b91-adf9-11e109adc771_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/2d8d11af-53ac-440d-be24-d23881ee576c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a66c277b-d700-46e8-bcf0-e884561b3a07_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/3ebd755e-327d-400e-960d-e19f7249b3e0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/6557a6b5-f327-4b33-98ea-15f7980c65cf_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/b062311c-db90-4e23-8ae1-3338e6fda6a8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/0ee12e8a-7aac-4cec-88fb-a48dfde264e6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/f943689e-57e4-4a52-846b-ce24f03b1d88_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/825457d7-089b-4f6b-a01e-7bfa1ad1b970_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/e2a37375-b541-4bc1-978a-3216ecd21129_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/be172b59-2a01-4b8c-9e0f-a3a5596a8225_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/8/4/5023486/45bf6a1b-3c91-4c7c-92a8-54e2dc1801f0_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 140,
+    "MaxSize": 140,
+    "BerRating": "B1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 5,
+        "Name": "Heated Flooring",
+        "CreatedOn": "2018-03-20T10:19:34.0170000+00:00",
+        "IconName": "myh-icon-heated-flooring",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Owen Reilly presents this exceptionally large three-bedroom duplex apartment, extending to c. 140 Sq. m. with a designated underground parking space and a B1 BER rating. This light-filled, south-facing home is ideally positioned on the first and second floors of the prestigious Hanover Quay development in the heart of Grand Canal Dock, enjoying a well-proportioned dual-aspect layout and superb natural light that floods the home throughout the day.\r\n\r\nNo. 11 Hanover Quarter offers bright, contemporary accommodation comprising a spacious living area with a south-facing balcony off the living room, a separate fully fitted kitchen, and three generous double bedrooms, with the main bedroom benefiting from an en-suite bathroom. There is also a separate family bathroom, while a dedicated laundry room and additional storage closet complete the accommodation.\r\n\r\nResidents of Hanover Quarter also benefit from access to a beautifully maintained communal courtyard designed by award-winning landscape gardener Diarmuid Gavin.\r\n\r\nMust be viewed to be appreciated!\r\n\r\nA little more about the location...\r\n\r\nGrand Canal Dock is a vibrant urban quarter with a variety of neighbourhood bistros, cafes and restaurants clustered around the historic city dock. The iconic Bord Gáis Theatre and the Marker Hotel face onto the scenic, Martha Schwartz designed waterfront plaza. St Stephens Green, Ballsbridge, the IFSC and Sandymount are all within 20 minutes walking distance, while the DART at Grand Canal Dock provides easy access to the City Centre and beyond. the neighbourhood is home to a multitude of large multi-national employers such as Google, State Street, JP Morgan and PwC."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance hall (8.43m X 3.66m)\r\nAn inviting entrance hallway provides access to all three bedrooms, the family bathroom, hot press and a useful storage closet.\r\n\r\nStorage (1.58m X 0.88m)\r\nConvenient storage closet.\r\n\r\nBedroom 1 (4.33m X 3.71m)\r\nLarge double bedroom with fitted wardrobes, timber flooring and view over internal courtyard.\r\n\r\nBedroom 2 (3.95m X 2.50m)\r\nLarge double bedroom with fitted wardrobes, timber flooring and view over internal courtyard.\r\n\r\nBathroom (2.29m X 1.70m)\r\nMain bathroom with WC, wash hand basin, and bath with overhead shower. Tiled floor and partially tiled walls.\r\n\r\nBedroom 3 (5.52m X 3.74m)\r\nLarge double bedroom with fitted wardrobes, timber flooring and view over internal courtyard.\r\n\r\nEn suite (2.19m X 1.46m) \r\nFully tiled en-suite complete with a wash-hand basin seated on a marble plinth, WC and shower cubicle with rainwater head.\r\n\r\nHot press (1.36m X 0.78m)\r\nShelved hot press.\r\n\r\nUtility (2.30m X 1.47m)\r\nConvenient utility room which provides ample storage and is fitted with a Bosch washing machine and Beko tumble dryer.\r\n\r\nSECOND FLOOR\r\n\r\n\r\nLanding (5.34m X 1.00m)\r\nExpansive landing area with picture window, carpet and laminate flooring.\r\n\r\nKitchen (5.87m X 3.71m) \r\nFully equipped kitchen completed with granite countertops and appliances to include four ring hob, oven, dishwasher, extractor fan and fridge freezer and dining area.\r\n\r\nLiving/Dining room (7.90m X 3.72m)\r\nBright living/dining area with timber flooring, floor to ceiling glazing and access to south facing balcony.\r\n\r\nTerrace (4.04m X 1.44m)\r\nPrivate south facing terrace."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Large three bedroom duplex apartment, c. 140 Sq. m.\r\nDesignated underground parking space.\r\nBER B1.\r\nDual aspect orientation with south-facing living space.\r\nGas fired underfloor heating.\r\nBedrooms overlooking a quiet internal courtyard.\r\nHardwood double glazed windows.\r\nAmple storage throughout.\r\nPresented in excellent decorative condition.\r\nUpmarket development with on-site caretaker.\r\nWell-managed common areas.\r\nPrime location in the heart of Grand Canal Dock.\r\nManagement charge c. €3,992 per annum."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B1"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 265138,
+    "MinEnergyRating": 120,
+    "MaxEnergyRating": 120,
+    "BERGrade": "B",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-08-24T11:18:43.1500000+01:00",
+    "ModifiedOnDate": "2026-08-24T11:45:27.5230000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-24T11:45:33.3270000+01:00",
+    "RefreshedOn": "2026-08-24T11:45:33.3270000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B1.png",
+    "IsTransact": false,
+    "PriceAsString": "€750,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5023486,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 140,
+    "DisplayAddress": "11 Hanover Quarter, Grand Canal Dk, Dublin 2",
+    "Eircode": "D02 DT92",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1442,
+    "RegionName": "Dublin 2",
+    "LocalityId": 1401,
+    "LocalityName": "Grand Canal Dk",
+    "Price": {
+      "MinPrice": 750000,
+      "MaxPrice": 750000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/5ae07b0d-6285-48e4-b597-c97a5bdb4e04_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/5ae07b0d-6285-48e4-b597-c97a5bdb4e04_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/5ae07b0d-6285-48e4-b597-c97a5bdb4e04_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/08015db3-98da-4aec-96b0-c8076f737758_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/08015db3-98da-4aec-96b0-c8076f737758_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/08015db3-98da-4aec-96b0-c8076f737758_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d052f279-ed15-410b-886d-8e57660a2484_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d052f279-ed15-410b-886d-8e57660a2484_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d052f279-ed15-410b-886d-8e57660a2484_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/7998963e-5c32-4e9f-bec3-a3e50e5c394f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/7998963e-5c32-4e9f-bec3-a3e50e5c394f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/7998963e-5c32-4e9f-bec3-a3e50e5c394f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/c52dacbb-5cdc-40bc-936d-21578fe23fa4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/c52dacbb-5cdc-40bc-936d-21578fe23fa4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/c52dacbb-5cdc-40bc-936d-21578fe23fa4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/ed9c9fb7-07a4-4cb8-9a5f-3953bea975f4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/ed9c9fb7-07a4-4cb8-9a5f-3953bea975f4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/ed9c9fb7-07a4-4cb8-9a5f-3953bea975f4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a3315c8c-d475-4b08-abae-c4d6abe5e5f0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a3315c8c-d475-4b08-abae-c4d6abe5e5f0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a3315c8c-d475-4b08-abae-c4d6abe5e5f0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d9e42cda-864c-4b91-adf9-11e109adc771_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d9e42cda-864c-4b91-adf9-11e109adc771_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/d9e42cda-864c-4b91-adf9-11e109adc771_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/2d8d11af-53ac-440d-be24-d23881ee576c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/2d8d11af-53ac-440d-be24-d23881ee576c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/2d8d11af-53ac-440d-be24-d23881ee576c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a66c277b-d700-46e8-bcf0-e884561b3a07_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a66c277b-d700-46e8-bcf0-e884561b3a07_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/a66c277b-d700-46e8-bcf0-e884561b3a07_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/3ebd755e-327d-400e-960d-e19f7249b3e0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/3ebd755e-327d-400e-960d-e19f7249b3e0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/3ebd755e-327d-400e-960d-e19f7249b3e0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/6557a6b5-f327-4b33-98ea-15f7980c65cf_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/6557a6b5-f327-4b33-98ea-15f7980c65cf_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/6557a6b5-f327-4b33-98ea-15f7980c65cf_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/b062311c-db90-4e23-8ae1-3338e6fda6a8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/b062311c-db90-4e23-8ae1-3338e6fda6a8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/b062311c-db90-4e23-8ae1-3338e6fda6a8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/0ee12e8a-7aac-4cec-88fb-a48dfde264e6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/0ee12e8a-7aac-4cec-88fb-a48dfde264e6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/0ee12e8a-7aac-4cec-88fb-a48dfde264e6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/f943689e-57e4-4a52-846b-ce24f03b1d88_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/f943689e-57e4-4a52-846b-ce24f03b1d88_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/f943689e-57e4-4a52-846b-ce24f03b1d88_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/825457d7-089b-4f6b-a01e-7bfa1ad1b970_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/825457d7-089b-4f6b-a01e-7bfa1ad1b970_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/825457d7-089b-4f6b-a01e-7bfa1ad1b970_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/e2a37375-b541-4bc1-978a-3216ecd21129_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/e2a37375-b541-4bc1-978a-3216ecd21129_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/e2a37375-b541-4bc1-978a-3216ecd21129_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/be172b59-2a01-4b8c-9e0f-a3a5596a8225_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/be172b59-2a01-4b8c-9e0f-a3a5596a8225_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/be172b59-2a01-4b8c-9e0f-a3a5596a8225_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/45bf6a1b-3c91-4c7c-92a8-54e2dc1801f0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/45bf6a1b-3c91-4c7c-92a8-54e2dc1801f0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/8/4/5023486/45bf6a1b-3c91-4c7c-92a8-54e2dc1801f0_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2542734,
+      "latitude": 53.3398938
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 19,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "7e1887e4-3aab-4068-b428-8360949a72ad",
+        "Filename": "https://youtube.com/embed/fTjuPJ9_nu0?si=qfcgtMur-stXpnTB",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "e2d71b58-f764-4361-99a5-0437abd016a6",
+        "Filename": "https://my.matterport.com/show/?m=MjXxtqxZFRn",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9680,
+    "Name": "Owen Reilly ",
+    "DisplayPhone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "owen-reilly-property-consultants",
+    "SeoName": "owen-reilly-property-consultants",
+    "Address": "3 Forbes Street, Grand Canal Dock, Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/8/6/9680/logo.jpg",
+    "SalesLicense": "002370",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "grand-canal-dk/1401",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/11-hanover-quarter-grand-canal-dk-dublin-2/5023486",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 265138,
+    "Name": "Owen Reilly  Sales ",
+    "Phone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/8/3/1/265138/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9680,
+    "MYH_LocalityID": 1401,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1442,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Heated Flooring",
+      "Microwave",
+      "Balcony",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Heated Flooring,Microwave,Balcony,Dishwasher",
+    "MYH_MaxPrice": 750000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 120,
+    "MYH_MinPrice": 750000,
+    "MYH_MinSize": 140,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5023486,
+    "MYH_PropertyTypeID": 36
+  }
+}

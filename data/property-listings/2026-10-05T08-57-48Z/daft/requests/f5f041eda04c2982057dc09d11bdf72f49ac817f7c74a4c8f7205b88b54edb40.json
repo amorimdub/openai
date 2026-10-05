@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-1-46-south-circular-road-portobello-dublin-8/6686129",
+  "fetchedAt": "2026-10-05T09:31:18.231Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-1-46-south-circular-road-portobello-dublin-8/6686129",
+  "kind": "listing",
+  "responseSha256": "9c79a7a278f116c8969fe6418ebbe037a846de1fbd18839adf390d8170d63b63",
+  "files": [
+    {
+      "path": "daft/01339-f5f041eda04c2982-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "72ec6a97153edb8562dceedcf262d61c95428b79c7c5ea6e9266bd54dacdb988",
+      "bytes": 21951
+    },
+    {
+      "path": "daft/01339-f5f041eda04c2982-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "eed0114e960b9fd3a10cd9ebb3e64469616ec66bf05daebf96ba4cd8959e067a",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

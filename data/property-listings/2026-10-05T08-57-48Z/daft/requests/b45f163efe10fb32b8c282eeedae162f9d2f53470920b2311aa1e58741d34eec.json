@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/two-bedroom-one-lime-street-docklands-dublin-2/4636153",
+  "fetchedAt": "2026-10-05T09:03:06.974Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/two-bedroom-one-lime-street-docklands-dublin-2/4636153",
+  "kind": "listing",
+  "responseSha256": "0319406eb89e4d7bbcaf40574d29b95cf7c9d3d552415dfc182162faf9106929",
+  "files": [
+    {
+      "path": "daft/00213-b45f163efe10fb32-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a3d9d63f07c4aeaeb8016daec342486770c7ea4d6275dee648e7dadb4d7d39c0",
+      "bytes": 37401
+    },
+    {
+      "path": "daft/00213-b45f163efe10fb32-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "13ec4047271efa6e261a460fb6d57b7e990cb46c73bea14ba83e9a55dcbb7047",
+      "bytes": 8154
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=373",
+  "fetchedAt": "2026-10-05T13:26:43.553Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=373",
+  "kind": "search",
+  "responseSha256": "51268fbe69e834d3a52e213c882bfcab203ff3b4c9489dcab6ca9b9b99200780",
+  "files": [
+    {
+      "path": "myhome/08200-0375a9704566ebc7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=373\"].SearchResults",
+      "sha256": "d68bb51ad10966c0779062e2771687e80c5f8a8329e580db6b863b2844f0b47f",
+      "bytes": 114929
+    },
+    {
+      "path": "myhome/08200-0375a9704566ebc7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=373\"] (paging fields)",
+      "sha256": "763c05dbd35bf697f0fbb14c89d700ae9531ee6ba3c0c4384c2a45fa8577c77a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/8-woodstown-hill-woodstown-village-knocklyon-dublin/5016965",
+    "https://www.myhome.ie/residential/brochure/20-sliabh-amharc-enniscorthy-co-wexford/5018390",
+    "https://www.myhome.ie/residential/brochure/piercetown-dunboyne-meath/5018389",
+    "https://www.myhome.ie/residential/brochure/whispering-pines-reenacappul-ahakista-durrus-co-cork/5018383",
+    "https://www.myhome.ie/residential/brochure/13-rosevale-drogheda-louth/5018375",
+    "https://www.myhome.ie/residential/brochure/woodside-rathbarry-castlefreke-clonakilty-west-cork/5015861",
+    "https://www.myhome.ie/residential/brochure/whispering-pines-reenacappul-ahakista-durrus-county-cork/5018379",
+    "https://www.myhome.ie/residential/brochure/cornerstown-cottage-coalspit-mayglass-wexford/5018371",
+    "https://www.myhome.ie/residential/brochure/8-oysterhaven-holiday-cottages-oysterhaven-kinsale-cork/5018290",
+    "https://www.myhome.ie/residential/brochure/9-annville-place-new-street-longford/5018365",
+    "https://www.myhome.ie/residential/brochure/26-avalon-arklow-wicklow/5018355",
+    "https://www.myhome.ie/residential/brochure/former-parochial-house-cork-street-passage-west-cork/5018363",
+    "https://www.myhome.ie/residential/brochure/8-the-orchards-glasheen-road-glasheen-cork/5018358",
+    "https://www.myhome.ie/residential/brochure/an-clarach-killyclug-letterkenny-co-donegal/5018357",
+    "https://www.myhome.ie/residential/brochure/9-derravaragh-mews-castlepollard-co-westmeath-mullingar/5018353",
+    "https://www.myhome.ie/residential/brochure/24-kilcross-court-sandyford-dublin-18/5018339",
+    "https://www.myhome.ie/residential/brochure/11-kilakee-drive-walkinstown-dublin-12-d12-x7ny/5018347",
+    "https://www.myhome.ie/residential/brochure/site-c-0-15-hectare-c-0-37-acre-at-rathbeale-road-swords-county-dublin/5018343",
+    "https://www.myhome.ie/residential/brochure/leitrim-lodge-bachelor-s-walk-wicklow-town-co-wicklow/5018344",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5018341"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=374",
+  "paginationLimited": false
+}

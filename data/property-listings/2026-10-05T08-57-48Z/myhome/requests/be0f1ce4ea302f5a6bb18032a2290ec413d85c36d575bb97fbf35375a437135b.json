@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=138",
+  "fetchedAt": "2026-10-05T11:25:25.072Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=138",
+  "kind": "search",
+  "responseSha256": "b0431e4f50119c6eb5c5573c76ac0bbba92a64d9a292b4faf7a864eab730cd75",
+  "files": [
+    {
+      "path": "myhome/03363-be0f1ce4ea302f5a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=138\"].SearchResults",
+      "sha256": "9dd4a206aa20c0e758bb0e96a7c639f90f8a457a75997e707abbc600cc4fabc5",
+      "bytes": 127308
+    },
+    {
+      "path": "myhome/03363-be0f1ce4ea302f5a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=138\"] (paging fields)",
+      "sha256": "97cf838108550b4060acf9b20b4d5851cebdd65b4f38fcf22d8793eff8e6e15a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/29-marian-crescent-rathfarnham-dublin-14-dublin/5029182",
+    "https://www.myhome.ie/residential/brochure/dunard-on-c-0-76-acre-crosschapel-blessington-wicklow/5029184",
+    "https://www.myhome.ie/residential/brochure/28-belmayne-avenue-belmayne-dublin-13-co-dublin/5029260",
+    "https://www.myhome.ie/residential/brochure/c-1-82-acre-development-site-claremorris-mayo/5025749",
+    "https://www.myhome.ie/residential/brochure/21-st-laurence-glen-chapelizod-chapelizod-dublin-20/5029251",
+    "https://www.myhome.ie/residential/brochure/84a-sunday-s-well-road-shanakiel-cork/5029253",
+    "https://www.myhome.ie/residential/brochure/17-pakenham-house-spencer-dock-dublin-1/5029256",
+    "https://www.myhome.ie/residential/brochure/7-roseneath-villas-military-road-st-lukes-cork/5028935",
+    "https://www.myhome.ie/residential/brochure/48-morehampton-road-donnybrook-dublin-4/4993180",
+    "https://www.myhome.ie/residential/brochure/80-waterloo-road-ballsbridge-dublin-4/4989216",
+    "https://www.myhome.ie/residential/brochure/61-nutley-avenue-donnybrook-dublin-4/4999621",
+    "https://www.myhome.ie/residential/brochure/78-lourdes-road-maryland-dublin-8/5029248",
+    "https://www.myhome.ie/residential/brochure/11-charles-street-west-smithfield-dublin-7/5029247",
+    "https://www.myhome.ie/residential/brochure/67-cruise-park-ave-tyrrelstown-dublin-15/5024656",
+    "https://www.myhome.ie/residential/brochure/1-woodlawn-castlecountess-tralee-kerry/5029241",
+    "https://www.myhome.ie/residential/brochure/4-millbrook-village-milltown-kerry/5029240",
+    "https://www.myhome.ie/residential/brochure/loughmore-wood-at-killeen-castle-dunsany-co-meath-5-bedroom-detached/4904919",
+    "https://www.myhome.ie/residential/brochure/12-rostrevor-terrace-rathgar-dublin-6/5024507",
+    "https://www.myhome.ie/residential/brochure/baronstown-west-milltown-milltown-co-kildare-milltown-kildare/5029233",
+    "https://www.myhome.ie/residential/brochure/parochial-house-eglish-fivealley-co-offaly-kilcormac-offaly/5029231"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=139",
+  "paginationLimited": false
+}

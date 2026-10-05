@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=280",
+  "fetchedAt": "2026-10-05T12:39:15.751Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=280",
+  "kind": "search",
+  "responseSha256": "d782bf8c5f3facf1c1c1b377cb5c66d81f19bdf1b34ad3312719fbe2933ce3ef",
+  "files": [
+    {
+      "path": "myhome/06310-5c31ddc8821dc4bd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=280\"].SearchResults",
+      "sha256": "9208d633c34c20509e090e423ab3622b31b358e9758d358cf7aaca94f5cda85f",
+      "bytes": 107744
+    },
+    {
+      "path": "myhome/06310-5c31ddc8821dc4bd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=280\"] (paging fields)",
+      "sha256": "bcbce7c05a93c9b58f9128600e194e0f304e398704224068f5fc60252f61af0d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/meadow-view-colpe-east-donacarney-meath/5025052",
+    "https://www.myhome.ie/residential/brochure/82-baunoge-loughrea-co-galway/5025054",
+    "https://www.myhome.ie/residential/brochure/23-the-green-baker-hall-navan-meath/5024669",
+    "https://www.myhome.ie/residential/brochure/coddstown-killinick-wexford/5025045",
+    "https://www.myhome.ie/residential/brochure/23-auburn-house-rathmines-dublin-6/4999713",
+    "https://www.myhome.ie/residential/brochure/bel-air-westminster-road-foxrock-dublin-18/4991085",
+    "https://www.myhome.ie/residential/brochure/335-the-oaks-trimbleston-goatstown-dublin-14/5025042",
+    "https://www.myhome.ie/residential/brochure/28-newlyn-vale-rochestown-road-co-cork-rochestown-cork/5024945",
+    "https://www.myhome.ie/residential/brochure/apt-1-devenish-russell-quay-ballyconnell-cavan/5025035",
+    "https://www.myhome.ie/residential/brochure/6-shelton-grove-kimmage-dublin-12/5025032",
+    "https://www.myhome.ie/residential/brochure/109-the-oval-tullyvale-dublin-18/5025031",
+    "https://www.myhome.ie/residential/brochure/penthouse-14-the-anchorage-the-crescent-robswall-malahide-county-dublin/5006739",
+    "https://www.myhome.ie/residential/brochure/154-kilworth-road-drimnagh-dublin-12/5010701",
+    "https://www.myhome.ie/residential/brochure/3-oxfield-road-lissadel-park-carney-sligo/5024794",
+    "https://www.myhome.ie/residential/brochure/652-saint-patrick-s-park-celbridge-co-kildare/5025026",
+    "https://www.myhome.ie/residential/brochure/batterjohn-kiltale-dunsany-county-meath/5025025",
+    "https://www.myhome.ie/residential/brochure/50-shandon-park-phibsborough-dublin-7/5025024",
+    "https://www.myhome.ie/residential/brochure/200-charlesland-wood-greystones-wicklow/5025019",
+    "https://www.myhome.ie/residential/brochure/133-forgelands-old-forge-road-enniscorthy-co-wexford/5025022",
+    "https://www.myhome.ie/residential/brochure/1-oakdale-drive-off-johnstown-road-cabinteely-dublin-18/5024963"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=281",
+  "paginationLimited": false
+}

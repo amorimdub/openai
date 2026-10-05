@@ -1,0 +1,449 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "110 mourne road drimnagh   dublin 12",
+    "GroupId": 5770,
+    "Address": "110 Mourne Road",
+    "SoldPrice": 500000,
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_l.png",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_x.png",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_l.png",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f0f549d6-0fb2-4124-8c0a-d3165c8fa6a2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/71caefb9-1756-4a63-8470-81a25f2a2d19_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/232e083b-ebef-4a0a-a5f7-635f40c5a468_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/e502b0d9-6a18-4cd8-9554-4b82f125f181_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/d4d6e151-8ee5-40c3-9d46-b10ddd532a67_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/c126968d-3a5f-4af5-bcc4-1a9c958c147e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ed282c5e-bf21-48f2-b0f6-2d9b55ce5387_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/fe978e77-dcc6-46c5-9881-13fb712c2359_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/869e5f9c-7fa0-4e1f-9974-c2ae526e1dde_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f2c2da52-965d-42d3-a82f-b98c0e4f2bfa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/33bde89f-20bc-4154-aa71-e4958faa257a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/3f696d54-68c4-4a4c-9a62-b782267ae0ee_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ce08503b-46f5-45cc-9d89-86bbca0e8886_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/43361932-29b4-48af-882b-be5120417642_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/bdc2621e-bf35-46c7-ba43-e7992f2edb32_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/9e9ac245-2414-4f69-bd50-1b8eded70753_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/798a4e06-e1f9-49d5-98ad-f654fc099cac_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/17b65dba-315a-40ad-945d-2643e583be9b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0889103e-0f45-4873-87f1-6bee0d4ebf84_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/cfaba12a-2814-4962-aac4-32676b186ab3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0b4dfb68-41a8-4bf0-9cac-172994489b6e_l.png",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/064d0f51-cdea-4c3c-b204-c265d25110a1_l.png",
+      "https://photos-a.propertyimages.ie/media/4/2/0/5023024/aaf42822-0790-49ed-8320-020e4c575e50_l.png"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 102,
+    "MaxSize": 102,
+    "BerRating": "C",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "BROE auctioneers take great pleasure in presenting 110 to the market. Fantastic extended three bedroom home with the added benefit of being fully wrapped and large rear garden c.(27 m). Mature and peaceful residential area. No 110 represents a great opportunity to purchase a substantial home in excellent condition throughout for both first time buyers and young families. Mourne Road is perfectly situated, with every amenity imaginable located on your doorstep including schools, shopping facilities in the villages of Rialto, Kilmainham, Kimmage and Crumlin which are all within walking distance. Transport links are ideal with the Suir Road LUAS stop within a short stroll as well as a number of bus routes linking to the City Centre and further afield. The location offers quick and easy access to both the city and M50.  A real feature is the private walled rear garden c. (27 m) mainly in lawn. Well maintained by its owners, a generously proportioned living room and dining room, extended kitchen and sunroom makes for comfortable family living. Upstairs three bedrooms and revamped bathroom contribute to making this an ideal family home.\r\n\r\nContact Craig Leap at BROE auctioneers to register your interest."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall\t\t 4.17m x 1.74m\t\tLaminated wood flooring, alarm panel, ample storage.\r\n\r\n\r\nLiving Room\t\t 3.67m x 3.21m\t\tFeature tile open fireplace, T&G wood flooring.\r\n        \r\n\r\nOpen Plan Lounge\t\t 5.51m x 3.98m \t\tFeature cast iron open fireplace, laminated wood flooring, ceiling coving, French doors to \t\t\t\t\t\t\t\tsunroom.\t     \r\n                       \r\nExtended Kitchen\t\t 3.51m x 3.04m\t\tGreat range of floor & eye level units to include appliances. Ceramic tile flooring.\r\n\r\nSunroom\t                         3.63m x 2.70m\t\tLaminated wood flooring, recess lighting, 3 x Velux windows, French doors to rear garden.\r\n\r\nBedroom (1)\t\t\t 3.83m x 3.30m\t\tWith wall to wall built in wardrobes, laminated wood flooring, recess lighting.\r\n                                                  \r\n\r\nBedroom (2)\t\t\t 3.42m x 3.10m\t\tWith wall to wall built in wardrobes, laminated wood flooring\r\n\r\n\r\nBedroom (3)\t\t\t 2.39m x 2.36m\t\tLaminated wood flooring.\r\n\r\n\r\nBathroom\t \t\t 2.27m x 1.71m\t\tTotally revamped, WC, WHB, large corner shower unit with Triton T90xr shower, fully \t\t\t\t\t\ttiled, LED mirror."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "•\tGas fired central heating.\r\n•\tDouble Glazing.\r\n•\tAlarmed.\r\n•\tGreat location.\r\n•\tExtended kitchen and sunroom. \r\n•\tWalking distance to the LUAS and numerous bus routes.\r\n•\tConvenient to the City Centre and M50. \r\n•\tBeside variety of schools and parks. \r\n•\tPrivate walled rear garden c. 27m\r\n•\tCobble lock drive to front."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C - 102692027"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Contact Craig Leap at BROE auctioneers to arrange a viewing today.\r\n\r\nPlease note all appointments are strictly by appointment only.\r\n\r\nContact details, Craig@broe.ie or 01 566 6680 / 01 459 4433"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 1472,
+    "MinEnergyRating": 75,
+    "MaxEnergyRating": 75,
+    "BERGrade": "C",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-08-20T14:23:54.0730000+01:00",
+    "ModifiedOnDate": "2026-09-03T16:16:39.0970000+01:00",
+    "IsPremiumAd": false,
+    "InstructedOn": "2026-08-20T14:25:51.5470000+01:00",
+    "ActivatedOn": "2026-08-21T16:08:31.9070000+01:00",
+    "RefreshedOn": "2026-08-28T16:17:10.2000000+01:00",
+    "EstimatedClosedOn": "2026-11-03T00:00:00.0000000+00:00",
+    "ValuedOn": "2026-08-20T14:24:52.4030000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+    "IsTransact": false,
+    "PriceAsString": "€440,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5023024,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 102,
+    "DisplayAddress": "110 Mourne Road, Drimnagh,   Dublin 12",
+    "Eircode": " D12A3N0",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "End of Terrace House",
+    "PropertyTypeId": 45,
+    "RegionId": 1453,
+    "RegionName": "Dublin 12",
+    "LocalityId": 1293,
+    "LocalityName": "Drimnagh",
+    "Price": {
+      "MinPrice": 440000,
+      "MaxPrice": 440000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f0f549d6-0fb2-4124-8c0a-d3165c8fa6a2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f0f549d6-0fb2-4124-8c0a-d3165c8fa6a2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f0f549d6-0fb2-4124-8c0a-d3165c8fa6a2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/71caefb9-1756-4a63-8470-81a25f2a2d19_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/71caefb9-1756-4a63-8470-81a25f2a2d19_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/71caefb9-1756-4a63-8470-81a25f2a2d19_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/232e083b-ebef-4a0a-a5f7-635f40c5a468_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/232e083b-ebef-4a0a-a5f7-635f40c5a468_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/232e083b-ebef-4a0a-a5f7-635f40c5a468_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/e502b0d9-6a18-4cd8-9554-4b82f125f181_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/e502b0d9-6a18-4cd8-9554-4b82f125f181_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/e502b0d9-6a18-4cd8-9554-4b82f125f181_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/d4d6e151-8ee5-40c3-9d46-b10ddd532a67_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/d4d6e151-8ee5-40c3-9d46-b10ddd532a67_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/d4d6e151-8ee5-40c3-9d46-b10ddd532a67_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/c126968d-3a5f-4af5-bcc4-1a9c958c147e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/c126968d-3a5f-4af5-bcc4-1a9c958c147e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/c126968d-3a5f-4af5-bcc4-1a9c958c147e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ed282c5e-bf21-48f2-b0f6-2d9b55ce5387_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ed282c5e-bf21-48f2-b0f6-2d9b55ce5387_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ed282c5e-bf21-48f2-b0f6-2d9b55ce5387_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/fe978e77-dcc6-46c5-9881-13fb712c2359_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/fe978e77-dcc6-46c5-9881-13fb712c2359_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/fe978e77-dcc6-46c5-9881-13fb712c2359_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/869e5f9c-7fa0-4e1f-9974-c2ae526e1dde_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/869e5f9c-7fa0-4e1f-9974-c2ae526e1dde_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/869e5f9c-7fa0-4e1f-9974-c2ae526e1dde_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f2c2da52-965d-42d3-a82f-b98c0e4f2bfa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f2c2da52-965d-42d3-a82f-b98c0e4f2bfa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/f2c2da52-965d-42d3-a82f-b98c0e4f2bfa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/33bde89f-20bc-4154-aa71-e4958faa257a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/33bde89f-20bc-4154-aa71-e4958faa257a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/33bde89f-20bc-4154-aa71-e4958faa257a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/3f696d54-68c4-4a4c-9a62-b782267ae0ee_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/3f696d54-68c4-4a4c-9a62-b782267ae0ee_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/3f696d54-68c4-4a4c-9a62-b782267ae0ee_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ce08503b-46f5-45cc-9d89-86bbca0e8886_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ce08503b-46f5-45cc-9d89-86bbca0e8886_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/ce08503b-46f5-45cc-9d89-86bbca0e8886_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/43361932-29b4-48af-882b-be5120417642_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/43361932-29b4-48af-882b-be5120417642_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/43361932-29b4-48af-882b-be5120417642_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/bdc2621e-bf35-46c7-ba43-e7992f2edb32_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/bdc2621e-bf35-46c7-ba43-e7992f2edb32_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/bdc2621e-bf35-46c7-ba43-e7992f2edb32_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/9e9ac245-2414-4f69-bd50-1b8eded70753_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/9e9ac245-2414-4f69-bd50-1b8eded70753_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/9e9ac245-2414-4f69-bd50-1b8eded70753_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/798a4e06-e1f9-49d5-98ad-f654fc099cac_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/798a4e06-e1f9-49d5-98ad-f654fc099cac_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/798a4e06-e1f9-49d5-98ad-f654fc099cac_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/17b65dba-315a-40ad-945d-2643e583be9b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/17b65dba-315a-40ad-945d-2643e583be9b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/17b65dba-315a-40ad-945d-2643e583be9b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0889103e-0f45-4873-87f1-6bee0d4ebf84_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0889103e-0f45-4873-87f1-6bee0d4ebf84_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0889103e-0f45-4873-87f1-6bee0d4ebf84_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/cfaba12a-2814-4962-aac4-32676b186ab3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/cfaba12a-2814-4962-aac4-32676b186ab3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/cfaba12a-2814-4962-aac4-32676b186ab3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0b4dfb68-41a8-4bf0-9cac-172994489b6e_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0b4dfb68-41a8-4bf0-9cac-172994489b6e_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/0b4dfb68-41a8-4bf0-9cac-172994489b6e_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/064d0f51-cdea-4c3c-b204-c265d25110a1_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/064d0f51-cdea-4c3c-b204-c265d25110a1_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/064d0f51-cdea-4c3c-b204-c265d25110a1_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/aaf42822-0790-49ed-8320-020e4c575e50_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/aaf42822-0790-49ed-8320-020e4c575e50_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/aaf42822-0790-49ed-8320-020e4c575e50_m.png"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.3256811674743,
+      "latitude": 53.3294607600722
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 24,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5770,
+    "Name": "BROE Auctioneers",
+    "DisplayPhone": "01 459 4433",
+    "Email": "info@broe.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "broe-auctioneers",
+    "SeoName": "broe-auctioneers",
+    "Address": "Unit D Tower Commercial Centre, Monastery Road, Dublin 22",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/7/7/5770/logo.jpg",
+    "SalesLicense": "001123",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "drimnagh/1293",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5024823,
+      "Address": "3 Galtymore Road, Drimnagh, Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/2/8/5024823/8ff5baae-fd9b-4106-bbb3-d2fb8a32728f_t.jpg",
+      "HasWebP": false,
+      "Price": 369950,
+      "PrevPrice": 399950,
+      "PriceChangeDelta": -30000,
+      "PriceChangePercentage": -7.5009,
+      "Created": "22nd Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D.png",
+      "BerRating": "D",
+      "SeoUrl": "/residential/brochure/3-galtymore-road-drimnagh-dublin-12/5024823",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 5026208,
+      "Address": "77 Donard Road, Drimnagh,   Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/0/2/5026208/d622cf0b-3cef-4c52-ba02-8f30bad92b4c_t.jpg",
+      "HasWebP": false,
+      "Price": 374950,
+      "PrevPrice": 349950,
+      "PriceChangeDelta": 25000,
+      "PriceChangePercentage": 7.1439,
+      "Created": "18th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E1.png",
+      "BerRating": "E1",
+      "SeoUrl": "/residential/brochure/77-donard-road-drimnagh-dublin-12/5026208",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4985556,
+      "Address": "472 Mourne Road, Drimnagh, Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/5/4985556/b20f7422-b03d-46fe-82a2-fcdd9dc4dc93_t.jpeg",
+      "HasWebP": false,
+      "Price": 369000,
+      "PrevPrice": 399000,
+      "PriceChangeDelta": -30000,
+      "PriceChangePercentage": -7.5188,
+      "Created": "24th Apr 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "",
+      "SeoUrl": "/residential/brochure/472-mourne-road-drimnagh-dublin-12/4985556",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/110-mourne-road-drimnagh-dublin-12/5023024",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 1472,
+    "Name": "Craig  Leap M.I.P.A.V. /  T.R.V",
+    "Phone": "(01) 459 4433 / 01 479 0503",
+    "Email": "craig@broe.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/2/7/4/1472/profile.jpg",
+    "Licence": "001105"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5770,
+    "MYH_LocalityID": 1293,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1453,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Central Heating",
+      "Garden",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Central Heating,Garden,Alarm",
+    "MYH_MaxPrice": 450000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 75,
+    "MYH_MinPrice": 450000,
+    "MYH_MinSize": 102,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5023024,
+    "MYH_PropertyTypeID": 45
+  }
+}

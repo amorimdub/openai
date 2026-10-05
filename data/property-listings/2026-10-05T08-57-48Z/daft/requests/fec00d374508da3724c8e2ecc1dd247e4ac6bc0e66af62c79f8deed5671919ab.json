@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/10-ard-branagh-portlaoise-kilminchy-co-laois/6664541",
+  "fetchedAt": "2026-10-05T09:21:54.849Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/10-ard-branagh-portlaoise-kilminchy-co-laois/6664541",
+  "kind": "listing",
+  "responseSha256": "1f6c92c0a94aa5fe899689ef6bf6c2893bbb87a35b988ea81d1781a7374bfe12",
+  "files": [
+    {
+      "path": "daft/00964-fec00d374508da37-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c9354a40cef3d55fef2811d4ce6cd3b88b129d20010172d8deadc89cc4b24c02",
+      "bytes": 25901
+    },
+    {
+      "path": "daft/00964-fec00d374508da37-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b8c1d72b9f42553565115e5d94a7e940b59b1ffcba7dc1df10eda98cd0382644",
+      "bytes": 8154
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

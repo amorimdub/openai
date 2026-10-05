@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-the-forum-ballymoss-road-sandyford-business-park-dublin-18-stillorgan-dublin-18/6685488",
+  "fetchedAt": "2026-10-05T09:36:21.555Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-the-forum-ballymoss-road-sandyford-business-park-dublin-18-stillorgan-dublin-18/6685488",
+  "kind": "listing",
+  "responseSha256": "dcd366f9a6315b4e3d628f4866570f01ba8c4fd532c3a44c9106f37908c9b150",
+  "files": [
+    {
+      "path": "daft/01541-c69ff36a2fa8c0b3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "461fadce04731f393b8e761606a6dd6cd38b4ae841936a21ca9a1836bdbd842d",
+      "bytes": 16404
+    },
+    {
+      "path": "daft/01541-c69ff36a2fa8c0b3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

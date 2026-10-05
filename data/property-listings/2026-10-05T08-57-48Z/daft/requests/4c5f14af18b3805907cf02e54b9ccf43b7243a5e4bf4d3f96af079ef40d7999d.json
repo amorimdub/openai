@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-kellys-court-dublin-1/6683704",
+  "fetchedAt": "2026-10-05T09:48:00.083Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-kellys-court-dublin-1/6683704",
+  "kind": "listing",
+  "responseSha256": "aa737992034f54aba932fc3701fd83c5d935d24a7f394cc0b5466a294a2c28db",
+  "files": [
+    {
+      "path": "daft/02006-4c5f14af18b38059-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5f83e76e72d4f28ed022e2b2264090dd071dcd35e0ffeeaab8bb272cd69f0ae3",
+      "bytes": 14370
+    },
+    {
+      "path": "daft/02006-4c5f14af18b38059-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8626cf432d6ea2251c6c3275b9d26895d62a3b4df39954b9e6ee789044f80d92",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

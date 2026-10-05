@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/villas-3-muirhevnamore-dundalk-co-louth/6684247",
+  "fetchedAt": "2026-10-05T09:43:52.159Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/villas-3-muirhevnamore-dundalk-co-louth/6684247",
+  "kind": "listing",
+  "responseSha256": "3df3c9175ed3b95689d7953071345df0a1bce4bac1e3f57994c84ca3265e8de6",
+  "files": [
+    {
+      "path": "daft/01841-7ae778abad6a90b0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1ac83d250e80f43d55d5ae0f7e380e7f1f5bc5f0a462561a60de8a8a7ca32fd7",
+      "bytes": 18470
+    },
+    {
+      "path": "daft/01841-7ae778abad6a90b0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "26338391becedfcec70d1e1bb3dd0caf8f275418e22012e2b996910095117af4",
+      "bytes": 8010
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

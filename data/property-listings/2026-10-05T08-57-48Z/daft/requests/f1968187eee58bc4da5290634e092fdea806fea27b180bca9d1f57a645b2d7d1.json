@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/garadice-kilcock-garadice-co-meath/6686282",
+  "fetchedAt": "2026-10-05T09:30:01.645Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/garadice-kilcock-garadice-co-meath/6686282",
+  "kind": "listing",
+  "responseSha256": "9cce37c449ce264eda6aa3eb0f0a0f55997a9a2cb4b2cca279057648b7e170dc",
+  "files": [
+    {
+      "path": "daft/01288-f1968187eee58bc4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "353d912f00fa0b1946285b0a9b16583f4ed2943b08e6c8cc121a6e5406b8034c",
+      "bytes": 26997
+    },
+    {
+      "path": "daft/01288-f1968187eee58bc4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "12223db193fe2dfa16f7b46d3d713651f7665e394997593c9aedadb1187b8d0c",
+      "bytes": 8056
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

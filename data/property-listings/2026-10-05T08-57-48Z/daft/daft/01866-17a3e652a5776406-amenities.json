@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "DRUMFAD NATIONAL SCHOOL",
+      "numPupils": 36,
+      "distance": {
+        "value": 2.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.179120",
+        "lon": "-7.641170"
+      }
+    },
+    {
+      "schoolName": "TAMNEY NATIONAL SCHOOL",
+      "numPupils": 31,
+      "distance": {
+        "value": 3.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.200912",
+        "lon": "-7.689225"
+      }
+    },
+    {
+      "schoolName": "BALLYHEERIN NATIONAL SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 5.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.196136",
+        "lon": "-7.727138"
+      }
+    },
+    {
+      "schoolName": "S N CAISEAL",
+      "numPupils": 61,
+      "distance": {
+        "value": 6.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.229992",
+        "lon": "-7.723133"
+      }
+    },
+    {
+      "schoolName": "DEVLINREAGH NATIONAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 7.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.167904",
+        "lon": "-7.734871"
+      }
+    },
+    {
+      "schoolName": "KERRYKEEL NATIONAL SCHOOL",
+      "numPupils": 57,
+      "distance": {
+        "value": 7.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.138030",
+        "lon": "-7.661548"
+      }
+    },
+    {
+      "schoolName": "DISEART EIGHNIGH NATIONAL SCHOOL",
+      "numPupils": 80,
+      "distance": {
+        "value": 7.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.187160",
+        "lon": "-7.515705"
+      }
+    },
+    {
+      "schoolName": "CRANFORD NATIONAL SCHOOL",
+      "numPupils": 48,
+      "distance": {
+        "value": 8.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.138336",
+        "lon": "-7.697014"
+      }
+    },
+    {
+      "schoolName": "ST GARVAN'S NATIONAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 9.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.137154",
+        "lon": "-7.557167"
+      }
+    },
+    {
+      "schoolName": "TIERNASLIGO NATIONAL SCHOOL",
+      "numPupils": 58,
+      "distance": {
+        "value": 11.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.268110",
+        "lon": "-7.497862"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MULROY COLLEGE",
+      "numPupils": 628,
+      "distance": {
+        "value": 13.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.092690",
+        "lon": "-7.704294"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHINEÁL EOGHAIN",
+      "numPupils": 17,
+      "distance": {
+        "value": 13.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.144043",
+        "lon": "-7.452638"
+      }
+    },
+    {
+      "schoolName": "CRANA COLLEGE",
+      "numPupils": 604,
+      "distance": {
+        "value": 13.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.134983",
+        "lon": "-7.457682"
+      }
+    },
+    {
+      "schoolName": "LORETO COMMUNITY SCHOOL",
+      "numPupils": 807,
+      "distance": {
+        "value": 13.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.088936",
+        "lon": "-7.709009"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE SECONDARY SCHOOL",
+      "numPupils": 875,
+      "distance": {
+        "value": 13.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.131336",
+        "lon": "-7.458079"
+      }
+    },
+    {
+      "schoolName": "CARNDONAGH COMMUNITY SCHOOL",
+      "numPupils": 1142,
+      "distance": {
+        "value": 23.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.249386",
+        "lon": "-7.269909"
+      }
+    },
+    {
+      "schoolName": "ERRIGAL COLLEGE",
+      "numPupils": 547,
+      "distance": {
+        "value": 27.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.963150",
+        "lon": "-7.733620"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AILIGH",
+      "numPupils": 321,
+      "distance": {
+        "value": 28.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.954600",
+        "lon": "-7.734086"
+      }
+    },
+    {
+      "schoolName": "ST EUNAN'S COLLEGE",
+      "numPupils": 1014,
+      "distance": {
+        "value": 29.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.951992",
+        "lon": "-7.745488"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL, LETTERKENNY",
+      "numPupils": 944,
+      "distance": {
+        "value": 29.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.950188",
+        "lon": "-7.741210"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Portsalon",
+      "route": "973",
+      "destination": "Cionn Fhánada",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.20576",
+        "lon": "-7.63656"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Baile Láir",
+      "route": "973",
+      "destination": "Cionn Fhánada",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 5.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.25248",
+        "lon": "-7.6739"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Duibhleann Riach",
+      "route": "974",
+      "destination": "Na Dúnaibh",
+      "provider": "Patrick Gallagher Travel",
+      "distance": {
+        "value": 7.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.166654",
+        "lon": "-7.734404"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Duibhleann Riach",
+      "route": "993",
+      "destination": "Carraig Airt",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 7.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.166654",
+        "lon": "-7.734404"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cionn Fhánada",
+      "route": "973",
+      "destination": "Cionn Fhánada",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 7.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.275624",
+        "lon": "-7.634248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kerrykeel",
+      "route": "973",
+      "destination": "Cionn Fhánada",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 7.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.137296",
+        "lon": "-7.666112"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cranford",
+      "route": "974",
+      "destination": "Market Square",
+      "provider": "Patrick Gallagher Travel",
+      "distance": {
+        "value": 8.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.139746",
+        "lon": "-7.696032"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tulach",
+      "route": "993",
+      "destination": "Carraig Airt",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 9.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.150028",
+        "lon": "-7.744602"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tirloughan",
+      "route": "993",
+      "destination": "Carraig Airt",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 9.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.175846",
+        "lon": "-7.775095"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gort na Brád",
+      "route": "993",
+      "destination": "Carraig Airt",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 9.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.163038",
+        "lon": "-7.772374"
+      }
+    }
+  ]
+}

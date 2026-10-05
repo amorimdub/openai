@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=330",
+  "fetchedAt": "2026-10-05T13:04:39.297Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=330",
+  "kind": "search",
+  "responseSha256": "e04ab04d0167ae49b5e1aa466264b50ea64b46f0bb8f6a84476594155d22e6ed",
+  "files": [
+    {
+      "path": "myhome/07319-c33b611144bba79c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=330\"].SearchResults",
+      "sha256": "46cbc1e12530f53bc329abb8cc7c3499e50dbb25f3e8de4e9504f5bed221c9cb",
+      "bytes": 108513
+    },
+    {
+      "path": "myhome/07319-c33b611144bba79c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=330\"] (paging fields)",
+      "sha256": "11ec4f5247a41272e0ff4883d7dcc68f8f009fb84c451653e30ac36eb62be5c8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/roshine-burtonport-county-donegal/5021897",
+    "https://www.myhome.ie/residential/brochure/290-orwell-park-grove-templeogue-dublin-6w/5021879",
+    "https://www.myhome.ie/residential/brochure/apartment-an-fulacht-fiadh-bantry-west-cork/4977654",
+    "https://www.myhome.ie/residential/brochure/87-north-circular-road-dublin-7-d07e2v8/5021864",
+    "https://www.myhome.ie/residential/brochure/house-granny-flat-on-2-74-acres-accony-roonagh-point-louisburgh-co-mayo/5021882",
+    "https://www.myhome.ie/residential/brochure/parkroe-ardnacrusha-county-clare/5021878",
+    "https://www.myhome.ie/residential/brochure/clonoulty-house-clonoulty-churchquarter-clonoulty-tipperary/5002992",
+    "https://www.myhome.ie/residential/brochure/55-castle-avenue-hereford-park-leixlip-naas-co-kildare/5021871",
+    "https://www.myhome.ie/residential/brochure/25-glenpatrick-cortober-carrick-on-shannon-roscommon/5021869",
+    "https://www.myhome.ie/residential/brochure/1-old-downs-road-willow-grove-delgany-co-wicklow/5021848",
+    "https://www.myhome.ie/residential/brochure/12-farmlea-manor-abbey-rd-ferrybank-waterford/4976740",
+    "https://www.myhome.ie/residential/brochure/13-aderrig-heights-adamstown-lucan-county-dublin/4953056",
+    "https://www.myhome.ie/residential/brochure/no-42-clonguish-court-newtownforbes-longford/5021840",
+    "https://www.myhome.ie/residential/brochure/32-trimleston-balbriggan-dublin/5021753",
+    "https://www.myhome.ie/residential/brochure/13-the-redmill-north-brunswicke-street-smithfield-dublin-7/5021830",
+    "https://www.myhome.ie/residential/brochure/10-kenilworth-lane-west-rathgar-dublin-6/5021829",
+    "https://www.myhome.ie/residential/brochure/30-butterfield-orchard-rathfarnham-dublin-14/4991640",
+    "https://www.myhome.ie/residential/brochure/80-ennafort-park-raheny-dublin-5/5021824",
+    "https://www.myhome.ie/residential/brochure/cloonbonniffe-castlerea-roscommon/5021822",
+    "https://www.myhome.ie/residential/brochure/santa-barbara-19-orchardstown-park-rathfarnham-dublin-14/5021821"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=331",
+  "paginationLimited": false
+}

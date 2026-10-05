@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-white-fields-cloghan-birr-cloghan-co-offaly/6686520",
+  "fetchedAt": "2026-10-05T09:28:01.436Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-white-fields-cloghan-birr-cloghan-co-offaly/6686520",
+  "kind": "listing",
+  "responseSha256": "54bc75656f01554dd83529d4452957edf5abbd4022003714a577c2ee23166252",
+  "files": [
+    {
+      "path": "daft/01208-1f7f8f407c40b239-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3ad5e5cf36749b5bec76a1c65821d7c36740b53e5cc7406f3ced806a9540ed2f",
+      "bytes": 49308
+    },
+    {
+      "path": "daft/01208-1f7f8f407c40b239-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4ed1227c06ec38b6c60a54dfedd027083f98193fcb07f84d62e5de28dc68c674",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

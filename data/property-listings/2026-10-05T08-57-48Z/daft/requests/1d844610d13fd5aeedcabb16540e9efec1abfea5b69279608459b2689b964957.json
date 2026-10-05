@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/block-5-new-priory-clongriffin-dublin-13/6685831",
+  "fetchedAt": "2026-10-05T09:34:13.915Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/block-5-new-priory-clongriffin-dublin-13/6685831",
+  "kind": "listing",
+  "responseSha256": "3c6334920c500d8aabb41b231e3444ff37146f26d199dd769705ead0a1e55e10",
+  "files": [
+    {
+      "path": "daft/01456-1d844610d13fd5ae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3bad6b0dae1f91d809dda37b5d9c08dbc0cb662e4ec26e2f040857d36bff7597",
+      "bytes": 43121
+    },
+    {
+      "path": "daft/01456-1d844610d13fd5ae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "51dfdc20e897d91cbadd2636cf886f8934c9ada6bd67107d87f94607cb0eb9cc",
+      "bytes": 8138
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/belmont-hall-gardinder-street-dublin-2/6665531",
+  "fetchedAt": "2026-10-05T09:21:59.357Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/belmont-hall-gardinder-street-dublin-2/6665531",
+  "kind": "listing",
+  "responseSha256": "78d56a29e5f92efc71f84f71a9d5f4cc807647b1b83e25fa1c5fa619efb04ba3",
+  "files": [
+    {
+      "path": "daft/00967-a2064f60dd80f2d1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6f6e440bd48c491855495fc6f73d46a91598d3412513e31298f64aaab7f2a94e",
+      "bytes": 17857
+    },
+    {
+      "path": "daft/00967-a2064f60dd80f2d1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f496d26b13af6ff41ea39e62009c50f07cea820aa0898c628c23c7509ff47718",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

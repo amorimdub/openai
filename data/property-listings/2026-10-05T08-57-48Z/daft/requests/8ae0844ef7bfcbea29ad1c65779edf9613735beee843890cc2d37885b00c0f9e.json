@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/19-keanes-road-waterford-waterford-city-centre-co-waterford/6680105",
+  "fetchedAt": "2026-10-05T09:37:44.138Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/19-keanes-road-waterford-waterford-city-centre-co-waterford/6680105",
+  "kind": "listing",
+  "responseSha256": "7822a12f14967f8e4fc1b0be460cc9b9ccffe397faec694275fe6b24a3b885dc",
+  "files": [
+    {
+      "path": "daft/01596-8ae0844ef7bfcbea-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2c2caa19edfc5f5a6abeecd5818635706342ab4f1dcee6e17c5e095496bc7743",
+      "bytes": 20761
+    },
+    {
+      "path": "daft/01596-8ae0844ef7bfcbea-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8ec17173fff2ac24e4a390ea117fa41853e01c0ea6d072ab10b58b0ce3e3c922",
+      "bytes": 8243
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

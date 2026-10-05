@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/saint-kilda-sandycove-avenue-east-sandycove-co-dublin/6675897",
+  "fetchedAt": "2026-10-05T09:23:11.468Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/saint-kilda-sandycove-avenue-east-sandycove-co-dublin/6675897",
+  "kind": "listing",
+  "responseSha256": "bcdfe1b58dd6468a2391ec0f6258911adbda017f4d5832d9f89ce5149dd70ed5",
+  "files": [
+    {
+      "path": "daft/01015-d21a2ec1b2d366dd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "421e037adc9e3862430310f4bfd030845796bb6046892ea03a8ce2a52ff9d19f",
+      "bytes": 99131
+    },
+    {
+      "path": "daft/01015-d21a2ec1b2d366dd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f62199e214a5d55173858beb6de46b96d7bd0b05d1b22569be3a3d8ea49cb5a9",
+      "bytes": 8115
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

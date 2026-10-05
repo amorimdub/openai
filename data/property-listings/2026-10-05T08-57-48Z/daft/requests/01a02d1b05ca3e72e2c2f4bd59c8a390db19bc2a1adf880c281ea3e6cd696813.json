@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/10-woodbrook-court-castleknock-dublin-15-co-dublin/6617115",
+  "fetchedAt": "2026-10-05T09:19:03.664Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/10-woodbrook-court-castleknock-dublin-15-co-dublin/6617115",
+  "kind": "listing",
+  "responseSha256": "d7b851ff4bc72ea58fa334c9842d590fac0831bd9cc6ea8478e68e4497dfd851",
+  "files": [
+    {
+      "path": "daft/00850-01a02d1b05ca3e72-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4ed5f9f3c0b5e7a18ed6e7a6dfc59d7ec1612f235935f8c731b9259d23b436f1",
+      "bytes": 33422
+    },
+    {
+      "path": "daft/00850-01a02d1b05ca3e72-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "65e6ae3d0ccf37fae60685e4ffbcd8949e2ac74936fd7ba316fc606cb2c5bc08",
+      "bytes": 8165
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

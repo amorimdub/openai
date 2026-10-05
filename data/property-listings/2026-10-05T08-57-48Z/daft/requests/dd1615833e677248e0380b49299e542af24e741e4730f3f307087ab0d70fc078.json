@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-4-glencourt-dell-co-wicklow/6656651",
+  "fetchedAt": "2026-10-05T09:45:16.292Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-4-glencourt-dell-co-wicklow/6656651",
+  "kind": "listing",
+  "responseSha256": "4fa2e7dcd6dfb3360f72db6cbb622fe4bc6735d710aa6fe7c511b94b57350a28",
+  "files": [
+    {
+      "path": "daft/01897-dd1615833e677248-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "91d1485c92a25f9c7a6478e1c2916cacea88f74af8331c17f23ce47e0e0d9bbf",
+      "bytes": 74531
+    },
+    {
+      "path": "daft/01897-dd1615833e677248-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "687bcb2807efdcb3bcf084b6de83b281f4e705bf6b959cefb2d45428129f038b",
+      "bytes": 8170
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-43-windmill-lane-apartments-windmill-l-grand-canal-dock-dublin-2/6677864",
+  "fetchedAt": "2026-10-05T09:19:30.691Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-43-windmill-lane-apartments-windmill-l-grand-canal-dock-dublin-2/6677864",
+  "kind": "listing",
+  "responseSha256": "f222a60cdb7a82ece5bb4c9e39a90f566e19dbda62064d3c7d57280e0cb926ff",
+  "files": [
+    {
+      "path": "daft/00868-88c4b85755c2ddd1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "567efdc98619f5e0d2d4672f0cd90f7b290c84af84fa65f609e1aefd1882cb17",
+      "bytes": 40762
+    },
+    {
+      "path": "daft/00868-88c4b85755c2ddd1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bfa17be40f58a4f85a23ff9fd6d842a060cf0affcc793408f18595bfee0012af",
+      "bytes": 8136
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/elmfield-court-clondalkin-dublin-22/6682880",
+  "fetchedAt": "2026-10-05T09:52:04.984Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/elmfield-court-clondalkin-dublin-22/6682880",
+  "kind": "listing",
+  "responseSha256": "f5f69427284ff79edca00b5ff28301a8500283c5122ff51284dccbf3ebb8b5c4",
+  "files": [
+    {
+      "path": "daft/02169-36a888184825d8b9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6947586506d096d7dad31f836cc414cb091de98cbeb953bab91902b4111d884f",
+      "bytes": 29939
+    },
+    {
+      "path": "daft/02169-36a888184825d8b9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8710a9e3beabc72c18b5259237d1a3406d7e9d16ae974846c49188fcf34f7195",
+      "bytes": 8035
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

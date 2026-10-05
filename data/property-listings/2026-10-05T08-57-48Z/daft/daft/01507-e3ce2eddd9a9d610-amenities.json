@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "S N NAOMH BAOITHIN",
+      "numPupils": 106,
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.933030",
+        "lon": "-7.462717"
+      }
+    },
+    {
+      "schoolName": "CARRIGANS NATIONAL SCHOOL",
+      "numPupils": 80,
+      "distance": {
+        "value": 1.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.953197",
+        "lon": "-7.443907"
+      }
+    },
+    {
+      "schoolName": "MONREAGH NATIONAL SCHOOL",
+      "numPupils": 58,
+      "distance": {
+        "value": 1.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.956356",
+        "lon": "-7.457108"
+      }
+    },
+    {
+      "schoolName": "CASTLETOWN NATIONAL SCHOOL",
+      "numPupils": 63,
+      "distance": {
+        "value": 3.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.919640",
+        "lon": "-7.489292"
+      }
+    },
+    {
+      "schoolName": "SCOIL CHOLMCILLE",
+      "numPupils": 210,
+      "distance": {
+        "value": 7.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.997406",
+        "lon": "-7.516575"
+      }
+    },
+    {
+      "schoolName": "MOYLE NATIONAL SCHOOL",
+      "numPupils": 80,
+      "distance": {
+        "value": 8.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.998974",
+        "lon": "-7.531389"
+      }
+    },
+    {
+      "schoolName": "DRUMOGHILL NATIONAL SCHOOL",
+      "numPupils": 80,
+      "distance": {
+        "value": 9.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.937263",
+        "lon": "-7.597725"
+      }
+    },
+    {
+      "schoolName": "RAY NATIONAL SCHOOL",
+      "numPupils": 60,
+      "distance": {
+        "value": 10.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.937443",
+        "lon": "-7.618230"
+      }
+    },
+    {
+      "schoolName": "MAGHERABEG NATIONAL SCHOOL",
+      "numPupils": 117,
+      "distance": {
+        "value": 10.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.969444",
+        "lon": "-7.611985"
+      }
+    },
+    {
+      "schoolName": "ST AENGUS NATIONAL SCHOOL",
+      "numPupils": 218,
+      "distance": {
+        "value": 11.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.036415",
+        "lon": "-7.382544"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "THE ROYAL AND PRIOR SCHOOL",
+      "numPupils": 611,
+      "distance": {
+        "value": 11.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.876057",
+        "lon": "-7.590294"
+      }
+    },
+    {
+      "schoolName": "DEELE COLLEGE",
+      "numPupils": 831,
+      "distance": {
+        "value": 12.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.873890",
+        "lon": "-7.603332"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AILIGH",
+      "numPupils": 321,
+      "distance": {
+        "value": 18.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.954600",
+        "lon": "-7.734086"
+      }
+    },
+    {
+      "schoolName": "ERRIGAL COLLEGE",
+      "numPupils": 547,
+      "distance": {
+        "value": 18.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.963150",
+        "lon": "-7.733620"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL, LETTERKENNY",
+      "numPupils": 944,
+      "distance": {
+        "value": 18.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.950188",
+        "lon": "-7.741210"
+      }
+    },
+    {
+      "schoolName": "ST EUNAN'S COLLEGE",
+      "numPupils": 1014,
+      "distance": {
+        "value": 18.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.951992",
+        "lon": "-7.745488"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE SECONDARY SCHOOL",
+      "numPupils": 875,
+      "distance": {
+        "value": 21.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.131336",
+        "lon": "-7.458079"
+      }
+    },
+    {
+      "schoolName": "CRANA COLLEGE",
+      "numPupils": 604,
+      "distance": {
+        "value": 21.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.134983",
+        "lon": "-7.457682"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHINEÁL EOGHAIN",
+      "numPupils": 17,
+      "distance": {
+        "value": 22.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.144043",
+        "lon": "-7.452638"
+      }
+    },
+    {
+      "schoolName": "LORETO COMMUNITY SCHOOL",
+      "numPupils": 807,
+      "distance": {
+        "value": 23.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "55.088936",
+        "lon": "-7.709009"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Saint Johnston",
+      "route": "288",
+      "destination": "Derry UU Magee",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9346797078856",
+        "lon": "-7.46110075972742"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Saint Johnston",
+      "route": "989",
+      "destination": "Letterkenny",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9345898664497",
+        "lon": "-7.46110196096281"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Saint Johnston",
+      "route": "480",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9345898664497",
+        "lon": "-7.46110196096281"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Carrigans",
+      "route": "989",
+      "destination": "Letterkenny",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9510768860092",
+        "lon": "-7.42770907750302"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Carrigans",
+      "route": "288",
+      "destination": "Ballybofey",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 1.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9510768860092",
+        "lon": "-7.42770907750302"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Carrigans",
+      "route": "480",
+      "destination": "Ballybofey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9511655509754",
+        "lon": "-7.42745804883849"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killea",
+      "route": "64",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9783028728809",
+        "lon": "-7.40943577638406"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killea",
+      "route": "480",
+      "destination": "Ballybofey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.9783028728809",
+        "lon": "-7.40943577638406"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Carrickmore",
+      "route": "288",
+      "destination": "Ballybofey",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 5.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.8943",
+        "lon": "-7.46496"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Carrickmore",
+      "route": "987",
+      "destination": "Lifford",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 5.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.8943",
+        "lon": "-7.46496"
+      }
+    }
+  ]
+}

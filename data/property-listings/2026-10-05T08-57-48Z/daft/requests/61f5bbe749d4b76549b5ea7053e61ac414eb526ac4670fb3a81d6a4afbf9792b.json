@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/5-blackhall-green-arbour-hill-arbour-hill-dublin-7/6682715",
+  "fetchedAt": "2026-10-05T09:17:42.574Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/5-blackhall-green-arbour-hill-arbour-hill-dublin-7/6682715",
+  "kind": "listing",
+  "responseSha256": "59631d1d1e81ec54388423a7c6705bba0f7fc839d66c107d54bad0c15c96f658",
+  "files": [
+    {
+      "path": "daft/00796-61f5bbe749d4b765-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5ecd0a5c9c1cc7d890758c2d50ede3661cdf7412f55d7c547b059a2cfe5ecec9",
+      "bytes": 29510
+    },
+    {
+      "path": "daft/00796-61f5bbe749d4b765-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a02810b7b8ae8436c937a2223868c63d383b120f4628803f05559588b2d4c1b0",
+      "bytes": 8093
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

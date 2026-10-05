@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/heather-grove-janeville-carrigaline-co-cork/6683976",
+  "fetchedAt": "2026-10-05T09:45:49.349Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/heather-grove-janeville-carrigaline-co-cork/6683976",
+  "kind": "listing",
+  "responseSha256": "e725fddc20710697d9a3a5ec1cb8cf202238e27e993e5f76296f0b3a5f7043bc",
+  "files": [
+    {
+      "path": "daft/01919-a26498ddb62971ae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6f984f5bcb5c324b0ba34c9af20e96b9ae0cd0b54be20756535297461ac63145",
+      "bytes": 20267
+    },
+    {
+      "path": "daft/01919-a26498ddb62971ae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3a419368431ebaadbc0a26b3c67467d0c8bdab61f9c74629fecdddf79cca0208",
+      "bytes": 8261
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/saint-marys-3-laburnum-park-wilton-co-cork/6685876",
+  "fetchedAt": "2026-10-05T09:33:21.361Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/saint-marys-3-laburnum-park-wilton-co-cork/6685876",
+  "kind": "listing",
+  "responseSha256": "319d4c157a2ec0578baaa3a4c05a5ef01be11ef2062b76203c3ee8312b318f51",
+  "files": [
+    {
+      "path": "daft/01421-ccb1fd5c2f8f28f5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "145959f829db3ada0324d131042a15c0b1816bd05ea1b3aa648f30f9281fdc9a",
+      "bytes": 37646
+    },
+    {
+      "path": "daft/01421-ccb1fd5c2f8f28f5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "05998d6672097e4d657853ef0e9ab890da169c218dbdeeadc797809ca658dd09",
+      "bytes": 8100
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

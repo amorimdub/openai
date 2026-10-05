@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=7",
+  "fetchedAt": "2026-10-05T09:07:25.274Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=7",
+  "kind": "search",
+  "responseSha256": "8309adaf0cb5e4a189e7f3959f5317a2939794e26211a524c1e130b7f1b925d0",
+  "files": [
+    {
+      "path": "daft/00385-9365e4b3d4a0ebd9-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "7ab28ee513f00fa34d7765b252098bba1d4d6e6f981ee9d25f7fe8ea64a1e8e0",
+      "bytes": 298154
+    },
+    {
+      "path": "daft/00385-9365e4b3d4a0ebd9-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00385-9365e4b3d4a0ebd9-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "cd83dfc5543dca2c3201e7ae1a0e8371b8a3d788ee1b3f53936dcbac1970d6b4",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/70-the-sycamores-edenderry-killane-co-offaly/6679789",
+    "https://www.daft.ie/for-sale/27-clonuske-green-balbriggan-balbriggan-co-dublin/6683625",
+    "https://www.daft.ie/for-sale/23-meadow-court-newcastle-west-newcastle-west-co-limerick/6683631",
+    "https://www.daft.ie/for-sale/80-rockfield-close-stoneylane-ardee-co-louth/6475560",
+    "https://www.daft.ie/for-sale/5-stradbrook-road-blackrock-co-dublin/6683581",
+    "https://www.daft.ie/for-sale/15b-saint-fintans-villas-deansgrange-blackrock-co-dublin/6658431",
+    "https://www.daft.ie/for-sale/1-gneevebane-tyrrellspass-mullingar-co-westmeath/6671898",
+    "https://www.daft.ie/for-sale/williamstown-lodge-williamstown-fedamore-co-limerick/6639724",
+    "https://www.daft.ie/for-sale/40-oak-drive-bloomfield-castletroy-limerick-co-limerick/6508085",
+    "https://www.daft.ie/for-sale/96-haddington-road-ballsbridge-dublin-4/6682026",
+    "https://www.daft.ie/for-sale/the-lodge-the-old-bond-store-dillon-terrace-ballina-co-mayo/6649427",
+    "https://www.daft.ie/for-sale/the-lookout-gort-road-loughrea-co-galway/6683501",
+    "https://www.daft.ie/for-sale/apartment-39-the-malthouse-dublin-8/6666966",
+    "https://www.daft.ie/for-sale/1-tara-kinsale-co-cork/6671848",
+    "https://www.daft.ie/for-sale/1-clonskeagh-road-ranelagh-dublin-6/6678917",
+    "https://www.daft.ie/for-sale/35-mountain-view-drive-boghall-road-co-wicklow/6683288",
+    "https://www.daft.ie/for-sale/2-foxrock-wood-foxrock-dublin-18/6641371",
+    "https://www.daft.ie/for-sale/clarin-house-newfort-screen-co-wexford/6683169",
+    "https://www.daft.ie/for-sale/riverdale-house-lyrath-kilkenny/6666780",
+    "https://www.daft.ie/for-sale/gaulstown-house-balrath-navan-co-meath/6661526"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=8",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/finn-street-stoneybatter-co-dublin/6686892",
+  "fetchedAt": "2026-10-05T09:25:53.722Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/finn-street-stoneybatter-co-dublin/6686892",
+  "kind": "listing",
+  "responseSha256": "7c8a1852b8eaefb789e91219f332ce47b63f62d5842c05c2727694da3ffefadb",
+  "files": [
+    {
+      "path": "daft/01123-dedce98ca8e68746-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bf3f9c39a97d61adf28359cc0a41cfa4f152361927823cf2fbfe3cb1bd2205ad",
+      "bytes": 16184
+    },
+    {
+      "path": "daft/01123-dedce98ca8e68746-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c8a47fc14228db65312e1da9899bfa1aa64f56104055d610bd7c49756296afe8",
+      "bytes": 8172
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

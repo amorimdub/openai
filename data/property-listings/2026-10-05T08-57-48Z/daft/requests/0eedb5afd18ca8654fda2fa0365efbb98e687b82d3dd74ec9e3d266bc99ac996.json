@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/green-acre-grange-upper-kilmacud-road-dundrum-co-dublin/5494741",
+  "fetchedAt": "2026-10-05T09:03:23.491Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/green-acre-grange-upper-kilmacud-road-dundrum-co-dublin/5494741",
+  "kind": "listing",
+  "responseSha256": "44b31051e7432995bb8a50438002bf8c520d64d39556729d0d8874a94906a5a0",
+  "files": [
+    {
+      "path": "daft/00224-0eedb5afd18ca865-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "19ca323b99a4bcd641415771a853ed394ef392b1c9917257179f0246dd43faca",
+      "bytes": 119174
+    },
+    {
+      "path": "daft/00224-0eedb5afd18ca865-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "307043ed4229e9bb74aee3fefa4edcf61f4af03fd30a908e7aafa027e72b8265",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

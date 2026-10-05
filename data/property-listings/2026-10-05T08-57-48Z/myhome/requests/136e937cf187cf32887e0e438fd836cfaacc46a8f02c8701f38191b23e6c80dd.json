@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=214",
+  "fetchedAt": "2026-10-05T12:04:42.464Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=214",
+  "kind": "search",
+  "responseSha256": "f367050e967208ebc40b6836f7039ca7e0d9fa646fa8abc4ef75dbce0877892a",
+  "files": [
+    {
+      "path": "myhome/04931-136e937cf187cf32-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=214\"].SearchResults",
+      "sha256": "99d920d46defecb4ef39b46af23bc03cf4f675960997ff371131a7c445b65b5c",
+      "bytes": 113909
+    },
+    {
+      "path": "myhome/04931-136e937cf187cf32-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=214\"] (paging fields)",
+      "sha256": "d46cb5cacb2daada4c354ab594094176d2fb616394ce5359f26c60a9f64138a1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-93-lymewood-mews-northwood-santry-dublin-9/4699057",
+    "https://www.myhome.ie/residential/brochure/22-abhann-dubh-portarlington-offaly/5027230",
+    "https://www.myhome.ie/residential/brochure/17-chancery-park-road-tullamore-offaly/5027224",
+    "https://www.myhome.ie/residential/brochure/1-longwood-wynnsward-park-clonskeagh-dublin-14/5014781",
+    "https://www.myhome.ie/residential/brochure/35-o-neill-street-carrickmacross-monaghan/5027220",
+    "https://www.myhome.ie/residential/brochure/bog-road-coosan-athlone-co-westmeath/5027217",
+    "https://www.myhome.ie/residential/brochure/5-loreto-view-kilkenny/5027216",
+    "https://www.myhome.ie/residential/brochure/23-st-gerards-road-walkinstown-dublin-12/4984905",
+    "https://www.myhome.ie/residential/brochure/49-kenilworth-square-south-rathgar-dublin-6/5027204",
+    "https://www.myhome.ie/residential/brochure/rossbrin-cove-cappaghglass-schull-co-cork/5027214",
+    "https://www.myhome.ie/residential/brochure/2-woodford-lane-portmarnock-dublin/5027167",
+    "https://www.myhome.ie/residential/brochure/loughguitane-37-pic-du-jer-park-ballinlough-cork/5027200",
+    "https://www.myhome.ie/residential/brochure/lehanagh-south-cashel-connemara-co-galway/5027209",
+    "https://www.myhome.ie/residential/brochure/3-rae-an-mhionnain-minane-bridge-cork/5026890",
+    "https://www.myhome.ie/residential/brochure/63-idrone-drive-knocklyon-dublin-16/5002709",
+    "https://www.myhome.ie/residential/brochure/22-st-john-s-terrace-sligo-sligo/5027201",
+    "https://www.myhome.ie/residential/brochure/10-slade-castle-heights-saggart-co-dublin/5027199",
+    "https://www.myhome.ie/residential/brochure/baltovin-ardfert-tralee-kerry/5027193",
+    "https://www.myhome.ie/residential/brochure/37-temple-gardens-northwood-santry-dublin-9/5027197",
+    "https://www.myhome.ie/residential/brochure/apartment-1-3-ballaghadereen-road-kilkelly-county-mayo/5027195"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=215",
+  "paginationLimited": false
+}

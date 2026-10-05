@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=318",
+  "fetchedAt": "2026-10-05T12:58:40.011Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=318",
+  "kind": "search",
+  "responseSha256": "753e648744a2b6098ad32bf365b5f60ffee11e6e92e5d3ba8a6c29f39ec989fd",
+  "files": [
+    {
+      "path": "myhome/07080-fd88b0ef8aca4db6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=318\"].SearchResults",
+      "sha256": "102a1176c149af35dadc4ffcc819de525d1ee5df7743de6058a745685fb5ac7f",
+      "bytes": 109758
+    },
+    {
+      "path": "myhome/07080-fd88b0ef8aca4db6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=318\"] (paging fields)",
+      "sha256": "ea8b502a261d99fb529d4188e1c650d1eddca2c2eccd1f1a2593241caa306464",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/81-cois-abhainn-caherweesheen-tralee-kerry/4995150",
+    "https://www.myhome.ie/residential/brochure/doonalton-dromore-west-co-sligo/4995952",
+    "https://www.myhome.ie/residential/brochure/coollattin-channel-road-rush-dublin/5004669",
+    "https://www.myhome.ie/residential/brochure/33-crescent-court-father-griffin-road-galway-city-centre-galway/5022889",
+    "https://www.myhome.ie/residential/brochure/7-kilmalogue-downs-portarlington-co-offaly/5022888",
+    "https://www.myhome.ie/residential/brochure/15-the-heights-barnoaks-citywest-dublin-24/5003101",
+    "https://www.myhome.ie/residential/brochure/23-rosslyn-bray-co-wicklow/5022883",
+    "https://www.myhome.ie/residential/brochure/70-millers-avenue-miller-s-glen-swords-co-dublin/5022882",
+    "https://www.myhome.ie/residential/brochure/388-beechmount-drive-dundalk-louth/5022868",
+    "https://www.myhome.ie/residential/brochure/apt-18-hunters-court-ashbourne-meath/5022862",
+    "https://www.myhome.ie/residential/brochure/39-pierview-wicklow-town-wicklow/5022867",
+    "https://www.myhome.ie/residential/brochure/rushanes-glandore-west-cork/5022860",
+    "https://www.myhome.ie/residential/brochure/apartment-205-lord-edward-street-limerick-county-limerick/5022865",
+    "https://www.myhome.ie/residential/brochure/main-street-taghmon-wexford/5022710",
+    "https://www.myhome.ie/residential/brochure/15-the-walk-glenveigh-navan-meath/5022855",
+    "https://www.myhome.ie/residential/brochure/19-hazel-park-newcastle-galway/5022859",
+    "https://www.myhome.ie/residential/brochure/hillfarm-narraghmore-athy-kildare/4991290",
+    "https://www.myhome.ie/residential/brochure/blackfriary-trim-co-meath/5022851",
+    "https://www.myhome.ie/residential/brochure/glenpipe-tullogher-co-kilkenny/5022846",
+    "https://www.myhome.ie/residential/brochure/4-rectory-way-herbert-road-bray-co-wicklow/5022841"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=319",
+  "paginationLimited": false
+}

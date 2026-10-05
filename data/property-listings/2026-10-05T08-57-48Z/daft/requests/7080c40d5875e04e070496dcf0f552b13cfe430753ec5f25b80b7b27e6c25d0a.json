@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/211-palmerstown-avenue-palmerstown-dublin-20/6671455",
+  "fetchedAt": "2026-10-05T09:28:29.990Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/211-palmerstown-avenue-palmerstown-dublin-20/6671455",
+  "kind": "listing",
+  "responseSha256": "ba894be495fb214088d4fee0c25b8080e7bbc99701298489f8d1a166145440c5",
+  "files": [
+    {
+      "path": "daft/01227-7080c40d5875e04e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "980a165f711f03688632be2a5f892a299c8a16fbb54098370143a9bf2b8a05ee",
+      "bytes": 63879
+    },
+    {
+      "path": "daft/01227-7080c40d5875e04e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fbb35c60a35a80ee756dbb608b171a0e750d46ba4709c906f46c93318d3dba70",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

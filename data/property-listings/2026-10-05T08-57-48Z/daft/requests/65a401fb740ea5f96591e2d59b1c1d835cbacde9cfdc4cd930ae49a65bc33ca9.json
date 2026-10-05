@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/stradbally-east-kilcolgan-co-galway/6662879",
+  "fetchedAt": "2026-10-05T09:40:06.802Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/stradbally-east-kilcolgan-co-galway/6662879",
+  "kind": "listing",
+  "responseSha256": "e7d037071950ca999e179dbb96253b9cd6e6e9eb7be0bbb837bed41dda38729e",
+  "files": [
+    {
+      "path": "daft/01691-65a401fb740ea5f9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f25ead06476ffa4865fcceb42636f59a9d980d70c0a99900cee2311d04377731",
+      "bytes": 49515
+    },
+    {
+      "path": "daft/01691-65a401fb740ea5f9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "84290b7f2bc9cddb0679ac82023b4b496a13f41829cb6621ab28a483ce35ff72",
+      "bytes": 8022
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

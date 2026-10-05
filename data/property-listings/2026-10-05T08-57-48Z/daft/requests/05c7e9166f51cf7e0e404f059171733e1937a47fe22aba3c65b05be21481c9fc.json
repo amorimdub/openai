@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-stephens-court-new-ross-new-ross-co-wexford/6684178",
+  "fetchedAt": "2026-10-05T09:43:58.167Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-stephens-court-new-ross-new-ross-co-wexford/6684178",
+  "kind": "listing",
+  "responseSha256": "b8254c1bcb9f3910efb94b6b7895ceeb3123134b0774c360dc92595c0b21e269",
+  "files": [
+    {
+      "path": "daft/01845-05c7e9166f51cf7e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "79a57f6ba4fdb6bea12e34bfa4e4d6dd190119f86d381c5b25b305a989cff7bb",
+      "bytes": 5141
+    },
+    {
+      "path": "daft/01845-05c7e9166f51cf7e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ad7431f5b38b2f074c782be8c888c1d0bb930d3dcb3ce6025ba450fb54c9476e",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

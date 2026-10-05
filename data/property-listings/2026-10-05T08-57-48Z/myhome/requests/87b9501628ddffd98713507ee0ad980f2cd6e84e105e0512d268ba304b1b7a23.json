@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=58",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=58",
+  "fetchedAt": "2026-10-05T09:41:50.342Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "c3bdb68ee1d1b19e24b34f98daea9ea8fe5471a4b0ca1200236d42bc5b2009d9",
+  "files": [
+    {
+      "path": "myhome/01755-87b9501628ddffd9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=58\"].SearchResults",
+      "sha256": "82cc8812dc6b35f7873f7899c0fd00461cea29fdaabde822c449beb354bb084c",
+      "bytes": 119469
+    },
+    {
+      "path": "myhome/01755-87b9501628ddffd9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=58\"] (paging fields)",
+      "sha256": "ae78edd898205fb97de9e52da1cdbda66761436d72163d3ccea3ba6dfc62107a",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/30-cooleen-avenue-beaumont-dublin-9/5031221",
+    "https://www.myhome.ie/residential/brochure/75-hardiman-road-drumcondra-dublin-9/5031281",
+    "https://www.myhome.ie/residential/brochure/lands-battlefield-culfadda-ballymote-co-sligo/5031280",
+    "https://www.myhome.ie/residential/brochure/7-grosvenor-mews-douglas-cork/4979448",
+    "https://www.myhome.ie/residential/brochure/222-lower-pouladuff-road-the-lough-cork/5031226",
+    "https://www.myhome.ie/residential/brochure/23-the-shore-marina-village-greystones-co-wicklow/5031277",
+    "https://www.myhome.ie/residential/brochure/96-taney-crescent-goatstown-dublin-14/5031276",
+    "https://www.myhome.ie/residential/brochure/crinstown-maynooth-county-kildare/5018620",
+    "https://www.myhome.ie/residential/brochure/10-mask-drive-artane-dublin-5/5031274",
+    "https://www.myhome.ie/residential/brochure/mount-prospect-stud-mount-prospect-rathangan-county-kildare/5028448",
+    "https://www.myhome.ie/residential/brochure/18-strand-road-baldoyle-dublin-13/5025292",
+    "https://www.myhome.ie/residential/brochure/2-straffan-avenue-straffan-wood-maynooth-county-kildare/5027162",
+    "https://www.myhome.ie/residential/brochure/1-loughmore-square-killeen-castle-dunsany-county-meath/5019624",
+    "https://www.myhome.ie/residential/brochure/residence-on-approx-24-acres-sherlockstown-sallins-county-kildare/5027421",
+    "https://www.myhome.ie/residential/brochure/apt-16-harbour-view-apartments-straffan-road-maynooth-county-kildare/5028858",
+    "https://www.myhome.ie/residential/brochure/coolygorman-broadford-limerick/5031272",
+    "https://www.myhome.ie/residential/brochure/raistin-court-clonmellon-westmeath/5025425",
+    "https://www.myhome.ie/residential/brochure/apt-28-monkstown-square-monkstown-avenue-monkstown-county-dublin/5025599",
+    "https://www.myhome.ie/residential/brochure/mount-vernon-411-clontarf-road-clontarf-dublin-3/5027643",
+    "https://www.myhome.ie/residential/brochure/carriglea-2-harbour-road-skerries-county-dublin/5026299"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=59",
+  "paginationLimited": false
+}

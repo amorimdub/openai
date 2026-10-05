@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-the-riverview-blackcastle-avenue-fl-navan-co-meath/6682287",
+  "fetchedAt": "2026-10-05T09:11:28.543Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-the-riverview-blackcastle-avenue-fl-navan-co-meath/6682287",
+  "kind": "listing",
+  "responseSha256": "bcde0b5a776e64bf8cca4604fe2379939260b9663cbc85c157d2e0e587607cac",
+  "files": [
+    {
+      "path": "daft/00547-0429bb687a7e4fae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "49284db36bcf4b151e58d9aa82b46ce07cd60f57c27c742016c258f57f704e03",
+      "bytes": 9389
+    },
+    {
+      "path": "daft/00547-0429bb687a7e4fae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b96e837549bf43d267fd278f3fd40c83fd352b40993b9fdbc1c1fb054615ad3e",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

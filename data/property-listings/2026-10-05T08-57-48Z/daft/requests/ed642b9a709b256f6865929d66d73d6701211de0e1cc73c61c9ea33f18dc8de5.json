@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-7-glandore-court-glandore-park-monkstown-co-dublin/6683600",
+  "fetchedAt": "2026-10-05T09:17:30.562Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-7-glandore-court-glandore-park-monkstown-co-dublin/6683600",
+  "kind": "listing",
+  "responseSha256": "dd58a8fbd66ab4af1085c3dc333432240a437355a85e79acbac90defa96c3edb",
+  "files": [
+    {
+      "path": "daft/00788-ed642b9a709b256f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "25f3a9276cc18c69f6bd7b4e528a6cdfc87a0c86b1f4e76b22b8f1eb3830a956",
+      "bytes": 19540
+    },
+    {
+      "path": "daft/00788-ed642b9a709b256f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a3df6b379e98c83567fb282f3e43a5eeb558dc091fde12611ceb5f8f63cdadae",
+      "bytes": 8242
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

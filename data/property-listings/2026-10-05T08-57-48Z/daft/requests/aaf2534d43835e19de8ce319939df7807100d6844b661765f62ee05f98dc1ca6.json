@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=40",
+  "fetchedAt": "2026-10-05T09:42:58.072Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=40",
+  "kind": "search",
+  "responseSha256": "4357a21044f23d5e59c596df8c6a7249de94b743343885c4a4a0bba9a75976b0",
+  "files": [
+    {
+      "path": "daft/01805-aaf2534d43835e19-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a020cb173abf3ccb8a1c5f14d004ea440f7f0b7a038e2cc4363660003e425286",
+      "bytes": 296918
+    },
+    {
+      "path": "daft/01805-aaf2534d43835e19-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01805-aaf2534d43835e19-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "2fbc791b90ea7eeeb0062368bd5045685f79153ee48ed5994761abea6bd60510",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/15-salthill-monkstown-co-dublin/6526906",
+    "https://www.daft.ie/for-sale/6-the-courtyard-baltimore-co-cork/6649416",
+    "https://www.daft.ie/for-sale/8-deans-court-deansgrange-blackrock-co-dublin/6658746",
+    "https://www.daft.ie/for-sale/94-derrygreenagh-park-rochfortbridge-mullingar-co-westmeath/6647310",
+    "https://www.daft.ie/for-sale/carramore-menlough-ballinasloe-co-galway/6457000",
+    "https://www.daft.ie/for-sale/hillview-muckerstaff-granard-co-longford/6658461",
+    "https://www.daft.ie/for-sale/24-st-johns-road-sandymount-dublin-4/6524394",
+    "https://www.daft.ie/for-sale/6-greenville-road-blackrock-co-dublin/6609748",
+    "https://www.daft.ie/for-sale/14-rockville-avenue-dublin-18-kilternan-dublin-18/6657831",
+    "https://www.daft.ie/for-sale/main-street-pallaskenry-co-limerick/6653857",
+    "https://www.daft.ie/for-sale/saleens-corbally-more-dunmore-east-co-waterford/6656407",
+    "https://www.daft.ie/for-sale/15a-15b-redington-woods-clarinbridge-co-galway/6657485",
+    "https://www.daft.ie/for-sale/whitewell-house-mulgannon-mulgannon-co-wexford/6264600",
+    "https://www.daft.ie/for-sale/67-odwyer-villas-thomondgate-thomondgate-co-limerick/6649919",
+    "https://www.daft.ie/for-sale/70-ballykeeffe-estate-dooradoyle-co-limerick/6645958",
+    "https://www.daft.ie/for-sale/29-the-crescent-larch-hill-santry-dublin-17/6657311",
+    "https://www.daft.ie/for-sale/1-bachelor-s-cove-sundrive-road-rush-co-dublin/6654997",
+    "https://www.daft.ie/for-sale/9-durabh-n-roscam-roscam-co-galway/6657295",
+    "https://www.daft.ie/for-sale/4-ardglass-portsalon-co-donegal/5792895",
+    "https://www.daft.ie/for-sale/ballyfa-new-inn-ballinasloe-co-galway/6145556"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=41",
+  "paginationLimited": false
+}

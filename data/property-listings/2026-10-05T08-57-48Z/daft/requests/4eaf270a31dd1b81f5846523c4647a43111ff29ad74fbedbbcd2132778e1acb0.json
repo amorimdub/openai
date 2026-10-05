@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/brodagh-view-crusheen-co-clare/6685039",
+  "fetchedAt": "2026-10-05T09:37:23.118Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/brodagh-view-crusheen-co-clare/6685039",
+  "kind": "listing",
+  "responseSha256": "ad0c8a97cf5d97b9166e3d17f063db4a32a5d6aad4402683cc2b7b9d31d287b7",
+  "files": [
+    {
+      "path": "daft/01582-4eaf270a31dd1b81-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c896f02dddbd138e09be8368b0f33f6c7a3b9ff5e38623dc0142b7ddc361febe",
+      "bytes": 25875
+    },
+    {
+      "path": "daft/01582-4eaf270a31dd1b81-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ff849e8d19e3a439f737b4fad55a036ade85d6783fe09994a7dc81347034a97e",
+      "bytes": 8157
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-main-street-cashel-co-tipperary/6661723",
+  "fetchedAt": "2026-10-05T09:33:39.380Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-main-street-cashel-co-tipperary/6661723",
+  "kind": "listing",
+  "responseSha256": "2c3f8353da8edd7bad7cac322ddc1ccd7332e051bc1f42db11af96dd7597ab16",
+  "files": [
+    {
+      "path": "daft/01433-8be91318d534b5f1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3392de586cb05022ced799dce7743d4409ad30114657143865b6a5496d208e97",
+      "bytes": 56615
+    },
+    {
+      "path": "daft/01433-8be91318d534b5f1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9b3df0fd79d29e2400b1dc4d10ab805e1035e0cfb8021db691b4919a5e38da4a",
+      "bytes": 8069
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

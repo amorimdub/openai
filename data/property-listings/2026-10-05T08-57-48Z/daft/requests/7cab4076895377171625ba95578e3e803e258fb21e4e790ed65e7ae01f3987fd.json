@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-claremont-howth-road-howth-co-dublin/6124174",
+  "fetchedAt": "2026-10-05T08:59:46.821Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-claremont-howth-road-howth-co-dublin/6124174",
+  "kind": "listing",
+  "responseSha256": "0d9790007144c50b242b02bf5953d32b9d68c468cb8409adb69e6de7613d0c75",
+  "files": [
+    {
+      "path": "daft/00080-7cab407689537717-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "edb89400099da37fbacca693de1e506b4cca18f2456a76140bb5d4a950ae6959",
+      "bytes": 27988
+    },
+    {
+      "path": "daft/00080-7cab407689537717-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "03e68ce30bec60015b7f214c26b001dde5166772e1e3fb6e26c8da0d69412d8a",
+      "bytes": 8167
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=325",
+  "fetchedAt": "2026-10-05T13:02:11.987Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=325",
+  "kind": "search",
+  "responseSha256": "005d2b2f714221449cd4e5bb07970bf571fb3a4ff3f5201146a95d74ec7328e1",
+  "files": [
+    {
+      "path": "myhome/07221-7a32599eabaa445c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=325\"].SearchResults",
+      "sha256": "f0c82b39019f7793a580d1bbe8de889bf856af9c194eec0915389b881be28e8e",
+      "bytes": 117280
+    },
+    {
+      "path": "myhome/07221-7a32599eabaa445c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=325\"] (paging fields)",
+      "sha256": "118c1753ba06c35c98e1d692dd5ba8817a1e1393c59f33c1049a9e8b2001990b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/178-whitethorn-gardens-clondalkin-dublin-22/5022207",
+    "https://www.myhome.ie/residential/brochure/8-glenbeigh-road-dublin-7-dublin-7/5022200",
+    "https://www.myhome.ie/residential/brochure/5-rd-na-gr-ine-lis-na-dara-dundalk-louth/5022061",
+    "https://www.myhome.ie/residential/brochure/91-pearson-s-brook-gorey-co-wexford/5022133",
+    "https://www.myhome.ie/residential/brochure/3-meadow-court-lauradell-waterford-city-waterford/5022126",
+    "https://www.myhome.ie/residential/brochure/8-kyle-meadow-oulart-gorey-co-wexford/5022132",
+    "https://www.myhome.ie/residential/brochure/22-mill-hill-park-skerries-co-dublin/5022129",
+    "https://www.myhome.ie/residential/brochure/45-hyde-square-kilmainham-dublin-8/5022122",
+    "https://www.myhome.ie/residential/brochure/157-moreen-avenue-sandyford-dublin-16/5005372",
+    "https://www.myhome.ie/residential/brochure/apt-3-newpark-centre-blackrock-county-dublin/4982679",
+    "https://www.myhome.ie/residential/brochure/nirvana-24-hillcourt-donnybrook-douglas-cork-co-cork/5022115",
+    "https://www.myhome.ie/residential/brochure/coolaw-taghmon-co-wexford/5022112",
+    "https://www.myhome.ie/residential/brochure/19-palmer-park-ballyboden-dublin/5019232",
+    "https://www.myhome.ie/residential/brochure/146-navan-road-dublin-7/5007398",
+    "https://www.myhome.ie/residential/brochure/23-seminary-walk-farranree-cork/4976475",
+    "https://www.myhome.ie/residential/brochure/36-inbhir-ide-malahide-dublin/5007670",
+    "https://www.myhome.ie/residential/brochure/34-beechwood-gardens-newcastle-west-limerick/5022099",
+    "https://www.myhome.ie/residential/brochure/8-knocknamoe-lane-abbeyleix-co-laois/5022098",
+    "https://www.myhome.ie/residential/brochure/343-blackhorse-avenue-navan-road-dublin-7/5022096",
+    "https://www.myhome.ie/residential/brochure/35-glaslyn-apartments-howth-road-clontarf-dublin-3/5010388"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=326",
+  "paginationLimited": false
+}

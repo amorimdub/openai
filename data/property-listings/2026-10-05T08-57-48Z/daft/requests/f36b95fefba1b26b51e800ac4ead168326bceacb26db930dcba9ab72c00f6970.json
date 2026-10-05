@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-maynooth-moyglare-road-maynooth-co-kildare/4514017",
+  "fetchedAt": "2026-10-05T09:06:19.195Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-maynooth-moyglare-road-maynooth-co-kildare/4514017",
+  "kind": "listing",
+  "responseSha256": "0709467cff848fa12e53aeafd977c8ed33e163fabd30c97091ee28535d91996a",
+  "files": [
+    {
+      "path": "daft/00341-f36b95fefba1b26b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f9a2177166085c9a4009de38261dba8ce10a1c566dda5c9b917e7247665701a8",
+      "bytes": 182360
+    },
+    {
+      "path": "daft/00341-f36b95fefba1b26b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "93c985efe2c49a69d7d2c4e84be5f470fbf60d081674328f4f8882e045497444",
+      "bytes": 8179
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

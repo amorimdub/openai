@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=351",
+  "fetchedAt": "2026-10-05T13:15:22.632Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=351",
+  "kind": "search",
+  "responseSha256": "9b0eedb82e4b954166e8778b043f75c3a02c7a7112a711a509328242f98a3bd0",
+  "files": [
+    {
+      "path": "myhome/07747-bbc806b889f22949-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=351\"].SearchResults",
+      "sha256": "c778ca9c89e69833657862c3c8f547e2add1f818901daf158f052460e29168be",
+      "bytes": 113028
+    },
+    {
+      "path": "myhome/07747-bbc806b889f22949-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=351\"] (paging fields)",
+      "sha256": "805776cbc4501fbb7a6e512ce1c86f488cd6cf2b8c0e16d1fbc20b9eb15d78c1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-winward-drive-donegal-town-donegal-town-donegal/5019711",
+    "https://www.myhome.ie/residential/brochure/67-tircroghan-kinnegad-co-westmeath-mullingar/5019710",
+    "https://www.myhome.ie/residential/brochure/the-log-cabin-tawnyculawee-castlebar-co-mayo/5019707",
+    "https://www.myhome.ie/residential/brochure/karibu-blackrock-road-blackrock-louth/5019516",
+    "https://www.myhome.ie/residential/brochure/claire-view-littor-road-asdee-ballybunion-co-kerry/5015274",
+    "https://www.myhome.ie/residential/brochure/meadow-mill-athy-co-kildare-4-bedroom-semi-detached/4996564",
+    "https://www.myhome.ie/residential/brochure/12-blacklion-manor-greystones-co-wicklow/5019698",
+    "https://www.myhome.ie/residential/brochure/lough-bo-crossroads-riverstown-sligo/5019008",
+    "https://www.myhome.ie/residential/brochure/emlybeg-south-binghamstown-an-geata-mor-belmullet-mayo/5019695",
+    "https://www.myhome.ie/residential/brochure/wicker-walk-seven-mills-dublin-22/5019688",
+    "https://www.myhome.ie/residential/brochure/wicker-walk-seven-mills-dublin-22/5019689",
+    "https://www.myhome.ie/residential/brochure/dooey-lettermacaward-county-donegal/5019694",
+    "https://www.myhome.ie/residential/brochure/ballinderry-gardens-mullingar-westmeath/4959852",
+    "https://www.myhome.ie/residential/brochure/1-kiladreenan-the-cottages-newtownmountkennedy-wicklow/5018222",
+    "https://www.myhome.ie/residential/brochure/5-doctor-patrick-o-sullivan-terrace-aghada-midleton-co-cork/5019687",
+    "https://www.myhome.ie/residential/brochure/crossrah-mountnugent-county-cavan/5019686",
+    "https://www.myhome.ie/residential/brochure/santa-rosa-kilsallaghan-rolestown-swords-county-dublin/5006210",
+    "https://www.myhome.ie/residential/brochure/16-beech-grove-cahirdown-listowel-co-kerry/5019681",
+    "https://www.myhome.ie/residential/brochure/stella-lodge-mornington-park-malahide-road-artane-dublin-5/4999347",
+    "https://www.myhome.ie/residential/brochure/16-marlton-demense-wicklow-town-wicklow/5019669"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=352",
+  "paginationLimited": false
+}

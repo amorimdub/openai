@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=355",
+  "fetchedAt": "2026-10-05T13:17:24.382Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=355",
+  "kind": "search",
+  "responseSha256": "efe2235987b7443041e0c0dc3fe5aac72fe6189493267bff2c1d58e7d3807c26",
+  "files": [
+    {
+      "path": "myhome/07828-1568f24d44b889dc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=355\"].SearchResults",
+      "sha256": "7ec8d861d9b618287c03035aa0010251ef574763f3451517a5a96b720d5bb0b9",
+      "bytes": 136343
+    },
+    {
+      "path": "myhome/07828-1568f24d44b889dc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=355\"] (paging fields)",
+      "sha256": "28ea3e92d736450ce7834b8d0a8a021a388ea0cbadc67b9d0695fa7cd05ffbaa",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/cragleigh-house-cragleigh-ennis-co-clare/5019522",
+    "https://www.myhome.ie/residential/brochure/apt-11-altamont-hall-dundrum-dublin-14/5010882",
+    "https://www.myhome.ie/residential/brochure/89-shing-n-milehouse-road-enniscorthy-county-wexford/5019519",
+    "https://www.myhome.ie/residential/brochure/6-glenpark-close-woodfarm-drive-palmerstown-dublin-20-d20-y201/5019517",
+    "https://www.myhome.ie/residential/brochure/moate-road-ballymore-ballymore-co-westmeath-ballymore-westmeath/5019480",
+    "https://www.myhome.ie/residential/brochure/96-highfield-manor-crossneen-carlow/5019504",
+    "https://www.myhome.ie/residential/brochure/41-broadford-crescent-ballinteer-dublin-16/5019396",
+    "https://www.myhome.ie/residential/brochure/12-clonard-road-crumlin-dublin-12/5019497",
+    "https://www.myhome.ie/residential/brochure/77-brotherton-sleaty-rd-carlow/5019500",
+    "https://www.myhome.ie/residential/brochure/12-elder-heath-walk-kiltipper-dublin-24/5019498",
+    "https://www.myhome.ie/residential/brochure/6-greenwood-drive-kinsealy-lane-malahide/5019495",
+    "https://www.myhome.ie/residential/brochure/cloonderowen-moyard-connemara-co-galway/5019494",
+    "https://www.myhome.ie/residential/brochure/9-hayworth-mews-ongar-dublin/5019490",
+    "https://www.myhome.ie/residential/brochure/99-rahanine-manor-rochfortbridge-westmeath/5019484",
+    "https://www.myhome.ie/residential/brochure/teddington-cottage-woodstock-inistioge-co-kilkenny/5010378",
+    "https://www.myhome.ie/residential/brochure/apartment-809-ladycastle-straffan-co-kildare/5019485",
+    "https://www.myhome.ie/residential/brochure/boolyduff-inagh-clare/5019478",
+    "https://www.myhome.ie/residential/brochure/45-the-glebe-maudlin-road-kells-county-meath/5019477",
+    "https://www.myhome.ie/residential/brochure/8-cromwellsfort-avenue-mulgannon-wexford-town-wexford/5019468",
+    "https://www.myhome.ie/residential/brochure/gortnabrade-carrigart-county-donegal/5019466"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=356",
+  "paginationLimited": false
+}

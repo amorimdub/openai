@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-ironworks-dundrum-town-dundrum-co-dublin/6282327",
+  "fetchedAt": "2026-10-05T09:00:33.369Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-ironworks-dundrum-town-dundrum-co-dublin/6282327",
+  "kind": "listing",
+  "responseSha256": "acca826525543936c65bf7d075bd78f38077164864d30bddae0c25a460d97d6c",
+  "files": [
+    {
+      "path": "daft/00111-c504b2b387690cfa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dfe78977ccba626e261bcbf7d833e1c412f0cda50527273ab7285f77a42b5564",
+      "bytes": 191074
+    },
+    {
+      "path": "daft/00111-c504b2b387690cfa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c0cae33431f62afda8b60932eb389b53c8d187bfae0d8d09832c16a60a48c70f",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-single-room-stillorgan-road-stillorgan-road-blackrock-co-dublin/6553799",
+  "fetchedAt": "2026-10-05T09:04:43.096Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-single-room-stillorgan-road-stillorgan-road-blackrock-co-dublin/6553799",
+  "kind": "listing",
+  "responseSha256": "9a51d4633e5b1cb2be6e075cbbf250efa4b7b3acef9d279de8f2d728a3f9391d",
+  "files": [
+    {
+      "path": "daft/00277-242e787ca5f27a9e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d4a230b09c2febcf9c4a459ce0ccc9bd14dc1c56ee33552a9b878302f7f5f752",
+      "bytes": 17239
+    },
+    {
+      "path": "daft/00277-242e787ca5f27a9e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e521a608e6e208588a747a2fa2a4ac78c93c20822182f84cfa63b360383129aa",
+      "bytes": 8026
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

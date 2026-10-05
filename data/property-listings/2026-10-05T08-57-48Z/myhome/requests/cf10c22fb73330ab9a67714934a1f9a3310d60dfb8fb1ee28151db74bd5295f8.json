@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=445",
+  "fetchedAt": "2026-10-05T14:03:45.645Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=445",
+  "kind": "search",
+  "responseSha256": "ec638f12e99e9988e2a3249097c7cf04a6729c7890bffcb5b743f87db556cb17",
+  "files": [
+    {
+      "path": "myhome/09678-cf10c22fb73330ab-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=445\"].SearchResults",
+      "sha256": "45a04d2ce8b04cc36a81f462256b9d0e2612d2bf5bffe3d709b84644e7ced488",
+      "bytes": 111279
+    },
+    {
+      "path": "myhome/09678-cf10c22fb73330ab-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=445\"] (paging fields)",
+      "sha256": "e0c7bdd6845759ebff0d8f9f059ed272bf7ae28927cdadf8b38e31729fd2e5a8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/no-74-teffia-park-longford-longford/5009303",
+    "https://www.myhome.ie/residential/brochure/5-deerpark-view-baltinglass-wicklow/5009291",
+    "https://www.myhome.ie/residential/brochure/6-old-glenview-castlepollard-mullingar-co-westmeath/5009283",
+    "https://www.myhome.ie/residential/brochure/26-lir-park-castlepollard-mullingar-co-westmeath/5009282",
+    "https://www.myhome.ie/residential/brochure/9-hill-farm-avenue-model-farm-road-carrigrohane-cork/5009279",
+    "https://www.myhome.ie/residential/brochure/60-main-street-howth-dublin-13/4932517",
+    "https://www.myhome.ie/residential/brochure/3-broadfield-drive-broadfield-manor-rathcoole-co-dublin/5009276",
+    "https://www.myhome.ie/residential/brochure/portnahully-carrigeen-co-waterford/5009261",
+    "https://www.myhome.ie/residential/brochure/apartment-6-beverly-court-vernon-avenue-clontarf-dublin-3/4936460",
+    "https://www.myhome.ie/residential/brochure/2-springvale-millview-road-malahide-county-dublin/4969364",
+    "https://www.myhome.ie/residential/brochure/12-alexandra-terrace-dundrum-dublin-14/4767438",
+    "https://www.myhome.ie/residential/brochure/3-lawn-park-castlebar-mayo/4971372",
+    "https://www.myhome.ie/residential/brochure/apt-6-143-merrion-road-ballsbridge-dublin-4/4996799",
+    "https://www.myhome.ie/residential/brochure/woodbrook-house-kilmurray-clane-co-kildare/5009237",
+    "https://www.myhome.ie/residential/brochure/9-dun-aoibhinn-slievenamon-road-thurles-co-tipperary/5003455",
+    "https://www.myhome.ie/residential/brochure/coppanagh-virginia-cavan/5009230",
+    "https://www.myhome.ie/residential/brochure/95-rampart-view-virginia-cavan/5009228",
+    "https://www.myhome.ie/residential/brochure/26-rampart-view-virginia-cavan/5009227",
+    "https://www.myhome.ie/residential/brochure/drum-belmullet-belmullet-mayo/5008198",
+    "https://www.myhome.ie/residential/brochure/willow-cottage-cornaseer-kiltoom-athlone-roscommon/5009217"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=446",
+  "paginationLimited": false
+}

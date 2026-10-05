@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=398",
+  "fetchedAt": "2026-10-05T13:39:43.538Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=398",
+  "kind": "search",
+  "responseSha256": "988253fe3d7b991af46fa1fd470e831f5650dc43120c3551b66f17f7a07748c5",
+  "files": [
+    {
+      "path": "myhome/08719-129b2204a1f478af-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=398\"].SearchResults",
+      "sha256": "ddcd386338ed51f12746f4cc5eb1129ddc8d239d1f5cd6b3013144f338fda83b",
+      "bytes": 130116
+    },
+    {
+      "path": "myhome/08719-129b2204a1f478af-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=398\"] (paging fields)",
+      "sha256": "8ba3f47db0aaf712c0130e12b8ae0369e699f02ce6165858f19a8cda3fe493e1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tullid-donegal-killybegs-co-donegal/5015351",
+    "https://www.myhome.ie/residential/brochure/hallowberry-lodge-ballingate-carnew-co-wicklow/5007978",
+    "https://www.myhome.ie/residential/brochure/algernon-house-moanleana-newcastle-west-co-limerick/5015337",
+    "https://www.myhome.ie/residential/brochure/3-rockford-terrace-deansgrange-road-blackrock-county-dublin/5015328",
+    "https://www.myhome.ie/residential/brochure/11-steeple-court-new-building-lane-kilkenny/5015330",
+    "https://www.myhome.ie/residential/brochure/29-the-gates-matthew-hill-lehenaghmore-cork/5015290",
+    "https://www.myhome.ie/residential/brochure/1-townhouse-dromina-co-cork/5015317",
+    "https://www.myhome.ie/residential/brochure/teach-n-blackrock-county-louth/5015316",
+    "https://www.myhome.ie/residential/brochure/binroe-bruckless-county-donegal/5015315",
+    "https://www.myhome.ie/residential/brochure/10-clonard-court-balbriggan-dublin/5015312",
+    "https://www.myhome.ie/residential/brochure/creamery-house-main-street-buttevant-co-cork/5015313",
+    "https://www.myhome.ie/residential/brochure/painestown-kilmoon-ashbourne-co-meath/5005657",
+    "https://www.myhome.ie/residential/brochure/tower-road-jenkinstown-kilkenny-co-kilkenny/5015307",
+    "https://www.myhome.ie/residential/brochure/22-synnott-row-phibsborough-dublin-7/5015301",
+    "https://www.myhome.ie/residential/brochure/8-bramblefield-park-d15-c8x3-huntstown-dublin-15/5015297",
+    "https://www.myhome.ie/residential/brochure/knockboy-clogher-claremorris/5015302",
+    "https://www.myhome.ie/residential/brochure/8-bramblefield-park-huntstown-dublin/5015296",
+    "https://www.myhome.ie/residential/brochure/73-amiens-street-dublin-1-dublin/5015291",
+    "https://www.myhome.ie/residential/brochure/31-stephen-street-cork-city-cork/5015292",
+    "https://www.myhome.ie/residential/brochure/shragh-kilrush-clare/5015289"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=399",
+  "paginationLimited": false
+}

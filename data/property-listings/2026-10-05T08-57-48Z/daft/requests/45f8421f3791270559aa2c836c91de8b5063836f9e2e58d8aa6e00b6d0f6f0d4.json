@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/24-saint-james-crescent-mervue-galway-city/6653686",
+  "fetchedAt": "2026-10-05T09:21:29.318Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/24-saint-james-crescent-mervue-galway-city/6653686",
+  "kind": "listing",
+  "responseSha256": "fe1d62bc0d872ddb29e3d3e3dac07d1930d935b17505df6e95c7f5a007ef8e18",
+  "files": [
+    {
+      "path": "daft/00947-45f8421f37912705-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f431ba824f245de1ad66e7244b5d7b553f69a05f00fdc1393267daa194f10374",
+      "bytes": 50286
+    },
+    {
+      "path": "daft/00947-45f8421f37912705-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5977e863d0994bf8eb7f0084947928944ddb17440a3f81aa3fcccfb8bbf1d926",
+      "bytes": 8019
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

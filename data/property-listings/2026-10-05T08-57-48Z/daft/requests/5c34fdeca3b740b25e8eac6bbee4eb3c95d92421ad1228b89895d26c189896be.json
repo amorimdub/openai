@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/373-bachelors-walk-dublin-1/6580634",
+  "fetchedAt": "2026-10-05T09:40:18.818Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/373-bachelors-walk-dublin-1/6580634",
+  "kind": "listing",
+  "responseSha256": "14db9b08cc8e7c1f32b73d82c89a1bd414d58075d062f53e2cd4bdc9b89947da",
+  "files": [
+    {
+      "path": "daft/01699-5c34fdeca3b740b2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "eaffc7c3672df8ddfc6dd7b68518b6bcdd67c2a1008417608b5c1e85c329987c",
+      "bytes": 27021
+    },
+    {
+      "path": "daft/01699-5c34fdeca3b740b2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cb56efd0e72e138b79cf1410a301aa8b34c523ae8d09166fef168e4101faefc3",
+      "bytes": 7966
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

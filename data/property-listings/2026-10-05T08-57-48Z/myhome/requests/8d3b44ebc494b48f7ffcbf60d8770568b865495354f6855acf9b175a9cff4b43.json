@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=425",
+  "fetchedAt": "2026-10-05T13:53:29.429Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=425",
+  "kind": "search",
+  "responseSha256": "359bcb460ec0cb0a62a02c17249f991a26f6d3a00f6fd315fa574328e7fb0d15",
+  "files": [
+    {
+      "path": "myhome/09268-8d3b44ebc494b48f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=425\"].SearchResults",
+      "sha256": "aa5a0958b2b4e0ea6e9923dae4e99f219d1186c4cc017a2f4d9562bbbc55c7be",
+      "bytes": 121763
+    },
+    {
+      "path": "myhome/09268-8d3b44ebc494b48f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=425\"] (paging fields)",
+      "sha256": "ffd8b6b980eaf098560d092d37449678354ec3b3a386f148baaf69e30f13b9b4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/crockaunadreenagh-rathcoole-co-dublin/5011144",
+    "https://www.myhome.ie/residential/brochure/16-st-mary-s-court-arklow-wicklow/5011131",
+    "https://www.myhome.ie/residential/brochure/35-corabbey-court-midleton-cork/5011143",
+    "https://www.myhome.ie/residential/brochure/26-castlegardens-st-helen-s-village-st-helens-wexford/5011142",
+    "https://www.myhome.ie/residential/brochure/mid-terrace-houses-ard-rua-meadows-claremorris-co-mayo/5011137",
+    "https://www.myhome.ie/residential/brochure/garryhundon-milford-county-carlow/5011135",
+    "https://www.myhome.ie/residential/brochure/10-emmet-terrace-tullamore-co-offaly/5011113",
+    "https://www.myhome.ie/residential/brochure/4-ashfield-templeogue-dublin-6w/5011111",
+    "https://www.myhome.ie/residential/brochure/2-barnakyle-gardens-patrickswell-limerick/4957741",
+    "https://www.myhome.ie/residential/brochure/117-feale-drive-listowel-co-kerry/5011105",
+    "https://www.myhome.ie/residential/brochure/windyridge-ballyconnigar-lower-blackwater-wexford/5011095",
+    "https://www.myhome.ie/residential/brochure/105-cappagh-avenue-finglas-dublin-11/5011091",
+    "https://www.myhome.ie/residential/brochure/4-rathbawn-drive-castlebar-co-mayo-castlebar-mayo/5011087",
+    "https://www.myhome.ie/residential/brochure/5-carraig-m-r-caheronaun-loughrea-co-galway/5000216",
+    "https://www.myhome.ie/residential/brochure/6-observatory-lane-rathmines-dublin-6/5011079",
+    "https://www.myhome.ie/residential/brochure/rough-park-ramelton-co-donegal/5011074",
+    "https://www.myhome.ie/residential/brochure/apartment-5-12-the-meadow-robswall-malahide/5011073",
+    "https://www.myhome.ie/residential/brochure/loughill-village-loughill-limerick/5011046",
+    "https://www.myhome.ie/residential/brochure/quin-gardens-quin-ennis-co-clare/5011048",
+    "https://www.myhome.ie/residential/brochure/tua-nua-cornakill-kingscourt-co-cavan-a82y9d3-kingscourt-cavan/5010724"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=426",
+  "paginationLimited": false
+}

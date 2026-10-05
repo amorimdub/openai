@@ -1,0 +1,395 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "botanic hall avenue addison avenue addison park  glasnevin dublin 11",
+    "GroupId": 346827,
+    "Address": "Botanic Hall Avenue, Addison Avenue, Addison Park ",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/3ff8a860-b694-451f-af2a-d00ac768431f_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/3ff8a860-b694-451f-af2a-d00ac768431f_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/3ff8a860-b694-451f-af2a-d00ac768431f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/171d6964-4129-444f-b9ef-584433978fc8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/bffb3b6a-44b6-4210-a2ec-bb9dbc8e2698_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9b0ac7bc-9b13-42b5-afd3-cf2f51bd0c03_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/daccd116-050a-4b7d-98c3-5ba52b3b91fc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9eb14d1b-33cd-48b8-8db4-3fa7413510c0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/d93f3ce8-8d9f-434c-b319-5747791dd767_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/066f1081-4a16-4326-9be8-5b8a9b61fe3a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/dc6970a5-cd2a-4e7c-92ed-263894210045_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/e55b2478-5b73-4685-b7bd-d34acfab8069_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/000188c1-4a14-43c4-8673-4ab13613a86a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/7/0/5031076/f2477f55-796b-4df2-a236-1ffb50f68918_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 25,
+        "Name": "First Letting",
+        "CreatedOn": "2018-09-11T10:19:48.4300000+01:00",
+        "IconName": "myh-icon-first-letting",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "CONERNEY ESTATE AGENTS are delighted to present to market this fabulous two-bedroom apartment for rent in the ever popular Botanic Road, Addison Park, Dublin 11.\r\n This apartment comes to market in pristine condition throughout having been exceptionally well maintained and furnished with only the very best of fixtures and fittings. \r\nThe property is located in a very well maintained, safe & secure apartment development.\r\nThere are two private parking spaces free of charge with the apartment, the apartment is wired for high-speed internet, and rubbish & recycling services are included free of charge. The property is also securely alarmed and comes with intercom.\r\nThe property has a fully fitted integrated kitchen with all mod cons such as large fridge freezer, washing machine, dryer, dishwasher, oven, hob and lots of storage. \r\n Large open plan living room with excellent natural light and balcony access looking onto large, manicured gardens. \r\nThere are two large double bedrooms, both fitted with quality built in wardrobes and both rooms are bright and spacious with great natural light.  One of the bedrooms has a private en-suite bathroom.\r\nThe main bathroom is again large and fitted with bath and shower. \r\nThe apartment comes with great storage, free bin service and parking is included. Set on the first floor of a beautiful pristine development. All in all, this is a fabulous apartment. Very well fitted and presented in excellent condition throughout. Set in a quiet and very popular location, close to shops, bus routes, Dublin City Centre, Dublin Port, Howth and M50. Viewing of this excellent apartment is strongly advised and strictly by appointment only."
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 355429,
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-29T11:58:23.7670000+01:00",
+    "ModifiedOnDate": "2026-09-29T12:01:01.6700000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-29T12:01:05.9630000+01:00",
+    "RefreshedOn": "2026-09-29T12:01:05.9630000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "",
+    "IsTransact": false,
+    "PriceAsString": "€2,600 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5031076,
+    "BedsString": "2 beds",
+    "DisplayAddress": "Botanic Hall Avenue, Addison Avenue, Addison Park , Glasnevin, Dublin 11",
+    "Eircode": "",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1452,
+    "RegionName": "Dublin 9",
+    "LocalityId": 1303,
+    "LocalityName": "Glasnevin",
+    "Price": {
+      "MinRentalPrice": 2600,
+      "MaxRentalPrice": 2600,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2600,
+      "ShowPrice": true,
+      "AvailableOn": "2026-09-29T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2600,
+      "MaxMonthlyRentalPrice": 2600
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/3ff8a860-b694-451f-af2a-d00ac768431f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/3ff8a860-b694-451f-af2a-d00ac768431f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/3ff8a860-b694-451f-af2a-d00ac768431f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/171d6964-4129-444f-b9ef-584433978fc8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/171d6964-4129-444f-b9ef-584433978fc8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/171d6964-4129-444f-b9ef-584433978fc8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/bffb3b6a-44b6-4210-a2ec-bb9dbc8e2698_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/bffb3b6a-44b6-4210-a2ec-bb9dbc8e2698_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/bffb3b6a-44b6-4210-a2ec-bb9dbc8e2698_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9b0ac7bc-9b13-42b5-afd3-cf2f51bd0c03_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9b0ac7bc-9b13-42b5-afd3-cf2f51bd0c03_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9b0ac7bc-9b13-42b5-afd3-cf2f51bd0c03_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/daccd116-050a-4b7d-98c3-5ba52b3b91fc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/daccd116-050a-4b7d-98c3-5ba52b3b91fc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/daccd116-050a-4b7d-98c3-5ba52b3b91fc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9eb14d1b-33cd-48b8-8db4-3fa7413510c0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9eb14d1b-33cd-48b8-8db4-3fa7413510c0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/9eb14d1b-33cd-48b8-8db4-3fa7413510c0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/d93f3ce8-8d9f-434c-b319-5747791dd767_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/d93f3ce8-8d9f-434c-b319-5747791dd767_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/d93f3ce8-8d9f-434c-b319-5747791dd767_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/066f1081-4a16-4326-9be8-5b8a9b61fe3a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/066f1081-4a16-4326-9be8-5b8a9b61fe3a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/066f1081-4a16-4326-9be8-5b8a9b61fe3a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/dc6970a5-cd2a-4e7c-92ed-263894210045_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/dc6970a5-cd2a-4e7c-92ed-263894210045_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/dc6970a5-cd2a-4e7c-92ed-263894210045_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/e55b2478-5b73-4685-b7bd-d34acfab8069_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/e55b2478-5b73-4685-b7bd-d34acfab8069_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/e55b2478-5b73-4685-b7bd-d34acfab8069_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/000188c1-4a14-43c4-8673-4ab13613a86a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/000188c1-4a14-43c4-8673-4ab13613a86a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/000188c1-4a14-43c4-8673-4ab13613a86a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/f2477f55-796b-4df2-a236-1ffb50f68918_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/f2477f55-796b-4df2-a236-1ffb50f68918_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/7/0/5031076/f2477f55-796b-4df2-a236-1ffb50f68918_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2771795,
+      "latitude": 53.3773552
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 12,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 346827,
+    "Name": "Conerney Estate Agents",
+    "DisplayPhone": "01 492 6004",
+    "Email": "sales@conerney.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "conerney-estate-agents",
+    "SeoName": "conerney-estate-agents",
+    "Address": "180 Templeogue Road, Templeogue, Dublin 6W",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/7/2/8/346827/logo.jpg",
+    "SalesLicense": "003152",
+    "RentalLicense": "003152",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "glasnevin/1303",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/botanic-hall-avenue-addison-avenue-addison-park-glasnevin-dublin-11/5031076",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Dryer",
+    "Dishwasher",
+    "Microwave",
+    "Cable TV",
+    "Internet",
+    "Alarm",
+    "Suits Professionals",
+    "References Required",
+    "Walk-in Shower"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 355429,
+    "Name": "Conerney Lettings Department",
+    "Phone": "01 492 6004",
+    "Email": "lettingsdepartment@conerney.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 346827,
+    "MYH_LocalityID": 1303,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1452,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Balcony",
+      "Alarm",
+      "References Required",
+      "Walk In Shower",
+      "Full Furnished",
+      "Dishwasher",
+      "First Letting"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Balcony,Alarm,References Required,Walk In Shower,Full Furnished,Dishwasher,First Letting",
+    "MYH_MinBeds": 2,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5031076,
+    "MYH_PropertyTypeID": 74
+  }
+}

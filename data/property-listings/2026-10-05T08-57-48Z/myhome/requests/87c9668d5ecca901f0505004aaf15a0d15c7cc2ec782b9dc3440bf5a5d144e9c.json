@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=178",
+  "fetchedAt": "2026-10-05T11:46:16.255Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=178",
+  "kind": "search",
+  "responseSha256": "571d911e9a2b9e9f1d2598b14ee24b09100b3a431938fea75e0cc3765527835b",
+  "files": [
+    {
+      "path": "myhome/04195-87c9668d5ecca901-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=178\"].SearchResults",
+      "sha256": "453a08b091bf1862aab2574814115d339293d9cc768673dc1ceac555829a3832",
+      "bytes": 109302
+    },
+    {
+      "path": "myhome/04195-87c9668d5ecca901-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=178\"] (paging fields)",
+      "sha256": "13afd32bce18a2cc3d9f40d7570134bf42a3b92f2d2699e8a79502b046228003",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-stradbally-more-stradbally-waterford/5028223",
+    "https://www.myhome.ie/residential/brochure/kilgobban-killala-mayo/5028220",
+    "https://www.myhome.ie/residential/brochure/143-huntstown-wood-mulhuddart-dublin-15/5028222",
+    "https://www.myhome.ie/residential/brochure/st-ann-s-kilternan-co-dublin-kilternan-dublin-18/5028164",
+    "https://www.myhome.ie/residential/brochure/154-sandhills-hacketstown-rd-carlow-town-carlow/5028219",
+    "https://www.myhome.ie/residential/brochure/10-castlegrange-avenue-castaheany-dublin-15/5028217",
+    "https://www.myhome.ie/residential/brochure/3-the-close-river-park-gracedieu-waterford-city-co-waterford/5028214",
+    "https://www.myhome.ie/residential/brochure/bellfield-gaybrook-milltownpass-westmeath/5028212",
+    "https://www.myhome.ie/residential/brochure/8-kilmoroney-close-the-donahies-donaghmede-dublin-13/5028213",
+    "https://www.myhome.ie/residential/brochure/4-newcastle-manor-rise-newcastle-co-dublin/5028210",
+    "https://www.myhome.ie/residential/brochure/11-kilcaragh-lawn-lixnaw-tralee-co-kerry/5022746",
+    "https://www.myhome.ie/residential/brochure/10-mill-park-foxford-mayo/5028207",
+    "https://www.myhome.ie/residential/brochure/39-thomas-moore-road-walkinstown-dublin-12/4989130",
+    "https://www.myhome.ie/residential/brochure/15-warrenmount-place-blackpitts-dublin-8/5028209",
+    "https://www.myhome.ie/residential/brochure/17-ballynakelly-cottages-ballynakelly-newcastle-co-dublin/5028208",
+    "https://www.myhome.ie/residential/brochure/19-pairc-fea-lahard-ballinamore-leitrim/5028199",
+    "https://www.myhome.ie/residential/brochure/103-oakleigh-wood-dooradoyle-limerick-county-limerick/5028206",
+    "https://www.myhome.ie/residential/brochure/apartment-96-seapark-mount-prospect-avenue-clontarf-dublin-3/5028205",
+    "https://www.myhome.ie/residential/brochure/65-wingfield-stepaside-dublin-18/4954940",
+    "https://www.myhome.ie/residential/brochure/cuan-well-road-douglas-cork/5010946"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=179",
+  "paginationLimited": false
+}

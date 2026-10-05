@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/harrington-street-portobello-city-end-of-dudlin-8-portobello-co-dublin/6669138",
+  "fetchedAt": "2026-10-05T09:21:42.830Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/harrington-street-portobello-city-end-of-dudlin-8-portobello-co-dublin/6669138",
+  "kind": "listing",
+  "responseSha256": "7c6efb105897f05ff723e476407b5f6254a7c2983489e357d9c01bc630e6581e",
+  "files": [
+    {
+      "path": "daft/00956-ca58a2ffc1629f13-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b2ec1561a3872952134840e8f271e8c4a7b2c8273379510aaaa7925b0e1f7321",
+      "bytes": 4010
+    },
+    {
+      "path": "daft/00956-ca58a2ffc1629f13-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8a19deb5c0020adaeb2f7e8362e821b31f813765c3d17d5f21ae4769842e9c07",
+      "bytes": 8184
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

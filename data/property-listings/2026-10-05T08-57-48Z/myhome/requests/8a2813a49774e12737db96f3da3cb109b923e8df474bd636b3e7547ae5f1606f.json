@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=290",
+  "fetchedAt": "2026-10-05T12:44:25.433Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=290",
+  "kind": "search",
+  "responseSha256": "9edf222400692decfdd40b560c64d0e8248e4e63bfb731244f4d5699b32669ef",
+  "files": [
+    {
+      "path": "myhome/06516-8a2813a49774e127-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=290\"].SearchResults",
+      "sha256": "66eed9c3cc135609ec894e63cfca984e3380b59beb423dafa23b1a307f757e67",
+      "bytes": 130012
+    },
+    {
+      "path": "myhome/06516-8a2813a49774e127-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=290\"] (paging fields)",
+      "sha256": "241d6d06924995703c62b02e8c3fa50799264f1c556f1d735fb526036a3c7c9c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/100-custom-hall-block-3-gardiner-street-lower-dublin-1/5024676",
+    "https://www.myhome.ie/residential/brochure/dunreeth-35-wilton-road-cork-wilton-cork-city/5024471",
+    "https://www.myhome.ie/residential/brochure/27-st-patrick-s-terrace-nenagh-co-tipperary/5024672",
+    "https://www.myhome.ie/residential/brochure/ballybrack-firies-killarney-co-kerry/5024671",
+    "https://www.myhome.ie/residential/brochure/1-eaton-heights-cobh-co-cork-cobh-cork/5024613",
+    "https://www.myhome.ie/residential/brochure/13-sailin-wellpark-galway/5024659",
+    "https://www.myhome.ie/residential/brochure/apt-86-south-gate-cork-street-south-city-centre-d8-dublin-8/5015626",
+    "https://www.myhome.ie/residential/brochure/36-sanderling-thornwood-booterstown-avenue-booterstown-county-dublin/5024648",
+    "https://www.myhome.ie/residential/brochure/15-milford-malahide-county-dublin/5024644",
+    "https://www.myhome.ie/residential/brochure/lowville-ahascragh-ballinasloe-co-galway/5024638",
+    "https://www.myhome.ie/residential/brochure/8-kelston-park-foxrock-dublin-18/4997399",
+    "https://www.myhome.ie/residential/brochure/dunbur-upper-wicklow-town-wicklow/5024623",
+    "https://www.myhome.ie/residential/brochure/taghnoose-castlerea-roscommon/5024276",
+    "https://www.myhome.ie/residential/brochure/behey-stradone-co-cavan/5024629",
+    "https://www.myhome.ie/residential/brochure/7-bridge-view-termonfeckin-road-drogheda-co-louth/5024626",
+    "https://www.myhome.ie/residential/brochure/lucca-kilcoolishal-glounthaune-cork/5024612",
+    "https://www.myhome.ie/residential/brochure/6-golden-meadows-clonakilty-county-cork/5024619",
+    "https://www.myhome.ie/residential/brochure/saint-joseph-s-house-12-sybil-hill-avenue-raheny-dublin/5024611",
+    "https://www.myhome.ie/residential/brochure/44-marlborough-court-marlborough-street-dublin-1/5024599",
+    "https://www.myhome.ie/residential/brochure/kingscourt-callan-kilkenny/5024601"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=291",
+  "paginationLimited": false
+}

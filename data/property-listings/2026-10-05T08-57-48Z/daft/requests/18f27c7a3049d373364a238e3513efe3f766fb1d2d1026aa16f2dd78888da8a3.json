@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/church-road-rathcoole-co-dublin/6685947",
+  "fetchedAt": "2026-10-05T09:32:25.807Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/church-road-rathcoole-co-dublin/6685947",
+  "kind": "listing",
+  "responseSha256": "84def72f655c3bbe2543d315f8bcba35aea3b7a820da88c98ca809b6df5a1a2f",
+  "files": [
+    {
+      "path": "daft/01384-18f27c7a3049d373-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "de644959bca2737f7224ad93ff98c3f053fe9607410c682e6faf8d5c72c2e957",
+      "bytes": 46557
+    },
+    {
+      "path": "daft/01384-18f27c7a3049d373-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4ccaafc75b5ce288ae6a791c50cb84efddb4135c2fc02ce6742804488d33e35e",
+      "bytes": 8045
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

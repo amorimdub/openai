@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-39-the-malthouse-dublin-8/6666966",
+  "fetchedAt": "2026-10-05T09:09:35.918Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-39-the-malthouse-dublin-8/6666966",
+  "kind": "listing",
+  "responseSha256": "6b4a61cbc0510c0e156e60ba86a1c1266f10b1e4d13b6043ad723619e9b9a3be",
+  "files": [
+    {
+      "path": "daft/00472-6aeaf34d4597df92-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "431278a94c1f6580e331e3e1bc1969448a2d3bd3555eb66c07555c1b2c3e8f4c",
+      "bytes": 46006
+    },
+    {
+      "path": "daft/00472-6aeaf34d4597df92-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cba972a5d5de2266563e2ff7462e802e5a6ea255dab97cc703045641cc3c3efe",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

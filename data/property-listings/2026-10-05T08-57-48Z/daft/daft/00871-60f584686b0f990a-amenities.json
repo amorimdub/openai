@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST MEL'S NATIONAL SCHOOL",
+      "numPupils": 191,
+      "distance": {
+        "value": 2.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.667286",
+        "lon": "-7.690659"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE",
+      "numPupils": 43,
+      "distance": {
+        "value": 3.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.669125",
+        "lon": "-7.619167"
+      }
+    },
+    {
+      "schoolName": "LENAMORE NATIONAL SCHOOL",
+      "numPupils": 70,
+      "distance": {
+        "value": 3.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.622310",
+        "lon": "-7.633071"
+      }
+    },
+    {
+      "schoolName": "ST. JOHN'S NATIONAL SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.697560",
+        "lon": "-7.608212"
+      }
+    },
+    {
+      "schoolName": "ST SINNEACH'S NATIONAL SCHOOL",
+      "numPupils": 103,
+      "distance": {
+        "value": 6.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.597492",
+        "lon": "-7.678499"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL",
+      "numPupils": 353,
+      "distance": {
+        "value": 6.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.698257",
+        "lon": "-7.602544"
+      }
+    },
+    {
+      "schoolName": "TASHINNY NATIONAL SCHOOL",
+      "numPupils": 23,
+      "distance": {
+        "value": 7.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.592040",
+        "lon": "-7.696703"
+      }
+    },
+    {
+      "schoolName": "EMPER NATIONAL SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 7.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.596672",
+        "lon": "-7.588476"
+      }
+    },
+    {
+      "schoolName": "ST THOMAS' NATIONAL SCHOOL",
+      "numPupils": 11,
+      "distance": {
+        "value": 8.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.658115",
+        "lon": "-7.535263"
+      }
+    },
+    {
+      "schoolName": "ST MARYS NATIONAL SCHOOL",
+      "numPupils": 69,
+      "distance": {
+        "value": 8.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.653294",
+        "lon": "-7.520379"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 760,
+      "distance": {
+        "value": 11.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.567320",
+        "lon": "-7.764910"
+      }
+    },
+    {
+      "schoolName": "BALLYMAHON VOCATIONAL SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.568410",
+        "lon": "-7.771834"
+      }
+    },
+    {
+      "schoolName": "MEÁN SCOIL MHUIRE",
+      "numPupils": 607,
+      "distance": {
+        "value": 12.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.725475",
+        "lon": "-7.795631"
+      }
+    },
+    {
+      "schoolName": "TEMPLEMICHAEL COLLEGE",
+      "numPupils": 363,
+      "distance": {
+        "value": 12.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.731750",
+        "lon": "-7.786254"
+      }
+    },
+    {
+      "schoolName": "ST. MEL'S COLLEGE",
+      "numPupils": 603,
+      "distance": {
+        "value": 12.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.728992",
+        "lon": "-7.793768"
+      }
+    },
+    {
+      "schoolName": "WILSON'S HOSPITAL SCHOOL",
+      "numPupils": 430,
+      "distance": {
+        "value": 16.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611702",
+        "lon": "-7.417280"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL PHADRAIG",
+      "numPupils": 370,
+      "distance": {
+        "value": 17.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.776775",
+        "lon": "-7.504761"
+      }
+    },
+    {
+      "schoolName": "CNOC MHUIRE",
+      "numPupils": 547,
+      "distance": {
+        "value": 18.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.780365",
+        "lon": "-7.488720"
+      }
+    },
+    {
+      "schoolName": "LANESBORO COMMUNITY COLLEGE",
+      "numPupils": 281,
+      "distance": {
+        "value": 21.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.669212",
+        "lon": "-7.983284"
+      }
+    },
+    {
+      "schoolName": "CASTLEPOLLARD COMMUNITY COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 23.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.674583",
+        "lon": "-7.305084"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Carrickboy",
+      "route": "816",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 2.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.63268",
+        "lon": "-7.68543"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballycloghan",
+      "route": "816",
+      "destination": "Mullingar",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 3.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.64982",
+        "lon": "-7.70233"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ardagh",
+      "route": "816",
+      "destination": "Mullingar",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 3.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.66755",
+        "lon": "-7.69442"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Legan",
+      "route": "816",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 3.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.622",
+        "lon": "-7.63207"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Edgeworthstown",
+      "route": "rail",
+      "destination": "Dublin Connolly",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 5.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.688865",
+        "lon": "-7.603029"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Edgeworthstown",
+      "route": "22",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6967129763042",
+        "lon": "-7.6110052793914"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Edgeworthstown",
+      "route": "65",
+      "destination": "Cavan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6967129763042",
+        "lon": "-7.6110052793914"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Edgeworthstown",
+      "route": "466",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6967672867225",
+        "lon": "-7.61112591907698"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Edgeworthstown",
+      "route": "23",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6967672867225",
+        "lon": "-7.61112591907698"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathowen",
+      "route": "23",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.655565",
+        "lon": "-7.51974"
+      }
+    }
+  ]
+}

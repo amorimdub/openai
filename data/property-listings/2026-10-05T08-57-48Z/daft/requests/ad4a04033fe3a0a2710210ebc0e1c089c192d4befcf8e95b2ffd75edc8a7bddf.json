@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/upper-main-st-castlerea-co-roscommon/6649762",
+  "fetchedAt": "2026-10-05T09:02:24.927Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/upper-main-st-castlerea-co-roscommon/6649762",
+  "kind": "listing",
+  "responseSha256": "57f6659bc1c9d6fb7fcd78dd7504e726482138f79f4a7aa80625082cb496612e",
+  "files": [
+    {
+      "path": "daft/00185-ad4a04033fe3a0a2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ac887a4e28ce25138846735be7622ba9f0f5aaa637386a1df1d96ac55dabeeb9",
+      "bytes": 9755
+    },
+    {
+      "path": "daft/00185-ad4a04033fe3a0a2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "052947527a231cb1d3e1d415792090883f4028ab000bdcb9e2f50d8fe6f0100b",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

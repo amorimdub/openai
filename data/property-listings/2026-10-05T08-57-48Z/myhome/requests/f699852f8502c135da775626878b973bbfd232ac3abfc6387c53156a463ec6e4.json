@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=473",
+  "fetchedAt": "2026-10-05T14:18:11.440Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=473",
+  "kind": "search",
+  "responseSha256": "80b801743094f5adefd7b6c9f677977b8f44c82d0c5f05734c4260d6ed79440f",
+  "files": [
+    {
+      "path": "myhome/10254-f699852f8502c135-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=473\"].SearchResults",
+      "sha256": "ceb4e07ffe376dbe2f962dacef8a1225820275a8feda992efb8425905869f70e",
+      "bytes": 117446
+    },
+    {
+      "path": "myhome/10254-f699852f8502c135-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=473\"] (paging fields)",
+      "sha256": "210d1afa2a5857aa0093d902f8a834dd3049f5df2c39feac7eb0e2b3fcc6b09e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-college-street-castlegregory-co-kerry/5005929",
+    "https://www.myhome.ie/residential/brochure/38-holywell-crescent-north-swords-county-dublin/5005473",
+    "https://www.myhome.ie/residential/brochure/15-hollywoodrath-road-hollystown-dublin-15/5005920",
+    "https://www.myhome.ie/residential/brochure/lorrha-nenagh-co-tipperary/5005926",
+    "https://www.myhome.ie/residential/brochure/17-old-glenview-castlepollard-mullingar-co-westmeath/5005905",
+    "https://www.myhome.ie/residential/brochure/apartment-48-the-cedar-stepaside-dublin-18/5005876",
+    "https://www.myhome.ie/residential/brochure/1-gateway-place-ballymun-dublin-11/5004179",
+    "https://www.myhome.ie/residential/brochure/12-college-street-ballyshannon-ballyshannon-donegal/5005879",
+    "https://www.myhome.ie/residential/brochure/north-ridge-killacloran-aughrim-co-wicklow/5005880",
+    "https://www.myhome.ie/residential/brochure/15-citywest-golfing-apts-saggart-dublin/5003165",
+    "https://www.myhome.ie/residential/brochure/149-curragh-woods-frankfield-cork-city-cork/4997895",
+    "https://www.myhome.ie/residential/brochure/3-naughan-belturbet-cavan/5002442",
+    "https://www.myhome.ie/residential/brochure/20-river-village-cornadarragh-belturbet-cavan/5004914",
+    "https://www.myhome.ie/residential/brochure/gortahork-killargue-dromahair-leitrim/5005857",
+    "https://www.myhome.ie/residential/brochure/rossinver-house-gubalaun-rossinver-leitrim/5005854",
+    "https://www.myhome.ie/residential/brochure/mullaghroe-lower-monasterevin-co-kildare-monasterevin-kildare/5005835",
+    "https://www.myhome.ie/residential/brochure/lot-1-house-site-harrow-house-church-road-killiney-co-dublin/5005846",
+    "https://www.myhome.ie/residential/brochure/13-glenheron-park-greystones-wicklow/5005516",
+    "https://www.myhome.ie/residential/brochure/coral-lodge-ballykea-skerries-co-dublin/4954644",
+    "https://www.myhome.ie/residential/brochure/12-cherryfield-view-hartstown-dublin-15/5005819"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=474",
+  "paginationLimited": false
+}

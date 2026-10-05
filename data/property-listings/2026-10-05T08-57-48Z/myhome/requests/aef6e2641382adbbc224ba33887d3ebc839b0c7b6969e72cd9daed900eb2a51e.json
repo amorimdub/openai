@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=478",
+  "fetchedAt": "2026-10-05T14:20:49.274Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=478",
+  "kind": "search",
+  "responseSha256": "0ce012d6661bd2bd9a1ac8a2a2005596b55b3a874078ea8c27717451c4f7aa25",
+  "files": [
+    {
+      "path": "myhome/10359-aef6e2641382adbb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=478\"].SearchResults",
+      "sha256": "2dead2395c0137470fc6f99728e42460f3d1bb2045bf0c16a33759e72fda650e",
+      "bytes": 120521
+    },
+    {
+      "path": "myhome/10359-aef6e2641382adbb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=478\"] (paging fields)",
+      "sha256": "db8af1072ec30b21813204f717790bad98c3e9e77786513dbd0ed993fef9d45f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/toberoneill-ballindrait-lifford-co-donegal/5005210",
+    "https://www.myhome.ie/residential/brochure/loughanure-annagry-co-donegal/5005204",
+    "https://www.myhome.ie/residential/brochure/apartment-24-traders-wharf-dublin-8-dublin/5005188",
+    "https://www.myhome.ie/residential/brochure/kilnacash-mountmellick-emo-laois/5005183",
+    "https://www.myhome.ie/residential/brochure/new-street-abbeyfeale-co-limerick/5005189",
+    "https://www.myhome.ie/residential/brochure/milltown-road-doonbeg-county-clare/5005186",
+    "https://www.myhome.ie/residential/brochure/knockmark-drumree-co-meath/5005184",
+    "https://www.myhome.ie/residential/brochure/21-senandale-cloghroe-blarney-co-cork/5005176",
+    "https://www.myhome.ie/residential/brochure/maryswood-dooneen-castletownshend-west-cork/5005167",
+    "https://www.myhome.ie/residential/brochure/25-redwood-hollystown-dublin-15/4993216",
+    "https://www.myhome.ie/residential/brochure/68-lacken-view-naas-county-kildare/5005164",
+    "https://www.myhome.ie/residential/brochure/drummartin-heights-kilmacud-dublin-14/5005152",
+    "https://www.myhome.ie/residential/brochure/20-seagrave-way-finglas-dublin-11/5005134",
+    "https://www.myhome.ie/residential/brochure/ballyvally-killaloe-clare/4975770",
+    "https://www.myhome.ie/residential/brochure/5-woodlea-oatencake-midleton-cork/5004901",
+    "https://www.myhome.ie/residential/brochure/monellan-killygordon-co-donegal/5005144",
+    "https://www.myhome.ie/residential/brochure/tuckmill-kilbeloge-rossmore-clonakilty-west-cork/5005096",
+    "https://www.myhome.ie/residential/brochure/the-ash-oakfield-dunboyne-co-meath-4-bedroom-detached/4962909",
+    "https://www.myhome.ie/residential/brochure/bridgemount-phoenix-park-racecourse-castleknock-dublin-15/5005132",
+    "https://www.myhome.ie/residential/brochure/90-the-borough-moneygourney-douglas-cork-city/4995058"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=479",
+  "paginationLimited": false
+}

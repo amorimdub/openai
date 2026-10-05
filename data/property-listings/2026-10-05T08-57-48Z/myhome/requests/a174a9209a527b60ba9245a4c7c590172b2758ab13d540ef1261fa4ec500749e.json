@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=33",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=33",
+  "fetchedAt": "2026-10-05T09:28:50.729Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "69b9cf422656658c6f0f8e66edc4e49de5a24f490afbfeca1055abeb5d11db04",
+  "files": [
+    {
+      "path": "myhome/01236-a174a9209a527b60-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=33\"].SearchResults",
+      "sha256": "dc2d23083d93a07c103f367f0acef6e3481defff46855f75e4893a9cb19914cc",
+      "bytes": 103830
+    },
+    {
+      "path": "myhome/01236-a174a9209a527b60-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=33\"] (paging fields)",
+      "sha256": "2eff443593089a6bf9b5406420c2bdf21fa58e9f4eac16ef0ff4ca8449a97056",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/60-lisnaboley-claremorris-mayo/5031479",
+    "https://www.myhome.ie/residential/brochure/apartment-9-beechmount-49-glasnevin-hill-dublin-9-dublin/5031690",
+    "https://www.myhome.ie/residential/brochure/lower-mall-glin-limerick/5031480",
+    "https://www.myhome.ie/residential/brochure/corrib-rd-terenure-dublin-6w/5025410",
+    "https://www.myhome.ie/residential/brochure/apt-25-the-kilmore-santry-cross-santry-dublin-9/5030481",
+    "https://www.myhome.ie/residential/brochure/16-william-street-drogheda-co-louth/5031695",
+    "https://www.myhome.ie/residential/brochure/23-greenfield-manor-donnybrook-dublin-4/5029947",
+    "https://www.myhome.ie/residential/brochure/246-charlesland-wood-greystones-wicklow/5028533",
+    "https://www.myhome.ie/residential/brochure/61-rosan-glas-rahoon-galway-city/5031627",
+    "https://www.myhome.ie/residential/brochure/74-bridgemeadow-milehouse-road-enniscorthy-wexford/5031663",
+    "https://www.myhome.ie/residential/brochure/61-dangan-heights-dangan-galway-city/5031632",
+    "https://www.myhome.ie/residential/brochure/61-finnegan-house-viking-harbour-apartments-dublin-8-south-city-centre-dublin-8/5029103",
+    "https://www.myhome.ie/residential/brochure/68-calderwood-rd-drumcondra-dublin-9/4979482",
+    "https://www.myhome.ie/residential/brochure/73-kiltipper-drive-aylesbury-dublin-24/5031686",
+    "https://www.myhome.ie/residential/brochure/47-milltown-avenue-milltown-dublin-6/5028085",
+    "https://www.myhome.ie/residential/brochure/61-durrow-road-kimmage-dublin-12/5023609",
+    "https://www.myhome.ie/residential/brochure/meadow-view-maynooth-kildare/5031678",
+    "https://www.myhome.ie/residential/brochure/gorterslin-aclare-sligo/5028603",
+    "https://www.myhome.ie/residential/brochure/20-putland-villas-bray-wicklow/5031532",
+    "https://www.myhome.ie/residential/brochure/cloonagashel-ballymote-sligo/5028731"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=34",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/riverbank-hall-addison-park-glasnevin-dublin-11/6685667",
+  "fetchedAt": "2026-10-05T09:34:39.442Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/riverbank-hall-addison-park-glasnevin-dublin-11/6685667",
+  "kind": "listing",
+  "responseSha256": "a46591b3bc3d4d7bac8bf29dc54427e9b5ce5e7baa29ca6c21e686f38cac469b",
+  "files": [
+    {
+      "path": "daft/01473-2e27e29c55593cde-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4e93ba4bc9a6ede1d8447559870150af33c6e08733e414bec88dc69bdfaf6306",
+      "bytes": 24568
+    },
+    {
+      "path": "daft/01473-2e27e29c55593cde-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "47afe2e62e43ab14a6691b534e24db74c1bc20ae67640c4faf19f70d7f5f8f58",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

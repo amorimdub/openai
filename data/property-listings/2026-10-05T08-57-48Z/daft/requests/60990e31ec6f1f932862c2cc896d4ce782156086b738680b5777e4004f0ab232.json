@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/ballyhealy-kilmore-co-wexford/6683100",
+  "fetchedAt": "2026-10-05T09:10:40.494Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/ballyhealy-kilmore-co-wexford/6683100",
+  "kind": "listing",
+  "responseSha256": "c8b48939c1697b206c4e249b60b2e07bc381744bd1d1b034cdb5a18e042593a1",
+  "files": [
+    {
+      "path": "daft/00515-60990e31ec6f1f93-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "871ac151a1638b3426ef802416f4170f66de2e95679993e9552e7881193ad30c",
+      "bytes": 143840
+    },
+    {
+      "path": "daft/00515-60990e31ec6f1f93-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c2984d97da51ae3dcd28c2cf52503b37ec67b43ce95f363b806b131a17f7f344",
+      "bytes": 8119
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

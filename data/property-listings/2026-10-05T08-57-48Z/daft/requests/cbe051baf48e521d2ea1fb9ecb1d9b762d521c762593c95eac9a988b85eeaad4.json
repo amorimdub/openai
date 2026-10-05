@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-7-vale-view-apartments-main-street-stradbally-portlaoise-co-laois/6685044",
+  "fetchedAt": "2026-10-05T09:39:24.750Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-7-vale-view-apartments-main-street-stradbally-portlaoise-co-laois/6685044",
+  "kind": "listing",
+  "responseSha256": "71fbf65f98c125f932c48667c4dbb50964e7b9377dfffde60f1f9fb207961a3a",
+  "files": [
+    {
+      "path": "daft/01663-cbe051baf48e521d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "158e106bb95b29a1fb92ded68906a1ec3a894f429e0b24dd4abd2d47a61e9492",
+      "bytes": 45611
+    },
+    {
+      "path": "daft/01663-cbe051baf48e521d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b30400659b0f9474a4fd3dd61de74c378305282653228ceaf0d153a5f20bb611",
+      "bytes": 8145
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

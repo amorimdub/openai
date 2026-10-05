@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-u-hx-harolds-cross-road-harolds-cross-co-dublin/5634255",
+  "fetchedAt": "2026-10-05T09:08:10.321Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-u-hx-harolds-cross-road-harolds-cross-co-dublin/5634255",
+  "kind": "listing",
+  "responseSha256": "630aa142e4d662d30f9b14c529f48c834ff69a94b0f53a61028e4d5562a8e39e",
+  "files": [
+    {
+      "path": "daft/00415-7f40698b6bd5b62a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ad5e01f041915273a0abd4465b7bb57a03327f7702e5ed541c0be96f9d4584d7",
+      "bytes": 46109
+    },
+    {
+      "path": "daft/00415-7f40698b6bd5b62a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cb7559d5869cfca90a01443a9b4ea5c79fdd2f12cc605fef187b8804fdaa5d46",
+      "bytes": 8077
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

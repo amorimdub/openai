@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=128",
+  "fetchedAt": "2026-10-05T11:20:14.122Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=128",
+  "kind": "search",
+  "responseSha256": "1d1233c0a76396e78a52c4e89ec14388ddd9ec614bc2107768fe46c0c1254750",
+  "files": [
+    {
+      "path": "myhome/03156-42118424ea60d93e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=128\"].SearchResults",
+      "sha256": "f9abc09a31169710848a09af58f226def67f6272f8a39a85a37825c18fad3acb",
+      "bytes": 107274
+    },
+    {
+      "path": "myhome/03156-42118424ea60d93e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=128\"] (paging fields)",
+      "sha256": "51df65e8793ebf38873fd42733e8de30b2c64be057918be8ccda552cb93ae4da",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-296-the-elm-trimbleston-goatstown-dublin-14/5029393",
+    "https://www.myhome.ie/residential/brochure/48-aughrim-street-stoneybatter-dublin-7/5029587",
+    "https://www.myhome.ie/residential/brochure/apartment-1-clearwater-court-north-river-drive-royal-canal-park-dublin-15-d15w263/5029353",
+    "https://www.myhome.ie/residential/brochure/3b-durham-road-sandymount-dublin-4/5029567",
+    "https://www.myhome.ie/residential/brochure/1-the-mews-rushbrooke-links-cobh-cork/5029074",
+    "https://www.myhome.ie/residential/brochure/4-academy-court-academy-street-kildare-town-co-kildare/5029581",
+    "https://www.myhome.ie/residential/brochure/72-the-fairways-seabrook-manor-portmarnock-dublin/5029563",
+    "https://www.myhome.ie/residential/brochure/13-chestnut-hill-killeens-wexford-town-co-wexford/5029578",
+    "https://www.myhome.ie/residential/brochure/20-a-aras-na-cluaine-clondalkin-dublin-22/5029576",
+    "https://www.myhome.ie/residential/brochure/36-monkstown-road-monkstown-co-dublin/5029575",
+    "https://www.myhome.ie/residential/brochure/cornwall-killurin-wexford/5029570",
+    "https://www.myhome.ie/residential/brochure/16-hillside-close-skerries-dublin/5029572",
+    "https://www.myhome.ie/residential/brochure/47-shelbourne-village-grand-canal-dk-dublin-4/5028839",
+    "https://www.myhome.ie/residential/brochure/tulliglee-victoria-villas-victoria-cross-cork-city-cork/5029414",
+    "https://www.myhome.ie/residential/brochure/site-at-laurel-lodge-mill-road-corbally-limerick/5029565",
+    "https://www.myhome.ie/residential/brochure/31-harcourt-hall-charlotte-way-dublin-2/5029566",
+    "https://www.myhome.ie/residential/brochure/1-larkfield-gardens-harold-s-cross-dublin-6w/5029564",
+    "https://www.myhome.ie/residential/brochure/27-laurel-ridge-shanakiel-cork/5028237",
+    "https://www.myhome.ie/residential/brochure/apt-3-kelston-hall-foxrock-dublin-18/5026574",
+    "https://www.myhome.ie/residential/brochure/61-canterbrook-trim-road-navan-co-meath/4994320"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=129",
+  "paginationLimited": false
+}

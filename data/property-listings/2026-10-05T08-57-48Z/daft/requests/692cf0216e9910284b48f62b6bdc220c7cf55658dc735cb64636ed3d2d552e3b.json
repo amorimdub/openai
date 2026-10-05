@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-lad-lane-dublin-2-dublin-2/6685621",
+  "fetchedAt": "2026-10-05T09:10:25.477Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-lad-lane-dublin-2-dublin-2/6685621",
+  "kind": "listing",
+  "responseSha256": "e06eea5959125fc94c3706f0061c161d322c80cd0df8651234f7ff50472e1ab7",
+  "files": [
+    {
+      "path": "daft/00505-692cf0216e991028-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "aa2cc95b6e8d3bae35b777d2bb314bc7ddf936930956785a7a2af1bc33e8ab11",
+      "bytes": 34350
+    },
+    {
+      "path": "daft/00505-692cf0216e991028-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3f3c9639a28ee7f44784d930bb6284053c01e8de7a43d0902a3ed248904c1428",
+      "bytes": 8055
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

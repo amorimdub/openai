@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-scholarstown-wood-scholarstown-road-rathfarnham-dublin-14/6046073",
+  "fetchedAt": "2026-10-05T09:06:37.215Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-scholarstown-wood-scholarstown-road-rathfarnham-dublin-14/6046073",
+  "kind": "listing",
+  "responseSha256": "cc06bb92a1160529ed446dd7448d64f0f3818e3728786641b8359ebd46d2475a",
+  "files": [
+    {
+      "path": "daft/00353-9565af8870b8c2d1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cbe447864b01bd42258f5a0c542d6605be9e8d0ec8d699e3f18b8d32b01e4e00",
+      "bytes": 32469
+    },
+    {
+      "path": "daft/00353-9565af8870b8c2d1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f7b04c284012c8608ecb118fb5a6bc460d5a147fea3d482a5ec7dee1ea293bb2",
+      "bytes": 8144
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

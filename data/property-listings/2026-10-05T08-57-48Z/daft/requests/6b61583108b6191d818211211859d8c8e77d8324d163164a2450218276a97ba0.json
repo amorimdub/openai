@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-the-burbidge-lansdowne-place-ballsbridge-dublin-4/6677195",
+  "fetchedAt": "2026-10-05T09:19:38.199Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-the-burbidge-lansdowne-place-ballsbridge-dublin-4/6677195",
+  "kind": "listing",
+  "responseSha256": "ca4036d31d2fe72b21924c110916cf7ebd2bed05bbc6f2ff2a62a1a759207807",
+  "files": [
+    {
+      "path": "daft/00873-6b61583108b6191d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a51271fb10133f52e5b576f0fb253ab80a9e93de6fe44664bdd462e76a0ef07e",
+      "bytes": 72669
+    },
+    {
+      "path": "daft/00873-6b61583108b6191d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1f159a572a9bf7c8feb8b05950f7b8a645326f22ce54b79b3f678b0a1f01e135",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

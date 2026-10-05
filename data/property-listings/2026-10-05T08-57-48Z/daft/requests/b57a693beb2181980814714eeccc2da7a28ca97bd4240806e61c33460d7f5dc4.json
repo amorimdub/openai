@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cloonkeen-williamstown-co-galway/6684186",
+  "fetchedAt": "2026-10-05T09:43:59.669Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cloonkeen-williamstown-co-galway/6684186",
+  "kind": "listing",
+  "responseSha256": "91811b1fc56d64724947be559e2fec1f3b6412db4402b46348e252ccfe913f21",
+  "files": [
+    {
+      "path": "daft/01846-b57a693beb218198-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "789597002163be28f5c0a34ceacb956c984f59bf62056cd2af9be3b220839f6b",
+      "bytes": 32026
+    },
+    {
+      "path": "daft/01846-b57a693beb218198-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f763cae0be4fc004cf23268573ac4c3881794208c8deb3881d2afef92caf162d",
+      "bytes": 8083
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

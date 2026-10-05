@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ely-hall-hazelbrook-square-churchtown-dublin-14/6684179",
+  "fetchedAt": "2026-10-05T09:44:38.734Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ely-hall-hazelbrook-square-churchtown-dublin-14/6684179",
+  "kind": "listing",
+  "responseSha256": "30f05e1ad59a3d12f5c58836c1206e18ea61c7c1dbf8343997e2ce8e044c31d1",
+  "files": [
+    {
+      "path": "daft/01872-3a8b972f22b02525-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3268b59ffd59acf61e93a9c6f7a6f43398b04df964cf9f9b19ecca37d7c0c5fd",
+      "bytes": 32334
+    },
+    {
+      "path": "daft/01872-3a8b972f22b02525-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "72f1c29726d0e617d94b2872a3b96c8fc6cc2892810e48831265328af47660a9",
+      "bytes": 8124
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

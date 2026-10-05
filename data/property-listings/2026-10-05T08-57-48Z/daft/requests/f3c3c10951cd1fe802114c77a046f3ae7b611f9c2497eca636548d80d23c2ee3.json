@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bed-house-occu-scholarstown-scholarstown-road-ballyboden-co-dublin/5461432",
+  "fetchedAt": "2026-10-05T09:05:35.653Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bed-house-occu-scholarstown-scholarstown-road-ballyboden-co-dublin/5461432",
+  "kind": "listing",
+  "responseSha256": "c917028039e3821b23cb74f1a4b8d99d8068f26520ab3996633414d7d6dbda0a",
+  "files": [
+    {
+      "path": "daft/00312-f3c3c10951cd1fe8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e5aa796cfbf5fe5eb8196d68fdad2e87c0b8133fa1aeb5ec3df0e1be6988a6fc",
+      "bytes": 42176
+    },
+    {
+      "path": "daft/00312-f3c3c10951cd1fe8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "6d77efa14befed5cf5d3825cac3a4114284371144d5930ca7abb282e21ad15e3",
+      "bytes": 8105
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

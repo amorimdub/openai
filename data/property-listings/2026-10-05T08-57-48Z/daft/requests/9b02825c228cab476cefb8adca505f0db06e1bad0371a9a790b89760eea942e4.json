@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/marshall-yards-east-road-dublin-3/6141914",
+  "fetchedAt": "2026-10-05T08:59:15.279Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/marshall-yards-east-road-dublin-3/6141914",
+  "kind": "listing",
+  "responseSha256": "efd501f5c9c32f361314a9fc762c5016854c6a93ad8db4ba0b641eab5f70b4f0",
+  "files": [
+    {
+      "path": "daft/00059-9b02825c228cab47-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ca910cf18dfc895e05ae3fa14be2192e967a96c805acccbf09473ac5567313f1",
+      "bytes": 346224
+    },
+    {
+      "path": "daft/00059-9b02825c228cab47-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a02dd76e285acc1d0383707a8daca96041b3f541d718371990517f5865e37840",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

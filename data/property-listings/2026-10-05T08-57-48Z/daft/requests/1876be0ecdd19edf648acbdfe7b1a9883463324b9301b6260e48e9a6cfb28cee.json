@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/latton-ballybay-co-monaghan/6664598",
+  "fetchedAt": "2026-10-05T09:14:37.843Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/latton-ballybay-co-monaghan/6664598",
+  "kind": "listing",
+  "responseSha256": "519f8cab1443aac948bf8645b8e625dcc5d582cc4d4faf9fbabe34ba5c30b694",
+  "files": [
+    {
+      "path": "daft/00673-1876be0ecdd19edf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0265e3255ca1f1867dc35bb923f79c720659bde8e3c8846740d76721ed7aba45",
+      "bytes": 10988
+    },
+    {
+      "path": "daft/00673-1876be0ecdd19edf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "acc44166a970fefe0fe84ae7a1d319931e80aff898bb8ba4336a09a369e55bf5",
+      "bytes": 8209
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

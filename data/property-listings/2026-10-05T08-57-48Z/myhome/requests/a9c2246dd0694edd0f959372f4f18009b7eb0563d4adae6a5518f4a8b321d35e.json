@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=70",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=70",
+  "fetchedAt": "2026-10-05T09:48:00.042Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "10fbeb93fa8a1762d46776eaec39a7ab51b67d3545998761b01abdb1adc8bfd9",
+  "files": [
+    {
+      "path": "myhome/02001-a9c2246dd0694edd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=70\"].SearchResults",
+      "sha256": "685c9dfc23c913b8493f0034ac0b765fc6e38460eb22ddaa7dc8e05233f0fe5f",
+      "bytes": 108538
+    },
+    {
+      "path": "myhome/02001-a9c2246dd0694edd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=70\"] (paging fields)",
+      "sha256": "adc049e4bbcfcee075e51fd87ce7ad273c96658287aca5f505724c50a00fea86",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/31-belltree-avenue-clongriffin-dublin-13/5026993",
+    "https://www.myhome.ie/residential/brochure/barntick-clarecastle-ennis-co-clare/5031036",
+    "https://www.myhome.ie/residential/brochure/316-castlecurragh-heath-mulhuddart-dublin-15/5031031",
+    "https://www.myhome.ie/residential/brochure/72-the-park-millbrook-lawns-tallaght-dublin-24/5031021",
+    "https://www.myhome.ie/residential/brochure/apt-83-block-m-hanover-riverside-grand-canal-dock-dublin-2/5031027",
+    "https://www.myhome.ie/residential/brochure/52-villarea-park-glenageary-co-dublin/5031026",
+    "https://www.myhome.ie/residential/brochure/17-glenhilton-herbert-road-bray-wicklow/5031025",
+    "https://www.myhome.ie/residential/brochure/39-cromcastle-ave-coolock-dublin-5/5030975",
+    "https://www.myhome.ie/residential/brochure/4-marlfield-house-st-gabriels-cabinteely-dublin-18/5003081",
+    "https://www.myhome.ie/residential/brochure/26-addison-hall-addison-park-glasnevin-dublin-11/5024941",
+    "https://www.myhome.ie/residential/brochure/16-o-neachtain-road-drumcondra-dublin-9/5021055",
+    "https://www.myhome.ie/residential/brochure/111-river-village-monksland-athlone-co-roscommon/5031020",
+    "https://www.myhome.ie/residential/brochure/dunkereen-innishannon-cork/5031015",
+    "https://www.myhome.ie/residential/brochure/sandpit-termonfeckin-drogheda-co-louth/5031018",
+    "https://www.myhome.ie/residential/brochure/7-grace-park-avenue-drumcondra-dublin-3/5031013",
+    "https://www.myhome.ie/residential/brochure/7-thornberry-drive-stepaside-dublin-18/5026537",
+    "https://www.myhome.ie/residential/brochure/pillmore-youghal-cork/5030206",
+    "https://www.myhome.ie/residential/brochure/6-new-street-carrick-on-suir-co-tipperary/5031012",
+    "https://www.myhome.ie/residential/brochure/178-killeagh-gardens-killeagh-cork/5022016",
+    "https://www.myhome.ie/residential/brochure/9-derg-manor-dromineer-nenagh-co-tipperary/5031011"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=71",
+  "paginationLimited": false
+}

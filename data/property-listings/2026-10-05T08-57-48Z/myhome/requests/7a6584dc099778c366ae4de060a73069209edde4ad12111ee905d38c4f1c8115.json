@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=490",
+  "fetchedAt": "2026-10-05T14:26:57.543Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=490",
+  "kind": "search",
+  "responseSha256": "69bdcf5bc8914f5d47cfee0afc2c8e7597b22682f532e67306e0ed28d4c2ff54",
+  "files": [
+    {
+      "path": "myhome/10604-7a6584dc099778c3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=490\"].SearchResults",
+      "sha256": "016d1f76ea5a24c376b407ca1a2f650d1f64898d3e7a2015dbfd328d05f874b1",
+      "bytes": 115458
+    },
+    {
+      "path": "myhome/10604-7a6584dc099778c3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=490\"] (paging fields)",
+      "sha256": "adcb596f03dc3c62d6f1acff7f24a4e8a59b164cfaa985c132903479d9214303",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-bedroom-duplexes-woodbrook-point-woodbrook-shankill-co-dublin/5001724",
+    "https://www.myhome.ie/residential/brochure/3-bed-plus-study-homes-south-coast-at-woodbrook-shankill-co-dublin/4956484",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-homes-south-coast-at-woodbrook-shankill-co-dublin/4956485",
+    "https://www.myhome.ie/residential/brochure/windsor-house-donoghmore-co-limerick/5003738",
+    "https://www.myhome.ie/residential/brochure/doogary-kilkelly-mayo/5003218",
+    "https://www.myhome.ie/residential/brochure/carrighoun-house-poulavone-ballincollig-cork/5003279",
+    "https://www.myhome.ie/residential/brochure/lios-na-coille-keadue-road-leitrim-village-leitrim/5003702",
+    "https://www.myhome.ie/residential/brochure/the-valley-fethard-co-tipperary/5003695",
+    "https://www.myhome.ie/residential/brochure/lakenstown-ballynacarrigy-westmeath/5003672",
+    "https://www.myhome.ie/residential/brochure/irish-house-on-c-1-85-acres-creggs-road-glenamaddy-county-galway/5003687",
+    "https://www.myhome.ie/residential/brochure/doon-bay-road-doon-west-ballybunion-co-kerry/5002006",
+    "https://www.myhome.ie/residential/brochure/templeusque-glanmire-cork/5002863",
+    "https://www.myhome.ie/residential/brochure/clonlost-killucan-mullingar-killucan-co-westmeath/5003660",
+    "https://www.myhome.ie/residential/brochure/dromakeenan-roscrea-co-tipperary/5003640",
+    "https://www.myhome.ie/residential/brochure/kilternan-village-kilternan-dublin-18/5003625",
+    "https://www.myhome.ie/residential/brochure/the-crows-nest-barrack-green-kinsale-co-cork-kinsale-cork/5003613",
+    "https://www.myhome.ie/residential/brochure/47-canterbrook-navan-co-meath/5003607",
+    "https://www.myhome.ie/residential/brochure/boolteenagh-bantry-west-cork/5003594",
+    "https://www.myhome.ie/residential/brochure/glenhest-glenamuck-road-south-dublin-18/4997019",
+    "https://www.myhome.ie/residential/brochure/17-the-grove-clonard-road-wexford/5003600"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=491",
+  "paginationLimited": false
+}

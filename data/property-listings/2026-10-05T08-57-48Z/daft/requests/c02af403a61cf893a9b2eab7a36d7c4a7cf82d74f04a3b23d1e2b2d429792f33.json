@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/station-view-the-crossings-adamstown-co-dublin/5356044",
+  "fetchedAt": "2026-10-05T09:03:15.985Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/station-view-the-crossings-adamstown-co-dublin/5356044",
+  "kind": "listing",
+  "responseSha256": "1b5e4b440ebde436bddf45b48ffd40eaac5185b8c92c1c35b34bf54c345b096c",
+  "files": [
+    {
+      "path": "daft/00219-c02af403a61cf893-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "290ec7af83198af840b8f642c44274dd1ae90d861d04d2d0c61cda6331b25ac8",
+      "bytes": 185883
+    },
+    {
+      "path": "daft/00219-c02af403a61cf893-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4280c81bfbc8a1677d027c879aa4c10094318f6c31fb74105ec47b0965a32669",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

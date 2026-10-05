@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/23-corbally-avenue-citywest-co-dublin/6671929",
+  "fetchedAt": "2026-10-05T09:28:32.995Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/23-corbally-avenue-citywest-co-dublin/6671929",
+  "kind": "listing",
+  "responseSha256": "a35749615da7547c1b34c5090f0aef125fa0f947a353382344cae98b3f2631ee",
+  "files": [
+    {
+      "path": "daft/01229-5a60e0bebf4919ba-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "26908f987b58ac50f10936970760d0c4666a54a0ccbfddee2c1f61d77531c9ed",
+      "bytes": 82122
+    },
+    {
+      "path": "daft/01229-5a60e0bebf4919ba-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3ea777dd9ebef7c68465e21edb1fb52ffc4c8a0987ade79b96cdfab8e8f3619b",
+      "bytes": 8014
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

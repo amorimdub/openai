@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=358",
+  "fetchedAt": "2026-10-05T13:18:56.077Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=358",
+  "kind": "search",
+  "responseSha256": "7fecdcafcbe2fdbfcd0ce99c9ebc5db0bc6bee357c036548e25cfe33e7b44557",
+  "files": [
+    {
+      "path": "myhome/07889-df2cb9cebf977bfb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=358\"].SearchResults",
+      "sha256": "69e2680a4f2eff515a2f8a55c83f22b514ab813fcbfef81a240b7b291bad60c2",
+      "bytes": 121461
+    },
+    {
+      "path": "myhome/07889-df2cb9cebf977bfb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=358\"] (paging fields)",
+      "sha256": "622da4fc7ae59e8ee7cb9e02bc476a9d3b04a2584781d1293656dc4099fcca85",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/sanderling-grange-fethard-co-wexford/5019328",
+    "https://www.myhome.ie/residential/brochure/28-summerseat-crescent-clonee-dublin-15-d15-te69/5019326",
+    "https://www.myhome.ie/residential/brochure/136-o-rourke-park-sallynoggin-dublin/5019314",
+    "https://www.myhome.ie/residential/brochure/downey-s-cottage-scarriff-midleton-cork/5019323",
+    "https://www.myhome.ie/residential/brochure/54-fearann-r-galway-doughiska-co-galway/5019315",
+    "https://www.myhome.ie/residential/brochure/17-latchford-park-clonee-dublin-15/5018777",
+    "https://www.myhome.ie/residential/brochure/3-belgrave-place-glenbrook-passage-west-cork/5018436",
+    "https://www.myhome.ie/residential/brochure/the-anchor-ardkilly-sandycove-kinsale-co-cork/5019300",
+    "https://www.myhome.ie/residential/brochure/7-the-berkley-newtownforbes-co-longford/5019299",
+    "https://www.myhome.ie/residential/brochure/clahane-ballyard-kerry/5010081",
+    "https://www.myhome.ie/residential/brochure/107-buttercup-park-dublin-17-dublin/5019287",
+    "https://www.myhome.ie/residential/brochure/15-brindley-park-square-ashbourne-co-meath/5019280",
+    "https://www.myhome.ie/residential/brochure/161-cherryfield-road-walkinstown-dublin-12/5019269",
+    "https://www.myhome.ie/residential/brochure/17-rath-abhainn-kilkenny-road-carlow/5019270",
+    "https://www.myhome.ie/residential/brochure/2-parkleigh-row-seven-mills-clondalkin-dublin-22/5019262",
+    "https://www.myhome.ie/residential/brochure/5-summerhill-court-summerhill-carrick-on-shannon-leitrim/5019260",
+    "https://www.myhome.ie/residential/brochure/raclaghy-mountnugent-co-cavan/5019257",
+    "https://www.myhome.ie/residential/brochure/7-millrace-drive-saggart-co-dublin/5019255",
+    "https://www.myhome.ie/residential/brochure/8-cluain-airne-clybaun-road-knocknacarra-co-galway/5019245",
+    "https://www.myhome.ie/residential/brochure/no-3-deerpark-shronell-lattin-tipperary/5009345"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=359",
+  "paginationLimited": false
+}

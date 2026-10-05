@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=139",
+  "fetchedAt": "2026-10-05T11:25:56.626Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=139",
+  "kind": "search",
+  "responseSha256": "9d3f43d5adfcd6733fb5b148a467e5159e560aec9e7c65da055a621a697b544f",
+  "files": [
+    {
+      "path": "myhome/03384-84783c145aef60c5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=139\"].SearchResults",
+      "sha256": "b351f9300ff7ff7cbb5fdc6c4f5f707a853f297186d1ec43002e7841c2a5a651",
+      "bytes": 127255
+    },
+    {
+      "path": "myhome/03384-84783c145aef60c5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=139\"] (paging fields)",
+      "sha256": "f96fc45e0e7b1ce0f12d667cebe3c94d835baddc742975e54cd679d16d84a29c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/robinstown-mullingar-mullingar-co-westmeath-mullingar-westmeath/5029229",
+    "https://www.myhome.ie/residential/brochure/clonbonny-athlone-fardrum-co-westmeath-athlone-westmeath/5029227",
+    "https://www.myhome.ie/residential/brochure/carhoo-dunquin-kerry/5018713",
+    "https://www.myhome.ie/residential/brochure/57-kenilworth-square-rathgar-dublin-6/5024258",
+    "https://www.myhome.ie/residential/brochure/49-iveagh-gardens-crumlin-dublin-12/5029226",
+    "https://www.myhome.ie/residential/brochure/31-rossvale-mountmellick-road-portlaoise-co-laois/5029225",
+    "https://www.myhome.ie/residential/brochure/74-grian-n-westbury-corbally-county-clare/5029221",
+    "https://www.myhome.ie/residential/brochure/17-college-avenue-malahide-road-balgriffin-dublin-17/5029220",
+    "https://www.myhome.ie/residential/brochure/46-deerpark-road-tallaght-dublin-24/5029218",
+    "https://www.myhome.ie/residential/brochure/avila-healy-s-lane-church-street-skerries-co-dublin/5029217",
+    "https://www.myhome.ie/residential/brochure/park-road-monaghan-town-monaghan/5029215",
+    "https://www.myhome.ie/residential/brochure/102-gleann-na-ri-murrough-galway-city/5023530",
+    "https://www.myhome.ie/residential/brochure/20-pairc-an-oir-rathcormac-co-cork/5029214",
+    "https://www.myhome.ie/residential/brochure/14-drumcairn-park-tallaght-dublin-24/4999006",
+    "https://www.myhome.ie/residential/brochure/48-derry-drive-crumlin-dublin-12/5018592",
+    "https://www.myhome.ie/residential/brochure/256-stannaway-road-kimmage-dublin-12/5018579",
+    "https://www.myhome.ie/residential/brochure/20-ramleh-park-milltown-dublin-6/5021811",
+    "https://www.myhome.ie/residential/brochure/4-laurel-grove-dublin-road-thurles-co-tipperary/5029212",
+    "https://www.myhome.ie/residential/brochure/20-fairhaven-close-castleknock-dublin-15/5029211",
+    "https://www.myhome.ie/residential/brochure/35-castlefield-hall-clonsilla-dublin-15/5029210"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=140",
+  "paginationLimited": false
+}

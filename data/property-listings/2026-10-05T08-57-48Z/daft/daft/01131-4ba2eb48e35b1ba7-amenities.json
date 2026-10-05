@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BENNETTSBRIDGE NATIONAL SCHOOL",
+      "numPupils": 205,
+      "distance": {
+        "value": 2.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.592194",
+        "lon": "-7.182440"
+      }
+    },
+    {
+      "schoolName": "ST MICHAELS NATIONAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.583107",
+        "lon": "-7.242003"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL OSRAI",
+      "numPupils": 442,
+      "distance": {
+        "value": 4.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.639410",
+        "lon": "-7.246219"
+      }
+    },
+    {
+      "schoolName": "KILKENNY SCHOOL PROJECT",
+      "numPupils": 240,
+      "distance": {
+        "value": 4.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.638103",
+        "lon": "-7.251889"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS SPEC SCH",
+      "numPupils": 92,
+      "distance": {
+        "value": 4.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.633130",
+        "lon": "-7.260182"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S DE LA SALLE BOYS NATIONAL SCHOOL",
+      "numPupils": 341,
+      "distance": {
+        "value": 5.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.645070",
+        "lon": "-7.253743"
+      }
+    },
+    {
+      "schoolName": "ST JOHN OF GOD KILKENNY",
+      "numPupils": 331,
+      "distance": {
+        "value": 5.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.646484",
+        "lon": "-7.252157"
+      }
+    },
+    {
+      "schoolName": "SCHOOL OF THE HOLY SPIRIT SPECIAL SCHOOL",
+      "numPupils": 84,
+      "distance": {
+        "value": 5.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.637240",
+        "lon": "-7.266751"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 6.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.651196",
+        "lon": "-7.255964"
+      }
+    },
+    {
+      "schoolName": "THE LAKE JUNIOR SCHOOL",
+      "numPupils": 223,
+      "distance": {
+        "value": 6.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.654297",
+        "lon": "-7.249860"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "Presentation Secondary School",
+      "numPupils": 902,
+      "distance": {
+        "value": 4.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.639033",
+        "lon": "-7.247444"
+      }
+    },
+    {
+      "schoolName": "ST KIERAN'S COLLEGE",
+      "numPupils": 802,
+      "distance": {
+        "value": 5.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.646954",
+        "lon": "-7.255469"
+      }
+    },
+    {
+      "schoolName": "CITY VOCATIONAL SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 5.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.647778",
+        "lon": "-7.254472"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE POBAIL OSRAÍ",
+      "numPupils": 222,
+      "distance": {
+        "value": 5.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.648780",
+        "lon": "-7.252867"
+      }
+    },
+    {
+      "schoolName": "C.B.S. KILKENNY",
+      "numPupils": 836,
+      "distance": {
+        "value": 6.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.653114",
+        "lon": "-7.256880"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 994,
+      "distance": {
+        "value": 6.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658916",
+        "lon": "-7.260898"
+      }
+    },
+    {
+      "schoolName": "KILKENNY COLLEGE",
+      "numPupils": 919,
+      "distance": {
+        "value": 7.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.667820",
+        "lon": "-7.247668"
+      }
+    },
+    {
+      "schoolName": "GRENNAN COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 9.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.528297",
+        "lon": "-7.142543"
+      }
+    },
+    {
+      "schoolName": "CALLAN CBS",
+      "numPupils": 267,
+      "distance": {
+        "value": 14.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.549587",
+        "lon": "-7.385986"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S COLLEGE",
+      "numPupils": 244,
+      "distance": {
+        "value": 14.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.548460",
+        "lon": "-7.388279"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Bennettsbridge",
+      "route": "73",
+      "destination": "Longford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.592163",
+        "lon": "-7.184389"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bennettsbridge",
+      "route": "374",
+      "destination": "Kilkenny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.592163",
+        "lon": "-7.184389"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bennettsbridge",
+      "route": "882",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 2.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.591758",
+        "lon": "-7.184308"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Danville B Park",
+      "route": "KK1",
+      "destination": "Danville Business Park",
+      "provider": "City Direct",
+      "distance": {
+        "value": 3.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.636263",
+        "lon": "-7.236224"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Danesfort",
+      "route": "891",
+      "destination": "Fiddown",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 3.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.5831016",
+        "lon": "-7.2388785"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Archers Cres",
+      "route": "KK1",
+      "destination": "Danville Business Park",
+      "provider": "City Direct",
+      "distance": {
+        "value": 4.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.638968",
+        "lon": "-7.238881"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gallowshill",
+      "route": "881",
+      "destination": "Graiguenamanagh",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 4.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.64255",
+        "lon": "-7.23248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gallowshill",
+      "route": "IW01",
+      "destination": "Carlow Institute",
+      "provider": "Dunnes Coaches",
+      "distance": {
+        "value": 4.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.64255",
+        "lon": "-7.23248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gallowshill",
+      "route": "882",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 4.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.64255",
+        "lon": "-7.23248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Springhill",
+      "route": "891",
+      "destination": "Fiddown",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 4.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6323271",
+        "lon": "-7.2521219"
+      }
+    }
+  ]
+}

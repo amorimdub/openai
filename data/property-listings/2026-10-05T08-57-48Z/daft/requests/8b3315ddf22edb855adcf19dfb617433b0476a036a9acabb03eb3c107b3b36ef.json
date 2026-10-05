@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/45-cloch-g-oranmore-oranmore-co-galway/6686014",
+  "fetchedAt": "2026-10-05T09:30:15.166Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/45-cloch-g-oranmore-oranmore-co-galway/6686014",
+  "kind": "listing",
+  "responseSha256": "6acde2fe79ba7f21030ec455785609bd85b26e58ae37741fe0120f1184b67790",
+  "files": [
+    {
+      "path": "daft/01297-8b3315ddf22edb85-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1d1ba3e2a8b6f754b095842cc0f8b1f1f772b704fe11930fd4a1ad50858467a5",
+      "bytes": 30987
+    },
+    {
+      "path": "daft/01297-8b3315ddf22edb85-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "018609ae38ef80a71454e597ab9ad6c16be2889c94e6031a5a86ad722b338c46",
+      "bytes": 8033
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

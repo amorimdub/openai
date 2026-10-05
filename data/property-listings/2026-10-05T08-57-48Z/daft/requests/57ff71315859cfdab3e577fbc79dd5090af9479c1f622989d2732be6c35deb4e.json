@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-23-penrose-court-waterford-city-centre-co-waterford/6686007",
+  "fetchedAt": "2026-10-05T09:32:10.790Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-23-penrose-court-waterford-city-centre-co-waterford/6686007",
+  "kind": "listing",
+  "responseSha256": "81f25533422c797cc87d9e26e50719dbcfcc3556aed827bc61d50c149cee9ab8",
+  "files": [
+    {
+      "path": "daft/01374-57ff71315859cfda-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b589f4437a0c4ff4c100ce4ffd0ff26ec2e153ed95ddc39cfd1ef64563fc13e6",
+      "bytes": 36702
+    },
+    {
+      "path": "daft/01374-57ff71315859cfda-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e1a70ec7e2ef1fc4870061538cb77930a3fad9d4fa96d9f1b77872bd25da6a3f",
+      "bytes": 8238
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

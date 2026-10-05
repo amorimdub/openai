@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "KILCOONA NATIONAL SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 1.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.442257",
+        "lon": "-9.042659"
+      }
+    },
+    {
+      "schoolName": "CASTLEHACKETT NATIONAL SCHOOL",
+      "numPupils": 52,
+      "distance": {
+        "value": 3.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.449642",
+        "lon": "-8.983007"
+      }
+    },
+    {
+      "schoolName": "CORRANDULLA NATIONAL SCHOOL",
+      "numPupils": 284,
+      "distance": {
+        "value": 4.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.397200",
+        "lon": "-8.994183"
+      }
+    },
+    {
+      "schoolName": "CLOUGHANOWER NATIONAL SCHOOL",
+      "numPupils": 72,
+      "distance": {
+        "value": 4.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.445620",
+        "lon": "-9.095290"
+      }
+    },
+    {
+      "schoolName": "S N EANACH DHUIN",
+      "numPupils": 137,
+      "distance": {
+        "value": 5.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.386715",
+        "lon": "-9.066417"
+      }
+    },
+    {
+      "schoolName": "HEADFORD PRIMARY SCHOOL",
+      "numPupils": 138,
+      "distance": {
+        "value": 7.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.469246",
+        "lon": "-9.110645"
+      }
+    },
+    {
+      "schoolName": "DONAGHPATRICK NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 7.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.496986",
+        "lon": "-9.022345"
+      }
+    },
+    {
+      "schoolName": "SCOIL NAOMH PÁDRAIG",
+      "numPupils": 64,
+      "distance": {
+        "value": 7.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.489132",
+        "lon": "-9.081947"
+      }
+    },
+    {
+      "schoolName": "CLYDAGH NATIONAL SCHOOL",
+      "numPupils": 18,
+      "distance": {
+        "value": 7.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.442184",
+        "lon": "-9.145137"
+      }
+    },
+    {
+      "schoolName": "CORRANDRUM NATIONAL SCHOOL",
+      "numPupils": 69,
+      "distance": {
+        "value": 7.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.410362",
+        "lon": "-8.910871"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "PRESENTATION COLLEGE",
+      "numPupils": 845,
+      "distance": {
+        "value": 6.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.468372",
+        "lon": "-9.110352"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BHAILE CHLÁIR",
+      "numPupils": 1315,
+      "distance": {
+        "value": 12.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.334420",
+        "lon": "-8.936802"
+      }
+    },
+    {
+      "schoolName": "ARCHBISHOP MCHALE COLLEGE",
+      "numPupils": 471,
+      "distance": {
+        "value": 14.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.510475",
+        "lon": "-8.845329"
+      }
+    },
+    {
+      "schoolName": "ST. BRIGID'S SCHOOL",
+      "numPupils": 391,
+      "distance": {
+        "value": 14.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.512794",
+        "lon": "-8.847919"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COLLEGE",
+      "numPupils": 499,
+      "distance": {
+        "value": 15.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513935",
+        "lon": "-8.848675"
+      }
+    },
+    {
+      "schoolName": "HIGH CROSS COLLEGE",
+      "numPupils": 827,
+      "distance": {
+        "value": 15.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.517776",
+        "lon": "-8.850113"
+      }
+    },
+    {
+      "schoolName": "ST. JARLATH'S COLLEGE",
+      "numPupils": 706,
+      "distance": {
+        "value": 15.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.515810",
+        "lon": "-8.846010"
+      }
+    },
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 16.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MHUIRLINNE/MERLIN COLLEGE",
+      "numPupils": 725,
+      "distance": {
+        "value": 16.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283947",
+        "lon": "-8.983322"
+      }
+    },
+    {
+      "schoolName": "GALWAY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 350,
+      "distance": {
+        "value": 17.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274510",
+        "lon": "-8.998752"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ballydonnellan",
+      "route": "435",
+      "destination": "Eyre Square",
+      "provider": "Burkesbus",
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.424693",
+        "lon": "-9.034732"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballydonnellan",
+      "route": "456",
+      "destination": "Castlebar",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.424648",
+        "lon": "-9.034761"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bunatober",
+      "route": "438",
+      "destination": "Galway Cathedral",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 1.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.427366",
+        "lon": "-9.007477"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bunatubber",
+      "route": "438",
+      "destination": "Tuam",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.42727",
+        "lon": "-9.00739"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bunatubber",
+      "route": "441",
+      "destination": "Corofin",
+      "provider": "Farragher Travel",
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.42625",
+        "lon": "-9.00751"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "An Ghráinseach",
+      "route": "435",
+      "destination": "Ballinrobe South",
+      "provider": "Burkesbus",
+      "distance": {
+        "value": 1.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.41576",
+        "lon": "-9.02547"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mausrevagh",
+      "route": "435",
+      "destination": "University South",
+      "provider": "Burkesbus",
+      "distance": {
+        "value": 2.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.43222",
+        "lon": "-9.0568"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahermorris",
+      "route": "441",
+      "destination": "Tuam O'Toole's",
+      "provider": "Farragher Travel",
+      "distance": {
+        "value": 2.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.426438",
+        "lon": "-8.995532"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "An Ghráinseach",
+      "route": "456",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.410405",
+        "lon": "-9.018893"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Crois Chor an Dola",
+      "route": "456",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.403954",
+        "lon": "-9.017008"
+      }
+    }
+  ]
+}

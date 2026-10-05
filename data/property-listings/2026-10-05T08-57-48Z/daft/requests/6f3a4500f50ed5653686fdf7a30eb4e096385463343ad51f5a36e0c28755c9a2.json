@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/26-fountain-court-tralee-tralee-co-kerry/6662967",
+  "fetchedAt": "2026-10-05T09:35:47.021Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/26-fountain-court-tralee-tralee-co-kerry/6662967",
+  "kind": "listing",
+  "responseSha256": "e5c2a430415d1e65932d13a0ff2754e760d41eebdc047b1be48f133fc6d5d46d",
+  "files": [
+    {
+      "path": "daft/01518-6f3a4500f50ed565-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "001ffde6c1adf0f36d1ed85fdda9bdcd1b7c2c72430502b7fb53cbe615eab0b2",
+      "bytes": 59562
+    },
+    {
+      "path": "daft/01518-6f3a4500f50ed565-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "52e73014b034b4850074372adb91bac09a84d94264b5c756040c43d349ee11d3",
+      "bytes": 8105
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

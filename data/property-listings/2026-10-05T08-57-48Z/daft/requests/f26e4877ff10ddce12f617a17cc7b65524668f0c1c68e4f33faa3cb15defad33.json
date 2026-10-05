@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-the-links-elmpark-merrion-dublin-4/6685939",
+  "fetchedAt": "2026-10-05T09:32:24.306Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-the-links-elmpark-merrion-dublin-4/6685939",
+  "kind": "listing",
+  "responseSha256": "32575b103186bf0c3bb9647ce56cefef78949aec2336a6b28f263922ba0f271c",
+  "files": [
+    {
+      "path": "daft/01383-f26e4877ff10ddce-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1c2b4cfc0993e67d64a96b45f7a0fb2310afd2cb44753d3d48ece5759794f1d4",
+      "bytes": 23946
+    },
+    {
+      "path": "daft/01383-f26e4877ff10ddce-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f8673ccf87fe9fb299cd208057e4417c5c5e23852221c901b12f3156bff0e96f",
+      "bytes": 8123
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=390",
+  "fetchedAt": "2026-10-05T13:35:32.544Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=390",
+  "kind": "search",
+  "responseSha256": "0a079ad37b5f9e9f7699cf70387b48a252c33a9eccfa0856769f49e69b8977db",
+  "files": [
+    {
+      "path": "myhome/08552-9c4804b8465eacf1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=390\"].SearchResults",
+      "sha256": "1e6049a617d66e591da97d542b759e70231e27df3ae7406ed684205441fe9aca",
+      "bytes": 127196
+    },
+    {
+      "path": "myhome/08552-9c4804b8465eacf1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=390\"] (paging fields)",
+      "sha256": "8b8733b1c86bbdf1ac0b5eea58cfcc17d4761636400ca996b247dc74acbe670f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tawnagh-lahardane-ballina-co-mayo/5016888",
+    "https://www.myhome.ie/residential/brochure/curragha-road-ratoath-meath/5011175",
+    "https://www.myhome.ie/residential/brochure/kylemore-house-2-bed-larger-apt-kylemore-at-church-road-killiney-county-dublin/5016881",
+    "https://www.myhome.ie/residential/brochure/mweenish-island-carna-galway/5016873",
+    "https://www.myhome.ie/residential/brochure/24-kenley-close-model-farm-road-ballincollig-cork/5016856",
+    "https://www.myhome.ie/residential/brochure/homeleigh-76-dublin-rd-sutton-dublin-13/5003350",
+    "https://www.myhome.ie/residential/brochure/gannoughs-cleggan-co-galway/5016860",
+    "https://www.myhome.ie/residential/brochure/saint-martins-coolattin-road-carnew-wicklow/5016848",
+    "https://www.myhome.ie/residential/brochure/109-allen-view-heights-newbridge-newbridge-co-kildare/5016844",
+    "https://www.myhome.ie/residential/brochure/seven-winds-2-bed-ground-floor-apartment-drogheda-louth/5016842",
+    "https://www.myhome.ie/residential/brochure/2-mayeston-rise-saint-margaret-s-road-d11-khr3-poppintree-dublin-11/5016830",
+    "https://www.myhome.ie/residential/brochure/24-connolly-street-arklow-wicklow/5016838",
+    "https://www.myhome.ie/residential/brochure/killerduff-ballycastle-co-mayo/5016840",
+    "https://www.myhome.ie/residential/brochure/lisdermot-ferbane-co-offaly/5016839",
+    "https://www.myhome.ie/residential/brochure/224-bru-na-sionna-shannon-co-clare/5016832",
+    "https://www.myhome.ie/residential/brochure/carmel-cottage-bree-castleblayney-monaghan/5009872",
+    "https://www.myhome.ie/residential/brochure/creevagh-heights-creevagh-carrowmore-lacken-ballina-mayo/5016812",
+    "https://www.myhome.ie/residential/brochure/74-lohunda-downs-clonsilla-dublin-15/5016808",
+    "https://www.myhome.ie/residential/brochure/17-ralahine-ballybrack-co-dublin/5016811",
+    "https://www.myhome.ie/residential/brochure/8-retreat-road-manor-retreat-road-athlone-co-westmeath/5016810"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=391",
+  "paginationLimited": false
+}

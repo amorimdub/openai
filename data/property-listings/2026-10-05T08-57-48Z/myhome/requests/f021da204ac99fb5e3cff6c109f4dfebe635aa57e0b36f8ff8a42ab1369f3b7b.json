@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=183",
+  "fetchedAt": "2026-10-05T11:48:52.566Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=183",
+  "kind": "search",
+  "responseSha256": "275d6673c7c94460113e8ebf773ac4168ddc1a07b31d5b9872716720d37723f1",
+  "files": [
+    {
+      "path": "myhome/04299-f021da204ac99fb5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=183\"].SearchResults",
+      "sha256": "0d853d0f23613b680bc3bf431d17386de721263e4294f2c989e510ca349bdf0c",
+      "bytes": 101245
+    },
+    {
+      "path": "myhome/04299-f021da204ac99fb5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=183\"] (paging fields)",
+      "sha256": "6421c20e762676338dd21b17186deaa9cfd8660a6130a616811b073a87d745a8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-57-block-c-east-courtyard-tullyvale-dublin-18/5028091",
+    "https://www.myhome.ie/residential/brochure/56-farneyhoogan-longford-longford/5028081",
+    "https://www.myhome.ie/residential/brochure/85-cherry-garth-swords-county-dublin/5028080",
+    "https://www.myhome.ie/residential/brochure/killincooley-beg-kilmuckridge-co-wexford/5028084",
+    "https://www.myhome.ie/residential/brochure/ballinastack-corofin-galway/5028083",
+    "https://www.myhome.ie/residential/brochure/6-wesley-court-kilkenny-kilkenny/5028078",
+    "https://www.myhome.ie/residential/brochure/19-pine-copse-road-dundrum-dublin-16/5028082",
+    "https://www.myhome.ie/residential/brochure/ower-headford-galway/5028077",
+    "https://www.myhome.ie/residential/brochure/tomnahulla-corrandulla-galway/5028076",
+    "https://www.myhome.ie/residential/brochure/18-tuscany-park-baldoyle-dublin-13/5028073",
+    "https://www.myhome.ie/residential/brochure/claren-headford-galway/5028072",
+    "https://www.myhome.ie/residential/brochure/128-cappagh-avenue-finglas-dublin-11/5028071",
+    "https://www.myhome.ie/residential/brochure/ward-farm-spricklestown-the-ward-co-dublin/5005374",
+    "https://www.myhome.ie/residential/brochure/7-belgree-court-kilbride-co-meath/5015649",
+    "https://www.myhome.ie/residential/brochure/balroebuck-beg-corrandulla-galway/5028065",
+    "https://www.myhome.ie/residential/brochure/21-holywell-court-swords-dublin/5011224",
+    "https://www.myhome.ie/residential/brochure/house-on-7-8-acres-ballyfallon-athboy-co-meath/5028064",
+    "https://www.myhome.ie/residential/brochure/phase-2-linenfield-ballymakenny-road-drogheda-louth/5004572",
+    "https://www.myhome.ie/residential/brochure/phase-2-linenfield-ballymakenny-drogheda-louth/5004621",
+    "https://www.myhome.ie/residential/brochure/4-castleknock-laurels-castleknock-dublin-15/5028062"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=184",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/140-curlew-road-dublin-12-drimnagh-dublin-12/6685827",
+  "fetchedAt": "2026-10-05T09:34:10.912Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/140-curlew-road-dublin-12-drimnagh-dublin-12/6685827",
+  "kind": "listing",
+  "responseSha256": "e6e5d5d0e612540abaf2cee424e9191cc6abf6dc72045de6324c8dc1d270df13",
+  "files": [
+    {
+      "path": "daft/01454-82fbaff77155f61c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fde608379ec8ca3346cb811e4079173a128fe65a0fe3118a3c3b44376320b5ba",
+      "bytes": 39442
+    },
+    {
+      "path": "daft/01454-82fbaff77155f61c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bc635578a42b310c36e0a7effa4b39cce82e21acc6b72f3c791eb070bc20bd5e",
+      "bytes": 8081
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

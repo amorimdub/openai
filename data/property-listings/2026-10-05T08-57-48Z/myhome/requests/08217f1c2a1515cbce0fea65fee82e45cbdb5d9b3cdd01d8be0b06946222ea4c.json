@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=440",
+  "fetchedAt": "2026-10-05T14:01:07.817Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=440",
+  "kind": "search",
+  "responseSha256": "e51415da7db67b4a7747c4e07bb4602a4344225e8ae49821698893518090c409",
+  "files": [
+    {
+      "path": "myhome/09573-08217f1c2a1515cb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=440\"].SearchResults",
+      "sha256": "6242161ad194b8cb26d9d442649f89d105efa88c0a195b4632159010841e1978",
+      "bytes": 123761
+    },
+    {
+      "path": "myhome/09573-08217f1c2a1515cb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=440\"] (paging fields)",
+      "sha256": "21a42bfed65d68b99a805f316a046030d4ef65d4df8617dd6cb06280155b5bae",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/inistioge-raystown-ratoath-meath-co-meath/4999342",
+    "https://www.myhome.ie/residential/brochure/o-ragallaig-tig-beag-3-main-street-ardmore-waterford/5006800",
+    "https://www.myhome.ie/residential/brochure/saint-ronan-s-rockbarton-park-salthill-galway-city/5009814",
+    "https://www.myhome.ie/residential/brochure/the-raven-curracloe-wexford/5009799",
+    "https://www.myhome.ie/residential/brochure/23a-fairbrook-lawn-rathfarnham-dublin-14/4984824",
+    "https://www.myhome.ie/residential/brochure/47-cluain-ri-athenry-co-galway/5009786",
+    "https://www.myhome.ie/residential/brochure/18-alder-lodge-farmleigh-avenue-farmleigh-woods-castleknock/4971751",
+    "https://www.myhome.ie/residential/brochure/the-holly-3-bedroom-semi-detached-oakmount-altidore-gardens-newtownmountkennedy-wicklow/4971730",
+    "https://www.myhome.ie/residential/brochure/sycamore-cottage-urbalshinney-milford-county-donegal/5009771",
+    "https://www.myhome.ie/residential/brochure/3-scholarstown-park-rathfarnham-dublin-16/4987668",
+    "https://www.myhome.ie/residential/brochure/the-ash-3-bedroom-end-of-terrace-oakmount-altidore-gardens-newtownmountkennedy-wicklow/4972437",
+    "https://www.myhome.ie/residential/brochure/bowgate-street-ballinrobe-county-mayo/5009757",
+    "https://www.myhome.ie/residential/brochure/rosmeen-georges-street-mitchelstown-cork/5009752",
+    "https://www.myhome.ie/residential/brochure/shandrum-killenagh-gorey-county-wexford/5009741",
+    "https://www.myhome.ie/residential/brochure/51-crumlin-road-crumlin-dublin-12/5005833",
+    "https://www.myhome.ie/residential/brochure/kilmurray-dungarvan-waterford/5009727",
+    "https://www.myhome.ie/residential/brochure/13-belvedere-square-north-circular-road-dublin-1/5005668",
+    "https://www.myhome.ie/residential/brochure/27-fairview-close-fairview-dublin-3/5009736",
+    "https://www.myhome.ie/residential/brochure/cullenstown-duncormick-co-wexford/5005101",
+    "https://www.myhome.ie/residential/brochure/267-st-james-road-greenhills-walkinstown-dublin-12/5004714"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=441",
+  "paginationLimited": false
+}

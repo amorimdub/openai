@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/10-ardagh-drive-blackrock-co-dublin/6621944",
+  "fetchedAt": "2026-10-05T09:42:15.995Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/10-ardagh-drive-blackrock-co-dublin/6621944",
+  "kind": "listing",
+  "responseSha256": "3994ff2e304c1e9a3a7db9995980fc2771f6ac2b1c654bbb6341a30845cfbbc0",
+  "files": [
+    {
+      "path": "daft/01777-2013d89377b69336-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2d5db12ddf4e3b0a724cb4882147075e6b0cf9123ea15bf297de556169cfa107",
+      "bytes": 81255
+    },
+    {
+      "path": "daft/01777-2013d89377b69336-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0c5f3f7a20b169f2029ae6be2f615dac4e0b4ba58b6a14afbfaef6a1772b4dd9",
+      "bytes": 8126
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

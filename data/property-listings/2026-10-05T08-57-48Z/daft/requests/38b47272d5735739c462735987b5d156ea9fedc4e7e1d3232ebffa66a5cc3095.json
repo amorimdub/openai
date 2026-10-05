@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-occu-east-village-leopardstown-dublin-18-clay-farm-drive-leopardstown-co-dublin/5341480",
+  "fetchedAt": "2026-10-05T09:08:05.815Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-occu-east-village-leopardstown-dublin-18-clay-farm-drive-leopardstown-co-dublin/5341480",
+  "kind": "listing",
+  "responseSha256": "d48c0ce426e07b993adf193ca1764bb362b95b3ae6dba5948f4a464aaaf238dc",
+  "files": [
+    {
+      "path": "daft/00412-38b47272d5735739-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b944b1cb9cc0d5409861ae2065a8ebe626d4547b5c47375a29fe0eaa1896e983",
+      "bytes": 58875
+    },
+    {
+      "path": "daft/00412-38b47272d5735739-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9a6310a61ef985d97c95230070097ce02e10f880af00aedfbb29373f2a11ef4c",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

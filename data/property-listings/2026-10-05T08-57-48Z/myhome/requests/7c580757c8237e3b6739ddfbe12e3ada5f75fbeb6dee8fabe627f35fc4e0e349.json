@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=67",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=67",
+  "fetchedAt": "2026-10-05T09:46:25.367Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "55d96ae6c5ea7bef3f65181c64cd67a2fa0a03408fa206d2c5febe71332ac2f2",
+  "files": [
+    {
+      "path": "myhome/01938-7c580757c8237e3b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=67\"].SearchResults",
+      "sha256": "b3b0048bfb9255e71e5715df9277e768c04fdf75bd7207917fc337ad57a871a5",
+      "bytes": 121411
+    },
+    {
+      "path": "myhome/01938-7c580757c8237e3b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=67\"] (paging fields)",
+      "sha256": "10c3e2d6d5c4a23a10987962e83a69f6c27480e5c9a4b46d8bb17a61d50f2c3e",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/38-rosevale-castleblayney-monaghan/5023638",
+    "https://www.myhome.ie/residential/brochure/killowen-castletown-co-wexford/5031105",
+    "https://www.myhome.ie/residential/brochure/3-sandycove-avenue-east-sandycove-co-dublin/5031104",
+    "https://www.myhome.ie/residential/brochure/1-bramble-row-bansha-road-tipperary-town-co-tipperary/5031100",
+    "https://www.myhome.ie/residential/brochure/38-westcourt-drogheda-co-louth/5031099",
+    "https://www.myhome.ie/residential/brochure/2-belcourt-navan-co-meath/5031094",
+    "https://www.myhome.ie/residential/brochure/5-orchardton-rathfarnham-dublin-14/5009834",
+    "https://www.myhome.ie/residential/brochure/600-woodview-cottages-rathfarnham-dublin-14/5002652",
+    "https://www.myhome.ie/residential/brochure/101-stapolin-lawns-baldoyle-dublin-13/5031092",
+    "https://www.myhome.ie/residential/brochure/7-loreto-avenue-rathfarnham-dublin-14/5005830",
+    "https://www.myhome.ie/residential/brochure/23-dartmouth-square-dublin-6/5008075",
+    "https://www.myhome.ie/residential/brochure/chapel-street-elphin-county-roscommon/5031091",
+    "https://www.myhome.ie/residential/brochure/18-percy-french-road-walkinstown-dublin-12/5026653",
+    "https://www.myhome.ie/residential/brochure/356-orwell-park-close-templeogue-dublin-6w/5024958",
+    "https://www.myhome.ie/residential/brochure/32-mount-sandford-milltown-dublin-6/5021967",
+    "https://www.myhome.ie/residential/brochure/2-ardagh-road-crumlin-dublin-12/5007829",
+    "https://www.myhome.ie/residential/brochure/45a-hazelbrook-drive-terenure-dublin-6w/5002352",
+    "https://www.myhome.ie/residential/brochure/30-hawthorn-park-swords-county-dublin/5031082",
+    "https://www.myhome.ie/residential/brochure/coole-lodge-9-barnstead-drive-blackrock-cork-city/5031078",
+    "https://www.myhome.ie/residential/brochure/saint-kevins-beamore-road-drogheda-co-louth/5031081"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=68",
+  "paginationLimited": false
+}

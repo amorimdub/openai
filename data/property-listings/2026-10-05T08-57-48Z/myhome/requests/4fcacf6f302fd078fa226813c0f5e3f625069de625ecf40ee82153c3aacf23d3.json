@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale",
+  "fetchedAt": "2026-10-05T08:57:48.182Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "6f0b07e2e8f5e6a73a6ba29ec12618c0a06e80b3b6ee6ff1527dbbd800d234ae",
+  "files": [
+    {
+      "path": "myhome/00001-4fcacf6f302fd078-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale\"].SearchResults",
+      "sha256": "510068c844cd6cbe4a5404ecf54998a389eb31f448ce051c4135b1336e4ca5db",
+      "bytes": 114695
+    },
+    {
+      "path": "myhome/00001-4fcacf6f302fd078-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale\"] (paging fields)",
+      "sha256": "2fc34e533dd521d30b668ace5a0e3b9af69154d4f7846cd096f735dea39dd8ec",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/35-abalone-the-grange-brewery-road-stillorgan-co-dublin/5027313",
+    "https://www.myhome.ie/residential/brochure/74-ivy-court-beaumont-woods-beaumont-dublin-9/5031174",
+    "https://www.myhome.ie/residential/brochure/16-cabinteely-way-cabinteely-dublin-18/5031837",
+    "https://www.myhome.ie/residential/brochure/3-bed-semi-type-a-112-sq-m-meadows-fort-graiguecullen-carlow/4998238",
+    "https://www.myhome.ie/residential/brochure/3-sli-liag-ard-ballard-road-miltown-malbay-co-clare/4335387",
+    "https://www.myhome.ie/residential/brochure/8-deans-court-deansgrange-blackrock-county-dublin/5025172",
+    "https://www.myhome.ie/residential/brochure/apt-33-the-elms-mount-merrion-avenue-blackrock-county-dublin/5029625",
+    "https://www.myhome.ie/residential/brochure/2-ashton-rise-swords-county-dublin/5030219",
+    "https://www.myhome.ie/residential/brochure/penthouse-177-the-links-elmpark-green-merrion-road-dublin-4/5028892",
+    "https://www.myhome.ie/residential/brochure/ground-1st-floor-2-bed-apartments-the-tannery-cairns-hill-sligo/4940770",
+    "https://www.myhome.ie/residential/brochure/aghadoe-upper-ardmore-passage-west-cork/5031996",
+    "https://www.myhome.ie/residential/brochure/saint-seuan-s-main-street-mountcharles-county-donegal/5029855",
+    "https://www.myhome.ie/residential/brochure/10-the-pine-trimbleston-goatstown-dublin-14/5032095",
+    "https://www.myhome.ie/residential/brochure/128-carysfort-park-blackrock-county-dublin/5009642",
+    "https://www.myhome.ie/residential/brochure/rockville-manor-kilternan-dublin-18/4908483",
+    "https://www.myhome.ie/residential/brochure/92-the-maples-clonskeagh-dublin-14/5031384",
+    "https://www.myhome.ie/residential/brochure/69-71-pembroke-road-ballsbridge-dublin-4/5027879",
+    "https://www.myhome.ie/residential/brochure/glandore-mardyke-walk-cork-city-cork/5024555",
+    "https://www.myhome.ie/residential/brochure/white-gables-house-white-gables-rathmichael-dublin-18/5029638",
+    "https://www.myhome.ie/residential/brochure/35-auburn-howth-road-clontarf-dublin-3/5005284"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=2",
+  "paginationLimited": false
+}

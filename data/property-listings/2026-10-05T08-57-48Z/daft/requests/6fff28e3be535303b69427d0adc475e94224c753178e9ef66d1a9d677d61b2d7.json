@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/248-kilworth-road-drimnagh-dublin-12/6662342",
+  "fetchedAt": "2026-10-05T09:41:12.897Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/248-kilworth-road-drimnagh-dublin-12/6662342",
+  "kind": "listing",
+  "responseSha256": "e1b126ab6b4b8420f9650dba15d6e87ad91d7bc26fa11caeb76fd28f34f18229",
+  "files": [
+    {
+      "path": "daft/01735-6fff28e3be535303-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ebdce51e7b17436364a0f087148de8f9549a04e3306b89a97f4fb82273e930e7",
+      "bytes": 50786
+    },
+    {
+      "path": "daft/01735-6fff28e3be535303-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "08f0a22bc00091d1225adad6f562311be8ce63cb271534308850eee92a559161",
+      "bytes": 8052
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

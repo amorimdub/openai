@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/45-woodlands-navan-co-meath/6636758",
+  "fetchedAt": "2026-10-05T09:37:05.097Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/45-woodlands-navan-co-meath/6636758",
+  "kind": "listing",
+  "responseSha256": "a97bb9391739ee63f3fab8d0188bb8ba234ec67e0f07d2036df2b59d8a1cefad",
+  "files": [
+    {
+      "path": "daft/01570-bc43064eb518e0f3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f87cf2429dad5ca0b15d41757dda43996c3b5ef318e925870012bc29887c81af",
+      "bytes": 58805
+    },
+    {
+      "path": "daft/01570-bc43064eb518e0f3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bf17bc988272981145c76bed5ae05ddc896e3833c2e5c6ab3b73d27ff0737ad4",
+      "bytes": 8039
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

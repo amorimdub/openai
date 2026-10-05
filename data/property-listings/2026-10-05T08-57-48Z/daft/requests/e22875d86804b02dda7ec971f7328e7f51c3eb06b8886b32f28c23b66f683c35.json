@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/94-blackhall-square-dublin-7-co-dublin/6686573",
+  "fetchedAt": "2026-10-05T09:27:13.352Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/94-blackhall-square-dublin-7-co-dublin/6686573",
+  "kind": "listing",
+  "responseSha256": "d19907603e24e69708f6178edfe6474238989f5859d4b187938422d3d32e6e1e",
+  "files": [
+    {
+      "path": "daft/01176-e22875d86804b02d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6263afec0f8ac38a2d497df799297fbf5849f24492d0c440c7116f9c88cdfe32",
+      "bytes": 36591
+    },
+    {
+      "path": "daft/01176-e22875d86804b02d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3afe11d9a2b6dcf77408aeb80975e584576ac7e0a587753aee6edbbe6ee2f7ae",
+      "bytes": 8088
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

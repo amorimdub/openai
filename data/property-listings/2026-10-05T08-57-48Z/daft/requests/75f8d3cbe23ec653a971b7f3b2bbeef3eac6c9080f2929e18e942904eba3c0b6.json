@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/27-brookdale-midleton-co-cork/6684498",
+  "fetchedAt": "2026-10-05T09:42:32.521Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/27-brookdale-midleton-co-cork/6684498",
+  "kind": "listing",
+  "responseSha256": "df8b83bda4361eabc7907d15faa9452dce5b7e35eb97ac6562535abd3a51df71",
+  "files": [
+    {
+      "path": "daft/01788-75f8d3cbe23ec653-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b61a4c668cb35c2f121a160bb6218dfaa6f6a831adc0e184b57f1666cd7f4f9c",
+      "bytes": 21756
+    },
+    {
+      "path": "daft/01788-75f8d3cbe23ec653-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "00d45643938f54ddd03cfd809f0b2fd65e58ebadee5d322e984953028996177a",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

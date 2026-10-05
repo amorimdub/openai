@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=13",
+  "fetchedAt": "2026-10-05T09:14:45.356Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=13",
+  "kind": "search",
+  "responseSha256": "182da3492dda28acca15fc71dfc0de81a1a008a03d816ece63c261fe49d5cdea",
+  "files": [
+    {
+      "path": "daft/00678-208b1059f7772949-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "e477c5733cc44d66a4f3bbd8768651d7546991fb1090d155e2ec0bd214885c35",
+      "bytes": 306607
+    },
+    {
+      "path": "daft/00678-208b1059f7772949-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00678-208b1059f7772949-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "4906a2559bd9974af15b3053bfc93a2232bf66807b76406d1ecb7732adf99d70",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/carrabane-athenry-co-galway/6680145",
+    "https://www.daft.ie/for-sale/65-church-fields-clonlara-clonlara-co-clare/6679351",
+    "https://www.daft.ie/for-sale/dunard-on-c-0-76-acre-crosschapel-blessington-co-wicklow/6675124",
+    "https://www.daft.ie/for-sale/10-newpark-lawn-kilkenny-kilkenny-co-kilkenny/6679048",
+    "https://www.daft.ie/for-sale/mullantlavan-magheracloone-carrickmacross-co-monaghan/6560502",
+    "https://www.daft.ie/for-sale/fohenagh-caltra-ballinasloe-co-galway/6679934",
+    "https://www.daft.ie/for-sale/1-atlantic-way-ardfield-co-cork/5877632",
+    "https://www.daft.ie/for-sale/the-beeches-knocknaree-lower-avoca-co-wicklow/6674238",
+    "https://www.daft.ie/for-sale/28-carrigeen-street-wexford-town-co-wexford/6679683",
+    "https://www.daft.ie/for-sale/shangarry-gortymadden-co-galway/6679039",
+    "https://www.daft.ie/for-sale/4-orchard-close-kinnegad-kinnegad-co-westmeath/6678004",
+    "https://www.daft.ie/for-sale/bungalow-on-c-28-acres-lough-talt-aclare-aclare-co-sligo/6559775",
+    "https://www.daft.ie/for-sale/103-gleann-na-mona-ballymoneen-road-knocknacarra-galway/6675746",
+    "https://www.daft.ie/for-sale/38-rockfield-avenue-dublin-12-perrystown-dublin-12/6678357",
+    "https://www.daft.ie/for-sale/12-the-cedars-glounthaune-co-cork/6679563",
+    "https://www.daft.ie/for-sale/thislldome-ardcavan-wexford-town-wexford/6638518",
+    "https://www.daft.ie/for-sale/apartment-2-the-barge-market-point-patrick-street-mullingar-co-westmeath/6679553",
+    "https://www.daft.ie/for-sale/71-bailis-manor-athlumney-navan-co-meath/6661387",
+    "https://www.daft.ie/for-sale/treanlaur-maree-oranmore-co-galway/6654050",
+    "https://www.daft.ie/for-sale/1-hettyfield-gardens-hettyfield-douglas-co-cork/6676354"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=14",
+  "paginationLimited": false
+}

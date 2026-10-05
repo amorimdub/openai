@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=16",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=16",
+  "fetchedAt": "2026-10-05T09:11:59.507Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "363f25e2cb50020efd7f5d43494d64913856a64aad1e508d43c8935fb9fe5a4a",
+  "files": [
+    {
+      "path": "myhome/00567-3203c27a6b22d4d5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=16\"].SearchResults",
+      "sha256": "bee89a45d5a1540f5efc4c4e659c9472c6f4bd5dd77ee68e7c919a3a4c3d35d7",
+      "bytes": 99003
+    },
+    {
+      "path": "myhome/00567-3203c27a6b22d4d5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=16\"] (paging fields)",
+      "sha256": "45ccf25fbce0ab53a25e1c5916a0b9ce02a3a0964bf316fedf0f9eb1cd07473c",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/apartment-2-the-railings-navan-meath/5027834",
+    "https://www.myhome.ie/rentals/brochure/apartment-51-king-s-court-parnell-street-dublin-1/5027772",
+    "https://www.myhome.ie/rentals/brochure/flat-2-1-drummond-house-chapelizod-dublin-20/5023322",
+    "https://www.myhome.ie/rentals/brochure/apartment-9-swan-hall-belgard-square-tallaght-dublin-24/5022692",
+    "https://www.myhome.ie/rentals/brochure/3-rossgrove-court-hennesseys-road-waterford-city-waterford/4981799",
+    "https://www.myhome.ie/rentals/brochure/140-leeson-street-upper-donnybrook-dublin-4/5027507",
+    "https://www.myhome.ie/rentals/brochure/this-is-for-prussia-street-stoneybatter-dublin-7/5027513",
+    "https://www.myhome.ie/rentals/brochure/78-victorine-abbey-trim-co-meath/5027485",
+    "https://www.myhome.ie/rentals/brochure/castle-gate-apartments-lord-edward-street-south-city-centre-dublin-2/5027404",
+    "https://www.myhome.ie/rentals/brochure/819-ladycastle-the-k-club-straffan-county-kildare/5027405",
+    "https://www.myhome.ie/rentals/brochure/13-st-michael-place-gorey-county-wexford/5027381",
+    "https://www.myhome.ie/rentals/brochure/parkroe-ardnacrusha-parteen-clare/5015271",
+    "https://www.myhome.ie/rentals/brochure/meadow-grove-dundrum-dublin-16/5027274",
+    "https://www.myhome.ie/rentals/brochure/kilmacud-road-upper-dundrum-dublin-16/5027247",
+    "https://www.myhome.ie/rentals/brochure/kingsbry-maynooth-co-kildare/5027215",
+    "https://www.myhome.ie/rentals/brochure/16-northgate-street-athlone-co-westmeath/5027141",
+    "https://www.myhome.ie/rentals/brochure/walkers-gate-kildare-town-co-kildare/5027125",
+    "https://www.myhome.ie/rentals/brochure/oliver-plunkett-road-ballymore-eustace/5027105",
+    "https://www.myhome.ie/rentals/brochure/34-headlands-putland-road-bray-co-wicklow/5027073",
+    "https://www.myhome.ie/rentals/brochure/apartment-10-the-olde-dock-ship-street-little-dublin-8/5027061"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=17",
+  "paginationLimited": false
+}

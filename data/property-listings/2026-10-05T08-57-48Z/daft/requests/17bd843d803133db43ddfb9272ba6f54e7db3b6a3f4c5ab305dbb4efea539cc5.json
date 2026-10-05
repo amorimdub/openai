@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ardra-union-hall-skibbereen-union-hall-co-cork/6685474",
+  "fetchedAt": "2026-10-05T09:36:33.566Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ardra-union-hall-skibbereen-union-hall-co-cork/6685474",
+  "kind": "listing",
+  "responseSha256": "c050932e4f4f9e950eccdaf239c73d212d7a132099bcc83c3f43084cbbbbc8c8",
+  "files": [
+    {
+      "path": "daft/01549-17bd843d803133db-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4b2705ce89f74b98074e5b4220f7c31259ccc3ffa82c8a27817ad5f3c376d176",
+      "bytes": 15640
+    },
+    {
+      "path": "daft/01549-17bd843d803133db-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "08924168b53b412dc8caf2f71a053cc8fa4a767f874ab39de4d57432ddb85022",
+      "bytes": 8038
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

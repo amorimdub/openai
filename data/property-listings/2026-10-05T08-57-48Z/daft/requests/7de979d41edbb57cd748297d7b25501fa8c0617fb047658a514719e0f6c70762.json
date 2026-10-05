@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/eugene-street-dublin-8-dublin-8/6664930",
+  "fetchedAt": "2026-10-05T09:17:48.582Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/eugene-street-dublin-8-dublin-8/6664930",
+  "kind": "listing",
+  "responseSha256": "e3aa5bffe7326bbd3d749dab609010b99e19f65c47d8bb3b439d0d53c8145b03",
+  "files": [
+    {
+      "path": "daft/00800-7de979d41edbb57c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a358641d03e10a45c2157ec0c85d7bc19ad77c223da8a1cb230f27f9ece608b8",
+      "bytes": 22117
+    },
+    {
+      "path": "daft/00800-7de979d41edbb57c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "26a136b4639f8e799b8ff69c56cf6f623a255d340981db6bcfc0cd541bb04f7c",
+      "bytes": 8137
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

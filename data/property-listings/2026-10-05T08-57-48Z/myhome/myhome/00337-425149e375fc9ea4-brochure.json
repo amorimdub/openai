@@ -1,0 +1,418 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "new bancroft hall tallaght dublin 24",
+    "GroupId": 5770,
+    "Address": "New Bancroft Hall",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9a330873-5ef3-4e22-9e0a-04afa989efad_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9a330873-5ef3-4e22-9e0a-04afa989efad_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9a330873-5ef3-4e22-9e0a-04afa989efad_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/33f8f4bc-b8f5-4bd0-a491-a393297724c9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/f4533ad2-a996-4931-b279-07ecd48555c3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/20ac903c-fe90-451f-aeb9-a0d8dd01e25a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9e7eafd8-84ae-4e12-9dc6-c4a3a3236103_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a99aa8cf-2d90-49e0-b4e2-d24f44448954_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/4b86fc56-9bc3-4dc1-85e0-8ab2b79129fd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/c27243f3-0126-4c90-879b-36a8894c8a00_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/dd87ad27-d55f-47f7-92f0-51bae302f1ca_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/11389cb2-eaee-47fb-a8e6-a4d011db4a75_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/487d82af-174a-4e2b-a81e-9a34add49848_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/79c920bf-c1bd-44bc-ac3d-0fbe3a1b6ce4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/6a842294-ea98-401b-907e-a6329e307fd7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/37e310bc-9fe3-4120-8b2d-07422fecbd6a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/2da3e612-7613-4163-8f81-38e1552e0c64_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a729b644-063f-4de2-bd6d-e407a8b4fc1e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/03ec8349-b880-493c-9d35-5434d4fa4d58_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/78b09851-f81f-49b1-a524-a5caddb7e03a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/4/2/4702248/503fc7ce-b2af-4db7-8641-dd7916ceb432_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "BerRating": "B3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 25,
+        "Name": "First Letting",
+        "CreatedOn": "2018-09-11T10:19:48.4300000+01:00",
+        "IconName": "myh-icon-first-letting",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Shauna O'Brien of BROE Auctioneers lettings is delighted to present this fabulous spacious three bedroom penthouse apartment in the ever popular development of New Bancroft Hall to the rental market. The modern accommodation which is bright and well laid out briefly comprises of the large entrance hall and a bright and spacious kitchen/living room with double doors onto a generous sized wraparound balcony spanning the entire apartment with east and south facing views over Dublin Mountains. Down the hallway to the Master bedroom with ensuite, the second and third bedrooms and the family bathroom. The location of the apartment is ideally situated in the heart of Tallaght minutes from the M50 and all local bus and Luas routes. This property has ease of access to any location in Dublin, appealing to any commuter. Within walking distance to the Tallaght shopping centre and all the amenities, it has to offer.\r\n\r\nContact Shauna O’Brien of BROE Auctioneers to register your interest today."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "•\tGas fired central heating\r\n•\tOpen plan living space\r\n•\tShow house condition. \r\n•\tDouble Glazed windows though out. \r\n•\tLarge warp around South facing balcony with views over the Wicklow Mountains.\r\n•\tDesignated parking. \r\n•\tSecure development. \r\n•\tNew development, Built in 2008."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: B3"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Contact Shauna O'Brien at BROE Auctioneers Lettings to arrange a viewing today.\r\n\r\nPlease note all appointments are strictly by appointment only.\r\n\r\nContact details, shauna@broe.ie or 01 459 4433"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 1474,
+    "MinEnergyRating": 100,
+    "MaxEnergyRating": 100,
+    "BERGrade": "B",
+    "IsNewBER": false,
+    "CreatedOnDate": "2023-05-05T16:27:22.4830000+01:00",
+    "ModifiedOnDate": "2026-09-23T13:05:31.9530000+01:00",
+    "IsPremiumAd": false,
+    "InstructedOn": "2023-05-05T16:30:28.6170000+01:00",
+    "ActivatedOn": "2023-05-08T15:22:10.9730000+01:00",
+    "RefreshedOn": "2026-09-28T12:21:28.5130000+01:00",
+    "ValuedOn": "2023-05-05T16:25:00.0000000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+    "IsTransact": false,
+    "PriceAsString": "€3,200 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 4702248,
+    "BedsString": "3 beds",
+    "DisplayAddress": "New Bancroft Hall, Tallaght, Dublin 24",
+    "Eircode": "",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Penthouse",
+    "PropertyTypeId": 106,
+    "RegionId": 1462,
+    "RegionName": "Dublin 24",
+    "LocalityId": 1412,
+    "LocalityName": "Tallaght",
+    "Price": {
+      "MinRentalPrice": 3200,
+      "MaxRentalPrice": 3200,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 3200,
+      "ShowPrice": true,
+      "AvailableOn": "2026-09-24T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 3200,
+      "MaxMonthlyRentalPrice": 3200
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9a330873-5ef3-4e22-9e0a-04afa989efad_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9a330873-5ef3-4e22-9e0a-04afa989efad_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9a330873-5ef3-4e22-9e0a-04afa989efad_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/33f8f4bc-b8f5-4bd0-a491-a393297724c9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/33f8f4bc-b8f5-4bd0-a491-a393297724c9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/33f8f4bc-b8f5-4bd0-a491-a393297724c9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/f4533ad2-a996-4931-b279-07ecd48555c3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/f4533ad2-a996-4931-b279-07ecd48555c3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/f4533ad2-a996-4931-b279-07ecd48555c3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/20ac903c-fe90-451f-aeb9-a0d8dd01e25a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/20ac903c-fe90-451f-aeb9-a0d8dd01e25a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/20ac903c-fe90-451f-aeb9-a0d8dd01e25a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9e7eafd8-84ae-4e12-9dc6-c4a3a3236103_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9e7eafd8-84ae-4e12-9dc6-c4a3a3236103_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/9e7eafd8-84ae-4e12-9dc6-c4a3a3236103_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a99aa8cf-2d90-49e0-b4e2-d24f44448954_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a99aa8cf-2d90-49e0-b4e2-d24f44448954_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a99aa8cf-2d90-49e0-b4e2-d24f44448954_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/4b86fc56-9bc3-4dc1-85e0-8ab2b79129fd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/4b86fc56-9bc3-4dc1-85e0-8ab2b79129fd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/4b86fc56-9bc3-4dc1-85e0-8ab2b79129fd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/c27243f3-0126-4c90-879b-36a8894c8a00_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/c27243f3-0126-4c90-879b-36a8894c8a00_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/c27243f3-0126-4c90-879b-36a8894c8a00_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/dd87ad27-d55f-47f7-92f0-51bae302f1ca_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/dd87ad27-d55f-47f7-92f0-51bae302f1ca_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/dd87ad27-d55f-47f7-92f0-51bae302f1ca_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/11389cb2-eaee-47fb-a8e6-a4d011db4a75_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/11389cb2-eaee-47fb-a8e6-a4d011db4a75_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/11389cb2-eaee-47fb-a8e6-a4d011db4a75_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/487d82af-174a-4e2b-a81e-9a34add49848_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/487d82af-174a-4e2b-a81e-9a34add49848_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/487d82af-174a-4e2b-a81e-9a34add49848_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/79c920bf-c1bd-44bc-ac3d-0fbe3a1b6ce4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/79c920bf-c1bd-44bc-ac3d-0fbe3a1b6ce4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/79c920bf-c1bd-44bc-ac3d-0fbe3a1b6ce4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/6a842294-ea98-401b-907e-a6329e307fd7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/6a842294-ea98-401b-907e-a6329e307fd7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/6a842294-ea98-401b-907e-a6329e307fd7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/37e310bc-9fe3-4120-8b2d-07422fecbd6a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/37e310bc-9fe3-4120-8b2d-07422fecbd6a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/37e310bc-9fe3-4120-8b2d-07422fecbd6a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/2da3e612-7613-4163-8f81-38e1552e0c64_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/2da3e612-7613-4163-8f81-38e1552e0c64_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/2da3e612-7613-4163-8f81-38e1552e0c64_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a729b644-063f-4de2-bd6d-e407a8b4fc1e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a729b644-063f-4de2-bd6d-e407a8b4fc1e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/a729b644-063f-4de2-bd6d-e407a8b4fc1e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/03ec8349-b880-493c-9d35-5434d4fa4d58_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/03ec8349-b880-493c-9d35-5434d4fa4d58_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/03ec8349-b880-493c-9d35-5434d4fa4d58_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/78b09851-f81f-49b1-a524-a5caddb7e03a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/78b09851-f81f-49b1-a524-a5caddb7e03a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/78b09851-f81f-49b1-a524-a5caddb7e03a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/503fc7ce-b2af-4db7-8641-dd7916ceb432_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/503fc7ce-b2af-4db7-8641-dd7916ceb432_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/4/2/4702248/503fc7ce-b2af-4db7-8641-dd7916ceb432_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.3577803,
+      "latitude": 53.2880158
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 19,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5770,
+    "Name": "BROE Auctioneers",
+    "DisplayPhone": "01 459 4433",
+    "Email": "info@broe.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "broe-auctioneers",
+    "SeoName": "broe-auctioneers",
+    "Address": "Unit D Tower Commercial Centre, Monastery Road, Dublin 22",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/7/7/5770/logo.jpg",
+    "SalesLicense": "001123",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "tallaght/1412",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/new-bancroft-hall-tallaght-dublin-24/4702248",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Dryer",
+    "Microwave",
+    "Alarm",
+    "References Required"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 1474,
+    "Name": "Shauna  O'Brien M.I.P.A.V",
+    "JobTitle": "Sales and Lettings Negotiator",
+    "Phone": "01 459 4433 / 01 479 0503",
+    "Email": "shauna@broe.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/4/7/4/1474/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5770,
+    "MYH_LocalityID": 1412,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1462,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Central Heating",
+      "Balcony",
+      "Alarm",
+      "References Required",
+      "Full Furnished",
+      "First Letting"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Central Heating,Balcony,Alarm,References Required,Full Furnished,First Letting",
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 100,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4702248,
+    "MYH_PropertyTypeID": 106
+  }
+}

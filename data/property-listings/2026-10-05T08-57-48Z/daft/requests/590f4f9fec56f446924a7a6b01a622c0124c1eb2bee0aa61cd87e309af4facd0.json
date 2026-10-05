@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=16",
+  "fetchedAt": "2026-10-05T09:18:26.126Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=16",
+  "kind": "search",
+  "responseSha256": "ead950e9678667a7d954bd589c362384bc67a6af54867f7fe4e1c826c5344381",
+  "files": [
+    {
+      "path": "daft/00825-590f4f9fec56f446-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "6bbcbd3c738ceda0565f3e5f264ba6fd5408657af5414f585e063bc2353fb7a6",
+      "bytes": 238202
+    },
+    {
+      "path": "daft/00825-590f4f9fec56f446-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00825-590f4f9fec56f446-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "b32a84859c41a65cb9120c57220b5993ca552640435a612d4011d4be474fca8c",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-43-windmill-lane-apartments-windmill-l-grand-canal-dock-dublin-2/6677864",
+    "https://www.daft.ie/for-rent/the-highlands-drogheda-co-meath-drogheda-co-meath/6677859",
+    "https://www.daft.ie/for-rent/14-old-cork-road-midleton-co-cork/6662955",
+    "https://www.daft.ie/for-rent/cappagh-meeltanagh-edgeworthstown-crossea-co-longford/6657278",
+    "https://www.daft.ie/for-rent/-includes-utilities-woodview-mount-merrion-avenue-blackrock-co-dublin/6669842",
+    "https://www.daft.ie/for-rent/1-the-burbidge-lansdowne-place-ballsbridge-dublin-4/6677195",
+    "https://www.daft.ie/for-rent/the-elms-carrington-park-dublin-9/6677384",
+    "https://www.daft.ie/for-rent/the-oaks-carrington-park-dublin-9/6677370",
+    "https://www.daft.ie/for-rent/apartment-13-block-b3-richmond-gardens-fairview-dublin-3/6673038",
+    "https://www.daft.ie/for-rent/apartment-230-block-f1-lansdowne-gate-lansdowne-valley-drimnagh-dublin-12/6674612",
+    "https://www.daft.ie/for-rent/the-cubes-6-sandyford-dublin-18/6677144",
+    "https://www.daft.ie/for-rent/apartment-2-3a-francis-street-dundalk-co-louth-dundalk-co-louth/6649160",
+    "https://www.daft.ie/for-rent/killedmond-borris-killedmond-co-carlow/6677019",
+    "https://www.daft.ie/for-rent/-trinity-square-apartments-townsend-street-dublin-2-dublin-2/6672751",
+    "https://www.daft.ie/for-rent/16-woodlands-road-glenageary-co-dublin/6676749",
+    "https://www.daft.ie/for-rent/crozon-area-sligo-co-sligo/6676597",
+    "https://www.daft.ie/for-rent/7a-cnoc-an-ir-letteragh-road-galway-letteragh-co-galway/6675696",
+    "https://www.daft.ie/for-rent/1-bed-apt-4th-floor-cannon-court-bride-street-dublin-8-christchurch-dublin-8/6675530",
+    "https://www.daft.ie/for-rent/camden-avenue-royal-canal-park-dublin-15-royal-canal-park-dublin-15/6675371",
+    "https://www.daft.ie/for-rent/georges-quay-cork-cork-city-centre-co-cork/6675231"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=17",
+  "paginationLimited": false
+}

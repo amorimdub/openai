@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-37-priorsgate-tallaght-dublin-24/6600541",
+  "fetchedAt": "2026-10-05T09:11:19.537Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-37-priorsgate-tallaght-dublin-24/6600541",
+  "kind": "listing",
+  "responseSha256": "936e010b99928dc3f25a84fc79af4a697f477a4e677a9b03814527227ea9b528",
+  "files": [
+    {
+      "path": "daft/00541-4abcbe54eb463e87-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a315bc5993b089aa0e89d8310618bdad5c152ea540d87726a97a5d722206ef1a",
+      "bytes": 26442
+    },
+    {
+      "path": "daft/00541-4abcbe54eb463e87-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2da47d9582633b9c732c709c4b438d378de62d2111631eda0a601d1e2906f6de",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

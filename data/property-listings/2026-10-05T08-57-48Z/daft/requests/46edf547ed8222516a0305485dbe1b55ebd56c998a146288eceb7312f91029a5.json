@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-101-westland-square-dublin-2/6683461",
+  "fetchedAt": "2026-10-05T09:49:51.239Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-101-westland-square-dublin-2/6683461",
+  "kind": "listing",
+  "responseSha256": "169414ec421bf58a823b3955c840a8fe654e0d60165ae1de8db88b794de06e1d",
+  "files": [
+    {
+      "path": "daft/02080-46edf547ed822251-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "aec415ab371d71c657feba2d3956f63749d032a6ce60c2f3529bc4892a0615e1",
+      "bytes": 50940
+    },
+    {
+      "path": "daft/02080-46edf547ed822251-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "15326931a7c667d58837fee82b86c1e6fe401c12547260a2533d99eb522051bd",
+      "bytes": 8020
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

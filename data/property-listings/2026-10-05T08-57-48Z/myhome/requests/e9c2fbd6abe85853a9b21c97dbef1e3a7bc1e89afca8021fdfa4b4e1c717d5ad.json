@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=12",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=12",
+  "fetchedAt": "2026-10-05T09:07:48.621Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "07635fad03f4c160054ef3ac02267ac8da42f5b627341722e9b49aa381a9b2b8",
+  "files": [
+    {
+      "path": "myhome/00400-e9c2fbd6abe85853-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=12\"].SearchResults",
+      "sha256": "197ca90f4c2d0e7a1f556388786f66bd70f80c6c939a2a11c32ac3f44b2d2987",
+      "bytes": 93146
+    },
+    {
+      "path": "myhome/00400-e9c2fbd6abe85853-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=12\"] (paging fields)",
+      "sha256": "2aed98371f14291038f4f7a28282a9d78e691e3397101bcf34bd700316afd405",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/water-facing-apartment-241-opus-grand-canal-dk-dublin-2/5029873",
+    "https://www.myhome.ie/rentals/brochure/flat-8-32-charles-street-great-north-circular-road-dublin-1-north-city-centre-dublin-1/5029825",
+    "https://www.myhome.ie/rentals/brochure/greenville-place-portobello-dublin-8/5029802",
+    "https://www.myhome.ie/rentals/brochure/apartment-5-aengus-hall-belgard-square-tallaght-dublin-24/5023347",
+    "https://www.myhome.ie/rentals/brochure/ground-floor-office-2-railway-terrace-dublin-road-naas-county-kildare/5029789",
+    "https://www.myhome.ie/rentals/brochure/1-the-burbidge-lansdowne-place-ballsbridge-dublin-4-co-dublin/5029756",
+    "https://www.myhome.ie/rentals/brochure/9-highfield-carnew-co-wicklow/4791470",
+    "https://www.myhome.ie/rentals/brochure/11-cill-o-seighin-kilmaine-road-ballinrobe-county-mayo/5029745",
+    "https://www.myhome.ie/rentals/brochure/20-charnwood-grove-clonsilla-dublin-15/5029744",
+    "https://www.myhome.ie/rentals/brochure/saint-davids-court-31-33-castle-avenue-clontarf-dublin-3/5029735",
+    "https://www.myhome.ie/rentals/brochure/apt-18-rockpoint-newtown-avenue-blackrock-dublin/5019746",
+    "https://www.myhome.ie/rentals/brochure/3-40-baggot-street-upper-ballsbridge-dublin-4/5021599",
+    "https://www.myhome.ie/rentals/brochure/apartment-39-orpen-hall-brennanstown-wood-brennanstown-road-dublin-18/5005310",
+    "https://www.myhome.ie/rentals/brochure/apartment-35-papworth-hall-cabinteely-dublin-18-cabinteely-dublin-18/4963568",
+    "https://www.myhome.ie/rentals/brochure/60-adamstown-avenue-adamstown-castle-adamstown-county-dublin/5029552",
+    "https://www.myhome.ie/rentals/brochure/oak-house-carrickmines-dublin-18/5029532",
+    "https://www.myhome.ie/rentals/brochure/147-ard-easmuinn-dundalk-co-louth/5029487",
+    "https://www.myhome.ie/rentals/brochure/montpellier-court-tallaght-dublin-24/5029480",
+    "https://www.myhome.ie/rentals/brochure/kilmacredock-lower-leixlip-co-kildare/5029468",
+    "https://www.myhome.ie/rentals/brochure/apt-18-hollybrook-manor-hollybrook-park-clontarf-dublin-3/5029438"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=13",
+  "paginationLimited": false
+}

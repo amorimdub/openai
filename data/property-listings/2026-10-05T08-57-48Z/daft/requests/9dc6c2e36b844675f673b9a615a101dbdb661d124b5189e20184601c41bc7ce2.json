@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/9-beechfield-heights-castaheany-clonee-dublin-15/6666254",
+  "fetchedAt": "2026-10-05T08:57:54.188Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/9-beechfield-heights-castaheany-clonee-dublin-15/6666254",
+  "kind": "listing",
+  "responseSha256": "71f67ab603a94e8cfee8b000c401ccc6a248e4ae8a421ade01f4d5566d639137",
+  "files": [
+    {
+      "path": "daft/00005-9dc6c2e36b844675-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "551945d2a444b7c69c7b8f01bb3ef25e517d8a52f2446215a6e456060d66682a",
+      "bytes": 56818
+    },
+    {
+      "path": "daft/00005-9dc6c2e36b844675-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "74ccbe3e9b51db05864605cba38422318fe9e86e6ffc29734031ce2d1d9fbe1e",
+      "bytes": 8143
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

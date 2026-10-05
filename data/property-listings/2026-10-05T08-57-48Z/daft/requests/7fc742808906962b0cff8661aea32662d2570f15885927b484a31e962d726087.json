@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mount-argus-apartments-mount-argus-road-harolds-cross-co-dublin/6574407",
+  "fetchedAt": "2026-10-05T09:04:23.568Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mount-argus-apartments-mount-argus-road-harolds-cross-co-dublin/6574407",
+  "kind": "listing",
+  "responseSha256": "0d87cb8e3ddaded1e39507d5e8226c3e2097d776c5ea1d8d8824a580c6088dde",
+  "files": [
+    {
+      "path": "daft/00264-7fc742808906962b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "436abe07771590610ecd63445404e77177c1f425f0e161ea1c6957a5d85b4819",
+      "bytes": 180421
+    },
+    {
+      "path": "daft/00264-7fc742808906962b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9b2eb8418865765107a64535b6ac3462111c4effed572da01f3893ebc552029e",
+      "bytes": 8072
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=162",
+  "fetchedAt": "2026-10-05T11:37:59.540Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=162",
+  "kind": "search",
+  "responseSha256": "ec29eb694a6e9314e18e23fe17e50f107f6e9c3a8790cc559a92932f6ad3d1a4",
+  "files": [
+    {
+      "path": "myhome/03865-46d53801c1435524-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=162\"].SearchResults",
+      "sha256": "eab9ed0a09c32c6c581b2d177ccf24f3c751c692abbb4724007ce7760ef55787",
+      "bytes": 106888
+    },
+    {
+      "path": "myhome/03865-46d53801c1435524-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=162\"] (paging fields)",
+      "sha256": "1d65c7469c3caa98c51a02c66818ba6b52c3f69d02f9d97fa51f5e0cf1433045",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/100-rath-lodge-ashbourne-meath/5028673",
+    "https://www.myhome.ie/residential/brochure/moneen-east-ardrahan-county-galway/5028670",
+    "https://www.myhome.ie/residential/brochure/4-shantobar-ballinalee-co-longford/5028669",
+    "https://www.myhome.ie/residential/brochure/6-church-road-newtownmountkennedy-wicklow/5028665",
+    "https://www.myhome.ie/residential/brochure/18-cherbury-park-avenue-lucan-co-dublin/5014120",
+    "https://www.myhome.ie/residential/brochure/6-beech-grove-oranmore-co-galway/5028662",
+    "https://www.myhome.ie/residential/brochure/6-lui-na-greine-western-distributor-road-knocknacarra-galway/5028659",
+    "https://www.myhome.ie/residential/brochure/4-corr-castle-howth-road-howth-co-dublin/5028655",
+    "https://www.myhome.ie/residential/brochure/2-hollymount-court-cartron-hill-sligo/5024786",
+    "https://www.myhome.ie/residential/brochure/1-corrib-view-cornamona-galway/4993903",
+    "https://www.myhome.ie/residential/brochure/76-saint-maelruan-s-park-tallaght-dublin-24/5028654",
+    "https://www.myhome.ie/residential/brochure/1-cairnbrook-way-cairnbrook-dublin-18/5028649",
+    "https://www.myhome.ie/residential/brochure/29-the-laurels-terenure-road-west-terenure-dublin-6w/5028644",
+    "https://www.myhome.ie/residential/brochure/apt-4-st-catherines-court-breidgefoot-street-dublin-8/5028643",
+    "https://www.myhome.ie/residential/brochure/cross-binghamstown-belmullet-mayo/5028636",
+    "https://www.myhome.ie/residential/brochure/rockville-94-salthill-road-lower-salthill-galway-city/5028631",
+    "https://www.myhome.ie/residential/brochure/no-1-the-meadows-killenagh-gorey-county-wexford/5028629",
+    "https://www.myhome.ie/residential/brochure/18-gandon-walk-lucan-county-dublin/5028628",
+    "https://www.myhome.ie/residential/brochure/1-saul-s-court-cows-lane-templebar/5028627",
+    "https://www.myhome.ie/residential/brochure/site-with-f-p-p-for-2-bedroom-mews-rathmines-dublin-6/5028621"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=163",
+  "paginationLimited": false
+}

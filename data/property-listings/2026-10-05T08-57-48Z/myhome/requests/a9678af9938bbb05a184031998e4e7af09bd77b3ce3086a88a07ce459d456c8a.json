@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=131",
+  "fetchedAt": "2026-10-05T11:21:44.232Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=131",
+  "kind": "search",
+  "responseSha256": "8562bdd930ef8dc5e2e886dd3dca1691037fb1615dfbffdbb63baff581ad08d8",
+  "files": [
+    {
+      "path": "myhome/03216-a9678af9938bbb05-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=131\"].SearchResults",
+      "sha256": "4a946a58213dbd96916d655be023d88aa36bb16386a041268b269e68921fd10e",
+      "bytes": 94845
+    },
+    {
+      "path": "myhome/03216-a9678af9938bbb05-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=131\"] (paging fields)",
+      "sha256": "1f7d2d1d2c3db1c5cf06afc253c3ee3e44a2090815a0b119bbffe6548cb88102",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/87-br-na-habhainn-navan-meath/5029484",
+    "https://www.myhome.ie/residential/brochure/10-salmon-view-terrace-sundays-well-avenue-sundays-well-co-cork/5029515",
+    "https://www.myhome.ie/residential/brochure/apartment-2-the-court-newtown-manor-kill-kildare/5021581",
+    "https://www.myhome.ie/residential/brochure/24-the-view-carrickmines-manor-carrickmines-dublin-18/5029489",
+    "https://www.myhome.ie/residential/brochure/wild-acre-cottage-templerainey-old-dublin-road-arklow-wicklow/5029479",
+    "https://www.myhome.ie/residential/brochure/olvin-3a-vergemount-hall-clonskeagh-road-clonskeagh-dublin-6/5029483",
+    "https://www.myhome.ie/residential/brochure/47-kilfenora-road-kimmage-dublin-12/4987765",
+    "https://www.myhome.ie/residential/brochure/35-willow-vale-ballybrack-county-dublin/5029467",
+    "https://www.myhome.ie/residential/brochure/20-strandmill-road-portmarnock-county-dublin/5001429",
+    "https://www.myhome.ie/residential/brochure/derrycontoort-east-f28pw50-newport-mayo/5029434",
+    "https://www.myhome.ie/residential/brochure/66-huntstown-wood-mulhuddart-dublin/5029401",
+    "https://www.myhome.ie/residential/brochure/91-glasnevin-park-glasnevin-dublin-11/5029359",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029464",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029463",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029460",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029462",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029461",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029459",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029458",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029457"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=132",
+  "paginationLimited": false
+}

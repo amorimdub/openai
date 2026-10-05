@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/belfry-hall-block-d-dublin-24/6685875",
+  "fetchedAt": "2026-10-05T09:33:22.862Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/belfry-hall-block-d-dublin-24/6685875",
+  "kind": "listing",
+  "responseSha256": "219e22bc049917a75229113c926404ea1427b544a36ead32b1915494d8c7e680",
+  "files": [
+    {
+      "path": "daft/01422-a9b632c8c8087b67-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0cc04a58e6d8b3706e0747b1b78f1d92640cf5fb8ca24ec15a0ccd324ceba468",
+      "bytes": 28561
+    },
+    {
+      "path": "daft/01422-a9b632c8c8087b67-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1a2e1700bd38b83478f1d3cf40589429758c61b156e3ccbe2fc5c1d975047bc6",
+      "bytes": 8015
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/278-bo-reann-bheag-roscam-roscam-co-galway/6686138",
+  "fetchedAt": "2026-10-05T09:31:13.726Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/278-bo-reann-bheag-roscam-roscam-co-galway/6686138",
+  "kind": "listing",
+  "responseSha256": "ef130af4f9c48cbeda954d75ec4f5a963e0693bda551159eaadf215917ba3e30",
+  "files": [
+    {
+      "path": "daft/01336-68d1b8fc570e5933-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2b9fe2d6de694ec9404613cced7959933ef0f1c714b633408b4825ba8f74ed1a",
+      "bytes": 32069
+    },
+    {
+      "path": "daft/01336-68d1b8fc570e5933-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "32c785f81a58a6a1388a5879986dc575488831edcd2803a053b1e0dab1929d8d",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

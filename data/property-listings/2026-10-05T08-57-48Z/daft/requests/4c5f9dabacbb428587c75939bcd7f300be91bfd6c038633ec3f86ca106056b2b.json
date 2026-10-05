@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/84-ailesbury-road-ballsbridge-dublin-4/6541256",
+  "fetchedAt": "2026-10-05T09:40:57.877Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/84-ailesbury-road-ballsbridge-dublin-4/6541256",
+  "kind": "listing",
+  "responseSha256": "7e9d13ef2d088763f785273d13da829a1280503cbbfcfd00aa21da51910163ab",
+  "files": [
+    {
+      "path": "daft/01725-4c5f9dabacbb4285-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0246e467f818894a96480c0084fc647ecd270d09483f577934abcbba2013cebb",
+      "bytes": 79057
+    },
+    {
+      "path": "daft/01725-4c5f9dabacbb4285-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a9588e78a8e876110648992456e3471d5426ef14deeca375a7af2132afa1c378",
+      "bytes": 8222
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

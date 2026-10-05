@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bed-duplex-house-u-carton-grove-carton-grove-maynooth-co-kildare/4555228",
+  "fetchedAt": "2026-10-05T09:08:56.876Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bed-duplex-house-u-carton-grove-carton-grove-maynooth-co-kildare/4555228",
+  "kind": "listing",
+  "responseSha256": "8e5117c2720fa3f3a8563f7bef0fd80335768ac28548a29c7dba717d41bbd4ae",
+  "files": [
+    {
+      "path": "daft/00446-ccd99b50f28db9b9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b777529876a49f97a4184162a4dbb45c1e5eae8acf7741fe272a8b68c119a3dc",
+      "bytes": 57347
+    },
+    {
+      "path": "daft/00446-ccd99b50f28db9b9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "46a48f386cee3c58585fcab7e529d221c57691ef3707673c148edc667cf70d0a",
+      "bytes": 8112
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

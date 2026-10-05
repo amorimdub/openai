@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/coolquay-common-the-ward-co-dublin/6683087",
+  "fetchedAt": "2026-10-05T09:51:51.463Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/coolquay-common-the-ward-co-dublin/6683087",
+  "kind": "listing",
+  "responseSha256": "40ea1bc15ca2b65bc5bcf1b93eff3b910cdce1b67bde06d500fca82b8b09d407",
+  "files": [
+    {
+      "path": "daft/02160-bf31e2519aaa75ac-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2adec62fb18dc31e1b6009895e8a88890c026a619e4e41d37eb1509776d48b0c",
+      "bytes": 65905
+    },
+    {
+      "path": "daft/02160-bf31e2519aaa75ac-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "23eddb99377540142704269c057adeeb4747153bfa82462c9e0b5ac079f90007",
+      "bytes": 8163
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

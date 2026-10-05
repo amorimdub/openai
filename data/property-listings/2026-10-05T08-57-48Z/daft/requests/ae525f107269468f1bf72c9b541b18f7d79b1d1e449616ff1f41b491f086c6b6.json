@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-murrough-drive-close-to-atu-renmore-murroogh-co-galway/6684380",
+  "fetchedAt": "2026-10-05T09:42:47.550Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-murrough-drive-close-to-atu-renmore-murroogh-co-galway/6684380",
+  "kind": "listing",
+  "responseSha256": "6f1e94a754b01c1bf9f4158441c6c4739894a84755d2258b5735aa485f3a73fd",
+  "files": [
+    {
+      "path": "daft/01798-ae525f107269468f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "06354f5c69706cb310e4606a31255f6545f17e5df50c220ca7a73ca97f02d371",
+      "bytes": 22632
+    },
+    {
+      "path": "daft/01798-ae525f107269468f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d9b07402264528bb420d3844a4ad638f5fab3cf63556084085f5aa851c19a212",
+      "bytes": 8011
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

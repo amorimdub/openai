@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=98",
+  "fetchedAt": "2026-10-05T11:04:24.242Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=98",
+  "kind": "search",
+  "responseSha256": "4df000a8cd48d915f8bb8b570e47d3e95433c80da9693ca2563db98a5bb2793a",
+  "files": [
+    {
+      "path": "myhome/02543-810e8d266b3677e6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=98\"].SearchResults",
+      "sha256": "222031bf2029f7ce709cc43ceb7f4a50b18b3c60e241bb5c3221c33d0ea4f1a1",
+      "bytes": 108352
+    },
+    {
+      "path": "myhome/02543-810e8d266b3677e6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=98\"] (paging fields)",
+      "sha256": "818138bdfbe609370df578a3cd33b61a3b64ff54d586a7a242ac5f3f104a6d1e",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-rockford-manor-stradbrook-road-blackrock-county-dublin/5030011",
+    "https://www.myhome.ie/residential/brochure/12-oak-dene-ballinclea-road-killiney-co-dublin/5030414",
+    "https://www.myhome.ie/residential/brochure/27-the-court-high-park-drumcondra-dublin-9/5016807",
+    "https://www.myhome.ie/residential/brochure/apt-56-venetian-hall-howth-rd-killester-dublin-5/5029177",
+    "https://www.myhome.ie/residential/brochure/29-ardcahon-way-coolkellure-lehenaghmore-cork/5030412",
+    "https://www.myhome.ie/residential/brochure/19-drynam-court-swords-dublin/5030410",
+    "https://www.myhome.ie/residential/brochure/55-moylaragh-rise-balbriggan-co-dublin/4962883",
+    "https://www.myhome.ie/residential/brochure/53-castlemill-balbriggan-co-dublin/4996033",
+    "https://www.myhome.ie/residential/brochure/52-clonuske-drive-balbriggan-co-dublin/4996725",
+    "https://www.myhome.ie/residential/brochure/8-dublin-street-balbriggan-co-dublin/5009210",
+    "https://www.myhome.ie/residential/brochure/18-the-cornmill-vauxhall-street-balbriggan-co-dublin/5014828",
+    "https://www.myhome.ie/residential/brochure/1-old-schoolyard-oldtown-co-dublin/5004848",
+    "https://www.myhome.ie/residential/brochure/galbolie-bailieborough-cavan/5030398",
+    "https://www.myhome.ie/residential/brochure/gortagarry-toomevara-nenagh-co-tipperary/5030411",
+    "https://www.myhome.ie/residential/brochure/144-kildare-road-crumlin-dublin-12/5017353",
+    "https://www.myhome.ie/residential/brochure/2-auburn-house-71-strand-road-bray-co-wicklow/5030404",
+    "https://www.myhome.ie/residential/brochure/24-sutton-grove-sutton-dublin-13/5007068",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-semi-detached-house-hollywood-hollystown-dublin-15/5030401",
+    "https://www.myhome.ie/residential/brochure/22-tramway-court-sutton-dublin-13/4928741",
+    "https://www.myhome.ie/residential/brochure/12-barry-avenue-mervue-galway/5030403"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=99",
+  "paginationLimited": false
+}

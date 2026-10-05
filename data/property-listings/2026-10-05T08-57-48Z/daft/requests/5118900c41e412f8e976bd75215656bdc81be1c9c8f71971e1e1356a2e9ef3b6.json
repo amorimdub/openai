@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-278-block-7a-tallaght-cross-west-tallaght-dublin-24/6669200",
+  "fetchedAt": "2026-10-05T09:12:27.135Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-278-block-7a-tallaght-cross-west-tallaght-dublin-24/6669200",
+  "kind": "listing",
+  "responseSha256": "4ded41b41b1ca503a26651b1178fbb4d4f6c1bf295c4fd75e0a7f9181d5b7ceb",
+  "files": [
+    {
+      "path": "daft/00586-5118900c41e412f8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1b0ae9e001dfc327f261da2ac760f4408e7d432955becdebcfdabe97e74fcd88",
+      "bytes": 12059
+    },
+    {
+      "path": "daft/00586-5118900c41e412f8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "45f65d51aea9272ede9af01f5302e6b2660174c50bb7a87cf07ce118f82a5a77",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

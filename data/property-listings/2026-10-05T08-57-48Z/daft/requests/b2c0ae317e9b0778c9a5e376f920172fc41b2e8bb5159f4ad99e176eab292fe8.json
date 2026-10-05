@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-66-forbes-quay-apartments-dublin-2/6682832",
+  "fetchedAt": "2026-10-05T09:52:56.038Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-66-forbes-quay-apartments-dublin-2/6682832",
+  "kind": "listing",
+  "responseSha256": "2b48f8460aff261a28680bd1c5815317206c57ef45a53bde230351f5fbced8cd",
+  "files": [
+    {
+      "path": "daft/02203-b2c0ae317e9b0778-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e179d9bd2fa781ff44ffcfa439ecd496d95da6935d11cefb61ecbd94b572bab9",
+      "bytes": 41019
+    },
+    {
+      "path": "daft/02203-b2c0ae317e9b0778-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1138b5107ca4122d5efc9bceae06cefc3e275083b0e1ab3337e373d74ddd045e",
+      "bytes": 8107
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

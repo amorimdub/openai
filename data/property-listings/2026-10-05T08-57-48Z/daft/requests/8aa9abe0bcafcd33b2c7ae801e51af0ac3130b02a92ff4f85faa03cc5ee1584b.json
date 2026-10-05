@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/laurel-walk-bandon-co-cork/6490386",
+  "fetchedAt": "2026-10-05T09:11:09.022Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/laurel-walk-bandon-co-cork/6490386",
+  "kind": "listing",
+  "responseSha256": "0eae02fdc70ad330ba76ae1f7a28a2cdca2020089b5d4c01421b3d46c53d34d6",
+  "files": [
+    {
+      "path": "daft/00534-8aa9abe0bcafcd33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3a5f03e717d0976c585fe669aee8d9f0f6e57efbae2b04af4ba8c148acee3b94",
+      "bytes": 40015
+    },
+    {
+      "path": "daft/00534-8aa9abe0bcafcd33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d1fe084e42e2d541a78c8e2eebd6758b02df4cbc3e4538dff6c4b08419b9164e",
+      "bytes": 8028
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

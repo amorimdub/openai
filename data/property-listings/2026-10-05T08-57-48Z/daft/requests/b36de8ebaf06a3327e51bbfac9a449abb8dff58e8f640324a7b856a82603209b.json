@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/liberties-house-the-liberties-dublin-8/6157730",
+  "fetchedAt": "2026-10-05T08:59:21.285Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/liberties-house-the-liberties-dublin-8/6157730",
+  "kind": "listing",
+  "responseSha256": "c60eb5a3d186bf856bec6bf0e315d728271cd4130c7a779dca1b05a9cff21c7e",
+  "files": [
+    {
+      "path": "daft/00063-b36de8ebaf06a332-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f6a77ab8f4776c650be8b8b1a2dcd9299ecf12e4c245375f4cff88b23fa0672c",
+      "bytes": 277414
+    },
+    {
+      "path": "daft/00063-b36de8ebaf06a332-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d16509c204e8ec34834edc2a6ec68bc5131b5e616b3d1f1c63ef401e8b30921e",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

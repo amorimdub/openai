@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/107-saint-johns-crescent-clondalkin-dublin-22/6645334",
+  "fetchedAt": "2026-10-05T09:50:43.879Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/107-saint-johns-crescent-clondalkin-dublin-22/6645334",
+  "kind": "listing",
+  "responseSha256": "4c95f7c9374c8e9fe9432dcee4af6e48dd7fae4f6769d05ba442e0efd27980fb",
+  "files": [
+    {
+      "path": "daft/02115-9166168ce8453823-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1a845711f90f4cbd66fc8b9bbf1900e37022058ca6884484bcdc384ff1b470dd",
+      "bytes": 54196
+    },
+    {
+      "path": "daft/02115-9166168ce8453823-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ae01855fde3a09866e6f7ee33dcdd8175b1ff6dec510ccca481c48ad6154f134",
+      "bytes": 8095
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

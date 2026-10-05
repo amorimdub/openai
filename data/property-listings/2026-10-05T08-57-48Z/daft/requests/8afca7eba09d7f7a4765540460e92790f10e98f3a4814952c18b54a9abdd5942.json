@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/25-wesley-road-rathgar-dublin-6/6677025",
+  "fetchedAt": "2026-10-05T09:21:33.822Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/25-wesley-road-rathgar-dublin-6/6677025",
+  "kind": "listing",
+  "responseSha256": "3c64a26c5fff4bec90abd01705316dc6161d8bf45493b5104d41733df718c494",
+  "files": [
+    {
+      "path": "daft/00950-8afca7eba09d7f7a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ff37ee07d5c3973b5f09f21dcb034b3b1cdf80ff850cc45b17d9055d8eea38e1",
+      "bytes": 79961
+    },
+    {
+      "path": "daft/00950-8afca7eba09d7f7a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "84b6c3aec1a8a484f0cab02f4f1a90242bc6060d6a6348578d7bb9b9fa214fee",
+      "bytes": 7998
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

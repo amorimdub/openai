@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-occu-fairway-dun-laoghaire-fairway-drive-dun-laoghaire-co-dublin/5908561",
+  "fetchedAt": "2026-10-05T09:09:52.440Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-occu-fairway-dun-laoghaire-fairway-drive-dun-laoghaire-co-dublin/5908561",
+  "kind": "listing",
+  "responseSha256": "53d40b86ab48027f3289e17d81339298167af4a8928ab14b3356c6ed5fe5afaa",
+  "files": [
+    {
+      "path": "daft/00483-df8234978a94a83c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b865dfc907a2afb9dab88b7faba364e0b018c9a8484b5b152702b0d3e8f58419",
+      "bytes": 31997
+    },
+    {
+      "path": "daft/00483-df8234978a94a83c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "37511dfb36e7efbee2f282ea6df737c54db4a7db680439db965887d11fa95a83",
+      "bytes": 8200
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

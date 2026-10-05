@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cruicetown-nobber-nobber-co-meath/6684652",
+  "fetchedAt": "2026-10-05T09:36:38.069Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cruicetown-nobber-nobber-co-meath/6684652",
+  "kind": "listing",
+  "responseSha256": "f015d16978ad99ed203ddfc623d955f8b28a51aeabcca3de42c051faac9e3732",
+  "files": [
+    {
+      "path": "daft/01552-6d754391c9503174-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d94a98e9f1fedf441d7f6c980b9f5d449888e40cafe1f90b03fda12a3b4bef5d",
+      "bytes": 80064
+    },
+    {
+      "path": "daft/01552-6d754391c9503174-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "58c3ad3d2a4daeaf8f00c397aeb2825ca7da52fbc0c36f573952e667367a01df",
+      "bytes": 8137
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

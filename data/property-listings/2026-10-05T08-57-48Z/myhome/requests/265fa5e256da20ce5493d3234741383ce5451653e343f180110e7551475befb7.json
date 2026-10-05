@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=427",
+  "fetchedAt": "2026-10-05T13:54:26.536Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=427",
+  "kind": "search",
+  "responseSha256": "0272da38a6e601e127303e364f4ef62995a7ec1dbc45196d6b37206723e616e5",
+  "files": [
+    {
+      "path": "myhome/09306-265fa5e256da20ce-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=427\"].SearchResults",
+      "sha256": "9bcf7eaac2cb17a2aae52e015821fd4e21daa219a9198829a907e56f324bd437",
+      "bytes": 111533
+    },
+    {
+      "path": "myhome/09306-265fa5e256da20ce-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=427\"] (paging fields)",
+      "sha256": "61fe8c2fd887c4ebfbd98d2779ea259f4374620b1f1d3921fe4cdcc732554994",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/pilltown-kinsalebeg-waterford/5010929",
+    "https://www.myhome.ie/residential/brochure/ivors-court-ivors-lane-castledermot-co-kildare/5010979",
+    "https://www.myhome.ie/residential/brochure/7-summerseat-court-clonee-dublin-15/5010973",
+    "https://www.myhome.ie/residential/brochure/the-moate-hoganswood-clane-co-kildare/5010963",
+    "https://www.myhome.ie/residential/brochure/louth-hall-tallanstown-co-louth/5010953",
+    "https://www.myhome.ie/residential/brochure/23-millrace-walk-saggart-co-dublin/5010952",
+    "https://www.myhome.ie/residential/brochure/31-copper-point-schull-west-cork/5008110",
+    "https://www.myhome.ie/residential/brochure/17-watertower-apartments-retreat-road-athlone-co-westmeath/5010945",
+    "https://www.myhome.ie/residential/brochure/capdoo-clane-co-kildare/5010938",
+    "https://www.myhome.ie/residential/brochure/garnaman-kells-kilkenny/4968555",
+    "https://www.myhome.ie/residential/brochure/rusheen-36-woodvale-road-beaumont-ballintemple-cork/5010912",
+    "https://www.myhome.ie/residential/brochure/bridge-house-lower-street-rathdrum-co-wicklow/5010768",
+    "https://www.myhome.ie/residential/brochure/149-upper-mount-marian-milford-donegal/5010922",
+    "https://www.myhome.ie/residential/brochure/albany-house-126-126a-and-126b-rathgar-road-rathgar-dublin-6/4957701",
+    "https://www.myhome.ie/residential/brochure/104-leeson-street-upper-dublin-4/4994297",
+    "https://www.myhome.ie/residential/brochure/apartment-45-ashurst-mount-merrion-avenue-blackrock-co-dublin/5010916",
+    "https://www.myhome.ie/residential/brochure/3-cluain-caislean-ferns-co-wexford/5010907",
+    "https://www.myhome.ie/residential/brochure/31-brunswick-court-stoneybatter-dublin-7/5010895",
+    "https://www.myhome.ie/residential/brochure/23-o-connell-s-avenue-listowel-co-kerry/5009311",
+    "https://www.myhome.ie/residential/brochure/34-ard-cluain-clonee-dublin-15/5010901"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=428",
+  "paginationLimited": false
+}

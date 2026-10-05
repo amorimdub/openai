@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST MICHAEL'S BLACKROCK",
+      "numPupils": 103,
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895737",
+        "lon": "-8.420081"
+      }
+    },
+    {
+      "schoolName": "SCOIL URSULA BLACKROCK",
+      "numPupils": 188,
+      "distance": {
+        "value": 0.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895924",
+        "lon": "-8.414103"
+      }
+    },
+    {
+      "schoolName": "BEAUMONT GIRLS NATIONAL SCHOOL",
+      "numPupils": 324,
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889430",
+        "lon": "-8.428812"
+      }
+    },
+    {
+      "schoolName": "BEAUMONT BOYS NATIONAL SCHOOL",
+      "numPupils": 289,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889010",
+        "lon": "-8.428425"
+      }
+    },
+    {
+      "schoolName": "LAVANAGH NATIONAL SCHOOL",
+      "numPupils": 41,
+      "distance": {
+        "value": 0.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.896454",
+        "lon": "-8.433735"
+      }
+    },
+    {
+      "schoolName": "BALLINTEMPLE NATIONAL SCHOOL",
+      "numPupils": 254,
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893130",
+        "lon": "-8.439667"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL MHACHAN",
+      "numPupils": 140,
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892265",
+        "lon": "-8.403284"
+      }
+    },
+    {
+      "schoolName": "HOLY CROSS NATIONAL SCHOOL",
+      "numPupils": 197,
+      "distance": {
+        "value": 1.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.894356",
+        "lon": "-8.401991"
+      }
+    },
+    {
+      "schoolName": "BONNINGTON SPECIAL SCHOOL",
+      "numPupils": 130,
+      "distance": {
+        "value": 1.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.906820",
+        "lon": "-8.438550"
+      }
+    },
+    {
+      "schoolName": "ST. PAUL'S SCHOOL",
+      "numPupils": 92,
+      "distance": {
+        "value": 1.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907394",
+        "lon": "-8.437640"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "URSULINE COLLEGE BLACKROCK",
+      "numPupils": 359,
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895750",
+        "lon": "-8.416107"
+      }
+    },
+    {
+      "schoolName": "CORK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 409,
+      "distance": {
+        "value": 1.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892235",
+        "lon": "-8.402829"
+      }
+    },
+    {
+      "schoolName": "NAGLE COMMUNITY COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 1.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.891280",
+        "lon": "-8.402980"
+      }
+    },
+    {
+      "schoolName": "REGINA MUNDI COLLEGE",
+      "numPupils": 562,
+      "distance": {
+        "value": 1.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.883150",
+        "lon": "-8.443823"
+      }
+    },
+    {
+      "schoolName": "ASHTON SCHOOL",
+      "numPupils": 532,
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893370",
+        "lon": "-8.452039"
+      }
+    },
+    {
+      "schoolName": "DOUGLAS COMMUNITY SCHOOL",
+      "numPupils": 562,
+      "distance": {
+        "value": 2.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.878690",
+        "lon": "-8.442356"
+      }
+    },
+    {
+      "schoolName": "MAYFIELD COMMUNITY SCHOOL",
+      "numPupils": 345,
+      "distance": {
+        "value": 2.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912518",
+        "lon": "-8.443581"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 2.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908325",
+        "lon": "-8.454953"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHRÍOST RÍ",
+      "numPupils": 506,
+      "distance": {
+        "value": 2.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889626",
+        "lon": "-8.464475"
+      }
+    },
+    {
+      "schoolName": "CHRIST KING GIRLS' SECONDARY SCHOOL",
+      "numPupils": 703,
+      "distance": {
+        "value": 2.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.884270",
+        "lon": "-8.462226"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Marian Park",
+      "route": "202",
+      "destination": "Mahon",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.891504782037",
+        "lon": "-8.4214647267744"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dundanion Court",
+      "route": "212",
+      "destination": "Kent Train Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.896535",
+        "lon": "-8.420102"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Marian Park",
+      "route": "202A",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.8914247141308",
+        "lon": "-8.42123152507844"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Lawn",
+      "route": "202",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.891398",
+        "lon": "-8.426055"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Lawn",
+      "route": "202A",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.891398",
+        "lon": "-8.426055"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Blackrock Ch",
+      "route": "212",
+      "destination": "Kent Train Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.896893",
+        "lon": "-8.417781"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Crescent",
+      "route": "202A",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892634825989",
+        "lon": "-8.42964041935928"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Beaumont Crescent",
+      "route": "202",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892634825989",
+        "lon": "-8.42964041935928"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sylvan Bank",
+      "route": "202A",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889679",
+        "lon": "-8.419225"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sylvan Bank",
+      "route": "202",
+      "destination": "Knocknaheeny",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889679",
+        "lon": "-8.419225"
+      }
+    }
+  ]
+}

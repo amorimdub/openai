@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apt-5-c-j-s-linenhall-street-castlebar-co-mayo/6682894",
+  "fetchedAt": "2026-10-05T09:52:07.987Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apt-5-c-j-s-linenhall-street-castlebar-co-mayo/6682894",
+  "kind": "listing",
+  "responseSha256": "4c2a1dde25aa64cb5e83f652583f87acfb4483c8f47ba14bf515624bd5c9927e",
+  "files": [
+    {
+      "path": "daft/02171-d69a1a22e14418a6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9d8af471d8db976645171db49a2fd314a6df1edae3d548e731ff6fc19056528e",
+      "bytes": 11234
+    },
+    {
+      "path": "daft/02171-d69a1a22e14418a6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ab974c2d51afc77f2652bf95793de9290a6891fddff453933768aa145ba53f21",
+      "bytes": 8006
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

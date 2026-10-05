@@ -1,0 +1,410 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "caher road mungret raheen limerick v94k5wd",
+    "GroupId": 363503,
+    "Address": "Caher Road Mungret",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/01211a9a-e0c4-4037-ac54-268d07f03dc2_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/01211a9a-e0c4-4037-ac54-268d07f03dc2_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/01211a9a-e0c4-4037-ac54-268d07f03dc2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/43a88a57-1f21-4c3a-9678-108b6f96ef53_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/b9b8c19d-3eae-4600-b75f-1308b846bb8f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4e9580c7-f337-4f71-9d46-64c4ad73f0aa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/a918b189-72bb-48fb-82cc-c2bfc1c1a86c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4780c646-19ae-499b-9430-0f48582da02e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d983d9d9-afc6-4ecc-a339-51cbf6d77f3d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/55b2139b-2dfb-4adc-8e2d-28e85187ecb6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/549d71be-bb52-4e2a-907a-62aa21700c5a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/79447b1f-71e7-40f5-aa57-76b0ae80bb30_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/53f7f0db-2dfe-4638-9ff2-2446c9db352d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/88c81f34-5fa4-4209-88bd-becd65ca12f6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/85d41335-13fe-4a13-b2b1-136d9581a185_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/914594ff-741b-4c7d-8c19-0bc2aaa8176a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d3580542-bc6d-4971-8a93-998b67a59d93_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/13050405-a6ce-49e7-81d0-c6725051970b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/99f2d97f-16f1-4021-b5f6-a9392f5c990a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/8cbde2d5-89f2-41ab-99e2-c43a2c28a86b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/732dcaf1-682e-4dec-b7ce-f3d0fbd9ccef_l.jpg",
+      "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d0b5c9bb-11a1-4341-8c22-0a718e13cceb_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 115.199722290039,
+    "MaxSize": 115.199722290039,
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 28,
+        "Name": "No Pets",
+        "CreatedOn": "2018-09-11T10:20:24.0170000+01:00",
+        "IconName": "myh-icon-no-pets",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Recently renovated Apartment in semi detached bungalow in immaculate condition for rent. 3 minutes drive to Raheen industrial estate and 5 mins drive to university hospital limerick. Comes with 2 en-suite bedrooms, separate office room, separate toilet in corridor, kitchen, dinning room, large utility room and outside patio area. No smoking / vapour and no pets allowed. Suitable for 2 to 3 people."
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-08-12T18:37:26.6430000+01:00",
+    "ModifiedOnDate": "2026-08-13T09:22:35.9200000+01:00",
+    "IsPremiumAd": false,
+    "RefreshedOn": "2026-10-05T07:22:03.5070000+01:00",
+    "ExpiresOn": "2026-11-10T00:00:00.0000000+00:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": true,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "Jack",
+      "Phone": "0868263484",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "",
+    "IsTransact": false,
+    "PriceAsString": "€2,000 / month",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5021338,
+    "BedsString": "2 beds",
+    "SizeStringFeet": 1240,
+    "DisplayAddress": "Caher Road Mungret, Raheen, Limerick, V94K5WD",
+    "Eircode": "V94K5WD",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 2594,
+    "RegionName": "Limerick City",
+    "LocalityId": 4162,
+    "LocalityName": "Raheen",
+    "Price": {
+      "MinRentalPrice": 2000,
+      "MaxRentalPrice": 2000,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2000,
+      "AnnualServiceCharge": 0,
+      "ShowPrice": true,
+      "AvailableOn": "2026-08-15T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2000,
+      "MaxMonthlyRentalPrice": 2000
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/01211a9a-e0c4-4037-ac54-268d07f03dc2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/01211a9a-e0c4-4037-ac54-268d07f03dc2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/01211a9a-e0c4-4037-ac54-268d07f03dc2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/43a88a57-1f21-4c3a-9678-108b6f96ef53_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/43a88a57-1f21-4c3a-9678-108b6f96ef53_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/43a88a57-1f21-4c3a-9678-108b6f96ef53_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/b9b8c19d-3eae-4600-b75f-1308b846bb8f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/b9b8c19d-3eae-4600-b75f-1308b846bb8f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/b9b8c19d-3eae-4600-b75f-1308b846bb8f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4e9580c7-f337-4f71-9d46-64c4ad73f0aa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4e9580c7-f337-4f71-9d46-64c4ad73f0aa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4e9580c7-f337-4f71-9d46-64c4ad73f0aa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/a918b189-72bb-48fb-82cc-c2bfc1c1a86c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/a918b189-72bb-48fb-82cc-c2bfc1c1a86c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/a918b189-72bb-48fb-82cc-c2bfc1c1a86c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4780c646-19ae-499b-9430-0f48582da02e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4780c646-19ae-499b-9430-0f48582da02e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/4780c646-19ae-499b-9430-0f48582da02e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d983d9d9-afc6-4ecc-a339-51cbf6d77f3d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d983d9d9-afc6-4ecc-a339-51cbf6d77f3d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d983d9d9-afc6-4ecc-a339-51cbf6d77f3d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/55b2139b-2dfb-4adc-8e2d-28e85187ecb6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/55b2139b-2dfb-4adc-8e2d-28e85187ecb6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/55b2139b-2dfb-4adc-8e2d-28e85187ecb6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/549d71be-bb52-4e2a-907a-62aa21700c5a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/549d71be-bb52-4e2a-907a-62aa21700c5a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/549d71be-bb52-4e2a-907a-62aa21700c5a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/79447b1f-71e7-40f5-aa57-76b0ae80bb30_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/79447b1f-71e7-40f5-aa57-76b0ae80bb30_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/79447b1f-71e7-40f5-aa57-76b0ae80bb30_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/53f7f0db-2dfe-4638-9ff2-2446c9db352d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/53f7f0db-2dfe-4638-9ff2-2446c9db352d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/53f7f0db-2dfe-4638-9ff2-2446c9db352d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/88c81f34-5fa4-4209-88bd-becd65ca12f6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/88c81f34-5fa4-4209-88bd-becd65ca12f6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/88c81f34-5fa4-4209-88bd-becd65ca12f6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/85d41335-13fe-4a13-b2b1-136d9581a185_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/85d41335-13fe-4a13-b2b1-136d9581a185_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/85d41335-13fe-4a13-b2b1-136d9581a185_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/914594ff-741b-4c7d-8c19-0bc2aaa8176a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/914594ff-741b-4c7d-8c19-0bc2aaa8176a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/914594ff-741b-4c7d-8c19-0bc2aaa8176a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d3580542-bc6d-4971-8a93-998b67a59d93_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d3580542-bc6d-4971-8a93-998b67a59d93_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d3580542-bc6d-4971-8a93-998b67a59d93_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/13050405-a6ce-49e7-81d0-c6725051970b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/13050405-a6ce-49e7-81d0-c6725051970b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/13050405-a6ce-49e7-81d0-c6725051970b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/99f2d97f-16f1-4021-b5f6-a9392f5c990a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/99f2d97f-16f1-4021-b5f6-a9392f5c990a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/99f2d97f-16f1-4021-b5f6-a9392f5c990a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/8cbde2d5-89f2-41ab-99e2-c43a2c28a86b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/8cbde2d5-89f2-41ab-99e2-c43a2c28a86b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/8cbde2d5-89f2-41ab-99e2-c43a2c28a86b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/732dcaf1-682e-4dec-b7ce-f3d0fbd9ccef_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/732dcaf1-682e-4dec-b7ce-f3d0fbd9ccef_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/732dcaf1-682e-4dec-b7ce-f3d0fbd9ccef_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d0b5c9bb-11a1-4341-8c22-0a718e13cceb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d0b5c9bb-11a1-4341-8c22-0a718e13cceb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/8/3/3/5021338/d0b5c9bb-11a1-4341-8c22-0a718e13cceb_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -8.6813332,
+      "latitude": 52.6193578
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 20,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 363503,
+    "Name": "Jack",
+    "DisplayPhone": "1",
+    "Email": "property@myhome.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "myhomeie-users",
+    "SeoName": "myhomeie-users",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/3/0/5/363503/logo.jpg",
+    "SalesLicense": "",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "raheen-limerick/4162",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/caher-road-mungret-raheen-limerick-v94k5wd/5021338",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 363503,
+    "MYH_LocalityID": 4162,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2594,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Central Heating",
+      "Microwave",
+      "Garden",
+      "Patio",
+      "Alarm",
+      "Walk In Shower",
+      "Full Furnished",
+      "Dishwasher",
+      "No Pets"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Central Heating,Microwave,Garden,Patio,Alarm,Walk In Shower,Full Furnished,Dishwasher,No Pets",
+    "MYH_MinBeds": 2,
+    "MYH_MinSize": 1240,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5021338,
+    "MYH_PropertyTypeID": 74
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=40",
+  "fetchedAt": "2026-10-05T09:43:29.625Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=40",
+  "kind": "search",
+  "responseSha256": "38264db576c75cfa6c30d31ce24cf786b853598e78a18c4bff051e3b37c80389",
+  "files": [
+    {
+      "path": "daft/01826-aba8aabeac32c77d-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "0319bf5c41279d56125a17eb40bf34b4ade2d48995bb23a08c250470967ce84d",
+      "bytes": 261007
+    },
+    {
+      "path": "daft/01826-aba8aabeac32c77d-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01826-aba8aabeac32c77d-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "c3a011b453de74d39174d6cc557e505ecbad2179d8b0ee6e7ffa24c6f70d2ba0",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/cloonkeen-williamstown-co-galway/6684186",
+    "https://www.daft.ie/for-rent/apartment-adelaide-square-whitefriar-street-dublin-2-dublin-8/6684192",
+    "https://www.daft.ie/for-rent/44-niall-street-dublin-7-arbour-hill-dublin-7/6684173",
+    "https://www.daft.ie/for-rent/78-rivermill-view-navan-co-meath/6684190",
+    "https://www.daft.ie/for-rent/ely-hall-hazelbrook-square-churchtown-dublin-14/6684179",
+    "https://www.daft.ie/for-rent/40-westland-row-dublin-2/6684140",
+    "https://www.daft.ie/for-rent/north-circular-road-dublin-7/6684162",
+    "https://www.daft.ie/for-rent/berwick-hall-churchtown-dublin-14/6684117",
+    "https://www.daft.ie/for-rent/7a-rochelle-court-old-blackrock-road-ballinlough-co-cork/6684129",
+    "https://www.daft.ie/for-rent/52-rockvale-rathbawn-castlebar-co-mayo/6684149",
+    "https://www.daft.ie/for-rent/apartment-110-maritana-gate-waterford-city-centre-co-waterford/6684145",
+    "https://www.daft.ie/for-rent/83-academy-square-navan-co-meath/6684135",
+    "https://www.daft.ie/for-rent/apartment-10-48-haddington-road-ballsbridge-dublin-4/6684121",
+    "https://www.daft.ie/for-rent/apartment-16-oak-glade-court-blessington-road-naas-co-kildare/6684102",
+    "https://www.daft.ie/for-rent/elsmore-naas-co-kildare/6684077",
+    "https://www.daft.ie/for-rent/21a-quay-street-balbriggan-balbriggan-co-dublin/6684037",
+    "https://www.daft.ie/for-rent/main-street-ballycanew-gorey-co-wexford/6684073",
+    "https://www.daft.ie/for-rent/12-fairview-cottages-kildare-kildare-co-kildare/6684058",
+    "https://www.daft.ie/for-rent/orchard-grove-dublin-15-coolmine-dublin-15/6684048",
+    "https://www.daft.ie/for-rent/griffith-hall-glandore-rd-drumcondra-dublin-9/6684046"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=41",
+  "paginationLimited": false
+}

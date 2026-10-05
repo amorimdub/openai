@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/moathill-navan-co-meath/6683598",
+  "fetchedAt": "2026-10-05T09:17:26.058Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/moathill-navan-co-meath/6683598",
+  "kind": "listing",
+  "responseSha256": "d3c9504f4b706945cce76638cfd3fef4b203d90acb4423a798e7aa28a98fd44f",
+  "files": [
+    {
+      "path": "daft/00785-1a0dca75541a2f8e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2f54eae68eab720d85584787f055151812faab9e5134bdd73409ee6c8083899f",
+      "bytes": 22264
+    },
+    {
+      "path": "daft/00785-1a0dca75541a2f8e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ec6243036c8a3227ba935a4e0c2628df4cb106397a6de0d652fb25f140988d76",
+      "bytes": 8219
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

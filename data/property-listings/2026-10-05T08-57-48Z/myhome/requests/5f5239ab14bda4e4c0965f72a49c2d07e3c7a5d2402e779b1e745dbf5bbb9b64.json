@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=149",
+  "fetchedAt": "2026-10-05T11:31:12.183Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=149",
+  "kind": "search",
+  "responseSha256": "ff4ab1b3d408348cad6e9814a14584cd3129923d5aa3cc0c475e344c26e34edb",
+  "files": [
+    {
+      "path": "myhome/03594-5f5239ab14bda4e4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=149\"].SearchResults",
+      "sha256": "d0a9266ef12f8ca71b4f8fa84f4e4fc0be720d81ee008329a2505287e7ab668c",
+      "bytes": 121585
+    },
+    {
+      "path": "myhome/03594-5f5239ab14bda4e4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=149\"] (paging fields)",
+      "sha256": "9ff3e60ee1936be89c30c9730b1931f0ac0ffbf925f8bcc1f2a20ad00b269afd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/24-bengal-terrace-limerick-county-limerick/5028984",
+    "https://www.myhome.ie/residential/brochure/mountain-view-sonnagh-charlestown-co-mayo/5028982",
+    "https://www.myhome.ie/residential/brochure/16-hollywoodrath-road-hollystown-dublin-15/5026498",
+    "https://www.myhome.ie/residential/brochure/faoi-lion-sail-spout-road-rush-co-dublin/5028979",
+    "https://www.myhome.ie/residential/brochure/no-89-cluain-dara-clonard-wexford-town-wexford/5028973",
+    "https://www.myhome.ie/residential/brochure/44-the-walk-moyglare-hall-maynooth-county-kildare/5028978",
+    "https://www.myhome.ie/residential/brochure/2-no-sites-c-0-85-acres-each-mullaghardagh-dysart-county-roscommon/5028977",
+    "https://www.myhome.ie/residential/brochure/252-castlecurragh-heath-castlecurragh-mulhuddart-dublin-15/5026496",
+    "https://www.myhome.ie/residential/brochure/coolnagurrane-skibbereen-west-cork/5028961",
+    "https://www.myhome.ie/residential/brochure/61-merton-hall-mount-saint-annes-milltown-dublin-6/5028975",
+    "https://www.myhome.ie/residential/brochure/8-calverstown-gate-calverstown-kilcullen-co-kildare/5028974",
+    "https://www.myhome.ie/residential/brochure/70-carrigmore-crescent-citywest-co-dublin/5028970",
+    "https://www.myhome.ie/residential/brochure/14-the-view-santry-dublin-9/5028949",
+    "https://www.myhome.ie/residential/brochure/no-26-hollybank-drive-clongowen-waterford-road-kilkenny-kilkenny/5028953",
+    "https://www.myhome.ie/residential/brochure/9-chipping-terrace-ongar-dublin-15/5028969",
+    "https://www.myhome.ie/residential/brochure/ash-grove-baltyboys-blessington-wicklow/5005595",
+    "https://www.myhome.ie/residential/brochure/apartment-22-core-c-rosse-court-heights-lucan-county-dublin/5010159",
+    "https://www.myhome.ie/residential/brochure/26-dursey-row-waterville-blanchardstown-dublin-15/5027449",
+    "https://www.myhome.ie/residential/brochure/27-beech-lodge-farmleigh-castleknock-dublin-15/5025224",
+    "https://www.myhome.ie/residential/brochure/2-ridge-hall-ballybrack-county-dublin/5028959"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=150",
+  "paginationLimited": false
+}

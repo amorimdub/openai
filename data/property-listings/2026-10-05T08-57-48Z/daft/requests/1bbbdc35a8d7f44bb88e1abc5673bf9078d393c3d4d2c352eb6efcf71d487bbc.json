@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-28-downview-t12pf86-victoria-cross-co-cork/6684871",
+  "fetchedAt": "2026-10-05T09:39:51.779Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-28-downview-t12pf86-victoria-cross-co-cork/6684871",
+  "kind": "listing",
+  "responseSha256": "0384eb6d9153b014c9c8dc63e495e41bb2aeff359ed62776691f3e756aebcef7",
+  "files": [
+    {
+      "path": "daft/01681-1bbbdc35a8d7f44b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "83c980ff8f0599e71b22bc6cdf0451e3e1922f96a00606db1eeacc4420632030",
+      "bytes": 29648
+    },
+    {
+      "path": "daft/01681-1bbbdc35a8d7f44b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "05c2ad19ad3724e545f976f9c8174adcfa8802a1c42c62b7898a08c18234e3c4",
+      "bytes": 8117
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

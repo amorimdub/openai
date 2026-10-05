@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/saint-martins-41-monkstown-avenue-monkstown-co-dublin/6661232",
+  "fetchedAt": "2026-10-05T09:11:43.566Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/saint-martins-41-monkstown-avenue-monkstown-co-dublin/6661232",
+  "kind": "listing",
+  "responseSha256": "f9d77a43840cd389da3eae821e76ac7fa2bad942fbe7060154dd69ed3899917a",
+  "files": [
+    {
+      "path": "daft/00557-65eb3602672de789-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4ecb80a0d186b0224b16f02ed69689d31ffd807cd5b34b3349ab1f6b3a910a9f",
+      "bytes": 49427
+    },
+    {
+      "path": "daft/00557-65eb3602672de789-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "027941e25d742feea5c27b7f8e1d9d1e262ca23cad6715121b4b58df9e1fe07a",
+      "bytes": 8144
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

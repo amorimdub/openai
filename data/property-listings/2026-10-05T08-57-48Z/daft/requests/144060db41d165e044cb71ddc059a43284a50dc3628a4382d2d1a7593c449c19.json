@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/coolagh-well-beamore-road-drogheda-co-louth/6683786",
+  "fetchedAt": "2026-10-05T09:46:46.467Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/coolagh-well-beamore-road-drogheda-co-louth/6683786",
+  "kind": "listing",
+  "responseSha256": "e4aecb02c2f3eab8f799c645def109caf41a8c6f3e314f4c1adc13dc6514e823",
+  "files": [
+    {
+      "path": "daft/01957-144060db41d165e0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "feac9f58065f5f0839ae789ebee1264bab4e576d4c9fc519c28562d61fea486e",
+      "bytes": 21172
+    },
+    {
+      "path": "daft/01957-144060db41d165e0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3e564f4dd48d2a3a3bd07c30e7b03816c097b171d53c8aa85c9f054e07240e55",
+      "bytes": 8092
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent",
+  "fetchedAt": "2026-10-05T08:57:49.683Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "38cd84df05c2c4494ada79ef003196e68225b3295964c88fbf5e55c3c1ba3142",
+  "files": [
+    {
+      "path": "myhome/00002-d4f2475acc5ee6c5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent\"].SearchResults",
+      "sha256": "145db93cda6b18b0bc8981bcd55fc2e954913ffaba125dde29842a64a2dc1db0",
+      "bytes": 85827
+    },
+    {
+      "path": "myhome/00002-d4f2475acc5ee6c5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent\"] (paging fields)",
+      "sha256": "a684cd57fd6002483e7bc2d7bc0bce7f91819d3e379f67207b42395d0db56dae",
+      "bytes": 127
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/merrion-gardens-ballsbridge-dublin-4/4953838",
+    "https://www.myhome.ie/rentals/brochure/the-maltings-block-c-island-street-ushers-quay-dublin-8-dublin-d08-y768/5019053",
+    "https://www.myhome.ie/rentals/brochure/avalon-bissets-strand-malahide-dublin/5031007",
+    "https://www.myhome.ie/rentals/brochure/st-augustine-court-christchurch-dublin-8-d08-y132/5009233",
+    "https://www.myhome.ie/rentals/brochure/2-upper-john-street-the-green-cashel-cashel-tipperary-e25w135/5028365",
+    "https://www.myhome.ie/rentals/brochure/10a-lynch-lane-dun-laoghaire-dun-laoghaire-south-county-dublin-a96-nyk6/5019394",
+    "https://www.myhome.ie/rentals/brochure/34-phoenix-street-west-kilmainham-dublin-8-d10-x446/5029049",
+    "https://www.myhome.ie/rentals/brochure/23-holywell-green-swords-north-county-dublin-k67-k797/5026445",
+    "https://www.myhome.ie/rentals/brochure/irwin-court-eyre-square-galway-city-city-centre-galway-city-h91nh94/5030935",
+    "https://www.myhome.ie/rentals/brochure/apartment-30-georges-quay-apartments-george-s-quay-dublin-2-south-city-centre-dublin-2-d02a266/5031004",
+    "https://www.myhome.ie/rentals/brochure/charlesland-park-greystones-greystones-wicklow/4823923",
+    "https://www.myhome.ie/rentals/brochure/mountrice-monasterevin-co-kildare-kildare-town-kildare-w34kp73/5015851",
+    "https://www.myhome.ie/rentals/brochure/10-meathville-portobello-dublin-8-d08-r6t2/5028637",
+    "https://www.myhome.ie/rentals/brochure/caher-road-mungret-raheen-limerick-v94k5wd/5021338",
+    "https://www.myhome.ie/rentals/brochure/5minute-walk-from-main-street-wicklow-town-wicklow-town-wicklow/5028521",
+    "https://www.myhome.ie/rentals/brochure/51-the-alders-carrington-northwood-santry-dublin-9-do9w868/5031005",
+    "https://www.myhome.ie/rentals/brochure/whitethorn-gardens-palmerstown-palmerstown-dublin/4731962",
+    "https://www.myhome.ie/rentals/brochure/40-moulden-bridge-ratouth-ratoath-meath-a85xv50/5030743",
+    "https://www.myhome.ie/rentals/brochure/3-sursum-corda-dunlavin-dunlavin-wicklow-w91w8x4/5027557",
+    "https://www.myhome.ie/rentals/brochure/19-sterling-square-clonee-clonee-dublin-d15-ev91/5031549"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=2",
+  "paginationLimited": false
+}

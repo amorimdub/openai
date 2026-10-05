@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=405",
+  "fetchedAt": "2026-10-05T13:43:18.464Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=405",
+  "kind": "search",
+  "responseSha256": "1bec73b136edd9c14ed6ba37c389599bdef732aaa2665b1e698e3f1fc722b1b4",
+  "files": [
+    {
+      "path": "myhome/08862-63d40645ddbfd432-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=405\"].SearchResults",
+      "sha256": "a0ca0707ac69ad62471ca9f2f3306d5c81c5b61e74633a5580e2c066fa9809f2",
+      "bytes": 120233
+    },
+    {
+      "path": "myhome/08862-63d40645ddbfd432-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=405\"] (paging fields)",
+      "sha256": "d3e8aaff0cb1be739c8e34a804ac0e0af1bf9d05d75c4ff1343971c723efd979",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-clarendon-hall-aungier-street-dublin-2-dublin-d02-xw56/5014873",
+    "https://www.myhome.ie/residential/brochure/hillside-house-glenmore-robinstown-glenmore-kilkenny/5014866",
+    "https://www.myhome.ie/residential/brochure/6-cruises-hill-naul-village-naul-co-dublin/5014865",
+    "https://www.myhome.ie/residential/brochure/18-ferndale-cairns-road-sligo-sligo/5014854",
+    "https://www.myhome.ie/residential/brochure/72-blacklion-manor-greystones-co-wicklow/5014852",
+    "https://www.myhome.ie/residential/brochure/bohalas-ballaghaderreen-co-roscommon/5014835",
+    "https://www.myhome.ie/residential/brochure/52-horizon-building-royal-canal-park-ashtown-dublin-15/5014833",
+    "https://www.myhome.ie/residential/brochure/mapelwood-oldcastletown-kildorrery-cork/5014822",
+    "https://www.myhome.ie/residential/brochure/no-5-coolcotts-court-wexford-wexford-town-wexford/5014823",
+    "https://www.myhome.ie/residential/brochure/apartment-39-marymount-apartments-summerhill-carrick-on-shannon-leitrim/5014251",
+    "https://www.myhome.ie/residential/brochure/iona-suncroft-avenue-portmarnock-co-dublin/4999580",
+    "https://www.myhome.ie/residential/brochure/25-seamount-village-ardamine-gorey-county-wexford/5014812",
+    "https://www.myhome.ie/residential/brochure/west-end-main-street-ardara-co-donegal/5014809",
+    "https://www.myhome.ie/residential/brochure/halyards-camden-road-crosshaven-co-cork/5014808",
+    "https://www.myhome.ie/residential/brochure/sin-e-carrigeen-south-baltinglass-wicklow/5014797",
+    "https://www.myhome.ie/residential/brochure/hy-brasil-magherareagh-ardfinnan-clonmel-tipperary/5014792",
+    "https://www.myhome.ie/residential/brochure/23-weavers-hall-longford-longford/5014788",
+    "https://www.myhome.ie/residential/brochure/51-harmony-hill-letterkenny-co-donegal/5014791",
+    "https://www.myhome.ie/residential/brochure/6-glengown-silvermines-nenagh-tipperary/5014787",
+    "https://www.myhome.ie/residential/brochure/suntown-dunleer-drogheda-co-louth/5014784"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=406",
+  "paginationLimited": false
+}

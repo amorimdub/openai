@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-quayside-quarter-dublin-landings-north-wall-quay-dublin-1-dublin-1/6683320",
+  "fetchedAt": "2026-10-05T09:00:57.400Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-quayside-quarter-dublin-landings-north-wall-quay-dublin-1-dublin-1/6683320",
+  "kind": "listing",
+  "responseSha256": "4ccddf1c04165b1e0c87b45aaf7491daeb78c5ff00f94b098b968a762d288763",
+  "files": [
+    {
+      "path": "daft/00127-9d0f4c6457b9f26c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b50f54f634bdd9b1f20f6b86088ccbf19b8c75c705989b9c0bd650e797fb2fbe",
+      "bytes": 37602
+    },
+    {
+      "path": "daft/00127-9d0f4c6457b9f26c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1c0f77995786aa319eb956703345eadb3eba9bb3e7213299fbbe03de7db55e65",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

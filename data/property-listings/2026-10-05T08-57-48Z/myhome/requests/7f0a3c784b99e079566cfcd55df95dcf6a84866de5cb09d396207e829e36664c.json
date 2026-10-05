@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=23",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=23",
+  "fetchedAt": "2026-10-05T09:18:37.416Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "9163876bd59e4f729a488a46b02a51b34e6ec2973fd9c3ce5d03465f049ab893",
+  "files": [
+    {
+      "path": "myhome/00828-7f0a3c784b99e079-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=23\"].SearchResults",
+      "sha256": "b3542737d2df4005951c1534b1cad7ce32a18e5404380da2f19f156102e6fe3a",
+      "bytes": 110860
+    },
+    {
+      "path": "myhome/00828-7f0a3c784b99e079-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=23\"] (paging fields)",
+      "sha256": "e469d0107da723b39ec2c5c3f6f00d85ca5a05a0a0a2175b2225520c9798acd6",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/breaghva-kilrush-co-clare/5031848",
+    "https://www.myhome.ie/residential/brochure/forchester-inch-gorey-co-wexford/4996414",
+    "https://www.myhome.ie/residential/brochure/361-landen-road-ballyfermot-dublin-10/4986393",
+    "https://www.myhome.ie/residential/brochure/laraheen-gorey-co-wexford/5006561",
+    "https://www.myhome.ie/residential/brochure/194-landen-road-ballyfermot-dublin-10/5004400",
+    "https://www.myhome.ie/residential/brochure/224-le-fanu-road-ballyfermot-dublin-10/5011649",
+    "https://www.myhome.ie/residential/brochure/dromorehill-peterswell-gort-county-galway/5031845",
+    "https://www.myhome.ie/residential/brochure/36-bellamont-view-cootehill-cavan/5008561",
+    "https://www.myhome.ie/residential/brochure/apt-220-the-island-block-h-chapelizod-dublin-20/5031841",
+    "https://www.myhome.ie/residential/brochure/30-upper-grattan-park-greystones-wicklow/5031842",
+    "https://www.myhome.ie/residential/brochure/48-rossmore-road-ballyfermot-dublin-10/5031833",
+    "https://www.myhome.ie/residential/brochure/74-shrewsbury-park-ballsbridge-dublin-4/5026867",
+    "https://www.myhome.ie/residential/brochure/13-glasnevin-drive-glasnevin-dublin-11/5031840",
+    "https://www.myhome.ie/residential/brochure/129-manor-village-westport-road-castlebar-co-mayo/5031838",
+    "https://www.myhome.ie/residential/brochure/60-monastery-walk-clondalkin-dublin-22/5031836",
+    "https://www.myhome.ie/residential/brochure/cove-villa-1a-lower-albert-road-sandycove-co-dublin/5030770",
+    "https://www.myhome.ie/residential/brochure/3-bushfield-grove-clondalkin-dublin-22/5031835",
+    "https://www.myhome.ie/residential/brochure/18-trimleston-gardens-booterstown-co-dublin/4969555",
+    "https://www.myhome.ie/residential/brochure/13-st-patricks-park-donabate-dublin/3289190",
+    "https://www.myhome.ie/residential/brochure/45-beverton-meadows-donabate-county-dublin/5026826"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=24",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/103-rathmount-blackrock-co-louth/6558259",
+  "fetchedAt": "2026-10-05T09:48:30.124Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/103-rathmount-blackrock-co-louth/6558259",
+  "kind": "listing",
+  "responseSha256": "bb90a5e4e712b29a129501fb89024413ed0267c925905850dec3847b61ed4ae4",
+  "files": [
+    {
+      "path": "daft/02026-4497393eec2a168a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2789125b65bd55d79e2d28e6b1de35abe89c5755c9b6bd7a7757c719fd8ac898",
+      "bytes": 41785
+    },
+    {
+      "path": "daft/02026-4497393eec2a168a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ff97c7e1e67f2487f4fe97fbc9feb3ce18b803d1e113e1bcd901ce539ea6f0af",
+      "bytes": 8147
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

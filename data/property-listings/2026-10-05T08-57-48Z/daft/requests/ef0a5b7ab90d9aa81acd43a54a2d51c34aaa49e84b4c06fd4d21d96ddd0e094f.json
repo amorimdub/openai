@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-24-burleigh-court-ballsbridge-dublin-4/6683692",
+  "fetchedAt": "2026-10-05T09:47:58.582Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-24-burleigh-court-ballsbridge-dublin-4/6683692",
+  "kind": "listing",
+  "responseSha256": "68c474cdf7ec96b65f620d91d05e2b00163c0fa0845f4cc908bb2baf2ad91581",
+  "files": [
+    {
+      "path": "daft/02005-ef0a5b7ab90d9aa8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f034d59546394b073db9eb30c480f13e43dd1d93ef726238e07e779627c71de9",
+      "bytes": 59559
+    },
+    {
+      "path": "daft/02005-ef0a5b7ab90d9aa8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aeee572d427b190a2771f94f4303dd27d5daa2c57bb18fac9dfdb4f1f8a37dda",
+      "bytes": 8012
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

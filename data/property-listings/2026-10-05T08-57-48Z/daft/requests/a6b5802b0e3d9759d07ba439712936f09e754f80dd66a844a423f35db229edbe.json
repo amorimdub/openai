@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-culvert-apartments-the-coombe-dublin-8/6685868",
+  "fetchedAt": "2026-10-05T09:33:19.860Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-culvert-apartments-the-coombe-dublin-8/6685868",
+  "kind": "listing",
+  "responseSha256": "9d31a05286f600cb31e2978145716160d50d774a54eed4bd2491efb7e1808799",
+  "files": [
+    {
+      "path": "daft/01420-a6b5802b0e3d9759-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "76c4db3183c1ba52836b0b47a238eb32051758bf9b6858e32302e443e6c77074",
+      "bytes": 26561
+    },
+    {
+      "path": "daft/01420-a6b5802b0e3d9759-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7c69026afdabf7e5aca798b970d535d50a9905c5bd64fec55359c51a1d66f062",
+      "bytes": 8083
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

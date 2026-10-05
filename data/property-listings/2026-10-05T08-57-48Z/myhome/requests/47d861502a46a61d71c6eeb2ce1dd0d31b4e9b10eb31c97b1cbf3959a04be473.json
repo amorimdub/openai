@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=465",
+  "fetchedAt": "2026-10-05T14:14:16.960Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=465",
+  "kind": "search",
+  "responseSha256": "83d6751bd578eb9ccc70aba7a020f98b427254003f3a6e11e0dcbb4438c658a4",
+  "files": [
+    {
+      "path": "myhome/10098-47d861502a46a61d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=465\"].SearchResults",
+      "sha256": "b29bc042b6cb998f4914b5190d3cd82bbe0dff77987b1da1ccda70b19a4fc8db",
+      "bytes": 123318
+    },
+    {
+      "path": "myhome/10098-47d861502a46a61d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=465\"] (paging fields)",
+      "sha256": "29b0af018177209e9a454962f16eeceb65bdab4374c419a70b9d0c4f88949485",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/19-fairhaven-close-castleknock-dublin-15/4999218",
+    "https://www.myhome.ie/residential/brochure/28-blackrock-grove-eden-blackrock-cork-city/5006848",
+    "https://www.myhome.ie/residential/brochure/adare-rochestown-road-cork/5006852",
+    "https://www.myhome.ie/residential/brochure/56-glenard-crescent-galway-county-galway/5006832",
+    "https://www.myhome.ie/residential/brochure/the-green-paddocks-ballinamona-newbawn-wexford/5006733",
+    "https://www.myhome.ie/residential/brochure/29-c-irt-cregg-clifden-galway/5006811",
+    "https://www.myhome.ie/residential/brochure/fox-cover-view-lughill-monasterevin-kildare/5006642",
+    "https://www.myhome.ie/residential/brochure/woodview-tubberduff-gorey-co-wexford/5006806",
+    "https://www.myhome.ie/residential/brochure/apartment-33-the-hampton-ballymun-dublin-11-ballymun-dublin-9/5006803",
+    "https://www.myhome.ie/residential/brochure/market-street-ballyjamesduff-co-cavan/5006797",
+    "https://www.myhome.ie/residential/brochure/currinah-carracastle-ballaghaderreen-roscommon/5006787",
+    "https://www.myhome.ie/residential/brochure/big-francie-s-bar-main-street-ardara-co-donegal/5006786",
+    "https://www.myhome.ie/residential/brochure/31-dromard-road-dublin-12-dublin/5006777",
+    "https://www.myhome.ie/residential/brochure/ref-1232-ballyhearny-cottage-studio-ballyhearny-lower-valentia-island-kerry/5006752",
+    "https://www.myhome.ie/residential/brochure/3-churchfield-grove-with-attic-conversion-ashbourne-meath/4983165",
+    "https://www.myhome.ie/residential/brochure/3-the-dale-downshire-park-blessington-wicklow/5006770",
+    "https://www.myhome.ie/residential/brochure/86-wolfe-tone-street-cork-city-cork/5005302",
+    "https://www.myhome.ie/residential/brochure/50-carysfort-downs-blackrock-co-dublin/4956798",
+    "https://www.myhome.ie/residential/brochure/creewood-slane-meath/5006709",
+    "https://www.myhome.ie/residential/brochure/11-gort-alainn-aghabullogue-cork/5006731"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=466",
+  "paginationLimited": false
+}

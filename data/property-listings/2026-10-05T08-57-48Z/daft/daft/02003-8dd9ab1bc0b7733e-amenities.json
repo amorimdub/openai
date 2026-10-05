@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BALLYSHANNON NATIONAL SCHOOL",
+      "numPupils": 123,
+      "distance": {
+        "value": 3.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.087360",
+        "lon": "-6.814923"
+      }
+    },
+    {
+      "schoolName": "KILMEAD NATIONAL SCHOOL",
+      "numPupils": 160,
+      "distance": {
+        "value": 4.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.033867",
+        "lon": "-6.901692"
+      }
+    },
+    {
+      "schoolName": "SUNCROFT NATIONAL SCHOOL",
+      "numPupils": 45,
+      "distance": {
+        "value": 5.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.109318",
+        "lon": "-6.858888"
+      }
+    },
+    {
+      "schoolName": "CROOKSTOWN NATIONAL SCHOOL",
+      "numPupils": 259,
+      "distance": {
+        "value": 6.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.019560",
+        "lon": "-6.802297"
+      }
+    },
+    {
+      "schoolName": "BALLYSAX NATIONAL SCHOOL",
+      "numPupils": 151,
+      "distance": {
+        "value": 6.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.122100",
+        "lon": "-6.830623"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S NATIONAL SCHOOL HALVERSTOWN",
+      "numPupils": 49,
+      "distance": {
+        "value": 6.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.089760",
+        "lon": "-6.762104"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE",
+      "numPupils": 185,
+      "distance": {
+        "value": 7.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.094910",
+        "lon": "-6.948271"
+      }
+    },
+    {
+      "schoolName": "ST. CATHERINE OF SIENNA",
+      "numPupils": 149,
+      "distance": {
+        "value": 9.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.147910",
+        "lon": "-6.828034"
+      }
+    },
+    {
+      "schoolName": "JONATHAN SWIFT NATIONAL SCHOOL",
+      "numPupils": 42,
+      "distance": {
+        "value": 10.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.056797",
+        "lon": "-6.704271"
+      }
+    },
+    {
+      "schoolName": "KILCULLEN NATIONAL SCHOOL",
+      "numPupils": 634,
+      "distance": {
+        "value": 10.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.130146",
+        "lon": "-6.750783"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "CURRAGH COMMUNITY COLLEGE",
+      "numPupils": 300,
+      "distance": {
+        "value": 9.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.147810",
+        "lon": "-6.827705"
+      }
+    },
+    {
+      "schoolName": "CROSS AND PASSION COLLEGE",
+      "numPupils": 841,
+      "distance": {
+        "value": 10.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.129967",
+        "lon": "-6.746856"
+      }
+    },
+    {
+      "schoolName": "ST KEVIN'S COMMUNITY COLLEGE",
+      "numPupils": 803,
+      "distance": {
+        "value": 10.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.054165",
+        "lon": "-6.696851"
+      }
+    },
+    {
+      "schoolName": "ÁRDSCOIL NA TRIONÓIDE",
+      "numPupils": 882,
+      "distance": {
+        "value": 11.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.996178",
+        "lon": "-6.983561"
+      }
+    },
+    {
+      "schoolName": "ATHY COMMUNITY COLLEGE",
+      "numPupils": 655,
+      "distance": {
+        "value": 11.81,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.987110",
+        "lon": "-6.979499"
+      }
+    },
+    {
+      "schoolName": "KILDARE TOWN COMMUNITY SCHOOL",
+      "numPupils": 1021,
+      "distance": {
+        "value": 12.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.169964",
+        "lon": "-6.914079"
+      }
+    },
+    {
+      "schoolName": "ST CONLETH'S COMMUNITY COLLEGE",
+      "numPupils": 753,
+      "distance": {
+        "value": 13.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.182507",
+        "lon": "-6.800835"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY SECONDARY SCHOOL",
+      "numPupils": 777,
+      "distance": {
+        "value": 14.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.183290",
+        "lon": "-6.790011"
+      }
+    },
+    {
+      "schoolName": "PATRICIAN SECONDARY SCHOOL",
+      "numPupils": 917,
+      "distance": {
+        "value": 14.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.184414",
+        "lon": "-6.792434"
+      }
+    },
+    {
+      "schoolName": "NEWBRIDGE COLLEGE",
+      "numPupils": 915,
+      "distance": {
+        "value": 14.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.188553",
+        "lon": "-6.793397"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Narraghmore",
+      "route": "880",
+      "destination": "Carlow",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 2.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.04897",
+        "lon": "-6.83087"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyshannon",
+      "route": "130",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 3.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0868791348117",
+        "lon": "-6.81653701372006"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyshannon",
+      "route": "130A",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 3.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0868791348117",
+        "lon": "-6.81653701372006"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyshannon",
+      "route": "880",
+      "destination": "Carlow",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 3.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.08683",
+        "lon": "-6.81639"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Calverstown",
+      "route": "880",
+      "destination": "Naas",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 4.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.081424",
+        "lon": "-6.799521"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmead",
+      "route": "UM06",
+      "destination": "Maynooth University North Campus",
+      "provider": "JJ Kavanagh",
+      "distance": {
+        "value": 4.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0358677700825",
+        "lon": "-6.90516206525787"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmead",
+      "route": "130A",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 4.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0358677700825",
+        "lon": "-6.90516206525787"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmead",
+      "route": "130",
+      "destination": "Naas",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 4.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.0358677700825",
+        "lon": "-6.90516206525787"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Suncroft",
+      "route": "126B",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 4.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.1074",
+        "lon": "-6.86163"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Suncroft",
+      "route": "126D",
+      "destination": "Out of Service",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 5.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.10794",
+        "lon": "-6.861"
+      }
+    }
+  ]
+}

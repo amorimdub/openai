@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=281",
+  "fetchedAt": "2026-10-05T12:39:42.817Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=281",
+  "kind": "search",
+  "responseSha256": "4e7c48299f6f9ec3c6d19ed839043d62041b9e7d4395b400783ad1a1949f97b9",
+  "files": [
+    {
+      "path": "myhome/06328-4f23bd214707c6b8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=281\"].SearchResults",
+      "sha256": "2d2bdb41526e74bf05417d91560ff6d09e1f911daae1e1e2a3c268a6f4294c31",
+      "bytes": 121890
+    },
+    {
+      "path": "myhome/06328-4f23bd214707c6b8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=281\"] (paging fields)",
+      "sha256": "f626484a8e9aa1b4e39b37dbcbe041f8debfc0a710bbc882a358b16ddb58cde9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ref-1247-skelligs-view-loher-waterville-kerry/5025000",
+    "https://www.myhome.ie/residential/brochure/site-at-ballyhugh-gort-county-galway/5025018",
+    "https://www.myhome.ie/residential/brochure/cartonmore-drumcliff-sligo/5024447",
+    "https://www.myhome.ie/residential/brochure/avila-blackstick-main-street-prosperous-co-kildare/5025013",
+    "https://www.myhome.ie/residential/brochure/dangan-barnadearg-tuam-county-galway/5025012",
+    "https://www.myhome.ie/residential/brochure/ivy-cottage-deerpark-shillelagh-county-wicklow/5025009",
+    "https://www.myhome.ie/residential/brochure/7-rassan-road-derrylurgan-ballyjamesduff-co-cavan/5025008",
+    "https://www.myhome.ie/residential/brochure/7-cloverfield-listowel-co-kerry/5025006",
+    "https://www.myhome.ie/residential/brochure/holly-lodge-tobinstown-ramsgrange-wexford/5024742",
+    "https://www.myhome.ie/residential/brochure/110-mourne-road-drimnagh-dublin-12/5023024",
+    "https://www.myhome.ie/residential/brochure/22-carrow-road-drimnagh-dublin-12/5019812",
+    "https://www.myhome.ie/residential/brochure/63-james-connolly-park-clondalkin-dublin-22/5021248",
+    "https://www.myhome.ie/residential/brochure/2-castle-drive-clondalkin-dublin-22/5012086",
+    "https://www.myhome.ie/residential/brochure/turestin-newtown-road-wexford-wexford-town-wexford/5025002",
+    "https://www.myhome.ie/residential/brochure/no-82-upper-john-street-wexford-town-wexford/5024989",
+    "https://www.myhome.ie/residential/brochure/no-6-priory-court-saint-raphael-s-manor-celbridge-kildare/5024977",
+    "https://www.myhome.ie/residential/brochure/36-annaville-park-dundrum-dublin-14/5005123",
+    "https://www.myhome.ie/residential/brochure/saint-joseph-s-8-brookfield-lawn-the-lough-cork-city-cork/5024962",
+    "https://www.myhome.ie/residential/brochure/3-croneyhorn-lower-carnew-arklow-co-wicklow/5024988",
+    "https://www.myhome.ie/residential/brochure/glenameade-pallaskenry-county-limerick/5024985"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=282",
+  "paginationLimited": false
+}

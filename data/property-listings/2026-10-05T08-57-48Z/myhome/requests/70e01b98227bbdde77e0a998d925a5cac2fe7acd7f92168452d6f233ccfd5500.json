@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=174",
+  "fetchedAt": "2026-10-05T11:44:12.334Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=174",
+  "kind": "search",
+  "responseSha256": "748358daefbc8a5a587920b0cf3be4595068fca08ba7916300c5287caa6d8c8f",
+  "files": [
+    {
+      "path": "myhome/04113-70e01b98227bbdde-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=174\"].SearchResults",
+      "sha256": "30d943410ca4dcbfa6e95ea5ffa7af866c1ef86b10fb40f4f442f77d0718d866",
+      "bytes": 106617
+    },
+    {
+      "path": "myhome/04113-70e01b98227bbdde-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=174\"] (paging fields)",
+      "sha256": "277e0ad5f9a7543bd985b2a7f28a3b089bc8870ebc2ed6fd1e86e45af8013cdc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/94-bushy-park-house-terenure-dublin-6w/5006430",
+    "https://www.myhome.ie/residential/brochure/cloonameeltogue-shrule-mayo/5028334",
+    "https://www.myhome.ie/residential/brochure/12-beech-road-ard-na-greine-milltown-kerry/5028329",
+    "https://www.myhome.ie/residential/brochure/30-oaklands-park-sandymount-dublin-4/4979589",
+    "https://www.myhome.ie/residential/brochure/oughterard-parke-castlebar-mayo/5028330",
+    "https://www.myhome.ie/residential/brochure/90-templeville-road-templeogue-dublin-6w/5023371",
+    "https://www.myhome.ie/residential/brochure/rear-of-43-rathmines-road-upper-rathmines-dublin-6/5028327",
+    "https://www.myhome.ie/residential/brochure/8-oranview-oranhill-oranmore-co-galway/5028328",
+    "https://www.myhome.ie/residential/brochure/apartment-16-block-a-smithfield-market-smithfield-dublin-7/5028326",
+    "https://www.myhome.ie/residential/brochure/38-foxrock-green-foxrock-dublin-18/5028323",
+    "https://www.myhome.ie/residential/brochure/cloghleigh-golden-cashel-county-tipperary/5028325",
+    "https://www.myhome.ie/residential/brochure/8-nutley-lane-donnybrook-dublin-4/5028324",
+    "https://www.myhome.ie/residential/brochure/apartment-64-hampton-wood-road-hampton-wood-finglas-dublin-11/5028311",
+    "https://www.myhome.ie/residential/brochure/56-balally-park-dundrum-dublin-16/5004827",
+    "https://www.myhome.ie/residential/brochure/44-stillorgan-gate-upper-kilmacud-road-dublin-14/5028321",
+    "https://www.myhome.ie/residential/brochure/8-petitswood-manor-mullingar-co-westmeath/5028314",
+    "https://www.myhome.ie/residential/brochure/kilmurry-castleplunket-castlerea-co-roscommon/5028312",
+    "https://www.myhome.ie/residential/brochure/no-5-woodstown-meadow-knocklyon-dublin-16/5025829",
+    "https://www.myhome.ie/residential/brochure/26-liffey-street-south-inchicore-dublin-10-co-dublin/5028310",
+    "https://www.myhome.ie/residential/brochure/1-stewart-villas-carlingford-parade-dublin-2/5028306"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=175",
+  "paginationLimited": false
+}

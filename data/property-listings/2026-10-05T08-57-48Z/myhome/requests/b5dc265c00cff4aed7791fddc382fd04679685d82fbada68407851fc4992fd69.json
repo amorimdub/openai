@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=202",
+  "fetchedAt": "2026-10-05T11:58:37.238Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=202",
+  "kind": "search",
+  "responseSha256": "a9d5694bca4ff7f123c2cc92ebd93fd56254d3569eb1014e51be5c4ac3710ecc",
+  "files": [
+    {
+      "path": "myhome/04688-b5dc265c00cff4ae-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=202\"].SearchResults",
+      "sha256": "738ade2fc2e1cbcafd481819840ec035c377b0905cf446d85a66d2c02cf80338",
+      "bytes": 113659
+    },
+    {
+      "path": "myhome/04688-b5dc265c00cff4ae-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=202\"] (paging fields)",
+      "sha256": "7f3b66f55064ae621249aebae3f8887c742a921285e786098a3f7d8efe5ee790",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/101a-maples-road-wedgewood-sandyford-dublin-16/4782200",
+    "https://www.myhome.ie/residential/brochure/32-giltspur-brook-bray-co-wicklow/5027559",
+    "https://www.myhome.ie/residential/brochure/brooklawn-main-street-keshcarrigan-leitrim/5027550",
+    "https://www.myhome.ie/residential/brochure/knightstreet-ballingarry-limerick/5027491",
+    "https://www.myhome.ie/residential/brochure/6-church-field-doonbeg-kilrush-co-clare/5027551",
+    "https://www.myhome.ie/residential/brochure/13-farmleigh-close-castleknock-dublin-15/5025223",
+    "https://www.myhome.ie/residential/brochure/19-fernleigh-grove-carpenterstown-dublin-15/5026834",
+    "https://www.myhome.ie/residential/brochure/6-lios-an-oir-lismore-co-waterford/5027546",
+    "https://www.myhome.ie/residential/brochure/5-fairlane-o-connell-st-dungarvan-co-waterford/5027545",
+    "https://www.myhome.ie/residential/brochure/18-clonmore-terrace-north-strand-dublin-3/5027533",
+    "https://www.myhome.ie/residential/brochure/moores-cottage-the-demesne-frenchpark-roscommon/5027539",
+    "https://www.myhome.ie/residential/brochure/48-the-woods-glounthaune-co-cork/5027541",
+    "https://www.myhome.ie/residential/brochure/30-saint-anne-s-drive-montenotte-cork/5027540",
+    "https://www.myhome.ie/residential/brochure/14-latchford-drive-clonee-dublin-15/5021084",
+    "https://www.myhome.ie/residential/brochure/6-barnwell-place-hansfield-dublin-15/5014974",
+    "https://www.myhome.ie/residential/brochure/9-carrig-an-oir-tobarteascain-ennis-co-clare/5027538",
+    "https://www.myhome.ie/residential/brochure/3-summerseat-green-clonee-county-meath/4983733",
+    "https://www.myhome.ie/residential/brochure/site-with-f-p-p-annyalla-co-monaghan/5027534",
+    "https://www.myhome.ie/residential/brochure/45-standhouse-lawns-newbridge-co-kildare/5027532",
+    "https://www.myhome.ie/residential/brochure/78-blackrath-vale-athgarvan-newbridge-co-kildare/5011513"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=203",
+  "paginationLimited": false
+}

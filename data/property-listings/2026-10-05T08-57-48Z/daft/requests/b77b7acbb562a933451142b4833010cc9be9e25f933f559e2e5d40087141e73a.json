@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-13-newtown-court-eaton-brae-rathgar-dublin-14/6683570",
+  "fetchedAt": "2026-10-05T09:48:46.652Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-13-newtown-court-eaton-brae-rathgar-dublin-14/6683570",
+  "kind": "listing",
+  "responseSha256": "e55a5125765850756109327f1f740974cf294fef1d74e50606fa23890bc27e81",
+  "files": [
+    {
+      "path": "daft/02037-b77b7acbb562a933-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "755172b4743b46f9113e7a12d2f66d192f80a9437d53875e49aae762e0280b55",
+      "bytes": 28075
+    },
+    {
+      "path": "daft/02037-b77b7acbb562a933-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c33323415652380c89bc99b578e41700c1e35eca0df13afcba657a8dfa56003c",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-11-12-barrack-street-goresbridge-co-kilkenny/6685095",
+  "fetchedAt": "2026-10-05T09:38:44.205Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-11-12-barrack-street-goresbridge-co-kilkenny/6685095",
+  "kind": "listing",
+  "responseSha256": "920e0ec8b0676f008008d82de309a9087e6a245d026647efc10a416b12300790",
+  "files": [
+    {
+      "path": "daft/01636-3faa05e56d23466c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ab97798f4954b3d3c3b028b1fd92b1b897c8426fd973b8015e6ab22b67126a36",
+      "bytes": 13113
+    },
+    {
+      "path": "daft/01636-3faa05e56d23466c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "06ec80a24c03858b1e63e95f838a86e692128943904e21c5b0d5e15f79bc2a67",
+      "bytes": 8161
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

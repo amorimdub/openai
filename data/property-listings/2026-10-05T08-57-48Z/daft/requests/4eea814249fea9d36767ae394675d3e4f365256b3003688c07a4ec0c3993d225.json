@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-235-opus-6-hanover-quay-grand-canal-dock-dublin-2/6647046",
+  "fetchedAt": "2026-10-05T09:09:05.886Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-235-opus-6-hanover-quay-grand-canal-dock-dublin-2/6647046",
+  "kind": "listing",
+  "responseSha256": "bb00bbdf7e1b4946147e80676749c356f8f1ec03ccc49e469c616032fb528dcc",
+  "files": [
+    {
+      "path": "daft/00452-4eea814249fea9d3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "154217e8cc422bb11698fccd3518fda41e12fd967cc4c9c07f534dc394237487",
+      "bytes": 59940
+    },
+    {
+      "path": "daft/00452-4eea814249fea9d3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9f62cd85e2c8054be57ac61b233988668fa848de0abf389f3f996c38229e2743",
+      "bytes": 8049
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

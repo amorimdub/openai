@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-drogheda-bryanstown-beanmore-rd-drogheda-co-meath/4619880",
+  "fetchedAt": "2026-10-05T09:08:49.368Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-drogheda-bryanstown-beanmore-rd-drogheda-co-meath/4619880",
+  "kind": "listing",
+  "responseSha256": "d7aeafd4eeb2f53a99860dcd6300bf8c70091b1814ac3ae394de86e65b9934de",
+  "files": [
+    {
+      "path": "daft/00441-9536d9a1d98a8808-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a0d10dffd057d6e7fc25d85a725a83bbd1de463ff50f1590516887f1cf698b5e",
+      "bytes": 112821
+    },
+    {
+      "path": "daft/00441-9536d9a1d98a8808-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fbb7a4cbad6a051a5aaa4428dd87f2c2eea61d1203ae9b2550946e9bf1d63d24",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

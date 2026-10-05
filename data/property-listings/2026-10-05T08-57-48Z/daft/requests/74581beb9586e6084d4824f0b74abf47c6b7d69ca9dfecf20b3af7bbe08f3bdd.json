@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=21",
+  "fetchedAt": "2026-10-05T09:23:09.964Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=21",
+  "kind": "search",
+  "responseSha256": "17848898c84632c19efda8b949a3c413e21579eabd7e36b0b89d4d34bd1ee97d",
+  "files": [
+    {
+      "path": "daft/01014-74581beb9586e608-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a534a62fcb3a7e8bc7a20adb02b5f1c5b97a04ec5a6156bd841a7c0bf9efba23",
+      "bytes": 304954
+    },
+    {
+      "path": "daft/01014-74581beb9586e608-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01014-74581beb9586e608-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "453788cd7e788bb09d1d57b37c5e6f910c76ad7c34b1c9a156db450c0452863b",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/28-belmayne-avenue-belmayne-dublin-13/6675036",
+    "https://www.daft.ie/for-sale/140-newborough-gorey-co-wexford/6576256",
+    "https://www.daft.ie/for-sale/castletown-house-castletown-co-meath/6674988",
+    "https://www.daft.ie/for-sale/gillstown-great-athboy-co-meath/6559567",
+    "https://www.daft.ie/for-sale/25-hazel-court-convent-road-ballinrobe-co-mayo/6648442",
+    "https://www.daft.ie/for-sale/12-kingscourt-castlepollard-castlepollard-co-westmeath/6674906",
+    "https://www.daft.ie/for-sale/apartment-88-block-a-smithfield-market-smithfield-dublin-7/6674814",
+    "https://www.daft.ie/for-sale/6-willow-bank-sandyford-road-dundrum-dublin-16/6674299",
+    "https://www.daft.ie/for-sale/ballyhitt-house-our-ladys-island-co-wexford/6674732",
+    "https://www.daft.ie/for-sale/oak-lawns-clonee-road-westmanstown-lucan-co-dublin/6674720",
+    "https://www.daft.ie/for-sale/17-inchicore-terrace-south-inchicore-dublin-8-co-dublin/6669723",
+    "https://www.daft.ie/for-sale/ballinagare-castlerea-co-roscommon/6661457",
+    "https://www.daft.ie/for-sale/1-chestnut-grove-tulsk-co-roscommon/6666427",
+    "https://www.daft.ie/for-sale/residence-on-c-0-70-acres-at-gurteen-mountbellew-co-galway/6672163",
+    "https://www.daft.ie/for-sale/46-aughavannagh-road-dublin-12-crumlin-dublin-12/6674621",
+    "https://www.daft.ie/for-sale/an-chathair-kilroe-east-inverin-co-galway/6563116",
+    "https://www.daft.ie/for-sale/inchinvima-farranfore-killarney-co-kerry/6575141",
+    "https://www.daft.ie/for-sale/1-the-long-meadow-fethard-on-sea-co-wexford/6674580",
+    "https://www.daft.ie/for-sale/82-pinewood-estate-wexford-town-co-wexford/6669165",
+    "https://www.daft.ie/for-sale/198-sutton-park-sutton-dublin-13/6666120"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=22",
+  "paginationLimited": false
+}

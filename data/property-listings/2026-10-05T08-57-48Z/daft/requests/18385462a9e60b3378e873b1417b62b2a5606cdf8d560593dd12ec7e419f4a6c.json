@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/198-sutton-park-sutton-dublin-13/6666120",
+  "fetchedAt": "2026-10-05T09:24:43.109Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/198-sutton-park-sutton-dublin-13/6666120",
+  "kind": "listing",
+  "responseSha256": "3b6fa419cb52f31a82ce9664342e694df94d56ff9473b693d8ff4eedcd5a4eb9",
+  "files": [
+    {
+      "path": "daft/01076-18385462a9e60b33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5c857c85afb825065cba9ddeab934d866783f32d869ed2d330e82347dd110213",
+      "bytes": 39310
+    },
+    {
+      "path": "daft/01076-18385462a9e60b33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fa0e93672047157074358fdf8ea9246beab906531dd2a69dad4c31dc8f4fe3b6",
+      "bytes": 8126
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

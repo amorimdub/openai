@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/market-square-main-street-kilcullen-co-kildare/3512410",
+  "fetchedAt": "2026-10-05T09:05:16.132Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/market-square-main-street-kilcullen-co-kildare/3512410",
+  "kind": "listing",
+  "responseSha256": "25fcf8d6f2434ce3ce60f2f72b92dbc07b50be39632e92d7ea4bb813b536ac29",
+  "files": [
+    {
+      "path": "daft/00299-16714e490a6bd777-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1d9f7daac6dfa9e486fd3dcbb7dfa936b1008f94749db44adc15ce254530d3b3",
+      "bytes": 93529
+    },
+    {
+      "path": "daft/00299-16714e490a6bd777-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cfb268eb0bcefb5eb0072caa1febee382b1ee9ffed527c56793b5d255c122a72",
+      "bytes": 8188
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

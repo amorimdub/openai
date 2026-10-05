@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=137",
+  "fetchedAt": "2026-10-05T11:24:53.513Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=137",
+  "kind": "search",
+  "responseSha256": "c22de9cf6e77bf3070f77d202d7568a4f95eb0c934132d7fb30c33d1b0a43d49",
+  "files": [
+    {
+      "path": "myhome/03342-b9326056376586e9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=137\"].SearchResults",
+      "sha256": "95b505e75749b9e4cb4462a72fe85fc1da6c9527258dd83fce577a8057d7013b",
+      "bytes": 111149
+    },
+    {
+      "path": "myhome/03342-b9326056376586e9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=137\"] (paging fields)",
+      "sha256": "dd42c2c7f0198a56131065d6cf0b18697e57c44133111b8e1cf97ae22d10ed00",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/st-kilda-sandycove-avenue-east-sandycove-dublin/5029196",
+    "https://www.myhome.ie/residential/brochure/1-abbey-way-the-friary-wicklow-town-wicklow/5029278",
+    "https://www.myhome.ie/residential/brochure/19-aspen-drive-kinsealy-county-dublin/5028546",
+    "https://www.myhome.ie/residential/brochure/96-new-row-square-dublin-8/5029283",
+    "https://www.myhome.ie/residential/brochure/pilot-view-lodge-harbour-road-dalkey-co-dublin/5029282",
+    "https://www.myhome.ie/residential/brochure/apt-31-saunders-house-spencer-dock-ifsc-dublin-1/5024190",
+    "https://www.myhome.ie/residential/brochure/apt-273-block-e-castleforbes-square-ifsc-dublin-1/5021004",
+    "https://www.myhome.ie/residential/brochure/2-church-cross-estate-coolmona-donoughmore-co-cork/5029280",
+    "https://www.myhome.ie/residential/brochure/15-ballydaheen-east-mallow-co-cork/5029279",
+    "https://www.myhome.ie/residential/brochure/5-the-court-larch-hill-santry-dublin-9/5029268",
+    "https://www.myhome.ie/residential/brochure/30-brindley-park-court-ashbourne-co-meath/5029277",
+    "https://www.myhome.ie/residential/brochure/liscullen-charleville-county-cork/5029275",
+    "https://www.myhome.ie/residential/brochure/5-windmill-square-clonsilla-dublin-15/5029274",
+    "https://www.myhome.ie/residential/brochure/apt-39-the-malthouse-marrowbone-lane-dublin-8/5029272",
+    "https://www.myhome.ie/residential/brochure/the-gate-lodge-the-grange-beechlawn-ratoath-co-meath/4981721",
+    "https://www.myhome.ie/residential/brochure/5-woodlands-manor-ratoath-co-meath/5027305",
+    "https://www.myhome.ie/residential/brochure/carrigmore-killiney-road-dalkey-co-dublin-a96he00/5029266",
+    "https://www.myhome.ie/residential/brochure/88-the-briary-blainroe-wicklow/5029263",
+    "https://www.myhome.ie/residential/brochure/49-loreto-avenue-rathfarnham-dublin-14/5029259",
+    "https://www.myhome.ie/residential/brochure/16-brookford-park-rush-co-dublin/5029262"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=138",
+  "paginationLimited": false
+}

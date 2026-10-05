@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=215",
+  "fetchedAt": "2026-10-05T12:05:14.036Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=215",
+  "kind": "search",
+  "responseSha256": "8f0f560e9700778c87c6dde1f0b21672445e074dea40c825794896f924cf299e",
+  "files": [
+    {
+      "path": "myhome/04952-19955c542cdf27ea-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=215\"].SearchResults",
+      "sha256": "a5006e29ddc41114e926b687729f08ab45489e3fe549854e8d86c667b5ff3915",
+      "bytes": 115733
+    },
+    {
+      "path": "myhome/04952-19955c542cdf27ea-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=215\"] (paging fields)",
+      "sha256": "dda58e7d370b80a098f3cbf1ea83ea6ff9e0929ba454ef0a066f2c7bc1f1716a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/35-ridgewood-manor-kildare-co-kildare/5027191",
+    "https://www.myhome.ie/residential/brochure/53-park-grange-grangerath-drogheda-meath/5027185",
+    "https://www.myhome.ie/residential/brochure/orristown-killinick-wexford/5027170",
+    "https://www.myhome.ie/residential/brochure/34-fairways-ballymote-rd-tubbercurry-sligo/5027188",
+    "https://www.myhome.ie/residential/brochure/72-the-avenue-drummin-village-nenagh-co-tipperary/5027187",
+    "https://www.myhome.ie/residential/brochure/5-stonebridge-wood-shankill-dublin-18/5027184",
+    "https://www.myhome.ie/residential/brochure/the-waterfall-glencorrib-shrule-mayo/5027173",
+    "https://www.myhome.ie/residential/brochure/the-penthouse-no-4-killiney-hill-plaza-killiney-co-dublin/5011519",
+    "https://www.myhome.ie/residential/brochure/1-griffin-rath-manor-maynooth-kildare/4994057",
+    "https://www.myhome.ie/residential/brochure/rock-springs-marlon-road-wicklow-town-wicklow/5004115",
+    "https://www.myhome.ie/residential/brochure/466-galtymore-road-drimnagh-dublin-12/5027160",
+    "https://www.myhome.ie/residential/brochure/1-russell-avenue-east-east-wall-dublin-3/5027182",
+    "https://www.myhome.ie/residential/brochure/23-cartron-heights-cartron-sligo-sligo/5027180",
+    "https://www.myhome.ie/residential/brochure/yarra-yarra-beach-road-greystones-co-wicklow/5027177",
+    "https://www.myhome.ie/residential/brochure/monreel-north-farmhouse-ennistymon-county-clare/5027175",
+    "https://www.myhome.ie/residential/brochure/24-the-beeches-clogherhead-louth/4999066",
+    "https://www.myhome.ie/residential/brochure/20-kilcolman-court-glenageary-county-dublin/5027154",
+    "https://www.myhome.ie/residential/brochure/3-bay-view-cottage-kilcrohane-west-cork/5027165",
+    "https://www.myhome.ie/residential/brochure/10-denville-court-killiney-co-dublin/5013467",
+    "https://www.myhome.ie/residential/brochure/coon-east-bilboa-carlow-castlecomer-kilkenny/5026930"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=216",
+  "paginationLimited": false
+}

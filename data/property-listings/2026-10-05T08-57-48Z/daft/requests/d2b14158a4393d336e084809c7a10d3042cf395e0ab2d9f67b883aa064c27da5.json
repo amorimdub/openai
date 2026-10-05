@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/knockglass-ladysbridge-ladysbridge-co-cork/6683526",
+  "fetchedAt": "2026-10-05T09:49:00.175Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/knockglass-ladysbridge-ladysbridge-co-cork/6683526",
+  "kind": "listing",
+  "responseSha256": "07f445de6b3cbf573abb97879076fe8258bbe2aada123588d431ddd5331e73b5",
+  "files": [
+    {
+      "path": "daft/02046-d2b14158a4393d33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9a0c16fd3b1e1bf8b7d9f1542c5230680c6852593b224a6c36bdfaf3c18a2a05",
+      "bytes": 85052
+    },
+    {
+      "path": "daft/02046-d2b14158a4393d33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8fa23789e9fe3bbba6c7649f748864afbc834eeac5fb55f0ad548638daca9fcb",
+      "bytes": 7990
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

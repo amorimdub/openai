@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=499",
+  "fetchedAt": "2026-10-05T14:31:40.122Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=499",
+  "kind": "search",
+  "responseSha256": "b4112e404a8ad05f6da8bb129dad2a97ac280339ae39c36c9bfd7440ea3cced4",
+  "files": [
+    {
+      "path": "myhome/10792-395bd9e8b8f61319-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=499\"].SearchResults",
+      "sha256": "7f95679e8a4c98fe767904a4e2f55bab68578094b34b9b11f8d7ffb77a2d19cf",
+      "bytes": 113382
+    },
+    {
+      "path": "myhome/10792-395bd9e8b8f61319-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=499\"] (paging fields)",
+      "sha256": "573d5d75e255ace12a0217f64115e1127abe68e2626018ac06eb6efdde9f249f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/roevehagh-craughwell-nearest-eircode-galway-county-galway/5002360",
+    "https://www.myhome.ie/residential/brochure/24-meadowlands-bandon-cork/5002337",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-apartment-lightburne-murphystown-way-leopardstown-dublin-18/5002345",
+    "https://www.myhome.ie/residential/brochure/winterwood-derrycastle-ballina-co-tipperary/5002347",
+    "https://www.myhome.ie/residential/brochure/mullahill-killurin-tullamore-co-offaly/5002334",
+    "https://www.myhome.ie/residential/brochure/admiran-stranorlar-co-donegal/5002333",
+    "https://www.myhome.ie/residential/brochure/site-a-at-lower-o-connell-street-kinsale-cork/5002327",
+    "https://www.myhome.ie/residential/brochure/1-bedroom-apartment-lightburne-murphystown-way-leopardstown-dublin-18/5002303",
+    "https://www.myhome.ie/residential/brochure/elmhurst-49-the-marlings-grange-heights-douglas-cork/5002271",
+    "https://www.myhome.ie/residential/brochure/cavanageeragh-carrickmacross-monaghan/5002291",
+    "https://www.myhome.ie/residential/brochure/pembrokestown-house-gaulstown-butlerstown-waterford/5002161",
+    "https://www.myhome.ie/residential/brochure/56-lismore-road-crumlin-dublin-12/4820873",
+    "https://www.myhome.ie/residential/brochure/65-myrtle-road-dublin-13-dublin/5002256",
+    "https://www.myhome.ie/residential/brochure/coolboy-tinahely-wicklow/5002120",
+    "https://www.myhome.ie/residential/brochure/13-gleann-dara-galway-bishop-o-donnell-road-rahoon-co-galway/5002244",
+    "https://www.myhome.ie/residential/brochure/13-gleann-dara-rahoon-galway-city/5002115",
+    "https://www.myhome.ie/residential/brochure/20-kiltegan-lawn-rochestown-cork/5002128",
+    "https://www.myhome.ie/residential/brochure/131-crannog-granitefield-manor-rochestown-avenue-dun-laoghaire-co-dublin/5002209",
+    "https://www.myhome.ie/residential/brochure/74-rosanule-phoenix-park-racecourse-castleknock-dublin-15/4997256",
+    "https://www.myhome.ie/residential/brochure/d5-wellesley-court-clancy-strand-limerick-county-limerick/5002197"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=500",
+  "paginationLimited": false
+}

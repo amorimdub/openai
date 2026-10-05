@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/new-seskin-court-arena-oldbawn-dublin-24/6686408",
+  "fetchedAt": "2026-10-05T09:29:07.555Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/new-seskin-court-arena-oldbawn-dublin-24/6686408",
+  "kind": "listing",
+  "responseSha256": "62cb749ad52b6984b1b88e7d5860199d63b88293fbc18a05fc391d1715377154",
+  "files": [
+    {
+      "path": "daft/01252-211c0dbb54522f17-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "169297cb4ef9caa049f718bd88fb8a193d498eff4ca66e8ae5155a51d30d8595",
+      "bytes": 23159
+    },
+    {
+      "path": "daft/01252-211c0dbb54522f17-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "54fc600d027b6403e682fe93dd2d405d5fce1778b4d94251234f0441b4109768",
+      "bytes": 8052
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

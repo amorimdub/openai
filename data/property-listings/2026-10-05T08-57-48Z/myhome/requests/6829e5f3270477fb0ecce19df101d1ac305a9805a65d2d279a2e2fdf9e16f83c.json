@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=466",
+  "fetchedAt": "2026-10-05T14:14:48.524Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=466",
+  "kind": "search",
+  "responseSha256": "b70d22a6833bf36b74216d1a45c38f0d74dd26dd90fcf3e36e3b79714bb946da",
+  "files": [
+    {
+      "path": "myhome/10119-6829e5f3270477fb-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=466\"].SearchResults",
+      "sha256": "dae313d9a83d9b670a8ca1d4315a5bce14917138182a12e2d8f55c1a4a7b1532",
+      "bytes": 110033
+    },
+    {
+      "path": "myhome/10119-6829e5f3270477fb-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=466\"] (paging fields)",
+      "sha256": "42aa80376643b7d47d4cbf0d725b91e05439636bb58c4585abe9b257838891db",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-churchfield-grove-with-attic-conversion-ashbourne-meath/4983165",
+    "https://www.myhome.ie/residential/brochure/3-the-dale-downshire-park-blessington-wicklow/5006770",
+    "https://www.myhome.ie/residential/brochure/86-wolfe-tone-street-cork-city-cork/5005302",
+    "https://www.myhome.ie/residential/brochure/50-carysfort-downs-blackrock-co-dublin/4956798",
+    "https://www.myhome.ie/residential/brochure/creewood-slane-meath/5006709",
+    "https://www.myhome.ie/residential/brochure/11-gort-alainn-aghabullogue-cork/5006731",
+    "https://www.myhome.ie/residential/brochure/shanagraigue-carrigaline-cork/4831325",
+    "https://www.myhome.ie/residential/brochure/derelict-house-tully-mountain-rathmelton-county-donegal/5006723",
+    "https://www.myhome.ie/residential/brochure/lismore-lismore-waterford/5006716",
+    "https://www.myhome.ie/residential/brochure/apartment-1-rathlin-hall-waterville-terrace-blanchardstown-dublin-15/5006696",
+    "https://www.myhome.ie/residential/brochure/32-abbeylands-mullingar-westmeath/5006701",
+    "https://www.myhome.ie/residential/brochure/8-dun-emer-close-lusk-co-dublin/4994053",
+    "https://www.myhome.ie/residential/brochure/31-abington-malahide-co-dublin/5006683",
+    "https://www.myhome.ie/residential/brochure/3-old-cannon-rock-cottages-upper-cliff-road-howth-howth-county-dublin/5005413",
+    "https://www.myhome.ie/residential/brochure/gornalamph-mohill-co-leitrim-next-door-eircode/5006665",
+    "https://www.myhome.ie/residential/brochure/ard-na-greine-clonmore-killeshin-carlow-co-laois/5006659",
+    "https://www.myhome.ie/residential/brochure/29-oaktree-road-cunnaberry-hill-kildare-town-kildare/5006474",
+    "https://www.myhome.ie/residential/brochure/apartment-179-crosbie-s-yard-ossory-road-dublin-3-dublin/5006648",
+    "https://www.myhome.ie/residential/brochure/mountbruis-tipperary-county-tipperary/5006656",
+    "https://www.myhome.ie/residential/brochure/6-coill-mhara-shannon-co-clare/5006653"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=467",
+  "paginationLimited": false
+}

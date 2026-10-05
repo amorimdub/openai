@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=484",
+  "fetchedAt": "2026-10-05T14:23:55.666Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=484",
+  "kind": "search",
+  "responseSha256": "f3a488298b1cc0c1292a0f065822ba1c36194199b70689faa727ad8d79eb579d",
+  "files": [
+    {
+      "path": "myhome/10483-7ae4557a5e4a364b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=484\"].SearchResults",
+      "sha256": "e44447fa8449d2ff05c53855e64dc1920218597f9763712412f3ceb0eda509e0",
+      "bytes": 117515
+    },
+    {
+      "path": "myhome/10483-7ae4557a5e4a364b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=484\"] (paging fields)",
+      "sha256": "0bc1ef5dbb7e3f2048d5a4ce705a39935bdf9d638d126597ab14d418609cc7e9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-greggs-hill-arklow-wicklow/5004453",
+    "https://www.myhome.ie/residential/brochure/knockanillaun-ballina-co-mayo/5004451",
+    "https://www.myhome.ie/residential/brochure/9-moynalvy-manor-moynalvy-summerhill-summerhill-meath/5004417",
+    "https://www.myhome.ie/residential/brochure/94-floraville-avenue-clondalkin-dublin-22-co-dublin-d22-e285-clondalkin-dublin-22/5004421",
+    "https://www.myhome.ie/residential/brochure/6-castle-terrace-malahide-co-dublin/4993250",
+    "https://www.myhome.ie/residential/brochure/lisheen-road-manor-kilbride-blessington-wicklow/5004409",
+    "https://www.myhome.ie/residential/brochure/the-grange-piperstown-drogheda-louth/4997437",
+    "https://www.myhome.ie/residential/brochure/tig-mia-skeaghanore-ballydehob-west-cork/5003891",
+    "https://www.myhome.ie/residential/brochure/14-bridgetown-mews-bridgetown-castlemartyr-co-cork/5004383",
+    "https://www.myhome.ie/residential/brochure/no-10-st-john-s-avenue-st-john-s-road-wexford-town-wexford/5004381",
+    "https://www.myhome.ie/residential/brochure/39-blessington-orchard-blessington-wicklow/5004373",
+    "https://www.myhome.ie/residential/brochure/16-newline-castlebar-co-mayo/5004367",
+    "https://www.myhome.ie/residential/brochure/the-grove-johnstown-glebe-rathdowney-laois/4944156",
+    "https://www.myhome.ie/residential/brochure/19-the-elms-beaufort-place-navan-meath-co-meath/4993172",
+    "https://www.myhome.ie/residential/brochure/fairymount-castlerea-roscommon/5004341",
+    "https://www.myhome.ie/residential/brochure/riverview-house-rushbrooke-cobh-cork/5004144",
+    "https://www.myhome.ie/residential/brochure/main-street-frenchpark-roscommon/5004340",
+    "https://www.myhome.ie/residential/brochure/17-collegefort-castleknock-dublin-15/5001009",
+    "https://www.myhome.ie/residential/brochure/7-bealing-avenue-tyrrelstown-dublin-15/5002537",
+    "https://www.myhome.ie/residential/brochure/164-captain-s-road-kimmage-dublin-12/5003574"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=485",
+  "paginationLimited": false
+}

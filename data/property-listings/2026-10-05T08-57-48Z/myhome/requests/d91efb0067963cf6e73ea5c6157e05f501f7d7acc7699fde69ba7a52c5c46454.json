@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=7",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=7",
+  "fetchedAt": "2026-10-05T09:02:09.481Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "50e8852288e40c163dc159da680eed11c7e81c55cdeb085822e6ef691ad31991",
+  "files": [
+    {
+      "path": "myhome/00175-d91efb0067963cf6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=7\"].SearchResults",
+      "sha256": "8d46277d9b689fd924fba3ccacd88cfc7adb110ac822793d4b5231eda628b5bf",
+      "bytes": 126459
+    },
+    {
+      "path": "myhome/00175-d91efb0067963cf6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=7\"] (paging fields)",
+      "sha256": "c61afcd6aaa516f7eaf5a9bb67ebd6641e2024d4a923080cb60d3010c194088a",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/bridgetown-cooly-fuerty-co-roscommon/5028123",
+    "https://www.myhome.ie/residential/brochure/attiduff-ballinfull-sligo/5032080",
+    "https://www.myhome.ie/residential/brochure/entire-holding-house-and-detached-outbuildings-on-approx-0-76-acres-at-windgate-windgate-road-howth-/5016764",
+    "https://www.myhome.ie/residential/brochure/66-block-e-bellevue-islandbridge-dublin-8/5028750",
+    "https://www.myhome.ie/residential/brochure/vanbill-house-kilpipe-aughrim-wicklow/5024869",
+    "https://www.myhome.ie/residential/brochure/41-villiers-road-rathgar-dublin-6/5028524",
+    "https://www.myhome.ie/residential/brochure/69-templeville-road-templeogue-dublin-6w/5015939",
+    "https://www.myhome.ie/residential/brochure/3-auburn-villas-rathgar-dublin-6/5008675",
+    "https://www.myhome.ie/residential/brochure/7-dunkerron-woods-kenmare-co-kerry/5032078",
+    "https://www.myhome.ie/residential/brochure/gordonville-sydenham-villas-dundrum-dublin-14/5028619",
+    "https://www.myhome.ie/residential/brochure/carrickroe-ceanchor-rd-howth-county-dublin/5010108",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-semi-detached-convent-place-delgany-wicklow/4940366",
+    "https://www.myhome.ie/residential/brochure/5-hyde-house-clonfadda-wood-mount-merrion-avenue-blackrock-co-dublin/5029919",
+    "https://www.myhome.ie/residential/brochure/65-glenmalure-square-milltown-dublin-6/5031087",
+    "https://www.myhome.ie/residential/brochure/52-the-oval-tullyvale-cabinteely-dublin-18/5030150",
+    "https://www.myhome.ie/residential/brochure/140-old-county-road-crumlin-dublin-12/5026741",
+    "https://www.myhome.ie/residential/brochure/11-drumnigh-oaks-portmarnock-county-dublin/5027760",
+    "https://www.myhome.ie/residential/brochure/the-mews-rere-of-31-mountpleasant-square-ranelagh-dublin-6/4998056",
+    "https://www.myhome.ie/residential/brochure/36-moylaragh-walk-balbriggan-dublin/5030901",
+    "https://www.myhome.ie/residential/brochure/34-seapark-malahide-county-dublin/5026916"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=8",
+  "paginationLimited": false
+}

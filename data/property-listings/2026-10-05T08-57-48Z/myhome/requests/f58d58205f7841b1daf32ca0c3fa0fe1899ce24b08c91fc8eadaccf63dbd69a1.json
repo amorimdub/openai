@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=120",
+  "fetchedAt": "2026-10-05T11:15:32.704Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=120",
+  "kind": "search",
+  "responseSha256": "b2a846a51ad777a35cdac57364cf127b0a09a0b147bda8c9b0071f11d0c2330a",
+  "files": [
+    {
+      "path": "myhome/02988-f58d58205f7841b1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=120\"].SearchResults",
+      "sha256": "bce1efdfbf89758c54f0ddabd728e6f64ee370d7fef22cd94c06f8ba53c59dff",
+      "bytes": 110137
+    },
+    {
+      "path": "myhome/02988-f58d58205f7841b1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=120\"] (paging fields)",
+      "sha256": "8840e8ac56d65fdd6348f0ee203f4030248207718de2a8b045bdc6a61c3e9b1a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6b-clancy-street-fermoy-cork/5029793",
+    "https://www.myhome.ie/residential/brochure/main-street-kilfenora-clare/5029801",
+    "https://www.myhome.ie/residential/brochure/12-larkfield-grove-harold-s-cross-dublin-6w/5008012",
+    "https://www.myhome.ie/residential/brochure/tullybeg-church-hill-churchill-donegal/5029794",
+    "https://www.myhome.ie/residential/brochure/9-lakeside-our-lady-s-island-co-wexford/5029800",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-bower-court-prosperous-co-kildare/5029799",
+    "https://www.myhome.ie/residential/brochure/17-packenham-house-christchurch-dublin-8-co-dublin/5029798",
+    "https://www.myhome.ie/residential/brochure/12-eglinton-square-dublin-4/5029797",
+    "https://www.myhome.ie/residential/brochure/29-cluain-caonach-keenagh-co-longford/5029795",
+    "https://www.myhome.ie/residential/brochure/headford-headford-galway/5029771",
+    "https://www.myhome.ie/residential/brochure/11-sutton-court-seatown-dundalk-county-louth/5029788",
+    "https://www.myhome.ie/residential/brochure/26-pococke-lower-johnswell-road-kilkenny/5029786",
+    "https://www.myhome.ie/residential/brochure/carrick-dodder-park-road-rathfarnham-dublin-14/5026450",
+    "https://www.myhome.ie/residential/brochure/24-earlsfort-rise-lucan-dublin/5029783",
+    "https://www.myhome.ie/residential/brochure/513-kilkee-bay-apartment-kilrush-road-kilkee-co-clare/5029779",
+    "https://www.myhome.ie/residential/brochure/30-springbank-saggart-co-dublin/5029778",
+    "https://www.myhome.ie/residential/brochure/woodpark-castleconnell-county-limerick/5029777",
+    "https://www.myhome.ie/residential/brochure/kiltannon-ballyadam-cross-carrigtwohill-cork/5029086",
+    "https://www.myhome.ie/residential/brochure/4-bed-semi-detached-house-type-b-bun-an-chnoic-moycullen-co-galway/5029776",
+    "https://www.myhome.ie/residential/brochure/26-hastings-street-ringsend-dublin-4/5015465"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=121",
+  "paginationLimited": false
+}

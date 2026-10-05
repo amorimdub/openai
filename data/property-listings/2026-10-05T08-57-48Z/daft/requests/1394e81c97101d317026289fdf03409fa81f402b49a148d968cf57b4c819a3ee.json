@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/2-airfield-terrace-donnybrook-dublin-4/6610548",
+  "fetchedAt": "2026-10-05T09:05:52.170Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/2-airfield-terrace-donnybrook-dublin-4/6610548",
+  "kind": "listing",
+  "responseSha256": "af750eadb0167d2fc05831b9c49feb254fc9fe998af33beea5222e76d3335054",
+  "files": [
+    {
+      "path": "daft/00323-1394e81c97101d31-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0ceb6a3f2c51aba36b7cf966be6d818da008f34865a98e2e06a5dd576c2ce453",
+      "bytes": 71981
+    },
+    {
+      "path": "daft/00323-1394e81c97101d31-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3c61e1472d2eca30dd46d246038a9417b1864145c87fbb7999c62d3f7d4417ae",
+      "bytes": 8089
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

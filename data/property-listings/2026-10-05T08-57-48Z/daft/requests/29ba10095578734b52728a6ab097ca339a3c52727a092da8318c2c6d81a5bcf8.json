@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/7-the-willows-cliffoney-sligo-co-sligo/6682778",
+  "fetchedAt": "2026-10-05T09:53:06.548Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/7-the-willows-cliffoney-sligo-co-sligo/6682778",
+  "kind": "listing",
+  "responseSha256": "0bdff1b53b49dbf0b89aca9b4bc690a1d5299190567ce55473be6bd49a323eb1",
+  "files": [
+    {
+      "path": "daft/02210-29ba10095578734b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bc0078b6589e9cc5ff2133a28308cdb292d970360edc61bb5dee652fc154908e",
+      "bytes": 36408
+    },
+    {
+      "path": "daft/02210-29ba10095578734b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "82a95cf6ef0687b1627d47594801385ed5cb83b2b135d2215794c01107d4eee0",
+      "bytes": 8158
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

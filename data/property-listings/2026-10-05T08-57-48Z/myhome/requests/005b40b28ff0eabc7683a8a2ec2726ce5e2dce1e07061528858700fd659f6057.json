@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=259",
+  "fetchedAt": "2026-10-05T12:28:18.765Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=259",
+  "kind": "search",
+  "responseSha256": "36c37ce5fb727739a6c8e13e4e621e7eca837b3b1fb2656ab084851aef65dd69",
+  "files": [
+    {
+      "path": "myhome/05873-005b40b28ff0eabc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=259\"].SearchResults",
+      "sha256": "05b7cb310ee3c5eec6cfd8db2779a22478ddab38c94299be4ab92f8b4dfda903",
+      "bytes": 121081
+    },
+    {
+      "path": "myhome/05873-005b40b28ff0eabc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=259\"] (paging fields)",
+      "sha256": "d0f2829ce59708635ac2d8c94647ab8b1c0247bcd32b321b62e3b830b4ba9040",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/clyrower-kilgobbin-road-stepaside-dublin-18/5005750",
+    "https://www.myhome.ie/residential/brochure/stanmore-stillorgan-road-foxrock-dublin-18/5005436",
+    "https://www.myhome.ie/residential/brochure/craigholm-brighton-road-foxrock-dublin-18/4987940",
+    "https://www.myhome.ie/residential/brochure/22-oak-hall-larkfield-view-leopardstown-dublin-18/5017169",
+    "https://www.myhome.ie/residential/brochure/78-wingfield-stepaside-dublin-18/5007908",
+    "https://www.myhome.ie/residential/brochure/2110-highfield-estate-newbridge-co-kildare/5025771",
+    "https://www.myhome.ie/residential/brochure/11-courtown-cove-gorey-road-courtown-gorey-co-wexford/5000198",
+    "https://www.myhome.ie/residential/brochure/5-torcaill-portmarnock-co-dublin-portmarnock-county-dublin/5025558",
+    "https://www.myhome.ie/residential/brochure/107-church-road-east-wall-dublin-3/5025763",
+    "https://www.myhome.ie/residential/brochure/61-the-strand-ennis-road-county-limerick/5025767",
+    "https://www.myhome.ie/residential/brochure/sheeaun-ballysheedy-gort-county-galway/5025765",
+    "https://www.myhome.ie/residential/brochure/18-ashfield-grove-mulhuddart-dublin-15/5025764",
+    "https://www.myhome.ie/residential/brochure/15-the-willow-water-rock-manor-midleton-cork/5025756",
+    "https://www.myhome.ie/residential/brochure/sycamore-lodge-8-willowmount-booterstown-co-dublin/5025760",
+    "https://www.myhome.ie/residential/brochure/ouvane-house-blackstoops-enniscorthy-wexford/5025740",
+    "https://www.myhome.ie/residential/brochure/26-seagrange-ave-baldoyle-dublin-13/4994859",
+    "https://www.myhome.ie/residential/brochure/teeveeny-dromina-co-cork/5025755",
+    "https://www.myhome.ie/residential/brochure/88-crenigans-b-n-g-ashbourne-co-meath/5025754",
+    "https://www.myhome.ie/residential/brochure/35-cherrywood-avenue-clondalkin-dublin-22/5025752",
+    "https://www.myhome.ie/residential/brochure/22-drynam-crescent-drynam-hall-kinsealy-county-dublin/5025742"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=260",
+  "paginationLimited": false
+}

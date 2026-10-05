@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/black-quay-hollyhill-kinsale-co-cork-kinsale-co-cork/6685866",
+  "fetchedAt": "2026-10-05T09:33:24.363Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/black-quay-hollyhill-kinsale-co-cork-kinsale-co-cork/6685866",
+  "kind": "listing",
+  "responseSha256": "cffaa5206bcf49e510cadb2d1da42f8ffe629b22568bde9a0a68b6193d45a717",
+  "files": [
+    {
+      "path": "daft/01423-33b1a942befdf5fb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "317fc4af7ff3d0127b6ee92cea616d710d40a3bf5f3e15869eb62e9db53c8710",
+      "bytes": 27738
+    },
+    {
+      "path": "daft/01423-33b1a942befdf5fb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a01a94eeaa7a6c1cdd5816cfb82ad651b1bb284c68a9f1adc0de89583116b4d0",
+      "bytes": 8092
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

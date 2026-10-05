@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=241",
+  "fetchedAt": "2026-10-05T12:18:51.782Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=241",
+  "kind": "search",
+  "responseSha256": "e85dee2b53738c5a7d4502676138fc7e7618bc712242aee6a13690bee8baa6b3",
+  "files": [
+    {
+      "path": "myhome/05496-67d33138eb2d0c34-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=241\"].SearchResults",
+      "sha256": "1f8f7843a095ba38a40fb98eb35e190479ef46d03b73dc1cf486da2832cecaac",
+      "bytes": 112225
+    },
+    {
+      "path": "myhome/05496-67d33138eb2d0c34-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=241\"] (paging fields)",
+      "sha256": "c763eaeb1481525ab367459423b6e3383391c7cae4838ad074f70dc319ba7aee",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-ardrew-heights-dun-brinn-athy-county-kildare/5026381",
+    "https://www.myhome.ie/residential/brochure/28-millbourne-close-ashbourne-co-meath/5026380",
+    "https://www.myhome.ie/residential/brochure/windy-ridge-cooney-s-field-myrtleville-cork/5023790",
+    "https://www.myhome.ie/residential/brochure/rockhill-woodford-galway/5026371",
+    "https://www.myhome.ie/residential/brochure/apt-7-southgate-cork-street-dublin-8/5026374",
+    "https://www.myhome.ie/residential/brochure/apartment-56-the-sycamore-trimbleston-clonskeagh-dublin-14/5025328",
+    "https://www.myhome.ie/residential/brochure/ardnahinch-1-golf-links-road-castletroy-limerick/4993612",
+    "https://www.myhome.ie/residential/brochure/191-the-links-elm-park-green-merrion-road-dublin-4/5026370",
+    "https://www.myhome.ie/residential/brochure/45-milltown-hall-mount-st-annes-milltown-dublin-6/5026368",
+    "https://www.myhome.ie/residential/brochure/112-castleland-court-balbriggan-co-dublin/4987473",
+    "https://www.myhome.ie/residential/brochure/site-b-seafield-youghal-co-cork/5026366",
+    "https://www.myhome.ie/residential/brochure/ros-cuilinn-cornagill-letterkenny-co-donegal/5026364",
+    "https://www.myhome.ie/residential/brochure/site-a-seafield-youghal-co-cork/5026363",
+    "https://www.myhome.ie/residential/brochure/68-ridgewood-square-swords-dublin/5026359",
+    "https://www.myhome.ie/residential/brochure/semi-detached-house-ard-rua-meadows-claremorris-co-mayo/5026361",
+    "https://www.myhome.ie/residential/brochure/2-woodpark-avenue-the-quay-westport-co-mayo/5026360",
+    "https://www.myhome.ie/residential/brochure/glenaguile-toomevara-tipperary/5024978",
+    "https://www.myhome.ie/residential/brochure/298-galtymore-road-drimnagh-dublin-12/4755850",
+    "https://www.myhome.ie/residential/brochure/12-the-waterfront-tarmonbarry-roscommon/5026332",
+    "https://www.myhome.ie/residential/brochure/24-moulden-bridge-ratoath-co-meath/5026349"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=242",
+  "paginationLimited": false
+}

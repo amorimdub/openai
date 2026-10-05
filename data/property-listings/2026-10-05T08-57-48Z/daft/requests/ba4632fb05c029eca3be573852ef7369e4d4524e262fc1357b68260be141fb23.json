@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/23-loreto-avenue-dalkey-co-dublin/6671731",
+  "fetchedAt": "2026-10-05T09:17:03.534Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/23-loreto-avenue-dalkey-co-dublin/6671731",
+  "kind": "listing",
+  "responseSha256": "36c69a0e069c5ff95932838b859650edb7304d21492c676d182c8c2f8004174b",
+  "files": [
+    {
+      "path": "daft/00770-ba4632fb05c029ec-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8e53e3f7dc82ce048ae9843c7051f820dacebeb78d486634036480417c4e683b",
+      "bytes": 54344
+    },
+    {
+      "path": "daft/00770-ba4632fb05c029ec-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0d408887998b3b737b7f5a888c88c54d8081058f17c9c318096e3d89608a2031",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

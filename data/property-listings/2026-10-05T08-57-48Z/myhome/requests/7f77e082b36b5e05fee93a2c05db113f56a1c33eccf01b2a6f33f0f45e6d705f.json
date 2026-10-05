@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=489",
+  "fetchedAt": "2026-10-05T14:26:28.990Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=489",
+  "kind": "search",
+  "responseSha256": "a996f645202d4a58b46c6457dec0cf32a7415b9daaed0f42ca69b56adfa09aa1",
+  "files": [
+    {
+      "path": "myhome/10585-7f77e082b36b5e05-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=489\"].SearchResults",
+      "sha256": "bc3e0e133e63bfbdcc7b502b9e62794da82f4d198cda72b065429d6f5edef290",
+      "bytes": 107633
+    },
+    {
+      "path": "myhome/10585-7f77e082b36b5e05-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=489\"] (paging fields)",
+      "sha256": "743e2aa97f37daffdbf5bad15729415921e7212e75174408463401f5ff272313",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-dakota-court-phibsborough-dublin-7/5003805",
+    "https://www.myhome.ie/residential/brochure/lot-2-43-waterloo-road-dublin-4/5003859",
+    "https://www.myhome.ie/residential/brochure/109a-conquer-hill-road-clontarf-dublin-3/5003843",
+    "https://www.myhome.ie/residential/brochure/46-belarmine-place-stepaside-dublin-18/5003834",
+    "https://www.myhome.ie/residential/brochure/coolmeen-kilmactranny-sligo/5003832",
+    "https://www.myhome.ie/residential/brochure/letterilly-glenties-co-donegal/5003828",
+    "https://www.myhome.ie/residential/brochure/hill-view-house-falsk-strokestown-co-roscommon/5003822",
+    "https://www.myhome.ie/residential/brochure/2-mill-o-rags-ambrosetown-duncormick-wexford/4968943",
+    "https://www.myhome.ie/residential/brochure/23-morrow-house-baldoyle-dublin-13/5000987",
+    "https://www.myhome.ie/residential/brochure/apartment-6-harmac-court-14-brighton-avenue-rathgar-dublin-6/4968125",
+    "https://www.myhome.ie/residential/brochure/apt-33-merrion-hall-mount-merrion-avenue-blackrock-county-dublin/5003796",
+    "https://www.myhome.ie/residential/brochure/wee-dan-s-lower-downings-downings-county-donegal/5003790",
+    "https://www.myhome.ie/residential/brochure/no-4-blakes-glen-upper-curracloe-wexford/5003764",
+    "https://www.myhome.ie/residential/brochure/53-saint-maelruan-s-park-dublin-24-dublin/5003761",
+    "https://www.myhome.ie/residential/brochure/painestown-beauparc-navan-co-meath-navan-meath/5003741",
+    "https://www.myhome.ie/residential/brochure/45-college-park-longford/5003757",
+    "https://www.myhome.ie/residential/brochure/room-b-palmerstown-drive-dublin-20/5003755",
+    "https://www.myhome.ie/residential/brochure/18-the-harvey-penthouse-lansdowne-place-ballsbridge-dublin-4/4210332",
+    "https://www.myhome.ie/residential/brochure/4-bed-semi-detached-rathgar-villas-rathgar-dublin-6/4894253",
+    "https://www.myhome.ie/residential/brochure/prospect-bay-homes-mount-prospect-avenue-clontarf-dublin-3/4938615"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=490",
+  "paginationLimited": false
+}

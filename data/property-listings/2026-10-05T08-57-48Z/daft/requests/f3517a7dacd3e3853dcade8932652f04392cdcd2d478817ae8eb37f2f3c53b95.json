@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-vantage-by-kennedy-wilson-central-park-d18-xe00-leopardstown-co-dublin/6507813",
+  "fetchedAt": "2026-10-05T09:05:08.624Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-vantage-by-kennedy-wilson-central-park-d18-xe00-leopardstown-co-dublin/6507813",
+  "kind": "listing",
+  "responseSha256": "e10f4f00a4f4333f3e23ff17540c1d3dbaf6ee1d6620ab5d4067aa430edfb6d8",
+  "files": [
+    {
+      "path": "daft/00294-f3517a7dacd3e385-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c21a0e90d0292f881d757d593e655dad6ac45ae5eb5e27e0cab74b1931c8a2c7",
+      "bytes": 35971
+    },
+    {
+      "path": "daft/00294-f3517a7dacd3e385-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e291c2faf08ed5fd219fde28cedcbfbcbf58b4ec2975a31ed140995835d0f7bf",
+      "bytes": 8080
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-62-brooklands-donnybrook-dublin-4/6681988",
+  "fetchedAt": "2026-10-05T09:48:54.164Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-62-brooklands-donnybrook-dublin-4/6681988",
+  "kind": "listing",
+  "responseSha256": "e586a2e3ed3a91a57c96a984dff55946397897c230847f12d5a945ac8bebd8f1",
+  "files": [
+    {
+      "path": "daft/02042-f9abc1acc0a8ecd4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "333e60e7f79600de567e000597e5372b7b4e98b2ccb9c6952f92956625a621ab",
+      "bytes": 44692
+    },
+    {
+      "path": "daft/02042-f9abc1acc0a8ecd4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5213f2728cc6e16b79b84091d33e9371f4c4192829ad45383715204df6c355ee",
+      "bytes": 8102
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

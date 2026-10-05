@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=192",
+  "fetchedAt": "2026-10-05T11:53:33.620Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=192",
+  "kind": "search",
+  "responseSha256": "f587fe13627031df371cb00a8ca90c344108768708629f0628cdb93d493e189e",
+  "files": [
+    {
+      "path": "myhome/04486-16a66625739a79be-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=192\"].SearchResults",
+      "sha256": "57d5bfd9a405789afc0098b4f9f525153cfca3fd5a1c9fab861e28e73cbde75b",
+      "bytes": 110894
+    },
+    {
+      "path": "myhome/04486-16a66625739a79be-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=192\"] (paging fields)",
+      "sha256": "277d82fb6c2fa98329122b65b34404d1fbfbe2d3cb7d3878d47fdc668328d27d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-glenview-house-161-upper-salthill-road-salthill-galway-city/5027840",
+    "https://www.myhome.ie/residential/brochure/5-edenmore-avenue-edenmore-dublin-5/5027839",
+    "https://www.myhome.ie/residential/brochure/60-hillcrest-kilcullen-kildare/5027838",
+    "https://www.myhome.ie/residential/brochure/youghal-road-tallow-co-waterford/5027837",
+    "https://www.myhome.ie/residential/brochure/130-loreto-avenue-rathfarnham-dublin-14/5027830",
+    "https://www.myhome.ie/residential/brochure/7-emerald-cottages-upper-grand-canal-street-ballsbridge-dublin-4/5024415",
+    "https://www.myhome.ie/residential/brochure/wilton-ballymackey-tipperary/5027832",
+    "https://www.myhome.ie/residential/brochure/17-inchicore-terrace-south-inchicore-dublin-8/5027833",
+    "https://www.myhome.ie/residential/brochure/38-brooklands-nutley-lane-donnybrook-dublin/5023139",
+    "https://www.myhome.ie/residential/brochure/49-willow-park-grove-glasnevin-dublin-11/5007743",
+    "https://www.myhome.ie/residential/brochure/3-highfield-manor-rathgar-dublin-6/5013694",
+    "https://www.myhome.ie/residential/brochure/8-rosehill-avenue-firies-co-kerry/5027828",
+    "https://www.myhome.ie/residential/brochure/apartment-56-reuben-square-reuben-street-south-circular-road-dublin-8/5027800",
+    "https://www.myhome.ie/residential/brochure/west-winds-raheen-road-athenry-co-galway/5027826",
+    "https://www.myhome.ie/residential/brochure/42-the-green-coolroe-meadows-ballincollig-co-cork/5027824",
+    "https://www.myhome.ie/residential/brochure/the-boathouse-woodpoint-courtmacsherry-co-cork/5027823",
+    "https://www.myhome.ie/residential/brochure/grangemore-cashel-co-tipperary/5027822",
+    "https://www.myhome.ie/residential/brochure/242-blarney-street-cork-city-cork/5027819",
+    "https://www.myhome.ie/residential/brochure/396-coultry-road-santry-avenue-ballymun-dublin-9/5010941",
+    "https://www.myhome.ie/residential/brochure/6-bridgewater-hall-summerhill-parade-dublin-1/5027817"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=193",
+  "paginationLimited": false
+}

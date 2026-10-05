@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=6",
+  "fetchedAt": "2026-10-05T09:05:37.154Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=6",
+  "kind": "search",
+  "responseSha256": "82916b16f68b917497e85571905b7bf3491461a7b1ed4e54bc71bfeea3d191a4",
+  "files": [
+    {
+      "path": "daft/00313-d8fc6952c2adc410-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "d755cd01cb7270d607b587af1b78dadb473dbef1ab6449c396573252b46f8b1e",
+      "bytes": 306084
+    },
+    {
+      "path": "daft/00313-d8fc6952c2adc410-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00313-d8fc6952c2adc410-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "d772d3ce088b43f7dae659d79437ad199f8ebad80ded744f0281fd39bb72341f",
+      "bytes": 176
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/32-windmill-avenue-dublin-12-crumlin-dublin-12/6684212",
+    "https://www.daft.ie/for-sale/oberstown-ardee-shanlis-co-louth/6684093",
+    "https://www.daft.ie/for-sale/24-p-irc-mhuire-tullow-co-carlow/6595210",
+    "https://www.daft.ie/for-sale/15-distillery-road-drumcondra-dublin-3/6681533",
+    "https://www.daft.ie/for-sale/-rathturtin-clonroche-co-wexford/6684078",
+    "https://www.daft.ie/for-sale/10-windermere-clonsilla-dublin-15-co-dublin/6655609",
+    "https://www.daft.ie/for-sale/2-castleview-barrystown-wellingtonbridge-co-wexford/6682589",
+    "https://www.daft.ie/for-sale/tranis-house-beabeg-lane-drogheda-co-meath/6649847",
+    "https://www.daft.ie/for-sale/20-rd-na-greine-kilteragh-dooradoyle-co-limerick/6683959",
+    "https://www.daft.ie/for-sale/153-moorefield-park-newbridge-co-kildare/6683909",
+    "https://www.daft.ie/for-sale/11-charles-street-west-smithfield-dublin-7/6675789",
+    "https://www.daft.ie/for-sale/hollyford-vilanstown-gaybrook-mullingar-co-westmeath/6625834",
+    "https://www.daft.ie/for-sale/19-dawson-place-arbour-hill-stoneybatter-d-7/6584263",
+    "https://www.daft.ie/for-sale/coole-lodge-9-barnstead-drive-ballintemple-co-cork/6682681",
+    "https://www.daft.ie/for-sale/duarigle-navigation-road-mallow-co-cork/6558243",
+    "https://www.daft.ie/for-sale/c-l-lainn-23a-rathmore-lawn-south-douglas-road-cork-city/6287697",
+    "https://www.daft.ie/for-sale/5-upper-clevedon-carrigaline-cork/6654188",
+    "https://www.daft.ie/for-sale/cuil-aluinn-gurteenroe-macroom-cork/6183155",
+    "https://www.daft.ie/for-sale/6-the-clipper-avila-convent-garden-kinsale-cork/6552186",
+    "https://www.daft.ie/for-sale/aberdares-13-seabury-heights-malahide-co-dublin/6666855"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=7",
+  "paginationLimited": false
+}

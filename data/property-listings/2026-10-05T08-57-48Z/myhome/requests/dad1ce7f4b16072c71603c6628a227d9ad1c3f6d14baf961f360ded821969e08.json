@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=295",
+  "fetchedAt": "2026-10-05T12:46:57.266Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=295",
+  "kind": "search",
+  "responseSha256": "68f03246fe77ae2b2454ae03714cf43af3e146cae2829e2dd19f18e10335965d",
+  "files": [
+    {
+      "path": "myhome/06617-dad1ce7f4b16072c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=295\"].SearchResults",
+      "sha256": "a5c4f2b86d84a023e88377a51acf092d05ab4be82fca2a41e8ee8a3d3dc819cd",
+      "bytes": 120068
+    },
+    {
+      "path": "myhome/06617-dad1ce7f4b16072c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=295\"] (paging fields)",
+      "sha256": "c72d00f9b4c3373dbec6a9030c5c0eda518dfa6abcce53ac6e3af94150dfa350",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/30-bargy-road-east-wall-dublin-3/5021110",
+    "https://www.myhome.ie/residential/brochure/75-monasterboice-road-crumlin-dublin-12/5024429",
+    "https://www.myhome.ie/residential/brochure/4a-camac-park-inchicore-dublin-12-dublin/5024423",
+    "https://www.myhome.ie/residential/brochure/gort-na-mona-131-glenageary-road-upper-glenageary-co-dublin/5006256",
+    "https://www.myhome.ie/residential/brochure/katama-mount-salus-road-dalkey-co-dublin/4711123",
+    "https://www.myhome.ie/residential/brochure/coolroe-the-woods-ballinclea-road-killiney-co-dublin/5003429",
+    "https://www.myhome.ie/residential/brochure/seascape-9a-mapas-road-dalkey-co-dublin/5011226",
+    "https://www.myhome.ie/residential/brochure/church-heath-dundalk-road-castleblayney-monaghan/4984763",
+    "https://www.myhome.ie/residential/brochure/castle-park-killycard-castleblayney-monaghan/4986447",
+    "https://www.myhome.ie/residential/brochure/2-shandon-drive-phibsboro-dublin-7/5024419",
+    "https://www.myhome.ie/residential/brochure/71-connaught-street-phibsborough-dublin-7/5024414",
+    "https://www.myhome.ie/residential/brochure/1-bachelor-s-cove-sundrive-road-rush-dublin/5024413",
+    "https://www.myhome.ie/residential/brochure/44-oak-road-donnycarney-dublin-9/5013435",
+    "https://www.myhome.ie/residential/brochure/2-no-units-mews-building-dublin-street-monasterevin-co-kildare/5024408",
+    "https://www.myhome.ie/residential/brochure/21-hyde-park-dalkey-co-dublin/5024407",
+    "https://www.myhome.ie/residential/brochure/13-davitt-road-bray-co-wicklow/5024402",
+    "https://www.myhome.ie/residential/brochure/49-hazel-road-togher-cork/5024387",
+    "https://www.myhome.ie/residential/brochure/1-fox-lodge-manor-ratoath-co-meath/5024388",
+    "https://www.myhome.ie/residential/brochure/50-holywell-view-swords-county-dublin/5024189",
+    "https://www.myhome.ie/residential/brochure/66-charlesland-grove-charlesland-greystones-wicklow/5017715"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=296",
+  "paginationLimited": false
+}

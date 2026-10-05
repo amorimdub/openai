@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-116-block-4-parkgate-place-dublin-8/6681471",
+  "fetchedAt": "2026-10-05T09:13:01.690Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-116-block-4-parkgate-place-dublin-8/6681471",
+  "kind": "listing",
+  "responseSha256": "85ccdb463423528961c18714b341a37fc738a78cde0c3bce75393570f9dabce1",
+  "files": [
+    {
+      "path": "daft/00609-cc80de480e59fecf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "62e23f41fdab5560d4ca46890d8845ae517419fc8ae516ca07305c15971bc3de",
+      "bytes": 43304
+    },
+    {
+      "path": "daft/00609-cc80de480e59fecf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "55eae1d11ec58a65ede8366aaeed389e8c4ae56edb8085cd22b1416f60a71a56",
+      "bytes": 8042
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

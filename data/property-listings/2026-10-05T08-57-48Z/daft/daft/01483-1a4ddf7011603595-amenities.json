@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BALLYLEAGUE NATIONAL SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 0.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.676056",
+        "lon": "-7.999920"
+      }
+    },
+    {
+      "schoolName": "LANESBOROUGH PRIMARY SCHOOL",
+      "numPupils": 87,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.673706",
+        "lon": "-7.987669"
+      }
+    },
+    {
+      "schoolName": "CLOONTUSKERT NATIONAL SCHOOL",
+      "numPupils": 75,
+      "distance": {
+        "value": 2.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.700512",
+        "lon": "-8.012088"
+      }
+    },
+    {
+      "schoolName": "BALLAGH NATIONAL SCHOOL",
+      "numPupils": 19,
+      "distance": {
+        "value": 5.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.684498",
+        "lon": "-8.081912"
+      }
+    },
+    {
+      "schoolName": "FERMOYLE NATIONAL SCHOOL",
+      "numPupils": 119,
+      "distance": {
+        "value": 5.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.624660",
+        "lon": "-7.993355"
+      }
+    },
+    {
+      "schoolName": "KILLASHEE NATIONAL SCHOOL",
+      "numPupils": 29,
+      "distance": {
+        "value": 7.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.679348",
+        "lon": "-7.879018"
+      }
+    },
+    {
+      "schoolName": "CLOONTAGH NATIONAL SCHOOL",
+      "numPupils": 14,
+      "distance": {
+        "value": 8.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.636845",
+        "lon": "-7.894268"
+      }
+    },
+    {
+      "schoolName": "CLOONCAGH NATIONAL SCHOOL",
+      "numPupils": 21,
+      "distance": {
+        "value": 8.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.715950",
+        "lon": "-8.103528"
+      }
+    },
+    {
+      "schoolName": "CLONDRA NATIONAL SCHOOL",
+      "numPupils": 94,
+      "distance": {
+        "value": 8.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.730255",
+        "lon": "-7.905448"
+      }
+    },
+    {
+      "schoolName": "KILTEEVAN NATIONAL SCHOOL",
+      "numPupils": 36,
+      "distance": {
+        "value": 8.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.635530",
+        "lon": "-8.114905"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "LANESBORO COMMUNITY COLLEGE",
+      "numPupils": 281,
+      "distance": {
+        "value": 1.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.669212",
+        "lon": "-7.983284"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE SEC SCHOOL",
+      "numPupils": 657,
+      "distance": {
+        "value": 13.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.777700",
+        "lon": "-8.112440"
+      }
+    },
+    {
+      "schoolName": "C.B.S. ROSCOMMON",
+      "numPupils": 436,
+      "distance": {
+        "value": 14.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.626366",
+        "lon": "-8.195687"
+      }
+    },
+    {
+      "schoolName": "CONVENT OF MERCY, SECONDARY SCHOOL",
+      "numPupils": 518,
+      "distance": {
+        "value": 14.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.627365",
+        "lon": "-8.197550"
+      }
+    },
+    {
+      "schoolName": "ROSCOMMON COMMUNITY COLLEGE",
+      "numPupils": 579,
+      "distance": {
+        "value": 14.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.625256",
+        "lon": "-8.199881"
+      }
+    },
+    {
+      "schoolName": "MEÁN SCOIL MHUIRE",
+      "numPupils": 607,
+      "distance": {
+        "value": 14.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.725475",
+        "lon": "-7.795631"
+      }
+    },
+    {
+      "schoolName": "ST. MEL'S COLLEGE",
+      "numPupils": 603,
+      "distance": {
+        "value": 14.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.728992",
+        "lon": "-7.793768"
+      }
+    },
+    {
+      "schoolName": "TEMPLEMICHAEL COLLEGE",
+      "numPupils": 363,
+      "distance": {
+        "value": 15.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.731750",
+        "lon": "-7.786254"
+      }
+    },
+    {
+      "schoolName": "BALLYMAHON VOCATIONAL SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 19.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.568410",
+        "lon": "-7.771834"
+      }
+    },
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 760,
+      "distance": {
+        "value": 19.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.567320",
+        "lon": "-7.764910"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ballyleague",
+      "route": "426",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.675397",
+        "lon": "-7.995447"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyclare",
+      "route": "426",
+      "destination": "Roscommon",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 0.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.676081",
+        "lon": "-8.005645"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lanesborough",
+      "route": "426",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.672775",
+        "lon": "-7.989467"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lanesborough",
+      "route": "65",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.672425",
+        "lon": "-7.988831"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lanesborough",
+      "route": "425",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.672425",
+        "lon": "-7.988831"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Aghamore",
+      "route": "426",
+      "destination": "Roscommon",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.67267",
+        "lon": "-7.98047"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloonaddra",
+      "route": "425",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.669721",
+        "lon": "-8.043537"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloonaddra",
+      "route": "426",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 3.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.669811",
+        "lon": "-8.043613"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Moneen",
+      "route": "425",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.6657878137677",
+        "lon": "-8.05867933767838"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Moneen",
+      "route": "426",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 4.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.665788",
+        "lon": "-8.058755"
+      }
+    }
+  ]
+}

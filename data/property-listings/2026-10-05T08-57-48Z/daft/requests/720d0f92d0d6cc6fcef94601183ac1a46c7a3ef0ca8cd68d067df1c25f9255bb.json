@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/kilbrean-killarney-kilcummin-co-kerry/6686696",
+  "fetchedAt": "2026-10-05T09:26:52.311Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/kilbrean-killarney-kilcummin-co-kerry/6686696",
+  "kind": "listing",
+  "responseSha256": "460d4937fded4a2333d07983a07f5f81873907b9fd72e9055bc69e3068ff0ad5",
+  "files": [
+    {
+      "path": "daft/01162-720d0f92d0d6cc6f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c9d1006f7fb63bc0fd8e69cbc6b786ade820f032c84ad4004ef5a605285ff1eb",
+      "bytes": 24240
+    },
+    {
+      "path": "daft/01162-720d0f92d0d6cc6f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

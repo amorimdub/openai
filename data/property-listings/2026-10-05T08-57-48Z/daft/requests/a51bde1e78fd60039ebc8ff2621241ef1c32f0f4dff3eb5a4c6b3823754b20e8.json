@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/occu-fairway-dun-laoghaire-fairway-drive-dun-laoghaire-co-dublin/3919408",
+  "fetchedAt": "2026-10-05T09:09:49.436Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/occu-fairway-dun-laoghaire-fairway-drive-dun-laoghaire-co-dublin/3919408",
+  "kind": "listing",
+  "responseSha256": "ae4c3fc24fc964d881aa959ddfba0c738ef8727d6048b79c5182ebf17efba1a7",
+  "files": [
+    {
+      "path": "daft/00481-a51bde1e78fd6003-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a0b2fbf514db1211ea07ef7a949b57448ae8c5817599dfef5b9f71d84d98dc6d",
+      "bytes": 133765
+    },
+    {
+      "path": "daft/00481-a51bde1e78fd6003-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "37511dfb36e7efbee2f282ea6df737c54db4a7db680439db965887d11fa95a83",
+      "bytes": 8200
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

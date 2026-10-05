@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=111",
+  "fetchedAt": "2026-10-05T11:11:00.821Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=111",
+  "kind": "search",
+  "responseSha256": "a5e6061efb19ea18e23b446d27c1d4d2a6b74af91a6d1754a3ed229790bb4066",
+  "files": [
+    {
+      "path": "myhome/02807-8767cc58ea6561d1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=111\"].SearchResults",
+      "sha256": "749e9c8c1c2796d79758b97b05c513f4f3f462e15a215cb2ba4f81d1e9bf0464",
+      "bytes": 110136
+    },
+    {
+      "path": "myhome/02807-8767cc58ea6561d1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=111\"] (paging fields)",
+      "sha256": "4d9287e26ea460f215f1d493aa6dc0220b79e71ed70f0ee2fbbb6039bb1eb968",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/glenderry-ballyheigue-kerry/5030037",
+    "https://www.myhome.ie/residential/brochure/67-claremont-crescent-glasnevin-dublin-11/5030046",
+    "https://www.myhome.ie/residential/brochure/13-the-crescent-dunboyne-castle-dunboyne-county-meath/5030044",
+    "https://www.myhome.ie/residential/brochure/apartment-no-2-all-hallows-green-drumcondra-dublin-9/5030041",
+    "https://www.myhome.ie/residential/brochure/6-claureen-drive-ennis-co-clare/5030040",
+    "https://www.myhome.ie/residential/brochure/8-abbeylands-mullingar-westmeath/5030035",
+    "https://www.myhome.ie/residential/brochure/ballinamona-campile-co-wexford/5030039",
+    "https://www.myhome.ie/residential/brochure/hillview-maddenstown-curragh-kildare/5030033",
+    "https://www.myhome.ie/residential/brochure/kilshanroe-enfield-co-kildare/5030030",
+    "https://www.myhome.ie/residential/brochure/29-northbrook-avenue-ranelagh-dublin-6/5030027",
+    "https://www.myhome.ie/residential/brochure/6-grange-park-close-raheny-dublin-5/5009205",
+    "https://www.myhome.ie/residential/brochure/apartment-4-aston-abbey-aston-quay-temple-bar-dublin-2/5003627",
+    "https://www.myhome.ie/residential/brochure/2-the-court-waterpark-carrigaline-cork/5024160",
+    "https://www.myhome.ie/residential/brochure/7-hettyfield-gardens-hettyfield-douglas-cork/5029995",
+    "https://www.myhome.ie/residential/brochure/53a-marguerite-road-glasnevin-dublin-9/5030021",
+    "https://www.myhome.ie/residential/brochure/20-losset-hall-belgard-square-tallaght-dublin-24/5030020",
+    "https://www.myhome.ie/residential/brochure/148-ardbeg-park-artane-dublin-5/4966467",
+    "https://www.myhome.ie/residential/brochure/33-redwood-court-kilnamanagh-dublin-24/5029216",
+    "https://www.myhome.ie/residential/brochure/26-the-close-ledwill-park-kilcock-co-kildare/5030019",
+    "https://www.myhome.ie/residential/brochure/11-wingfield-corke-abbey-bray-co-dublin/5030018"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=112",
+  "paginationLimited": false
+}

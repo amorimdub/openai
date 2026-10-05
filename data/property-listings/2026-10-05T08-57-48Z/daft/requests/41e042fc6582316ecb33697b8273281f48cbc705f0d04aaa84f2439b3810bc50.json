@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/drumkeeran-black-arvagh-co-cavan/6685987",
+  "fetchedAt": "2026-10-05T09:32:19.802Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/drumkeeran-black-arvagh-co-cavan/6685987",
+  "kind": "listing",
+  "responseSha256": "a064449c1cd5e20ee684db709d5daa4e042bf02267cea9a88cb4b088f1c0e0ee",
+  "files": [
+    {
+      "path": "daft/01380-41e042fc6582316e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "70bd815d95a126075f99a622d537a863a1dba2f1902af81a688e5abb710ed421",
+      "bytes": 41070
+    },
+    {
+      "path": "daft/01380-41e042fc6582316e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e35b5d5065756d4ec6f2882f840440c196f6620a3de3258dc3c5d8c969754b35",
+      "bytes": 8236
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

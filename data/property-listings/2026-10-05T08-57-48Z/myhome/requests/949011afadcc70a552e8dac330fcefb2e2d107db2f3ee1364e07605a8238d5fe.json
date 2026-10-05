@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=464",
+  "fetchedAt": "2026-10-05T14:13:45.399Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=464",
+  "kind": "search",
+  "responseSha256": "0ab60ba1329ade500312a25ca580051b4df6e6b7b5e7f8749cbb38535959f177",
+  "files": [
+    {
+      "path": "myhome/10077-949011afadcc70a5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=464\"].SearchResults",
+      "sha256": "b1192e9823a04ccc956597b1486cf80f01a3e37999d3838ee4428f11038ef0e5",
+      "bytes": 113648
+    },
+    {
+      "path": "myhome/10077-949011afadcc70a5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=464\"] (paging fields)",
+      "sha256": "eb9cb58984f471d727ab55936662013b639341d28f740241fbee71f6530f1118",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/53-gleann-droimnin-carrickmacross-monaghan/5007026",
+    "https://www.myhome.ie/residential/brochure/54-upper-king-street-wexford-town-wexford/4989856",
+    "https://www.myhome.ie/residential/brochure/3-eyrefield-lawns-athgarvan-newbridge-co-kildare/5007002",
+    "https://www.myhome.ie/residential/brochure/74-cook-street-christchurch-dublin-8/5006996",
+    "https://www.myhome.ie/residential/brochure/ballyboy-walshestown-mullingar-westmeath/5006975",
+    "https://www.myhome.ie/residential/brochure/sessiaghoneill-ballybofey-co-donegal/5006989",
+    "https://www.myhome.ie/residential/brochure/11-kilmorna-heights-ballyvolane-cork/5006972",
+    "https://www.myhome.ie/residential/brochure/54-brickfield-drive-drimnagh-dublin-12/4963248",
+    "https://www.myhome.ie/residential/brochure/apartment-5-block-a-maryfield-court-naas-co-kildare/5006963",
+    "https://www.myhome.ie/residential/brochure/19-laurel-park-newcastle-galway-city/5006960",
+    "https://www.myhome.ie/residential/brochure/3-gowrie-glenageary-county-dublin/5003246",
+    "https://www.myhome.ie/residential/brochure/10-the-avenue-woodville-glanmire-co-cork/5006942",
+    "https://www.myhome.ie/residential/brochure/bohaun-north-killawalla-westport-mayo/5006916",
+    "https://www.myhome.ie/residential/brochure/14-adare-mews-douglas-cork/5006914",
+    "https://www.myhome.ie/residential/brochure/189-the-oaks-newbridge-co-kildare/5006915",
+    "https://www.myhome.ie/residential/brochure/220-millbrook-avenue-donaghmede-dublin-13/5006901",
+    "https://www.myhome.ie/residential/brochure/38-cul-na-greine-kilrane-rosslare-harbour-co-wexford/5006910",
+    "https://www.myhome.ie/residential/brochure/gortnacrusha-south-ballinspittle-cork/5006895",
+    "https://www.myhome.ie/residential/brochure/27-cosby-avenue-fairgreen-portlaoise-co-laois/5006897",
+    "https://www.myhome.ie/residential/brochure/currinah-carracastle-ballaghaderreen-roscommon/5006847"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=465",
+  "paginationLimited": false
+}

@@ -1,0 +1,1002 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "quayside quarter  dublin landings docklands dublin 1",
+    "GroupId": 387579,
+    "Address": "Quayside Quarter @ Dublin Landings",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_l.png",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_x.png",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/ec830d2f-f9bb-4829-bb73-15d4cb400cb7_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/367e8d4f-da5a-4594-86c2-7ccdf71eb8b4_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/8f9a7b38-ddcb-4882-a58f-ec6c00c935d4_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/87237ad5-74a8-4f81-af90-12a36b8f6f8d_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/66ef0ad1-ab23-4742-a477-2db8c51fdfdd_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/91661c85-a246-4231-8625-d27fb95ae7bf_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/27e42cd8-5500-4466-8b98-7f0a827f71a4_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/440783c7-776b-486d-8d63-c22db28b3d4a_l.png",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/d66802e9-4265-4eff-9a54-312b29ab6afa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/286837ae-c2d8-4653-acfe-91f017ab912f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/e9e59c50-009f-4e9b-ae19-e74a46061674_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/7a991638-10fa-4968-a96d-0dcaa658f159_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/254e782a-49b9-4ea9-96bd-72aacf047b5b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/4/9/4428947/6f564bf4-7468-426f-91b4-85cd8a67100a_l.png"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 83,
+    "MaxSize": 83,
+    "BerRating": "A3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 17,
+        "Name": "Pets Allowed",
+        "CreatedOn": "2018-03-20T10:29:41.1400000+00:00",
+        "IconName": "myh-icon-pets-allowed",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 32,
+        "Name": "Gym",
+        "CreatedOn": "2018-09-11T10:21:14.0600000+01:00",
+        "IconName": "myh-icon-gym",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€2,939 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "83",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4428947,
+        "DisplayAddress": "Quayside Quarter @ Dublin Landings, Docklands, Dublin 1",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "d77f724e-ddcb-4b3d-8f0e-c39ddd8db96e",
+              "Filename": "a1fb510c-06f6-4939-ad2e-a6a18b1baea6.png",
+              "Caption": "Daft photos 2 bed3.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "54cea289-9c19-4753-966c-5c60e45d881e",
+              "Filename": "ec830d2f-f9bb-4829-bb73-15d4cb400cb7.png",
+              "Caption": "Daft photos 2 bed10.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1b5a235e-c241-473d-984f-e8704216384f",
+              "Filename": "367e8d4f-da5a-4594-86c2-7ccdf71eb8b4.png",
+              "Caption": "Daft photos 2 bed14.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "90cac286-67d5-4ea8-b807-c2fdef3adf71",
+              "Filename": "8f9a7b38-ddcb-4882-a58f-ec6c00c935d4.png",
+              "Caption": "Daft photos 2 bed5.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7120f6c8-47f7-47b1-8599-1b5d79c77f4d",
+              "Filename": "87237ad5-74a8-4f81-af90-12a36b8f6f8d.png",
+              "Caption": "Daft photos 2 bed6.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ff863b72-8275-4da4-a1cb-d252c3d5a29d",
+              "Filename": "66ef0ad1-ab23-4742-a477-2db8c51fdfdd.png",
+              "Caption": "Daft photos 2 bed7.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e2f42600-ada5-4987-a396-201c788a2e2d",
+              "Filename": "91661c85-a246-4231-8625-d27fb95ae7bf.png",
+              "Caption": "Daft photos 2 bed8.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1d864b62-ef49-45ae-9cd9-66309f14d7b6",
+              "Filename": "27e42cd8-5500-4466-8b98-7f0a827f71a4.png",
+              "Caption": "Daft photos 2 bed13.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6cba0765-996b-4df4-9734-62921fc1ed3e",
+              "Filename": "440783c7-776b-486d-8d63-c22db28b3d4a.png",
+              "Caption": "Daft photos 2 bed.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dec7d74c-8d46-4e18-9349-ad6e68c8f8dd",
+              "Filename": "d66802e9-4265-4eff-9a54-312b29ab6afa.jpg",
+              "Caption": "LowRes_Billy Bolton_Greystar_Griffith Wood_416.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "09b4ff52-409a-4e3c-b281-b31bce7dc622",
+              "Filename": "286837ae-c2d8-4653-acfe-91f017ab912f.jpg",
+              "Caption": "LowRes_Billy Bolton_Greystar_Griffith Wood_382.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "004a87d4-7168-4cd4-8660-841cbe7ef0cd",
+              "Filename": "e9e59c50-009f-4e9b-ae19-e74a46061674.jpg",
+              "Caption": "LowRes_Billy Bolton_Greystar_Griffith Wood_392.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2e5fc8af-138d-4690-9040-a989fd354198",
+              "Filename": "7a991638-10fa-4968-a96d-0dcaa658f159.jpg",
+              "Caption": "LowRes_Billy Bolton_Greystar_Griffith Wood_394-Edi",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "57a71dc1-5228-4eb0-8923-a9fee42b2dae",
+              "Filename": "254e782a-49b9-4ea9-96bd-72aacf047b5b.jpg",
+              "Caption": "LowRes_Billy Bolton_Greystar_Griffith Wood_427.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8e7623fd-3261-496f-bc9e-b798a885e959",
+              "Filename": "6f564bf4-7468-426f-91b4-85cd8a67100a.png",
+              "Caption": "Daft photos 2 bed2.png",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "1bfda38b61d6405f8dc9ed95b4027a23",
+          "OriginalImagesSuffix": "1bfda",
+          "MainPhoto": {
+            "Identifier": "d77f724e-ddcb-4b3d-8f0e-c39ddd8db96e",
+            "Filename": "a1fb510c-06f6-4939-ad2e-a6a18b1baea6.png",
+            "Caption": "Daft photos 2 bed3.png",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_l.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€3,739 / month",
+        "PropertyClassId": 3,
+        "SizeStringFeet": "1184",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4496986,
+        "DisplayAddress": "Quayside Quarter at Dublin Landings, Docklands, Dublin 1",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "69a65ba3-9b90-46c5-860a-61a9e80e7eb8",
+              "Filename": "b2e85093-3d37-4b08-81e6-777c4c22599a.png",
+              "Caption": "Daft photos 2 bed7.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ddbc618a-fcca-482e-b5b1-c2c924735191",
+              "Filename": "38790938-b37b-46bf-897e-7b3f2565f9e9.png",
+              "Caption": "Daft photos 2 bed6.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f66a92c2-14aa-476f-b5ac-aae78ab22189",
+              "Filename": "430ad30e-bf22-44e9-82c8-d0249b9c4a6b.png",
+              "Caption": "Daft photos 2 bed8.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "065aa453-bd50-42df-88af-f545c9cff006",
+              "Filename": "31bcc904-1697-4198-bf43-718a86b9b665.png",
+              "Caption": "Daft photos 2 bed5.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "337386fd-630f-48bd-b9c1-d747c92b22f1",
+              "Filename": "268c4099-5f7a-4b18-b778-6deb389f9b27.png",
+              "Caption": "Daft photos 2 bed12.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "07b3b0ff-aafc-477d-8f4c-eeb069cb509f",
+              "Filename": "763627ed-3264-4d1b-90b1-af368d9f2848.png",
+              "Caption": "Daft photos 2 bed2.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0d3dc5c9-41b8-4c24-82b6-75fa9d2ce9ea",
+              "Filename": "603f3d9a-d6cf-4ee1-a2fa-8776fe0d0838.png",
+              "Caption": "Daft photos 2 bed3.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d612ad75-ad0b-4a9a-a56f-50b139d3c499",
+              "Filename": "42e2da5c-2afc-4398-8c19-c011eb159383.png",
+              "Caption": "Daft photos 2 bed4.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8b0d783f-4585-4c87-8455-b9e01816e936",
+              "Filename": "976c1979-ee4f-46d4-a908-a78ca36a631f.png",
+              "Caption": "Daft photos 2 bed9.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "410d85bb-8dab-49ba-a8a0-7b3f9c4e04ff",
+              "Filename": "315ac4a0-298e-4cdb-ac56-a81056d8d229.png",
+              "Caption": "Daft photos 2 bed10.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bc33fcb7-4d6d-4ed2-ac8f-2f0854b23fce",
+              "Filename": "7a5d7790-cbfe-44ac-9419-2398d80f2893.png",
+              "Caption": "Daft photos 2 bed14.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5df4be8b-106c-4d11-94de-80e26965594f",
+              "Filename": "d587bc2e-ba77-415d-83c8-fc464bd9ada8.png",
+              "Caption": "Daft photos 2 bed13.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f6821a4d-22d5-4af3-b9d2-02890ef53af2",
+              "Filename": "30d4fb10-2e3c-4c0e-98a3-fc6bd2617d0d.png",
+              "Caption": "Daft photos 2 bed.png",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "05ff713e341a48548dc8d02bcf28169d",
+          "OriginalImagesSuffix": "05ff7",
+          "MainPhoto": {
+            "Identifier": "69a65ba3-9b90-46c5-860a-61a9e80e7eb8",
+            "Filename": "b2e85093-3d37-4b08-81e6-777c4c22599a.png",
+            "Caption": "Daft photos 2 bed7.png",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/6/8/9/4496986/b2e85093-3d37-4b08-81e6-777c4c22599a_l.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€3,045 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "82",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4539791,
+        "DisplayAddress": "Quayside Quarter at Dublin Landings, Docklands, Dublin 1",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "c6ea478e-9489-42e5-a7ed-bdf29b133f0a",
+              "Filename": "fS5L5vHNUYB",
+              "Type": "Video",
+              "Location": "Matterport"
+            },
+            {
+              "Identifier": "bcc7ed3c-06c1-409d-935f-15dba94caf07",
+              "Filename": "N7jWy9UWMRW",
+              "Type": "Video",
+              "Location": "Matterport"
+            },
+            {
+              "Identifier": "acdda558-2f4c-46a6-a7dc-72c79bc2b93d",
+              "Filename": "kUytz2BeXbc",
+              "Type": "Video",
+              "Location": "Matterport"
+            },
+            {
+              "Identifier": "e89a8fb0-c5ac-4930-8bf0-7ba5e6422c6e",
+              "Filename": "72378747-06a5-40c8-82e0-fade7dfcf062.jpg",
+              "Caption": "IDo7EdFS_400x400.jpg",
+              "Type": "DevelopmentLogo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "bf1dafe14e3145d78811caf246b7d10a",
+          "OriginalImagesSuffix": "bf1da",
+          "HasMainPhoto": false,
+          "HasPhotos": false,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/9/7/4539791/fS5L5vHNUYB_l",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,950 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "82",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4998499,
+        "DisplayAddress": "Packenham House, Spencer Dock, Docklands, Dublin 1",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "c17287d7-2f84-414f-956c-da170124e286",
+              "Filename": "25fb5755-6e43-4df2-b1a0-262da0191a28.jpeg",
+              "Caption": "97809_213_1750930333072_10-32AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c8f77489-4d8f-4fe2-8228-be26c5e2c763",
+              "Filename": "21acbfd1-7ade-4174-841a-529072e6f70e.jpeg",
+              "Caption": "97810_213_1750930339720_10-32AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "15933162-b1ac-4d34-b820-2e0200bea31e",
+              "Filename": "3fe06a61-b066-490d-88d9-62c81b34d8a1.jpeg",
+              "Caption": "97811_213_1750930348737_10-32AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "92379a11-8abb-413e-8641-fcd82d6c52f2",
+              "Filename": "f9e04055-7fa1-4e79-8f75-04025fa82491.jpeg",
+              "Caption": "97812_213_1750930361970_10-32AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4fa2856d-e207-405e-82cf-9000c9ad54d2",
+              "Filename": "05d142e1-7650-47e6-939a-a399790d67de.jpeg",
+              "Caption": "97813_213_1750930368994_10-32AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "53b51b77-b42d-4beb-bea2-126df30b306c",
+              "Filename": "5464c752-ad0f-474a-8804-0b95e5541174.jpeg",
+              "Caption": "97814_213_1750930384922_10-33AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1a6f4cfa-9c98-4c3f-a9ca-a7c7e5c56eab",
+              "Filename": "c08a8ddf-b531-43b6-ab14-29c728fb1c55.jpeg",
+              "Caption": "97815_213_1750930395385_10-33AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c3ccd920-b80c-40c9-a7c1-cc5c4c6c668d",
+              "Filename": "1f36a555-5645-4921-87fb-06529b1f1cd3.jpeg",
+              "Caption": "97816_213_1750930405039_10-33AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a27ba7ec-4315-4da0-990e-66b1b9edd372",
+              "Filename": "1a261b2f-ac85-413c-94fa-2acaf52ad2d1.jpeg",
+              "Caption": "97817_213_1750930424910_10-33AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d97b02c5-d6cb-4751-8fa0-5f98c1e39ffd",
+              "Filename": "90fb96f5-e5a1-4007-877c-62b7443d4a50.jpeg",
+              "Caption": "97818_213_1750930438208_10-33AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "495aa721-2825-461c-9835-f5adf17ed260",
+              "Filename": "7117ee01-7f21-4d1f-a909-411c4ea9c8b8.jpeg",
+              "Caption": "97819_213_1750930448733_10-34AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "336767fc-a4f4-497b-986f-1c70194541f8",
+              "Filename": "2028b9ae-f2c0-4d2f-b4dc-2e44c95e800d.jpeg",
+              "Caption": "97820_213_1750930458722_10-34AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6dc8606c-caec-4ae0-8343-b1212679c611",
+              "Filename": "2694b673-d2b0-451d-9a63-9e517e47f8ee.jpeg",
+              "Caption": "97821_213_1750930473621_10-34AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8964e5e5-58f7-4fec-9134-ddba3686643d",
+              "Filename": "3f210d91-fcd5-4358-a414-56962407aa55.jpeg",
+              "Caption": "97822_213_1750930482768_10-34AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9af565c5-20dd-49b2-89b2-fb7e90ed156d",
+              "Filename": "8e9ee5ce-52ec-470a-a28c-a2575d841df7.jpeg",
+              "Caption": "97823_213_1750930493436_10-34AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bfaeba6a-98ac-438c-b6e3-1ff631108465",
+              "Filename": "96149594-dec7-48a5-9979-4d492d35511c.jpeg",
+              "Caption": "97825_213_1750930519343_10-35AM_26-06-2025.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "056baeb0-94e0-440a-a55f-bbcd22c7f864",
+              "Filename": "https://youtube.com/embed/RBHJbLA7bGY",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "8e895deba34d44d8aacdc8119e698ab1",
+          "OriginalImagesSuffix": "8e895",
+          "MainPhoto": {
+            "Identifier": "c17287d7-2f84-414f-956c-da170124e286",
+            "Filename": "25fb5755-6e43-4df2-b1a0-262da0191a28.jpeg",
+            "Caption": "97809_213_1750930333072_10-32AM_26-06-2025.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/9/4/4998499/25fb5755-6e43-4df2-b1a0-262da0191a28_l.jpeg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Experience a better kind of renting in our airy  one bed-room apartment. Nestled inside of Dublin Landings , located on the riverside in the heart of the docklands, the 516 – 763 sq. ft. apartment is perfect for those looking for comfortable riverside living . Sitting on the estuary, our premium units benefit from uninterrupted views over the River Liffey, whilst our standard units overlook the peaceful internal courtyards, Quayside Quarter sets a new standard of rented apartment living in the city.\r\n\r\nOur pet-friendly apartments boast of a range of resident exclusives to help you meet your needs,\r\n \r\n🕒 24/7 Concierge\r\n🏋️‍♂️ Resident Gym\r\n🐶 Pet-friendly development\r\n🔧 24/7 onsite maintenance and management\r\n🏋️‍♂️ Private gym\r\n💼 Co-working spaces\r\n🛋️ Residents lounge\r\n🌇 Communal roof terrace areas\r\n🌱 Sustainable styled living with secure bike storage and electric car charging\r\n🅿️ Parking available by separate negotiation\r\n🧼 Dry Cleaning service\r\n\r\nDesigned to refine the work life balance, the Residents' Lounge is an elegant and considered space designed to meet the needs of its residents. With hot desks, meeting spaces and a games area for downtime, it is a space made for collaborators. The private gym is flooded with natural light and features a raw industrial aesthetic.\r\nThe development  draws its inspiration from the fabric of Dublin and the rich industrial heritage of the docklands - infused with contemporary Scandinavian architectural accents and Brooklyn loft-style design.\r\nIn addition there is  are plenty of car parking spaces available, secure bike storage, a concierge service and landscaped gardens. All apartments are pet friendly and residents can choose from furnished or unfurnished options in a variation of layouts, some with waterfront views.\r\n\r\nProperty features:\r\n•\tParking\r\n•\tCentral Heating\r\n•\tCable Television\r\n•\tWashing Machine\r\n•\tDryer \r\n•\tDishwasher \r\n•\tMicrowave \r\n•\tPets Allowed\r\n•\tWheelchair Access\r\n•\tInternet\r\n•\tGarden / Patio / Balcony\r\n•\tConcierge\r\n•\tGym\r\n•\tResidents Lounge\r\n•\tCommunity Events\r\n•\tCo-working Space\r\n•\tLaundry\r\n\r\nLocation\r\nConveniently located only 5 minutes away from Docklands rapid rail station (DART) and right next to Spencer Dock light rail station (LUAS). By foot you can reach Point Square in a minute, get to your office at the IFSC in 4 minutes. Dublin airport is just an easy 20-minute taxi away.  The neighbourhood draws its inspiration from the fabric of Dublin and the rich industrial heritage of the docklands - infused with contemporary Scandinavian architectural accents and Brooklyn loft-style design. Providing squares of curated wild landscapes nestle next to bustling streets of restaurants, cafés and stores, anchored by a riverfront boutique hotel creating a vibrant new neighbourhood.\r\n\r\n* Please note that there are multiple property types available at this development. The rent advertised is on these individual property ads represent the starting rent for these property types. \r\n\r\nRent will vary throughout this development depending on different aspects of the property types. Not all the available properties and rents listed here.\r\n\r\nIf you need contact with a member of the site team, please email team@qquarter.com or call us on 01 5395960"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: A3"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 421832,
+    "MinEnergyRating": 130,
+    "MaxEnergyRating": 130,
+    "BERGrade": "A",
+    "IsNewBER": false,
+    "CreatedOnDate": "2020-05-15T16:07:44.8600000+01:00",
+    "ModifiedOnDate": "2024-04-18T09:21:42.3270000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2020-05-20T15:14:37.6800000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "RelatedProperties": "4428947",
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,939 / month",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 4428947,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 83,
+    "DisplayAddress": "Quayside Quarter @ Dublin Landings, Docklands, Dublin 1",
+    "Eircode": "D01 R5Y9",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1441,
+    "RegionName": "Dublin 1",
+    "LocalityId": 1351,
+    "LocalityName": "Docklands",
+    "Price": {
+      "MinRentalPrice": 2939,
+      "MaxRentalPrice": 2939,
+      "Period": "Monthly",
+      "ShowPrice": true,
+      "AvailableOn": "2024-04-02T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2939,
+      "MaxMonthlyRentalPrice": 2939
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/ec830d2f-f9bb-4829-bb73-15d4cb400cb7_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/ec830d2f-f9bb-4829-bb73-15d4cb400cb7_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/ec830d2f-f9bb-4829-bb73-15d4cb400cb7_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/367e8d4f-da5a-4594-86c2-7ccdf71eb8b4_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/367e8d4f-da5a-4594-86c2-7ccdf71eb8b4_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/367e8d4f-da5a-4594-86c2-7ccdf71eb8b4_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/8f9a7b38-ddcb-4882-a58f-ec6c00c935d4_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/8f9a7b38-ddcb-4882-a58f-ec6c00c935d4_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/8f9a7b38-ddcb-4882-a58f-ec6c00c935d4_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/87237ad5-74a8-4f81-af90-12a36b8f6f8d_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/87237ad5-74a8-4f81-af90-12a36b8f6f8d_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/87237ad5-74a8-4f81-af90-12a36b8f6f8d_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/66ef0ad1-ab23-4742-a477-2db8c51fdfdd_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/66ef0ad1-ab23-4742-a477-2db8c51fdfdd_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/66ef0ad1-ab23-4742-a477-2db8c51fdfdd_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/91661c85-a246-4231-8625-d27fb95ae7bf_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/91661c85-a246-4231-8625-d27fb95ae7bf_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/91661c85-a246-4231-8625-d27fb95ae7bf_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/27e42cd8-5500-4466-8b98-7f0a827f71a4_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/27e42cd8-5500-4466-8b98-7f0a827f71a4_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/27e42cd8-5500-4466-8b98-7f0a827f71a4_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/440783c7-776b-486d-8d63-c22db28b3d4a_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/440783c7-776b-486d-8d63-c22db28b3d4a_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/440783c7-776b-486d-8d63-c22db28b3d4a_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/d66802e9-4265-4eff-9a54-312b29ab6afa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/d66802e9-4265-4eff-9a54-312b29ab6afa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/d66802e9-4265-4eff-9a54-312b29ab6afa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/286837ae-c2d8-4653-acfe-91f017ab912f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/286837ae-c2d8-4653-acfe-91f017ab912f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/286837ae-c2d8-4653-acfe-91f017ab912f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/e9e59c50-009f-4e9b-ae19-e74a46061674_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/e9e59c50-009f-4e9b-ae19-e74a46061674_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/e9e59c50-009f-4e9b-ae19-e74a46061674_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/7a991638-10fa-4968-a96d-0dcaa658f159_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/7a991638-10fa-4968-a96d-0dcaa658f159_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/7a991638-10fa-4968-a96d-0dcaa658f159_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/254e782a-49b9-4ea9-96bd-72aacf047b5b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/254e782a-49b9-4ea9-96bd-72aacf047b5b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/254e782a-49b9-4ea9-96bd-72aacf047b5b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/6f564bf4-7468-426f-91b4-85cd8a67100a_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/6f564bf4-7468-426f-91b4-85cd8a67100a_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/6f564bf4-7468-426f-91b4-85cd8a67100a_m.png"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.232842799999999,
+      "latitude": 53.3472021
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [
+        4428947
+      ],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 15,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 387579,
+    "Name": "Greystar Europe",
+    "Email": "team@qquarter.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "greystar-europe",
+    "SeoName": "greystar-europe",
+    "Address": "Dublin Landings, 76 North Wall Quay, North Dock",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/9/7/5/387579/logo.jpg",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "docklands/1351",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 4540166,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Griffith Wood, Griffith Avenue, Drumcondra, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/6/1/4540166/59abb512-2d87-4fc0-b946-630d556c8cfb_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/griffith-wood-griffith-avenue-drumcondra-dublin-9/4540166"
+    },
+    {
+      "PropertyId": 4540620,
+      "PropertyClassId": 3,
+      "DisplayAddress": "1 Bedroom Apartments, Griffith Wood, Griffith Avenue, Drumcondra, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/2/6/4540620/fb0d30ad-b3c9-4538-9b9b-643336b32949_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/1-bedroom-apartments-griffith-wood-griffith-avenue-drumcondra-dublin-9/4540620"
+    },
+    {
+      "PropertyId": 4540622,
+      "PropertyClassId": 3,
+      "DisplayAddress": "3 Bedroom Apartments, Griffith Wood, Griffith Avenue, Drumcondra, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/6/4540622/d7c27576-d6ec-4fe2-bbcd-84ee2a6cf055_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/3-bedroom-apartments-griffith-wood-griffith-avenue-drumcondra-dublin-9/4540622"
+    },
+    {
+      "PropertyId": 4540621,
+      "PropertyClassId": 3,
+      "DisplayAddress": "2 Bedroom Apartments, Griffith Wood, Griffith Avenue, Drumcondra, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/2/6/4540621/47b58265-024e-4635-96f4-a3f4d425789a_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/2-bedroom-apartments-griffith-wood-griffith-avenue-drumcondra-dublin-9/4540621"
+    },
+    {
+      "PropertyId": 4496986,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Quayside Quarter at Dublin Landings, Docklands, Dublin 1",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/8/9/4496986/b2e85093-3d37-4b08-81e6-777c4c22599a_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/quayside-quarter-at-dublin-landings-docklands-dublin-1/4496986"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [
+    {
+      "PropertyId": 4428947,
+      "GroupId": 387579,
+      "CustomData": {
+        "RelatedPropertyIDs": [
+          4428947
+        ],
+        "PromotionalSnippet": "",
+        "IsMyHomePassport": false,
+        "DevelopmentLogoBgColour": ""
+      },
+      "RefreshedOn": "2022-07-08T15:08:06.6500000+01:00",
+      "Address": "Quayside Quarter @ Dublin Landings",
+      "GroupPhoneNumber": "",
+      "GroupEmail": "team@qquarter.com",
+      "GroupName": "Greystar Europe",
+      "GroupAddress": "Dublin Landings, 76 North Wall Quay, North Dock",
+      "GroupUrlSlugIdentifier": "greystar-europe",
+      "Negotiator": {
+        "NegotiatorId": 0
+      },
+      "CreatedOnDate": "2020-05-15T16:07:44.8600000+01:00",
+      "ActivatedOn": "2020-05-20T15:14:37.6800000+01:00",
+      "IsNew": false,
+      "IsSaleAgreed": false,
+      "GroupLogoBgColor": "#FFFFFF",
+      "GroupPremiumHeadTextColour": "#FFFFFF",
+      "GroupLogoUrl": "https://photos-a.propertyimages.ie/groups/9/7/5/387579/logo.jpg",
+      "GroupPremiumLogoUrl": "",
+      "GroupPremiumJointLogoUrl": "",
+      "GroupRectangularLogoUrl": "",
+      "JointGroupRectangularLogoUrl": "",
+      "JointGroupPremiumJointLogo": "",
+      "GroupUrl": "/estate-agents/greystar-europe-387579",
+      "IsPremiumAd": false,
+      "IsBuildToRent": true,
+      "IsBuildToRentDevelopment": false,
+      "IsPrivateLandlord": false,
+      "IsBrandBooster": false,
+      "IsActive": true,
+      "SaleTypeId": 0,
+      "IsFavourite": false,
+      "HasVideos": false,
+      "HasWebP": true,
+      "IsMappedAccurately": false,
+      "IsTopSpot": false,
+      "BedsString": "2 beds",
+      "NumberOfBeds": 2,
+      "PriceAsString": "€2,939 / month",
+      "BrochureMap": {
+        "longitude": -6.232842799999999,
+        "latitude": 53.3472021
+      },
+      "id": 4428947,
+      "SizeStringMeters": 83,
+      "PriceChangeIsIncrease": false,
+      "DisplayAddress": "Quayside Quarter @ Dublin Landings, Docklands, Dublin 1",
+      "Eircode": "D01 R5Y9",
+      "PropertyClassId": 3,
+      "PropertyClass": "LettingsToRent",
+      "PropertyClassUrlSlug": "rentals",
+      "PropertyStatus": "ToLet",
+      "PropertyType": "Apartment",
+      "BathString": "1 bath",
+      "NumberOfBathrooms": 1,
+      "BerRating": "A3",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "OpenViewings": [],
+      "VirtualViewings": [],
+      "OrderedDisplayAddress": "quayside quarter  dublin landings docklands dublin 1",
+      "SeoDisplayAddress": "quayside-quarter-dublin-landings-docklands-dublin-1",
+      "BrochureUrl": "/rentals/brochure/quayside-quarter-dublin-landings-docklands-dublin-1/4428947",
+      "SeoUrl": "/rentals/brochure/quayside-quarter-dublin-landings-docklands-dublin-1/4428947",
+      "PhotoCount": 15,
+      "MainPhoto": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_l.png",
+      "MainPhotoWeb": "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_m.png",
+      "Photos": [
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/a1fb510c-06f6-4939-ad2e-a6a18b1baea6_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/ec830d2f-f9bb-4829-bb73-15d4cb400cb7_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/367e8d4f-da5a-4594-86c2-7ccdf71eb8b4_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/8f9a7b38-ddcb-4882-a58f-ec6c00c935d4_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/87237ad5-74a8-4f81-af90-12a36b8f6f8d_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/66ef0ad1-ab23-4742-a477-2db8c51fdfdd_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/91661c85-a246-4231-8625-d27fb95ae7bf_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/27e42cd8-5500-4466-8b98-7f0a827f71a4_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/440783c7-776b-486d-8d63-c22db28b3d4a_l.png",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/d66802e9-4265-4eff-9a54-312b29ab6afa_l.jpg",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/286837ae-c2d8-4653-acfe-91f017ab912f_l.jpg",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/e9e59c50-009f-4e9b-ae19-e74a46061674_l.jpg",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/7a991638-10fa-4968-a96d-0dcaa658f159_l.jpg",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/254e782a-49b9-4ea9-96bd-72aacf047b5b_l.jpg",
+        "https://photos-a.propertyimages.ie/media/7/4/9/4428947/6f564bf4-7468-426f-91b4-85cd8a67100a_l.png"
+      ],
+      "TravelTimes": [],
+      "AuctionList": [],
+      "AdditionalLogoUrls": [],
+      "RelatedPropertiesTotal": 0
+    }
+  ],
+  "SeoUrl": "/rentals/brochure/quayside-quarter-dublin-landings-docklands-dublin-1/4428947",
+  "Features": [
+    "Furnished",
+    "Unfurnished",
+    "Central Heating",
+    "Washing Machine"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 421832,
+    "Name": "Greystar Europe",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/2/3/8/421832/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 387579,
+    "MYH_LocalityID": 1351,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1441,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Balcony",
+      "References Required",
+      "Pets Allowed",
+      "Dishwasher",
+      "Gym"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Balcony,References Required,Pets Allowed,Dishwasher,Gym",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 130,
+    "MYH_MinSize": 83,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4428947,
+    "MYH_PropertyTypeID": 74
+  }
+}

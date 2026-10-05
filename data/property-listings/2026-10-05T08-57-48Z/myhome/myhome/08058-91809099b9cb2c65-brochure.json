@@ -1,0 +1,403 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "2 athgoe road shankill dublin 18",
+    "GroupId": 337565,
+    "Address": "2 Athgoe Road",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/df5d8cf1-3191-4b16-a6a3-6a61dc46d263_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/df5d8cf1-3191-4b16-a6a3-6a61dc46d263_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/df5d8cf1-3191-4b16-a6a3-6a61dc46d263_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/34c9de18-242e-4ab4-996c-a7c17f300c51_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/485b1ecd-16c8-48aa-a1a8-a5b5aba340f1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c277ac29-d699-4672-99df-e08afba1934e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a31f2a03-93c6-47e9-84ee-836740d3ba65_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c32d9624-e4e4-4ed7-9b04-14d1187b7589_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/b6830ae6-c0b5-4e59-92ea-4a4e9e4d4707_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/2fe9cb8d-2ed5-48e1-8737-d0048476e534_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/af89875a-b0dc-46a8-b84d-9071084dd493_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/def7d85e-f5ba-440b-aa96-bea8aea0f3db_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/d81fce2f-f6b8-4a39-a230-c1ec343499ab_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/17b22b16-a29c-4a74-8700-7fc1f2d539c3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a042a266-b32a-4dbe-85e7-0103e2f4efba_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/9522e3be-bc8d-4719-aa28-145db4205952_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/845f3b3b-41cd-4644-8ca4-b47e29b2da9c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/26c5aa98-ae9e-4a7c-856e-9467c5ae5948_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/5969afb3-8e70-4167-8b05-252307d7fdac_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 88,
+    "MaxSize": 88,
+    "BerRating": "E2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Churches are delighted to present to market No. 2 Athgoe Road. This home is quietly nestled along a small, tree-lined cul-de-sac of 8 houses, within Athgoe, a highly regarded and sought-after estate, surrounded by greenery. It benefits from a sunny, west-facing, landscaped garden. There is a paved stone driveway to the front, with mature shrubbery, planted beds along its borders and gated side access through to the rear. Parking space for two cars.\r\n\r\nEnter through sliding doors to a porch, then an entrance hall with under-stairs storage. The main living room is to the front, featuring a fireplace, views over the driveway and trees, and double doors into the open-plan kitchen/dining to the rear; a modern, fitted kitchen with ample storage and counter space. Through double glass doors enter the extended conservatory, currently laid out as a seating area, but which could serve many purposes.\r\n\r\nUpstairs includes a bright landing with a gable window, a tiled main bathroom with bath/shower, and three bedrooms. The large double to the front has fitted wardrobes, a vanity table and storage, and a lovely view of greenery and trees; a second double bedroom to the rear has modern, sliding, mirrored wardrobes and an office nook. \r\n\r\nThere is a third single bedroom at the front, with a fitted wardrobe. A pull-down ladder provides access to the semi-insulated attic, which is useful for storage. Others in this cul-de-sac have converted their attics into living space. \r\n\r\nMeticulous maintenance and landscaping of this rear garden allow the sunny westerly aspect to be taken advantage of. It includes a deck area perfect for alfresco dining and a stone patio with mature planting beds, shrubbery and trees, creating a space with an air of privacy. A recent addition is the large, attractive wooden shed with flower boxes; included in the sale. \r\n\r\nIt is in close proximity to Lidl and a Costa Café and a short walk from Shankill village with all its associated community amenities: café, pub, hairdressers, post office, pharmacies, church and community centre, Tesco Express and Centra, the library, Garda station, and schools. Shankill Beach and many park areas, such as Shanganagh Park are also just a stroll away. Killiney Beach is a short distance away and there are Padel and Tennis courts within a ten-minute walk.\r\n\r\nShankill DART is 3 min walk from the house, and the N11 dual carriageway along with the M50 interchange are just a few minutes away. The E1 is a frequent bus route. The E1 bus stop is 4 minutes from the house, while the 45A Dun Laoghaire bus also passes close by. This location is second to none for public transport accessibility.\r\n\r\nViewing is highly recommended."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "West Facing Rear Aspect\r\nFully Landscaped Garden\r\nExtended Conservatory to Rear \r\n2 - min walk to Lidl/Pharmacy/Costa Coffee \r\n7 - min walk to Shankill Village \r\nDublin Bus Routes and the DART within a 5 - minute walk"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: E2"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 243174,
+    "MinEnergyRating": 30,
+    "MaxEnergyRating": 30,
+    "BERGrade": "E",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-08-04T16:52:00.1270000+01:00",
+    "ModifiedOnDate": "2026-08-13T11:54:24.8270000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-04T16:58:41.8000000+01:00",
+    "RefreshedOn": "2026-08-04T16:58:41.8000000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E2.png",
+    "IsTransact": false,
+    "PriceAsString": "€594,950",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5018916,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 88,
+    "DisplayAddress": "2 Athgoe Road, Shankill, Dublin 18",
+    "Eircode": "D18XF67",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Semi-Detached House",
+    "PropertyTypeId": 38,
+    "RegionId": 1459,
+    "RegionName": "Dublin 18",
+    "LocalityId": 1402,
+    "LocalityName": "Shankill",
+    "Price": {
+      "MinPrice": 594950,
+      "MaxPrice": 594950,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/df5d8cf1-3191-4b16-a6a3-6a61dc46d263_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/df5d8cf1-3191-4b16-a6a3-6a61dc46d263_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/df5d8cf1-3191-4b16-a6a3-6a61dc46d263_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/34c9de18-242e-4ab4-996c-a7c17f300c51_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/34c9de18-242e-4ab4-996c-a7c17f300c51_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/34c9de18-242e-4ab4-996c-a7c17f300c51_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/485b1ecd-16c8-48aa-a1a8-a5b5aba340f1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/485b1ecd-16c8-48aa-a1a8-a5b5aba340f1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/485b1ecd-16c8-48aa-a1a8-a5b5aba340f1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c277ac29-d699-4672-99df-e08afba1934e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c277ac29-d699-4672-99df-e08afba1934e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c277ac29-d699-4672-99df-e08afba1934e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a31f2a03-93c6-47e9-84ee-836740d3ba65_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a31f2a03-93c6-47e9-84ee-836740d3ba65_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a31f2a03-93c6-47e9-84ee-836740d3ba65_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c32d9624-e4e4-4ed7-9b04-14d1187b7589_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c32d9624-e4e4-4ed7-9b04-14d1187b7589_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/c32d9624-e4e4-4ed7-9b04-14d1187b7589_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/b6830ae6-c0b5-4e59-92ea-4a4e9e4d4707_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/b6830ae6-c0b5-4e59-92ea-4a4e9e4d4707_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/b6830ae6-c0b5-4e59-92ea-4a4e9e4d4707_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/2fe9cb8d-2ed5-48e1-8737-d0048476e534_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/2fe9cb8d-2ed5-48e1-8737-d0048476e534_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/2fe9cb8d-2ed5-48e1-8737-d0048476e534_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/af89875a-b0dc-46a8-b84d-9071084dd493_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/af89875a-b0dc-46a8-b84d-9071084dd493_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/af89875a-b0dc-46a8-b84d-9071084dd493_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/def7d85e-f5ba-440b-aa96-bea8aea0f3db_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/def7d85e-f5ba-440b-aa96-bea8aea0f3db_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/def7d85e-f5ba-440b-aa96-bea8aea0f3db_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/d81fce2f-f6b8-4a39-a230-c1ec343499ab_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/d81fce2f-f6b8-4a39-a230-c1ec343499ab_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/d81fce2f-f6b8-4a39-a230-c1ec343499ab_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/17b22b16-a29c-4a74-8700-7fc1f2d539c3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/17b22b16-a29c-4a74-8700-7fc1f2d539c3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/17b22b16-a29c-4a74-8700-7fc1f2d539c3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a042a266-b32a-4dbe-85e7-0103e2f4efba_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a042a266-b32a-4dbe-85e7-0103e2f4efba_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/a042a266-b32a-4dbe-85e7-0103e2f4efba_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/9522e3be-bc8d-4719-aa28-145db4205952_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/9522e3be-bc8d-4719-aa28-145db4205952_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/9522e3be-bc8d-4719-aa28-145db4205952_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/845f3b3b-41cd-4644-8ca4-b47e29b2da9c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/845f3b3b-41cd-4644-8ca4-b47e29b2da9c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/845f3b3b-41cd-4644-8ca4-b47e29b2da9c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/26c5aa98-ae9e-4a7c-856e-9467c5ae5948_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/26c5aa98-ae9e-4a7c-856e-9467c5ae5948_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/26c5aa98-ae9e-4a7c-856e-9467c5ae5948_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/5969afb3-8e70-4167-8b05-252307d7fdac_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/5969afb3-8e70-4167-8b05-252307d7fdac_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/5969afb3-8e70-4167-8b05-252307d7fdac_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/7489d7b7-7cd3-468b-bd9b-18d95ffd6b95_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/7489d7b7-7cd3-468b-bd9b-18d95ffd6b95_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/9/5018916/7489d7b7-7cd3-468b-bd9b-18d95ffd6b95_m.png"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.1200107,
+      "latitude": 53.2348689
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 17,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/6/1/9/5018916/7489d7b7-7cd3-468b-bd9b-18d95ffd6b95_l.png"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 337565,
+    "Name": "Churches Estate Agent",
+    "DisplayPhone": "01 559 5000",
+    "Email": "info@churches.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "churches-estate-agent",
+    "SeoName": "churches-estate-agent",
+    "Address": "40 Main Street, Blackrock, Co. Dublin",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/5/6/5/337565/logo.jpg",
+    "SalesLicense": "002979",
+    "RentalLicense": "002979",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "shankill/1402",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/2-athgoe-road-shankill-dublin-18/5018916",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 243174,
+    "Name": "Churches Dalkey",
+    "Phone": "01 559 5005",
+    "Email": "Dalkey@churches.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/4/7/1/243174/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 337565,
+    "MYH_LocalityID": 1402,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1459,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Garden",
+      "Patio",
+      "Alarm",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Garden,Patio,Alarm,Dishwasher",
+    "MYH_MaxPrice": 600000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 30,
+    "MYH_MinPrice": 600000,
+    "MYH_MinSize": 88,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5018916,
+    "MYH_PropertyTypeID": 38
+  }
+}

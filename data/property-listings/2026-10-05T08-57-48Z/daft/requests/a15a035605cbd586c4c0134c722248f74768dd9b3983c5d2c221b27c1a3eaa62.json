@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-24-block-c-the-bridge-dublin-road-shankill-dublin-18/6648372",
+  "fetchedAt": "2026-10-05T08:58:18.215Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-24-block-c-the-bridge-dublin-road-shankill-dublin-18/6648372",
+  "kind": "listing",
+  "responseSha256": "0c73de429d999b64a495532723807509c6cf43f5bc4bc665f29a589582604c12",
+  "files": [
+    {
+      "path": "daft/00021-a15a035605cbd586-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "87dd82621747087c36f968e833c1e12abc32bda475589e5edbcb42b72c42e344",
+      "bytes": 71347
+    },
+    {
+      "path": "daft/00021-a15a035605cbd586-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7bb4a5b6b223cca0f0a3375f5bdabb82eca43117c511af24212e242d3c75dc87",
+      "bytes": 8129
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

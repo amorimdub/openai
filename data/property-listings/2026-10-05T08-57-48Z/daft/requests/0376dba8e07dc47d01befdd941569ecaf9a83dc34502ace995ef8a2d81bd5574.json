@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=37",
+  "fetchedAt": "2026-10-05T09:40:24.828Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=37",
+  "kind": "search",
+  "responseSha256": "e81ae76896389ca06a36d3cbff8933cc85160b4de5ad68752f5ca333a7836921",
+  "files": [
+    {
+      "path": "daft/01703-0376dba8e07dc47d-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "2d47fc725d6c8dc4ccce4fc53e93084a1cde25d1d7b32119ac245af0ae8c7bb4",
+      "bytes": 224630
+    },
+    {
+      "path": "daft/01703-0376dba8e07dc47d-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01703-0376dba8e07dc47d-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "29b799b5edc84ba4e0a59a5bb70cb7c4d9e88331fd454921e2ea2c9ca38f28a7",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/apartment-6-mariners-court-bayside-dublin-5/6684717",
+    "https://www.daft.ie/for-rent/86-tur-uisce-doughiska-galway/6635836",
+    "https://www.daft.ie/for-rent/kilmore-road-beaumont-dublin-5/6684704",
+    "https://www.daft.ie/for-rent/milltown-tuam-co-galway/6684700",
+    "https://www.daft.ie/for-rent/flat-3-13-kenilworth-road-dublin-6-dublin-6/6684679",
+    "https://www.daft.ie/for-rent/5-brightwater-crosshaven-myrtleville-co-cork/6684647",
+    "https://www.daft.ie/for-rent/16-knocklyon-gate-dublin-16-co-dublin/6684697",
+    "https://www.daft.ie/for-rent/vevay-road-bray-co-wicklow/6684654",
+    "https://www.daft.ie/for-rent/-saint-davids-well-bridgetown-co-wexford/6684639",
+    "https://www.daft.ie/for-rent/1-dargle-house-custom-house-square-mayor-street-lower-ifsc-dublin-1/6684636",
+    "https://www.daft.ie/for-rent/75-north-circular-road-dublin-7-north-circular-road-dublin-7/6681737",
+    "https://www.daft.ie/for-rent/dunnamaggin-east-dunnamaggan-co-kilkenny/6684631",
+    "https://www.daft.ie/for-rent/newry-road-dundalk-co-louth/6684621",
+    "https://www.daft.ie/for-rent/5-abbeyfield-loughrea-co-galway/6682897",
+    "https://www.daft.ie/for-rent/-ashe-rd-dublin-1/6684577",
+    "https://www.daft.ie/for-rent/banking-hall-20-main-street-athboy-co-meath/6684594",
+    "https://www.daft.ie/for-rent/castle-street-birr-co-offaly-birr-co-offaly/6684543",
+    "https://www.daft.ie/for-rent/13-darling-st-enniskillen-co-fermanagh/6684324",
+    "https://www.daft.ie/for-rent/13-irish-street-bunclody-co-wexford/6684536",
+    "https://www.daft.ie/for-rent/flat-1-main-street-athboy-co-meath/6684529"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=38",
+  "paginationLimited": false
+}

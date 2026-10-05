@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=205",
+  "fetchedAt": "2026-10-05T12:00:01.401Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=205",
+  "kind": "search",
+  "responseSha256": "6dc6f243b1b7fc5a187079305d732e0aed4821443b5c4c2b06f85df39d96fee2",
+  "files": [
+    {
+      "path": "myhome/04744-82b7e22f516099b5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=205\"].SearchResults",
+      "sha256": "f3e0902b80485cc8e751e322189a8d86180215d83156c2e63f219bbaf3d2b3b3",
+      "bytes": 109819
+    },
+    {
+      "path": "myhome/04744-82b7e22f516099b5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=205\"] (paging fields)",
+      "sha256": "b8b0d7f5e0411ec682ad0e98a02f885b4ed972fc5d95041721f8f8ddd5cc547c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-lisieux-park-magazine-road-glasheen-cork/5027370",
+    "https://www.myhome.ie/residential/brochure/12-chestnut-crescent-johnstown-wood-navan-meath/5027455",
+    "https://www.myhome.ie/residential/brochure/94-pinebrook-trim-co-meath/5027468",
+    "https://www.myhome.ie/residential/brochure/fern-cribbons-lane-rathangan-co-kildare/5027464",
+    "https://www.myhome.ie/residential/brochure/coischoille-jenkinstown-kilkenny/5027456",
+    "https://www.myhome.ie/residential/brochure/no-9-cherrington-place-castlebar-mayo/5026791",
+    "https://www.myhome.ie/residential/brochure/30-victoria-road-rathgar-dublin-6/4998707",
+    "https://www.myhome.ie/residential/brochure/apartment-70-the-william-bligh-the-gasworks-grand-canal-dk-dublin-4/5027448",
+    "https://www.myhome.ie/residential/brochure/59-saint-fiaccs-terrace-graiguecullen-carlow-co-carlow/5027453",
+    "https://www.myhome.ie/residential/brochure/7-rossm-r-pontoon-road-castlebar-county-mayo/5027452",
+    "https://www.myhome.ie/residential/brochure/17-bremore-pastures-park-balbriggan-county-dublin/5027451",
+    "https://www.myhome.ie/residential/brochure/2c-aylmer-road-newcastle-county-dublin/5027447",
+    "https://www.myhome.ie/residential/brochure/6-lough-bran-cottages-grange-carrick-on-shannon-leitrim/5027444",
+    "https://www.myhome.ie/residential/brochure/31-lyreen-drive-mariavilla-maynooth-co-kildare/5027445",
+    "https://www.myhome.ie/residential/brochure/4-saint-michael-s-court-athy-kildare/5027435",
+    "https://www.myhome.ie/residential/brochure/27-the-maples-arklow-co-wicklow/5019615",
+    "https://www.myhome.ie/residential/brochure/apartment-1-32-the-coombe-dublin-8-co-dublin/5027441",
+    "https://www.myhome.ie/residential/brochure/coolbeg-drumcliffe-sligo-sligo/5027436",
+    "https://www.myhome.ie/residential/brochure/ardbear-clifden-co-galway/5027439",
+    "https://www.myhome.ie/residential/brochure/apartment-3-32-the-coombe-dublin-8-co-dublin/5027437"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=206",
+  "paginationLimited": false
+}

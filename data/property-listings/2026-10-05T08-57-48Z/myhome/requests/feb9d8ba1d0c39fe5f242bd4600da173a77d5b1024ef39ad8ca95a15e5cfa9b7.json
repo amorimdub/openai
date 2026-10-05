@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=454",
+  "fetchedAt": "2026-10-05T14:08:29.744Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=454",
+  "kind": "search",
+  "responseSha256": "91eae9163ec11613aa27e05ca9b7f57f1ad89a486ca779672780d8a1335f57a7",
+  "files": [
+    {
+      "path": "myhome/09867-feb9d8ba1d0c39fe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=454\"].SearchResults",
+      "sha256": "4083e4eba3f66a88e9c6db1aeb687b88001b3397ad537574ec2e2bad14516f67",
+      "bytes": 106434
+    },
+    {
+      "path": "myhome/09867-feb9d8ba1d0c39fe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=454\"] (paging fields)",
+      "sha256": "4864d3cdf99de47d5f3b91eb47e7836f346004c9928695820c88cb67bd5afc95",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/mounthamilton-dundalk-louth/5008105",
+    "https://www.myhome.ie/residential/brochure/apt-11-the-oaks-rockfield-dundrum-dublin-16/5000263",
+    "https://www.myhome.ie/residential/brochure/site-the-bungalow-commons-road-loughlinstown-dublin-18/5007070",
+    "https://www.myhome.ie/residential/brochure/abbeydale-15-mount-avenue-dundalk-louth/5008089",
+    "https://www.myhome.ie/residential/brochure/4-highfield-road-sligo-sligo/5008068",
+    "https://www.myhome.ie/residential/brochure/8-berkeley-court-south-douglas-road-douglas-cork/5008029",
+    "https://www.myhome.ie/residential/brochure/9-birch-place-togher-cork/5008064",
+    "https://www.myhome.ie/residential/brochure/ballinamuck-dungarvan-waterford/5008058",
+    "https://www.myhome.ie/residential/brochure/44-cashel-road-crumlin-dublin-12/5000708",
+    "https://www.myhome.ie/residential/brochure/ballinphuil-cummer-tuam-co-galway/5008057",
+    "https://www.myhome.ie/residential/brochure/3-bushy-park-road-rathgar-dublin-6/5008046",
+    "https://www.myhome.ie/residential/brochure/the-loft-tonavane-blennerville-co-kerry/5008054",
+    "https://www.myhome.ie/residential/brochure/south-abbey-cottage-south-abbey-youghal-cork/5007846",
+    "https://www.myhome.ie/residential/brochure/1-saint-cainirs-place-bantry-co-cork/5008051",
+    "https://www.myhome.ie/residential/brochure/45-the-gateway-student-village-ballymun-dublin-9/5003909",
+    "https://www.myhome.ie/residential/brochure/the-willows-sarshill-kilmore-village-wexford/5008033",
+    "https://www.myhome.ie/residential/brochure/14-cregga-court-elphin-roscommon/5007969",
+    "https://www.myhome.ie/residential/brochure/ref-1233-8-chapel-field-dungeagan-ballinskelligs-kerry/5008006",
+    "https://www.myhome.ie/residential/brochure/11-holywell-square-swords-county-dublin/5008009",
+    "https://www.myhome.ie/residential/brochure/15-woodlands-frankfield-cork/5007984"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=455",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=243",
+  "fetchedAt": "2026-10-05T12:19:53.411Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=243",
+  "kind": "search",
+  "responseSha256": "872d5ebed6a627b6c5d2388e6dd76f264948498dfe5f83f8d60d36cb247c2427",
+  "files": [
+    {
+      "path": "myhome/05537-fb31b6e05f569f60-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=243\"].SearchResults",
+      "sha256": "6c1062081da2130478c189bc38f91cc10d60db52564e8567ee8621a619e55fee",
+      "bytes": 112625
+    },
+    {
+      "path": "myhome/05537-fb31b6e05f569f60-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=243\"] (paging fields)",
+      "sha256": "ce92ea8972a99e3af8e8af1447f6829b4ffe499a2cdf646456a2b477c2b54cff",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-7-john-s-gate-castlecomer-road-kilkenny-kilkenny/5023047",
+    "https://www.myhome.ie/residential/brochure/12-beechdale-road-ballycullen-dublin-24/5026310",
+    "https://www.myhome.ie/residential/brochure/keelagh-killeshandra-cavan/5026307",
+    "https://www.myhome.ie/residential/brochure/26-keatingstown-wicklow-town-co-wicklow/5026306",
+    "https://www.myhome.ie/residential/brochure/residence-on-c-17-5-acres-of-land-st-jude-s-sherlockstown-common-sallins-co-kildare/5026304",
+    "https://www.myhome.ie/residential/brochure/1-the-orchard-bushfield-avenue-off-marlborough-road-dublin-4-dublin-4-dublin/5026201",
+    "https://www.myhome.ie/residential/brochure/luce-ends-52-dunluce-road-clontarf-dublin-3/5026298",
+    "https://www.myhome.ie/residential/brochure/ballyphilip-house-bruree-county-limerick/5026297",
+    "https://www.myhome.ie/residential/brochure/13-richmond-square-morning-star-avenue-smithfield-dublin-7/5026296",
+    "https://www.myhome.ie/residential/brochure/40-ardgillen-lawn-balrothery-balbriggan-co-dublin/5026294",
+    "https://www.myhome.ie/residential/brochure/24-dromdiah-park-killeagh-co-cork/5026292",
+    "https://www.myhome.ie/residential/brochure/oakfield-dunboyne-co-meath-the-yew-3-bedroom-duplex-with-garage/5026287",
+    "https://www.myhome.ie/residential/brochure/49-summerfield-rise-blanchardstown-dublin-15/5026290",
+    "https://www.myhome.ie/residential/brochure/8-folkstown-park-taylor-hill-boulevard-balbriggan-co-dublin/5026289",
+    "https://www.myhome.ie/residential/brochure/9-darley-street-harold-s-cross-dublin-6/4956393",
+    "https://www.myhome.ie/residential/brochure/oakfield-dunboyne-co-meath-the-aspen-3-bedroom-duplex-with-garage/5026282",
+    "https://www.myhome.ie/residential/brochure/13-brabazon-heights-swinford-co-mayo/5026283",
+    "https://www.myhome.ie/residential/brochure/oakfield-dunboyne-co-meath-the-holly-3-bedroom-duplex-with-garage/5026281",
+    "https://www.myhome.ie/residential/brochure/15-o-neill-s-place-cobh-cork/5026280",
+    "https://www.myhome.ie/residential/brochure/2-rockfield-road-kells-meath/5026277"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=244",
+  "paginationLimited": false
+}

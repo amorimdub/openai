@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=44",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=44",
+  "fetchedAt": "2026-10-05T09:34:31.731Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "3e5d5d013472cee3456efcceeb25ebc9454abccf4a701183cc7d1b23d11583b2",
+  "files": [
+    {
+      "path": "myhome/01463-4b0cd55cfca68bf1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=44\"].SearchResults",
+      "sha256": "88b5520df055923b15e1143f8d6f5e4c84dc76dd3c2cf4ed7ce8e54975ac8344",
+      "bytes": 119395
+    },
+    {
+      "path": "myhome/01463-4b0cd55cfca68bf1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=44\"] (paging fields)",
+      "sha256": "ac42c01997200a07a7b55da6dde128cea9216918f41b4ee3dc89daaaf4f0c337",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/10-glengarriff-crescent-phibsborough-dublin-7/5025544",
+    "https://www.myhome.ie/residential/brochure/71-butterfield-avenue-rathfarnham-dublin-14/5031515",
+    "https://www.myhome.ie/residential/brochure/302-castlepark-ballybane-county-galway/5031513",
+    "https://www.myhome.ie/residential/brochure/11-wycherley-terrace-college-road-cork-city-co-cork/5031512",
+    "https://www.myhome.ie/residential/brochure/5-carnegie-drive-honey-park-dun-laoghaire-co-dublin/5029968",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-homes-churchfields-clonattin-gorey-co-wexford/4798956",
+    "https://www.myhome.ie/residential/brochure/7-rosslands-roscrea-tipperary/5031508",
+    "https://www.myhome.ie/residential/brochure/2-the-farmyard-kilmainham-hybreasal-dublin-8/5031507",
+    "https://www.myhome.ie/residential/brochure/52-railway-avenue-inchicore-dublin-8/5009154",
+    "https://www.myhome.ie/residential/brochure/3-block-a-bow-bridge-place-irwin-street-dublin-8-co-dublin/5031506",
+    "https://www.myhome.ie/residential/brochure/55-hunters-avenue-hunters-wood-ballycullen-dublin-24/5031505",
+    "https://www.myhome.ie/residential/brochure/14-clonuske-drive-hamlet-lane-balbriggan-dublin/5031504",
+    "https://www.myhome.ie/residential/brochure/stella-maris-burrow-rosslare-strand-wexford/5031503",
+    "https://www.myhome.ie/residential/brochure/cloonconra-ballymurray-co-roscommon/5031502",
+    "https://www.myhome.ie/residential/brochure/8-albany-road-ranelagh-dublin-6/5031501",
+    "https://www.myhome.ie/residential/brochure/54-the-paddock-blackhorse-avenue-dublin-7/5031500",
+    "https://www.myhome.ie/residential/brochure/hilltop-ardee-louth/5031491",
+    "https://www.myhome.ie/residential/brochure/antonville-9-lower-pouladuff-road-the-lough-cork-city/5031494",
+    "https://www.myhome.ie/residential/brochure/15-the-lambay-seamount-rise-malahide-county-dublin/5028183",
+    "https://www.myhome.ie/residential/brochure/2-lambay-court-coast-road-malahide-county-dublin/5029610"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=45",
+  "paginationLimited": false
+}

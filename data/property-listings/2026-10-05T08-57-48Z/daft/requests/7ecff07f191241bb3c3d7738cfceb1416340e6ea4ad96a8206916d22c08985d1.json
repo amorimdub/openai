@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/church-road-ballybrack-church-road-ballybrack-co-dublin/6632115",
+  "fetchedAt": "2026-10-05T09:03:31.007Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/church-road-ballybrack-church-road-ballybrack-co-dublin/6632115",
+  "kind": "listing",
+  "responseSha256": "3e10ddd4f7eef95f6ad6210a47f2dd4298a17108c9b56a72801bad861b84624a",
+  "files": [
+    {
+      "path": "daft/00229-7ecff07f191241bb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f4720daa65edf284731b2191b9335b05dc64561c278fe357c3f82d830c1ff876",
+      "bytes": 224038
+    },
+    {
+      "path": "daft/00229-7ecff07f191241bb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1c0c28a365852454ad80b4f7a907e0ddd81ee0e28d9677a0e0f43f80f8cb598e",
+      "bytes": 8086
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

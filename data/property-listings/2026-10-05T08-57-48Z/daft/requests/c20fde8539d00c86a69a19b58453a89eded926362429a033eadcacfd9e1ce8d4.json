@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-5-pembroke-manor-64-66-pembroke-road-ballsbridge-dublin-4-co-dublin/6615428",
+  "fetchedAt": "2026-10-05T09:47:33.040Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-5-pembroke-manor-64-66-pembroke-road-ballsbridge-dublin-4-co-dublin/6615428",
+  "kind": "listing",
+  "responseSha256": "cc5b18a61e1893c981154e37f3d6a616b49ffb238554b65997010c2b79803b29",
+  "files": [
+    {
+      "path": "daft/01988-c20fde8539d00c86-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "539cefa48a7f2e15c55d331c59bd307c5c6e78bcd6d8aa3732b1891ac74c1f74",
+      "bytes": 53870
+    },
+    {
+      "path": "daft/01988-c20fde8539d00c86-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "61198f5fbd84a4ea41632cf2525318ec42e6e39ecd22133da49608f0ae396e71",
+      "bytes": 8106
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

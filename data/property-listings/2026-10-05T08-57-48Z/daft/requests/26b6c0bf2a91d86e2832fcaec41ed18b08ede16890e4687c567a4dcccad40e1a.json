@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-ardoyne-house-donnybrook-dublin-4/6685163",
+  "fetchedAt": "2026-10-05T09:38:29.192Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-ardoyne-house-donnybrook-dublin-4/6685163",
+  "kind": "listing",
+  "responseSha256": "b1e540151f0cedbbab6173110eb641c51fc7d9db31ac7e0f8d125f4efa410018",
+  "files": [
+    {
+      "path": "daft/01626-26b6c0bf2a91d86e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "81abd83437cd83869130edca0e4cb45b6589373c87ccf39a02397f6dd1df2e4e",
+      "bytes": 41163
+    },
+    {
+      "path": "daft/01626-26b6c0bf2a91d86e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f2e126170ed687dd9357fe087bba2ed7c4eea88fedb494530db676f3979593bc",
+      "bytes": 8152
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/annaly-drive-ongar-park-ongar-dublin-15/6672821",
+  "fetchedAt": "2026-10-05T09:10:28.479Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/annaly-drive-ongar-park-ongar-dublin-15/6672821",
+  "kind": "listing",
+  "responseSha256": "8762d6956294416e48afb9673b1a582903106de3f23171940d1b529767507d52",
+  "files": [
+    {
+      "path": "daft/00507-b675b1adbe71da1d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9d435604c3184c9b2f9e02ef7fd7c51deb0d72fd5d8a4fcae017de004dec08b1",
+      "bytes": 48255
+    },
+    {
+      "path": "daft/00507-b675b1adbe71da1d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

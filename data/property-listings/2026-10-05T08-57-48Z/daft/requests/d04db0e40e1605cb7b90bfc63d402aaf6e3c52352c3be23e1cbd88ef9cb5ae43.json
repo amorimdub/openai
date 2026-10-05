@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/6-cherbury-court-booterstown-blackrock-co-dublin/6683235",
+  "fetchedAt": "2026-10-05T09:50:07.824Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/6-cherbury-court-booterstown-blackrock-co-dublin/6683235",
+  "kind": "listing",
+  "responseSha256": "3e29eafc77e39a97aaede455201982b444477d2c79fffd06aece4dc69ce86295",
+  "files": [
+    {
+      "path": "daft/02091-d04db0e40e1605cb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c71d74b9a92833ac305e2e5aeb6ec2d3b63adf2a2694d99871c9ed2d784bed38",
+      "bytes": 41925
+    },
+    {
+      "path": "daft/02091-d04db0e40e1605cb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ae423999c845119404f987bc688bd746c1f69f5e5f9167b3438004ab24cf5168",
+      "bytes": 8178
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=71",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=71",
+  "fetchedAt": "2026-10-05T09:48:33.916Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "369d47a9f53a3e786cac0fde43ca0b53a6d0c1e4d8da47dff62c175fd8916f7f",
+  "files": [
+    {
+      "path": "myhome/02022-491d9e636ded00d4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=71\"].SearchResults",
+      "sha256": "53b99a21935cce7e57bd229977c08ac868e2143d46cf404b72a7f8767489555a",
+      "bytes": 115065
+    },
+    {
+      "path": "myhome/02022-491d9e636ded00d4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=71\"] (paging fields)",
+      "sha256": "f5650a5fe4b2b6e12085c9fbc2f1a223c5faa19ac78c2fc23c88355d981bfcc9",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/roaring-water-view-mohonagh-skibbereen-west-cork/5030846",
+    "https://www.myhome.ie/residential/brochure/apartment-116-the-forum-ballymoss-road-sandyford-business-park-sandyford-dublin/5025148",
+    "https://www.myhome.ie/residential/brochure/56-casino-road-marino-dublin-3/5025375",
+    "https://www.myhome.ie/residential/brochure/50-rothe-abbey-kilmainham-dublin-8/5031000",
+    "https://www.myhome.ie/residential/brochure/48-glen-r-ballina-co-mayo/5031002",
+    "https://www.myhome.ie/residential/brochure/18-leopardstown-avenue-blackrock-co-dublin/5031001",
+    "https://www.myhome.ie/residential/brochure/20-newtown-park-tallaght-dublin-24/5030756",
+    "https://www.myhome.ie/residential/brochure/113-deerpark-place-kiltipper-tallaght-dublin-24/5015061",
+    "https://www.myhome.ie/residential/brochure/48-griffin-rath-manor-maynooth-co-kildare-maynooth-kildare/5030999",
+    "https://www.myhome.ie/residential/brochure/3-oakfield-place-portobello-dublin-8/4929576",
+    "https://www.myhome.ie/residential/brochure/dun-saoibhe-ahadallane-donoughmore-co-cork/5021710",
+    "https://www.myhome.ie/residential/brochure/5-college-house-ballinasloe-galway/5030997",
+    "https://www.myhome.ie/residential/brochure/35-brackernagh-ballinasloe-galway/5030995",
+    "https://www.myhome.ie/residential/brochure/50b-barry-park-finglas-west-dublin-11/5030996",
+    "https://www.myhome.ie/residential/brochure/31-ennis-house-clare-village-clarehall-dublin-17/5024374",
+    "https://www.myhome.ie/residential/brochure/8-st-nicholas-place-dublin-8/5030994",
+    "https://www.myhome.ie/residential/brochure/8-the-waterfront-dromod-carrick-on-shannon-leitrim/5030993",
+    "https://www.myhome.ie/residential/brochure/100-kilnacourt-woods-portarlington-co-laois/5030988",
+    "https://www.myhome.ie/residential/brochure/3-the-beeches-dunstaffnage-hall-stillorgan-county-dublin/5030982",
+    "https://www.myhome.ie/residential/brochure/41-hunters-court-ballycullen-dublin-24/5030987"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=72",
+  "paginationLimited": false
+}

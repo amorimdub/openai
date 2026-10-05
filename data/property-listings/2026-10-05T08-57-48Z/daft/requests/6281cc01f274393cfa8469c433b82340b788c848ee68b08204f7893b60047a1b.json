@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bed-shieling-square-howth-road-raheny-co-dublin/6651778",
+  "fetchedAt": "2026-10-05T09:05:25.144Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bed-shieling-square-howth-road-raheny-co-dublin/6651778",
+  "kind": "listing",
+  "responseSha256": "1036107ba96255e184dc5abd892d4c07b0182bbb925c5e7602854f5147dceef8",
+  "files": [
+    {
+      "path": "daft/00305-6281cc01f274393c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8106b51c355d698664a8bfe1552556e6e7f0ca5c7b02ee82ffa8a088b88e7887",
+      "bytes": 20148
+    },
+    {
+      "path": "daft/00305-6281cc01f274393c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b9b61487ecc5424d54c4c8ebd95601d96e2757c69c58837b1aa222cc71f7c6d3",
+      "bytes": 8082
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=106",
+  "fetchedAt": "2026-10-05T11:08:32.101Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=106",
+  "kind": "search",
+  "responseSha256": "444dc64c3bc849d66180d64e119065055fc041cff3182c80a9aa232aeec0bbad",
+  "files": [
+    {
+      "path": "myhome/02708-7a19d27723640114-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=106\"].SearchResults",
+      "sha256": "22618f4614d5b6cfa165a713698494930d47cec0156d205b47eba22e7f6047a5",
+      "bytes": 110741
+    },
+    {
+      "path": "myhome/02708-7a19d27723640114-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=106\"] (paging fields)",
+      "sha256": "3ee408791cb0e72cb66d9b8b416db0c08071a5f111fa9bbd87e88e05b004419e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/la-vall-e-6b-new-road-kilcoole-wicklow/5030182",
+    "https://www.myhome.ie/residential/brochure/31-altus-sunday-s-well-cork/5030192",
+    "https://www.myhome.ie/residential/brochure/10-ellensborough-park-kiltipper-dublin-24/5030190",
+    "https://www.myhome.ie/residential/brochure/65-corballis-demesne-ratoath-meath/5030186",
+    "https://www.myhome.ie/residential/brochure/the-school-house-cleariestown-wexford-co-wexford/5030184",
+    "https://www.myhome.ie/residential/brochure/strand-road-annagassan-dunleer-co-louth/5030183",
+    "https://www.myhome.ie/residential/brochure/37-knockbrack-close-drogheda-louth/5030164",
+    "https://www.myhome.ie/residential/brochure/45-harold-road-stoneybatter-dublin-7/5030180",
+    "https://www.myhome.ie/residential/brochure/2-brickfield-way-honey-park-dun-laoghaire-co-dublin/5025170",
+    "https://www.myhome.ie/residential/brochure/creagh-keenagh-longford/5024627",
+    "https://www.myhome.ie/residential/brochure/51-ashdale-dun-an-oir-kanturk-co-cork/5030172",
+    "https://www.myhome.ie/residential/brochure/29-emer-terrace-castletown-road-dundalk-louth/5030167",
+    "https://www.myhome.ie/residential/brochure/4-struan-glen-kilternan-dublin-18/5030171",
+    "https://www.myhome.ie/residential/brochure/nelly-s-place-ninemilehouse-carrick-on-suir-co-tipperary/5030169",
+    "https://www.myhome.ie/residential/brochure/apartment-4-manor-court-saint-mochta-s-road-dublin-15-co-dublin/5027601",
+    "https://www.myhome.ie/residential/brochure/castlepark-house-clogharevaun-athenry-co-galway/5030166",
+    "https://www.myhome.ie/residential/brochure/28-shanliss-way-santry-dublin-9/5029926",
+    "https://www.myhome.ie/residential/brochure/31-luttrell-park-drive-castleknock-dublin-15/5030127",
+    "https://www.myhome.ie/residential/brochure/garristown-town-centre-dublin-north-dublin/4843888",
+    "https://www.myhome.ie/residential/brochure/24-collins-park-callan-kilkenny/5030155"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=107",
+  "paginationLimited": false
+}

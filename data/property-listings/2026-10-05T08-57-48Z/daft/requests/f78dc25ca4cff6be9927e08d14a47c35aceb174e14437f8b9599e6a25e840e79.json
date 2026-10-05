@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-the-thomond-the-strand-ennis-road-co-limerick/6676736",
+  "fetchedAt": "2026-10-05T09:45:59.871Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-the-thomond-the-strand-ennis-road-co-limerick/6676736",
+  "kind": "listing",
+  "responseSha256": "591d24d556f495d8e7bd5a3658539c233bfcb44b695c06cde41b31958a4b2eee",
+  "files": [
+    {
+      "path": "daft/01926-f78dc25ca4cff6be-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b55608bcbf807abad58121698dbd1413de8f9829f5f94f3c201b64b539ab3150",
+      "bytes": 73915
+    },
+    {
+      "path": "daft/01926-f78dc25ca4cff6be-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c96665ea1972a3a0cca86354d247b16dfa6a116162953f2421064e037defc323",
+      "bytes": 8031
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/holywell-wood-swords-swords-co-dublin/6683324",
+  "fetchedAt": "2026-10-05T09:50:00.250Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/holywell-wood-swords-swords-co-dublin/6683324",
+  "kind": "listing",
+  "responseSha256": "76b72333dd49f1f1a10f324c58ad13bf05434d26ba4dfe1a75e570adff97f215",
+  "files": [
+    {
+      "path": "daft/02086-44f108a6ccfb9c67-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b5520bab5b6ddc7ee7f3eec4f297899e643ccbf276ee47ee389d89f3051c69b6",
+      "bytes": 36383
+    },
+    {
+      "path": "daft/02086-44f108a6ccfb9c67-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bce8661cc22de935a27ce5c3d28c1d499a4b142d80f334f56f009a1949f6fccd",
+      "bytes": 8101
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

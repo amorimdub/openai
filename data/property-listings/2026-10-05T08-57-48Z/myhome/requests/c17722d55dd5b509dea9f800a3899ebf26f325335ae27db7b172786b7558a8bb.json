@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=481",
+  "fetchedAt": "2026-10-05T14:22:20.972Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=481",
+  "kind": "search",
+  "responseSha256": "60b55a03e31949ab8fefc111855bf6fc859a6fe53c29857c85a801052a7efffd",
+  "files": [
+    {
+      "path": "myhome/10420-c17722d55dd5b509-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=481\"].SearchResults",
+      "sha256": "623c543061187d7213c6279595e7a2f285c1ca6dbb56705ee85ffd1de8ca3a30",
+      "bytes": 98405
+    },
+    {
+      "path": "myhome/10420-c17722d55dd5b509-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=481\"] (paging fields)",
+      "sha256": "d30221d771edbb397ed3f88d5e2581c5c97e65a8d9fffb562f51746961fa2393",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ballyhit-barntown-co-wexford/5004778",
+    "https://www.myhome.ie/residential/brochure/the-old-house-valley-road-cobh-cork/5004763",
+    "https://www.myhome.ie/residential/brochure/22-connolly-street-kilkenny-kilkenny/4992349",
+    "https://www.myhome.ie/residential/brochure/15-the-meadows-galway-ballybrit-co-galway/5004766",
+    "https://www.myhome.ie/residential/brochure/15-the-meadows-ballybrit-galway-city/5004553",
+    "https://www.myhome.ie/residential/brochure/42-hunters-walk-hunters-wood-ballycullen-dublin-24/5004678",
+    "https://www.myhome.ie/residential/brochure/18-meadow-park-monamolin-gorey-county-wexford/5004753",
+    "https://www.myhome.ie/residential/brochure/fins-ige-ashtown-roundwood-co-wicklow/5004740",
+    "https://www.myhome.ie/residential/brochure/loughrask-ballyvaughan-county-clare/5004736",
+    "https://www.myhome.ie/residential/brochure/bekan-claremorris-mayo/5004735",
+    "https://www.myhome.ie/residential/brochure/cuslough-brickeens-claremorris-mayo/5004734",
+    "https://www.myhome.ie/residential/brochure/rathslevin-bohola-mayo/5004733",
+    "https://www.myhome.ie/residential/brochure/currsallagh-lisacul-roscommon/5004732",
+    "https://www.myhome.ie/residential/brochure/1-daffits-terrace-castlebar-mayo/5004731",
+    "https://www.myhome.ie/residential/brochure/james-street-claremorris-mayo/5004730",
+    "https://www.myhome.ie/residential/brochure/mount-5-claremorris-mayo/5004729",
+    "https://www.myhome.ie/residential/brochure/mount-street-claremorris-mayo/5004728",
+    "https://www.myhome.ie/residential/brochure/7-brackenwood-avenue-balbriggan-county-dublin/5004169",
+    "https://www.myhome.ie/residential/brochure/185-the-links-donabate-county-dublin/4965937",
+    "https://www.myhome.ie/residential/brochure/12-cherryfield-monaleen-castletroy-limerick-county-limerick/5004711"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=482",
+  "paginationLimited": false
+}

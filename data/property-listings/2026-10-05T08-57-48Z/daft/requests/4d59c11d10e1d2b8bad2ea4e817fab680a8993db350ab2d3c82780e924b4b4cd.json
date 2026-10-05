@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-7-68-rathgar-road-rathgar-dublin-6/6683789",
+  "fetchedAt": "2026-10-05T09:47:06.000Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-7-68-rathgar-road-rathgar-dublin-6/6683789",
+  "kind": "listing",
+  "responseSha256": "254b1449135bf1af4eebac2088822827acceb9b07c6478e2f20af4af5bb4738a",
+  "files": [
+    {
+      "path": "daft/01970-4d59c11d10e1d2b8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5608b729c9ad159187490128a474b427c632283c6786be777e6e215a631fe8cf",
+      "bytes": 29751
+    },
+    {
+      "path": "daft/01970-4d59c11d10e1d2b8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dd892f212800b34f8bc52c318f7c638dde5cb65b2c86a54d2c0889f919ba9720",
+      "bytes": 8018
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

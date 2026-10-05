@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-80-block-m-hanover-riverside-hanover-quay-dublin-2/6685446",
+  "fetchedAt": "2026-10-05T09:36:35.067Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-80-block-m-hanover-riverside-hanover-quay-dublin-2/6685446",
+  "kind": "listing",
+  "responseSha256": "7751e579d35b06b68bc4855a42d15033c49f4e3992e6a93760c813fd7425b2df",
+  "files": [
+    {
+      "path": "daft/01550-69b6c7488e7cec8b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "083d01ad9ce179c56d41fa358dd045443ca3bbb29df5b998f03d0cec0ffbd28d",
+      "bytes": 31456
+    },
+    {
+      "path": "daft/01550-69b6c7488e7cec8b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b027526dc8d26e0c1bf1862ac3bba673605beadca7f9abe6dfe6e9fd4b9ea4d2",
+      "bytes": 8074
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

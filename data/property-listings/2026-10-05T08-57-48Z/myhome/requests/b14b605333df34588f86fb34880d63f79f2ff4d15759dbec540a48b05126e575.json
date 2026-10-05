@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=109",
+  "fetchedAt": "2026-10-05T11:09:57.731Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=109",
+  "kind": "search",
+  "responseSha256": "d397c3c167a1adf4f9675603da759177e136b5e62d652672af855c74ae5b4dac",
+  "files": [
+    {
+      "path": "myhome/02765-b14b605333df3458-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=109\"].SearchResults",
+      "sha256": "f20c8465c57012e4e89f994b26ed17278146d2040a935709ed4b55d02c1efa98",
+      "bytes": 110062
+    },
+    {
+      "path": "myhome/02765-b14b605333df3458-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=109\"] (paging fields)",
+      "sha256": "92763805aa1b69ec32d00854e013451192b3ff909fc66b970d87e94a0ffb6c51",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/strawberry-fields-jamestown-enniscorthy-wexford/5030090",
+    "https://www.myhome.ie/residential/brochure/kilternan-village-kilternan-dublin-18/5029923",
+    "https://www.myhome.ie/residential/brochure/33-watervale-rooskey-county-roscommon/5030100",
+    "https://www.myhome.ie/residential/brochure/ballintubbert-athy-co-kildare/5030099",
+    "https://www.myhome.ie/residential/brochure/8-deerpark-manor-virginia-co-cavan/5030097",
+    "https://www.myhome.ie/residential/brochure/hillcrest-quignalegan-ballina-mayo/5029980",
+    "https://www.myhome.ie/residential/brochure/lot-4-rusheeny-oughterard-co-galway/5030096",
+    "https://www.myhome.ie/residential/brochure/119-st-werburghs-swords-road-malahide-county-dublin/5030077",
+    "https://www.myhome.ie/residential/brochure/lot-3-rusheeny-oughterard-co-galway/5030095",
+    "https://www.myhome.ie/residential/brochure/lot-2-rusheeny-oughterard-co-galway/5030094",
+    "https://www.myhome.ie/residential/brochure/lot-1-rusheeny-oughterard-co-galway/5030093",
+    "https://www.myhome.ie/residential/brochure/apartment-34-granary-hall-mount-oval-village-rochestown-cork/5030088",
+    "https://www.myhome.ie/residential/brochure/78-ascal-a-haon-yellowbatter-drogheda-louth/5030091",
+    "https://www.myhome.ie/residential/brochure/93-sandford-road-ranelagh-dublin-6/5029302",
+    "https://www.myhome.ie/residential/brochure/1-bedroom-apartment-at-haley-s-hill-kinsealy-county-dublin/4981192",
+    "https://www.myhome.ie/residential/brochure/1-brookville-park-drogheda-louth/5030085",
+    "https://www.myhome.ie/residential/brochure/coolfore-ashbourne-meath/4973031",
+    "https://www.myhome.ie/residential/brochure/53-newtown-court-maynooth-co-kildare/5030086",
+    "https://www.myhome.ie/residential/brochure/34-mountfield-park-seamount-road-malahide-dublin/5030074",
+    "https://www.myhome.ie/residential/brochure/4-leslie-avenue-dalkey-county-dublin/5030001"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=110",
+  "paginationLimited": false
+}

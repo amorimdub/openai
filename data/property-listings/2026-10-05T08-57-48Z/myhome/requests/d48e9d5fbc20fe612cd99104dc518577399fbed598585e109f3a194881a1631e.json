@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=26",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=26",
+  "fetchedAt": "2026-10-05T09:22:18.515Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "83deb1e036a211fffbbc73190e895ed25133423fd170196750262fa7d5c2840d",
+  "files": [
+    {
+      "path": "myhome/00975-d48e9d5fbc20fe61-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=26\"].SearchResults",
+      "sha256": "3dd734f23475464c385dd115f7ac7d13e90eb9864b9dbba339e454eead047ae6",
+      "bytes": 89738
+    },
+    {
+      "path": "myhome/00975-d48e9d5fbc20fe61-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=26\"] (paging fields)",
+      "sha256": "55b22b3fb2f2b9f5c69b31916c2b5f30b10efc3e5ed55e19036c0eec8860b408",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/coill-rua-dohassan-cootehill-county-cavan/4899588",
+    "https://www.myhome.ie/rentals/brochure/castlegate-walk-lucan-co-dublin/4898731",
+    "https://www.myhome.ie/rentals/brochure/northumberland-ballsbridge-dublin-4/3850811",
+    "https://www.myhome.ie/rentals/brochure/53-parkview-verdemont-dublin-15/4897826",
+    "https://www.myhome.ie/rentals/brochure/ravello-sorrento-heights-dalkey-co-dublin-dalkey-dublin/4765958",
+    "https://www.myhome.ie/rentals/brochure/apartment-71-the-holly-rockfield-dublin-16/4892338",
+    "https://www.myhome.ie/rentals/brochure/swiss-cottage-by-havitat-santry-co-dublin/4885241",
+    "https://www.myhome.ie/rentals/brochure/70-grafton-street-grafton-street-dublin-2/4313921",
+    "https://www.myhome.ie/rentals/brochure/east-wharf-east-wall-dublin/4854582",
+    "https://www.myhome.ie/rentals/brochure/grand-canal-harbour-grand-canal-place-dublin-8/4839874",
+    "https://www.myhome.ie/rentals/brochure/avoca-hall-blackrock-dublin/4838486",
+    "https://www.myhome.ie/rentals/brochure/jameson-orchard-malahide-dublin/4832467",
+    "https://www.myhome.ie/rentals/brochure/no-5-francis-street-dundalk-louth/4830964",
+    "https://www.myhome.ie/rentals/brochure/7-the-willows-cliffoney-sligo-county-sligo/4831456",
+    "https://www.myhome.ie/rentals/brochure/the-brickworks-station-manor-station-manor-road-portmarnock-codublin/4543911",
+    "https://www.myhome.ie/rentals/brochure/65-sandy-grove-blackrock-co-louth/4825123",
+    "https://www.myhome.ie/rentals/brochure/ladyswell-st-cashel-co-tipperary/4817818",
+    "https://www.myhome.ie/rentals/brochure/19-the-glebe-rathmoylon-co-meath/4805434",
+    "https://www.myhome.ie/rentals/brochure/10-blackhall-view-dublin-7/4801984",
+    "https://www.myhome.ie/rentals/brochure/the-windmill-lane-apartments-windmill-lane-dublin-2/4800681"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=27",
+  "paginationLimited": false
+}

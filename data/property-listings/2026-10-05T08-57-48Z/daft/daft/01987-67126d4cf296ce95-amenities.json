@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "HAROLD'S CROSS NATIONAL SCHOOL",
+      "numPupils": 395,
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.317364",
+        "lon": "-6.285749"
+      }
+    },
+    {
+      "schoolName": "SCOIL MOLÓGA",
+      "numPupils": 228,
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.317352",
+        "lon": "-6.285352"
+      }
+    },
+    {
+      "schoolName": "MARIST PRIMARY SCHOOL",
+      "numPupils": 212,
+      "distance": {
+        "value": 0.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326070",
+        "lon": "-6.293259"
+      }
+    },
+    {
+      "schoolName": "HAROLD'S CROSS ETNS",
+      "numPupils": 148,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323902",
+        "lon": "-6.277622"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY SCHOOL",
+      "numPupils": 418,
+      "distance": {
+        "value": 1.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310650",
+        "lon": "-6.288132"
+      }
+    },
+    {
+      "schoolName": "LORETO SENIOR PRIMARY SCHOOL",
+      "numPupils": 214,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329200",
+        "lon": "-6.295878"
+      }
+    },
+    {
+      "schoolName": "RATHGAR NATIONAL SCHOOL",
+      "numPupils": 94,
+      "distance": {
+        "value": 1.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314068",
+        "lon": "-6.275435"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOSAGAIN BOYS SENIOR",
+      "numPupils": 81,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.330025",
+        "lon": "-6.287320"
+      }
+    },
+    {
+      "schoolName": "SCOIL EOIN",
+      "numPupils": 138,
+      "distance": {
+        "value": 1.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320090",
+        "lon": "-6.306905"
+      }
+    },
+    {
+      "schoolName": "ST CLARE'S PRIMARY SCHOOL",
+      "numPupils": 181,
+      "distance": {
+        "value": 1.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326553",
+        "lon": "-6.275690"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "PEARSE COLLEGE - COLAISTE AN PHIARSAIGH",
+      "numPupils": 84,
+      "distance": {
+        "value": 0.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.326510",
+        "lon": "-6.294746"
+      }
+    },
+    {
+      "schoolName": "HAROLDS CROSS EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 350,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323826",
+        "lon": "-6.277665"
+      }
+    },
+    {
+      "schoolName": "CLOGHER ROAD COMMUNITY COLLEGE",
+      "numPupils": 269,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.327312",
+        "lon": "-6.294593"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION COMMUNITY COLLEGE",
+      "numPupils": 458,
+      "distance": {
+        "value": 1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310963",
+        "lon": "-6.286842"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 365,
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.329450",
+        "lon": "-6.297697"
+      }
+    },
+    {
+      "schoolName": "ROSARY COLLEGE",
+      "numPupils": 225,
+      "distance": {
+        "value": 1.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318680",
+        "lon": "-6.307461"
+      }
+    },
+    {
+      "schoolName": "ST. LOUIS HIGH SCHOOL",
+      "numPupils": 684,
+      "distance": {
+        "value": 1.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.321392",
+        "lon": "-6.270394"
+      }
+    },
+    {
+      "schoolName": "STRATFORD COLLEGE",
+      "numPupils": 191,
+      "distance": {
+        "value": 1.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.309700",
+        "lon": "-6.274313"
+      }
+    },
+    {
+      "schoolName": "RATHMINES COLLEGE",
+      "numPupils": 55,
+      "distance": {
+        "value": 1.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.324078",
+        "lon": "-6.264987"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE C.S.SP., RATHMINES",
+      "numPupils": 498,
+      "distance": {
+        "value": 1.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.327423",
+        "lon": "-6.266934"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Kimmage",
+      "route": "S2",
+      "destination": "Heuston Station",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.319792",
+        "lon": "-6.29134"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Larkfield Pk",
+      "route": "S2",
+      "destination": "Irishtown",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318682",
+        "lon": "-6.289148"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kimmage",
+      "route": "F3",
+      "destination": "O'Connell Street",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.31918",
+        "lon": "-6.29107"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Larkfield Pk",
+      "route": "82",
+      "destination": "Kiltipper Way",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318547",
+        "lon": "-6.289153"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kimmage",
+      "route": "82",
+      "destination": "Sean Moore Rd",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.32033",
+        "lon": "-6.291904"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kimmage",
+      "route": "F2",
+      "destination": "Rossmore Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318749",
+        "lon": "-6.291351"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kimmage",
+      "route": "F1",
+      "destination": "Tallaght",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318749",
+        "lon": "-6.291351"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mount Argus Park",
+      "route": "F1",
+      "destination": "Tallaght",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320197",
+        "lon": "-6.28643"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mount Argus Park",
+      "route": "F3",
+      "destination": "Charlestown",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320452",
+        "lon": "-6.286029"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mount Argus Park",
+      "route": "F2",
+      "destination": "Charlestown",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.320452",
+        "lon": "-6.286029"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=93",
+  "fetchedAt": "2026-10-05T11:02:18.075Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=93",
+  "kind": "search",
+  "responseSha256": "55e45bddc8c72ea3065f1ef907551f98f1eca43889b232c6ec3084e5cdab047a",
+  "files": [
+    {
+      "path": "myhome/02459-99fc2dff037d7df5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=93\"].SearchResults",
+      "sha256": "0f581316bdbbba7a32a6093c15d9b614011edd44ec8ebe679685ef8b4758c266",
+      "bytes": 117800
+    },
+    {
+      "path": "myhome/02459-99fc2dff037d7df5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=93\"] (paging fields)",
+      "sha256": "040bd2ca72dadd9c393337c112d35b8cdbc5cbad9123ee753dbfa132108d6345",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/28-cassian-court-north-dublin-15-dublin/5030520",
+    "https://www.myhome.ie/residential/brochure/43-mcclure-meadows-wexford-town-wexford/5030519",
+    "https://www.myhome.ie/residential/brochure/apartment-284-parklands-northwood-santry-dublin-9/5030435",
+    "https://www.myhome.ie/residential/brochure/ballynaparka-house-aglish-waterford/5028919",
+    "https://www.myhome.ie/residential/brochure/apartment-21-killegland-meadows-ashbourne-meath/5029661",
+    "https://www.myhome.ie/residential/brochure/knocknagarrane-old-chapel-bandon-cork/5030517",
+    "https://www.myhome.ie/residential/brochure/seven-gables-ahare-castletown-wexford/5018467",
+    "https://www.myhome.ie/residential/brochure/kinvara-ballinatray-upper-courtown-wexford/5004475",
+    "https://www.myhome.ie/residential/brochure/wilmslow-the-avenue-gorey-wexford/4972896",
+    "https://www.myhome.ie/residential/brochure/the-old-forge-ballyduff-camolin-wexford/4995434",
+    "https://www.myhome.ie/residential/brochure/pallas-kilanerin-gorey-wexford/4990956",
+    "https://www.myhome.ie/residential/brochure/7a-st-marys-road-crumlin-dublin-12/5030515",
+    "https://www.myhome.ie/residential/brochure/73-the-bailey-castlefarm-naas-county-kildare/5030513",
+    "https://www.myhome.ie/residential/brochure/28-the-square-innwood-enfield-co-meath/5030512",
+    "https://www.myhome.ie/residential/brochure/apt-11-berehaven-place-raheny-dublin-5/5030369",
+    "https://www.myhome.ie/residential/brochure/40-farney-park-sandymount-sandymount-dublin-4/5030508",
+    "https://www.myhome.ie/residential/brochure/29-college-court-bride-street-dublin-8/5030511",
+    "https://www.myhome.ie/residential/brochure/21-fuchsia-avenue-forest-hill-carrigaline-cork/5030259",
+    "https://www.myhome.ie/residential/brochure/2-langford-terrace-langford-row-cork-city-cork/5026257",
+    "https://www.myhome.ie/residential/brochure/15-dalymount-phibsborough-dublin-7/5018422"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=94",
+  "paginationLimited": false
+}

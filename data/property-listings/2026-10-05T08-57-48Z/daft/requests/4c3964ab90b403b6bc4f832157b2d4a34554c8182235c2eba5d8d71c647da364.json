@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/5-harbour-terrace-harbour-street-mullingar-co-westmeath/6682808",
+  "fetchedAt": "2026-10-05T09:53:00.542Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/5-harbour-terrace-harbour-street-mullingar-co-westmeath/6682808",
+  "kind": "listing",
+  "responseSha256": "0e21f66b58556b59235dc413512633deb9e48d69971d22a914a86da317bba674",
+  "files": [
+    {
+      "path": "daft/02206-4c3964ab90b403b6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f4a077c6eeb987ba4bca32e955e73a12db3a67bcc5f57a3db9958234ff7e0c31",
+      "bytes": 56696
+    },
+    {
+      "path": "daft/02206-4c3964ab90b403b6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "399f2df213e9d82565050ce365fc8c197aa692659551e8cea990df220ca2ab17",
+      "bytes": 8251
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

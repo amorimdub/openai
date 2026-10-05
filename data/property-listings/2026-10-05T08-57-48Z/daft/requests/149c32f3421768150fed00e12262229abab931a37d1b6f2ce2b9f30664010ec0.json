@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/newmarket-on-fergus-quin-co-clare/6686720",
+  "fetchedAt": "2026-10-05T09:26:14.748Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/newmarket-on-fergus-quin-co-clare/6686720",
+  "kind": "listing",
+  "responseSha256": "ccce95253d0f99f929c23685a1376e33ebcf3338e4fe0b8d0951794d116c09c6",
+  "files": [
+    {
+      "path": "daft/01137-149c32f342176815-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6229743615f4dd03f82e579eefc206f253eb80cb3715c63d783b07a83eab8075",
+      "bytes": 23946
+    },
+    {
+      "path": "daft/01137-149c32f342176815-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

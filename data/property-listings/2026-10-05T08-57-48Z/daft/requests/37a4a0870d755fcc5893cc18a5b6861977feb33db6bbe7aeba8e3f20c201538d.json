@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-east-apartment-the-grange-residence-brewery-road-stillorgan-co-dublin/5374242",
+  "fetchedAt": "2026-10-05T09:05:31.148Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-east-apartment-the-grange-residence-brewery-road-stillorgan-co-dublin/5374242",
+  "kind": "listing",
+  "responseSha256": "490fdf2521f837eec9a1c228d695df0f4fcd6b5ca9b9731782ff405de0d9d004",
+  "files": [
+    {
+      "path": "daft/00309-37a4a0870d755fcc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c267590fc417ac3e54fb4bb8e939302aeb372ab7599228034c8066ce6faf8091",
+      "bytes": 32947
+    },
+    {
+      "path": "daft/00309-37a4a0870d755fcc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "37d693dad73e5b95336c678242e685ca115f5385d4cd270805a5f0d00274c2f5",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

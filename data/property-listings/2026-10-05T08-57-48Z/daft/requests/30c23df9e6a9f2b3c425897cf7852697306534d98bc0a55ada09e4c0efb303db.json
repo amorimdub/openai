@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/duplex-apartment-riversdale-place-sundays-well-road-cork-city-centre-co-cork/6686778",
+  "fetchedAt": "2026-10-05T09:26:04.234Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/duplex-apartment-riversdale-place-sundays-well-road-cork-city-centre-co-cork/6686778",
+  "kind": "listing",
+  "responseSha256": "f958537e78b78ed5e3ab3b65287ef1817e859343fbdb1427bfd79efac5f18209",
+  "files": [
+    {
+      "path": "daft/01130-30c23df9e6a9f2b3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fd90a78fff5ef06d040d324434f1fe2b29893382704454dbdeec60e896c074bc",
+      "bytes": 35949
+    },
+    {
+      "path": "daft/01130-30c23df9e6a9f2b3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ddaba952c5e66c32335aff427c315e04f2e7784a3817e9194c3d727f0000dc04",
+      "bytes": 8004
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

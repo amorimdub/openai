@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/11-delbrook-manor-dublin-16/6686207",
+  "fetchedAt": "2026-10-05T09:30:19.670Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/11-delbrook-manor-dublin-16/6686207",
+  "kind": "listing",
+  "responseSha256": "dd275762de67f5609e83f7a5587c379bd8d7bd92bb3395406a34d8dafe4838b3",
+  "files": [
+    {
+      "path": "daft/01300-6a18979fb2b26e9a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ecd7229e984c726b926e056ab13bb4d22dea53fd97eb6ee98022513227660938",
+      "bytes": 31099
+    },
+    {
+      "path": "daft/01300-6a18979fb2b26e9a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9705847533ec66aa768fc4366f1487695dae4b681c6b1eb157d71afb264153f8",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

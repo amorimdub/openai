@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=321",
+  "fetchedAt": "2026-10-05T13:00:14.694Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=321",
+  "kind": "search",
+  "responseSha256": "f4b5d289f80897613580838771faffd32e667832a05f9c5a4d29436eddeeb838",
+  "files": [
+    {
+      "path": "myhome/07143-d4fc055afb0c1c81-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=321\"].SearchResults",
+      "sha256": "026157fc0716c2537962756d50afd524a7812ab6f16eaee535c26eb4f9b2688c",
+      "bytes": 109697
+    },
+    {
+      "path": "myhome/07143-d4fc055afb0c1c81-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=321\"] (paging fields)",
+      "sha256": "ba7b8567de0e089c761141dcca59e775ac324a24dd2738628dd93a4f36917c0f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-9-manor-court-straffan-road-maynooth-kildare/5022711",
+    "https://www.myhome.ie/residential/brochure/11-croftwell-rathcoole-co-dublin/5022715",
+    "https://www.myhome.ie/residential/brochure/21-skylark-park-view-portmarnock-county-dublin/5022640",
+    "https://www.myhome.ie/residential/brochure/15-churchfields-kentstown-balrath-navan-meath/5022678",
+    "https://www.myhome.ie/residential/brochure/16-domville-square-cherrywood-dublin-18/5022702",
+    "https://www.myhome.ie/residential/brochure/30-clonard-lawn-dundrum-dublin-16/5022700",
+    "https://www.myhome.ie/residential/brochure/5-trees-avenue-mount-merrion-co-dublin/5022699",
+    "https://www.myhome.ie/residential/brochure/18-dornden-park-booterstown-co-dublin/5022698",
+    "https://www.myhome.ie/residential/brochure/5-ceol-na-habhainn-bridge-street-ballineen-cork/5022690",
+    "https://www.myhome.ie/residential/brochure/103-riverchapel-view-riverchapel-ardamine-co-wexford/5022689",
+    "https://www.myhome.ie/residential/brochure/78-tamarisk-avenue-kilnamanagh-dublin-24/5022684",
+    "https://www.myhome.ie/residential/brochure/mahanagh-cummer-corofin-co-galway/5022682",
+    "https://www.myhome.ie/residential/brochure/lake-cottage-dawros-more-letterfrack-connemara-co-galway/5022681",
+    "https://www.myhome.ie/residential/brochure/17-faughart-road-crumlin-dublin-12/5021309",
+    "https://www.myhome.ie/residential/brochure/2-magheross-drive-carrickmacross-county-monaghan/5022676",
+    "https://www.myhome.ie/residential/brochure/166-applewood-heights-greystones-co-wicklow/4966737",
+    "https://www.myhome.ie/residential/brochure/caprio-kilcrone-cloyne-cork/4983073",
+    "https://www.myhome.ie/residential/brochure/49-the-arches-gas-house-lane-kilkenny-co-kilkenny/5022671",
+    "https://www.myhome.ie/residential/brochure/27b-oakwood-apartments-the-glen-bettyglen-raheny-dublin/5022645",
+    "https://www.myhome.ie/residential/brochure/apartment-7-the-willows-diamond-valley-upper-dargle-road-bray-co-wicklow/5022666"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=322",
+  "paginationLimited": false
+}

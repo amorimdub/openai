@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bedroom-apartment-blackwood-square-northwood-avenue-santry-demesne-dublin-9-dublin-9/6685192",
+  "fetchedAt": "2026-10-05T09:01:03.407Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bedroom-apartment-blackwood-square-northwood-avenue-santry-demesne-dublin-9-dublin-9/6685192",
+  "kind": "listing",
+  "responseSha256": "4abef28511157508b99d4d4ed59803db704f1918884ab22852be4b6fa01b1619",
+  "files": [
+    {
+      "path": "daft/00131-c3cc1e42793ee196-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "26d7c2eda4ac70a8a9d3289b295b7825cb829668f0517d5122f277ca8ebe05cc",
+      "bytes": 92898
+    },
+    {
+      "path": "daft/00131-c3cc1e42793ee196-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a66192aa0a9757bd7900ec1e1a17f4d412e69bc5e1262f8441685ca972cda947",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

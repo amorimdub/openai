@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=68",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=68",
+  "fetchedAt": "2026-10-05T09:46:56.926Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "f8ce2b2f021d48a9fd2df54f4b6a91dae8834883ef014c7ef52a6e37d9052a8b",
+  "files": [
+    {
+      "path": "myhome/01959-fe11dac9f2b9c81e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=68\"].SearchResults",
+      "sha256": "4f9af4cfac3cfd37cbd781eb0e231532d076ae90092a384630fb405f142baf8d",
+      "bytes": 105847
+    },
+    {
+      "path": "myhome/01959-fe11dac9f2b9c81e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=68\"] (paging fields)",
+      "sha256": "c07f32bb3160ff0f7a9fae1c046cb079c662c8790e1700fb6ac77f7375309b7b",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/14-davis-row-clonmel-county-tipperary/5031080",
+    "https://www.myhome.ie/residential/brochure/18-parkwood-avenue-tallaght-dublin-24/5031037",
+    "https://www.myhome.ie/residential/brochure/69-raheen-road-tallaght-dublin-24/5031079",
+    "https://www.myhome.ie/residential/brochure/213-castlecurragh-vale-blanchardstown-dublin-15/5031075",
+    "https://www.myhome.ie/residential/brochure/34-hollywood-grove-ballaghaderreen-co-roscommon/5031074",
+    "https://www.myhome.ie/residential/brochure/12-frankfield-villas-windmill-road-city-centre-sth-cork-city/5031069",
+    "https://www.myhome.ie/residential/brochure/woods-cottage-bective-kilmessan-co-meath/5031068",
+    "https://www.myhome.ie/residential/brochure/2-belgrave-view-rathmines-dublin-6/5031040",
+    "https://www.myhome.ie/residential/brochure/rivendell-ballyprecas-bunclody-co-wexford/4994643",
+    "https://www.myhome.ie/residential/brochure/195-churchfields-ashbourne-meath/5031066",
+    "https://www.myhome.ie/residential/brochure/edmondstown-killucan-westmeath/5031058",
+    "https://www.myhome.ie/residential/brochure/croaghnamaddy-dungloe-county-donegal/5031064",
+    "https://www.myhome.ie/residential/brochure/29-lanesborough-gardens-finglas-dublin-11/5030992",
+    "https://www.myhome.ie/residential/brochure/no-2-castleview-barrystown-wellingtonbridge-wexford/5031061",
+    "https://www.myhome.ie/residential/brochure/54-nephin-road-dublin-7-dublin/5031054",
+    "https://www.myhome.ie/residential/brochure/7-green-street-greenmount-cork-city-cork/5031057",
+    "https://www.myhome.ie/residential/brochure/redhills-demesne-redhills-county-cavan/5031059",
+    "https://www.myhome.ie/residential/brochure/4-the-ropery-ballsbridge-dublin-4/5026554",
+    "https://www.myhome.ie/residential/brochure/7-taney-avenue-goatstown-dublin-14/5007659",
+    "https://www.myhome.ie/residential/brochure/15-chestnut-hall-johnstown-navan-meath/5030441"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=69",
+  "paginationLimited": false
+}

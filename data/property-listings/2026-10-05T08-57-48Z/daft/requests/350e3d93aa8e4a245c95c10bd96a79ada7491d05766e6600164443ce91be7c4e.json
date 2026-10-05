@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/752-howth-road-raheny-dublin-5/6579431",
+  "fetchedAt": "2026-10-05T09:20:24.746Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/752-howth-road-raheny-dublin-5/6579431",
+  "kind": "listing",
+  "responseSha256": "dd7b23da1b21668b0dc9afaa284e7ad9902c5137fc10a3db3a90e4cd88b8240b",
+  "files": [
+    {
+      "path": "daft/00904-350e3d93aa8e4a24-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e910e55f4a1589f0e6844a97a6bda24cab33c8cf1e4e38f7f8640baa54d0501e",
+      "bytes": 64087
+    },
+    {
+      "path": "daft/00904-350e3d93aa8e4a24-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "870d924195149c74b250475c1a44965eae6462bd494ac546ee993005e4264ec0",
+      "bytes": 8105
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

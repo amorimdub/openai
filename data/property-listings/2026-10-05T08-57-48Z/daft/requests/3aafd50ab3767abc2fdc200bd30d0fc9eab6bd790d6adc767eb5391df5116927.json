@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-clay-farm-clay-farm-leopardstown-leopardstown-co-dublin/3946907",
+  "fetchedAt": "2026-10-05T09:06:13.190Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-clay-farm-clay-farm-leopardstown-leopardstown-co-dublin/3946907",
+  "kind": "listing",
+  "responseSha256": "81c82d33d87949579d7805cf6467bc176853f8c7fb66b1e362854f82a376a6e5",
+  "files": [
+    {
+      "path": "daft/00337-3aafd50ab3767abc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f0d651b9a6a04da2b870153090ab5c42db108e2aa729fcd863e5d2311eb23534",
+      "bytes": 205699
+    },
+    {
+      "path": "daft/00337-3aafd50ab3767abc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9089f3c7ac5d78d59bfbe0eff7c041936883aa75375dc0abc9548b8c42f845fd",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

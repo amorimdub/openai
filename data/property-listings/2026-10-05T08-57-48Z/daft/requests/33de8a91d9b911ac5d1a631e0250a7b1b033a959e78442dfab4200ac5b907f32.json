@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/clonmacken-court-clonmacken-road-ennis-road-co-limerick/6646991",
+  "fetchedAt": "2026-10-05T09:22:48.932Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/clonmacken-court-clonmacken-road-ennis-road-co-limerick/6646991",
+  "kind": "listing",
+  "responseSha256": "eab42fb18aa143972b9e94d38e81cc637ca059bbfd0c80c14f9f7d2efa9317e6",
+  "files": [
+    {
+      "path": "daft/01000-33de8a91d9b911ac-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e111d13564ba4a644ab9d56f8ed9eb0208b8bfbdae10252e78ec3a2faa657e7d",
+      "bytes": 41575
+    },
+    {
+      "path": "daft/01000-33de8a91d9b911ac-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d4aa2b27d1170dc65bbed6fb541ca808eaf5d9ee7107f16aaa1ccd0faf57f3c4",
+      "bytes": 8141
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-the-benson-marine-school-walk-dublin-2/6299511",
+  "fetchedAt": "2026-10-05T09:06:17.692Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-the-benson-marine-school-walk-dublin-2/6299511",
+  "kind": "listing",
+  "responseSha256": "ec262d620dc036ff97acfd81b6343477361405758f49cc55ae4ec4c63a407b81",
+  "files": [
+    {
+      "path": "daft/00340-a60ce75a24f4bdc2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "16afad281b69fbd93a587fb5274d7310e6074346fa122a2d2391e14adb7767e9",
+      "bytes": 35873
+    },
+    {
+      "path": "daft/00340-a60ce75a24f4bdc2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7f878a5b0b96d1bfa83180ff94a63e0dd3a0fddd8aab065ff250b2b0a2449cf2",
+      "bytes": 8169
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

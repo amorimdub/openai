@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=477",
+  "fetchedAt": "2026-10-05T14:20:17.706Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=477",
+  "kind": "search",
+  "responseSha256": "d12c6de33a2f7c2af5da4aca622203200bae349900bb256c5701ecfab8d93901",
+  "files": [
+    {
+      "path": "myhome/10338-89cef3d44d975ba0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=477\"].SearchResults",
+      "sha256": "2c698eb39b7e71d65ead0d3a4f51355d4e98469fa2baf8063f94e6932cc3257b",
+      "bytes": 105063
+    },
+    {
+      "path": "myhome/10338-89cef3d44d975ba0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=477\"] (paging fields)",
+      "sha256": "5d5c698706a5de3db82f0f228eb732ef986ae9037d7f4738253f0ef1633da5a2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-cherrywood-heights-midleton-cork/5000403",
+    "https://www.myhome.ie/residential/brochure/lands-rossarrell-glaslough-co-monaghan/5005349",
+    "https://www.myhome.ie/residential/brochure/glen-road-lot-1-c-13-2-acres-aughrim-county-wicklow/5005341",
+    "https://www.myhome.ie/residential/brochure/25-arduain-enniscorthy-co-wexford/5005337",
+    "https://www.myhome.ie/residential/brochure/16-summerville-clontarf-dublin-3/5005332",
+    "https://www.myhome.ie/residential/brochure/reenroe-drimoleague-west-cork/5005325",
+    "https://www.myhome.ie/residential/brochure/12-cullenswood-gardens-ranelagh-dublin-6/4999637",
+    "https://www.myhome.ie/residential/brochure/gardenhill-castleconnell-limerick/5005307",
+    "https://www.myhome.ie/residential/brochure/graigueagowan-portumna-co-galway/5005277",
+    "https://www.myhome.ie/residential/brochure/cullenogue-tara-hill-gorey-co-wexford/5005273",
+    "https://www.myhome.ie/residential/brochure/killacloran-aughrim-co-wicklow/5005270",
+    "https://www.myhome.ie/residential/brochure/1a-chester-road-ranelagh-dublin-6/5005182",
+    "https://www.myhome.ie/residential/brochure/10-acres-rooaun-creagh-ballinasloe-galway/5005256",
+    "https://www.myhome.ie/residential/brochure/45-valley-park-road-finglas-dublin-11/5005248",
+    "https://www.myhome.ie/residential/brochure/kiltimagh-road-knock-mayo/5005226",
+    "https://www.myhome.ie/residential/brochure/glenagoul-kildinan-watergrasshill-cork/5005171",
+    "https://www.myhome.ie/residential/brochure/56-james-connolly-square-bray-co-wicklow/5005213",
+    "https://www.myhome.ie/residential/brochure/72-coppingers-acre-bantry-park-road-fairhill-cork-city-cork/5005212",
+    "https://www.myhome.ie/residential/brochure/toberoneill-ballindrait-lifford-co-donegal/5005210",
+    "https://www.myhome.ie/residential/brochure/loughanure-annagry-co-donegal/5005204"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=478",
+  "paginationLimited": false
+}

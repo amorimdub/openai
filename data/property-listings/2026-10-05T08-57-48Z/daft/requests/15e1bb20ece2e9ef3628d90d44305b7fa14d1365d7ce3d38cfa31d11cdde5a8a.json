@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/kingsley-mews-raglan-road-dublin-4/6683585",
+  "fetchedAt": "2026-10-05T09:48:42.146Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/kingsley-mews-raglan-road-dublin-4/6683585",
+  "kind": "listing",
+  "responseSha256": "c811ffd0b14d874574511329b8f84e7485c8d6970e589fbe800a6361d9ab78aa",
+  "files": [
+    {
+      "path": "daft/02034-15e1bb20ece2e9ef-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2ba22f3a6535c6934ba282bf9e23ff76e5941a1b5a51b7372cf2b9927f58bc6b",
+      "bytes": 49379
+    },
+    {
+      "path": "daft/02034-15e1bb20ece2e9ef-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2b79240781e2dd784d0ec9fb2730008a470ccccb12d49446844a56acdcad3a92",
+      "bytes": 8084
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

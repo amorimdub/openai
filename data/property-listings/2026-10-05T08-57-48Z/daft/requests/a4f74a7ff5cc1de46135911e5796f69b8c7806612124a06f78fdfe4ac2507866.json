@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/stillorgan-road-stillorgan-road-blackrock-co-dublin/6553795",
+  "fetchedAt": "2026-10-05T09:04:40.092Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/stillorgan-road-stillorgan-road-blackrock-co-dublin/6553795",
+  "kind": "listing",
+  "responseSha256": "21b20360ab7eb775c40d1b7b1d6f8cb2274ac83ffc18b0b38750986613a94afa",
+  "files": [
+    {
+      "path": "daft/00275-a4f74a7ff5cc1de4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8de82e6b8bcbf382097b652f057acd16b7f78742cad1e132afbbfdaf39d1c616",
+      "bytes": 52319
+    },
+    {
+      "path": "daft/00275-a4f74a7ff5cc1de4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e521a608e6e208588a747a2fa2a4ac78c93c20822182f84cfa63b360383129aa",
+      "bytes": 8026
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

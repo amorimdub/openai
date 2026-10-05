@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-4-mulgrave-place-cork-city-centre-co-cork/6631395",
+  "fetchedAt": "2026-10-05T09:22:44.425Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-4-mulgrave-place-cork-city-centre-co-cork/6631395",
+  "kind": "listing",
+  "responseSha256": "9e379a1526c3a9a1eb024b10c5e0d0ed5dd9bb50229fd466ee952c19a7a5666a",
+  "files": [
+    {
+      "path": "daft/00997-f9fb12c53357b9fe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8555e9612a43594b0ba8a370e42f1ee34dd4aa4a275f08870d5b951e8823963b",
+      "bytes": 38348
+    },
+    {
+      "path": "daft/00997-f9fb12c53357b9fe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f91bfd95e504dfaabf38767f7ec96d0589800027640dde949ceb1e1a79c22402",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

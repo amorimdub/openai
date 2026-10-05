@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-albany-killiney-hill-road-killiney-co-dublin/6676521",
+  "fetchedAt": "2026-10-05T09:14:48.361Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-albany-killiney-hill-road-killiney-co-dublin/6676521",
+  "kind": "listing",
+  "responseSha256": "539723bd0785497f3f07de3818eadbc133784ca068a13018752c640f5661f172",
+  "files": [
+    {
+      "path": "daft/00680-c33480ef8e17144e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "35087a002bae8977d907e45c736bd936ca9e77ab038d5e1583c6ed0d6db1690a",
+      "bytes": 51295
+    },
+    {
+      "path": "daft/00680-c33480ef8e17144e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9794acdef344225842f00a3b273399a82e02f40736e339bd9b074577d8c5c78a",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

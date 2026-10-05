@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/33-ailesbury-road-ballsbridge-dublin-4/6574615",
+  "fetchedAt": "2026-10-05T09:41:00.880Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/33-ailesbury-road-ballsbridge-dublin-4/6574615",
+  "kind": "listing",
+  "responseSha256": "fbd8d34de64356d04c17865c605076fc78f03e6f3a81c8f80220c83b269574fa",
+  "files": [
+    {
+      "path": "daft/01727-078c05a712003a78-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c48bb9464ce34012c394b6ab1986341d2a906eedfd96b2e4d83ed72bbeae67db",
+      "bytes": 118356
+    },
+    {
+      "path": "daft/01727-078c05a712003a78-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dd68888de798828147d596b78f4e7e8b1bb6329cc0f49a6a9343477b5c11be30",
+      "bytes": 8270
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

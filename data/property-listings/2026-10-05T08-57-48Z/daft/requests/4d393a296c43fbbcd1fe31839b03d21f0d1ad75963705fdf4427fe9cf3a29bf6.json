@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/29-marian-crescent-rathfarnham-dublin-14/6675120",
+  "fetchedAt": "2026-10-05T09:23:18.978Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/29-marian-crescent-rathfarnham-dublin-14/6675120",
+  "kind": "listing",
+  "responseSha256": "cf2d137ce1674ef41a2d1a82cbb5ab602e11737810c7ab69b8e9848c2e4c5987",
+  "files": [
+    {
+      "path": "daft/01020-4d393a296c43fbbc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "59ae740895c659bfad5a7a140559efd8daa01c62c4d85cc0c5bd2591c94a0cac",
+      "bytes": 67760
+    },
+    {
+      "path": "daft/01020-4d393a296c43fbbc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9c3589e7446be5b427573bcd8ec35cc89eb8cdc3e77f436cd05e44e44936d00a",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

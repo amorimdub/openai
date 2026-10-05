@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/18-walkinstown-road-walkinstown-dublin-12/6669457",
+  "fetchedAt": "2026-10-05T09:30:40.690Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/18-walkinstown-road-walkinstown-dublin-12/6669457",
+  "kind": "listing",
+  "responseSha256": "8dfb97173f42f6197ec3b49d4eff75e254da9b8dff353084bcd51d81095c0eb4",
+  "files": [
+    {
+      "path": "daft/01314-b77bfae0960eb408-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "239f25f68687fad3c0b81982597518bb5f322a21ae4126512a352041f613b658",
+      "bytes": 89529
+    },
+    {
+      "path": "daft/01314-b77bfae0960eb408-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5f21ac8ed2c1671ecea2f1d9f2bd96f99353b1f4dd47766f5ff8d0f976f262a5",
+      "bytes": 8143
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

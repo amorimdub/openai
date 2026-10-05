@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-13-errigal-house-eglinton-court-donnybrook-dublin-4/6680420",
+  "fetchedAt": "2026-10-05T09:05:49.166Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-13-errigal-house-eglinton-court-donnybrook-dublin-4/6680420",
+  "kind": "listing",
+  "responseSha256": "7d22abf544fb68d659af9966cbe7d17a3529a2f8c42bc4317fe6e4bbbee7f716",
+  "files": [
+    {
+      "path": "daft/00321-df7b106e3de8fb70-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04f675e1a11c81945eff6bcb64df5bf70d25bbebd642aed06a7b9011bc4b3c87",
+      "bytes": 46830
+    },
+    {
+      "path": "daft/00321-df7b106e3de8fb70-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1bf3342807d47169438356b997afd10130e7e6dc7e8ab6847fe995e597582249",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

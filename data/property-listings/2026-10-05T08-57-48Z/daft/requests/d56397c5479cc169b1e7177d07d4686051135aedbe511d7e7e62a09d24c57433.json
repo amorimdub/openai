@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/campion-cottage-loughanstown-skryne-co-meath/6687242",
+  "fetchedAt": "2026-10-05T09:24:01.041Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/campion-cottage-loughanstown-skryne-co-meath/6687242",
+  "kind": "listing",
+  "responseSha256": "753965c7b3f93baa67810da2a08d70a88fd8543807bc97b4621c44abe587064d",
+  "files": [
+    {
+      "path": "daft/01048-d56397c5479cc169-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "95594cb02930155dcaefae0dd34a2dfa294cbf711c5066938698802c3b6aae69",
+      "bytes": 25164
+    },
+    {
+      "path": "daft/01048-d56397c5479cc169-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3d23496fb6a808204af528b341acd87b97aa8ade2d7c022a1176f8d3889ec9f7",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

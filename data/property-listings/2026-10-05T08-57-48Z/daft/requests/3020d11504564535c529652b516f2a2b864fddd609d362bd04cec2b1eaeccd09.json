@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/eglinton-place-eglinton-road-dublin-4/5811433",
+  "fetchedAt": "2026-10-05T09:00:42.379Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/eglinton-place-eglinton-road-dublin-4/5811433",
+  "kind": "listing",
+  "responseSha256": "5a8a7043b89a8db0ad88fd5503d68eb3d9f979f02bbcfe9f29b0db6cf88b5d5e",
+  "files": [
+    {
+      "path": "daft/00117-3020d11504564535-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f62a6346cb76c32fc7899cd875e7177b7b8ff898272deba8202ffd8db38b1b12",
+      "bytes": 256494
+    },
+    {
+      "path": "daft/00117-3020d11504564535-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "df63afd64a164a15a4ddfd907b8105c130ba52c86eb1c970b2f840575c07d6d1",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

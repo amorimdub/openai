@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=272",
+  "fetchedAt": "2026-10-05T12:35:06.202Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=272",
+  "kind": "search",
+  "responseSha256": "c0a9ba348ee081f6b3634c0adb04047959b90b376dd0a6a00fec8ee2fa707044",
+  "files": [
+    {
+      "path": "myhome/06144-3aaa8f807b9f4f98-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=272\"].SearchResults",
+      "sha256": "5c22f7e3d43d099c5b953eded65ce2b9fec510159307273e3a7b1a6df43d19e7",
+      "bytes": 105599
+    },
+    {
+      "path": "myhome/06144-3aaa8f807b9f4f98-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=272\"] (paging fields)",
+      "sha256": "4e1ab0d69b437610a7036a3cfdc0a968db109b5ebe6a6454108bb3dcce862783",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-victoria-road-clontarf-dublin-3/4908172",
+    "https://www.myhome.ie/residential/brochure/40-eglinton-road-donnybrook-dublin-4/4997481",
+    "https://www.myhome.ie/residential/brochure/35-moyne-road-ranelagh-dublin-6/4982120",
+    "https://www.myhome.ie/residential/brochure/80-adelaide-square-whitefriar-street-dublin-8/5025296",
+    "https://www.myhome.ie/residential/brochure/c-14-5-acres-blackchurch-tuckmilltown-kill-kildare/5024243",
+    "https://www.myhome.ie/residential/brochure/c-6-acres-blackchurch-tuckmilltown-kill-kildare/5024180",
+    "https://www.myhome.ie/residential/brochure/c-21-acres-blackchurch-tuckmilltown-kill-kildare/5024167",
+    "https://www.myhome.ie/residential/brochure/54-holywell-view-swords-co-dublin/5025294",
+    "https://www.myhome.ie/residential/brochure/8-shackleton-avenue-lucan-co-dublin/5008389",
+    "https://www.myhome.ie/residential/brochure/17-the-tannery-cairns-hill-sligo-sligo/5025286",
+    "https://www.myhome.ie/residential/brochure/64-hansted-crescent-lucan-co-dublin/5018486",
+    "https://www.myhome.ie/residential/brochure/57-bawnville-road-tallaght-dublin-24/5025269",
+    "https://www.myhome.ie/residential/brochure/168-killester-avenue-killester-dublin-5/5018882",
+    "https://www.myhome.ie/residential/brochure/34-all-hallows-green-griffith-avenue-drumcondra-dublin-9/5017746",
+    "https://www.myhome.ie/residential/brochure/243-the-compass-seabourne-view-greystones-co-wicklow/5017707",
+    "https://www.myhome.ie/residential/brochure/glenbrook-house-on-c-3-acres-priory-road-delgany-co-wicklow/4705546",
+    "https://www.myhome.ie/residential/brochure/cheriton-38-la-touche-park-greystones-co-wicklow/5017344",
+    "https://www.myhome.ie/residential/brochure/fairview-bellevue-hill-delgany-co-wicklow/4998080",
+    "https://www.myhome.ie/residential/brochure/47-charlesland-grove-greystones-co-wicklow/5013636",
+    "https://www.myhome.ie/residential/brochure/buona-vista-house-1a-church-road-greystones-co-wicklow/5001754"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=273",
+  "paginationLimited": false
+}

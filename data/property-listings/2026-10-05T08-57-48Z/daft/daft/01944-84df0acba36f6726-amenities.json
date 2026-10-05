@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SAPLINGS SPECIAL SCHOOL",
+      "numPupils": 36,
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.520473",
+        "lon": "-7.364511"
+      }
+    },
+    {
+      "schoolName": "MULLINGAR EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 379,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.525723",
+        "lon": "-7.364305"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL AN MHUILINN",
+      "numPupils": 183,
+      "distance": {
+        "value": 1.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.528034",
+        "lon": "-7.356781"
+      }
+    },
+    {
+      "schoolName": "ST. MARYS PRIMARY SCHOOL",
+      "numPupils": 426,
+      "distance": {
+        "value": 1.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.526104",
+        "lon": "-7.346979"
+      }
+    },
+    {
+      "schoolName": "ST BRIGID'S SPECIAL SCHOOL",
+      "numPupils": 86,
+      "distance": {
+        "value": 1.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.528824",
+        "lon": "-7.344149"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SENIOR SCHOOL",
+      "numPupils": 307,
+      "distance": {
+        "value": 1.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.528576",
+        "lon": "-7.342843"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION JUNIOR SCHOOL",
+      "numPupils": 284,
+      "distance": {
+        "value": 1.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.528397",
+        "lon": "-7.342606"
+      }
+    },
+    {
+      "schoolName": "ALL SAINTS NATIONAL SCHOOL MULLINGAR",
+      "numPupils": 87,
+      "distance": {
+        "value": 1.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524452",
+        "lon": "-7.339631"
+      }
+    },
+    {
+      "schoolName": "ST KENNY NATIONAL SCHOOL",
+      "numPupils": 225,
+      "distance": {
+        "value": 2.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.511810",
+        "lon": "-7.397252"
+      }
+    },
+    {
+      "schoolName": "BELLVIEW NATIONAL SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 2.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.528490",
+        "lon": "-7.327872"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLAISTE MHUIRE,",
+      "numPupils": 835,
+      "distance": {
+        "value": 1.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.527280",
+        "lon": "-7.346868"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 839,
+      "distance": {
+        "value": 1.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.529697",
+        "lon": "-7.346145"
+      }
+    },
+    {
+      "schoolName": "MULLINGAR COMMUNITY COLLEGE",
+      "numPupils": 375,
+      "distance": {
+        "value": 2.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524193",
+        "lon": "-7.334495"
+      }
+    },
+    {
+      "schoolName": "ST. FINIAN'S COLLEGE",
+      "numPupils": 877,
+      "distance": {
+        "value": 2.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539017",
+        "lon": "-7.355277"
+      }
+    },
+    {
+      "schoolName": "WILSON'S HOSPITAL SCHOOL",
+      "numPupils": 430,
+      "distance": {
+        "value": 10.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611702",
+        "lon": "-7.417280"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 1125,
+      "distance": {
+        "value": 12.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.413857",
+        "lon": "-7.301681"
+      }
+    },
+    {
+      "schoolName": "COLUMBA COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 15.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.516510",
+        "lon": "-7.139881"
+      }
+    },
+    {
+      "schoolName": "CASTLEPOLLARD COMMUNITY COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 17.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.674583",
+        "lon": "-7.305084"
+      }
+    },
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 720,
+      "distance": {
+        "value": 18.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.367550",
+        "lon": "-7.492647"
+      }
+    },
+    {
+      "schoolName": "ARD SCOIL CHIARÁIN NAOFA",
+      "numPupils": 331,
+      "distance": {
+        "value": 25.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.340630",
+        "lon": "-7.612430"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ardleigh Gate",
+      "route": "MU2",
+      "destination": "Ardmore Road",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.51891",
+        "lon": "-7.37109"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ardleigh Park",
+      "route": "MU2",
+      "destination": "Mullingar Business Park",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52256",
+        "lon": "-7.36949"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ardilaun Heights",
+      "route": "MU2",
+      "destination": "Mullingar Business Park",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52479",
+        "lon": "-7.36715"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mullingar Business Park",
+      "route": "MU2",
+      "destination": "Ardmore Road",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.51747",
+        "lon": "-7.36018"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rathgowan Park",
+      "route": "MU2",
+      "destination": "Mullingar Business Park",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 0.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52684",
+        "lon": "-7.3633"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Farranshock Park",
+      "route": "MU2",
+      "destination": "Ardmore Road",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 1.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52975",
+        "lon": "-7.36054"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mullingar Station",
+      "route": "MU1",
+      "destination": "Ballinderry Road",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 1.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52348",
+        "lon": "-7.34706"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clonmore Road",
+      "route": "MU1",
+      "destination": "Lough Sheever Corporate Park",
+      "provider": "Bernard Kavanagh & Sons",
+      "distance": {
+        "value": 1.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52021",
+        "lon": "-7.34591"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mullingar Stn",
+      "route": "819",
+      "destination": "Belvedere House",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 1.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52299",
+        "lon": "-7.346321"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mullingar Stn",
+      "route": "115C",
+      "destination": "Kilcock",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.52299",
+        "lon": "-7.346321"
+      }
+    }
+  ]
+}

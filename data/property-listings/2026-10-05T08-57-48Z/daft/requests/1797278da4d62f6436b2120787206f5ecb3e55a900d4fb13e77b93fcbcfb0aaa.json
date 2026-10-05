@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/9-whiteoak-clonskeagh-co-dublin/6653291",
+  "fetchedAt": "2026-10-05T09:14:22.819Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/9-whiteoak-clonskeagh-co-dublin/6653291",
+  "kind": "listing",
+  "responseSha256": "8188d6c52dc0cf9c981860b1557cb97dc5c1314565a75d5a5d70c6b573c3c19c",
+  "files": [
+    {
+      "path": "daft/00663-1797278da4d62f64-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "abe4df3b31877db317b18d248b9c4511e18371d37881030e6fe32f00f3ec2321",
+      "bytes": 26419
+    },
+    {
+      "path": "daft/00663-1797278da4d62f64-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3327dc7cfad0924f9ff0f5ea7085b80f7dd69982f789823e9d9562bd89e6b8fc",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-dunvale-rise-frankfield-frankfield-co-cork/6686064",
+  "fetchedAt": "2026-10-05T09:31:25.737Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-dunvale-rise-frankfield-frankfield-co-cork/6686064",
+  "kind": "listing",
+  "responseSha256": "e55e47049a816d9d53953b447eec72ad24a2abd83d96fd46ef0320ae2ecd68a7",
+  "files": [
+    {
+      "path": "daft/01344-577d3f6a70e93f40-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "76d25bdf220401a8d37b147710756d356169694ea86f6f85ae1eee755f8abce5",
+      "bytes": 49504
+    },
+    {
+      "path": "daft/01344-577d3f6a70e93f40-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "600cf88495297c083c2790f8e54de0d5137c981bf6ddf806d37fc5e28579d46a",
+      "bytes": 8029
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

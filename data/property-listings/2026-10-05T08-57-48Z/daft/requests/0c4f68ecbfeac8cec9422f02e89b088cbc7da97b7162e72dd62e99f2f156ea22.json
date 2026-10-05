@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/20-whitethorn-place-naas-co-kildare/6643172",
+  "fetchedAt": "2026-10-05T09:33:45.385Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/20-whitethorn-place-naas-co-kildare/6643172",
+  "kind": "listing",
+  "responseSha256": "b4948d06b5a6fb816f75c07e2b6c7fd1625e9f36e7579331d8aaa44bfbc434bc",
+  "files": [
+    {
+      "path": "daft/01437-0c4f68ecbfeac8ce-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c6425ecf50962a1464dfc2aaa6036e2cb590c7ed6136e9dfae3abaff815e0983",
+      "bytes": 125254
+    },
+    {
+      "path": "daft/01437-0c4f68ecbfeac8ce-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "30be36eb6975c98ad59f57634432a71e92fe5db8a2ddf7d3f8153a0816069e2d",
+      "bytes": 8224
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

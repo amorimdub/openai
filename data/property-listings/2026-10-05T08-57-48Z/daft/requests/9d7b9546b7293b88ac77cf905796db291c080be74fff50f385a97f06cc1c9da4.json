@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/11-odaly-terrace-rathdowney-co-laois/6685220",
+  "fetchedAt": "2026-10-05T09:32:27.308Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/11-odaly-terrace-rathdowney-co-laois/6685220",
+  "kind": "listing",
+  "responseSha256": "13ca264b2796363d67843ce675e75837fa0a3b01d28eff26ddec6baf07aaaa54",
+  "files": [
+    {
+      "path": "daft/01385-9d7b9546b7293b88-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0abfedd55a5972b1f8e0d2911539f2003f569f2d78bfbbbd568bd2fbf2b672c2",
+      "bytes": 38183
+    },
+    {
+      "path": "daft/01385-9d7b9546b7293b88-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7b68f58940d6fa108346559bc9073fc3efc28626a10d43fa10eb90140758b45c",
+      "bytes": 8143
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

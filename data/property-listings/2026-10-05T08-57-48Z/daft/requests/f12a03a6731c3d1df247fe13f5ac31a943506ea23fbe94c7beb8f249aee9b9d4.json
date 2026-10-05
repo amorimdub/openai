@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=49",
+  "fetchedAt": "2026-10-05T09:52:21.499Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=49",
+  "kind": "search",
+  "responseSha256": "4638887434a624469c429eb7fd2eeb10acd9400ce41162d7d2c53e47dec81669",
+  "files": [
+    {
+      "path": "daft/02180-f12a03a6731c3d1d-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "93e42a56040fcf5d0394fbf841df7683132a9091b2d01ea259247950260a9872",
+      "bytes": 304407
+    },
+    {
+      "path": "daft/02180-f12a03a6731c3d1d-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02180-f12a03a6731c3d1d-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "da8c4f167fd81ad86ad6becf2b69037781bc45def774e47370f98bc703385030",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/the-cottage-newtown-monasterboice-co-louth/6626272",
+    "https://www.daft.ie/for-sale/lynn-mullingar-co-westmeath/6285415",
+    "https://www.daft.ie/for-sale/sycamore-house-134-cabra-road-cabra-dublin-7/6618012",
+    "https://www.daft.ie/for-sale/36-woodland-park-rush-co-dublin/6623743",
+    "https://www.daft.ie/for-sale/seacrest-sandy-hills-south-shore-road-rush-co-dublin/6634874",
+    "https://www.daft.ie/for-sale/33-dun-saithne-view-balbriggan-co-dublin/6634813",
+    "https://www.daft.ie/for-sale/4-calderwood-avenue-dublin-9-drumcondra-dublin-9/6640502",
+    "https://www.daft.ie/for-sale/apartment-75-hanover-quay-dublin-2/6626795",
+    "https://www.daft.ie/for-sale/74-lohunda-downs-clonsilla-dublin-15/6628505",
+    "https://www.daft.ie/for-sale/22-wellfield-garryowen-garryowen-co-limerick/6619566",
+    "https://www.daft.ie/for-sale/27-mossgrove-avenue-caherdavin-heights-caherdavin-co-limerick/6617196",
+    "https://www.daft.ie/for-sale/4-coolraine-terrace-ennis-road-co-limerick/6637903",
+    "https://www.daft.ie/for-sale/spring-haven-carrowkeel-strandhill-co-sligo/6317434",
+    "https://www.daft.ie/for-sale/the-old-forge-riverstown-co-sligo/6459408",
+    "https://www.daft.ie/for-sale/sion-hill-house-ferrybank-ferrybank-co-waterford/6637665",
+    "https://www.daft.ie/for-sale/101-sailin-wellpark-co-galway/6640552",
+    "https://www.daft.ie/for-sale/apartment-3-7-main-street-clongriffin-dublin-13/6640527",
+    "https://www.daft.ie/for-sale/19-the-moorings-malahide-co-dublin/6640406",
+    "https://www.daft.ie/for-sale/3-the-grove-crossbarry-co-cork/6639426",
+    "https://www.daft.ie/for-sale/13-wolfe-tone-street-mountmellick-mountmellick-co-laois/6640231"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=50",
+  "paginationLimited": false
+}

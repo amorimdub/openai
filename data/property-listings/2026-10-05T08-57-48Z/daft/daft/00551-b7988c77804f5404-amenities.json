@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "THE ADELAIDE AND MEATH HOSPITAL",
+      "numPupils": 10,
+      "distance": {
+        "value": 0.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.290646",
+        "lon": "-6.378254"
+      }
+    },
+    {
+      "schoolName": "ST MARK'S JUNIOR SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 0.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286940",
+        "lon": "-6.386848"
+      }
+    },
+    {
+      "schoolName": "ST MARKS SENIOR TALLAGHT",
+      "numPupils": 492,
+      "distance": {
+        "value": 0.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287086",
+        "lon": "-6.387286"
+      }
+    },
+    {
+      "schoolName": "ST ANNE'S PRIMARY SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 1.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.290657",
+        "lon": "-6.391992"
+      }
+    },
+    {
+      "schoolName": "TALLAGHT COMMUNITY NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 1.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.282470",
+        "lon": "-6.392137"
+      }
+    },
+    {
+      "schoolName": "ST DOMINIC'S NATIONAL SCHOOL",
+      "numPupils": 411,
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285000",
+        "lon": "-6.358135"
+      }
+    },
+    {
+      "schoolName": "SOLAS CHRÍOST NATIONAL SCHOOL",
+      "numPupils": 381,
+      "distance": {
+        "value": 1.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.298350",
+        "lon": "-6.385710"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL TALLAGHT",
+      "numPupils": 323,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.290394",
+        "lon": "-6.357294"
+      }
+    },
+    {
+      "schoolName": "SACRED HEART JNS",
+      "numPupils": 179,
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276783",
+        "lon": "-6.381803"
+      }
+    },
+    {
+      "schoolName": "SACRED HEART SNS",
+      "numPupils": 209,
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276848",
+        "lon": "-6.382324"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OLD BAWN COMMUNITY SCHOOL",
+      "numPupils": 1032,
+      "distance": {
+        "value": 0.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283463",
+        "lon": "-6.370710"
+      }
+    },
+    {
+      "schoolName": "ST MARKS COMMUNITY SCHOOL",
+      "numPupils": 924,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.291400",
+        "lon": "-6.388903"
+      }
+    },
+    {
+      "schoolName": "KINGSWOOD COMMUNITY COLLEGE",
+      "numPupils": 982,
+      "distance": {
+        "value": 1.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304695",
+        "lon": "-6.375026"
+      }
+    },
+    {
+      "schoolName": "KILLINARDEN COMMUNITY SCHOOL",
+      "numPupils": 508,
+      "distance": {
+        "value": 1.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276085",
+        "lon": "-6.397339"
+      }
+    },
+    {
+      "schoolName": "FIRHOUSE COMMUNITY COLLEGE",
+      "numPupils": 824,
+      "distance": {
+        "value": 2.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276203",
+        "lon": "-6.348671"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE DE HÍDE",
+      "numPupils": 267,
+      "distance": {
+        "value": 2.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301247",
+        "lon": "-6.349289"
+      }
+    },
+    {
+      "schoolName": "ST AIDAN'S COMMUNITY SCHOOL",
+      "numPupils": 560,
+      "distance": {
+        "value": 2.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286602",
+        "lon": "-6.412529"
+      }
+    },
+    {
+      "schoolName": "MOUNT SESKIN COMMUNITY COLLEGE",
+      "numPupils": 327,
+      "distance": {
+        "value": 2.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278793",
+        "lon": "-6.410173"
+      }
+    },
+    {
+      "schoolName": "TALLAGHT COMMUNITY SCHOOL",
+      "numPupils": 828,
+      "distance": {
+        "value": 2.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294724",
+        "lon": "-6.338550"
+      }
+    },
+    {
+      "schoolName": "FIRHOUSE EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 381,
+      "distance": {
+        "value": 2.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.277264",
+        "lon": "-6.338055"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Tram",
+      "stop": "Tallaght",
+      "route": "Red",
+      "destination": "The Point",
+      "provider": "LUAS",
+      "distance": {
+        "value": 0.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28740296",
+        "lon": "-6.37460272"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "132",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28941",
+        "lon": "-6.37448"
+      }
+    },
+    {
+      "type": "Tram",
+      "stop": "Hospital",
+      "route": "Red",
+      "destination": "Connolly",
+      "provider": "LUAS",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28931333",
+        "lon": "-6.378925111"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "W2",
+      "destination": "Liffey Valley SC",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "SD4",
+      "destination": "Tallaght",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "27",
+      "destination": "Clare Hall",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "77A",
+      "destination": "Ringsend Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "F1",
+      "destination": "IKEA Ballymun",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "82",
+      "destination": "Sean Moore Rd",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Luas",
+      "route": "SD3",
+      "destination": "Bohernabreena",
+      "provider": "TFI Local Link Kildare South Dublin",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286672",
+        "lon": "-6.37505"
+      }
+    }
+  ]
+}

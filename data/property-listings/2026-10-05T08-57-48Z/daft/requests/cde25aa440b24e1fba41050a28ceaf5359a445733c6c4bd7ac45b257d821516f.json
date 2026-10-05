@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-taney-manor-dundrum-dublin-14/6650413",
+  "fetchedAt": "2026-10-05T09:13:33.239Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-taney-manor-dundrum-dublin-14/6650413",
+  "kind": "listing",
+  "responseSha256": "4bc8f4547e0d0468328ef5045869a45dae454892889a0564bb6be4d86a79e634",
+  "files": [
+    {
+      "path": "daft/00630-cde25aa440b24e1f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cb1ae7133294f58ccd2ead0c4429075ecd174796734003f5ee247661c7e7350a",
+      "bytes": 32875
+    },
+    {
+      "path": "daft/00630-cde25aa440b24e1f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "eb71c42882a52f1b982ecbab0d8d404dbcdbc5ffb8c745fb61af803ee31c4690",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-merchants-place-kilcullen-co-kildare/6664463",
+  "fetchedAt": "2026-10-05T09:21:56.351Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-merchants-place-kilcullen-co-kildare/6664463",
+  "kind": "listing",
+  "responseSha256": "c41d485b7f72357682587d2c3be3e55e7640260aa315cf92fb5564659e86428a",
+  "files": [
+    {
+      "path": "daft/00965-a7514d2c65f90add-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6029a58cccc000222a4f8770794734b05dce72f76c8abd8edfc5c10ce4eaab51",
+      "bytes": 32089
+    },
+    {
+      "path": "daft/00965-a7514d2c65f90add-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9f5cd6384a2bcd532407a111a777237901ca8586502a08f25f10e6a0c5502dc2",
+      "bytes": 8223
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

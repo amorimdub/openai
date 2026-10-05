@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/meadow-gate-marlton-road-wicklow-town-co-wicklow/6686211",
+  "fetchedAt": "2026-10-05T09:30:18.169Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/meadow-gate-marlton-road-wicklow-town-co-wicklow/6686211",
+  "kind": "listing",
+  "responseSha256": "6b3f2adbd8a15311376018a221a718b5ac0f8cef95e367170d79a0270d5a137a",
+  "files": [
+    {
+      "path": "daft/01299-e07dc5ad5e82ae52-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "910dea600c15c1d143cc522593b5ccdec58530a69e0d32b72a7a0c9a41279dea",
+      "bytes": 42451
+    },
+    {
+      "path": "daft/01299-e07dc5ad5e82ae52-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "994be47e19ad2451b74581adf6273e19b7092c327d9abcc421dd6736e7b9a745",
+      "bytes": 8159
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

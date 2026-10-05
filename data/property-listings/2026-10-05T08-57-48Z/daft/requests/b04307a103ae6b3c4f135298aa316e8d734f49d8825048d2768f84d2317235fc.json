@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/three-bed-house-cluain-glasan-cluain-glasan-grange-co-kilkenny/6683511",
+  "fetchedAt": "2026-10-05T09:02:53.457Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/three-bed-house-cluain-glasan-cluain-glasan-grange-co-kilkenny/6683511",
+  "kind": "listing",
+  "responseSha256": "909c287cba283c010079683adc2fe26a07c2d0b13d34dcf1d6a945c6f8266557",
+  "files": [
+    {
+      "path": "daft/00204-b04307a103ae6b3c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "003ee0728f8fa79c99d307f8fbe50cbbec79f8036a8928455927a6f914692389",
+      "bytes": 44838
+    },
+    {
+      "path": "daft/00204-b04307a103ae6b3c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "63b410e00c678cc0d1a3e5c55d260ed0389e0839181030dcdb753a6b63376c76",
+      "bytes": 8103
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

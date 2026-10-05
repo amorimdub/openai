@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=409",
+  "fetchedAt": "2026-10-05T13:45:23.168Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=409",
+  "kind": "search",
+  "responseSha256": "1dce86894707568e78fcb90c1aa864678d9501157ffc657bb0f6cb2b1e773308",
+  "files": [
+    {
+      "path": "myhome/08945-37bb3a7e79cc88ce-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=409\"].SearchResults",
+      "sha256": "424985a9216e80f9c4b7161ff4c62c413efc26a4f9336d948625e8a1df313708",
+      "bytes": 130549
+    },
+    {
+      "path": "myhome/08945-37bb3a7e79cc88ce-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=409\"] (paging fields)",
+      "sha256": "d747590320ab1bd097a5affde4ee3db353375f422714196127066a711799ebce",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/27-knockaverry-youghal-co-cork/5014239",
+    "https://www.myhome.ie/residential/brochure/4-phelan-street-carlow-rathvilly-co-carlow/5014235",
+    "https://www.myhome.ie/residential/brochure/16-monastery-avenue-blarney-road-hollyhill-cork-city-cork/5014196",
+    "https://www.myhome.ie/residential/brochure/97-rockfield-avenue-moneycarroll-newtownmountkennedy-co-wicklow/5014200",
+    "https://www.myhome.ie/residential/brochure/35-academy-square-academy-street-navan-meath/5014202",
+    "https://www.myhome.ie/residential/brochure/9-morton-hall-brews-hill-navan-meath/5014203",
+    "https://www.myhome.ie/residential/brochure/dromore-dromahane-mallow-cork/5000596",
+    "https://www.myhome.ie/residential/brochure/market-street-swinford-co-mayo/5014178",
+    "https://www.myhome.ie/residential/brochure/droughill-portarlington-laois/5014143",
+    "https://www.myhome.ie/residential/brochure/roney-point-ardamine-co-wexford/5014151",
+    "https://www.myhome.ie/residential/brochure/tomlane-oylegate-co-wexford/5014139",
+    "https://www.myhome.ie/residential/brochure/roslynagh-lodge-ardagh-newport-co-mayo/4958992",
+    "https://www.myhome.ie/residential/brochure/rough-park-ramelton-donegal/5014128",
+    "https://www.myhome.ie/residential/brochure/2-clonavon-curraheen-road-bishopstown-cork/5013633",
+    "https://www.myhome.ie/residential/brochure/derreenvaurrig-sneem-kerry/5014119",
+    "https://www.myhome.ie/residential/brochure/7-barrow-mews-centaur-street-carlow-town-carlow/5014124",
+    "https://www.myhome.ie/residential/brochure/tully-hall-tully-longford-longford/5013432",
+    "https://www.myhome.ie/residential/brochure/56-rockboro-heights-waterpark-carrigaline-cork/5007986",
+    "https://www.myhome.ie/residential/brochure/riverbrook-house-ballymore-eustace-co-kildare/5014093",
+    "https://www.myhome.ie/residential/brochure/marmion-walk-clane-co-kildare-3-bedroom-townhouse/4977786"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=410",
+  "paginationLimited": false
+}

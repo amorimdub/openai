@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/abbey-glen-by-havitat-johnstown-rd-cabinteely-co-dublin/6570610",
+  "fetchedAt": "2026-10-05T09:04:26.572Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/abbey-glen-by-havitat-johnstown-rd-cabinteely-co-dublin/6570610",
+  "kind": "listing",
+  "responseSha256": "a11d5bafa45d178224e80439267d4367cf4cef7eae1fe2d2228b7d581cb4e803",
+  "files": [
+    {
+      "path": "daft/00266-50d32cfdbb13d917-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "343e6e6aa6982d0ee5fef8e8a1c1ffa7b55715bcb28064ce1ef0cb6b11f65e0b",
+      "bytes": 106853
+    },
+    {
+      "path": "daft/00266-50d32cfdbb13d917-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ba714ec5f6bcf817c770a4dd56f6b6402178335a8930ac4528a1ea1268365b50",
+      "bytes": 8243
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

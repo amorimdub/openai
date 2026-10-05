@@ -1,0 +1,765 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "park lodge north circular road dublin 7",
+    "GroupId": 7008,
+    "Address": "Park Lodge",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 0,
+    "MaxSize": 0,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [],
+    "Similar": [
+      {
+        "PriceAsString": "€2,050 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "75",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4941809,
+        "DisplayAddress": "Park Lodge, North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "ace441c7-69c2-4563-9b55-e122f5f61549",
+              "Filename": "6043a2a0-75a8-4275-8797-04f772ba983e.jpg",
+              "Caption": "https://assets.reapit.net/hom/live/pictures/SLS/25/SLS250573_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "934bfd9044144b4c936f2ae6a00beb09",
+          "OriginalImagesSuffix": "934bf",
+          "MainPhoto": {
+            "Identifier": "ace441c7-69c2-4563-9b55-e122f5f61549",
+            "Filename": "6043a2a0-75a8-4275-8797-04f772ba983e.jpg",
+            "Caption": "https://assets.reapit.net/hom/live/pictures/SLS/25/SLS250573_01.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/0/8/4941809/6043a2a0-75a8-4275-8797-04f772ba983e_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,600 / month",
+        "PropertyClassId": 3,
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4982259,
+        "DisplayAddress": "North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "627b4284-c3dd-4416-b56b-d1a20e623899",
+              "Filename": "53971839-6046-4573-8868-f0d6615b99d1.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-18-at-14.24.17-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6ec03a0e-3fd9-4996-bec6-5323812e213e",
+              "Filename": "ba744736-5017-480f-b702-acef089521b9.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.55.20-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e4ad22df-aac9-4143-8afd-d934bd0cc918",
+              "Filename": "4149f4d5-7d99-4990-9f37-e776a1b6c618.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.59.50-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "82fa9c58-24a8-4c3c-a1b1-99dc3a43d39a",
+              "Filename": "d833097b-970d-433f-93ea-6908710dd5d1.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.59.49-2.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "61db32df-7f67-4cf1-892d-30866ef1bf3f",
+              "Filename": "f47cbbc2-3a74-4774-99c4-2fbf2a55f459.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.59.49-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e7eeb1ff-5283-4547-97ea-0607215463a2",
+              "Filename": "060d3b93-a4e7-4ea0-9460-c400d4d3b6b8.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-13-at-12.59.49-4.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "42e17afa01b2485f9197d6a984521a79",
+          "OriginalImagesSuffix": "42e17",
+          "MainPhoto": {
+            "Identifier": "627b4284-c3dd-4416-b56b-d1a20e623899",
+            "Filename": "53971839-6046-4573-8868-f0d6615b99d1.jpeg",
+            "Caption": "https://raycooke.ie/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-18-at-14.24.17-1.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/5/2/4982259/53971839-6046-4573-8868-f0d6615b99d1_l.jpeg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,550 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "0",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4984635,
+        "DisplayAddress": "Park Lodge, North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "1efcb33f-e54c-43e1-9cf7-6ee0715cefbf",
+              "Filename": "77ea8598-18dd-483f-bd85-1f2dc2871aad.jpg",
+              "Caption": "https://assets.reapit.net/hom/live/pictures/SLS/26/SLS260260_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "eb1fa8514d3843778a6ad4e74e23addc",
+          "OriginalImagesSuffix": "eb1fa",
+          "MainPhoto": {
+            "Identifier": "1efcb33f-e54c-43e1-9cf7-6ee0715cefbf",
+            "Filename": "77ea8598-18dd-483f-bd85-1f2dc2871aad.jpg",
+            "Caption": "https://assets.reapit.net/hom/live/pictures/SLS/26/SLS260260_01.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,700 / month",
+        "PropertyClassId": 3,
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4990404,
+        "DisplayAddress": "Apartment 8, 205 North Circular Road, North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/EXEMPT.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "60d824bd-3d90-4460-be6d-cd7e1e1972b1",
+              "Filename": "1a9b10d7-5c32-4935-afea-b297c76b90e6.jpg",
+              "Caption": "IMG_8091.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0425f07c-4232-4830-ad84-fcb701501413",
+              "Filename": "c9eef9e7-7d72-4b19-872c-e97e2c9ed87c.jpg",
+              "Caption": "IMG_8093.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6233a216-ffa5-4dee-a0b9-a8c1ec932039",
+              "Filename": "3a625467-e727-4772-88dd-a17ce637f038.jpg",
+              "Caption": "IMG_8129.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "e8ffeeb5bc3042e8b92f52ff931e2ad0",
+          "OriginalImagesSuffix": "e8ffe",
+          "MainPhoto": {
+            "Identifier": "60d824bd-3d90-4460-be6d-cd7e1e1972b1",
+            "Filename": "1a9b10d7-5c32-4935-afea-b297c76b90e6.jpg",
+            "Caption": "IMG_8091.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/4/0/4/4990404/1a9b10d7-5c32-4935-afea-b297c76b90e6_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,550 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "0",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4990434,
+        "DisplayAddress": "Park Lodge, North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "8bfdfd60-3064-4cce-b17c-adf9574f3e40",
+              "Filename": "223bb210-59b7-4dd0-8275-0edc409b5cf1.jpg",
+              "Caption": "https://assets.reapit.net/hom/live/pictures/SLS/26/SLS260260_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "6c2a528419c3419b9b3c2703b749f97e",
+          "OriginalImagesSuffix": "6c2a5",
+          "MainPhoto": {
+            "Identifier": "8bfdfd60-3064-4cce-b17c-adf9574f3e40",
+            "Filename": "223bb210-59b7-4dd0-8275-0edc409b5cf1.jpg",
+            "Caption": "https://assets.reapit.net/hom/live/pictures/SLS/26/SLS260260_01.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/4/3/4/4990434/223bb210-59b7-4dd0-8275-0edc409b5cf1_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,700 / month",
+        "PropertyClassId": 3,
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4991313,
+        "DisplayAddress": "North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "064641c6-0b43-4355-8d8d-7ee0437b2977",
+              "Filename": "d8696eac-b62b-4ef4-b21b-b63fe0916174.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/front-2.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "45c89da5-675c-4af4-bdae-9610b854d857",
+              "Filename": "1037156b-e077-47d4-b5bc-e7e32441a9bb.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.19-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "82f794bb-74a8-439f-adef-5f2774b569eb",
+              "Filename": "3f2be56f-8592-47ec-8dad-4ac5c983d41f.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.20-2.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4da3aca8-e700-4369-8720-b5116de6615c",
+              "Filename": "804951cd-41db-494d-8f88-d0c45a775101.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.20-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e274c896-d6c2-44b8-b784-2e94a7438b8d",
+              "Filename": "f8b7edf6-67df-4843-a93d-8df540e86b0d.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.20-4.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "268f74f3-c537-44c3-90b0-8f752ae59e57",
+              "Filename": "c9ab4ba3-11eb-4145-bc5f-0d91dd867d94.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.19.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0da5b3ca-7b32-4100-95a4-95af4e56c2dc",
+              "Filename": "83160938-c4a1-4e78-a04d-65751b80f558.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.20-5.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "07d971dd-5e50-42d4-8e9e-3b1886f2e1dc",
+              "Filename": "4bc7f5dd-3992-4d10-9133-48b83c89c391.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.05.20-3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "7dd9a72ee76b45c1b50841225797c243",
+          "OriginalImagesSuffix": "7dd9a",
+          "MainPhoto": {
+            "Identifier": "064641c6-0b43-4355-8d8d-7ee0437b2977",
+            "Filename": "d8696eac-b62b-4ef4-b21b-b63fe0916174.jpeg",
+            "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/front-2.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/3/4991313/d8696eac-b62b-4ef4-b21b-b63fe0916174_l.jpeg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,700 / month",
+        "PropertyClassId": 3,
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4991315,
+        "DisplayAddress": "North Circular Road, Dublin 7",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "4574e382-59d8-4047-9e0d-3d05ea1dcf72",
+              "Filename": "d22a63bc-3fbb-4bd4-bbbe-29f110d3494f.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/front-3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "147de26d-329a-412b-a33e-82e63b9ba27f",
+              "Filename": "43a4e5e5-6d85-424d-925d-f2e3df595d31.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.13.04.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "13907ccc-aeaa-4613-98a6-2e0c81dd87dc",
+              "Filename": "a5d6cfa3-8781-4f32-85de-8d1968ef2a02.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.13.03-2.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5fa76f51-ae52-4517-97cf-444fec0576f2",
+              "Filename": "7a6c857b-d387-4a07-afa1-f5fdcb7a9380.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.13.03-1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7c78e245-a2ea-46c4-846e-5c01fdb09982",
+              "Filename": "179420be-d50c-4b9e-bf5e-213afc269a02.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.13.03-3.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "da29b0db-8265-41d3-b6df-6a7951584640",
+              "Filename": "f29069b7-de84-4f1f-9fae-ea6004bb483d.jpeg",
+              "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/WhatsApp-Image-2026-02-17-at-14.13.03-4.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "32becb88522d4f03867b1cb87f4f1d05",
+          "OriginalImagesSuffix": "32bec",
+          "MainPhoto": {
+            "Identifier": "4574e382-59d8-4047-9e0d-3d05ea1dcf72",
+            "Filename": "d22a63bc-3fbb-4bd4-bbbe-29f110d3494f.jpeg",
+            "Caption": "https://raycooke.ie/wp-content/uploads/2026/04/front-3.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/5/1/3/4991315/d22a63bc-3fbb-4bd4-bbbe-29f110d3494f_l.jpeg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "\n2 Bedroom Apartment on North Circular Road\n\nHooke & MacDonald are delighted to present Park Lodge to the rental market. \n\nThe property offers spacious living with a bright and airy atmosphere. All bedrooms are generously sized and provide storage. \n\nPark lodge is situated in a highly sought-after area of Dublin 7, just a stone's throw from the stunning Phoenix Park, offering residents easy access to vast green spaces for outdoor activities. \n\nThe property is also within walking distance of a variety of shops, cafes, and restaurants, while excellent transport links are nearby, including numerous bus routes and the Luas Red Line."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "\n"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C1\nBER No: 104830955\nEnergy Performance Indicator: 160.78"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Nikola Chmura"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 0,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-02-27T12:10:16.7930000+00:00",
+    "ModifiedOnDate": "2026-02-27T12:10:47.3600000+00:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-02-27T12:10:16.7930000+00:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,550 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 4984635,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 0,
+    "DisplayAddress": "Park Lodge, North Circular Road, Dublin 7",
+    "Eircode": "DUBLIN7",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1448,
+    "RegionName": "Dublin 1",
+    "LocalityId": 1347,
+    "LocalityName": "North Circular Road",
+    "Price": {
+      "MinRentalPrice": 2550,
+      "Period": "Monthly",
+      "ShowPrice": true,
+      "MinMonthlyRentalPrice": 2550
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/3/6/4984635/77ea8598-18dd-483f-bd85-1f2dc2871aad_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.268998,
+      "latitude": 53.361061
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 1,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 7008,
+    "Name": "Hooke & MacDonald",
+    "DisplayPhone": "01 631 8402",
+    "Email": "myhome@hookemacdonald.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "hooke-macdonald",
+    "SeoName": "hooke-macdonald",
+    "Address": "118 Lower Baggot Street, Dublin City Centre, Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/0/0/7008/logo.jpg",
+    "SalesLicense": "001651",
+    "RentalLicense": "001651",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "north-circular-road/1347",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 4999780,
+      "PropertyClassId": 2,
+      "DisplayAddress": "The Poplars Development, Shankhill, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/8/7/4999780/5ef485dc-503f-4501-ab5d-6e4a15c05ea6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-poplars-development-shankhill-dublin-18/4999780"
+    },
+    {
+      "PropertyId": 4998899,
+      "PropertyClassId": 2,
+      "DisplayAddress": "Baggotrath House Gardens, Newbridge Avenue, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/9/8/4998899/b646202e-141b-4b1d-97a1-54e165b2b122_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/baggotrath-house-gardens-newbridge-avenue-dublin-4/4998899"
+    },
+    {
+      "PropertyId": 4982267,
+      "PropertyClassId": 2,
+      "DisplayAddress": "Beaufield Mews Development, Woodlands Avenue, Stillorgan, Co. Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/6/2/4982267/4588952e-9f0d-465a-950c-d632c3253d48_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/beaufield-mews-development-woodlands-avenue-stillorgan-co-dublin/4982267"
+    },
+    {
+      "PropertyId": 5000295,
+      "PropertyClassId": 1,
+      "DisplayAddress": "168 Castlemoyne, Dublin 13",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/2/5000295/07a9be9f-be9d-4f5b-ac9f-ec0177ee8a60_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/168-castlemoyne-dublin-13/5000295"
+    },
+    {
+      "PropertyId": 4999796,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Poplars, Shankhill, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/7/4999796/503b7f9f-900a-4fe8-9067-1a3db5f3d9df_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-poplars-shankhill-dublin-18/4999796"
+    },
+    {
+      "PropertyId": 4999785,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Poplars, Shankhill, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/7/4999785/d48f3f59-0188-431b-9f65-edde8963caf2_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-poplars-shankhill-dublin-18/4999785"
+    },
+    {
+      "PropertyId": 4999783,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Poplars, Shankhill, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/8/7/4999783/35839fa3-3116-4b66-a394-12f31e674c40_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-poplars-shankhill-dublin-18/4999783"
+    },
+    {
+      "PropertyId": 4999781,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Poplars, Shankhill, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/8/7/4999781/d9ffb788-5d22-4361-9c47-1ea5c527fc11_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-poplars-shankhill-dublin-18/4999781"
+    },
+    {
+      "PropertyId": 4999574,
+      "PropertyClassId": 1,
+      "DisplayAddress": "20 Lock-Keepers Walk, Royal Canal Park, Dublin 15",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/7/5/4999574/016588df-3741-44cd-b057-c967b4393893_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/20-lock-keepers-walk-royal-canal-park-dublin-15/4999574"
+    },
+    {
+      "PropertyId": 4999054,
+      "PropertyClassId": 1,
+      "DisplayAddress": "3 Grange Oaks Avenue, Kilternan, Co. Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/5/0/4999054/9010e92e-b13e-4aeb-8ca9-c4c55a82e8af_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/3-grange-oaks-avenue-kilternan-co-dublin/4999054"
+    },
+    {
+      "PropertyId": 4998902,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Baggotrath House Gardens, Newbridge Avenue, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/0/9/4998902/d9588549-b4b1-40da-819b-34729951c271_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/baggotrath-house-gardens-newbridge-avenue-dublin-4/4998902"
+    },
+    {
+      "PropertyId": 4998900,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Baggotrath House Gardens, Newbridge Avenue, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/0/9/4998900/2f072748-246d-4588-a461-b9f9c91aac18_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/baggotrath-house-gardens-newbridge-avenue-dublin-4/4998900"
+    },
+    {
+      "PropertyId": 4998898,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Baggotrath House Gardens, Newbridge Avenue, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/8/4998898/ac7bb41e-15ca-4b71-b46f-f9564ceda8bd_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/baggotrath-house-gardens-newbridge-avenue-dublin-4/4998898"
+    },
+    {
+      "PropertyId": 4998843,
+      "PropertyClassId": 1,
+      "DisplayAddress": "89 The Ramparts, Willow Avenue, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/4/8/4998843/6fcf8d87-267f-48d2-8762-00871a46de5d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/89-the-ramparts-willow-avenue-dublin-18/4998843"
+    },
+    {
+      "PropertyId": 4998753,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballycomyn, Blessington, Co. Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/5/7/4998753/57e9eab9-9580-4745-b3f9-4e09261732ef_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballycomyn-blessington-co-wicklow/4998753"
+    },
+    {
+      "PropertyId": 4998752,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballycomyn, Blessington, Co. Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/5/7/4998752/a31f0042-8250-4e32-9bbb-bada78c14571_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballycomyn-blessington-co-wicklow/4998752"
+    },
+    {
+      "PropertyId": 4998751,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballycomyn, Blessington, Co. Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/5/7/4998751/75cd874f-f764-49f2-a9e3-60eb06f6ee36_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballycomyn-blessington-co-wicklow/4998751"
+    },
+    {
+      "PropertyId": 4998088,
+      "PropertyClassId": 1,
+      "DisplayAddress": "12 Yeats Hall, Carrickmines Avenue, Carrickmines Wood, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/8/0/4998088/be2e997c-d7b4-4ff1-ad08-f5d2444dd970_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/12-yeats-hall-carrickmines-avenue-carrickmines-wood-dublin-18/4998088"
+    },
+    {
+      "PropertyId": 4997997,
+      "PropertyClassId": 1,
+      "DisplayAddress": "45 Sika Woods, Enniskerry, Co. Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/9/9/4997997/6064e477-245d-46be-9379-8cd1673425ce_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/45-sika-woods-enniskerry-co-wicklow/4997997"
+    },
+    {
+      "PropertyId": 4997755,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Oakfield Close, Enniskerry, Co. Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/5/7/4997755/9a008651-362d-4c34-a247-577305b999c5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/oakfield-close-enniskerry-co-wicklow/4997755"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/park-lodge-north-circular-road-dublin-7/4984635",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 7008,
+    "MYH_LocalityID": 1347,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1448,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [],
+    "MYH_PropertyFeatureIDListString": "",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 90,
+    "MYH_MinSize": 0,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4984635,
+    "MYH_PropertyTypeID": 74
+  }
+}

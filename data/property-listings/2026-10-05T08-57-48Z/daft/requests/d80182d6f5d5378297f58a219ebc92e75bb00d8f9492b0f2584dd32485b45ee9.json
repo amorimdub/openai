@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/14-renville-court-oranmore-oranmore-co-galway/6686181",
+  "fetchedAt": "2026-10-05T09:30:27.176Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/duplex-apartment-14-renville-court-oranmore-oranmore-co-galway/6686181",
+  "kind": "listing",
+  "responseSha256": "8f280140bab8c059f9a48575e5045b04af8ee32f2893a7487279bdd7cf05a5e4",
+  "files": [
+    {
+      "path": "daft/01305-d80182d6f5d53782-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4b562618395d35c58857cfb2f81fc77090a967b211a7c49abd760fc265d4a72f",
+      "bytes": 19158
+    },
+    {
+      "path": "daft/01305-d80182d6f5d53782-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "17909b0ea66f74a588ce0bca403221d09eed6fd03ba4709c3e21bd8664671666",
+      "bytes": 8031
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

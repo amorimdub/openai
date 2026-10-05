@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/oak-lawn-castleknock-castleknock-dublin-15/6683537",
+  "fetchedAt": "2026-10-05T09:48:58.674Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/oak-lawn-castleknock-castleknock-dublin-15/6683537",
+  "kind": "listing",
+  "responseSha256": "c511c653a5bbeb21ecb83a096e808b3d2cb129be3731b92c2189362b4a73db68",
+  "files": [
+    {
+      "path": "daft/02045-197b7f210e39f445-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0538c8c4d16abaf21bb4841bc2890d121cf735944878420d5e840a0290f6fdba",
+      "bytes": 60782
+    },
+    {
+      "path": "daft/02045-197b7f210e39f445-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9c583b6e1d912aec2d105515d1a07db1001b5dae9effc9b06f7bcc34eb3513e2",
+      "bytes": 8115
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

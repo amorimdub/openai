@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/13-court-mews-bridge-street-tullow-co-carlow/6686497",
+  "fetchedAt": "2026-10-05T09:28:19.467Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/13-court-mews-bridge-street-tullow-co-carlow/6686497",
+  "kind": "listing",
+  "responseSha256": "9737a76ee2d46060c23f5eb9399c4577e34099a74e577a637dcdfa9d5191588a",
+  "files": [
+    {
+      "path": "daft/01220-54b5ba48236e0ba9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d1e355ac6ca89ae6602e7e2ec9a284f35b4928ff5f5e373558105c41f8e1cb69",
+      "bytes": 22136
+    },
+    {
+      "path": "daft/01220-54b5ba48236e0ba9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "42e2d8b64fe3fa1222a09466ee9128e6be34396778df0061053b81311ee38c7c",
+      "bytes": 8110
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/skeagh-skibbereen-co-cork/6686976",
+  "fetchedAt": "2026-10-05T09:15:31.936Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/skeagh-skibbereen-co-cork/6686976",
+  "kind": "listing",
+  "responseSha256": "ac9a8bfe92fa424c17089a968665ccb3de57e4018c532217a2edba4b37e8ef79",
+  "files": [
+    {
+      "path": "daft/00709-44cf09c6c09cd3fe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f2ba3a079325195d3cded42f1c679097ba2adf74ec3e62fda88c88dd6589b722",
+      "bytes": 13438
+    },
+    {
+      "path": "daft/00709-44cf09c6c09cd3fe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "179c40db606110521ea3553ed69211d7bcf75f55ee20aeaa9f36a1eb470e990e",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

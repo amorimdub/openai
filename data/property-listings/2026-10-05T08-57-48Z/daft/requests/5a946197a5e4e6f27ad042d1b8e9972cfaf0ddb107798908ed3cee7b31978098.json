@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/glenmalure-pines-ballintombay-lower-ballinderry-co-wicklow/6686235",
+  "fetchedAt": "2026-10-05T09:30:13.664Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/glenmalure-pines-ballintombay-lower-ballinderry-co-wicklow/6686235",
+  "kind": "listing",
+  "responseSha256": "4ce5df7973b704edbf502165841eecd0df829e526987ad42b49283b9dbcb4cd2",
+  "files": [
+    {
+      "path": "daft/01296-5a946197a5e4e6f2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "12a48757cfbfc1f3fe4a18ab453c1fd301b5aee7b21afd2aecf0f330531aad13",
+      "bytes": 37830
+    },
+    {
+      "path": "daft/01296-5a946197a5e4e6f2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9b19ef833e78e24e9b23b0554d5e852371ea0e637bd576fab6683d4a59f341a3",
+      "bytes": 8207
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

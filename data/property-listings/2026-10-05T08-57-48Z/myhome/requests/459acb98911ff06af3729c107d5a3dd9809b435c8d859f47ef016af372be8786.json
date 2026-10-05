@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=113",
+  "fetchedAt": "2026-10-05T11:12:03.909Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=113",
+  "kind": "search",
+  "responseSha256": "68991f8c5b767077c2d34486b870070fd900112f04946bbab52fe02adabd5a5e",
+  "files": [
+    {
+      "path": "myhome/02849-459acb98911ff06a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=113\"].SearchResults",
+      "sha256": "fbd3a1279618eaf1926e9f172ee334b33e36da2bb071f11d008e48ba9291dbc7",
+      "bytes": 112952
+    },
+    {
+      "path": "myhome/02849-459acb98911ff06a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=113\"] (paging fields)",
+      "sha256": "cf4dc3f732e62062d1857622e01d6240e75cd60a69710003eded551295a2ec55",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-6-aston-abbey-10-aston-quay-temple-bar-dublin-2/5029979",
+    "https://www.myhome.ie/residential/brochure/2-ballygarth-manor-julianstown-co-meath/5029988",
+    "https://www.myhome.ie/residential/brochure/19-ashington-glanmire-cork/5027202",
+    "https://www.myhome.ie/residential/brochure/10-dun-saithne-green-balbriggan-dublin/5029723",
+    "https://www.myhome.ie/residential/brochure/8-woodlawn-house-woodlawn-park-dun-laoghaire-co-dublin/5029985",
+    "https://www.myhome.ie/residential/brochure/block-e-231-castleforbes-square-ifsc-dublin-1/5029981",
+    "https://www.myhome.ie/residential/brochure/college-view-mountmellick-laois/5029977",
+    "https://www.myhome.ie/residential/brochure/9-sundale-parade-tallaght-dublin-24/5019846",
+    "https://www.myhome.ie/residential/brochure/239-crodaun-forest-park-celbridge-co-kildare/5029978",
+    "https://www.myhome.ie/residential/brochure/28-belgium-park-monaghan-town/5029975",
+    "https://www.myhome.ie/residential/brochure/site-with-full-pp-at-37-churchtown-road-lower-churchtown-dublin-14/5029972",
+    "https://www.myhome.ie/residential/brochure/34-kingsbridge-south-douglas-road-cork/5022059",
+    "https://www.myhome.ie/residential/brochure/11-the-moorings-marina-village-greystones-co-wicklow/5018845",
+    "https://www.myhome.ie/residential/brochure/trenarran-nuns-walk-the-lough-cork-the-lough-cork/5029964",
+    "https://www.myhome.ie/residential/brochure/70-fernhill-arklow-wicklow/4997276",
+    "https://www.myhome.ie/residential/brochure/28-ard-caoin-cashel-road-clonmel-tipperary/5029969",
+    "https://www.myhome.ie/residential/brochure/120-raheny-road-raheny-dublin-5/5029966",
+    "https://www.myhome.ie/residential/brochure/demailestown-wilkinstown-co-meath/5029965",
+    "https://www.myhome.ie/residential/brochure/143-stannaway-road-crumlin-dublin-12/5015264",
+    "https://www.myhome.ie/residential/brochure/the-alder-stonehaven-blessington-road-naas-kildare/5029706"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=114",
+  "paginationLimited": false
+}

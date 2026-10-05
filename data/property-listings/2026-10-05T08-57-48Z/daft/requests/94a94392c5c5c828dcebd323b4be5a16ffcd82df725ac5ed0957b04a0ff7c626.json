@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/castleview-drive-swords-swords-co-dublin/6685175",
+  "fetchedAt": "2026-10-05T09:37:33.628Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/castleview-drive-swords-swords-co-dublin/6685175",
+  "kind": "listing",
+  "responseSha256": "2b4897f5fd6d5fdc4810ca8c9353b362daab0507889efec983e3a82a574d66fe",
+  "files": [
+    {
+      "path": "daft/01589-94a94392c5c5c828-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1ab87211e25d6309f1e2c16fd3fee71878fe72c9a50ef88839773170f8ee2d2c",
+      "bytes": 45572
+    },
+    {
+      "path": "daft/01589-94a94392c5c5c828-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4e507a2d767e54c3d06b1388d22dc5d446c0c931f0ba32a31ff2bba22e6bd0ae",
+      "bytes": 8144
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

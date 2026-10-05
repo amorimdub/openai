@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/francis-street-dundalk-co-louth-dundalk-co-louth/6673050",
+  "fetchedAt": "2026-10-05T09:13:25.728Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/francis-street-dundalk-co-louth-dundalk-co-louth/6673050",
+  "kind": "listing",
+  "responseSha256": "b1c27895f04c902a0b30d3127f2526d54e531786c82220020136e76c61a0c097",
+  "files": [
+    {
+      "path": "daft/00625-3f512d4170167cd0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8eb3eb964e590ed2f7157933f690d935e0d2b750391318ccf28e0c361e25a181",
+      "bytes": 15036
+    },
+    {
+      "path": "daft/00625-3f512d4170167cd0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

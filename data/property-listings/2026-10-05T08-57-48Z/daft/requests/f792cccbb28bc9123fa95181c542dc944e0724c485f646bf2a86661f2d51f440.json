@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/swiss-cottage-by-havitat-santry-santry-co-dublin/6615495",
+  "fetchedAt": "2026-10-05T09:03:28.003Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/swiss-cottage-by-havitat-santry-santry-co-dublin/6615495",
+  "kind": "listing",
+  "responseSha256": "fc58879bc671ddfc21ceba93d72e9f2b518efdc7b871a97c331ae2b9e3da8c78",
+  "files": [
+    {
+      "path": "daft/00227-f792cccbb28bc912-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "727e4f16dbb18217ce99540e4f7b200fab67215ac2d5f976eb68dcd90fe49f1c",
+      "bytes": 193004
+    },
+    {
+      "path": "daft/00227-f792cccbb28bc912-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "26d495f75ff41337400821df4d80cb2fd89ac9b5cab8bdb6ae262915b6f4b04a",
+      "bytes": 8047
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

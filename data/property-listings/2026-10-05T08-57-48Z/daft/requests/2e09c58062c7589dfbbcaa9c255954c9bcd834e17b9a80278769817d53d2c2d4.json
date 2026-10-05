@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rosevale-apartments-raheny-dublin-5/6682867",
+  "fetchedAt": "2026-10-05T09:52:01.981Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rosevale-apartments-raheny-dublin-5/6682867",
+  "kind": "listing",
+  "responseSha256": "c5af564b287378b27f63dc978a9fb0e05a3f0d29e0747b1ab4e4a4c66559c2d3",
+  "files": [
+    {
+      "path": "daft/02167-2e09c58062c7589d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ce4ab850967c3b3c067faf8ed57e59e457ea9ea6ea81d27affa78cde11f4af4a",
+      "bytes": 28076
+    },
+    {
+      "path": "daft/02167-2e09c58062c7589d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3482161d812e676196a8295b73f3d636691ce2463d95f8b045d58b09d6ae77f",
+      "bytes": 8084
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

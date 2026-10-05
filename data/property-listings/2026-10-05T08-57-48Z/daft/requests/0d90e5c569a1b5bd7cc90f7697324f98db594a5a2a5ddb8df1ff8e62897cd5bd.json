@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/two-bed-18-newmarket-square-dublin-city-centre-dublin-8/6312232",
+  "fetchedAt": "2026-10-05T08:59:30.295Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/two-bed-18-newmarket-square-dublin-city-centre-dublin-8/6312232",
+  "kind": "listing",
+  "responseSha256": "c3b47d3fdb9d747d5a9eb2c3a8f059bf9b907bab7ae029b7ba6d3556fa08e671",
+  "files": [
+    {
+      "path": "daft/00069-0d90e5c569a1b5bd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6fb9d9358ee138c2d390354319c2c8dd15719fc194958d80a7b0da2ab7923c2c",
+      "bytes": 42529
+    },
+    {
+      "path": "daft/00069-0d90e5c569a1b5bd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f77914467ee77f37e5847ec28e3e8e2740c2c8393a4679145519add2eb281e2d",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

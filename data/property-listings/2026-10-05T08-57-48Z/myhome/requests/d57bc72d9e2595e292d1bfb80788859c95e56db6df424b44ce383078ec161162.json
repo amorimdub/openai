@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=161",
+  "fetchedAt": "2026-10-05T11:37:27.971Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=161",
+  "kind": "search",
+  "responseSha256": "dda977ab8536e4720f5876ac40b90c043984355a6fcb352ca31252a4415cc239",
+  "files": [
+    {
+      "path": "myhome/03844-d57bc72d9e2595e2-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=161\"].SearchResults",
+      "sha256": "c2e2e0ef0ef9506df3f609a9e414c6f3c5901d1e903311b33903b45172712f66",
+      "bytes": 108264
+    },
+    {
+      "path": "myhome/03844-d57bc72d9e2595e2-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=161\"] (paging fields)",
+      "sha256": "f225441c0774d2301fc5ff06a61810adc5a4914bead5831ca07ac07ff61e3d5e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/61-college-hill-mullingar-co-westmeath/5028694",
+    "https://www.myhome.ie/residential/brochure/73-turvey-woods-donabate-county-dublin/5028692",
+    "https://www.myhome.ie/residential/brochure/81-meadowlands-estate-oakpark-tralee-kerry/5026222",
+    "https://www.myhome.ie/residential/brochure/6-the-clipper-avila-convent-garden-kinsale-cork/4994972",
+    "https://www.myhome.ie/residential/brochure/c-1-acre-site-at-bawnlusk-cuffesgrange-co-kilkenny/5028690",
+    "https://www.myhome.ie/residential/brochure/2-milesian-grove-swords-county-dublin/5021680",
+    "https://www.myhome.ie/residential/brochure/80-madeira-wood-enniscorthy-wexford/5028689",
+    "https://www.myhome.ie/residential/brochure/8-stone-court-trafalgar-hill-cork-city-cork/5028349",
+    "https://www.myhome.ie/residential/brochure/26-lambay-view-rush-county-dublin/5026590",
+    "https://www.myhome.ie/residential/brochure/doon-39-kingston-road-kingston-galway/5028688",
+    "https://www.myhome.ie/residential/brochure/3-the-field-barndarrig-kilbride-wicklow/5028675",
+    "https://www.myhome.ie/residential/brochure/35-watermill-road-raheny-dublin-5/5007066",
+    "https://www.myhome.ie/residential/brochure/15-grangemore-avenue-donaghmede-dublin-13/5021924",
+    "https://www.myhome.ie/residential/brochure/6-river-walk-malahide-road-balgriffin-dublin-17/5024970",
+    "https://www.myhome.ie/residential/brochure/apt-103-block-1-the-watermill-raheny-dublin-5/5018961",
+    "https://www.myhome.ie/residential/brochure/creaghadoos-st-johnston-co-donegal/5028686",
+    "https://www.myhome.ie/residential/brochure/roseville-mullingar-road-castlepollard-co-westmeath/5028683",
+    "https://www.myhome.ie/residential/brochure/73-merchants-rd-east-wall-dublin-3/5028587",
+    "https://www.myhome.ie/residential/brochure/7-oak-drive-royal-oak-santry-dublin-9/5028681",
+    "https://www.myhome.ie/residential/brochure/ballyhooly-lodge-castle-tavern-ballyhooly-cork/5028618"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=162",
+  "paginationLimited": false
+}

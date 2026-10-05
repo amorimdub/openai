@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/short-let-long-lane-dublin-8-portobello-dublin-8/6673995",
+  "fetchedAt": "2026-10-05T09:11:06.019Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/short-let-long-lane-dublin-8-portobello-dublin-8/6673995",
+  "kind": "listing",
+  "responseSha256": "16be9d4a8520e0aca0a1211da169213c050d22b03226122e41c956f86208afcb",
+  "files": [
+    {
+      "path": "daft/00532-5091dbe884fc4bfb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "62d3752f20226edebb128ae7cfd3ceafc99658c328c56e63fbedd4b8ed51cff1",
+      "bytes": 18040
+    },
+    {
+      "path": "daft/00532-5091dbe884fc4bfb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

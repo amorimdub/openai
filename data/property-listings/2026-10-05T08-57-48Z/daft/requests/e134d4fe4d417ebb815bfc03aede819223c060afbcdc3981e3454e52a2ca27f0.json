@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/st-marnocks-bay-portmarnock-portmarnock-co-dublin/3655792",
+  "fetchedAt": "2026-10-05T09:07:11.758Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/st-marnocks-bay-portmarnock-portmarnock-co-dublin/3655792",
+  "kind": "listing",
+  "responseSha256": "1898b2d9e95dbdda68e724b1af6e54b176f87e08d398f02a03026309de385587",
+  "files": [
+    {
+      "path": "daft/00376-e134d4fe4d417ebb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a52bc1921d3446f8f6550aef2407be97878b27eddf850755a8620f013d777028",
+      "bytes": 135046
+    },
+    {
+      "path": "daft/00376-e134d4fe4d417ebb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "40d2acba28ac62da78e0cd7e54868feb67cd4bc226ee99055ddd4ba5c8701d39",
+      "bytes": 8196
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

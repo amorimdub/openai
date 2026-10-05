@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/hazelwood-student-village-north-wood-santry-santry-co-dublin/2626696",
+  "fetchedAt": "2026-10-05T09:10:05.953Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/hazelwood-student-village-north-wood-santry-santry-co-dublin/2626696",
+  "kind": "listing",
+  "responseSha256": "c6e83746282d7eef29700c2f4cae6b735dbdea5873a905d992cedab068eb51aa",
+  "files": [
+    {
+      "path": "daft/00492-c8d4773965a27a49-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5479172782d09dab0d00aa117961318bd018c2ec342440251dc3daa2d7c9c21a",
+      "bytes": 97122
+    },
+    {
+      "path": "daft/00492-c8d4773965a27a49-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "75c18ab1f9d947fabf3a229e3b36a418e476cb0770a61e3ebe4664e4afd96dba",
+      "bytes": 8152
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

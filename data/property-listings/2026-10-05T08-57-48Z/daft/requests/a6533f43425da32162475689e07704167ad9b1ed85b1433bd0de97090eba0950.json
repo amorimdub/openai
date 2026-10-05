@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/35-cherryfield-avenue-lower-ranelagh-dublin-6/6611389",
+  "fetchedAt": "2026-10-05T09:39:02.224Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/35-cherryfield-avenue-lower-ranelagh-dublin-6/6611389",
+  "kind": "listing",
+  "responseSha256": "e065311d2f16a702580679c4c1c6e1293c40b8d007d84c39a4155aa9ef0091be",
+  "files": [
+    {
+      "path": "daft/01648-a6533f43425da321-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "7e6a82e3e871fbe6e5135832fc25ebd8bf510f3b32798dac28e0605a3f4633da",
+      "bytes": 39501
+    },
+    {
+      "path": "daft/01648-a6533f43425da321-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "28ebf9471957c9b5b4e45fdb926e625166e3bbb4dc9a24a91bb355ec8c80022b",
+      "bytes": 8018
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,1015 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "grange edenderry kildare",
+    "GroupId": 389320,
+    "Address": "Grange",
+    "Photos": [],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 120,
+    "MaxSize": 120,
+    "BerRating": "Exempt",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 21,
+        "Name": "Half Furnished",
+        "CreatedOn": "2018-09-11T10:18:50.7330000+01:00",
+        "IconName": "myh-icon-half-furnished",
+        "IsRequirement": false
+      },
+      {
+        "Id": 24,
+        "Name": "Email Only",
+        "CreatedOn": "2018-09-11T10:19:36.4900000+01:00",
+        "IconName": "myh-icon-email",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€1,200 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "50",
+        "IsTransact": false,
+        "PropertyId": 4838293,
+        "DisplayAddress": "Grange , Edenderry, Kildare",
+        "EnergyRatingMediaPath": "",
+        "Media": {
+          "Items": [],
+          "Guid": "b3fb91b9362544659872370114fdac76",
+          "OriginalImagesSuffix": "b3fb9",
+          "HasMainPhoto": false,
+          "HasPhotos": false,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://www.myhome.ie/app/assets/images/heart.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,400 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "69",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4912252,
+        "DisplayAddress": "4G Clonmullen Hall, Edenderry, Offaly",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "10bbe753-765b-4dc9-bc5a-9f59af81a28e",
+              "Filename": "2cf36e5e-ed42-458d-b511-263b85d7b387.jpg",
+              "Caption": "IMG-20250320-WA0000.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "82c2115c-d5a4-418f-801f-b3f316e5eca2",
+              "Filename": "332ec49e-e982-4275-b611-e708c089e01e.jpg",
+              "Caption": "IMG-20250320-WA0004.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1750cdf8-0e27-493f-bf0e-6012f095a867",
+              "Filename": "a015fe80-176e-477f-a95b-c9db5f1fec12.jpg",
+              "Caption": "IMG-20250320-WA0001.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "91e2fbed-0363-42a9-8b39-e657ff5be086",
+              "Filename": "bc48c6d8-c047-4816-b274-599fbc832f16.jpg",
+              "Caption": "IMG-20250320-WA0002.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a2aef9e5-1fb2-497d-a374-c482b450e013",
+              "Filename": "88a7edfa-c2d1-4f30-bd68-5593fbc5f8b6.jpg",
+              "Caption": "IMG-20250320-WA0003.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "66d3d25a761b4bdabd4ce0d2aa9c837a",
+          "OriginalImagesSuffix": "66d3d",
+          "MainPhoto": {
+            "Identifier": "10bbe753-765b-4dc9-bc5a-9f59af81a28e",
+            "Filename": "2cf36e5e-ed42-458d-b511-263b85d7b387.jpg",
+            "Caption": "IMG-20250320-WA0000.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/5/2/4912252/2cf36e5e-ed42-458d-b511-263b85d7b387_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,500 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "120",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 4912682,
+        "DisplayAddress": "Grange, Edenderry, Kildare",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/EXEMPT.png",
+        "Media": {
+          "Items": [],
+          "Guid": "4e8b4886267b47b7b69bea5ddc709752",
+          "OriginalImagesSuffix": "4e8b4",
+          "HasMainPhoto": false,
+          "HasPhotos": false,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://www.myhome.ie/app/assets/images/heart.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,500 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "120",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 4912683,
+        "DisplayAddress": "Grange, Edenderry, Kildare",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/EXEMPT.png",
+        "Media": {
+          "Items": [],
+          "Guid": "9fbce36521a94667a15e6f29e887408e",
+          "OriginalImagesSuffix": "9fbce",
+          "HasMainPhoto": false,
+          "HasPhotos": false,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://www.myhome.ie/app/assets/images/heart.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€800 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "0",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4946588,
+        "DisplayAddress": "Drumcooley, Edenderry, County Kildare",
+        "EnergyRatingMediaPath": "",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "76cba591-142b-4963-9213-1fa1a736d10f",
+              "Filename": "5508a4d1-a5fd-4fde-bd05-fc975ef26fb0.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/10-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c3edbded-a748-4b0d-af5e-fe6c0b64bc28",
+              "Filename": "00d8e6e4-bf14-4717-ba5b-7fadc646c645.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/10-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "792fb6c6-4a39-495a-921b-461f48c4dfd7",
+              "Filename": "3b5d81b3-cb6e-4fd7-94df-1a62b84d7ee7.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/10-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "103f7bf2-dcb9-474a-9a97-679aae503c6f",
+              "Filename": "9bc1ec7f-f113-48dc-b98b-2a0f780c5863.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/10-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cd91cedb-dcc2-49ed-8374-ba5ff73c4d3a",
+              "Filename": "d9e20a52-202d-4d5d-9bbf-416037014f8e.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/10-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "c265bd62c24a4ddc81a5a1932945be1a",
+          "OriginalImagesSuffix": "c265b",
+          "MainPhoto": {
+            "Identifier": "76cba591-142b-4963-9213-1fa1a736d10f",
+            "Filename": "5508a4d1-a5fd-4fde-bd05-fc975ef26fb0.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/10-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/8/5/4946588/5508a4d1-a5fd-4fde-bd05-fc975ef26fb0_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€600 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "0",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4971977,
+        "DisplayAddress": "Room 1, Rahan, Edenderry, County Kildare",
+        "EnergyRatingMediaPath": "",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "70726639-df56-4d9a-a799-efff03efad1e",
+              "Filename": "a91f9609-407d-46f5-ac46-59401e10ee9d.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "224acaf1-0089-493a-9c91-abacaefe70da",
+              "Filename": "d893f262-e85d-429f-9be0-8be62607e283.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d4983737-ee57-489f-90aa-e6cd2fc91823",
+              "Filename": "985724ad-c095-42cb-9444-5b69912933b3.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c9dbdfd1-f60a-46ec-8757-04ab2ae6e99c",
+              "Filename": "7c23135a-0ba7-4f63-ae3f-34ed34f7ced9.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9cc7114a-1a0e-4dd3-b2fb-02f66b2671e6",
+              "Filename": "dc96ed62-f111-48ce-9fba-ecbbd29766fd.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ceb72e00-e5f0-4938-8677-67b2dfcdffe4",
+              "Filename": "912eab72-cd72-416a-8a3c-cd1f55e9abe5.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b412bc6e-e1e2-49ce-a903-aade9f3377cd",
+              "Filename": "04d15cad-e493-4b5c-a797-8ae4c3703e0a.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "81778e30-bbde-4bd5-a864-756003139389",
+              "Filename": "54082c50-7b61-46b4-b942-f5e2eb9d401f.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eafcd749-a3e6-4ef5-908a-66578406f151",
+              "Filename": "c5f8ba48-0900-4919-a49a-ade390558704.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "58947005-7f28-4347-b1b7-f41da1caee6e",
+              "Filename": "4a2eb0ed-fe13-42e4-b27a-898d817d68ad.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "72a44c95-31b0-4bea-a5eb-f1b4ea7ef230",
+              "Filename": "36995991-873e-4cbf-ac96-139ae0bde261.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "1e531d1b059e4a9386abfefae12bb194",
+          "OriginalImagesSuffix": "1e531",
+          "MainPhoto": {
+            "Identifier": "70726639-df56-4d9a-a799-efff03efad1e",
+            "Filename": "a91f9609-407d-46f5-ac46-59401e10ee9d.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/28-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/7/9/4971977/a91f9609-407d-46f5-ac46-59401e10ee9d_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€600 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "0",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4971978,
+        "DisplayAddress": "Room 2, Rahan, Edenderry, County Kildare",
+        "EnergyRatingMediaPath": "",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "9fd7007c-2d1b-4e67-ad08-688668ef43a0",
+              "Filename": "d0525de7-2db8-4d4c-9fce-d5c36e88d073.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "db3aae8e-846b-4e82-926f-9cf2884ef0d8",
+              "Filename": "3065a385-0eba-4458-9df8-67190a55becf.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ed455a42-d62e-4538-994d-e1a51e0ba812",
+              "Filename": "305ffdb0-b439-4fcd-87ea-37f6d53622ab.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8de7c99e-c8b2-4a92-acd4-271cbb1d8ade",
+              "Filename": "0e6e12f4-207b-4e43-a0dd-a40e5879d650.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "27aa401d-824b-4867-a635-635a70c397ce",
+              "Filename": "c25f1a11-5bb7-4a14-a6b2-32ba4df4d498.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2e74e42a-1d8e-464b-a815-a9446a48ce72",
+              "Filename": "6a5028cd-3eb7-47c4-bf5d-853a36745c6b.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d18764d5-5f06-4664-9ae3-1a5100bb85b5",
+              "Filename": "5365cb4a-6119-4065-bc97-d7d05414ceb6.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9a0a33f3-e61a-4ffd-a692-c28c9344c310",
+              "Filename": "6fb875d9-59a2-42d6-89c0-0978aa495b28.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2706381e-ac08-4a8c-b5f5-5f23b6254abb",
+              "Filename": "093f6631-cf2f-41f5-8d69-97d3e198619f.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f063f816-76b2-4d76-9542-0d0a268a3eaa",
+              "Filename": "725db65f-8904-418c-84b1-351b36a10b10.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8dcd0e53-2120-43c6-b8e6-7eeff75d9385",
+              "Filename": "84f4e8ab-c5ad-481a-b0a8-18610d93fd40.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "29e9727913dc40869dda641d6ecd9cec",
+          "OriginalImagesSuffix": "29e97",
+          "MainPhoto": {
+            "Identifier": "9fd7007c-2d1b-4e67-ad08-688668ef43a0",
+            "Filename": "d0525de7-2db8-4d4c-9fce-d5c36e88d073.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/DALY/upload/29-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/7/9/4971978/d0525de7-2db8-4d4c-9fce-d5c36e88d073_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "Let Agreed",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "69",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4981611,
+        "DisplayAddress": "Apt 2B Clonmullen Hall, Edenderry, Offaly",
+        "EnergyRatingMediaPath": "",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "64f1577c-f4b8-4f83-84c9-767fac1ade54",
+              "Filename": "ab217c79-e350-49d7-acdc-7c92734a4be5.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "16654ec0-a1bf-487e-996f-a6a1295604ef",
+              "Filename": "45b6395f-b45c-4294-bb3c-27204d282387.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a7ee4590-08dc-44cf-86a4-688c26b30837",
+              "Filename": "63eea385-f69a-4181-ad7c-0632e487c777.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "adbdb56e-5b97-49eb-8b25-7a2dc11b7da0",
+              "Filename": "e241ec21-7360-46b1-a13c-5aa73e1bd074.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2c12145a-789b-40c5-948d-85f0bbccbd5b",
+              "Filename": "0759b09a-a2a6-4840-919c-bc994293cb0e.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5bc1be51-7249-4360-80d6-0dbf0d5f118e",
+              "Filename": "c082de06-6c72-48be-8ba1-8b39c81d0cac.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "20b857f3-7ae6-4bea-8c91-c1bc28281cd9",
+              "Filename": "d23b5143-9395-4c6d-8228-cd7767e54c97.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "efa31b30cb3944908301272d884b486d",
+          "OriginalImagesSuffix": "efa31",
+          "MainPhoto": {
+            "Identifier": "64f1577c-f4b8-4f83-84c9-767fac1ade54",
+            "Filename": "ab217c79-e350-49d7-acdc-7c92734a4be5.jpg",
+            "Caption": "https://assets.reapit.net/dng/live/pictures/FKD/20/FKD200076_01.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/1/6/4981611/ab217c79-e350-49d7-acdc-7c92734a4be5_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,250 / month",
+        "PropertyClassId": 3,
+        "SizeStringMeters": "61",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4985515,
+        "DisplayAddress": "6 Eden Court, Edenderry, Offaly",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "8f42003f-aeb0-43bb-880e-28df17abb830",
+              "Filename": "444c9251-fa1d-4799-8fd1-c89b26a520e5.jpg",
+              "Caption": "20260303_092815.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "70bdb16a-d14f-4b4d-9812-5ca7ff24ecea",
+              "Filename": "c9fa2390-ea5b-41fe-9269-c4bc9c5635e3.jpg",
+              "Caption": "20260303_092821.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e3eb08e2-2974-4fb7-abb6-9a4856d2696f",
+              "Filename": "1e9a07da-d495-41cb-af90-51a109ee4bbb.jpg",
+              "Caption": "20260303_092840.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "766f7257-e3d9-488c-8775-a8e1f39cef5d",
+              "Filename": "33d9de66-42d7-4454-849d-7a2fb39fc69b.jpg",
+              "Caption": "20260303_092855.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "968de97b-9119-4229-a851-129cddb6547c",
+              "Filename": "ddb25842-d2c8-4985-b1d0-dc806fb0ec3f.jpg",
+              "Caption": "20260303_092928.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "231c667c-200d-4524-b5d2-fd84a65c5735",
+              "Filename": "54984485-2627-488e-a169-c294ace89702.jpg",
+              "Caption": "20260303_092859.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ccbdfaa2-0321-47d0-965d-a5814c0f5ea2",
+              "Filename": "387bfdda-0191-430c-8650-6a0d194ff06a.jpg",
+              "Caption": "20260303_092949.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "14138d25-fed2-4389-89bb-a13bff645a99",
+              "Filename": "fbbdf1bc-76c1-4ec2-9933-223293c45c09.jpg",
+              "Caption": "20260303_093004.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "daaff58c-04b7-438f-99ef-1143ca6cdd88",
+              "Filename": "611fc838-9a63-487d-a640-05f427f8aee0.jpg",
+              "Caption": "20260303_093022.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9ba75239-4b6a-4cbd-91c7-fdc3b99f887e",
+              "Filename": "338e5f17-fa04-4117-b038-8fc364c2dfe9.jpg",
+              "Caption": "20260303_092910.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "151e06aa7e7b478b95e512255f94dc69",
+          "OriginalImagesSuffix": "151e0",
+          "MainPhoto": {
+            "Identifier": "8f42003f-aeb0-43bb-880e-28df17abb830",
+            "Filename": "444c9251-fa1d-4799-8fd1-c89b26a520e5.jpg",
+            "Caption": "20260303_092815.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/5/1/5/4985515/444c9251-fa1d-4799-8fd1-c89b26a520e5_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,700 / month",
+        "PropertyClassId": 3,
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 4989245,
+        "DisplayAddress": "The Sycamores, Edenderry, Offaly",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "38c9447f-6b54-4b2d-9c88-c8f0902402b1",
+              "Filename": "53a1af91-622c-4bdd-b90f-2a66c47f054b.jpg",
+              "Caption": "20260324_171236.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a881eca9-6757-4b12-9dcb-36f690ac55cb",
+              "Filename": "8a301d91-3508-4380-b8ef-f6a023b7f06b.jpg",
+              "Caption": "20260324_171305.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ff668753-0d74-46e7-8172-d1c938ef7250",
+              "Filename": "3722623d-781b-43c3-a1ca-5f60ebbba2b9.jpg",
+              "Caption": "20260324_171317.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "843f3c83-2843-4e74-a692-c9c19327dec0",
+              "Filename": "890b996a-595e-4530-a3a4-c3f5a899f364.jpg",
+              "Caption": "20260324_171333.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "61a897f4-e0b1-4698-8034-c2dd0f6cc86c",
+              "Filename": "d90643ac-060e-49e1-a149-42b2789b4ae1.jpg",
+              "Caption": "20260324_171353.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9e30abf1-1054-41f0-819b-beec1da23588",
+              "Filename": "8ca7038a-8375-43cb-ac53-cc342aabc8e4.jpg",
+              "Caption": "20260324_171410.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "09a47eb4-11ef-4785-a358-e85a87e78a82",
+              "Filename": "75cc33b3-f591-4e2c-b484-583487939831.jpg",
+              "Caption": "20260324_171430.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "70a4e5ce-9f9a-4836-a7ca-73cc008f5b1e",
+              "Filename": "0a2cf18e-df14-48f4-8ddb-3c51ad148fb5.jpg",
+              "Caption": "20260324_171436.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f9cb2691-dd59-4fcb-a427-e81cbca99a1b",
+              "Filename": "ede318ee-5d2a-46b0-bae9-3e3de799180c.jpg",
+              "Caption": "20260324_171443.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d79b4071-4c1b-407c-b707-16129e0474a0",
+              "Filename": "8e64c785-0e71-4f05-87f9-b38840417566.jpg",
+              "Caption": "20260324_171448.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "aa56b200d18b41ae92b6f0991853da16",
+          "OriginalImagesSuffix": "aa56b",
+          "MainPhoto": {
+            "Identifier": "38c9447f-6b54-4b2d-9c88-c8f0902402b1",
+            "Filename": "53a1af91-622c-4bdd-b90f-2a66c47f054b.jpg",
+            "Caption": "20260324_171236.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/2/4989245/53a1af91-622c-4bdd-b90f-2a66c47f054b_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Three Bedroom house, please note ,it is a country location close to edenderry ,less than fifteen minutes Enfield , Co Meath.\r\nThere is no public transport so own transport essential. \r\nFull details on request."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Three Bedrooms, bathroom wc, sittinginingroom, kitchen, ofch ."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Three bedroom ,partially furnished property, country location,\r\nReferences are required."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: Exempt"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "O"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 620801,
+    "MinEnergyRating": 160,
+    "MaxEnergyRating": 160,
+    "IsNewBER": false,
+    "CreatedOnDate": "2025-03-21T21:13:57.4100000+00:00",
+    "ModifiedOnDate": "2025-03-21T21:13:57.4070000+00:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2025-03-21T21:14:05.9700000+00:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/EXEMPT.png",
+    "IsTransact": false,
+    "PriceAsString": "€1,500 / month",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 4912683,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 120,
+    "DisplayAddress": "Grange, Edenderry, Kildare",
+    "Eircode": "R45F579",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Bungalow",
+    "PropertyTypeId": 78,
+    "RegionId": 2362,
+    "RegionName": "Kildare",
+    "LocalityId": 2897,
+    "LocalityName": "Edenderry",
+    "Price": {
+      "MinRentalPrice": 1500,
+      "MaxRentalPrice": 1500,
+      "Period": "Monthly",
+      "ShowPrice": true,
+      "AvailableOn": "2025-03-21T00:00:00.0000000+00:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 1500,
+      "MaxMonthlyRentalPrice": 1500
+    },
+    "Images": [],
+    "BrochureMap": {
+      "longitude": -6.819470799999999,
+      "latitude": 53.2120434
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 0,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 389320,
+    "Name": "Brazil Estate Agents",
+    "DisplayPhone": "+353 858 352 288",
+    "Email": "columb@brazilestateagents.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "brazil-estate-agents",
+    "SeoName": "brazil-estate-agents",
+    "Address": "Grange House Grange Edenderry Co. Offaly",
+    "SalesLicense": "",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "edenderry/2897",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5014711,
+      "PropertyClassId": 1,
+      "DisplayAddress": "35 Patrick St Portarlington, Portarlington, Offaly",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/1/7/5014711/309118d2-2135-45be-81df-8ff02848a907_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/35-patrick-st-portarlington-portarlington-offaly/5014711"
+    },
+    {
+      "PropertyId": 4906990,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Clonmore, Rhode , Tullamore, Co Offaly, Rhode, Offaly",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/9/9/4906990/7dd26156-15d6-4726-adce-5c7ef303e41d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/clonmore-rhode-tullamore-co-offaly-rhode-offaly/4906990"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/grange-edenderry-kildare/4912683",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Microwave",
+    "Alarm"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 620801,
+    "Name": "Brazil Columb",
+    "Phone": "+353 858 352 288",
+    "Email": "columb@brazilestateagents.ie",
+    "Licence": ""
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 389320,
+    "MYH_LocalityID": 2897,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2362,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Washing Machine",
+      "Central Heating",
+      "Microwave",
+      "Garden",
+      "Alarm",
+      "References Required",
+      "Half Furnished",
+      "Email Only"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Washing Machine,Central Heating,Microwave,Garden,Alarm,References Required,Half Furnished,Email Only",
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 160,
+    "MYH_MinSize": 120,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4912683,
+    "MYH_PropertyTypeID": 78
+  }
+}

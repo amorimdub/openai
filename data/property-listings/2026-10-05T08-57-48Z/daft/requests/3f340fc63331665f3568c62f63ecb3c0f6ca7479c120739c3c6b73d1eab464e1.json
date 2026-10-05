@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/furstville-sarsfield-road-ballinasloe-co-galway/6613023",
+  "fetchedAt": "2026-10-05T09:35:57.530Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/furstville-sarsfield-road-ballinasloe-co-galway/6613023",
+  "kind": "listing",
+  "responseSha256": "5049c97df18ab29385c5f30eddc92c73cb3821dca9ee17ab53a1f5da75902af9",
+  "files": [
+    {
+      "path": "daft/01525-3f340fc63331665f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d30638649c20c906f04f38727b5802e07ba4cdb58fe0fe66446205557eb4053b",
+      "bytes": 69681
+    },
+    {
+      "path": "daft/01525-3f340fc63331665f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "998f5876268df0833abf7ca89e23ea8f9f548584343114c64a11ddb9cbed3d68",
+      "bytes": 8053
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

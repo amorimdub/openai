@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/88-the-paddocks-hybreasal-kilmainham-dublin-8/6687251",
+  "fetchedAt": "2026-10-05T09:23:55.031Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/88-the-paddocks-hybreasal-kilmainham-dublin-8/6687251",
+  "kind": "listing",
+  "responseSha256": "bb1fe4999230d70c384b1601323ba7c4bd4414282af80474b6ca04df59a57588",
+  "files": [
+    {
+      "path": "daft/01044-39644508784efc91-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "17b2a647a7fe7c6ed67a7a25409fb8c46f127f78293ad8b8c9e9d9f10f365899",
+      "bytes": 23092
+    },
+    {
+      "path": "daft/01044-39644508784efc91-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5d3937b356b2409317b65784f9bcc9c664f8f53334a08d5fca58fcceac528b75",
+      "bytes": 8062
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

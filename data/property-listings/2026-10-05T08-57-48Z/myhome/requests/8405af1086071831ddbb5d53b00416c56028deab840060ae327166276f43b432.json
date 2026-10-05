@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=103",
+  "fetchedAt": "2026-10-05T11:07:01.965Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=103",
+  "kind": "search",
+  "responseSha256": "45b3c9e5d4bb870afe95b904ada87e514eaaaad4a51d4df8f9b515fc19508d3c",
+  "files": [
+    {
+      "path": "myhome/02648-8405af1086071831-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=103\"].SearchResults",
+      "sha256": "1fcfe2af09cf787a1d972be5fa76cbd8f94ec00ce06adbca10bbdb6fad46f860",
+      "bytes": 121075
+    },
+    {
+      "path": "myhome/02648-8405af1086071831-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=103\"] (paging fields)",
+      "sha256": "61587aae99d2f2fc57882dbd98b82eed71ffcb4c6f3c3c8f527cb1fb509cd804",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-lisle-road-walkinstown-dublin-12/5030270",
+    "https://www.myhome.ie/residential/brochure/garrynalyna-galbally-co-limerick/5030283",
+    "https://www.myhome.ie/residential/brochure/4-the-arches-barrack-street-kilkenny/5030282",
+    "https://www.myhome.ie/residential/brochure/5-dalcassian-park-turnpike-ennis-co-clare/5030281",
+    "https://www.myhome.ie/residential/brochure/swordlestown-lodge-swordlestown-north-punchestown-naas-co-kildare/5024427",
+    "https://www.myhome.ie/residential/brochure/13-sandyford-hall-walk-sandyford-dublin-18/5030277",
+    "https://www.myhome.ie/residential/brochure/the-forge-masters-cottage-hatchery-lane-inistioge-kilkenny/5029307",
+    "https://www.myhome.ie/residential/brochure/155-bushy-park-house-terenure-dublin-6w/5018597",
+    "https://www.myhome.ie/residential/brochure/12-glandore-avenue-blackrock-road-cork-city-co-cork/5030276",
+    "https://www.myhome.ie/residential/brochure/wingfield-house-drum-knock-claremorris-mayo/5030261",
+    "https://www.myhome.ie/residential/brochure/41-the-lawn-janeville-carrigaline-cork/5024698",
+    "https://www.myhome.ie/residential/brochure/apt-165-crosbies-yard-ossory-road-north-strand-dublin-3/5030274",
+    "https://www.myhome.ie/residential/brochure/11-dolphin-road-maudlintown-wexford-town-wexford/5030264",
+    "https://www.myhome.ie/residential/brochure/80-rossmore-lawns-dublin-6w-templeogue-dublin-6w/5030254",
+    "https://www.myhome.ie/residential/brochure/apartment-114-saint-james-s-wood-south-circular-road-dublin-8/5030266",
+    "https://www.myhome.ie/residential/brochure/8-lyndon-gate-blackhorse-ave-dublin-7/5030255",
+    "https://www.myhome.ie/residential/brochure/97-salthill-block-d-monkstown-co-dublin/5030258",
+    "https://www.myhome.ie/residential/brochure/49-coill-t-re-doughiska-galway-city/5030256",
+    "https://www.myhome.ie/residential/brochure/greatmeadow-boyle-boyle-roscommon/5030229",
+    "https://www.myhome.ie/residential/brochure/15-bridgeview-gardens-dun-brinn-athy-kildare/5030239"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=104",
+  "paginationLimited": false
+}

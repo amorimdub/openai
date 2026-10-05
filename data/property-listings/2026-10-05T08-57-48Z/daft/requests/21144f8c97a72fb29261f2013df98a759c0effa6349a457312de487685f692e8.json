@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/orchard-grove-dublin-15-coolmine-dublin-15/6684048",
+  "fetchedAt": "2026-10-05T09:44:59.762Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/orchard-grove-dublin-15-coolmine-dublin-15/6684048",
+  "kind": "listing",
+  "responseSha256": "ff13ecefec3e6768b30b4c1a9e889891931dd32afbb0e5e0e7b4401419119fd1",
+  "files": [
+    {
+      "path": "daft/01886-21144f8c97a72fb2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "21aab0b4850368f96fd7385edfa47024375d57fcb6ebf69aee000f4ca451aeb7",
+      "bytes": 42727
+    },
+    {
+      "path": "daft/01886-21144f8c97a72fb2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c5816b91a511b3a1cb6ae06055edb4a2702940843836659625cf1f6cc763528f",
+      "bytes": 8062
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

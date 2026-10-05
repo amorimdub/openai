@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=301",
+  "fetchedAt": "2026-10-05T12:50:11.900Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=301",
+  "kind": "search",
+  "responseSha256": "3a80a9cb70cc4ae3777bc3bfb4c59f03ea6880091e76198f0c6761ec69c2be77",
+  "files": [
+    {
+      "path": "myhome/06742-6ce51a93e1df25e1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=301\"].SearchResults",
+      "sha256": "55d13ee3eedc556155baa9009c2bec55b35a097d62030824a53bb6e55d0a7d5c",
+      "bytes": 112809
+    },
+    {
+      "path": "myhome/06742-6ce51a93e1df25e1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=301\"] (paging fields)",
+      "sha256": "b0ab786b1b835991e3d5beadef11973e70aa1834f6af7a66708dff7b37fef1dc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/218-redford-park-rathdown-lower-greystones-co-wicklow/5023917",
+    "https://www.myhome.ie/residential/brochure/wood-of-o-cottage-ballinaclogh-golden-co-tipperary/5023914",
+    "https://www.myhome.ie/residential/brochure/2-ridgewood-avenue-ridgewood-swords-county-dublin/5004486",
+    "https://www.myhome.ie/residential/brochure/5-sweetbriar-park-lower-newtown-waterford-city-waterford/5023574",
+    "https://www.myhome.ie/residential/brochure/saint-catherines-church-lane-newport-co-mayo/5023883",
+    "https://www.myhome.ie/residential/brochure/12-percy-french-park-ballyjamesduff-county-cavan/5023882",
+    "https://www.myhome.ie/residential/brochure/45-vernon-avenue-clontarf-dublin-3/5021504",
+    "https://www.myhome.ie/residential/brochure/29-the-close-waterpark-carrigaline-cork/5022764",
+    "https://www.myhome.ie/residential/brochure/kells-road-bailieborough-co-cavan/5023859",
+    "https://www.myhome.ie/residential/brochure/hanalei-newtown-enniskerry-co-wicklow/4966907",
+    "https://www.myhome.ie/residential/brochure/bookeen-kilnadeema-loughrea-galway/5023836",
+    "https://www.myhome.ie/residential/brochure/anneville-clonard-meath/5023841",
+    "https://www.myhome.ie/residential/brochure/apartment-346-bachelors-walk-apartments-north-city-centre-dublin-1/5018952",
+    "https://www.myhome.ie/residential/brochure/2-martello-court-75-upper-newcastle-road-newcastle-galway/5023855",
+    "https://www.myhome.ie/residential/brochure/2b-rocky-creek-high-street-goleen-west-cork/5023825",
+    "https://www.myhome.ie/residential/brochure/lords-avenue-lough-rinn-mohill-leitrim/5023832",
+    "https://www.myhome.ie/residential/brochure/6-burren-view-gort-county-galway/5023847",
+    "https://www.myhome.ie/residential/brochure/17-rossmore-drive-newtownmountkennedy-wicklow/5011885",
+    "https://www.myhome.ie/residential/brochure/84-the-forum-ballymoss-road-sandyford-dublin-18/5023829",
+    "https://www.myhome.ie/residential/brochure/44-sidmonton-gardens-bray-co-wicklow/5023812"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=302",
+  "paginationLimited": false
+}

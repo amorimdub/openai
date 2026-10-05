@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=458",
+  "fetchedAt": "2026-10-05T14:10:36.006Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=458",
+  "kind": "search",
+  "responseSha256": "200946a2266487c48744553ff4833852536e057d40432938c8bca1afaff24215",
+  "files": [
+    {
+      "path": "myhome/09951-7ecb110b8793bc68-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=458\"].SearchResults",
+      "sha256": "6bca4000dad7e0c022ed95912729651212d8ab7903f0b80a11fa7cbcb3bc4afc",
+      "bytes": 117660
+    },
+    {
+      "path": "myhome/09951-7ecb110b8793bc68-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=458\"] (paging fields)",
+      "sha256": "158290a12384b02dc3c2962777650901850fbfc8bd4813436c3d7d66485ad357",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-the-haymarket-drogheda-county-louth/5007716",
+    "https://www.myhome.ie/residential/brochure/old-station-house-old-canal-harbour-monasterevin-co-kildare/5007714",
+    "https://www.myhome.ie/residential/brochure/19-20-york-road-dun-laoghaire-co-dublin/5007712",
+    "https://www.myhome.ie/residential/brochure/2-glasheen-park-drumlish-longford/5007682",
+    "https://www.myhome.ie/residential/brochure/212-swiftwood-saggart-dublin/5007694",
+    "https://www.myhome.ie/residential/brochure/5-kelly-s-crescent-rossnowlagh-rossnowlagh-donegal/5007657",
+    "https://www.myhome.ie/residential/brochure/coolateggart-taghmon-co-wexford/5007691",
+    "https://www.myhome.ie/residential/brochure/1-montpelier-lane-monkstown-co-dublin/5007686",
+    "https://www.myhome.ie/residential/brochure/creggameen-trien-ballinlough-roscommon/5006531",
+    "https://www.myhome.ie/residential/brochure/apartment-9-blackrock-house-blackrock-cork/5007648",
+    "https://www.myhome.ie/residential/brochure/doon-road-ballybunnion-listowel-co-kerry/5007683",
+    "https://www.myhome.ie/residential/brochure/5-gl-r-na-mara-rosslare-strand-wexford/4995369",
+    "https://www.myhome.ie/residential/brochure/rougham-glengarriff-co-cork/5007676",
+    "https://www.myhome.ie/residential/brochure/roe-gortaroe-kilmeena-westport-co-mayo/5007675",
+    "https://www.myhome.ie/residential/brochure/the-brambles-dereenatra-schull-west-cork/5007646",
+    "https://www.myhome.ie/residential/brochure/52-saint-aidan-s-villas-enniscorthy-co-wexford/5007672",
+    "https://www.myhome.ie/residential/brochure/lugakeeran-castlerea-roscommon/5006926",
+    "https://www.myhome.ie/residential/brochure/the-bungalow-golflinks-road-youghal-co-cork/5007668",
+    "https://www.myhome.ie/residential/brochure/no-34-pineridge-wexford-co-wexford-wexford-town-wexford/5007663",
+    "https://www.myhome.ie/residential/brochure/ballynacrusha-cobh-co-cork/5007654"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=459",
+  "paginationLimited": false
+}

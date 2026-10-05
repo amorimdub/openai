@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=250",
+  "fetchedAt": "2026-10-05T12:23:34.380Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=250",
+  "kind": "search",
+  "responseSha256": "0bf59037e96b2f13b20b30abe767c9bf2c47cec82beb93bc5656e5cb0b4bd587",
+  "files": [
+    {
+      "path": "myhome/05684-db21980238f523f7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=250\"].SearchResults",
+      "sha256": "8e98183bd399a954ee94c97e056dfda68f583b894a110fe355676eba5a5520ae",
+      "bytes": 114570
+    },
+    {
+      "path": "myhome/05684-db21980238f523f7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=250\"] (paging fields)",
+      "sha256": "fadc3882cc6c7d5e771f51e996a619b03ba52120c1bbc72923c0c9b81b9b67f4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-fuchsia-drive-ballybunion-co-kerry/5022691",
+    "https://www.myhome.ie/residential/brochure/scart-road-bantry-west-cork/5026067",
+    "https://www.myhome.ie/residential/brochure/curraghvoe-mitchelstown-cork/5026061",
+    "https://www.myhome.ie/residential/brochure/keyfield-ballinlough-castlerea-roscommon/5026065",
+    "https://www.myhome.ie/residential/brochure/113-manor-village-westport-road-castlebar-mayo/5025255",
+    "https://www.myhome.ie/residential/brochure/19-moyglare-court-maynooth-county-kildare/5026063",
+    "https://www.myhome.ie/residential/brochure/tournafulla-co-limerick/5026060",
+    "https://www.myhome.ie/residential/brochure/37-doire-fea-moycullen-co-galway/5026059",
+    "https://www.myhome.ie/residential/brochure/27-edenwood-kilmainhamwood-co-meath/5026058",
+    "https://www.myhome.ie/residential/brochure/19-kenilworth-manor-harold-s-cross-dublin-6w/5010215",
+    "https://www.myhome.ie/residential/brochure/aglish-cork-farran-co-cork/5026055",
+    "https://www.myhome.ie/residential/brochure/4-cypress-lawn-templeogue-dublin-6w/5021025",
+    "https://www.myhome.ie/residential/brochure/48-elm-mount-road-beaumont-dublin-9/5026049",
+    "https://www.myhome.ie/residential/brochure/116-st-johns-wood-west-clondalkin-dublin-22/5019402",
+    "https://www.myhome.ie/residential/brochure/85-cherrywood-grove-clondalkin-dublin-22/5024488",
+    "https://www.myhome.ie/residential/brochure/19-castlegrange-square-clondalkin-dublin-22/5025515",
+    "https://www.myhome.ie/residential/brochure/5-sylvan-grove-fairlands-park-newcastle-galway/5026047",
+    "https://www.myhome.ie/residential/brochure/fado-sundrive-road-rush-co-dublin/4975466",
+    "https://www.myhome.ie/residential/brochure/20-castlegate-way-adamstown-castle-lucan-dublin/5026048",
+    "https://www.myhome.ie/residential/brochure/35-oakdale-park-ballycullen-dublin-24/5026043"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=251",
+  "paginationLimited": false
+}

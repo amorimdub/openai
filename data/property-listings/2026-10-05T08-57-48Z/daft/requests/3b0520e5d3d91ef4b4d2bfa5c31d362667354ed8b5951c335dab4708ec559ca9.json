@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/kileen-dunsany-co-meath/6669421",
+  "fetchedAt": "2026-10-05T09:31:33.244Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/kileen-dunsany-co-meath/6669421",
+  "kind": "listing",
+  "responseSha256": "d5b80785790e0ce346780608d9ebd047b33bdb5da2019e48cc57ebe8007d586f",
+  "files": [
+    {
+      "path": "daft/01349-3b0520e5d3d91ef4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c488b0f503c705988eb6ab9a381e3e2ed724b1d6f7ebd6d57abff89db3e87b93",
+      "bytes": 111604
+    },
+    {
+      "path": "daft/01349-3b0520e5d3d91ef4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b717c71fe3df0074eaff45191e8baac71408961ed34098e8a171fcf2f0e5a549",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

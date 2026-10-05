@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=201",
+  "fetchedAt": "2026-10-05T11:58:05.685Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=201",
+  "kind": "search",
+  "responseSha256": "a86c8e5ac64c700b90b64eb558a86f27f1cb556480059aa69a664fa103ba5bd8",
+  "files": [
+    {
+      "path": "myhome/04667-e27ab647ceb57b1b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=201\"].SearchResults",
+      "sha256": "067125344f1deec0ff0c65bcd0a51673854dad3ae8dc7a0b0342c9cf7b217bfe",
+      "bytes": 119995
+    },
+    {
+      "path": "myhome/04667-e27ab647ceb57b1b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=201\"] (paging fields)",
+      "sha256": "852725e5852492979532d34d3b31c4a6c3c9e818ad4532841100a7a93b1b00f2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/c-1-8-acres-with-derelict-2-storey-residence-green-avenue-naas-co-kildare/5027593",
+    "https://www.myhome.ie/residential/brochure/2-the-old-rectory-lucan-dublin/5027543",
+    "https://www.myhome.ie/residential/brochure/3-summerseat-green-summerseat-clonee-dublin-15/5027591",
+    "https://www.myhome.ie/residential/brochure/50-the-way-craddockstown-park-naas-county-kildare/5027586",
+    "https://www.myhome.ie/residential/brochure/15-cherrymount-park-phibsborough-dublin-7/5027585",
+    "https://www.myhome.ie/residential/brochure/clonkeen-lodge-house-and-lands-clonkeen-lucas-clones-co-monaghan/5027583",
+    "https://www.myhome.ie/residential/brochure/5-roebuck-park-goatstown-dublin-14/4930297",
+    "https://www.myhome.ie/residential/brochure/18-the-oaks-oakwood-lawns-edenderry-offaly/5027536",
+    "https://www.myhome.ie/residential/brochure/8-stradbrook-close-blackrock-county-dublin/5027578",
+    "https://www.myhome.ie/residential/brochure/61-riverside-park-clonshaugh-dublin-17/5027579",
+    "https://www.myhome.ie/residential/brochure/23-log-na-gcapall-south-circular-road-limerick-county-limerick/5027576",
+    "https://www.myhome.ie/residential/brochure/14-south-avenue-w-attic-room-mount-merrion-county-dublin/5015729",
+    "https://www.myhome.ie/residential/brochure/killydream-loughduff-cavan-county-cavan/5027575",
+    "https://www.myhome.ie/residential/brochure/braemor-avenue-no-1-churchtown-dublin-14/5026698",
+    "https://www.myhome.ie/residential/brochure/5-kyle-terrace-kickham-street-thurles-co-tipperary/5027574",
+    "https://www.myhome.ie/residential/brochure/derrylea-ballyjamesduff-co-cavan/5027573",
+    "https://www.myhome.ie/residential/brochure/27-cambridge-terrace-york-road-dun-laoghaire-co-dublin/5027567",
+    "https://www.myhome.ie/residential/brochure/kilkea-cottage-castledermot-kildare/4997422",
+    "https://www.myhome.ie/residential/brochure/29-glenmont-silversprings-tivoli-cork/5027566",
+    "https://www.myhome.ie/residential/brochure/81-dromroe-avenue-castletroy-limerick-city/5027561"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=202",
+  "paginationLimited": false
+}

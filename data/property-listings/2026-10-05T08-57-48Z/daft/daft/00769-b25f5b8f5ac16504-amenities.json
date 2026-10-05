@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SALESIAN PRIMARY SCHOOL",
+      "numPupils": 389,
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.665330",
+        "lon": "-8.636772"
+      }
+    },
+    {
+      "schoolName": "ST AUGUSTINE'S SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.662680",
+        "lon": "-8.627315"
+      }
+    },
+    {
+      "schoolName": "J F K MEMORIAL SCHOOL",
+      "numPupils": 220,
+      "distance": {
+        "value": 0.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666160",
+        "lon": "-8.644519"
+      }
+    },
+    {
+      "schoolName": "LIMERICK SCHOOL PROJECT",
+      "numPupils": 210,
+      "distance": {
+        "value": 0.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.657234",
+        "lon": "-8.633695"
+      }
+    },
+    {
+      "schoolName": "ST MICHAELS LIM CITY",
+      "numPupils": 113,
+      "distance": {
+        "value": 0.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.657578",
+        "lon": "-8.629729"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL SAIRSEAL",
+      "numPupils": 343,
+      "distance": {
+        "value": 0.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.667553",
+        "lon": "-8.623049"
+      }
+    },
+    {
+      "schoolName": "ST MICHAEL'S INFANT SCHOOL",
+      "numPupils": 115,
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659023",
+        "lon": "-8.622787"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY SCHOOL",
+      "numPupils": 281,
+      "distance": {
+        "value": 1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659298",
+        "lon": "-8.622314"
+      }
+    },
+    {
+      "schoolName": "AN MHODHSCOIL",
+      "numPupils": 578,
+      "distance": {
+        "value": 1.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655180",
+        "lon": "-8.633831"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOSAGAIN CBS",
+      "numPupils": 228,
+      "distance": {
+        "value": 1.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658850",
+        "lon": "-8.622306"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "LIMERICK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 714,
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.664608",
+        "lon": "-8.639804"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL RIS",
+      "numPupils": 747,
+      "distance": {
+        "value": 0.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.665417",
+        "lon": "-8.641246"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NANO NAGLE",
+      "numPupils": 356,
+      "distance": {
+        "value": 0.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.660180",
+        "lon": "-8.622252"
+      }
+    },
+    {
+      "schoolName": "ST CLEMENTS COLLEGE",
+      "numPupils": 411,
+      "distance": {
+        "value": 0.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655870",
+        "lon": "-8.638259"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE LUIMNIGH",
+      "numPupils": 616,
+      "distance": {
+        "value": 1.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666676",
+        "lon": "-8.619911"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHICHIL",
+      "numPupils": 346,
+      "distance": {
+        "value": 1.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659195",
+        "lon": "-8.621262"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL COLÁISTE FCJ",
+      "numPupils": 343,
+      "distance": {
+        "value": 1.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655130",
+        "lon": "-8.638703"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL SECONDARY SCHOOL FCJ",
+      "numPupils": 725,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.654990",
+        "lon": "-8.639504"
+      }
+    },
+    {
+      "schoolName": "THOMOND COMMUNITY COLLEGE",
+      "numPupils": 606,
+      "distance": {
+        "value": 1.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.675060",
+        "lon": "-8.647347"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 574,
+      "distance": {
+        "value": 1.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670030",
+        "lon": "-8.614521"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Br",
+      "route": "317A",
+      "destination": "Ennis",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666118",
+        "lon": "-8.631624"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Br",
+      "route": "343",
+      "destination": "Shannon Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666118",
+        "lon": "-8.631624"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Br",
+      "route": "317",
+      "destination": "Ennis",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666118",
+        "lon": "-8.631624"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Br",
+      "route": "306",
+      "destination": "Whitecross Gds",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666118",
+        "lon": "-8.631624"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Br",
+      "route": "303",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666123",
+        "lon": "-8.630678"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Br",
+      "route": "302",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666123",
+        "lon": "-8.630678"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Harvey's Quay",
+      "route": "305A",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663244",
+        "lon": "-8.62941"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Harvey's Quay",
+      "route": "306",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663244",
+        "lon": "-8.62941"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Harvey's Quay",
+      "route": "303",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663244",
+        "lon": "-8.62941"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Harvey's Quay",
+      "route": "310",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663244",
+        "lon": "-8.62941"
+      }
+    }
+  ]
+}

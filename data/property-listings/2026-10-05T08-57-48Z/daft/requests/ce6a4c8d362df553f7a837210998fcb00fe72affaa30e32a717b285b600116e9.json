@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/15-salthill-monkstown-co-dublin/6526906",
+  "fetchedAt": "2026-10-05T09:44:02.673Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/15-salthill-monkstown-co-dublin/6526906",
+  "kind": "listing",
+  "responseSha256": "264bff33e4b91450e0fde076c5689f2ec61032acec4ea0edc3d6ad6cda54c0ad",
+  "files": [
+    {
+      "path": "daft/01848-ce6a4c8d362df553-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "caa044ef138065577985f78e8fc0d3f6a0d35c3a5c449a185d7a6194078b4207",
+      "bytes": 71360
+    },
+    {
+      "path": "daft/01848-ce6a4c8d362df553-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "871a1267aa08379da8d9d59106444f21dc2a2dfc440ac9ad265f749bd172090a",
+      "bytes": 8088
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

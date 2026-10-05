@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/20-cois-an-coille-murroe-co-limerick/6685458",
+  "fetchedAt": "2026-10-05T09:25:01.141Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/20-cois-an-coille-murroe-co-limerick/6685458",
+  "kind": "listing",
+  "responseSha256": "98b229d60f5b5153044de382d822376007d5177d0902ba835dfc2b4210287236",
+  "files": [
+    {
+      "path": "daft/01088-6261745c6d36012a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2d2c030d0f8b10ac27724a4915356ba337a751bbd8dd64e66a433362b0c88838",
+      "bytes": 37353
+    },
+    {
+      "path": "daft/01088-6261745c6d36012a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8d0f71be79beaf5e4016aa2d60b2cc17f9732be180318863d99f4e4143a21b88",
+      "bytes": 8062
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

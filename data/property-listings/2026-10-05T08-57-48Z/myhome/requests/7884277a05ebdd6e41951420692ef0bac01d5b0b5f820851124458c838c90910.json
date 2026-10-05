@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=308",
+  "fetchedAt": "2026-10-05T12:53:49.868Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=308",
+  "kind": "search",
+  "responseSha256": "442d760da51c0c1a2dfe614c6bb499f523acce9747fe04e050d7e125b42ba66e",
+  "files": [
+    {
+      "path": "myhome/06887-7884277a05ebdd6e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=308\"].SearchResults",
+      "sha256": "3400c2a2645276ccf94cc2690587e5020b2f94ff27977b32885825096060d1db",
+      "bytes": 123957
+    },
+    {
+      "path": "myhome/06887-7884277a05ebdd6e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=308\"] (paging fields)",
+      "sha256": "cf554da9cf3ed80c6cec31782a97bd3e86bb714d4d0d9569d343d3ecbacfcd79",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-308-harbour-court-lower-quay-street-sligo-sligo/5023421",
+    "https://www.myhome.ie/residential/brochure/15-college-view-all-hallows-drumcondra/4837646",
+    "https://www.myhome.ie/residential/brochure/19-st-enda-s-drive-rathfarnham-dublin-14/5023412",
+    "https://www.myhome.ie/residential/brochure/50-village-court-butterfield-avenue-rathfarnham-dublin-14/5023411",
+    "https://www.myhome.ie/residential/brochure/4-the-view-gleann-na-r-tower-cork/5023410",
+    "https://www.myhome.ie/residential/brochure/6-bruach-na-mara-187-seafield-road-east-clontarf-dublin-3-clontarf-dublin-3/5023405",
+    "https://www.myhome.ie/residential/brochure/12-li-na-greine-kilcullen-kildare/5023402",
+    "https://www.myhome.ie/residential/brochure/horn-head-dunfanaghy-county-donegal/5023399",
+    "https://www.myhome.ie/residential/brochure/carstown-termonfeckin-drogheda-co-louth/5023398",
+    "https://www.myhome.ie/residential/brochure/3-lake-view-glenamaddy-co-galway/5023395",
+    "https://www.myhome.ie/residential/brochure/39-manor-village-westport-road-castlebar-co-mayo/5023393",
+    "https://www.myhome.ie/residential/brochure/adelaide-house-aherlow-tipperary/5006725",
+    "https://www.myhome.ie/residential/brochure/101-loughminane-green-kildare-town-kildare/5022979",
+    "https://www.myhome.ie/residential/brochure/moylough-tubbercurry-co-sligo/5001804",
+    "https://www.myhome.ie/residential/brochure/cois-clai-duffcarrick-ardmore-waterford/5023385",
+    "https://www.myhome.ie/residential/brochure/7-barleycove-apartments-barley-cove-west-cork/5023338",
+    "https://www.myhome.ie/residential/brochure/3-carn-belturbet-cavan/5023312",
+    "https://www.myhome.ie/residential/brochure/143-caisle-n-view-ballincollig-cork/5022613",
+    "https://www.myhome.ie/residential/brochure/19-ard-alainn-new-ross-co-wexford/5023384",
+    "https://www.myhome.ie/residential/brochure/derrindrehid-aghavas-leitrim/5023382"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=309",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=189",
+  "fetchedAt": "2026-10-05T11:52:00.447Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=189",
+  "kind": "search",
+  "responseSha256": "d87ee9fb1cdce25cc66f078d3d2806f8d077473f21e637bb13a2a38549476aa7",
+  "files": [
+    {
+      "path": "myhome/04424-54712b2dd8273e0b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=189\"].SearchResults",
+      "sha256": "a62f6393237ef99c171367c282796b371613d45fe2bbcdce9d5d783f12af90b2",
+      "bytes": 120985
+    },
+    {
+      "path": "myhome/04424-54712b2dd8273e0b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=189\"] (paging fields)",
+      "sha256": "4858f6b6e40f5c3294c1e8c45c463fb14c83e022427e2ddb1b94d46db306f4aa",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-7-ornamental-gardens-oldtown-demesne-naas-county-kildare/5027176",
+    "https://www.myhome.ie/residential/brochure/39-wentworth-place-naas-county-kildare/5025676",
+    "https://www.myhome.ie/residential/brochure/20-leopardstown-gardens-stillorgan-co-dublin/5027907",
+    "https://www.myhome.ie/residential/brochure/woodbine-16-st-clare-s-avenue-harold-s-cross-dublin-6w/5027905",
+    "https://www.myhome.ie/residential/brochure/caher-ballinruan-crusheen-clare/5026187",
+    "https://www.myhome.ie/residential/brochure/apartment-8-beacon-royal-canal-park-ashtown-dublin-15/5027898",
+    "https://www.myhome.ie/residential/brochure/1-parklands-court-ballycullen-dublin-24/5027903",
+    "https://www.myhome.ie/residential/brochure/eltham-79-eglinton-road-donnybrook-dublin-4/4956791",
+    "https://www.myhome.ie/residential/brochure/47-beech-park-lucan-dublin/5022719",
+    "https://www.myhome.ie/residential/brochure/6-saint-john-s-park-monkstown-county-dublin/5027900",
+    "https://www.myhome.ie/residential/brochure/16-saint-patrick-s-terrace-monkstown-co-dublin/5027896",
+    "https://www.myhome.ie/residential/brochure/brid-john-house-sleaty-road-graiguecullen-carlow/5027895",
+    "https://www.myhome.ie/residential/brochure/498-bluebell-avenue-dublin-12/5027894",
+    "https://www.myhome.ie/residential/brochure/18-clonuske-rise-balbriggan-co-dublin/5027890",
+    "https://www.myhome.ie/residential/brochure/119-castlecurragh-vale-mulhuddart-dublin-15/5027889",
+    "https://www.myhome.ie/residential/brochure/37-swifthall-collegewood-castleknock-dublin-15/5027888",
+    "https://www.myhome.ie/residential/brochure/101-inchicore-road-inchicore-dublin-8/5026303",
+    "https://www.myhome.ie/residential/brochure/18-luttrellstown-place-castleknock-dublin-15/5027450",
+    "https://www.myhome.ie/residential/brochure/28-cooline-crest-cobh-cork/5027877",
+    "https://www.myhome.ie/residential/brochure/2-new-street-north-with-attic-conversion-smithfield-dublin-7/5027884"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=190",
+  "paginationLimited": false
+}

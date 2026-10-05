@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/opus-6-hanover-quay-grand-canal-dock-dublin-2/1442724",
+  "fetchedAt": "2026-10-05T09:09:02.883Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/opus-6-hanover-quay-grand-canal-dock-dublin-2/1442724",
+  "kind": "listing",
+  "responseSha256": "28be2403b9fd391e65ddb94d89b25cf594e8c799588dd1e459e505628d3fdf2e",
+  "files": [
+    {
+      "path": "daft/00450-4bd0725a1d697881-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "04d4d119b0d99f231a907b3b46054edf2f8faeae2f18d82d7eb6b9a46273f42e",
+      "bytes": 333638
+    },
+    {
+      "path": "daft/00450-4bd0725a1d697881-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9f62cd85e2c8054be57ac61b233988668fa848de0abf389f3f996c38229e2743",
+      "bytes": 8049
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

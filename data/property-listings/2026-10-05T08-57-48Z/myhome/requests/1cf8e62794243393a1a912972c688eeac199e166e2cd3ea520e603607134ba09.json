@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=256",
+  "fetchedAt": "2026-10-05T12:26:43.793Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=256",
+  "kind": "search",
+  "responseSha256": "628e50687d63e61e2a5c24aacca17549b9dd740c127c24fafcd383ef703f026a",
+  "files": [
+    {
+      "path": "myhome/05810-1cf8e62794243393-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=256\"].SearchResults",
+      "sha256": "f790739715934caca5d128788b36b729da340178158fcc512228704edccb1651",
+      "bytes": 112640
+    },
+    {
+      "path": "myhome/05810-1cf8e62794243393-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=256\"] (paging fields)",
+      "sha256": "c86764ee6753f363ce66ba62057bb10d936fb487e900767bb550dc7c777bda8a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/29-castlerock-woods-castleconnell-limerick-county-limerick/5025869",
+    "https://www.myhome.ie/residential/brochure/20-garville-road-rathgar-dublin-6/5009770",
+    "https://www.myhome.ie/residential/brochure/44-villiers-road-rathgar-dublin-6/5014668",
+    "https://www.myhome.ie/residential/brochure/24-church-view-drumcondra-dublin-9/5017641",
+    "https://www.myhome.ie/residential/brochure/apartment-8-church-view-ash-grove-mountmellick-mountmellick-co-laois/5025867",
+    "https://www.myhome.ie/residential/brochure/5-cois-na-mara-templetown-fethard-on-sea-new-ross-co-wexford/5025863",
+    "https://www.myhome.ie/residential/brochure/15-mountross-new-ross-co-wexford/5025862",
+    "https://www.myhome.ie/residential/brochure/11-wexford-street-new-ross-co-wexford/5025861",
+    "https://www.myhome.ie/residential/brochure/lands-moyessa-listowel-co-kerry/4979426",
+    "https://www.myhome.ie/residential/brochure/10-harbour-village-westport-mayo/5025854",
+    "https://www.myhome.ie/residential/brochure/24-dunloe-hall-27-merrion-street-upper-dublin-2/5022769",
+    "https://www.myhome.ie/residential/brochure/4-zardoz-court-anglesea-road-ballsbridge-dublin-4/5002433",
+    "https://www.myhome.ie/residential/brochure/09-the-green-abbey-meadows-ferrybank-waterford/5025853",
+    "https://www.myhome.ie/residential/brochure/39-the-green-abbey-meadows-ferrybank-waterford/5025852",
+    "https://www.myhome.ie/residential/brochure/boyne-road-navan-meath/5025849",
+    "https://www.myhome.ie/residential/brochure/apartment-25-clontarf-bay-clontarf-dublin-3/5025836",
+    "https://www.myhome.ie/residential/brochure/27-holywell-wood-swords-dublin/5025844",
+    "https://www.myhome.ie/residential/brochure/4-woodford-rossa-avenue-bishopstown-co-cork/5025838",
+    "https://www.myhome.ie/residential/brochure/5-ashwood-way-clondalkin-dublin-22/5025837",
+    "https://www.myhome.ie/residential/brochure/2-inbhir-ide-malahide-county-dublin/5025814"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=257",
+  "paginationLimited": false
+}

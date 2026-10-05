@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=108",
+  "fetchedAt": "2026-10-05T11:09:27.681Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=108",
+  "kind": "search",
+  "responseSha256": "10e0b78abeda579d010fef586771f478767684ea8373926b1514dd828e84019d",
+  "files": [
+    {
+      "path": "myhome/02745-4b4931e9f5d9107d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=108\"].SearchResults",
+      "sha256": "0f63bed43d3e7e3a343452758e32608dca7512b6909073a94a080dc47a7d652e",
+      "bytes": 101808
+    },
+    {
+      "path": "myhome/02745-4b4931e9f5d9107d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=108\"] (paging fields)",
+      "sha256": "b85de262498a8893be93e36efb73687ca049b14835f1860866d621e042a96cf6",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/75-larchfield-road-goatstown-dublin-14/5007390",
+    "https://www.myhome.ie/residential/brochure/18-belarmine-drive-stepaside-dublin-18/5030049",
+    "https://www.myhome.ie/residential/brochure/19-annamoe-park-cabra-dublin-7/5030132",
+    "https://www.myhome.ie/residential/brochure/245-marina-village-malahide-county-dublin/5029967",
+    "https://www.myhome.ie/residential/brochure/1-doon-avenue-north-circular-road-dublin-7/5021881",
+    "https://www.myhome.ie/residential/brochure/37-rushbrook-blanchardstown-dublin-15/5030130",
+    "https://www.myhome.ie/residential/brochure/12-stapolin-house-baldoyle-dublin-13/5025762",
+    "https://www.myhome.ie/residential/brochure/34-chelmsford-road-ranelagh-dublin-6/5030126",
+    "https://www.myhome.ie/residential/brochure/coolnagurrane-skibbereen-co-cork/5030112",
+    "https://www.myhome.ie/residential/brochure/deerpark-view-drumirril-inniskeen-co-monaghan/5030111",
+    "https://www.myhome.ie/residential/brochure/deerpark-view-drumirril-inniskeen-co-monaghan/5030109",
+    "https://www.myhome.ie/residential/brochure/19-palmer-park-rathfarnham-dublin-16/5030106",
+    "https://www.myhome.ie/residential/brochure/apt-45-the-strand-149-north-strand-road-north-strand-dublin-3/5030105",
+    "https://www.myhome.ie/residential/brochure/21-davin-gardens-caherdavin-limerick-county-limerick/5030104",
+    "https://www.myhome.ie/residential/brochure/7-longstone-park-portrane-donabate-county-dublin/5028025",
+    "https://www.myhome.ie/residential/brochure/colomane-east-bantry-co-cork/5030103",
+    "https://www.myhome.ie/residential/brochure/35-cassian-court-east-royal-canal-park-ashtown-dublin-15/5030102",
+    "https://www.myhome.ie/residential/brochure/kilternan-village-kilternan-dublin-18/5029885",
+    "https://www.myhome.ie/residential/brochure/kilternan-village-kilternan-dublin-18/5029918",
+    "https://www.myhome.ie/residential/brochure/kilternan-village-kilternan-dublin-18/5029921"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=109",
+  "paginationLimited": false
+}

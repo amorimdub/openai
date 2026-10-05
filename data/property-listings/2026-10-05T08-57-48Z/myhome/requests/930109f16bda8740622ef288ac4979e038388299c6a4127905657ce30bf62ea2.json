@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=73",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=73",
+  "fetchedAt": "2026-10-05T09:49:20.503Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "ced44949e74f0129448ff57ce606597d3b8b9e19184b2c51ca3d66a9edd3133c",
+  "files": [
+    {
+      "path": "myhome/02053-930109f16bda8740-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=73\"].SearchResults",
+      "sha256": "cc6b5b92cfc5c0f8c1c7f3a5d436e5754f2857e31bdce2cb021328f9cf95904b",
+      "bytes": 111016
+    },
+    {
+      "path": "myhome/02053-930109f16bda8740-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=73\"] (paging fields)",
+      "sha256": "39ec82cf312132a24e133788cdcda62f7989eb0237f029872cbada567b4f1940",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-the-schooner-alverno-castle-avenue-clontarf-dublin-3/5030945",
+    "https://www.myhome.ie/residential/brochure/9-meathville-terrace-long-lane-dublin-8/5030955",
+    "https://www.myhome.ie/residential/brochure/4-chaplains-court-clondalkin-dublin-22/5030954",
+    "https://www.myhome.ie/residential/brochure/murphystown-house-site-kilgobbin-road-sandyford-dublin-18/4946003",
+    "https://www.myhome.ie/residential/brochure/70-dromroe-rhebogue-limerick/5017396",
+    "https://www.myhome.ie/residential/brochure/the-bungalow-curryhills-prosperous-co-kildare/5030953",
+    "https://www.myhome.ie/residential/brochure/52-ardview-knockadosan-rathdrum-co-wicklow/5030950",
+    "https://www.myhome.ie/residential/brochure/255b-cherrywood-lawn-clondalkin-dublin-22/5030948",
+    "https://www.myhome.ie/residential/brochure/16-hillview-bellingsfield-naas-kildare/5021302",
+    "https://www.myhome.ie/residential/brochure/oak-stonehaven-naas-co-kildare/4952637",
+    "https://www.myhome.ie/residential/brochure/2-wilfield-park-sandymount-dublin-4/5026093",
+    "https://www.myhome.ie/residential/brochure/9-huntington-lodge-castleknock-dublin-15/5011811",
+    "https://www.myhome.ie/residential/brochure/site-at-foxbrook-gordon-avenue-foxrock-dublin-18/5011891",
+    "https://www.myhome.ie/residential/brochure/65-avoca-park-blackrock-co-dublin/5030944",
+    "https://www.myhome.ie/residential/brochure/7-the-hall-scholarstown-wood-rathfarnham-dublin-16/5023170",
+    "https://www.myhome.ie/residential/brochure/53-orlagh-park-scholarstown-road-dublin-16/5027257",
+    "https://www.myhome.ie/residential/brochure/34-the-hibernia-building-kilmainham-dublin-8/5030942",
+    "https://www.myhome.ie/residential/brochure/apartment-86-glaslyn-howth-road-clontarf-dublin-3/5030807",
+    "https://www.myhome.ie/residential/brochure/37-beech-hill-drive-donnybrook-dublin-4/5010304",
+    "https://www.myhome.ie/residential/brochure/16-shackleton-way-lucan-co-dublin/5030937"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=74",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=158",
+  "fetchedAt": "2026-10-05T11:35:53.268Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=158",
+  "kind": "search",
+  "responseSha256": "ba2ad087dadb0d76a38804d6b17a8d2d9dca8ae9e7c20c46e0276ae70e3f8a47",
+  "files": [
+    {
+      "path": "myhome/03781-a56941f4659d80a6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=158\"].SearchResults",
+      "sha256": "89c777a5988e5a0a11d3434c34d444f43f76182f8362348c6baafb6f46a56f93",
+      "bytes": 117515
+    },
+    {
+      "path": "myhome/03781-a56941f4659d80a6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=158\"] (paging fields)",
+      "sha256": "d4471e431d7fbe63a34d6a1bd04b04600ba19c0d96d007ca74586f32867621f3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/seabrook-camden-road-crosshaven-cork/5028534",
+    "https://www.myhome.ie/residential/brochure/20-herbert-park-ballsbridge-dublin-4/5028785",
+    "https://www.myhome.ie/residential/brochure/139-fortunes-lawn-citywest-dublin-24/4992907",
+    "https://www.myhome.ie/residential/brochure/2-the-court-greenfields-firies-co-kerry/5028780",
+    "https://www.myhome.ie/residential/brochure/6-birch-grove-kill-avenue-dun-laoghaire-co-dublin/5028782",
+    "https://www.myhome.ie/residential/brochure/thatch-cottage-riverstown-rathfeigh-navan-co-meath/5028776",
+    "https://www.myhome.ie/residential/brochure/18-oldtown-walk-oldtown-demesne-naas-kildare/5028768",
+    "https://www.myhome.ie/residential/brochure/patchwork-killarney-road-bray-co-wicklow/5028775",
+    "https://www.myhome.ie/residential/brochure/ballyheady-bridge-killarah-co-cavan/5028766",
+    "https://www.myhome.ie/residential/brochure/kylebrook-ashfort-crecora-limerick/5028759",
+    "https://www.myhome.ie/residential/brochure/32-liscannor-road-cabra-west-dublin-7/5028765",
+    "https://www.myhome.ie/residential/brochure/149-charlesland-grove-greystones-wicklow/5028761",
+    "https://www.myhome.ie/residential/brochure/donoughboy-kilkee-co-clare/5028762",
+    "https://www.myhome.ie/residential/brochure/74-shanliss-road-dublin-9-dublin/5028751",
+    "https://www.myhome.ie/residential/brochure/48-moyola-park-newcastle-galway-city/5028757",
+    "https://www.myhome.ie/residential/brochure/newtown-galbally-co-limerick/5028754",
+    "https://www.myhome.ie/residential/brochure/apt-5-kerdiff-court-naas-county-kildare/5028753",
+    "https://www.myhome.ie/residential/brochure/loughill-west-loughill-limerick/5028746",
+    "https://www.myhome.ie/residential/brochure/35-elm-grove-gort-an-ir-castlemartyr-cork/5028745",
+    "https://www.myhome.ie/residential/brochure/2-ballynaroon-glounthaune-cork/5028748"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=159",
+  "paginationLimited": false
+}

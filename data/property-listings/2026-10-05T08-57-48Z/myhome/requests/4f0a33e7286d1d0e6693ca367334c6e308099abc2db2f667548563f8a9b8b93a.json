@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=404",
+  "fetchedAt": "2026-10-05T13:42:46.904Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=404",
+  "kind": "search",
+  "responseSha256": "3f365703a663e1bd1829215fa4181bbc9567a90a946b42a89d4445d6d9863514",
+  "files": [
+    {
+      "path": "myhome/08841-4f0a33e7286d1d0e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=404\"].SearchResults",
+      "sha256": "3d118dd1e92d95d5fad2baf93d84c532e033e35de925fb0d2c4c65b58b459874",
+      "bytes": 119821
+    },
+    {
+      "path": "myhome/08841-4f0a33e7286d1d0e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=404\"] (paging fields)",
+      "sha256": "bf990a748b7f5f1dcb501b3bbeb6af9a5725cc2b431edb45e47638db7fc3ede7",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/c-l-caisle-n-taghmon-wexford/5014922",
+    "https://www.myhome.ie/residential/brochure/c-l-caisle-n-taghmon-wexford/5014946",
+    "https://www.myhome.ie/residential/brochure/kyle-road-cappamore-limerick/5014961",
+    "https://www.myhome.ie/residential/brochure/11-rosse-court-avenue-lucan-co-dublin/5014957",
+    "https://www.myhome.ie/residential/brochure/summerlands-ballymaglassan-batterstown-meath/5014941",
+    "https://www.myhome.ie/residential/brochure/1-sli-na-craoibhe-clybaun-road-knocknacarra-galway/5014949",
+    "https://www.myhome.ie/residential/brochure/1a-woodview-terrace-derrynane-road-turners-cross-cork/5014943",
+    "https://www.myhome.ie/residential/brochure/lios-na-coille-keadue-road-leitrim-village-co-leitrim/5014945",
+    "https://www.myhome.ie/residential/brochure/22-oakdale-close-ballycullen-dublin-24/5014939",
+    "https://www.myhome.ie/residential/brochure/36-shearwater-pier-road-kinsale-co-cork/5009411",
+    "https://www.myhome.ie/residential/brochure/moynoe-35-slieve-mish-park-kinsale-road-cork-city-co-cork/5014934",
+    "https://www.myhome.ie/residential/brochure/redington-lodge-ballybrassil-ballymore-cobh-co-cork-cobh-cork/5014914",
+    "https://www.myhome.ie/residential/brochure/520-kilkee-bay-apartments-kilrush-road-kilkee-co-clare/5014931",
+    "https://www.myhome.ie/residential/brochure/4-woodlands-avenue-glenageary-county-dublin/5014913",
+    "https://www.myhome.ie/residential/brochure/126-cuirt-seoige-bohermore-galway-city/5014907",
+    "https://www.myhome.ie/residential/brochure/4-balruddery-wood-balrothery-county-dublin/5014897",
+    "https://www.myhome.ie/residential/brochure/riverview-house-glenfin-road-ballybofey-co-donegal/5014905",
+    "https://www.myhome.ie/residential/brochure/tintean-ballinagappa-clane-co-kildare/5014901",
+    "https://www.myhome.ie/residential/brochure/2-pairc-na-ri-tuam-road-athenry-co-galway/5014875",
+    "https://www.myhome.ie/residential/brochure/zilmar-kilmacleague-dunmore-east-co-waterford/5014874"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=405",
+  "paginationLimited": false
+}

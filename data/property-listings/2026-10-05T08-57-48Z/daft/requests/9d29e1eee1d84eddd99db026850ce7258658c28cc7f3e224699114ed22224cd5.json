@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/12-arklow-street-north-circular-road-dublin-7/6686925",
+  "fetchedAt": "2026-10-05T09:25:50.716Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/12-arklow-street-north-circular-road-dublin-7/6686925",
+  "kind": "listing",
+  "responseSha256": "e24ffc99499e7f1fba4b6901c71c484cca3cf4ed0393b28a5afc9f85f8b46271",
+  "files": [
+    {
+      "path": "daft/01121-9d29e1eee1d84edd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2e8d008ea13d0e879df7c4aa2f80d8f3d5c3402db222f94c858f5ab0674bb559",
+      "bytes": 33719
+    },
+    {
+      "path": "daft/01121-9d29e1eee1d84edd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c8f9acefbc44770ff6e9e637f83f9683928bfea9fae74060075f2626ae64a69d",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/east-arran-street-smithfield-dublin-7/6683137",
+  "fetchedAt": "2026-10-05T09:50:58.896Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/east-arran-street-smithfield-dublin-7/6683137",
+  "kind": "listing",
+  "responseSha256": "3841fce3d0c2a013d6c4f3350abea9d469936ffe1072346d11869687a7d82a18",
+  "files": [
+    {
+      "path": "daft/02125-d31d8e61dd95a386-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "11c411974ea369457f2a9ea7857dcf82a15cdf60b73bcb19606df8fb5a4e9ce6",
+      "bytes": 25495
+    },
+    {
+      "path": "daft/02125-d31d8e61dd95a386-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "56cac749edb6ab5b1d24fdfd70652d00643601ac47dc061cd4585417ef848ef5",
+      "bytes": 8030
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

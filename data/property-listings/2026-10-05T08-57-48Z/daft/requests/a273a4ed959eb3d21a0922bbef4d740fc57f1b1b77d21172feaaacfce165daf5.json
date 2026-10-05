@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-74-hybreasal-house-kilmainham-dublin-8/6646520",
+  "fetchedAt": "2026-10-05T09:16:35.006Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-74-hybreasal-house-kilmainham-dublin-8/6646520",
+  "kind": "listing",
+  "responseSha256": "05e4800b4e9fca66442e99acb02ad6c868e67ca43db3cc1a81850f67c06c739b",
+  "files": [
+    {
+      "path": "daft/00751-a273a4ed959eb3d2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "09cb3d1d9dff3e8f705a900f944f75b994eea97f338b18aea86f81b2b1400f7d",
+      "bytes": 56418
+    },
+    {
+      "path": "daft/00751-a273a4ed959eb3d2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7786ed63e5663cbbae73868398cac6cd510f05cab7aabf833e39d48ba2143c9b",
+      "bytes": 8056
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

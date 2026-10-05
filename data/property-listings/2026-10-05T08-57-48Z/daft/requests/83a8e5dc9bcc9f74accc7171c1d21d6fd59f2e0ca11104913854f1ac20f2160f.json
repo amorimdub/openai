@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/beach-court-salthill-co-galway/6685313",
+  "fetchedAt": "2026-10-05T09:11:07.521Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/beach-court-salthill-co-galway/6685313",
+  "kind": "listing",
+  "responseSha256": "7aeeb8b146eafe8eaa4d6658e00ded460215083576dac5f52e69c4da1bba4de4",
+  "files": [
+    {
+      "path": "daft/00533-83a8e5dc9bcc9f74-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f9a1bd4de3084b792e32297998e55208967958b9ff166bf8b88a80325d1d23ef",
+      "bytes": 9123
+    },
+    {
+      "path": "daft/00533-83a8e5dc9bcc9f74-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5898eb79f05753c2a146cbead23ffd2eefbaf2811cd3a3f3d8e237584aae7ed8",
+      "bytes": 8014
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

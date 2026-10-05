@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=163",
+  "fetchedAt": "2026-10-05T11:38:31.110Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=163",
+  "kind": "search",
+  "responseSha256": "99e3425eda523e514881e2430960dfa77fb859cf1508e82ceffe72e65d845203",
+  "files": [
+    {
+      "path": "myhome/03886-4d3f6e77d5762b8b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=163\"].SearchResults",
+      "sha256": "daf778c99cb584a7a92abd3993ade66e55370511d82d83ed7bd3e696df51c049",
+      "bytes": 111707
+    },
+    {
+      "path": "myhome/03886-4d3f6e77d5762b8b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=163\"] (paging fields)",
+      "sha256": "c6b77e31d607cdbae57334192defde3faa694a4c0b085992749d46ae0feba6e9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/18-gandon-walk-lucan-county-dublin/5028628",
+    "https://www.myhome.ie/residential/brochure/1-saul-s-court-cows-lane-templebar/5028627",
+    "https://www.myhome.ie/residential/brochure/site-with-f-p-p-for-2-bedroom-mews-rathmines-dublin-6/5028621",
+    "https://www.myhome.ie/residential/brochure/5-cedar-court-churchfields-delgany-wood-delgany-co-wicklow/5028616",
+    "https://www.myhome.ie/residential/brochure/7-meadow-court-ennis-clare/5028615",
+    "https://www.myhome.ie/residential/brochure/10-rathmichael-park-shankill-dublin-18/5028613",
+    "https://www.myhome.ie/residential/brochure/2-orlagh-lawn-knocklyon-dublin-16/5028610",
+    "https://www.myhome.ie/residential/brochure/3-st-james-terrace-6-clonskeagh-road-clonskeagh-dublin-6/4956800",
+    "https://www.myhome.ie/residential/brochure/ballagh-newtownforbes-co-longford/5028609",
+    "https://www.myhome.ie/residential/brochure/55-brayton-park-kilcock-co-kildare-naas/5028607",
+    "https://www.myhome.ie/residential/brochure/18-ormond-square-smithfield-dublin-7/5028604",
+    "https://www.myhome.ie/residential/brochure/18-parker-house-myrtle-court-the-coast-baldoyle-dublin-13/5028435",
+    "https://www.myhome.ie/residential/brochure/2-knocklaun-cork-st-lukes-co-cork/5028601",
+    "https://www.myhome.ie/residential/brochure/kilmainham-congregational-church-62-inchicore-road-kilmainham-dublin-8/5028599",
+    "https://www.myhome.ie/residential/brochure/8-eaton-way-rathcoole-co-dublin/5028598",
+    "https://www.myhome.ie/residential/brochure/4-green-view-verdemont-blanchardstown-dublin-15/5028597",
+    "https://www.myhome.ie/residential/brochure/c-2-47-acre-site-stpp-at-monks-meadow-kilrea-enniscorthy-wexford/5028585",
+    "https://www.myhome.ie/residential/brochure/apartment-5-castle-oaks-malahide-county-dublin/5028589",
+    "https://www.myhome.ie/residential/brochure/34-ropewalk-place-ringsend-dublin-4/5028593",
+    "https://www.myhome.ie/residential/brochure/49-westfield-sion-hill-rock-road-blackrock-county-dublin/5028592"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=164",
+  "paginationLimited": false
+}

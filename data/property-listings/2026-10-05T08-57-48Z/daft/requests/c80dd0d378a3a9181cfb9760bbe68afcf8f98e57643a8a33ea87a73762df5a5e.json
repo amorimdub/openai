@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/boherkyle-ballysimon-ballysimon-co-limerick/6625582",
+  "fetchedAt": "2026-10-05T09:23:02.455Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/boherkyle-ballysimon-ballysimon-co-limerick/6625582",
+  "kind": "listing",
+  "responseSha256": "3cb86cb29a455af5b6e124b99a98a1589df39ce7d98a45677f80fd7bf77009bf",
+  "files": [
+    {
+      "path": "daft/01009-c80dd0d378a3a918-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e7353fa5ad874bfcbda51b3ad0683320f513c47eac7945366a999eb2b644769e",
+      "bytes": 34354
+    },
+    {
+      "path": "daft/01009-c80dd0d378a3a918-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b6bb6013a382f65a3b582180514573b7d917a5708090f93730d56098d33ccae5",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

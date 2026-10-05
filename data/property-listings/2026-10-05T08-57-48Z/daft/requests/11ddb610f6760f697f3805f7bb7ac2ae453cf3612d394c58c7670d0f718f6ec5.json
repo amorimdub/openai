@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/caldrymoran-elphin-elphin-co-roscommon/6685692",
+  "fetchedAt": "2026-10-05T09:35:16.985Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/caldrymoran-elphin-elphin-co-roscommon/6685692",
+  "kind": "listing",
+  "responseSha256": "f29272dac40a35d43b7fced947f60c65a6a1e083751c150f83595d1b730832de",
+  "files": [
+    {
+      "path": "daft/01498-11ddb610f6760f69-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a8d999e94d2d620b1f0007cebd783916862c32965ac91be4fbf044e0acccddd6",
+      "bytes": 5295
+    },
+    {
+      "path": "daft/01498-11ddb610f6760f69-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5fc373acd89e4a010574ad53d5424a5afc7daa2c2699405481556e8fa2f82666",
+      "bytes": 8199
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

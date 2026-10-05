@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BUNNANADDEN NATIONAL SCHOOL",
+      "numPupils": 74,
+      "distance": {
+        "value": 0.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.053764",
+        "lon": "-8.604087"
+      }
+    },
+    {
+      "schoolName": "KILLAVILLE NATIONAL SCHOOL",
+      "numPupils": 16,
+      "distance": {
+        "value": 3.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.038597",
+        "lon": "-8.553554"
+      }
+    },
+    {
+      "schoolName": "ACHONRY NATIONAL SCHOOL",
+      "numPupils": 84,
+      "distance": {
+        "value": 4.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.078857",
+        "lon": "-8.660127"
+      }
+    },
+    {
+      "schoolName": "MOYLOUGH NATIONAL SCHOOL",
+      "numPupils": 102,
+      "distance": {
+        "value": 7.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.027336",
+        "lon": "-8.704697"
+      }
+    },
+    {
+      "schoolName": "CARN NATIONAL SCHOOL",
+      "numPupils": 119,
+      "distance": {
+        "value": 7.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.002247",
+        "lon": "-8.537298"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE GAN SMAL BALLYMOTE",
+      "numPupils": 225,
+      "distance": {
+        "value": 7.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.091507",
+        "lon": "-8.513531"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY SCHOOL",
+      "numPupils": 198,
+      "distance": {
+        "value": 7.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.053642",
+        "lon": "-8.725535"
+      }
+    },
+    {
+      "schoolName": "CULFADDA NATIONAL SCHOOL",
+      "numPupils": 81,
+      "distance": {
+        "value": 8.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.026325",
+        "lon": "-8.475816"
+      }
+    },
+    {
+      "schoolName": "ST LASSARA'S NATIONAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 9.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.133380",
+        "lon": "-8.562406"
+      }
+    },
+    {
+      "schoolName": "DERRINABROC NATIONAL SCHOOL",
+      "numPupils": 28,
+      "distance": {
+        "value": 9.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.964085",
+        "lon": "-8.627280"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "CORRAN COLLEGE",
+      "numPupils": 134,
+      "distance": {
+        "value": 7.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.091200",
+        "lon": "-8.515281"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE",
+      "numPupils": 331,
+      "distance": {
+        "value": 7.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.093567",
+        "lon": "-8.512938"
+      }
+    },
+    {
+      "schoolName": "ST ATTRACTA'S COMMUNITY SCHOOL",
+      "numPupils": 710,
+      "distance": {
+        "value": 10.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.053448",
+        "lon": "-8.760024"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COMMUNITY COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 16.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.960330",
+        "lon": "-8.801390"
+      }
+    },
+    {
+      "schoolName": "ST NATHY'S COLLEGE",
+      "numPupils": 658,
+      "distance": {
+        "value": 16.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.903510",
+        "lon": "-8.580730"
+      }
+    },
+    {
+      "schoolName": "ST MARYS COLLEGE",
+      "numPupils": 229,
+      "distance": {
+        "value": 18.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.210747",
+        "lon": "-8.511244"
+      }
+    },
+    {
+      "schoolName": "COOLA POST PRIMARY SCHOOL",
+      "numPupils": 549,
+      "distance": {
+        "value": 18.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.154340",
+        "lon": "-8.373847"
+      }
+    },
+    {
+      "schoolName": "ABBEY COMMUNITY COLLEGE",
+      "numPupils": 591,
+      "distance": {
+        "value": 22.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.969032",
+        "lon": "-8.299160"
+      }
+    },
+    {
+      "schoolName": "SUMMERHILL COLLEGE",
+      "numPupils": 1108,
+      "distance": {
+        "value": 25.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.266980",
+        "lon": "-8.479685"
+      }
+    },
+    {
+      "schoolName": "MERCY COLLEGE",
+      "numPupils": 676,
+      "distance": {
+        "value": 25.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.267334",
+        "lon": "-8.466908"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Bunnanadden",
+      "route": "476",
+      "destination": "Ballymote",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.052537950103",
+        "lon": "-8.60466385364919"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bunnanadden",
+      "route": "977",
+      "destination": "Ballaghaderreen",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 0.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.052537950103",
+        "lon": "-8.60466385364919"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killavil",
+      "route": "476",
+      "destination": "Ballymote",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.037695",
+        "lon": "-8.555749"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloonkeevy",
+      "route": "476",
+      "destination": "Ballymote",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.082161",
+        "lon": "-8.564702"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Ballymote",
+      "route": "rail",
+      "destination": "Dublin Connolly",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 6.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.088241",
+        "lon": "-8.52155"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballymote Centre",
+      "route": "977",
+      "destination": "ATU Saint Angela's",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 7.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.087756829775",
+        "lon": "-8.51524078091667"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballymote Centre",
+      "route": "476",
+      "destination": "Ballymote",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.087756829775",
+        "lon": "-8.51524078091667"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tobercurry",
+      "route": "64",
+      "destination": "Galway",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 8.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.0541454020849",
+        "lon": "-8.72960037337256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tobercurry",
+      "route": "476",
+      "destination": "Ballymote",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 8.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.0541454020849",
+        "lon": "-8.72960037337256"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gorteen",
+      "route": "977",
+      "destination": "Ballaghaderreen",
+      "provider": "TFI Local Link Donegal Sligo Leitrim",
+      "distance": {
+        "value": 8.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.9960676933093",
+        "lon": "-8.52266384900798"
+      }
+    }
+  ]
+}

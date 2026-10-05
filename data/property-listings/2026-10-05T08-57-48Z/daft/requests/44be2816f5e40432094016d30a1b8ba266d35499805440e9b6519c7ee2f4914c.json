@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=31",
+  "fetchedAt": "2026-10-05T09:34:09.411Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=31",
+  "kind": "search",
+  "responseSha256": "d4bf95ac30a281efda4bcb2c9516cf8241fd2a6295368e0260131b1edbdaa4fa",
+  "files": [
+    {
+      "path": "daft/01453-44be2816f5e40432-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "32b166f138850f541ef96c386263ab411e73f820d323f531599722f8d2089140",
+      "bytes": 232044
+    },
+    {
+      "path": "daft/01453-44be2816f5e40432-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01453-44be2816f5e40432-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "21e0ef14f9e58e91d4b67f1e552eafd5ff85c0f47320e302a7c5f1861b08cf1d",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/shop-1-bedlam-river-house-gortahork-letterkenny-falcarragh-co-donegal/6685631",
+    "https://www.daft.ie/for-rent/the-oaks-rockfield-dundrum-dublin-16/6685698",
+    "https://www.daft.ie/for-rent/caldrymoran-elphin-elphin-co-roscommon/6685692",
+    "https://www.daft.ie/for-rent/apartment-brookfield-donnybrook-dublin-4/6685694",
+    "https://www.daft.ie/for-rent/63-castledawson-rock-road-blackrock-co-dublin/6685680",
+    "https://www.daft.ie/for-rent/apartment-4-ballinode-co-monaghan-ballinode-co-monaghan/6685529",
+    "https://www.daft.ie/for-rent/chapelhill-chapelizod-co-dublin/6672291",
+    "https://www.daft.ie/for-rent/sherrard-street-lower-north-circular-road-dublin-1/6685661",
+    "https://www.daft.ie/for-rent/apartment-4-dawson-house-dean-court-patrick-street-christchurch-dublin-8/6685622",
+    "https://www.daft.ie/for-rent/millers-glen-swords-co-dublin/6685633",
+    "https://www.daft.ie/for-rent/courtbrack-blarney-co-cork/6685626",
+    "https://www.daft.ie/for-rent/cloughfin-saint-johnston-carrigans-co-donegal/6685623",
+    "https://www.daft.ie/for-rent/42-thornberry-letterkenny-letterkenny-co-donegal/6685620",
+    "https://www.daft.ie/for-rent/the-oval-tullyvale-cherrywood-dublin-18/6685616",
+    "https://www.daft.ie/for-rent/apartment-59-block-4-belmont-dublin-1/6685571",
+    "https://www.daft.ie/for-rent/22-cedar-view-coolfadda-bandon-co-cork/6685551",
+    "https://www.daft.ie/for-rent/apartment-creag-n-barna-co-galway/6685544",
+    "https://www.daft.ie/for-rent/65-cartron-drive-athlone-co-westmeath/6685549",
+    "https://www.daft.ie/for-rent/12-irishtown-central-golden-island-athlone-co-westmeath/6685550",
+    "https://www.daft.ie/for-rent/23-pebble-grove-pebble-beach-tramore-co-waterford/6685537"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=32",
+  "paginationLimited": false
+}

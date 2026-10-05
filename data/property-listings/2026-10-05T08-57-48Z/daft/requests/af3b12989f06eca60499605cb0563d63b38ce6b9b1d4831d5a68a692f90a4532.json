@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-bedroom-apartment-daneswell-place-botanic-road-daneswell-place-botanic-road-glasnevin-co-dublin/6564211",
+  "fetchedAt": "2026-10-05T09:01:52.958Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-bedroom-apartment-daneswell-place-botanic-road-daneswell-place-botanic-road-glasnevin-co-dublin/6564211",
+  "kind": "listing",
+  "responseSha256": "d31f1f5775feb711d7cb85e5560ff5f1187234afa025d4c21fbee032e4d8ed7a",
+  "files": [
+    {
+      "path": "daft/00164-af3b12989f06eca6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "98b95f82dca7f65a999b3d14146a2f8797489d561699648f25266eb017c1f93c",
+      "bytes": 19021
+    },
+    {
+      "path": "daft/00164-af3b12989f06eca6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "da54f1500a3cc5673a55d7cb94dee0fc5648cadb73ed85b33eae41182bc955b5",
+      "bytes": 8010
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

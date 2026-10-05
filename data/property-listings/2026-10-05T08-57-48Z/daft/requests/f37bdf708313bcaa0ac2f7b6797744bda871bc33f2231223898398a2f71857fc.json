@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apt-159-block-c-lymewood-mews-northwood-d09-a308-santry-dublin-9/6682680",
+  "fetchedAt": "2026-10-05T09:53:21.565Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apt-159-block-c-lymewood-mews-northwood-d09-a308-santry-dublin-9/6682680",
+  "kind": "listing",
+  "responseSha256": "33812940c3a9b719799f36aa2676e778655929d1c15a1585142d985732efd2e9",
+  "files": [
+    {
+      "path": "daft/02220-f37bdf708313bcaa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "197c37de61bfabee44836165fa1b262004608f41d902c7a89c588fa44bd4be7d",
+      "bytes": 27823
+    },
+    {
+      "path": "daft/02220-f37bdf708313bcaa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d73583a1936ad6cb094eadec36bd6dca349e749ff7ff39048aed495a500212b7",
+      "bytes": 8168
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

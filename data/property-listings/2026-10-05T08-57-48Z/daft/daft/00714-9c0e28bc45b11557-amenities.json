@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SCOIL NA NÓG",
+      "numPupils": 31,
+      "distance": {
+        "value": 0.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.918945",
+        "lon": "-8.397547"
+      }
+    },
+    {
+      "schoolName": "BROOKLODGE NATIONAL SCHOOL",
+      "numPupils": 367,
+      "distance": {
+        "value": 1.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.930473",
+        "lon": "-8.382037"
+      }
+    },
+    {
+      "schoolName": "RIVERSTOWN NATIONAL SCHOOL",
+      "numPupils": 662,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.930218",
+        "lon": "-8.392777"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL UÍ DRISCEOIL",
+      "numPupils": 389,
+      "distance": {
+        "value": 1.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.905342",
+        "lon": "-8.386027"
+      }
+    },
+    {
+      "schoolName": "SCOIL TRIEST",
+      "numPupils": 72,
+      "distance": {
+        "value": 1.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908220",
+        "lon": "-8.399874"
+      }
+    },
+    {
+      "schoolName": "NEW INN NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 1.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.919950",
+        "lon": "-8.412974"
+      }
+    },
+    {
+      "schoolName": "LITTLE ISLAND NATIONAL SCHOOL",
+      "numPupils": 143,
+      "distance": {
+        "value": 2.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.900852",
+        "lon": "-8.362652"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE AGUS EOIN",
+      "numPupils": 300,
+      "distance": {
+        "value": 2.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912980",
+        "lon": "-8.424204"
+      }
+    },
+    {
+      "schoolName": "CARA JUNIOR SCHOOL",
+      "numPupils": 72,
+      "distance": {
+        "value": 2.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917088",
+        "lon": "-8.425361"
+      }
+    },
+    {
+      "schoolName": "HOLY CROSS NATIONAL SCHOOL",
+      "numPupils": 197,
+      "distance": {
+        "value": 2.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.894356",
+        "lon": "-8.401991"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLÁISTE AN PHIARSAIGH",
+      "numPupils": 576,
+      "distance": {
+        "value": 0.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.918180",
+        "lon": "-8.398419"
+      }
+    },
+    {
+      "schoolName": "GLANMIRE COMMUNITY COLLEGE",
+      "numPupils": 1140,
+      "distance": {
+        "value": 1.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.930850",
+        "lon": "-8.384384"
+      }
+    },
+    {
+      "schoolName": "CORK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 409,
+      "distance": {
+        "value": 3.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.892235",
+        "lon": "-8.402829"
+      }
+    },
+    {
+      "schoolName": "NAGLE COMMUNITY COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 3.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.891280",
+        "lon": "-8.402980"
+      }
+    },
+    {
+      "schoolName": "URSULINE COLLEGE BLACKROCK",
+      "numPupils": 359,
+      "distance": {
+        "value": 3.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.895750",
+        "lon": "-8.416107"
+      }
+    },
+    {
+      "schoolName": "MAYFIELD COMMUNITY SCHOOL",
+      "numPupils": 345,
+      "distance": {
+        "value": 4.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912518",
+        "lon": "-8.443581"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 4.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908325",
+        "lon": "-8.454953"
+      }
+    },
+    {
+      "schoolName": "ST. AIDAN'S COMMUNITY COLLEGE",
+      "numPupils": 329,
+      "distance": {
+        "value": 5.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.921143",
+        "lon": "-8.462548"
+      }
+    },
+    {
+      "schoolName": "ASHTON SCHOOL",
+      "numPupils": 532,
+      "distance": {
+        "value": 5.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893370",
+        "lon": "-8.452039"
+      }
+    },
+    {
+      "schoolName": "ST FRANCIS CAPUCHIN COLLEGE",
+      "numPupils": 777,
+      "distance": {
+        "value": 5.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.869230",
+        "lon": "-8.376038"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Chestnut Mdws",
+      "route": "214",
+      "destination": "St. Patrick Street",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.923941",
+        "lon": "-8.38641"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glyntown Heights",
+      "route": "214",
+      "destination": "St. Patrick Street",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.923749",
+        "lon": "-8.390072"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Marwood Close",
+      "route": "214",
+      "destination": "University Hospital",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.925196",
+        "lon": "-8.382566"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glanmire Lwr",
+      "route": "31",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917955",
+        "lon": "-8.397072"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glanmire Lwr",
+      "route": "245",
+      "destination": "Fermoy via Glanmire",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917701",
+        "lon": "-8.397608"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glanmire Lwr",
+      "route": "214",
+      "destination": "Glyntown",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917701",
+        "lon": "-8.397608"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glen Mervyn Hse",
+      "route": "31",
+      "destination": "Knockraha",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917629",
+        "lon": "-8.400268"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Marwood Avenue",
+      "route": "214",
+      "destination": "Glyntown",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.92834",
+        "lon": "-8.38258"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glen Mervyn Hse",
+      "route": "214",
+      "destination": "University Hospital",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917455",
+        "lon": "-8.401298"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glen Mervyn Hse",
+      "route": "245",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.917455",
+        "lon": "-8.401298"
+      }
+    }
+  ]
+}

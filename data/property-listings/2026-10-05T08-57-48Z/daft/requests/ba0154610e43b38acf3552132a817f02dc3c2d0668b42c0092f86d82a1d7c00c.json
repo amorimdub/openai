@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-brewers-irishtown-new-ross-co-wexford/6686286",
+  "fetchedAt": "2026-10-05T09:29:25.582Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-brewers-irishtown-new-ross-co-wexford/6686286",
+  "kind": "listing",
+  "responseSha256": "2d622202e8ac65b53814ef1c7dda272f27e894896fdc79e164ab9e5ee309daff",
+  "files": [
+    {
+      "path": "daft/01264-ba0154610e43b38a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d1fee6ffe63ed5f3524284d99298a89e739bd5caac708ea3000a9fb00b6e496b",
+      "bytes": 21693
+    },
+    {
+      "path": "daft/01264-ba0154610e43b38a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ae658f66dc74ec1216e34343c0e17243efb732277c06ad1e6bfee16e748b982b",
+      "bytes": 8082
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

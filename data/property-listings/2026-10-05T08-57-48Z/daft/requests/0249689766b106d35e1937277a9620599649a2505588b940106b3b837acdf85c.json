@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/15b-old-youghal-road-mayfield-mayfield-co-cork/6686458",
+  "fetchedAt": "2026-10-05T09:29:00.043Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/15b-old-youghal-road-mayfield-mayfield-co-cork/6686458",
+  "kind": "listing",
+  "responseSha256": "6dd5df57838d08083a2e5278d914486cf9dc7ab4fd327ef05475181a82fa00f5",
+  "files": [
+    {
+      "path": "daft/01247-0249689766b106d3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e427b4ddbb0d6329091c0e02cdffdec4df99f787859bcea1675333fccc4195d5",
+      "bytes": 38729
+    },
+    {
+      "path": "daft/01247-0249689766b106d3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7a8b38248dec2bab82383890dc2feb2b41de1fae4cc999d24acc79935174eabb",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

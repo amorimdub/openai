@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/28-arnold-grove-glenageary-co-dublin/6660908",
+  "fetchedAt": "2026-10-05T09:32:01.783Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/28-arnold-grove-glenageary-co-dublin/6660908",
+  "kind": "listing",
+  "responseSha256": "1d4c036da1fce91d19f168f2dca2c6d884c3e764bbc050d82479648bb73948b2",
+  "files": [
+    {
+      "path": "daft/01368-98c249b997849b91-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e39d8c5f26aebd8fbb37d5361d49c2e0c1037f158931df06a16a35d29cf604e3",
+      "bytes": 110317
+    },
+    {
+      "path": "daft/01368-98c249b997849b91-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "526e99e23574e6292a08d627e1e519a3c6495e152cb929786a31687f2b4a6fb6",
+      "bytes": 8064
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

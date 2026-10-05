@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=270",
+  "fetchedAt": "2026-10-05T12:34:03.060Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=270",
+  "kind": "search",
+  "responseSha256": "517364674b391edfe17dbf19604daa14b6c035f0e4bba36801da19c356d2291a",
+  "files": [
+    {
+      "path": "myhome/06102-46a6625240e6c106-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=270\"].SearchResults",
+      "sha256": "dca46122cb4b197676e05af93720f04535d3a4a6e27a836dfb99b2a8127a286d",
+      "bytes": 99211
+    },
+    {
+      "path": "myhome/06102-46a6625240e6c106-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=270\"] (paging fields)",
+      "sha256": "d3ed662e8f866b9f874c4ef7c19eadb8966f7d6347ca104e67c4d4060eb086e6",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-5-beasley-house-punchestown-gate-naas-county-kildare/5025379",
+    "https://www.myhome.ie/residential/brochure/mount-auburn-park-killiney-hill-road-killiney-county-dublin/5025360",
+    "https://www.myhome.ie/residential/brochure/39-sitric-road-stoneybatter-dublin-7/5025373",
+    "https://www.myhome.ie/residential/brochure/5-georges-square-balbriggan-county-dublin/4933080",
+    "https://www.myhome.ie/residential/brochure/30-barons-hall-rise-balbriggan-county-dublin/4970169",
+    "https://www.myhome.ie/residential/brochure/21-castleland-park-drive-balbriggan-county-dublin/5015660",
+    "https://www.myhome.ie/residential/brochure/blackhall-house-blackhall-termonfeckin-county-louth/4990496",
+    "https://www.myhome.ie/residential/brochure/15-school-avenue-cathedral-road-gurranabraher-cork/4989504",
+    "https://www.myhome.ie/residential/brochure/knockainey-hill-hospital-knockainey-limerick/5025356",
+    "https://www.myhome.ie/residential/brochure/mount-auburn-park-killiney-hill-road-killiney-county-dublin/5025358",
+    "https://www.myhome.ie/residential/brochure/45-carrigmore-green-citywest-dublin-24/4992414",
+    "https://www.myhome.ie/residential/brochure/saleens-corbally-more-dunmore-east-waterford/5025099",
+    "https://www.myhome.ie/residential/brochure/mount-auburn-park-killiney-hill-road-killiney-county-dublin/5025353",
+    "https://www.myhome.ie/residential/brochure/1-gertrude-terrace-bray-wicklow/5025337",
+    "https://www.myhome.ie/residential/brochure/mount-auburn-park-killiney-hill-road-killiney-county-dublin/5025351",
+    "https://www.myhome.ie/residential/brochure/g4-kingscourt-tralee-kerry/5024353",
+    "https://www.myhome.ie/residential/brochure/braade-kincasslagh-county-donegal/5025333",
+    "https://www.myhome.ie/residential/brochure/48-auburn-drive-castleknock-dublin-15/5025330",
+    "https://www.myhome.ie/residential/brochure/8-newpark-drive-kinsealy-malahide-county-dublin/5025312",
+    "https://www.myhome.ie/residential/brochure/carrickmahon-altnapaste-ballybofey-co-donegal/5025327"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=271",
+  "paginationLimited": false
+}

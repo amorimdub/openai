@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/station-road-ballyduff-co-waterford/6673583",
+  "fetchedAt": "2026-10-05T09:26:38.784Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/station-road-ballyduff-co-waterford/6673583",
+  "kind": "listing",
+  "responseSha256": "6057b2b138bb67d4f699c955b1c398ca67aecc800b484d502789e9af11654b2f",
+  "files": [
+    {
+      "path": "daft/01153-3e50ba31c57d7f61-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c0473c31329696820dee12877f0fefff2da7834110a228a065425df1d0f644a3",
+      "bytes": 115367
+    },
+    {
+      "path": "daft/01153-3e50ba31c57d7f61-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "efad3b56df803074424165ed7b7174d9b16478d11dc592c13c37d3cef0777d1d",
+      "bytes": 8137
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

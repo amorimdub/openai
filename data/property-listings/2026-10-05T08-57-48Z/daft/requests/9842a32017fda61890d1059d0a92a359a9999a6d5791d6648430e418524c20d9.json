@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/leona-apartments-honeypark-upper-glenageary-road-dun-laoghaire-co-dublin/6661616",
+  "fetchedAt": "2026-10-05T09:03:08.476Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/leona-apartments-honeypark-upper-glenageary-road-dun-laoghaire-co-dublin/6661616",
+  "kind": "listing",
+  "responseSha256": "b511b812f2970e0b319f39bd8e3c8519e249e06e4475bedba9da5ef19abc1505",
+  "files": [
+    {
+      "path": "daft/00214-9842a32017fda618-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "96e6abfbbe7efc9c88b3d611848172010975af6efdc0104f7c5fbf813d0a069f",
+      "bytes": 306597
+    },
+    {
+      "path": "daft/00214-9842a32017fda618-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b2c91ad792f9e9eedb3f594ea72e3a42bf9d479acfc9e9a440a8867739273698",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

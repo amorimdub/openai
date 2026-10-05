@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/grange-court-apartments-stoneybatter-dublin-7/6682761",
+  "fetchedAt": "2026-10-05T09:53:05.047Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/grange-court-apartments-stoneybatter-dublin-7/6682761",
+  "kind": "listing",
+  "responseSha256": "cec0c60ea156deb5fa8f4096f424dc423cf3f36923f70a768ac1718249d0db7b",
+  "files": [
+    {
+      "path": "daft/02209-540b96ab6a9c4883-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f3562ef4acc3b44c95bc2ee284c58caaf7f66f7f34e6fbd2ccc300681e915101",
+      "bytes": 33895
+    },
+    {
+      "path": "daft/02209-540b96ab6a9c4883-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "178380f85400e3bb555fdf0ddd49972b25c123665537aef2686568836b8fa2f7",
+      "bytes": 8065
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

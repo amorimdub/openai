@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rathmines-house-all-bills-included-rathmines-co-dublin/5490882",
+  "fetchedAt": "2026-10-05T09:08:31.345Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rathmines-house-all-bills-included-rathmines-co-dublin/5490882",
+  "kind": "listing",
+  "responseSha256": "e056762dbc612e86b6fbf32b8b748bb3b772ba2aadef4956dcd9404646479ef7",
+  "files": [
+    {
+      "path": "daft/00429-da4921860e1ff9a2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6b3f7481daba43acdc77e1d9e0942853a85f9cbe2360c099b6f646b36eb8b92d",
+      "bytes": 176671
+    },
+    {
+      "path": "daft/00429-da4921860e1ff9a2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7283bf0ef21a965c85afddc6d05b9844abcb72d489e5fc5128a8229d1c118de6",
+      "bytes": 8012
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=210",
+  "fetchedAt": "2026-10-05T12:02:37.696Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=210",
+  "kind": "search",
+  "responseSha256": "32413865f265e94ecdac11f29bdf4e8f2628288ff1b61f9edf38524f998c4298",
+  "files": [
+    {
+      "path": "myhome/04848-9a2513b072eb07e0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=210\"].SearchResults",
+      "sha256": "dcbfa72cbe30e77232cc8cdfeef7b422a4b9f95693dc4bf719153d92d6f127ec",
+      "bytes": 109136
+    },
+    {
+      "path": "myhome/04848-9a2513b072eb07e0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=210\"] (paging fields)",
+      "sha256": "0518c1883757c14437c2b862aa2f0ff099c26dd90c62cfd2f508d460df67668b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/56-ticknock-way-ticknock-hill-sandyford/4966144",
+    "https://www.myhome.ie/residential/brochure/dromcunnig-abbeydorney-kerry/5026912",
+    "https://www.myhome.ie/residential/brochure/31-ferndale-court-allies-road-rathmichael-county-dublin/5025634",
+    "https://www.myhome.ie/residential/brochure/92-shantalla-road-beaumont-dublin-9/5027323",
+    "https://www.myhome.ie/residential/brochure/8a-kenilworth-lane-east-rathmines-dublin-6/4994148",
+    "https://www.myhome.ie/residential/brochure/254a-elm-mount-avenue-beaumont-dublin-9/5027325",
+    "https://www.myhome.ie/residential/brochure/30-holywell-way-swords-county-dublin/5027322",
+    "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-co-kildare-3-bedroom/5005425",
+    "https://www.myhome.ie/residential/brochure/lacka-birr-carrig-tipperary/5027318",
+    "https://www.myhome.ie/residential/brochure/13-auburn-road-glenageary-co-dublin/5004567",
+    "https://www.myhome.ie/residential/brochure/53-viewmount-rathdrum-co-wicklow/5011866",
+    "https://www.myhome.ie/residential/brochure/7-armstrong-street-harold-s-cross-dublin-6/5027315",
+    "https://www.myhome.ie/residential/brochure/16-castleview-drive-swords-county-dublin/4999455",
+    "https://www.myhome.ie/residential/brochure/8-d-n-ir-court-kilternan-dublin-18/5027314",
+    "https://www.myhome.ie/residential/brochure/40-south-knock-new-ross-co-wexford/5027312",
+    "https://www.myhome.ie/residential/brochure/339-ballsgrove-drogheda-louth/5027310",
+    "https://www.myhome.ie/residential/brochure/77-leeson-street-upper-dublin-4/5027311",
+    "https://www.myhome.ie/residential/brochure/40-leeson-place-dublin-2/5005764",
+    "https://www.myhome.ie/residential/brochure/site-at-7-church-mews-malahide-co-dublin/5003638",
+    "https://www.myhome.ie/residential/brochure/37-woodbine-road-booterstown-co-dublin/5027304"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=211",
+  "paginationLimited": false
+}

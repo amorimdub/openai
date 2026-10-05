@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cappagh-meeltanagh-edgeworthstown-crossea-co-longford/6657278",
+  "fetchedAt": "2026-10-05T09:19:35.196Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cappagh-meeltanagh-edgeworthstown-crossea-co-longford/6657278",
+  "kind": "listing",
+  "responseSha256": "bd2c51647a2ab3ffe9c532a90c5688777af648d29937f15c3fc5d79a9475a96e",
+  "files": [
+    {
+      "path": "daft/00871-60f584686b0f990a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0454f1de70c53ac76c24ec4dcc453ac43959072faac1cd097d9c7dcbaa3882ce",
+      "bytes": 26721
+    },
+    {
+      "path": "daft/00871-60f584686b0f990a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c759f9a88ac6eea20a8ebf608aa83db91aa38cef4effb0627666e86fc2842e49",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

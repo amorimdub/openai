@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=353",
+  "fetchedAt": "2026-10-05T13:16:24.261Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=353",
+  "kind": "search",
+  "responseSha256": "179f43ed274b690ecf58472ef5094466489e744e5bdbdece9739d29771f12c20",
+  "files": [
+    {
+      "path": "myhome/07788-4355802fc04b44f8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=353\"].SearchResults",
+      "sha256": "4050f2e2eadeb90451e2b7bbc497e95669f77d29c81e15ad597013e8ea539331",
+      "bytes": 103357
+    },
+    {
+      "path": "myhome/07788-4355802fc04b44f8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=353\"] (paging fields)",
+      "sha256": "e6013be38ccd0b0e34db060fffec6ce39ee6688cf2222370731dad978788d906",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/cl-s-dhromainn-riverside-road-carrickmacross-monaghan/5019591",
+    "https://www.myhome.ie/residential/brochure/knocknaclogher-ballyroe-tralee-kerry/5017541",
+    "https://www.myhome.ie/residential/brochure/3-the-grove-crossbarry-cork/5019587",
+    "https://www.myhome.ie/residential/brochure/82-irishtown-clonmel-co-tipperary/5019612",
+    "https://www.myhome.ie/residential/brochure/site-c-toomes-co-louth/5019611",
+    "https://www.myhome.ie/residential/brochure/arden-lodge-kilrush-dungarvan-waterford/5019610",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-townhouse-old-church-shankill-dublin-18/5019609",
+    "https://www.myhome.ie/residential/brochure/10-parc-na-silla-rise-loughlinstown-dublin-18/5019521",
+    "https://www.myhome.ie/residential/brochure/11-beverton-court-donabate-county-dublin/5019607",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-duplex-old-church-shankill-dublin-18/5019606",
+    "https://www.myhome.ie/residential/brochure/26-wilfield-park-sandymount-dublin-4/4952523",
+    "https://www.myhome.ie/residential/brochure/wells-bagenalstown-co-carlow/5019597",
+    "https://www.myhome.ie/residential/brochure/2-the-hawthorns-drumgola-wood-cavan-county-cavan/5019596",
+    "https://www.myhome.ie/residential/brochure/79-clonmullion-athy-county-kildare/5019593",
+    "https://www.myhome.ie/residential/brochure/apartment-5-109-parnell-street-north-city-centre-dublin-1/5018744",
+    "https://www.myhome.ie/residential/brochure/74-ashbrook-oranmore-co-galway/5019589",
+    "https://www.myhome.ie/residential/brochure/site-b-toomes-co-louth/5019588",
+    "https://www.myhome.ie/residential/brochure/10-mulberry-crest-church-road-mitchelstown-cork/5019578",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-end-of-terrace-old-church-shankill-dublin-18/5019585",
+    "https://www.myhome.ie/residential/brochure/site-at-clontirm-mullagh-bog-ld9122-plan-4-longford-town-co-longford/5019583"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=354",
+  "paginationLimited": false
+}

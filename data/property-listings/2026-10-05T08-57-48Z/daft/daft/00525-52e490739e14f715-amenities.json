@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST ANNES NATIONAL SCHOOL",
+      "numPupils": 344,
+      "distance": {
+        "value": 2.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.297318",
+        "lon": "-6.567904"
+      }
+    },
+    {
+      "schoolName": "NORTH KILDARE EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 435,
+      "distance": {
+        "value": 2.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.333317",
+        "lon": "-6.557797"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 384,
+      "distance": {
+        "value": 2.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.332550",
+        "lon": "-6.528662"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELS SCHOOL CELBRIDGE",
+      "numPupils": 97,
+      "distance": {
+        "value": 2.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.337696",
+        "lon": "-6.545646"
+      }
+    },
+    {
+      "schoolName": "PRIMROSE HILL NATIONAL SCHOOL",
+      "numPupils": 113,
+      "distance": {
+        "value": 2.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336704",
+        "lon": "-6.537107"
+      }
+    },
+    {
+      "schoolName": "SCOIL NA MAINISTREACH",
+      "numPupils": 460,
+      "distance": {
+        "value": 2.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.340244",
+        "lon": "-6.554401"
+      }
+    },
+    {
+      "schoolName": "SCOIL NAOMH BRÍD",
+      "numPupils": 258,
+      "distance": {
+        "value": 2.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.339770",
+        "lon": "-6.540845"
+      }
+    },
+    {
+      "schoolName": "ST FINIAN'S PRIMARY SCHOOL",
+      "numPupils": 644,
+      "distance": {
+        "value": 3.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.299137",
+        "lon": "-6.502178"
+      }
+    },
+    {
+      "schoolName": "AGHARDS NATIONAL SCHOOL",
+      "numPupils": 665,
+      "distance": {
+        "value": 3.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.348797",
+        "lon": "-6.549404"
+      }
+    },
+    {
+      "schoolName": "STRAFFAN NATIONAL SCHOOL",
+      "numPupils": 408,
+      "distance": {
+        "value": 4.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314926",
+        "lon": "-6.612241"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST WOLSTANS COMMUNITY SCHOOL",
+      "numPupils": 820,
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.333965",
+        "lon": "-6.561933"
+      }
+    },
+    {
+      "schoolName": "SALESIAN COLLEGE",
+      "numPupils": 842,
+      "distance": {
+        "value": 4.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.358128",
+        "lon": "-6.551432"
+      }
+    },
+    {
+      "schoolName": "CELBRIDGE COMMUNITY SCHOOL",
+      "numPupils": 714,
+      "distance": {
+        "value": 5.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.359314",
+        "lon": "-6.549485"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY COMMUNITY SCHOOL",
+      "numPupils": 986,
+      "distance": {
+        "value": 6.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276820",
+        "lon": "-6.480015"
+      }
+    },
+    {
+      "schoolName": "ADAMSTOWN COMMUNITY COLLEGE",
+      "numPupils": 980,
+      "distance": {
+        "value": 6.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336235",
+        "lon": "-6.462283"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHIARÁIN",
+      "numPupils": 638,
+      "distance": {
+        "value": 6.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.363890",
+        "lon": "-6.499253"
+      }
+    },
+    {
+      "schoolName": "CONFEY COMMUNITY COLLEGE",
+      "numPupils": 911,
+      "distance": {
+        "value": 7.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.373230",
+        "lon": "-6.498512"
+      }
+    },
+    {
+      "schoolName": "LUCAN COMMUNITY COLLEGE",
+      "numPupils": 966,
+      "distance": {
+        "value": 7.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.347670",
+        "lon": "-6.449750"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE POBAIL FÓLA",
+      "numPupils": 658,
+      "distance": {
+        "value": 8.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286320",
+        "lon": "-6.433345"
+      }
+    },
+    {
+      "schoolName": "MAYNOOTH COMMUNITY COLLEGE",
+      "numPupils": 962,
+      "distance": {
+        "value": 8.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384390",
+        "lon": "-6.595700"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Rail",
+      "stop": "Hazelhatch and Celbridge",
+      "route": "Commuter",
+      "destination": "Dublin Pearse",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323003",
+        "lon": "-6.523108"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Hazelhatch and Celbridge",
+      "route": "rail",
+      "destination": "Kildare",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323003",
+        "lon": "-6.523108"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hazelhatch Station",
+      "route": "W6",
+      "destination": "Community College",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 2.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323383",
+        "lon": "-6.52257"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hazelhatch Road",
+      "route": "L58",
+      "destination": "Hazelhatch Station",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 2.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.32869",
+        "lon": "-6.529428"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hazelhatch Road",
+      "route": "L59",
+      "destination": "Hazelhatch Station",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 2.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.32869",
+        "lon": "-6.529428"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hazelhatch Station",
+      "route": "L58",
+      "destination": "Hazelhatch Station",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 2.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323586",
+        "lon": "-6.522248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hazelhatch Station",
+      "route": "L59",
+      "destination": "Hazelhatch Station",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 2.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.323586",
+        "lon": "-6.522248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hazelhatch Road",
+      "route": "W6",
+      "destination": "Community College",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 2.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.3290618729567",
+        "lon": "-6.52973027620656"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Priory Lodge",
+      "route": "L59",
+      "destination": "River Forest",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 2.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.334778",
+        "lon": "-6.54584"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killeenlea",
+      "route": "120A",
+      "destination": "UCD Belfield",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.332938",
+        "lon": "-6.566068"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=442",
+  "fetchedAt": "2026-10-05T14:02:10.947Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=442",
+  "kind": "search",
+  "responseSha256": "9471c57b7af42d71094e3c2013317fd6486e93028283f16fcb40bb2c0d67103d",
+  "files": [
+    {
+      "path": "myhome/09615-4f9c910d5789cf1c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=442\"].SearchResults",
+      "sha256": "8ed20db9524d30b4ee0b54c473f5f0de9dcdb070871756e4784bfeeec5c237db",
+      "bytes": 99821
+    },
+    {
+      "path": "myhome/09615-4f9c910d5789cf1c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=442\"] (paging fields)",
+      "sha256": "3c901da58c740992a806bc0c6c4599b3a527edf22f442489e17f8f4ec847d3ee",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/83-newmarket-square-south-city-centre-d8-dublin-8/4985544",
+    "https://www.myhome.ie/residential/brochure/aisling-geal-shandrum-mullagh-co-clare/5009616",
+    "https://www.myhome.ie/residential/brochure/4-bed-houses-mercer-s-court-rathcoole-county-dublin/5009611",
+    "https://www.myhome.ie/residential/brochure/3-bed-houses-mercer-s-court-rathcoole-county-dublin/5009609",
+    "https://www.myhome.ie/residential/brochure/8-oakland-drive-greystones-ennis-road-limerick/5004376",
+    "https://www.myhome.ie/residential/brochure/no-9-lakeside-cottages-drumcong-co-leitrim-drumshanbo/5009591",
+    "https://www.myhome.ie/residential/brochure/kilkeasy-hugginstown-kilkenny-co-kilkenny/5007816",
+    "https://www.myhome.ie/residential/brochure/81-hybreasal-house-south-circular-road-dublin-8/5009565",
+    "https://www.myhome.ie/residential/brochure/23-cois-croinn-dundalk-county-louth/5009554",
+    "https://www.myhome.ie/residential/brochure/mountrice-monastervin-co-kildare/5009546",
+    "https://www.myhome.ie/residential/brochure/knockanecoolteen-firies-kerry/5009523",
+    "https://www.myhome.ie/residential/brochure/knockanecoolteen-firies-tralee-kerry/5009540",
+    "https://www.myhome.ie/residential/brochure/munster-double-glazing-unit-19-southside-industrial-estate-pouladuff-ardnacrusha-clare/5009537",
+    "https://www.myhome.ie/residential/brochure/2-wendy-walsh-close-lusk-village-lusk-co-dublin/5009529",
+    "https://www.myhome.ie/residential/brochure/narin-county-donegal/5009519",
+    "https://www.myhome.ie/residential/brochure/51-rose-drive-rath-ullord-co-kilkenny/5009513",
+    "https://www.myhome.ie/residential/brochure/2-rinn-na-mara-belgrave-road-monkstown-co-dublin/4998967",
+    "https://www.myhome.ie/residential/brochure/17-mill-road-saggart-co-dublin/5009505",
+    "https://www.myhome.ie/residential/brochure/8-lakeside-close-mountshannon-clare/5009499",
+    "https://www.myhome.ie/residential/brochure/89-seabury-crescent-malahide-county-dublin/4557189"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=443",
+  "paginationLimited": false
+}

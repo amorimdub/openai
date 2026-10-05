@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/78-rivermill-view-navan-co-meath/6684190",
+  "fetchedAt": "2026-10-05T09:44:37.232Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/78-rivermill-view-navan-co-meath/6684190",
+  "kind": "listing",
+  "responseSha256": "5f8c93b32046efabf377346852e61bbc104b011e163f3b1b97895195d7958c11",
+  "files": [
+    {
+      "path": "daft/01871-c36d167c727ecc3a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ce71b4b1936b1d715f03cf66462da74d77c9ca05862807f5a43167f4b26ec93a",
+      "bytes": 37344
+    },
+    {
+      "path": "daft/01871-c36d167c727ecc3a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e77b74182181da0f029b52022bba3447ca2d1e9d6d08c50634a3dfdbae1365cb",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=16",
+  "fetchedAt": "2026-10-05T09:17:54.589Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=16",
+  "kind": "search",
+  "responseSha256": "d06c297b3c9364706663a5faf5a5a580483a6cae27061eb1360bdbb554a050af",
+  "files": [
+    {
+      "path": "daft/00804-0ce34947dbc47c20-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a6665d2a03de8f2f52a23b627a0133a5ff3180e7dfd66c746de3af53c10cc01c",
+      "bytes": 298886
+    },
+    {
+      "path": "daft/00804-0ce34947dbc47c20-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00804-0ce34947dbc47c20-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "a7471fa4955ffda80c82b0523161e7101c1e9e3817a2d1552b8ddabefed9dc89",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/2-the-grove-saint-catherines-estate-rush-co-dublin/6667316",
+    "https://www.daft.ie/for-sale/7-butterfield-grove-rathfarnham-dublin-14-co-dublin/6604348",
+    "https://www.daft.ie/for-sale/apartment-22-malton-ballsbridge-dublin-4/6673472",
+    "https://www.daft.ie/for-sale/10-woodbrook-court-castleknock-dublin-15-co-dublin/6617115",
+    "https://www.daft.ie/for-sale/jireh-95-meadow-grove-churchtown-dublin-16/6678135",
+    "https://www.daft.ie/for-sale/8-hyde-house-clonfadda-wood-mount-merrion-avenue-blackrock-co-dublin/6665943",
+    "https://www.daft.ie/for-sale/5-sandyford-village-sandyford-dublin-18/6496239",
+    "https://www.daft.ie/for-sale/cloverhill-ballinrobe-co-mayo/6675533",
+    "https://www.daft.ie/for-sale/ballyglass-east-loughglynn-castlerea-co-roscommon/6640291",
+    "https://www.daft.ie/for-sale/ballindrumlea-castlerea-castlerea-co-roscommon/6615434",
+    "https://www.daft.ie/for-sale/nyrack-cottage-culkeen-cloonfad-cloonfad-co-roscommon/6653253",
+    "https://www.daft.ie/for-sale/tarmun-road-castlerea-castlerea-co-roscommon/6618846",
+    "https://www.daft.ie/for-sale/old-school-house-mullen-frenchpark-castlerea-co-roscommon/6614580",
+    "https://www.daft.ie/for-sale/lugakeeran-castlerea-castlerea-co-roscommon/6545892",
+    "https://www.daft.ie/for-sale/woodview-ballindrumlea-castlerea-co-roscommon/6549699",
+    "https://www.daft.ie/for-sale/caddellbrook-school-caddellbrook-castlerea-co-roscommon/6551355",
+    "https://www.daft.ie/for-sale/trien-castlerea-co-roscommon/6545893",
+    "https://www.daft.ie/for-sale/cloongoonagh-ballyhaunis-ballyhaunis-co-mayo/6618815",
+    "https://www.daft.ie/for-sale/6-elm-gardens-balla-balla-co-mayo/6651990",
+    "https://www.daft.ie/for-sale/anamchara-mace-middle-claremorris-co-mayo/6652013"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=17",
+  "paginationLimited": false
+}

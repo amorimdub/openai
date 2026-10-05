@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=29",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=29",
+  "fetchedAt": "2026-10-05T09:24:53.283Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "c82d5f93af7205ef8e5dc5d7077ed54500e62dd3c39719eda35b76638e9dec1e",
+  "files": [
+    {
+      "path": "myhome/01078-d6d11ecb1c8bae68-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=29\"].SearchResults",
+      "sha256": "016ab85a1e323b038561bf30ca52091f7f8ab884102dfba007a688b0e5485240",
+      "bytes": 114043
+    },
+    {
+      "path": "myhome/01078-d6d11ecb1c8bae68-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=29\"] (paging fields)",
+      "sha256": "1ca46e435d5edbce6a6fd873d5c91453412f86d89ec0abf8dddb1529c5029a9d",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-crannagh-way-rathfarnham-dublin-14/5030064",
+    "https://www.myhome.ie/residential/brochure/27-morrissons-road-co-waterford/5031758",
+    "https://www.myhome.ie/residential/brochure/42-village-court-butterfield-avenue-rathfarnham-dublin-14/5029417",
+    "https://www.myhome.ie/residential/brochure/41-glendoher-drive-rathfarnham-dublin-16/5029627",
+    "https://www.myhome.ie/residential/brochure/100-silchester-park-glenageary-co-dublin/5023462",
+    "https://www.myhome.ie/residential/brochure/44-coolgarriff-road-beaumont-dublin-9/5031289",
+    "https://www.myhome.ie/residential/brochure/27-boru-walk-newtown-killaloe-clare/5026594",
+    "https://www.myhome.ie/residential/brochure/50-shingan-milehouse-road-enniscorthy-wexford/5031756",
+    "https://www.myhome.ie/residential/brochure/171-the-oaks-newbridge-kildare/5031751",
+    "https://www.myhome.ie/residential/brochure/34-new-street-macroom-co-cork/5031757",
+    "https://www.myhome.ie/residential/brochure/7-the-green-the-hawthorns-tullamore-offaly/5031754",
+    "https://www.myhome.ie/residential/brochure/35-cherryfield-avenue-lower-ranelagh-dublin-6/5024277",
+    "https://www.myhome.ie/residential/brochure/45-eglinton-road-donnybrook-dublin-4/5027820",
+    "https://www.myhome.ie/residential/brochure/93-rowan-hill-mount-oval-village-rochestown-co-cork/5031753",
+    "https://www.myhome.ie/residential/brochure/curraclogh-cork-lissarda-co-cork/5031752",
+    "https://www.myhome.ie/residential/brochure/14-32-cook-street-dublin-8/5031750",
+    "https://www.myhome.ie/residential/brochure/eighter-island-burtonport-county-donegal/5031749",
+    "https://www.myhome.ie/residential/brochure/3-jameson-court-raheny-dublin-5/5031680",
+    "https://www.myhome.ie/residential/brochure/39-cross-avenue-dun-laoghaire-county-dublin/5031745",
+    "https://www.myhome.ie/residential/brochure/14-rossmore-drive-templeogue-dublin-6w/5029396"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=30",
+  "paginationLimited": false
+}

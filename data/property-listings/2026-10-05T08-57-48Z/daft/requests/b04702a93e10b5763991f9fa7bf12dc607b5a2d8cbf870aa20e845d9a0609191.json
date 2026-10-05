@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/45-belarmine-vale-belarmine-dublin-18/6686167",
+  "fetchedAt": "2026-10-05T09:31:12.225Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/45-belarmine-vale-belarmine-dublin-18/6686167",
+  "kind": "listing",
+  "responseSha256": "1d0c229db02535021cd8b4baa887d6082e5a7bcaeb3410bc0642be94db591195",
+  "files": [
+    {
+      "path": "daft/01335-b04702a93e10b576-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d7cf71554baf391325b1b7863b6fb44de1b2cab7bfe719a333b2f4062febc0ec",
+      "bytes": 22061
+    },
+    {
+      "path": "daft/01335-b04702a93e10b576-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7090bbd747aaa7c2051220202b09943baad6c94b607d78198288e8e95ba3c0ed",
+      "bytes": 8028
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

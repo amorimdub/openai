@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/white-oaks-clonskeagh-co-dublin/6687221",
+  "fetchedAt": "2026-10-05T09:24:04.045Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/white-oaks-clonskeagh-co-dublin/6687221",
+  "kind": "listing",
+  "responseSha256": "2da770bc821349ab4722c7641feea385dedcea66632e7c8612ac5cafd70e6660",
+  "files": [
+    {
+      "path": "daft/01050-fb7af3231ca5a414-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5433659de6558b27e8486ec543d66e08650c4e3304de749d0b3ec1563019eb6a",
+      "bytes": 17482
+    },
+    {
+      "path": "daft/01050-fb7af3231ca5a414-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2b7459cf67306059736899b673d22da70877417bf4c3e32c80e33571f5fa51cc",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=39",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=39",
+  "fetchedAt": "2026-10-05T09:32:06.056Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "88689c52a9b1a1d9ece954b5dfe3f6453415ef56beb5927fddff4499457852ce",
+  "files": [
+    {
+      "path": "myhome/01366-1c3317f3c2ea4100-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=39\"].SearchResults",
+      "sha256": "d0369266d013b5337c989e2ad1075e54c458413ad017542ac13fee85bcf94211",
+      "bytes": 112062
+    },
+    {
+      "path": "myhome/01366-1c3317f3c2ea4100-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=39\"] (paging fields)",
+      "sha256": "b85264faa27b2807622eefb21cd3ff456b4db3f65dcf921c247f8b1ba0cfa938",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/hadleigh-137-stillorgan-road-donnybrook-dublin-4/4980915",
+    "https://www.myhome.ie/residential/brochure/18-parsons-hall-maynooth-co-kildare/5031573",
+    "https://www.myhome.ie/residential/brochure/87-glendara-kill-county-kildare/5025711",
+    "https://www.myhome.ie/residential/brochure/16-lakelands-naas-county-kildare/5030060",
+    "https://www.myhome.ie/residential/brochure/victoria-lodge-57-terenure-road-east-rathgar-dublin-6/5026476",
+    "https://www.myhome.ie/residential/brochure/24-clonile-old-cratloe-road-caherdavin-limerick/5030048",
+    "https://www.myhome.ie/residential/brochure/63-curragh-finn-kildare-town-co-kildare/5031570",
+    "https://www.myhome.ie/residential/brochure/13a-strand-road-sandymount-dublin-4/5031569",
+    "https://www.myhome.ie/residential/brochure/menagerie-manor-hedge-road-garristown-meath/5029803",
+    "https://www.myhome.ie/residential/brochure/10-emmet-street-tipperary-town-co-tipperary/5031568",
+    "https://www.myhome.ie/residential/brochure/58-edenmore-avenue-raheny-dublin-5/5031566",
+    "https://www.myhome.ie/residential/brochure/the-orchard-ballinwillin-mitchelstown-cork/5031554",
+    "https://www.myhome.ie/residential/brochure/raistin-court-clonmellon-westmeath/5025429",
+    "https://www.myhome.ie/residential/brochure/new-test-boat-fahan-donegal/5031562",
+    "https://www.myhome.ie/residential/brochure/123-chapel-park-kinnegad-westmeath/5031560",
+    "https://www.myhome.ie/residential/brochure/tullagee-knockbridge-dundalk-county-louth/5031559",
+    "https://www.myhome.ie/residential/brochure/tobinstown-lodge-tobinstown-tullow-co-carlow/5031558",
+    "https://www.myhome.ie/residential/brochure/23-rathmore-aughrim-wicklow/5021078",
+    "https://www.myhome.ie/residential/brochure/41-willow-park-road-glasnevin-dublin-11/5031552",
+    "https://www.myhome.ie/residential/brochure/lough-derg-house-dromineer-nenagh-co-tipperary/5031556"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=40",
+  "paginationLimited": false
+}

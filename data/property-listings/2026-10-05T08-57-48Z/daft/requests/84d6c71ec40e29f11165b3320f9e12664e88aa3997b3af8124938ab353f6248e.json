@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-marian-park-tralee-tralee-co-kerry/6682243",
+  "fetchedAt": "2026-10-05T08:58:01.697Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-marian-park-tralee-tralee-co-kerry/6682243",
+  "kind": "listing",
+  "responseSha256": "2488aa91149b8044eaa0e17b539e4cca83bb4a50b71b000a92396e7ae7f4cd5f",
+  "files": [
+    {
+      "path": "daft/00010-84d6c71ec40e29f1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "22e7e66cf161d9aae4c1ca9e44268cc2bcde2fcca64b494743df06609896912a",
+      "bytes": 74798
+    },
+    {
+      "path": "daft/00010-84d6c71ec40e29f1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5dbe5ed176afa022ac02b354ef163ff0460eb7cdf56079e990c4549894179b44",
+      "bytes": 8098
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

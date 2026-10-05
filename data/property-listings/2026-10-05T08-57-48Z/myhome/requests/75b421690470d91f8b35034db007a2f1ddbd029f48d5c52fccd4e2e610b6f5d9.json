@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=485",
+  "fetchedAt": "2026-10-05T14:24:25.727Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=485",
+  "kind": "search",
+  "responseSha256": "6429cf6cea41747cbd63019a74fc057d7caca3505b9eefc4e41b77fb47cf6dba",
+  "files": [
+    {
+      "path": "myhome/10503-75b421690470d91f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=485\"].SearchResults",
+      "sha256": "38da115f3d3cd0f48084ff1de44e1002e6d8ec79021aef5787efe814580de075",
+      "bytes": 117642
+    },
+    {
+      "path": "myhome/10503-75b421690470d91f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=485\"] (paging fields)",
+      "sha256": "41fd2da4737b7833814f07ee7b40cb4f64f2ba5d61fa3330c58615dc7f443159",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/164-captain-s-road-kimmage-dublin-12/5003574",
+    "https://www.myhome.ie/residential/brochure/41-aylesbury-ballintemple-cork-city-co-cork/5004334",
+    "https://www.myhome.ie/residential/brochure/srahaunananta-kilnadeema-loughrea-co-galway/5004331",
+    "https://www.myhome.ie/residential/brochure/claragh-house-ramelton-co-donegal/4946655",
+    "https://www.myhome.ie/residential/brochure/ballyarr-house-ramelton-co-donegal/4955521",
+    "https://www.myhome.ie/residential/brochure/27-assumption-place-clonakilty-west-cork/5003456",
+    "https://www.myhome.ie/residential/brochure/darney-bruckless-co-donegal/5004313",
+    "https://www.myhome.ie/residential/brochure/4-dun-eoin-brook-carrigaline-cork/5000568",
+    "https://www.myhome.ie/residential/brochure/dromore-upper-mountcharles-county-donegal/5004308",
+    "https://www.myhome.ie/residential/brochure/derryiron-rhode-offaly/5004012",
+    "https://www.myhome.ie/residential/brochure/the-bay-view-inn-guest-house-kilcrohane-west-cork/5003911",
+    "https://www.myhome.ie/residential/brochure/20-mary-street-dungarvan-waterford/5004286",
+    "https://www.myhome.ie/residential/brochure/darnley-grove-athboy-meath/5004287",
+    "https://www.myhome.ie/residential/brochure/site-with-o-p-p-at-haven-hill-summercove-kinsale-cork/5004279",
+    "https://www.myhome.ie/residential/brochure/thatch-ballagh-menlough-ballinasloe-co-galway/5004288",
+    "https://www.myhome.ie/residential/brochure/37-daffodil-way-forest-hill-carrigaline-cork/5000999",
+    "https://www.myhome.ie/residential/brochure/17-whiteoaks-clover-hill-carrigaline-cork/4949173",
+    "https://www.myhome.ie/residential/brochure/darnley-grove-athboy-meath/5004276",
+    "https://www.myhome.ie/residential/brochure/flat-2-supervalu-centre-wicklow-town-wicklow/5004273",
+    "https://www.myhome.ie/residential/brochure/windy-ridge-rochestown-road-rochestown-cork/5004220"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=486",
+  "paginationLimited": false
+}

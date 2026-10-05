@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/ballyharty-kilmore-co-wexford/6664926",
+  "fetchedAt": "2026-10-05T09:39:00.723Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/ballyharty-kilmore-co-wexford/6664926",
+  "kind": "listing",
+  "responseSha256": "8a8152a9593cb57c1d0026d885b4ea41a8cbb176be76828cb33c888cbdc6ca01",
+  "files": [
+    {
+      "path": "daft/01647-b85ac2cf78bf5557-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ede71a316707cb63ab86807d278b4a8af55ef64059433ed6e423ea9f5b0a9a89",
+      "bytes": 56801
+    },
+    {
+      "path": "daft/01647-b85ac2cf78bf5557-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b61658ed01191503fe542f0c8ed3bd639016858ffc2efe9f35b5c57995235f89",
+      "bytes": 8163
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

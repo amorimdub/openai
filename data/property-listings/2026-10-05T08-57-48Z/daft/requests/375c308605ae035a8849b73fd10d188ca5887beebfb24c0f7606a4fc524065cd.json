@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/morrow-house-the-coast-baldoyle-dublin-13/6685843",
+  "fetchedAt": "2026-10-05T09:27:56.931Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/morrow-house-the-coast-baldoyle-dublin-13/6685843",
+  "kind": "listing",
+  "responseSha256": "8fd76bc4745a6fc7688a96c6b1d509bbd7b0c9b939d438b05f5e637c9421b77a",
+  "files": [
+    {
+      "path": "daft/01205-375c308605ae035a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6f17fc6a1456163c62f4b98de5fe568807d5889175a3458bfaf205be93ceb749",
+      "bytes": 18007
+    },
+    {
+      "path": "daft/01205-375c308605ae035a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

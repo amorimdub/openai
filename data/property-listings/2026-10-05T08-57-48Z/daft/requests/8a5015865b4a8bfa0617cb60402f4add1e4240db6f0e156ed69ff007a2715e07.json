@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-gap-riverstown-tramore-co-waterford/6686428",
+  "fetchedAt": "2026-10-05T09:28:08.949Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-gap-riverstown-tramore-co-waterford/6686428",
+  "kind": "listing",
+  "responseSha256": "acbacf3fe518e9c3231fb3dce1729d738d8667791a2fc499c16d9bfaa3093140",
+  "files": [
+    {
+      "path": "daft/01213-8a5015865b4a8bfa-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3d63c2229f210cd9cc11b7c39f3928aa8a110521b6652cd7f20979095dbc32eb",
+      "bytes": 36951
+    },
+    {
+      "path": "daft/01213-8a5015865b4a8bfa-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "897c694a5ab886e130c81e3064a8e67bef9ec9505d796df9ec5d5670a88eef97",
+      "bytes": 8109
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

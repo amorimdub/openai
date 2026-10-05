@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/millmount-grove-dublin-14-windy-arbour-dublin-14/6686251",
+  "fetchedAt": "2026-10-05T09:30:10.659Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/millmount-grove-dublin-14-windy-arbour-dublin-14/6686251",
+  "kind": "listing",
+  "responseSha256": "7a2ebeb67bbdf3a1cf770060099f83a955eed44dc8e4ebf2031000495729a02c",
+  "files": [
+    {
+      "path": "daft/01294-903f5c4d13c4b269-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "02627d5ffe240fb491a0c7d5709a4cf0ada5f12f1c5b1dbd0828b003a5e965d0",
+      "bytes": 19611
+    },
+    {
+      "path": "daft/01294-903f5c4d13c4b269-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "77a23635d5b8d4a1993b78f4926c2f21a1070cfd1c6f3fac64718678892a00c9",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

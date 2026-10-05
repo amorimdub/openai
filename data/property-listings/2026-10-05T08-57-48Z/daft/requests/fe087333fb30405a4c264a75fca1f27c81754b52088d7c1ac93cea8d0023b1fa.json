@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/campbellstown-letterkenny-co-donegal/6677735",
+  "fetchedAt": "2026-10-05T09:49:58.749Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/campbellstown-letterkenny-co-donegal/6677735",
+  "kind": "listing",
+  "responseSha256": "d92adfd2b29b71b0be47259ebc6cb44ccc791ffcf7b65e93e1bfcfa530664583",
+  "files": [
+    {
+      "path": "daft/02085-fe087333fb30405a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a71a8f56990e291dddc219327a523754005f7db7adc6d2851a561c9c830d9522",
+      "bytes": 26722
+    },
+    {
+      "path": "daft/02085-fe087333fb30405a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "df6d603881987c5411ba44060d4790d9472d2fd7cd323856d4f1490bc750df60",
+      "bytes": 8224
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

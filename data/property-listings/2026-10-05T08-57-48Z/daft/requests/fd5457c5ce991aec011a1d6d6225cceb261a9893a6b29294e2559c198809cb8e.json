@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/rathbaun-house-bride-street-loughrea-co-galway/6519112",
+  "fetchedAt": "2026-10-05T09:05:04.119Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/rathbaun-house-bride-street-loughrea-co-galway/6519112",
+  "kind": "listing",
+  "responseSha256": "40da251901cf0b1808305208886de53a71a252b0a1d8c954de7d8e425d941c02",
+  "files": [
+    {
+      "path": "daft/00291-fd5457c5ce991aec-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "95a59f286148291abc27089d1fa0190e86a49051f37abb4b6d5858916fb416aa",
+      "bytes": 64255
+    },
+    {
+      "path": "daft/00291-fd5457c5ce991aec-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aba9b362a212a48cc7182df0f99bb0a5ee85631c4c698137490e756949c10ec5",
+      "bytes": 7974
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

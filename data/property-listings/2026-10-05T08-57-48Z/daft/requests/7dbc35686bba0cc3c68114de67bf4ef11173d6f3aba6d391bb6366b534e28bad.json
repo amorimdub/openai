@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ballyduffmore-dungarvan-co-waterford/6686936",
+  "fetchedAt": "2026-10-05T09:25:05.650Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ballyduffmore-dungarvan-co-waterford/6686936",
+  "kind": "listing",
+  "responseSha256": "ba026778f6415992c38e87ec6dd7bec74003412ea7b49790b8d8554dcef0a060",
+  "files": [
+    {
+      "path": "daft/01091-7dbc35686bba0cc3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f928d6a05d7b89137e4646acbe9966e1577b3f174fc6018aba15bf1f6e571932",
+      "bytes": 6932
+    },
+    {
+      "path": "daft/01091-7dbc35686bba0cc3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2302203a9c81a6473d6b68832146e09dda5cb4d8670bef66f38aa9951a9e627b",
+      "bytes": 8174
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

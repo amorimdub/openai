@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/jamess-street-dublin-8/6685870",
+  "fetchedAt": "2026-10-05T09:33:25.864Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/jamess-street-dublin-8/6685870",
+  "kind": "listing",
+  "responseSha256": "bae7c36686a3977375cc9b3a877ba8c19cf2c8facd37d629b1118b6f0b255d27",
+  "files": [
+    {
+      "path": "daft/01424-c3f006c21798710a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0c39468fada9af6f93e288fecaf6ba296b718231cde4804f0e873e626793c4e4",
+      "bytes": 34659
+    },
+    {
+      "path": "daft/01424-c3f006c21798710a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "30064eb6abfd803c4ed88f9442becead4862967baaba236e86613073560cbb7a",
+      "bytes": 8080
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

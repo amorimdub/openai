@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=423",
+  "fetchedAt": "2026-10-05T13:52:29.306Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=423",
+  "kind": "search",
+  "responseSha256": "4e23054f69711a69d15428f6c0125c554c9af6445d6474ccdf06308c3ba5db5b",
+  "files": [
+    {
+      "path": "myhome/09228-a5fafe5cb4d872ae-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=423\"].SearchResults",
+      "sha256": "1630b2e423081f11cb70ef4512c753e7ce52e176d541b0eb73d747984e9b4872",
+      "bytes": 119865
+    },
+    {
+      "path": "myhome/09228-a5fafe5cb4d872ae-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=423\"] (paging fields)",
+      "sha256": "fdf03a9013a705a5e8d7e1ac11ea150ac2df6e8330373786b469c4c9e4a331f9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/26-whitethorn-square-whitethorn-village-naas-kildare/5002809",
+    "https://www.myhome.ie/residential/brochure/sacre-coeur-89-cill-cais-oldbawn-dublin-24/5011163",
+    "https://www.myhome.ie/residential/brochure/main-st-fethard-tipperary/5011328",
+    "https://www.myhome.ie/residential/brochure/59-canterbrook-trim-road-navan-county-meath/5011325",
+    "https://www.myhome.ie/residential/brochure/hillview-house-kilmurray-tullamore-offaly/5011310",
+    "https://www.myhome.ie/residential/brochure/3-the-rise-main-street-blanchardstown-blanchardstown-dublin/5011313",
+    "https://www.myhome.ie/residential/brochure/2-orchard-rise-stamullen-meath/5002392",
+    "https://www.myhome.ie/residential/brochure/loughill-village-loughill-limerick/5011293",
+    "https://www.myhome.ie/residential/brochure/11-st-edmunds-park-lucan-co-dublin/5011288",
+    "https://www.myhome.ie/residential/brochure/23-avoca-hall-avoca-avenue-blackrock-co-dublin/5011285",
+    "https://www.myhome.ie/residential/brochure/cashel-ayle-westport-co-mayo/5011284",
+    "https://www.myhome.ie/residential/brochure/dirk-cove-dundeady-castlefreke-clonakilty-west-cork/5011264",
+    "https://www.myhome.ie/residential/brochure/17-the-grove-heathfield-carriganarra-ballincollig-co-cork/5011269",
+    "https://www.myhome.ie/residential/brochure/east-grove-carrigaline-road-douglas-cork-city/5000963",
+    "https://www.myhome.ie/residential/brochure/39-chandlers-rest-cobh-cork/5011152",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5011044",
+    "https://www.myhome.ie/residential/brochure/45-college-avenue-clonmel-tipperary/5011253",
+    "https://www.myhome.ie/residential/brochure/the-gables-33-saint-marys-road-galway/5011251",
+    "https://www.myhome.ie/residential/brochure/13-emmet-street-kilkenny/5011244",
+    "https://www.myhome.ie/residential/brochure/kilgarve-gardens-ballinasloe-galway/5011227"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=424",
+  "paginationLimited": false
+}

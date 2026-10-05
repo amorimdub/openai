@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/38-rockfield-avenue-dublin-12-perrystown-dublin-12/6678357",
+  "fetchedAt": "2026-10-05T09:16:09.479Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/38-rockfield-avenue-dublin-12-perrystown-dublin-12/6678357",
+  "kind": "listing",
+  "responseSha256": "e6f554b9990410d7bccb0674555608937ee7436a131fe0111f1ee87f284837ec",
+  "files": [
+    {
+      "path": "daft/00734-071dec005a8f5892-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "91d644a613fcfbf228cbaf2ae0d5350612a5de4e329f2b5763f2362b5773716e",
+      "bytes": 74153
+    },
+    {
+      "path": "daft/00734-071dec005a8f5892-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2860c6b63fb6becc1dadcad71e4176e0522172333e81d3077d2afbd9af29318a",
+      "bytes": 8083
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

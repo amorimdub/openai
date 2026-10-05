@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/bellevue-dublin-8-kilmainham-dublin-8/6686639",
+  "fetchedAt": "2026-10-05T09:15:40.950Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/bellevue-dublin-8-kilmainham-dublin-8/6686639",
+  "kind": "listing",
+  "responseSha256": "ac6f52552c654433a438e711331c919f674d4f383947309afee5df3f59bf7da4",
+  "files": [
+    {
+      "path": "daft/00715-9581f828aafb5c64-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "beb4cf62c363d3be66129d7d7480e8c30d359470c1ba32c70552f4e5943065a2",
+      "bytes": 29387
+    },
+    {
+      "path": "daft/00715-9581f828aafb5c64-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

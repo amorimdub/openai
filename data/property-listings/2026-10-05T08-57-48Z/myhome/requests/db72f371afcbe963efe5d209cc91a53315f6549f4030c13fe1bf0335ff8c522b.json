@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=500",
+  "fetchedAt": "2026-10-05T14:32:11.683Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=500",
+  "kind": "search",
+  "responseSha256": "1b362628225148f6f4da89ef7cba029fb74d9268e79b23ea638b64a56466fa1b",
+  "files": [
+    {
+      "path": "myhome/10813-db72f371afcbe963-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=500\"].SearchResults",
+      "sha256": "89e415581ba08c9b9ca760ae087b18d174988ec655986a6274bbb5076f05d5da",
+      "bytes": 123305
+    },
+    {
+      "path": "myhome/10813-db72f371afcbe963-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=500\"] (paging fields)",
+      "sha256": "93a1b32247c6851d2fd66a3948f19031279a2d61e3c0f55f35f9afaafc27868f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1c-the-glasslyn-parnell-street-bandon-cork/5002146",
+    "https://www.myhome.ie/residential/brochure/dunbur-lodge-dunbur-lower-wicklow/5002181",
+    "https://www.myhome.ie/residential/brochure/oakfield-6-tournore-dungarvan-waterford/5002180",
+    "https://www.myhome.ie/residential/brochure/old-post-office-west-end-drimoleague-west-cork/4998272",
+    "https://www.myhome.ie/residential/brochure/3-millrace-green-saggart-co-dublin/5002176",
+    "https://www.myhome.ie/residential/brochure/coosheen-schull-west-cork/4966882",
+    "https://www.myhome.ie/residential/brochure/lislea-keenagh-longford/5002163",
+    "https://www.myhome.ie/residential/brochure/colvinstown-tara-county-meath/5002151",
+    "https://www.myhome.ie/residential/brochure/14-kilcross-lawn-sandyford-dublin-18/5002138",
+    "https://www.myhome.ie/residential/brochure/yew-park-grove-virginia-co-cavan/5002127",
+    "https://www.myhome.ie/residential/brochure/yew-park-grove-virginia-co-cavan/5002126",
+    "https://www.myhome.ie/residential/brochure/the-willows-larkinstown-coolree-barntown-co-wexford/5002125",
+    "https://www.myhome.ie/residential/brochure/knocknakill-kilcommon-thurles-tipperary/5002123",
+    "https://www.myhome.ie/residential/brochure/25-oakvale-longford-longford/5002108",
+    "https://www.myhome.ie/residential/brochure/1-captains-court-skerries-county-dublin/5002098",
+    "https://www.myhome.ie/residential/brochure/graigue-house-mountmellick-laois/5002096",
+    "https://www.myhome.ie/residential/brochure/apartment-55-burnell-square-mayne-river-avenue-malahide-road-northern-cross-dublin-17/5002089",
+    "https://www.myhome.ie/residential/brochure/doonass-clonlara-co-clare/4953650",
+    "https://www.myhome.ie/residential/brochure/druids-cottage-calary-lower-kilmacanogue-co-wicklow/5002057",
+    "https://www.myhome.ie/residential/brochure/16-baileys-new-street-waterford-co-waterford/5002054"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=501",
+  "paginationLimited": false
+}

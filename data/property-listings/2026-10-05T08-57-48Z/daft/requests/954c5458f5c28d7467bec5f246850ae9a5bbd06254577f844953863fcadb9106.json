@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/killineer-monasterboice-co-louth/6682698",
+  "fetchedAt": "2026-10-05T09:53:18.561Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/killineer-monasterboice-co-louth/6682698",
+  "kind": "listing",
+  "responseSha256": "49646c34e5056dd48f298e7b58f464032056d46de471cf6215684c481e7892a1",
+  "files": [
+    {
+      "path": "daft/02218-954c5458f5c28d74-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6b33ecd3d64e8b47c75e9ae222c4a79ae95a664b02a4acb0a93fd0dd31c4bc31",
+      "bytes": 17273
+    },
+    {
+      "path": "daft/02218-954c5458f5c28d74-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3231c78dd68cefa81ef25d8df74e23740d9e5ef4ddbdfb463c020359c1b93f9c",
+      "bytes": 8130
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

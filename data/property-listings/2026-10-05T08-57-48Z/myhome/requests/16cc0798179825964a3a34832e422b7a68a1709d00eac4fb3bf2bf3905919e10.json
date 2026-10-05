@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=316",
+  "fetchedAt": "2026-10-05T12:57:42.901Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=316",
+  "kind": "search",
+  "responseSha256": "fe187589b6807226d41c8338351d2c4bb9033613454f49ecb0a33d8c0792a9e9",
+  "files": [
+    {
+      "path": "myhome/07042-16cc079817982596-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=316\"].SearchResults",
+      "sha256": "c830a2bb3baddd71c85633379d576f93fbf55687731309a26af503a00789fbea",
+      "bytes": 111625
+    },
+    {
+      "path": "myhome/07042-16cc079817982596-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=316\"] (paging fields)",
+      "sha256": "a402326a0e7eb5d7780f3200c325fa5fedb39567bc347e5a477be5be64c0ca1b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-erin-3-bedroom-house-redford-adamstown-dublin/5022971",
+    "https://www.myhome.ie/residential/brochure/boytonrath-new-inn-cashel-tipperary/5023039",
+    "https://www.myhome.ie/residential/brochure/36-yourell-s-meadows-the-back-road-malahide-malahide-county-dublin/5022940",
+    "https://www.myhome.ie/residential/brochure/3-tyrrellsbrook-crescent-tyrrellsbrook-edenderry-offaly/5023032",
+    "https://www.myhome.ie/residential/brochure/23-dooneen-road-woodview-park-limerick/5023035",
+    "https://www.myhome.ie/residential/brochure/27-st-finnians-avenue-ardfinnan-tipperary/5023034",
+    "https://www.myhome.ie/residential/brochure/796-kilbeg-terrace-kildangan-co-kildare-kildangan-kildare/5023021",
+    "https://www.myhome.ie/residential/brochure/rossadrehid-cahir-tipperary/5022989",
+    "https://www.myhome.ie/residential/brochure/ardcath-garristown-co-meath/5023023",
+    "https://www.myhome.ie/residential/brochure/7-the-water-rill-waterside-malahide-dublin/5023017",
+    "https://www.myhome.ie/residential/brochure/6-waterside-avenue-waterside-malahide-dublin/5023016",
+    "https://www.myhome.ie/residential/brochure/ardrose-5-the-crescent-dundalk-louth/5022992",
+    "https://www.myhome.ie/residential/brochure/23-manor-place-stoneybatter-dublin-7/5022548",
+    "https://www.myhome.ie/residential/brochure/19-st-david-s-terrace-blackhorse-ave-dublin-7/5016725",
+    "https://www.myhome.ie/residential/brochure/3-grosvenor-villas-rathgar-dublin-6/5022997",
+    "https://www.myhome.ie/residential/brochure/8-glenard-ballinode-sligo/5022991",
+    "https://www.myhome.ie/residential/brochure/134-kilkieran-road-cabra-dublin-7/5022990",
+    "https://www.myhome.ie/residential/brochure/13-hill-street-wexford-town-wexford/5022987",
+    "https://www.myhome.ie/residential/brochure/134-the-sycamores-edenderry-offaly/5022981",
+    "https://www.myhome.ie/residential/brochure/14-bellair-estate-douglas-cork/5017032"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=317",
+  "paginationLimited": false
+}

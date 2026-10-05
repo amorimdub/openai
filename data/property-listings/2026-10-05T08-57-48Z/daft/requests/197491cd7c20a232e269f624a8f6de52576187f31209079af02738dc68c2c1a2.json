@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-52-hillcourt-rathgar-dublin-6/6677937",
+  "fetchedAt": "2026-10-05T09:17:11.040Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-52-hillcourt-rathgar-dublin-6/6677937",
+  "kind": "listing",
+  "responseSha256": "b9e1e86d12ddea8e3872880ce0efc7381c53151ff21f66b602f3391ef969b078",
+  "files": [
+    {
+      "path": "daft/00775-197491cd7c20a232-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9953bf19f87433f24e6ef4b2e754c31b7019a7a9130b26ac7b8f01f84c4dca74",
+      "bytes": 53815
+    },
+    {
+      "path": "daft/00775-197491cd7c20a232-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0310af5944bf04823966ff6f72d86c2c8cc2f893ad238ed8161eb91fb759c5e1",
+      "bytes": 8003
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

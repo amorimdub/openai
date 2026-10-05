@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=28",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=28",
+  "fetchedAt": "2026-10-05T09:23:53.180Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "64a023ede1be50ca04e3440054dfec824c0c8afa66cb721223b324bced4124ef",
+  "files": [
+    {
+      "path": "myhome/01038-df6f10cb3baf2d2d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=28\"].SearchResults",
+      "sha256": "99419aa3e66da906f9dde572e2438654b6a798f6196e7267485f394dcaf6de31",
+      "bytes": 135075
+    },
+    {
+      "path": "myhome/01038-df6f10cb3baf2d2d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=28\"] (paging fields)",
+      "sha256": "42b91cc095567a80fa45d9fc179d1de12315b02427a7effafcd5f142f8f37f63",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-whitethorn-place-naas-co-kildare/5021142",
+    "https://www.myhome.ie/residential/brochure/6-oakfield-place-portobello-dublin-8/5018679",
+    "https://www.myhome.ie/residential/brochure/131-droim-liath-tullamore-co-offaly/5031767",
+    "https://www.myhome.ie/residential/brochure/st-farnans-close-prosperous-co-kildare-3-bedroom-townhouse/4960915",
+    "https://www.myhome.ie/residential/brochure/kilnamonagh-collooney-sligo/5007587",
+    "https://www.myhome.ie/residential/brochure/9-arconagh-naas-kildare/5031765",
+    "https://www.myhome.ie/residential/brochure/waratah-18-rostrevor-road-rathgar-dublin-6/5025866",
+    "https://www.myhome.ie/residential/brochure/kincora-22-temple-gardens-rathmines-dublin-6/5027306",
+    "https://www.myhome.ie/residential/brochure/3-abbey-close-abbey-park-ferrybank-waterford/5026582",
+    "https://www.myhome.ie/residential/brochure/138-castlemoyne-balgriffin-dublin-13/4987451",
+    "https://www.myhome.ie/residential/brochure/206-trimbleston-2-bed-2-bath-ground-floor-own-door-apartment-goatstown-dublin-14/5005795",
+    "https://www.myhome.ie/residential/brochure/33-pallas-derg-newtown-nenagh-tipperary/5031764",
+    "https://www.myhome.ie/residential/brochure/16-inbhir-ide-drive-malahide-county-dublin/5028440",
+    "https://www.myhome.ie/residential/brochure/4-hampton-crescent-booterstown-blackrock-county-dublin/4993427",
+    "https://www.myhome.ie/residential/brochure/215-oldtown-woods-celbridge-county-kildare/5031762",
+    "https://www.myhome.ie/residential/brochure/68-the-stockyard-block-e-the-steelworks-foley-street-dublin-1-dublin/5031761",
+    "https://www.myhome.ie/residential/brochure/12-churchwell-close-belmayne-dublin-13-balgriffin/5031759",
+    "https://www.myhome.ie/residential/brochure/mount-venus-killakee-road-rathfarnham-dublin-16/5009455",
+    "https://www.myhome.ie/residential/brochure/7-crannagh-way-rathfarnham-dublin-14/5030064",
+    "https://www.myhome.ie/residential/brochure/27-morrissons-road-co-waterford/5031758"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=29",
+  "paginationLimited": false
+}

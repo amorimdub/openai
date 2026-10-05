@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/72-glenbourne-ballinglanna-glanmire-cork-glanmire-co-cork/6686751",
+  "fetchedAt": "2026-10-05T09:15:39.449Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/72-glenbourne-ballinglanna-glanmire-cork-glanmire-co-cork/6686751",
+  "kind": "listing",
+  "responseSha256": "31ce1a9302412cb84dbdc06ce7532de8af5285ab71164655046468330c7c06aa",
+  "files": [
+    {
+      "path": "daft/00714-9c0e28bc45b11557-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f45feb1ccdd6d158bcd6f401e93b6b320c175a3b845eb51434237f7ceb561fba",
+      "bytes": 40377
+    },
+    {
+      "path": "daft/00714-9c0e28bc45b11557-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "be13d9e3c4bb4749dfcbeff11b6603671e47e8bbc2536883af043a46999229d4",
+      "bytes": 8036
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

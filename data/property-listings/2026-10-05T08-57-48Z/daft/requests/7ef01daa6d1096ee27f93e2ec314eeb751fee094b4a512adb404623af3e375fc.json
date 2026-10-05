@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/grand-canal-harbour-grand-canal-place-dublin-8/5577193",
+  "fetchedAt": "2026-10-05T08:59:39.306Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/grand-canal-harbour-grand-canal-place-dublin-8/5577193",
+  "kind": "listing",
+  "responseSha256": "f4de82679a428b49eaa931ce0fdae063baf6f226b5d3026dddd6a0b102aaefb7",
+  "files": [
+    {
+      "path": "daft/00075-7ef01daa6d1096ee-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d080ec7f3c9a426a63fa57990fc624b36424019d9ee44da0fbce5cf40d0865fa",
+      "bytes": 251806
+    },
+    {
+      "path": "daft/00075-7ef01daa6d1096ee-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5c304dd961585df2ba12dd949e3fed4aadc55f677d54deae54a4a13bf36bc3d2",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

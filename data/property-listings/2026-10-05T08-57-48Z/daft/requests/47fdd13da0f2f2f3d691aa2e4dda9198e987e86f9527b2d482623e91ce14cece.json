@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/carrigkeal-carrickbrack-road-howth-dublin-13/6649926",
+  "fetchedAt": "2026-10-05T09:45:20.798Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/carrigkeal-carrickbrack-road-howth-dublin-13/6649926",
+  "kind": "listing",
+  "responseSha256": "d429f8dd1a0560395345cc9d301e426d71a5391b5ea9f908523dc23f63573c5d",
+  "files": [
+    {
+      "path": "daft/01900-47fdd13da0f2f2f3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d9cdbd2d42bc0fd0a92255cbe263f754d9de56eca7f02dcb28dd6fdf828b8c51",
+      "bytes": 127686
+    },
+    {
+      "path": "daft/01900-47fdd13da0f2f2f3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ae33b92cc42a404496bcbae363f8f59b80722b56f56fd30932a820f3b4c83976",
+      "bytes": 8216
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

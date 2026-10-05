@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=228",
+  "fetchedAt": "2026-10-05T12:12:02.894Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=228",
+  "kind": "search",
+  "responseSha256": "89d9a96f6e294c2b672abb9b054955d251b80112cf42c27122deb515ed837ef2",
+  "files": [
+    {
+      "path": "myhome/05224-6e2f6df9d4fcbeec-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=228\"].SearchResults",
+      "sha256": "0efebe79bf940c9301908960b59eff5b78fcad70604bc26ac337635c49349dc3",
+      "bytes": 107314
+    },
+    {
+      "path": "myhome/05224-6e2f6df9d4fcbeec-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=228\"] (paging fields)",
+      "sha256": "97156dde48360c768b99c6200e9eea6771a93078fc0ac92b55ca5505b03c29c2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-mapas-road-dalkey-co-dublin/5018886",
+    "https://www.myhome.ie/residential/brochure/plot-b-site-rear-26-cluny-grove-killiney-co-dublin/5000311",
+    "https://www.myhome.ie/residential/brochure/apartment-32-block-a-cameron-court-christchurch-dublin-8/5025437",
+    "https://www.myhome.ie/residential/brochure/2-chapel-farm-close-plus-attic-conversion-lusk-county-dublin/5025590",
+    "https://www.myhome.ie/residential/brochure/16-crowe-street-gort-county-galway/5026828",
+    "https://www.myhome.ie/residential/brochure/53-kells-road-crumlin-dublin-12/5025583",
+    "https://www.myhome.ie/residential/brochure/29-fingal-street-dublin-8/5026825",
+    "https://www.myhome.ie/residential/brochure/ashford-manor-ballyhowly-knock-mayo/5025545",
+    "https://www.myhome.ie/residential/brochure/killeen-mountmellick-emo-laois/5026821",
+    "https://www.myhome.ie/residential/brochure/5-windmill-terrace-killenard-co-laois/5026822",
+    "https://www.myhome.ie/residential/brochure/10-gleann-rga-ballinhassig-co-cork-ballinhassig-cork/5026788",
+    "https://www.myhome.ie/residential/brochure/111-the-sweepstakes-ballsbridge-dublin-4/4996987",
+    "https://www.myhome.ie/residential/brochure/618-mourne-road-drimnagh-dublin-12/5026820",
+    "https://www.myhome.ie/residential/brochure/the-holland-mariners-point-wicklow-town/5026819",
+    "https://www.myhome.ie/residential/brochure/99-rafters-road-drimnagh-dublin-12/5009400",
+    "https://www.myhome.ie/residential/brochure/fortfield-killerisk-tralee-kerry/5026195",
+    "https://www.myhome.ie/residential/brochure/knockduff-lane-bree-enniscorthy-wexford/5026805",
+    "https://www.myhome.ie/residential/brochure/13-drumnigh-manor-portmarnock-co-dublin/5026813",
+    "https://www.myhome.ie/residential/brochure/41-bruach-na-habhainn-kileen-maganey-co-laois/5026811",
+    "https://www.myhome.ie/residential/brochure/cullionbeg-mullingar-co-westmeath/5026808"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=229",
+  "paginationLimited": false
+}

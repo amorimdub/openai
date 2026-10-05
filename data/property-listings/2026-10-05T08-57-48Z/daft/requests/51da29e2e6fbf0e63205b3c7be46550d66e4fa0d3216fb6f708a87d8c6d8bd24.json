@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/140-leeson-street-upper-dublin-4-ranelagh-dublin-4/6663825",
+  "fetchedAt": "2026-10-05T09:22:39.917Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/140-leeson-street-upper-dublin-4-ranelagh-dublin-4/6663825",
+  "kind": "listing",
+  "responseSha256": "d4d23757b5204a89c5c2e23a3bc482b9d41898ff904290e5779115f3f1001fd6",
+  "files": [
+    {
+      "path": "daft/00994-51da29e2e6fbf0e6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5ad1333c6a19efe404aead21d35dcd430d94d5e814dcf740d02d90dbc108df76",
+      "bytes": 68783
+    },
+    {
+      "path": "daft/00994-51da29e2e6fbf0e6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fef36304d897715333c003e42a01cb877b46bd4fbf73357b3ab38f103aaa5f71",
+      "bytes": 8188
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

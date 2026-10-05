@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/20-saint-johns-avenue-clondalkin-dublin-22/6667369",
+  "fetchedAt": "2026-10-05T09:34:46.950Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/20-saint-johns-avenue-clondalkin-dublin-22/6667369",
+  "kind": "listing",
+  "responseSha256": "efd73b30214bd55f78275808cd7acecfd6d1be4dbfd6d0e553301d746dd5b8ca",
+  "files": [
+    {
+      "path": "daft/01478-583df5430e29a999-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2d9179ed68fc63400af175734017c6a4652fc74bf7fe800ecd98d9c33c7dff22",
+      "bytes": 92718
+    },
+    {
+      "path": "daft/01478-583df5430e29a999-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f750b18af0cf5a4988d9bac755991ed90582bc269c0b272ff71cdd8a9165d23c",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

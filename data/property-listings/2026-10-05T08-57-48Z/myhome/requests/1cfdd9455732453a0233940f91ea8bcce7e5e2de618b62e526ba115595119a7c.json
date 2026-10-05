@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=362",
+  "fetchedAt": "2026-10-05T13:20:56.324Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=362",
+  "kind": "search",
+  "responseSha256": "4c0a7835520baad0878d3b8529e60e49ad6f8cfc150dd2182453c5a9af33d9b1",
+  "files": [
+    {
+      "path": "myhome/07969-1cfdd9455732453a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=362\"].SearchResults",
+      "sha256": "a1ccc9b6b53e5d9089b72de7df543f28eb00a6559d3a433ab570e26bdc651622",
+      "bytes": 119753
+    },
+    {
+      "path": "myhome/07969-1cfdd9455732453a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=362\"] (paging fields)",
+      "sha256": "5a433c6ebd9ae3b7b1560f74b7627571b065fac9b14e3f3ab032bfbcdf967c15",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-65-temple-court-santry-dublin-9/5019116",
+    "https://www.myhome.ie/residential/brochure/the-old-train-house-station-rd-ballyhooly-co-cork/5019120",
+    "https://www.myhome.ie/residential/brochure/9-colliers-lane-kilminchy-portlaoise-co-laois/5019117",
+    "https://www.myhome.ie/residential/brochure/mullaghlea-bawnboy-co-cavan/5019114",
+    "https://www.myhome.ie/residential/brochure/1-the-meadows-belgooly-cork/5019110",
+    "https://www.myhome.ie/residential/brochure/apartment-79-block-a-smithfield-market-dublin-7-dublin/5019103",
+    "https://www.myhome.ie/residential/brochure/13-holly-vale-forest-hill-carrigaline-cork/5018710",
+    "https://www.myhome.ie/residential/brochure/156-millpark-clondalkin-dublin-22-d22-f9p7/5019099",
+    "https://www.myhome.ie/residential/brochure/21-the-walled-gardens-castletown-co-kildare/5019098",
+    "https://www.myhome.ie/residential/brochure/5-pier-view-apartment-courtmacsherry-west-cork/5018938",
+    "https://www.myhome.ie/residential/brochure/48-the-view-five-oaks-village-dublin-road-drogheda-co-louth/5019092",
+    "https://www.myhome.ie/residential/brochure/lisheenaheltia-glenamaddy-galway/5019087",
+    "https://www.myhome.ie/residential/brochure/39-clareville-estate-pouladuff-road-the-lough-cork/4983704",
+    "https://www.myhome.ie/residential/brochure/228-new-seskin-court-tallaght-dublin-24/5019083",
+    "https://www.myhome.ie/residential/brochure/58-the-cloisters-ballincollig-cork/5019045",
+    "https://www.myhome.ie/residential/brochure/31-earlsfort-lane-lucan-co-dublin-k78-yn23/5019082",
+    "https://www.myhome.ie/residential/brochure/102a-carrow-road-drimnagh-dublin-12/5019075",
+    "https://www.myhome.ie/residential/brochure/12-college-view-blarney-street-cork/5019068",
+    "https://www.myhome.ie/residential/brochure/4-ardfield-road-grange-douglas-cork/5019064",
+    "https://www.myhome.ie/residential/brochure/carrowmore-td-ballyconnell-cavan/5019063"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=363",
+  "paginationLimited": false
+}

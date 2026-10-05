@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/summer-st-north-north-circular-road-co-dublin/6684750",
+  "fetchedAt": "2026-10-05T09:40:42.853Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/summer-st-north-north-circular-road-co-dublin/6684750",
+  "kind": "listing",
+  "responseSha256": "bb2adf7d037724363547a44dc75ad747616aeeaa6896023987ac145ecffb3cb0",
+  "files": [
+    {
+      "path": "daft/01715-885ff644f9572d81-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8b960514aa987da7237a626f93ae8d4e39d1d26db9db7e3b2a7a2a1dc612e9ac",
+      "bytes": 14104
+    },
+    {
+      "path": "daft/01715-885ff644f9572d81-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9ed80be5e7309dc2afb9d7531221bb0434f278fa14205256dfc866e44a15bc18",
+      "bytes": 8052
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

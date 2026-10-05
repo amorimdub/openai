@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CLOUGHDUV NATIONAL SCHOOL",
+      "numPupils": 144,
+      "distance": {
+        "value": 2.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.846370",
+        "lon": "-8.788713"
+      }
+    },
+    {
+      "schoolName": "KILMURRY NATIONAL SCHOOL",
+      "numPupils": 164,
+      "distance": {
+        "value": 4.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.845340",
+        "lon": "-8.880753"
+      }
+    },
+    {
+      "schoolName": "CANOVEE NATIONAL SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 5.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.889290",
+        "lon": "-8.856188"
+      }
+    },
+    {
+      "schoolName": "KILBONANE NATIONAL SCHOOL",
+      "numPupils": 94,
+      "distance": {
+        "value": 6.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.840107",
+        "lon": "-8.728331"
+      }
+    },
+    {
+      "schoolName": "SCOIL NAOMH MHUIRE FEARANN",
+      "numPupils": 160,
+      "distance": {
+        "value": 6.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.875640",
+        "lon": "-8.739059"
+      }
+    },
+    {
+      "schoolName": "BISHOP GALVIN CENTRAL SCHOOL",
+      "numPupils": 206,
+      "distance": {
+        "value": 7.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.782475",
+        "lon": "-8.869945"
+      }
+    },
+    {
+      "schoolName": "COACHFORD NATIONAL SCHOOL",
+      "numPupils": 155,
+      "distance": {
+        "value": 7.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.910350",
+        "lon": "-8.792774"
+      }
+    },
+    {
+      "schoolName": "CASTLELACK NATIONAL SCHOOL",
+      "numPupils": 58,
+      "distance": {
+        "value": 8.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.780315",
+        "lon": "-8.739436"
+      }
+    },
+    {
+      "schoolName": "LARAGH NATIONAL SCHOOL",
+      "numPupils": 189,
+      "distance": {
+        "value": 9.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.757893",
+        "lon": "-8.789982"
+      }
+    },
+    {
+      "schoolName": "BALLYVONGANE MIXED NATIONAL SCHOOL",
+      "numPupils": 16,
+      "distance": {
+        "value": 10.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.931980",
+        "lon": "-8.859158"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COACHFORD COLLEGE",
+      "numPupils": 851,
+      "distance": {
+        "value": 8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.911890",
+        "lon": "-8.793484"
+      }
+    },
+    {
+      "schoolName": "ST. BROGAN'S COLLEGE",
+      "numPupils": 861,
+      "distance": {
+        "value": 11.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.753662",
+        "lon": "-8.737999"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S SECONDARY SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 11.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.903790",
+        "lon": "-8.958166"
+      }
+    },
+    {
+      "schoolName": "MCEGAN COLLEGE",
+      "numPupils": 272,
+      "distance": {
+        "value": 11.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.904960",
+        "lon": "-8.961555"
+      }
+    },
+    {
+      "schoolName": "HAMILTON HIGH SCHOOL",
+      "numPupils": 429,
+      "distance": {
+        "value": 11.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.747025",
+        "lon": "-8.744194"
+      }
+    },
+    {
+      "schoolName": "DE LA SALLE COLLEGE",
+      "numPupils": 423,
+      "distance": {
+        "value": 12.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.906647",
+        "lon": "-8.965278"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NA TOIRBHIRTE",
+      "numPupils": 451,
+      "distance": {
+        "value": 12.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.740350",
+        "lon": "-8.731611"
+      }
+    },
+    {
+      "schoolName": "BANDON GRAMMAR SCHOOL",
+      "numPupils": 717,
+      "distance": {
+        "value": 13.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.733600",
+        "lon": "-8.749398"
+      }
+    },
+    {
+      "schoolName": "BALLINCOLLIG COMMUNITY SCHOOL",
+      "numPupils": 980,
+      "distance": {
+        "value": 16.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.890423",
+        "lon": "-8.601880"
+      }
+    },
+    {
+      "schoolName": "LE CHEILE SECONDARY SCHOOL BALLINCOLLIG",
+      "numPupils": 195,
+      "distance": {
+        "value": 16.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.893845",
+        "lon": "-8.589740"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Crookstown",
+      "route": "233",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.842413",
+        "lon": "-8.828458"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Farnanes",
+      "route": "233",
+      "destination": "Ballingeary",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.8578886616732",
+        "lon": "-8.80132290066468"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloghduv",
+      "route": "233",
+      "destination": "Cloughduv",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.84651",
+        "lon": "-8.787724"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lissardagh",
+      "route": "233",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.852838",
+        "lon": "-8.869517"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilmurry",
+      "route": "233",
+      "destination": "Macroom",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.842004",
+        "lon": "-8.881804"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Aherla",
+      "route": "233",
+      "destination": "Cloughduv",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.853642",
+        "lon": "-8.732948"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Farran",
+      "route": "233",
+      "destination": "Ballingeary",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.8721966726691",
+        "lon": "-8.73285761338886"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Coachford",
+      "route": "233",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 7.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.909522",
+        "lon": "-8.788201"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Dripsey",
+      "route": "233",
+      "destination": "Macroom",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.914073839614",
+        "lon": "-8.7421152984688"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilpatrick",
+      "route": "237",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 10.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.776369",
+        "lon": "-8.712422"
+      }
+    }
+  ]
+}

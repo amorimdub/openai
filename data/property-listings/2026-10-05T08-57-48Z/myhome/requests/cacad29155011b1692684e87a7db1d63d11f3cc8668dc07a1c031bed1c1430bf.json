@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=431",
+  "fetchedAt": "2026-10-05T13:56:31.274Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=431",
+  "kind": "search",
+  "responseSha256": "e6c3d95d19655fb9fe6b91168812f1387bacd6931507665b35eec647e9b7e0c8",
+  "files": [
+    {
+      "path": "myhome/09389-cacad29155011b16-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=431\"].SearchResults",
+      "sha256": "b8bd974db4a5850b006fb514b457ec8435534d4f26780d397546367fa45212d9",
+      "bytes": 118614
+    },
+    {
+      "path": "myhome/09389-cacad29155011b16-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=431\"] (paging fields)",
+      "sha256": "13888a775ace2cc79fff0f0edbc3b136360c28e5e20e4acbb9bf9e00f6ff1ce2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/pineview-rathmichael-dublin-18/4728120",
+    "https://www.myhome.ie/residential/brochure/foirnis-burtonport-co-donegal/5003936",
+    "https://www.myhome.ie/residential/brochure/bridge-view-high-street-inistioge-co-kilkenny/5002262",
+    "https://www.myhome.ie/residential/brochure/181-rathgar-road-rathgar-dublin-6/5005475",
+    "https://www.myhome.ie/residential/brochure/37-ashwood-glade-westport-mayo/5010615",
+    "https://www.myhome.ie/residential/brochure/35-ashwood-glade-westport-mayo/5010614",
+    "https://www.myhome.ie/residential/brochure/9-grange-grove-stamullen-meath/4992044",
+    "https://www.myhome.ie/residential/brochure/shepperton-shreelane-skibbereen-west-cork/4991611",
+    "https://www.myhome.ie/residential/brochure/79-rush-hall-mountrath-co-laois/5010598",
+    "https://www.myhome.ie/residential/brochure/120-collins-avenue-whitehall-dublin/4999603",
+    "https://www.myhome.ie/residential/brochure/15-oaklands-park-letterkenny-county-donegal/5010597",
+    "https://www.myhome.ie/residential/brochure/knockoconor-keash-ballymote-co-sligo/5010594",
+    "https://www.myhome.ie/residential/brochure/apartment-c6-block-c-cormullen-foxford-county-mayo/5010588",
+    "https://www.myhome.ie/residential/brochure/48a-stradbrook-stradbally-road-portlaoise-co-laois/5010587",
+    "https://www.myhome.ie/residential/brochure/1a-kilkerrin-road-glenamaddy-county-galway/5010585",
+    "https://www.myhome.ie/residential/brochure/2b-kilkerrin-road-glenamaddy-county-galway/5010584",
+    "https://www.myhome.ie/residential/brochure/main-st-kinnegad-westmeath/5010583",
+    "https://www.myhome.ie/residential/brochure/carn-ballyjamesduff-county-cavan/5010580",
+    "https://www.myhome.ie/residential/brochure/37-holywell-avenue-swords-county-dublin/4998309",
+    "https://www.myhome.ie/residential/brochure/41-bruach-na-habhainn-kileen-maganey-co-laois/5010578"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=432",
+  "paginationLimited": false
+}

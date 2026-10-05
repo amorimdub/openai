@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=132",
+  "fetchedAt": "2026-10-05T11:22:15.769Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=132",
+  "kind": "search",
+  "responseSha256": "1bede995300581a6ea134e8d92ee7b43ac80433f6c29d3f571795f32c3bb1c91",
+  "files": [
+    {
+      "path": "myhome/03237-c4b90ea0240f1d30-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=132\"].SearchResults",
+      "sha256": "43379c78c790e22f480936a3c7dcc452e1b6c34b5c538dc85ac1d38df596d826",
+      "bytes": 79492
+    },
+    {
+      "path": "myhome/03237-c4b90ea0240f1d30-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=132\"] (paging fields)",
+      "sha256": "cffcd6988d7dca5ac7532e21dd99106396fe90cdc44936d90242980fd426ee10",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029456",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029455",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029454",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029453",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029452",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029451",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029450",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029449",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029448",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029446",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029445",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029444",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029443",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029442",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029441",
+    "https://www.myhome.ie/residential/brochure/castlewidenham-castletownroche-co-cork/5029440",
+    "https://www.myhome.ie/residential/brochure/three-bedroom-penthouses-drummartin-heights-kilmacud-dublin-14/5029436",
+    "https://www.myhome.ie/residential/brochure/fairgreen-cottage-ballymacoda-cork/5029317",
+    "https://www.myhome.ie/residential/brochure/9-st-patricks-close-skerries-county-dublin/5029425",
+    "https://www.myhome.ie/residential/brochure/no-6-cill-cluain-louisburgh-mayo/5029426"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=133",
+  "paginationLimited": false
+}

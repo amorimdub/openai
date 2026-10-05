@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/37-mckee-avenue-finglas-dublin-11/6663753",
+  "fetchedAt": "2026-10-05T09:39:56.286Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/37-mckee-avenue-finglas-dublin-11/6663753",
+  "kind": "listing",
+  "responseSha256": "395cffdfa4309d41d9454e916532efb213a4c1ea9d9de003c125ff6dfc8e97ab",
+  "files": [
+    {
+      "path": "daft/01684-9658d311bfae7acd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "abf7df330ba85d8c91d94d1fbeace052bd24e1f48e7820923cc4008b8d9ae1f2",
+      "bytes": 75202
+    },
+    {
+      "path": "daft/01684-9658d311bfae7acd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ecaeb8d7f6a8dc6a0143d6db8a3d561154f2605992436d0a6b426c32c46bf4ae",
+      "bytes": 8102
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

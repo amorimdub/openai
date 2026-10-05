@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=27",
+  "fetchedAt": "2026-10-05T09:29:58.641Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=27",
+  "kind": "search",
+  "responseSha256": "6080b365cd504df877db5bc7d9cf2d27cea478ab63cae9bef32e41e72571a333",
+  "files": [
+    {
+      "path": "daft/01286-d5c4fef38c6b7562-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a8e51e0b60238f16f7bdc31fd2a1f508b2283439a53c3a36fa21a463794919c1",
+      "bytes": 280438
+    },
+    {
+      "path": "daft/01286-d5c4fef38c6b7562-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01286-d5c4fef38c6b7562-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "f09de6b7a1b4354f9413d083a455616d64d59d8064e8d773f711b302c33d4cd9",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/the-sweepstakes-ballsbridge-park-sandymount-dublin-4/6686183",
+    "https://www.daft.ie/for-rent/2-bed-apartment-block-b-castle-gate-apartments-dublin-2/6686178",
+    "https://www.daft.ie/for-rent/14-palmerston-park-2-rathmines-co-dublin/6686195",
+    "https://www.daft.ie/for-rent/cam-brideswell-brideswell-co-roscommon/6686162",
+    "https://www.daft.ie/for-rent/apartment-47-distillery-court-the-maltings-ballincollig-co-cork/6686185",
+    "https://www.daft.ie/for-rent/8-the-drive-millbrook-lawns-oldbawn-dublin-24/6686176",
+    "https://www.daft.ie/for-rent/apartment-10-block-a-hanover-quay-dublin-2/6686170",
+    "https://www.daft.ie/for-rent/45-belarmine-vale-belarmine-dublin-18/6686167",
+    "https://www.daft.ie/for-rent/278-bo-reann-bheag-roscam-roscam-co-galway/6686138",
+    "https://www.daft.ie/for-rent/sun-street-tuam-tuam-co-galway/6686130",
+    "https://www.daft.ie/for-rent/apartment-2-the-bay-elm-park-merrion-road-dublin-4/6686046",
+    "https://www.daft.ie/for-rent/flat-1-46-south-circular-road-portobello-dublin-8/6686129",
+    "https://www.daft.ie/for-rent/16-knightswood-place-knightswood-grantstown-co-waterford/6683607",
+    "https://www.daft.ie/for-rent/2-bed-apartment-old-city-music-hall-temple-bar-dublin-8/6686086",
+    "https://www.daft.ie/for-rent/56-ros-ard-cappagh-road-knocknacarra-co-galway/6686090",
+    "https://www.daft.ie/for-rent/belarmine-way-stepaside-dublin-18/6686092",
+    "https://www.daft.ie/for-rent/2-dunvale-rise-frankfield-frankfield-co-cork/6686064",
+    "https://www.daft.ie/for-rent/arkendale-road-glenageary-sandycove-co-dublin/6686031",
+    "https://www.daft.ie/for-rent/86-west-street-drogheda-co-louth-drogheda-co-louth/6686051",
+    "https://www.daft.ie/for-rent/ballyharty-kilmore-wexford-kilmore-quay-co-wexford/6667108"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=28",
+  "paginationLimited": false
+}

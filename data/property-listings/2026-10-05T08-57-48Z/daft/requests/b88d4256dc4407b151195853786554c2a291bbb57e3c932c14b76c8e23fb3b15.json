@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/c43-bastion-quay-athlone-co-westmeath/6682711",
+  "fetchedAt": "2026-10-05T09:53:17.060Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/c43-bastion-quay-athlone-co-westmeath/6682711",
+  "kind": "listing",
+  "responseSha256": "2faf8c7543b83ba92a77fe0e3095a745e08cbdde7c7ca637b48b007ccc66cef1",
+  "files": [
+    {
+      "path": "daft/02217-b88d4256dc4407b1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "36fef343d2d8e540950e983550330f810edc0583abe5d5f33ccd96082a17c905",
+      "bytes": 29557
+    },
+    {
+      "path": "daft/02217-b88d4256dc4407b1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "88ee3431eb8118113fa8ff5b791fbdc25f1f8f8ac8f6af087f1b1f0ad27e4d15",
+      "bytes": 8041
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

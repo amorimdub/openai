@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=401",
+  "fetchedAt": "2026-10-05T13:41:13.709Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=401",
+  "kind": "search",
+  "responseSha256": "4b79ad6fc5532fb257f230a3a55821b76c701d805708a583c896a63f3cdd2ae7",
+  "files": [
+    {
+      "path": "myhome/08779-70a1a556cc747e17-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=401\"].SearchResults",
+      "sha256": "285422090fc4a75fd69698012fde59a2875cc64577118ff9fe1de943d6a1b5ef",
+      "bytes": 118849
+    },
+    {
+      "path": "myhome/08779-70a1a556cc747e17-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=401\"] (paging fields)",
+      "sha256": "d02fb2330a58480bbd5a907d8df21685b773b9e6c890f43b7ccbab51aee88db0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/30-delford-drive-rochestown-road-rochestown-cork/5014860",
+    "https://www.myhome.ie/residential/brochure/34-adamstown-avenue-adamstown-co-dublin/5015134",
+    "https://www.myhome.ie/residential/brochure/18a-pembroke-grove-passage-west-cork/5011810",
+    "https://www.myhome.ie/residential/brochure/1-cor-na-mona-prosperous-co-kildare/5015128",
+    "https://www.myhome.ie/residential/brochure/29-the-gates-matthew-hill-lehenaghmore-cork/5014280",
+    "https://www.myhome.ie/residential/brochure/sraghmore-lodge-sraghmore-roundwood-co-wicklow/4991881",
+    "https://www.myhome.ie/residential/brochure/bellair-clonaslee-laois/5015064",
+    "https://www.myhome.ie/residential/brochure/the-cottage-sooreeney-sixmilebridge-clare/5015113",
+    "https://www.myhome.ie/residential/brochure/site-at-ballyshane-inistioge-co-kilkenny/5015111",
+    "https://www.myhome.ie/residential/brochure/86-emerald-drive-killybegs-county-donegal/5015108",
+    "https://www.myhome.ie/residential/brochure/rosmoney-carraholly-westport-mayo/5015033",
+    "https://www.myhome.ie/residential/brochure/lower-quay-westport-co-mayo/5015107",
+    "https://www.myhome.ie/residential/brochure/sraheen-aghagower-tourmakeady-westport-mayo/5015084",
+    "https://www.myhome.ie/residential/brochure/drayton-dundalk-louth/4945602",
+    "https://www.myhome.ie/residential/brochure/36-woodland-park-rush-dublin/5015092",
+    "https://www.myhome.ie/residential/brochure/3-bed-semi-detached-type-c-d-n-an-r-coosan-road-athlone-co-westmeath/5015106",
+    "https://www.myhome.ie/residential/brochure/3-bed-terrace-type-b-d-n-an-r-coosan-road-athlone-co-westmeath/5015105",
+    "https://www.myhome.ie/residential/brochure/4-bed-semi-detached-type-a-d-n-an-r-coosan-road-athlone-co-westmeath/5015104",
+    "https://www.myhome.ie/residential/brochure/3-bed-semi-detached-type-b-d-n-an-r-coosan-road-athlone-co-westmeath/5015103",
+    "https://www.myhome.ie/residential/brochure/1-saint-helen-s-street-galway-city-centre-galway/5015101"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=402",
+  "paginationLimited": false
+}

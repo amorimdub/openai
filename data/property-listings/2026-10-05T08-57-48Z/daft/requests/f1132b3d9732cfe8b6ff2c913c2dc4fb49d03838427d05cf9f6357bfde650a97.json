@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-4-shackleton-house-huntstown-dublin-15/6655038",
+  "fetchedAt": "2026-10-05T09:46:34.436Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-4-shackleton-house-huntstown-dublin-15/6655038",
+  "kind": "listing",
+  "responseSha256": "f82f0312d1e44a8101f3054b6869f64c8097ab6640b38db78b95f9b1976702a1",
+  "files": [
+    {
+      "path": "daft/01949-f1132b3d9732cfe8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "56bc8653c2e48e6cd957843208780f090afdba5fee0a4052e2de6020f3b4d39c",
+      "bytes": 53443
+    },
+    {
+      "path": "daft/01949-f1132b3d9732cfe8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dd0f5e5bacb3e8345ccc4c9bf90435eb9c0c8e4acb4448998743e36a73b0ae17",
+      "bytes": 8298
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/65-lorcan-crescent-santry-dublin-9/6667117",
+  "fetchedAt": "2026-10-05T09:13:54.272Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/65-lorcan-crescent-santry-dublin-9/6667117",
+  "kind": "listing",
+  "responseSha256": "10a8cc5abe8275956ba018dd7d945e8d07c658784514609e14f56190ffe948b2",
+  "files": [
+    {
+      "path": "daft/00644-c13776e8ec07c91b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4ea67e7cdcd8312524ffca538b9f9e428d94e337ac98f1c3beef7cf756fe6420",
+      "bytes": 64745
+    },
+    {
+      "path": "daft/00644-c13776e8ec07c91b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "55a980c98d1baa89ac569971ba233ba5aff1de2d3812db0c90dbc6ccd72026b2",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

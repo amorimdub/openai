@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/oakdale-close-ballycullen-dublin-24/6685184",
+  "fetchedAt": "2026-10-05T09:38:23.184Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/oakdale-close-ballycullen-dublin-24/6685184",
+  "kind": "listing",
+  "responseSha256": "6a3f658a48dbb0062196608ab306e831d9057f1e9e6d6d29352692d8e02b8053",
+  "files": [
+    {
+      "path": "daft/01622-d5fe11e9aed80345-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "30314f5e536d6d39ad8e0e2dfeecb22f8acd64d4a21b1fe55efa8bb1a843276e",
+      "bytes": 25978
+    },
+    {
+      "path": "daft/01622-d5fe11e9aed80345-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a727d6bd80f68f277f798a2b8c54061e2f1c102f51bb70984915525ad0a62bb0",
+      "bytes": 8113
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

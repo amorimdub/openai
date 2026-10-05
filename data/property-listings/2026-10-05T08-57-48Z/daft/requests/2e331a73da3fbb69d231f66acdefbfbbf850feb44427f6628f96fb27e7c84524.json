@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/deerpark-square-tallaght-dublin-24/6684293",
+  "fetchedAt": "2026-10-05T09:43:46.150Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/deerpark-square-tallaght-dublin-24/6684293",
+  "kind": "listing",
+  "responseSha256": "d7cedb5b1ff080124c260ddbf4e26ed5084cc8eb090b38542f16ae6d1244d8fc",
+  "files": [
+    {
+      "path": "daft/01837-2e331a73da3fbb69-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "7cd54d03d24214327cdc1a3aa7d3d4e37109756fc03785d32b3c615570ca1bb0",
+      "bytes": 25346
+    },
+    {
+      "path": "daft/01837-2e331a73da3fbb69-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1417907bbeddf6f8205d68e3bd3bea283b314d5f12b6cb14c7b39342c064805d",
+      "bytes": 8000
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

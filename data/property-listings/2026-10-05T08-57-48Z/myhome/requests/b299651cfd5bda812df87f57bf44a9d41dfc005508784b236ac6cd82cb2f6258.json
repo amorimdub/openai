@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=317",
+  "fetchedAt": "2026-10-05T12:58:14.462Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=317",
+  "kind": "search",
+  "responseSha256": "85dbc3e2d3e3b8a1fe47fc2c03870da2b766ca76265602a3a964c620fe795c87",
+  "files": [
+    {
+      "path": "myhome/07063-b299651cfd5bda81-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=317\"].SearchResults",
+      "sha256": "4a6f89a996920f1839477235cf7e691ff2fb7ee66a8fc7acda68bab3c942e047",
+      "bytes": 103332
+    },
+    {
+      "path": "myhome/07063-b299651cfd5bda81-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=317\"] (paging fields)",
+      "sha256": "2a370e4626bef00a5ea5262fe2b6fabbaad67c3e17040c42ca0593ac0e17abdc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/247-cedarwood-park-dundalk-louth/5022980",
+    "https://www.myhome.ie/residential/brochure/hamlet-wood-hamlet-lane-balbriggan-county-dublin/5022977",
+    "https://www.myhome.ie/residential/brochure/58-rd-na-mara-blackrock-co-louth/5022972",
+    "https://www.myhome.ie/residential/brochure/4-mulcair-court-limerick-county-limerick/5022961",
+    "https://www.myhome.ie/residential/brochure/73-the-green-wexford-town-wexford/5022866",
+    "https://www.myhome.ie/residential/brochure/the-haven-ballymackesy-clonroche-wexford/5022947",
+    "https://www.myhome.ie/residential/brochure/the-hideaway-carriganna-stradbally-co-waterford/5022946",
+    "https://www.myhome.ie/residential/brochure/2-properties-on-one-plot-haven-house-keeverstown-plus-yellow-lodge-keeverstown-grangebellew-louth/5022917",
+    "https://www.myhome.ie/residential/brochure/kilclooney-beg-portnoo-co-donegal/5022942",
+    "https://www.myhome.ie/residential/brochure/2-hibernian-buildings-albert-road-cork-city-cork/5022936",
+    "https://www.myhome.ie/residential/brochure/cloonyscrehane-newcastle-west-limerick/5022937",
+    "https://www.myhome.ie/residential/brochure/four-bed-detached-orchid-meadows-water-rock-midleton-co-cork/5022934",
+    "https://www.myhome.ie/residential/brochure/three-bed-mid-terrace-orchid-meadows-water-rock-midleton-co-cork/5022931",
+    "https://www.myhome.ie/residential/brochure/three-bed-end-of-terrace-orchid-meadows-water-rock-midleton-co-cork/5022930",
+    "https://www.myhome.ie/residential/brochure/drumminaguncan-glenisland-castlebar-co-mayo/5022929",
+    "https://www.myhome.ie/residential/brochure/five-bed-semi-detached-orchid-meadows-water-rock-midleton-co-cork/5022928",
+    "https://www.myhome.ie/residential/brochure/three-bed-semi-detached-orchid-meadows-water-rock-midleton-co-cork/5022927",
+    "https://www.myhome.ie/residential/brochure/12-the-crescent-saint-catherine-s-estate-rush-dublin/5022918",
+    "https://www.myhome.ie/residential/brochure/newtown-bennettsbridge-co-kilkenny/5022926",
+    "https://www.myhome.ie/residential/brochure/no-55-hollyville-mews-grange-douglas-cork-co-cork/5022915"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=318",
+  "paginationLimited": false
+}

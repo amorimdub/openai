@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=165",
+  "fetchedAt": "2026-10-05T11:39:29.741Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=165",
+  "kind": "search",
+  "responseSha256": "267104310c707339da5b231bfbc576738d8d415a65eec4d258ba1a813ccdb3a0",
+  "files": [
+    {
+      "path": "myhome/03925-abe9dc5b1d5e558c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=165\"].SearchResults",
+      "sha256": "c34ac4563424fa8698c9480208e5c65c6367bd06db9f72f907c78c1727512705",
+      "bytes": 122056
+    },
+    {
+      "path": "myhome/03925-abe9dc5b1d5e558c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=165\"] (paging fields)",
+      "sha256": "217c1f05c9cbae7c711e6cb92e3b7113a69720662d9b5c6de108a47fa4a09363",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-seabury-grove-malahide-co-dublin/4949914",
+    "https://www.myhome.ie/residential/brochure/77-saint-james-wood-77-saint-james-woods-south-circular-road-dublin-8/5028567",
+    "https://www.myhome.ie/residential/brochure/69-fernhill-arklow-co-wicklow/5028565",
+    "https://www.myhome.ie/residential/brochure/130-willow-park-grove-glasnevin-dublin-11/5028561",
+    "https://www.myhome.ie/residential/brochure/75-fortunes-lawn-citywest-co-dublin/5028563",
+    "https://www.myhome.ie/residential/brochure/35-elmcastle-green-kilnamanagh-dublin-24/5004404",
+    "https://www.myhome.ie/residential/brochure/bantrach-ballinahown-inverin-co-galway/5028558",
+    "https://www.myhome.ie/residential/brochure/6-saddlers-avenue-coolmine-dublin-15/5028554",
+    "https://www.myhome.ie/residential/brochure/25-derryvinna-clonlara-clare/5026959",
+    "https://www.myhome.ie/residential/brochure/killumney-ovens-cork/5028551",
+    "https://www.myhome.ie/residential/brochure/boherbee-thomastown-golden-co-tipperary/5028553",
+    "https://www.myhome.ie/residential/brochure/44-the-new-hardwicke-smithfield-dublin-7/5028552",
+    "https://www.myhome.ie/residential/brochure/no-2-village-manor-milltown-belturbet-cavan/5028545",
+    "https://www.myhome.ie/residential/brochure/lahard-whitegate-cork/5028486",
+    "https://www.myhome.ie/residential/brochure/stradone-house-ashbourne-meath/5002772",
+    "https://www.myhome.ie/residential/brochure/29-harbour-view-the-quay-westport-co-mayo/5028550",
+    "https://www.myhome.ie/residential/brochure/96-home-farm-road-drumcondra-dublin-9/5028391",
+    "https://www.myhome.ie/residential/brochure/forty-shades-laurelhill-inistioge-co-kilkenny/5022577",
+    "https://www.myhome.ie/residential/brochure/17-casement-villas-dun-laoghaire-co-dublin/5025948",
+    "https://www.myhome.ie/residential/brochure/durhamstown-bohermeen-navan-co-meath/5028544"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=166",
+  "paginationLimited": false
+}

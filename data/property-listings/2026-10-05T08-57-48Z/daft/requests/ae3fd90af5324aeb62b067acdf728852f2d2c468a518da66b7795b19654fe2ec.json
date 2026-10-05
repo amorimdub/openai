@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/llewellyn-grove-rathfarnham-rathfarnham-dublin-16/6685037",
+  "fetchedAt": "2026-10-05T09:38:27.691Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/llewellyn-grove-rathfarnham-rathfarnham-dublin-16/6685037",
+  "kind": "listing",
+  "responseSha256": "8609dd4bdd06c0fbda9d49dc23fb8d993538e36662db04d6e79db890c3018303",
+  "files": [
+    {
+      "path": "daft/01625-ae3fd90af5324aeb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cbfa59453b34fb6d802ca581135d7bd8b3611149c48c9e1c30dc082c1ff5557c",
+      "bytes": 28658
+    },
+    {
+      "path": "daft/01625-ae3fd90af5324aeb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2b1dc89af7061f0e79e3e4710eff6b8ea375093e5e54076f6083134eb3311ed9",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/1-rahan-road-tullamore-co-offaly/6665219",
+  "fetchedAt": "2026-10-05T09:14:01.783Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/1-rahan-road-tullamore-co-offaly/6665219",
+  "kind": "listing",
+  "responseSha256": "a29141b0c8dc2590c5d95752e22afae590e3d4aec021d34f606f910d9c8af328",
+  "files": [
+    {
+      "path": "daft/00649-6809e88c0f175d8f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "73087307f8435bea73b3d58b75da6f3437206bf8ddbab5aac31b66afd088d725",
+      "bytes": 120194
+    },
+    {
+      "path": "daft/00649-6809e88c0f175d8f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cbcc5bee299133f4e783b09d34b89ebcee0df53aff5696d9086938174f2ed6f7",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

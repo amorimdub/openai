@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/main-street-howth-dublin-13/6686413",
+  "fetchedAt": "2026-10-05T09:29:04.549Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/main-street-howth-dublin-13/6686413",
+  "kind": "listing",
+  "responseSha256": "6cec9d5e0112211d2daad9e96c3f0dd287b69769a37cb6a5e5a5f9c7bda80e23",
+  "files": [
+    {
+      "path": "daft/01250-c6cf56792c5d1a5d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "250c26abe46b87eeaf7fad306d5a9778506c472afd13c86c0cb54981eba11b46",
+      "bytes": 28652
+    },
+    {
+      "path": "daft/01250-c6cf56792c5d1a5d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4692ce8f1117501acf89a7b5fc3d5828b8eb9244c6387dd259cf84498aff3df2",
+      "bytes": 8149
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=284",
+  "fetchedAt": "2026-10-05T12:41:17.526Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=284",
+  "kind": "search",
+  "responseSha256": "d68bf000320c44f17449b8f0f5b9f3f0087d43df4cfe7a441d09b3d02e8ed1bc",
+  "files": [
+    {
+      "path": "myhome/06391-3f3f6fdca04aa8d0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=284\"].SearchResults",
+      "sha256": "50ed988cd283ef24c0e5af95c2d087b20735b1b2274c7eaf58864a672db6a1fb",
+      "bytes": 120673
+    },
+    {
+      "path": "myhome/06391-3f3f6fdca04aa8d0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=284\"] (paging fields)",
+      "sha256": "1fd717837a6eaea795bcb83fb0a56bad8bcbdf38b6af14db610b7df87d05be84",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/12-willowbrook-mullingar-westmeath/5024901",
+    "https://www.myhome.ie/residential/brochure/14-clonshaugh-crescent-clonshaugh-dublin-17/4996023",
+    "https://www.myhome.ie/residential/brochure/white-strand-house-sallybrook-clonea-road-abbeyside-dungarvan-co-waterford/5024905",
+    "https://www.myhome.ie/residential/brochure/49-cypress-grove-road-templeogue-dublin-6w/4996299",
+    "https://www.myhome.ie/residential/brochure/3-fernhill-avenue-terenure-dublin-12/5017449",
+    "https://www.myhome.ie/residential/brochure/6-carleton-road-marino-dublin-3/5024899",
+    "https://www.myhome.ie/residential/brochure/19-tymonville-avenue-tallaght-dublin-24/5024900",
+    "https://www.myhome.ie/residential/brochure/apartment-23-augustine-court-christchurch-dublin-8/5024897",
+    "https://www.myhome.ie/residential/brochure/62-highfield-manor-graiguecullen-co-carlow/5024896",
+    "https://www.myhome.ie/residential/brochure/castlemerle-grovine-east-waterford-road-kilkenny/5011279",
+    "https://www.myhome.ie/residential/brochure/2-grattan-park-mountbellew-co-galway/5024895",
+    "https://www.myhome.ie/residential/brochure/14-lakeview-heights-cullenagh-ballina-tipperary/5021816",
+    "https://www.myhome.ie/residential/brochure/12-saint-joseph-s-terrace-drogheda-co-louth/5024893",
+    "https://www.myhome.ie/residential/brochure/270-coille-bheithe-nenagh-tipperary/5021860",
+    "https://www.myhome.ie/residential/brochure/donaghmore-lodge-ballygarrett-gorey-county-wexford/5024887",
+    "https://www.myhome.ie/residential/brochure/1-coolnevaun-stillorgan-co-dubln/5008590",
+    "https://www.myhome.ie/residential/brochure/apartment-16-centaur-house-centaur-street-carlow-co-carlow/5024885",
+    "https://www.myhome.ie/residential/brochure/10-westpark-estate-tallaght-dublin-24/5019870",
+    "https://www.myhome.ie/residential/brochure/30-cluain-lara-athenry-co-galway/5023153",
+    "https://www.myhome.ie/residential/brochure/28-sandyford-hall-view-sandyford-dublin-18/5024875"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=285",
+  "paginationLimited": false
+}

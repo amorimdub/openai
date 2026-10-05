@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-4-boston-cleaners-waterford-city-centre-co-waterford/6682567",
+  "fetchedAt": "2026-10-05T09:32:07.788Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-4-boston-cleaners-waterford-city-centre-co-waterford/6682567",
+  "kind": "listing",
+  "responseSha256": "15d03e187ab9e69ff4eb7eec614ecc3a3c21b820795802b985a1758128897d5f",
+  "files": [
+    {
+      "path": "daft/01372-59770b48e56a74ff-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d2f1293969e018583025a73aa226ee6b550e246f2aae4959788a0a1c332860de",
+      "bytes": 35594
+    },
+    {
+      "path": "daft/01372-59770b48e56a74ff-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "93869c128fded5de74dc5ccd2dc47eb22acb17c3ba1a1c3ad188edb999f0cfba",
+      "bytes": 8261
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

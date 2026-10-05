@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/bunnacurry-achill-co-mayo/6603285",
+  "fetchedAt": "2026-10-05T09:02:17.420Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/bunnacurry-achill-co-mayo/6603285",
+  "kind": "listing",
+  "responseSha256": "8609a67eb0151f3aa31d6071fb19b49e08a15cb26da1baaaa61aa06fc59a7d6a",
+  "files": [
+    {
+      "path": "daft/00180-fabf189e51156066-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6d7b269ae6aa9863c1b9a74a5b48d514d779f8c05adf03fdbc20ec4f2dfd7a57",
+      "bytes": 13304
+    },
+    {
+      "path": "daft/00180-fabf189e51156066-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a7e6e6feb34a1c8aa44d33accd090fcdfd7ac128c3bde22236d0a0b8440d6902",
+      "bytes": 7997
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

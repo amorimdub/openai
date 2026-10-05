@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/16-woodlands-road-glenageary-co-dublin/6676749",
+  "fetchedAt": "2026-10-05T09:19:51.714Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/16-woodlands-road-glenageary-co-dublin/6676749",
+  "kind": "listing",
+  "responseSha256": "b052eabbd6227036dec6f2046f4736eaefc8987f7c9b1e2e641083f7b11664ac",
+  "files": [
+    {
+      "path": "daft/00882-7c4341ddd49dd42f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3dd99702728b0f2fe1f5d7f8831ea141f9bc4bb9eedf384fbd2c4736bc347d35",
+      "bytes": 4972
+    },
+    {
+      "path": "daft/00882-7c4341ddd49dd42f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "900345e6c942ac3f6f744ecf61c1fc123aea0e5d03c20b7b4f8251a429e4f419",
+      "bytes": 8055
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

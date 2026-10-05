@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/one-bed-property-the-grange-celbridge-road-maynooth-co-kildare/6483043",
+  "fetchedAt": "2026-10-05T09:05:20.637Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/one-bed-property-the-grange-celbridge-road-maynooth-co-kildare/6483043",
+  "kind": "listing",
+  "responseSha256": "baf0ada0835e7bea4020d9405224676ad5d5900502f808f6382486c3fe7372c3",
+  "files": [
+    {
+      "path": "daft/00302-c01b0db14632e5da-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "23cad42d0ea4807b0b4cc29d0b8a7558a4a66117658f187d968e40957c2acc0f",
+      "bytes": 48364
+    },
+    {
+      "path": "daft/00302-c01b0db14632e5da-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "05ed419ca59053334f7046dad57191548b259bc3d655bd2ed3f15dc273fe1293",
+      "bytes": 8102
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

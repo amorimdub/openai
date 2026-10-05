@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-occu-adamstown-adamstown-adamstown-co-dublin/4613766",
+  "fetchedAt": "2026-10-05T09:09:14.896Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-occu-adamstown-adamstown-adamstown-co-dublin/4613766",
+  "kind": "listing",
+  "responseSha256": "5c49fbd56f739896be3bfa0219603906d9d6a6a4afeeb1edbd15ddfbb167965c",
+  "files": [
+    {
+      "path": "daft/00458-eae7264909609442-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c8acdce984144aeca530ecaf65a601b8c2f840c193a7f6585815f3ec3e3f34b4",
+      "bytes": 54914
+    },
+    {
+      "path": "daft/00458-eae7264909609442-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2ac16828f10f1213be8e50e2963e47ad60c1968c549253cc1b8a61b3a6f71e72",
+      "bytes": 8112
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

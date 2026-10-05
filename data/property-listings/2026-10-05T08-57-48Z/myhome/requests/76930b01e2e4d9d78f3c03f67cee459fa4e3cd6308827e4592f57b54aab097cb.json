@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=155",
+  "fetchedAt": "2026-10-05T11:34:21.562Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=155",
+  "kind": "search",
+  "responseSha256": "13b7bc74736307e5a78bb3a3cfe1e943ed2c6993971e677fb6ff3eed1c2d8fd6",
+  "files": [
+    {
+      "path": "myhome/03720-76930b01e2e4d9d7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=155\"].SearchResults",
+      "sha256": "3064affe5babb43e210dc2d50b325d61f4853c600538d73291de483ef16b4c24",
+      "bytes": 126563
+    },
+    {
+      "path": "myhome/03720-76930b01e2e4d9d7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=155\"] (paging fields)",
+      "sha256": "d861c9a7e539336c058e9185e7634ca8e2e66ad6f9c4d2135187e71251a3c1dc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-49-block-c-the-malthouse-marrowbone-lane-the-coombe-dublin-8/5028797",
+    "https://www.myhome.ie/residential/brochure/the-parochial-house-sion-crossabeg-co-wexford/5028843",
+    "https://www.myhome.ie/residential/brochure/21-hunters-lane-hunters-wood-firhouse-co-dublin/5028842",
+    "https://www.myhome.ie/residential/brochure/apartment-38-block-b-south-terrace-court-cork-city-cork/5028836",
+    "https://www.myhome.ie/residential/brochure/21-seaview-square-cnoc-na-mara-blackrock-co-louth/5028841",
+    "https://www.myhome.ie/residential/brochure/38-stapolin-avenue-the-coast-baldoyle-dublin-13/5019879",
+    "https://www.myhome.ie/residential/brochure/naomh-antoin-ballysimon-limerick/5027149",
+    "https://www.myhome.ie/residential/brochure/apartment-7-bow-bridge-house-with-parking-space-option-kilmainham-dublin-8/5028160",
+    "https://www.myhome.ie/residential/brochure/hillcrest-chapel-street-taghmon-co-wexford/4996963",
+    "https://www.myhome.ie/residential/brochure/apartment-20-woodlands-court-woodlands-greystones-co-wicklow/5028834",
+    "https://www.myhome.ie/residential/brochure/28-clonmagadden-fort-navan-co-meath/5028832",
+    "https://www.myhome.ie/residential/brochure/52-brabazon-links-golf-links-road-bettystown-meath/5026628",
+    "https://www.myhome.ie/residential/brochure/ballyscanlon-coolbawn-nenagh-tipperary/5028831",
+    "https://www.myhome.ie/residential/brochure/17-farm-green-manor-farm-lehenaghmore-cork/5028155",
+    "https://www.myhome.ie/residential/brochure/94-greenhills-court-south-douglas-road-douglas-cork-city/5028811",
+    "https://www.myhome.ie/residential/brochure/7-wainsfort-manor-drive-wainsfort-road-dublin-6w/5028827",
+    "https://www.myhome.ie/residential/brochure/58-broombridge-road-cabra-dublin-7/5028826",
+    "https://www.myhome.ie/residential/brochure/21-chestnut-hill-killeens-wexford/5028825",
+    "https://www.myhome.ie/residential/brochure/45-allendale-avenue-bishopstown-bishopstown-cork-bishopstown-cork/5017298",
+    "https://www.myhome.ie/residential/brochure/killaune-ballymacward-ballinasloe-co-galway/5028821"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=156",
+  "paginationLimited": false
+}

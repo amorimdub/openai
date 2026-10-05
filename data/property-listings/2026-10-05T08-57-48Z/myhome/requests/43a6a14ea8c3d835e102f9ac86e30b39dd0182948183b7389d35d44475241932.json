@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=493",
+  "fetchedAt": "2026-10-05T14:28:32.247Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=493",
+  "kind": "search",
+  "responseSha256": "64874cc773fbfd5d92f777520331eb946265f86bc7ad725589a355f3a397a307",
+  "files": [
+    {
+      "path": "myhome/10667-43a6a14ea8c3d835-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=493\"].SearchResults",
+      "sha256": "b69d960b98f6346c70abc66e656578eabe1d883f1d4b352ad856ce816a1fdd9e",
+      "bytes": 127646
+    },
+    {
+      "path": "myhome/10667-43a6a14ea8c3d835-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=493\"] (paging fields)",
+      "sha256": "aea4a49d801b104c556a8bf639569b3366afd25390ca8cea164482e4cd588b74",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/25-ferncarrig-rise-sandyford-dublin-18/5003361",
+    "https://www.myhome.ie/residential/brochure/7-aisling-close-ballincollig-cork/5003330",
+    "https://www.myhome.ie/residential/brochure/moortown-rathcoffey-co-kildare/5003347",
+    "https://www.myhome.ie/residential/brochure/ardfinnan-castle-ardfinnan-county-tipperary/5003337",
+    "https://www.myhome.ie/residential/brochure/kitts-bay-lake-shore-house-glann-road-oughterard-co-galway/5003335",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5003311",
+    "https://www.myhome.ie/residential/brochure/ladyrath-wilkinstown-navan-co-meath/5003312",
+    "https://www.myhome.ie/residential/brochure/auburn-woods-malahide-dublin/5003302",
+    "https://www.myhome.ie/residential/brochure/skehana-coolbawn-nenagh-tipperary/5003304",
+    "https://www.myhome.ie/residential/brochure/carnamuggagh-letterkenny-co-donegal/5003299",
+    "https://www.myhome.ie/residential/brochure/pleberstown-thomastown-kilkenny/5003286",
+    "https://www.myhome.ie/residential/brochure/8-southbay-point-rosslare-co-wexford/5003298",
+    "https://www.myhome.ie/residential/brochure/6-phelan-street-rathvilly-co-carlow/5003293",
+    "https://www.myhome.ie/residential/brochure/8-abbey-lane-mountain-road-carrigaline-cork/4998696",
+    "https://www.myhome.ie/residential/brochure/glasshouse-blue-ball-tullamore-offaly/5003265",
+    "https://www.myhome.ie/residential/brochure/brookhill-on-c-5-67ha-14-acres-fethard-co-tipperary/5003269",
+    "https://www.myhome.ie/residential/brochure/mulroog-west-ballinderren-kilcolgan-county-galway/5003255",
+    "https://www.myhome.ie/residential/brochure/colleras-goleen-west-cork/5003090",
+    "https://www.myhome.ie/residential/brochure/5-merino-drive-stoneyford-kilkenny/5003247",
+    "https://www.myhome.ie/residential/brochure/kylemore-railway-view-athlone-co-westmeath/5003241"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=494",
+  "paginationLimited": false
+}

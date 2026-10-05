@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=247",
+  "fetchedAt": "2026-10-05T12:21:59.677Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=247",
+  "kind": "search",
+  "responseSha256": "55de3856047c1dfc828826ff2f2c747d6eabf7929cb80079d329a88e148e8453",
+  "files": [
+    {
+      "path": "myhome/05621-1e6de34cbc428a71-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=247\"].SearchResults",
+      "sha256": "59910c1101de895ab5a5acf11ae78b1996298d6292c30907131eab35c2db6a0c",
+      "bytes": 129368
+    },
+    {
+      "path": "myhome/05621-1e6de34cbc428a71-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=247\"] (paging fields)",
+      "sha256": "1833baa7f5dc327961bae627a6db08497a60a399fc644f7268cba2bddc023f78",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/cullenmore-house-greystones-wicklow/5015840",
+    "https://www.myhome.ie/residential/brochure/13-shannon-gael-cortober-carrick-on-shannon-roscommon/5026147",
+    "https://www.myhome.ie/residential/brochure/27-westwinds-kilrane-rosslare-harbour-co-wexford/5026152",
+    "https://www.myhome.ie/residential/brochure/28-castle-gardens-bunratty-clare/5026148",
+    "https://www.myhome.ie/residential/brochure/the-glenasmole-estate-castlekelly-bohernabreena-co-dublin/5022688",
+    "https://www.myhome.ie/residential/brochure/31-gortnaclohy-heights-skibbereen-west-cork/5026144",
+    "https://www.myhome.ie/residential/brochure/emmett-street-ballymote-co-sligo/5026146",
+    "https://www.myhome.ie/residential/brochure/33-park-court-sandymount-dublin-4/5026145",
+    "https://www.myhome.ie/residential/brochure/47-morehampton-road-donnybrook-dublin-4/4954987",
+    "https://www.myhome.ie/residential/brochure/12-waters-edge-knockateemore-dungarvan-waterford/5026142",
+    "https://www.myhome.ie/residential/brochure/apartment-26-weavers-hall-levmoss-park-leopardstown-dublin-18/5026140",
+    "https://www.myhome.ie/residential/brochure/36-south-bank-swords-dublin/5025563",
+    "https://www.myhome.ie/residential/brochure/drumleaghy-sooey-riverstown-sligo/5026136",
+    "https://www.myhome.ie/residential/brochure/eyre-house-coolnahila-lisnagry-limerick/5025684",
+    "https://www.myhome.ie/residential/brochure/26-hollybrook-brighton-road-foxrock-dublin-18/5004448",
+    "https://www.myhome.ie/residential/brochure/8-glen-view-kilgarron-hill-enniskerry-wicklow/5006780",
+    "https://www.myhome.ie/residential/brochure/meadow-view-pullagh-kildangan-kildare/5026125",
+    "https://www.myhome.ie/residential/brochure/35-herberton-park-rialto-dublin-8/5026124",
+    "https://www.myhome.ie/residential/brochure/15-landsdowne-manor-swellan-lower-cavan-county-cavan/5026119",
+    "https://www.myhome.ie/residential/brochure/23-cnoc-cluain-ballina-tipperary/5015810"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=248",
+  "paginationLimited": false
+}

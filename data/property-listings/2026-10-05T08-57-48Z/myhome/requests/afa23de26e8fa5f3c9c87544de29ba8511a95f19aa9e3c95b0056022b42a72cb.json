@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=25",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=25",
+  "fetchedAt": "2026-10-05T09:21:15.421Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e3d0d6cd187ad16441f2ab3923ff75f53a80019734196f625d07a7080855a0df",
+  "files": [
+    {
+      "path": "myhome/00933-afa23de26e8fa5f3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=25\"].SearchResults",
+      "sha256": "722a37553c08ec57f4ff2c1bf5084419c2e28f6f597075a08d1860fd4e7c56df",
+      "bytes": 96986
+    },
+    {
+      "path": "myhome/00933-afa23de26e8fa5f3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=25\"] (paging fields)",
+      "sha256": "8c7a5773a4d09e56e0655f36f17f6681c086093d637d3346e47612e83ce8be86",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/the-oslo-sandyford-central-sandyford-dublin-18/4935600",
+    "https://www.myhome.ie/rentals/brochure/unit-at-main-street-ballina-tipperary/4930487",
+    "https://www.myhome.ie/rentals/brochure/the-hudson-sandyford-central-sandyford-dublin18/4932346",
+    "https://www.myhome.ie/rentals/brochure/the-old-school-master-s-house-clogharinka-broadford-county-kildare/4931399",
+    "https://www.myhome.ie/rentals/brochure/tirchonaill-street-donegal-town-co-donegal/4930433",
+    "https://www.myhome.ie/rentals/brochure/apartment-1-18-lower-baggot-street-dublin-2/4805651",
+    "https://www.myhome.ie/rentals/brochure/125-westland-square-pearse-street-dublin-2/4923731",
+    "https://www.myhome.ie/rentals/brochure/griffith-wood-griffith-avenue-drumcondra-dublin-9/4540166",
+    "https://www.myhome.ie/rentals/brochure/easra-court-collins-avenue-killester-dublin-5/4921631",
+    "https://www.myhome.ie/rentals/brochure/lenamore-ballylongford-co-kerry/4917209",
+    "https://www.myhome.ie/rentals/brochure/greenore-terrace-grand-canal-dock-dublin-2/4914070",
+    "https://www.myhome.ie/rentals/brochure/grange-edenderry-kildare/4912683",
+    "https://www.myhome.ie/rentals/brochure/4-hillcourt-highfield-road-dublin-6/4910221",
+    "https://www.myhome.ie/rentals/brochure/cashel-lodge-rosscahill-county-galway/4908873",
+    "https://www.myhome.ie/rentals/brochure/st-marnocks-bay-the-avenue-portmarnock-codublin/4908110",
+    "https://www.myhome.ie/rentals/brochure/unit-1-john-broderick-street-athlone-westmeath/4905481",
+    "https://www.myhome.ie/rentals/brochure/test-property-tullaghan-leitrim/4905194",
+    "https://www.myhome.ie/rentals/brochure/the-apartment-the-mall-ramelton-donegal/4903765",
+    "https://www.myhome.ie/rentals/brochure/14-hawthorn-house-farmleigh-woods-dublin-15/4902455",
+    "https://www.myhome.ie/rentals/brochure/dx-living-donnybrook-road-donnybrook-dublin-4/4901972"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=26",
+  "paginationLimited": false
+}

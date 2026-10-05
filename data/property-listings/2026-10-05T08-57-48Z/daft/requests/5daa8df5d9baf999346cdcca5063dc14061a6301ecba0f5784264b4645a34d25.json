@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/9-eastmoreland-lane-ballsbridge-dublin-4/6686989",
+  "fetchedAt": "2026-10-05T09:25:02.644Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/9-eastmoreland-lane-ballsbridge-dublin-4/6686989",
+  "kind": "listing",
+  "responseSha256": "f18bd271d45b1772d6ee88518cf49e57d5736a4bf7153ed99f891e7f85d6f23b",
+  "files": [
+    {
+      "path": "daft/01089-5daa8df5d9baf999-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "af1a6a1f21bd578356dd61780b2a421e4243eb672f7ab2909b737561e02fb5b7",
+      "bytes": 16172
+    },
+    {
+      "path": "daft/01089-5daa8df5d9baf999-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9a824e66c433e0870b4eb66b3b70cb105e81d9e0945427e0ad1453ae9bd7d022",
+      "bytes": 8070
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

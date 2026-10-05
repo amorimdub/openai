@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GALBALLY NATIONAL SCHOOL",
+      "numPupils": 34,
+      "distance": {
+        "value": 2.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.398586",
+        "lon": "-6.640036"
+      }
+    },
+    {
+      "schoolName": "CARROWREIGH NATIONAL SCHOOL",
+      "numPupils": 103,
+      "distance": {
+        "value": 4.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.351380",
+        "lon": "-6.686305"
+      }
+    },
+    {
+      "schoolName": "GLYNN NATIONAL SCHOOL",
+      "numPupils": 147,
+      "distance": {
+        "value": 4.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.372936",
+        "lon": "-6.580831"
+      }
+    },
+    {
+      "schoolName": "ADAMSTOWN NATIONAL SCHOOL",
+      "numPupils": 143,
+      "distance": {
+        "value": 4.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.392570",
+        "lon": "-6.717567"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE BALLYHOGUE",
+      "numPupils": 18,
+      "distance": {
+        "value": 6.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.414047",
+        "lon": "-6.575493"
+      }
+    },
+    {
+      "schoolName": "ST FINTAN'S TAGHMON",
+      "numPupils": 184,
+      "distance": {
+        "value": 6.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.324720",
+        "lon": "-6.653566"
+      }
+    },
+    {
+      "schoolName": "BREE NATIONAL SCHOOL",
+      "numPupils": 227,
+      "distance": {
+        "value": 6.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.434230",
+        "lon": "-6.608658"
+      }
+    },
+    {
+      "schoolName": "BARNTOWN NATIONAL SCHOOL",
+      "numPupils": 334,
+      "distance": {
+        "value": 8.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.337635",
+        "lon": "-6.542766"
+      }
+    },
+    {
+      "schoolName": "CLONROCHE NATIONAL SCHOOL",
+      "numPupils": 99,
+      "distance": {
+        "value": 9.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.447487",
+        "lon": "-6.724674"
+      }
+    },
+    {
+      "schoolName": "CROSSABEG NATIONAL SCHOOL",
+      "numPupils": 214,
+      "distance": {
+        "value": 9.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.388626",
+        "lon": "-6.507845"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "COLÁISTE ABBÁIN",
+      "numPupils": 461,
+      "distance": {
+        "value": 5.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.393017",
+        "lon": "-6.718565"
+      }
+    },
+    {
+      "schoolName": "MEANSCOIL GHARMAN",
+      "numPupils": 228,
+      "distance": {
+        "value": 11.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.465145",
+        "lon": "-6.555841"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 930,
+      "distance": {
+        "value": 12.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.343796",
+        "lon": "-6.473906"
+      }
+    },
+    {
+      "schoolName": "ST. PETER'S COLLEGE",
+      "numPupils": 784,
+      "distance": {
+        "value": 12.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.335050",
+        "lon": "-6.472298"
+      }
+    },
+    {
+      "schoolName": "SELSKAR COLLEGE (COLÁISTE SHEILSCIRE)",
+      "numPupils": 390,
+      "distance": {
+        "value": 12.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.341330",
+        "lon": "-6.467307"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 981,
+      "distance": {
+        "value": 13.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.336018",
+        "lon": "-6.464567"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS SECONDARY SCHOOL",
+      "numPupils": 721,
+      "distance": {
+        "value": 13.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.333530",
+        "lon": "-6.463419"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S C.B.S.",
+      "numPupils": 772,
+      "distance": {
+        "value": 13.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.497444",
+        "lon": "-6.569224"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BRÍDE",
+      "numPupils": 753,
+      "distance": {
+        "value": 14.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.502815",
+        "lon": "-6.559186"
+      }
+    },
+    {
+      "schoolName": "ENNISCORTHY COMMUNITY COLLEGE",
+      "numPupils": 472,
+      "distance": {
+        "value": 14.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.509655",
+        "lon": "-6.585215"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Glynn",
+      "route": "384",
+      "destination": "Wexford",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 4.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.37305828",
+        "lon": "-6.583273075"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killurin",
+      "route": "384",
+      "destination": "Wilton",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 4.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.38365",
+        "lon": "-6.57787"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilgarvan",
+      "route": "388",
+      "destination": "Duncormick",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 4.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.34719",
+        "lon": "-6.69502"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bell View Cottages",
+      "route": "384",
+      "destination": "Enniscorthy",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 5.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.412247",
+        "lon": "-6.585534"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bellevue Heights",
+      "route": "384",
+      "destination": "Wilton",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 5.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.41372",
+        "lon": "-6.57874"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Monastery Ave",
+      "route": "388",
+      "destination": "Duncormick",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 6.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.324723",
+        "lon": "-6.658293"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Taghmon",
+      "route": "388",
+      "destination": "Wexford",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 6.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.32236",
+        "lon": "-6.65119"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Taghmon",
+      "route": "372",
+      "destination": "New Ross",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.32237",
+        "lon": "-6.65219"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bree",
+      "route": "384",
+      "destination": "Enniscorthy",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 6.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.43553",
+        "lon": "-6.60862"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Horetown North",
+      "route": "388",
+      "destination": "Duncormick",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 7.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.33431",
+        "lon": "-6.71947"
+      }
+    }
+  ]
+}

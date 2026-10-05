@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST. PATRICK'S PRIMARY SCHOOL",
+      "numPupils": 231,
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272263",
+        "lon": "-9.055382"
+      }
+    },
+    {
+      "schoolName": "CLADDAGH NATIONAL SCHOOL",
+      "numPupils": 271,
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.267433",
+        "lon": "-9.057794"
+      }
+    },
+    {
+      "schoolName": "SCOIL IOGNÁID",
+      "numPupils": 499,
+      "distance": {
+        "value": 0.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270520",
+        "lon": "-9.062462"
+      }
+    },
+    {
+      "schoolName": "MERCY PRIMARY",
+      "numPupils": 261,
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275715",
+        "lon": "-9.053796"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY",
+      "numPupils": 136,
+      "distance": {
+        "value": 0.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274204",
+        "lon": "-9.062489"
+      }
+    },
+    {
+      "schoolName": "ST NICHOLAS' PRIMARY SCHOOL",
+      "numPupils": 71,
+      "distance": {
+        "value": 0.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276405",
+        "lon": "-9.054381"
+      }
+    },
+    {
+      "schoolName": "SCOIL FHURSA",
+      "numPupils": 200,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269077",
+        "lon": "-9.066319"
+      }
+    },
+    {
+      "schoolName": "SCOIL BHRÍDE SHANTALLA",
+      "numPupils": 204,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273502",
+        "lon": "-9.071456"
+      }
+    },
+    {
+      "schoolName": "SCOIL AINE SPECIAL SCHOOL",
+      "numPupils": 35,
+      "distance": {
+        "value": 1.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268580",
+        "lon": "-9.074598"
+      }
+    },
+    {
+      "schoolName": "SCOIL RÓIS PRIMARY SCHOOL",
+      "numPupils": 315,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268220",
+        "lon": "-9.076032"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST JOSEPH'S COLLEGE",
+      "numPupils": 767,
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272594",
+        "lon": "-9.058093"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S COLLEGE",
+      "numPupils": 249,
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273636",
+        "lon": "-9.059698"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IOGNÁID S.J.",
+      "numPupils": 636,
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269960",
+        "lon": "-9.061381"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE MÁTHAIR",
+      "numPupils": 765,
+      "distance": {
+        "value": 0.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271027",
+        "lon": "-9.064991"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 415,
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.271060",
+        "lon": "-9.067110"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN COLLEGE",
+      "numPupils": 601,
+      "distance": {
+        "value": 1.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268574",
+        "lon": "-9.076905"
+      }
+    },
+    {
+      "schoolName": "GALWAY COMMUNITY COLLEGE",
+      "numPupils": 454,
+      "distance": {
+        "value": 1.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283283",
+        "lon": "-9.033398"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE ÉINDE",
+      "numPupils": 806,
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.265705",
+        "lon": "-9.089664"
+      }
+    },
+    {
+      "schoolName": "SALERNO SECONDARY SCHOOL",
+      "numPupils": 666,
+      "distance": {
+        "value": 2.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.263810",
+        "lon": "-9.089556"
+      }
+    },
+    {
+      "schoolName": "GALWAY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 350,
+      "distance": {
+        "value": 3.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274510",
+        "lon": "-8.998752"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "401",
+      "destination": "Dr. Mannix Road",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27036",
+        "lon": "-9.05466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "424",
+      "destination": "Carraroe",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27036",
+        "lon": "-9.05466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "525",
+      "destination": "Rossaveel Pier",
+      "provider": "Island Ferries Teoranta",
+      "distance": {
+        "value": 0.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27036",
+        "lon": "-9.05466"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Spanish Arch",
+      "route": "809",
+      "destination": "Jury's Hotel",
+      "provider": "MCD Minibus Hire",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270347",
+        "lon": "-9.054014"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Merchants Rd",
+      "route": "844",
+      "destination": "Birr",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.27166",
+        "lon": "-9.05086"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Fr Griffin Rd",
+      "route": "401",
+      "destination": "Eyre Square",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.268576",
+        "lon": "-9.058108"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Galway Cathedral",
+      "route": "438",
+      "destination": "Tuam",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2748",
+        "lon": "-9.05806"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Galway Cathedral",
+      "route": "GM13",
+      "destination": "Monaghan Shopping Centre",
+      "provider": "Streamline Coaches",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2748",
+        "lon": "-9.05806"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Galway Cathedral",
+      "route": "439",
+      "destination": "Loughrea",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2748",
+        "lon": "-9.05806"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Galway Cathdrl",
+      "route": "433",
+      "destination": "Galway Cathedral",
+      "provider": "Bus4u",
+      "distance": {
+        "value": 0.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275104",
+        "lon": "-9.056725"
+      }
+    }
+  ]
+}

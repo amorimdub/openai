@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/40-oak-drive-bloomfield-castletroy-limerick-co-limerick/6508085",
+  "fetchedAt": "2026-10-05T09:09:29.910Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/40-oak-drive-bloomfield-castletroy-limerick-co-limerick/6508085",
+  "kind": "listing",
+  "responseSha256": "268ae0b5445ad2ccac180deca7f6b9795972e71d1e516940e4f75ad3d31284bc",
+  "files": [
+    {
+      "path": "daft/00468-7957be64984ccc55-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ddc5aaff58e3bdc0ac492cdd526e614375e82884f46dab41bebe955680f04836",
+      "bytes": 55519
+    },
+    {
+      "path": "daft/00468-7957be64984ccc55-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2a5f95f701ac7c65c65e722aa720c93428f08f36fd4b52ee534dca7715776f22",
+      "bytes": 8006
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

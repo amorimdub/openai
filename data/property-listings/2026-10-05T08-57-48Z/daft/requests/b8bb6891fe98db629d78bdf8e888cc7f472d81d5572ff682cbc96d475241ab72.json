@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/leinster-house-50-leinster-road-rathmines-dublin-6/6683524",
+  "fetchedAt": "2026-10-05T09:49:06.183Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/leinster-house-50-leinster-road-rathmines-dublin-6/6683524",
+  "kind": "listing",
+  "responseSha256": "517778ad7bb03a3b254aac4f28b6d827852f2440394494d6859e58a21881cfa4",
+  "files": [
+    {
+      "path": "daft/02050-b8bb6891fe98db62-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a760f844fe489ba55fe36e22f4c2b9a7a6dec7714fddbedcaeac06505c9a5a70",
+      "bytes": 20771
+    },
+    {
+      "path": "daft/02050-b8bb6891fe98db62-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bf7f4cc7a017dbaa5503e698978c6a0ba54571af7ba3c234fb0e0d80a81da26c",
+      "bytes": 8152
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

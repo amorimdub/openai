@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/shackleton-glebe-shackleton-glebe-lucan-co-dublin/4092985",
+  "fetchedAt": "2026-10-05T09:07:58.308Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/shackleton-glebe-shackleton-glebe-lucan-co-dublin/4092985",
+  "kind": "listing",
+  "responseSha256": "4e84a496fbefe98643887febb44771b2abe432b05c890c7b5ff4ca9a876c3bb4",
+  "files": [
+    {
+      "path": "daft/00407-b12dddf010e73a5c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "58045aa77edd724b4485d376ca0a6afcad0fd51a192c458cbe7c929f239b058e",
+      "bytes": 183287
+    },
+    {
+      "path": "daft/00407-b12dddf010e73a5c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "71c26c2253bb92927b0906f314884f89ed4e23a1d030e9649091471107fc511f",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

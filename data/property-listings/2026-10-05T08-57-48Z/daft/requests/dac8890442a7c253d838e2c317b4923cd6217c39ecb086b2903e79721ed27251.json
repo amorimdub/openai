@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/22-calderwood-road-dublin-9-drumcondra-dublin-9/6684257",
+  "fetchedAt": "2026-10-05T09:00:15.352Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/22-calderwood-road-dublin-9-drumcondra-dublin-9/6684257",
+  "kind": "listing",
+  "responseSha256": "5afdce1b575f173fa7a4ee4c884a6198c4a1d43572eb3f5a5242be39c0885ba0",
+  "files": [
+    {
+      "path": "daft/00099-dac8890442a7c253-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "274d05278a779261007365c7119fd16203536208f71d4e0a71d059b85978f66e",
+      "bytes": 95312
+    },
+    {
+      "path": "daft/00099-dac8890442a7c253-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "58e02778455e86b2a72c589fb19f91d4399c73abfe23038549326661a53fb625",
+      "bytes": 8174
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

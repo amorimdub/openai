@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=372",
+  "fetchedAt": "2026-10-05T13:26:11.986Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=372",
+  "kind": "search",
+  "responseSha256": "e76af819f98d3eadd67f1493eb9cf5486f1b280e4064eb2d07c6a4621ac54625",
+  "files": [
+    {
+      "path": "myhome/08179-83d83743dab4b4ff-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=372\"].SearchResults",
+      "sha256": "3a4d831ef36c91a7841e10278ef6539cbfddbc764d5437460ad465ff8ad9b7f7",
+      "bytes": 113536
+    },
+    {
+      "path": "myhome/08179-83d83743dab4b4ff-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=372\"] (paging fields)",
+      "sha256": "90a3ca249f5a7ec30b7ad05e7ddd04eb49a5088b99ab480809a2f54bdb3b739f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ardilea-sarshill-kilmore-kilmore-village-co-wexford/5018457",
+    "https://www.myhome.ie/residential/brochure/avondale-drumbaragh-kells-meath/5018456",
+    "https://www.myhome.ie/residential/brochure/merlin-s-way-enniskerry-wicklow/5010009",
+    "https://www.myhome.ie/residential/brochure/92-corrib-road-terenure-dublin-6w/5018442",
+    "https://www.myhome.ie/residential/brochure/18-bridgecourt-ballinasloe-galway/5018449",
+    "https://www.myhome.ie/residential/brochure/61-woodlands-navan-meath/5018445",
+    "https://www.myhome.ie/residential/brochure/an-gorm-main-street-cloughjordan-tipperary/5018444",
+    "https://www.myhome.ie/residential/brochure/2-mill-street-callan-kilkenny/5018443",
+    "https://www.myhome.ie/residential/brochure/whole-lands-cottage-lisnavagh-rathvilly-carlow/5018440",
+    "https://www.myhome.ie/residential/brochure/4-bridgewater-north-quay-arklow-co-wicklow/5018435",
+    "https://www.myhome.ie/residential/brochure/12-davis-terrace-clonmel-county-tipperary/5018433",
+    "https://www.myhome.ie/residential/brochure/4-woodlands-park-coill-dubh-co-kildare/5018428",
+    "https://www.myhome.ie/residential/brochure/oakville-house-kickham-street-clonmel-county-tipperary/5018425",
+    "https://www.myhome.ie/residential/brochure/3-clonmellon-grove-the-donahies-donaghmede-dublin-13/5018424",
+    "https://www.myhome.ie/residential/brochure/48-quarry-road-plus-attic-conversion-cabra-dublin-7/4981732",
+    "https://www.myhome.ie/residential/brochure/57-green-lawn-curragh-road-turners-cross-cork/4988040",
+    "https://www.myhome.ie/residential/brochure/8-danesfort-old-galway-road-athlone-roscommon/5018414",
+    "https://www.myhome.ie/residential/brochure/2-the-terrace-carrick-on-suir-tipperary/5018411",
+    "https://www.myhome.ie/residential/brochure/east-main-st-lismore-co-waterford/5018410",
+    "https://www.myhome.ie/residential/brochure/60-cluain-dara-clonard-wexford-town-wexford/5018405"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=373",
+  "paginationLimited": false
+}

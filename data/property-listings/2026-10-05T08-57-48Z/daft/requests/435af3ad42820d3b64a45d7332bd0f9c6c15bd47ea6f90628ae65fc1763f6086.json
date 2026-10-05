@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/11-ridgewood-park-ridgewood-swords-co-dublin/6687447",
+  "fetchedAt": "2026-10-05T09:23:06.960Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/11-ridgewood-park-ridgewood-swords-co-dublin/6687447",
+  "kind": "listing",
+  "responseSha256": "a9c4d5d138ded9ce33c62f5af3be8dacc5f7f46289d9e22de955126e1501eb27",
+  "files": [
+    {
+      "path": "daft/01012-435af3ad42820d3b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4fad1eb925e3bcad853b0c4248e16ed454935ff72484e9f7c0145a8ce8c6db7a",
+      "bytes": 10191
+    },
+    {
+      "path": "daft/01012-435af3ad42820d3b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1ae70ef6c69cad1861ef751901668e76f0a4ace180d80f2fe6eb1659be0209d1",
+      "bytes": 8113
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/belgrave-terrace-ranelagh-dublin-6/6683755",
+  "fetchedAt": "2026-10-05T09:47:48.067Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/belgrave-terrace-ranelagh-dublin-6/6683755",
+  "kind": "listing",
+  "responseSha256": "3dc854e1085e6457e8e72479df27d30506cfb56330af9f0844984c225878ad0c",
+  "files": [
+    {
+      "path": "daft/01998-d993d3b7fce1b407-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5384fb915fbabc8b4f629d501618045fc64ff9bf156a0901931b0ba64a876c17",
+      "bytes": 18583
+    },
+    {
+      "path": "daft/01998-d993d3b7fce1b407-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "482d63481ebe1b15fefbc4725ea8cf3b4a924245d6275c67c8fe47f98d9d3b43",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

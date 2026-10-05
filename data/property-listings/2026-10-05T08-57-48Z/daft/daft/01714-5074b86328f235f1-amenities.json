@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GAELSCOIL NA CILLE",
+      "numPupils": 227,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.504870",
+        "lon": "-6.386875"
+      }
+    },
+    {
+      "schoolName": "ST DECLAN'S NATIONAL SCHOOL ASHBOURNE",
+      "numPupils": 647,
+      "distance": {
+        "value": 2.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.505817",
+        "lon": "-6.400834"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL",
+      "numPupils": 481,
+      "distance": {
+        "value": 2.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.515995",
+        "lon": "-6.398730"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL NA MÍ",
+      "numPupils": 283,
+      "distance": {
+        "value": 3.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.510323",
+        "lon": "-6.410451"
+      }
+    },
+    {
+      "schoolName": "ASHBOURNE COMMUNITY NATIONAL SCHOOL",
+      "numPupils": 303,
+      "distance": {
+        "value": 3.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.511295",
+        "lon": "-6.411391"
+      }
+    },
+    {
+      "schoolName": "ASHBOURNE EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 410,
+      "distance": {
+        "value": 3.45,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.511948",
+        "lon": "-6.416043"
+      }
+    },
+    {
+      "schoolName": "KILCOSKAN NATIONAL SCHOOL",
+      "numPupils": 106,
+      "distance": {
+        "value": 4.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.463665",
+        "lon": "-6.344711"
+      }
+    },
+    {
+      "schoolName": "OLDTOWN NATIONAL SCHOOL",
+      "numPupils": 62,
+      "distance": {
+        "value": 4.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.524470",
+        "lon": "-6.318503"
+      }
+    },
+    {
+      "schoolName": "ROLESTOWN NATIONAL SCHOOL",
+      "numPupils": 358,
+      "distance": {
+        "value": 4.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.491160",
+        "lon": "-6.299427"
+      }
+    },
+    {
+      "schoolName": "KILBRIDE NATIONAL SCHOOL",
+      "numPupils": 306,
+      "distance": {
+        "value": 5.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.450302",
+        "lon": "-6.394101"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ASHBOURNE COMMUNITY SCHOOL",
+      "numPupils": 1111,
+      "distance": {
+        "value": 1.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.504128",
+        "lon": "-6.388206"
+      }
+    },
+    {
+      "schoolName": "DE LACY COLLEGE",
+      "numPupils": 913,
+      "distance": {
+        "value": 2.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.510750",
+        "lon": "-6.405474"
+      }
+    },
+    {
+      "schoolName": "RATOATH COLLEGE",
+      "numPupils": 1112,
+      "distance": {
+        "value": 5.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.499630",
+        "lon": "-6.458262"
+      }
+    },
+    {
+      "schoolName": "LE CHÉILE SECONDARY SCHOOL",
+      "numPupils": 959,
+      "distance": {
+        "value": 9.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.413956",
+        "lon": "-6.398078"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE SWORDS",
+      "numPupils": 632,
+      "distance": {
+        "value": 9.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.454323",
+        "lon": "-6.245604"
+      }
+    },
+    {
+      "schoolName": "SWORDS COMMUNITY COLLEGE",
+      "numPupils": 930,
+      "distance": {
+        "value": 10.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.465298",
+        "lon": "-6.224611"
+      }
+    },
+    {
+      "schoolName": "ST. FINIAN'S COMMUNITY COLLEGE",
+      "numPupils": 661,
+      "distance": {
+        "value": 10.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.465233",
+        "lon": "-6.224596"
+      }
+    },
+    {
+      "schoolName": "RATH DARA COMMUNITY COLLEGE",
+      "numPupils": 297,
+      "distance": {
+        "value": 10.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.401924",
+        "lon": "-6.379342"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOILM",
+      "numPupils": 425,
+      "distance": {
+        "value": 10.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.452507",
+        "lon": "-6.225514"
+      }
+    },
+    {
+      "schoolName": "ST. PETER'S COLLEGE",
+      "numPupils": 1227,
+      "distance": {
+        "value": 10.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.418440",
+        "lon": "-6.468892"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "103X",
+      "destination": "St. Stephen's Green",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.49726",
+        "lon": "-6.385126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "103",
+      "destination": "Drop Off",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.49726",
+        "lon": "-6.385126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "109A",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.49726",
+        "lon": "-6.385126"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "193",
+      "destination": "Stephen's Green Nth",
+      "provider": "Ashbourne Connect",
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.497318",
+        "lon": "-6.385395"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "105",
+      "destination": "Emerald Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.497318",
+        "lon": "-6.385395"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "194",
+      "destination": "Skryne Road",
+      "provider": "Ashbourne Connect",
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.497318",
+        "lon": "-6.385395"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ninemile Stone",
+      "route": "197",
+      "destination": "Ashbourne",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.497318",
+        "lon": "-6.385395"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Greenogue",
+      "route": "197",
+      "destination": "Swords",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 1.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.49163",
+        "lon": "-6.35607"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hickey's Lane",
+      "route": "197",
+      "destination": "Swords",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 1.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.499779",
+        "lon": "-6.387276"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Hickey's Lane",
+      "route": "109A",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.499779",
+        "lon": "-6.387276"
+      }
+    }
+  ]
+}

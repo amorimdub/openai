@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/163-seamount-blackrock-co-dublin/6685120",
+  "fetchedAt": "2026-10-05T09:38:38.199Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/163-seamount-blackrock-co-dublin/6685120",
+  "kind": "listing",
+  "responseSha256": "9b8fcec0bf3cefa311b5b96723a07eeea1522ade7d2e79dea0d2ed651a918095",
+  "files": [
+    {
+      "path": "daft/01632-798e266eb18b3996-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bddc84b2325d2f63bdce8fa7c0f5215f451626899d12b9c0157fe975da9d74d8",
+      "bytes": 32647
+    },
+    {
+      "path": "daft/01632-798e266eb18b3996-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b86102cd3e88d0d3eee407fbf02bfbc3c61f12adbd458b7ec46035052b75c5de",
+      "bytes": 8159
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

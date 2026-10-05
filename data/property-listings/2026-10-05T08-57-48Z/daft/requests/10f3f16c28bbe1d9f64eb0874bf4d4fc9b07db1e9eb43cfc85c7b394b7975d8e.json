@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=5",
+  "fetchedAt": "2026-10-05T09:03:50.525Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=5",
+  "kind": "search",
+  "responseSha256": "78a0781a7a5cbcbb18dae3991b7c78b49732baf0e3199f29421bb7d637705251",
+  "files": [
+    {
+      "path": "daft/00242-10f3f16c28bbe1d9-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "5c0fc12c414ff26d3aa5f4b901e359ce3b9ee41d0acf9d9e60b50ec879d79a55",
+      "bytes": 301441
+    },
+    {
+      "path": "daft/00242-10f3f16c28bbe1d9-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00242-10f3f16c28bbe1d9-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "d283f5d9fef3254b8da085b515fc2e6f81f064c847ab0c7ee6a436e7203bcb09",
+      "bytes": 175
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/clyduff-lisnagry-co-limerick/6684235",
+    "https://www.daft.ie/for-sale/41-the-lawn-janeville-carrigaline-co-cork/6657000",
+    "https://www.daft.ie/for-sale/8-engleberg-court-mounttown-road-lower-dun-laoghaire-co-dublin/6682671",
+    "https://www.daft.ie/for-sale/4-fair-view-terrace-patrick-street-mullingar-co-westmeath/6457634",
+    "https://www.daft.ie/for-sale/9-derravaragh-mews-castlepollard-castlepollard-co-westmeath/6634249",
+    "https://www.daft.ie/for-sale/46-kilkeevan-park-castlerea-castlerea-co-roscommon/6609787",
+    "https://www.daft.ie/for-sale/53a-marguerite-road-glasnevin-dublin-9/6683502",
+    "https://www.daft.ie/for-sale/apartment-13-errigal-house-eglinton-court-donnybrook-dublin-4/6680420",
+    "https://www.daft.ie/for-sale/6-beechgrove-ballacollig-mountmellick-mountmellick-co-laois/6675768",
+    "https://www.daft.ie/for-sale/2-airfield-terrace-donnybrook-dublin-4/6610548",
+    "https://www.daft.ie/for-sale/7-sheepmoor-green-dublin-15-blanchardstown-dublin-15/6684718",
+    "https://www.daft.ie/for-sale/35-willsbrook-dooradoyle-co-limerick/6684270",
+    "https://www.daft.ie/for-sale/2-old-quarry-ballynaroon-glounthaune-co-cork/6682289",
+    "https://www.daft.ie/for-sale/27-oak-park-court-oak-park-naas-co-kildare/6605454",
+    "https://www.daft.ie/for-sale/4-meadow-avenue-churchtown-dublin-16/6683633",
+    "https://www.daft.ie/for-sale/the-pines-62-stillorgan-grove-blackrock-co-dublin/6672803",
+    "https://www.daft.ie/for-sale/11-wycherley-terrace-college-road-cork-city-centre-co-cork/6683910",
+    "https://www.daft.ie/for-sale/1-glenbrook-ticknevin-carbury-carbury-co-kildare/6680457",
+    "https://www.daft.ie/for-sale/carrick-ballinlough-co-roscommon/6684299",
+    "https://www.daft.ie/for-sale/94-corran-ard-athy-co-kildare/6682557"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=6",
+  "paginationLimited": false
+}

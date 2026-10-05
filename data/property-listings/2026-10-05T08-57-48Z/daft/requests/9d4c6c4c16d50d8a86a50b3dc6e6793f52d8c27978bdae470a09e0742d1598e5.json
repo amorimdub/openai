@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/10-rock-street-cloyne-co-cork/6682598",
+  "fetchedAt": "2026-10-05T09:33:31.870Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/10-rock-street-cloyne-co-cork/6682598",
+  "kind": "listing",
+  "responseSha256": "d526d16b236a5df9d525fd000c5ba95497f1dff0eff08bc50117f2998108a39e",
+  "files": [
+    {
+      "path": "daft/01428-9d4c6c4c16d50d8a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3c51a596ca8d7919c13172d5ae110cab9ff9e266adbfcc9268afd0a0b1caaff0",
+      "bytes": 26618
+    },
+    {
+      "path": "daft/01428-9d4c6c4c16d50d8a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4e6f690bf307321b752fe1cc77f34ebe6d31703aec398af091e12e083dafa40e",
+      "bytes": 8037
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

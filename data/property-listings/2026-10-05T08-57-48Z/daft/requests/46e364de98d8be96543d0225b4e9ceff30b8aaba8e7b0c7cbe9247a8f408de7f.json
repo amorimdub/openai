@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/14-palmerston-park-2-rathmines-co-dublin/6686195",
+  "fetchedAt": "2026-10-05T09:31:04.715Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/14-palmerston-park-2-rathmines-co-dublin/6686195",
+  "kind": "listing",
+  "responseSha256": "614e6867adeb6be8ebb8c5a9f90f3040e0c94100f9a201658e6a14d648486dc6",
+  "files": [
+    {
+      "path": "daft/01330-46e364de98d8be96-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0ff12db9b9ed386008fd6b781db4f6441416b81128e303e1a91119a5ac6fb302",
+      "bytes": 25155
+    },
+    {
+      "path": "daft/01330-46e364de98d8be96-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e38e511cd0ac517612d5353d92739dfef66f7319ca737d6f6bd25da00e7cd482",
+      "bytes": 8053
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=283",
+  "fetchedAt": "2026-10-05T12:40:45.954Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=283",
+  "kind": "search",
+  "responseSha256": "3d2a60fc6d8fd9eb62ff7bc277a0d7ccccebb8644330a10a90c0e1ccdccfb703",
+  "files": [
+    {
+      "path": "myhome/06370-650babe6fb5e1a5a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=283\"].SearchResults",
+      "sha256": "f1e1aaa470300d6168bd98b584ce36b7ff98e314079fd2ed7a09b3fc78da7559",
+      "bytes": 119951
+    },
+    {
+      "path": "myhome/06370-650babe6fb5e1a5a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=283\"] (paging fields)",
+      "sha256": "75db1587f163b3290183f720a7eab9956de15130d2bea0ca91a44718539804bb",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/38-newbridge-park-skibbereen-co-cork/5024940",
+    "https://www.myhome.ie/residential/brochure/19-abbeybrook-garden-abbeybrook-kilbeggan-mullingar-co-westmeath/5024939",
+    "https://www.myhome.ie/residential/brochure/6-glenarm-square-drumcondra-dublin-9/5024938",
+    "https://www.myhome.ie/residential/brochure/apartment-28-the-stockyard-the-steelworks-amiens-street-dublin-1/5017538",
+    "https://www.myhome.ie/residential/brochure/38-the-meadows-cornelscourt-newbridge-co-kildare/5024931",
+    "https://www.myhome.ie/residential/brochure/no-19-whiterock-drive-whitebrook-wexford-town-wexford/5024926",
+    "https://www.myhome.ie/residential/brochure/17-deerpark-ballinasloe-galway/5024808",
+    "https://www.myhome.ie/residential/brochure/11-the-green-college-farm-newbridge-co-kildare/5024929",
+    "https://www.myhome.ie/residential/brochure/the-top-house-farranacoush-sherkin-island-sherkin-island-west-cork/5019886",
+    "https://www.myhome.ie/residential/brochure/73-st-agnes-road-crumlin-dublin-12/5024925",
+    "https://www.myhome.ie/residential/brochure/carraig-na-greine-furbo-co-galway/5024924",
+    "https://www.myhome.ie/residential/brochure/portlough-newtowncunningham-co-donegal/5024922",
+    "https://www.myhome.ie/residential/brochure/46-the-ramparts-willow-avenue-cabinteely-dublin-18/5024921",
+    "https://www.myhome.ie/residential/brochure/muntermellan-dunfanaghy-co-donegal/5024920",
+    "https://www.myhome.ie/residential/brochure/128-belvedere-hills-mullingar-westmeath/5024902",
+    "https://www.myhome.ie/residential/brochure/78-douglas-street-cork-city/5000572",
+    "https://www.myhome.ie/residential/brochure/23-bracken-hill-sandyford-dublin-18/4980458",
+    "https://www.myhome.ie/residential/brochure/1-the-court-martello-village-drogheda-meath/5024890",
+    "https://www.myhome.ie/residential/brochure/71-bru-na-gruadan-castletroy-limerick/5024914",
+    "https://www.myhome.ie/residential/brochure/knockainey-hill-hospital-limerick/5024909"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=284",
+  "paginationLimited": false
+}

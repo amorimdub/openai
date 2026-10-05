@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6682870",
+  "fetchedAt": "2026-10-05T09:52:15.494Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6682870",
+  "kind": "listing",
+  "responseSha256": "c71a39bfdf40a8f9390260c511c73bee7f5e331603380778f8c68f6176ddea45",
+  "files": [
+    {
+      "path": "daft/02176-1a77d0f55d143165-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "36722355fb0d04c35cd0d7bd436006127223663fa933418d946e41306c788001",
+      "bytes": 18336
+    },
+    {
+      "path": "daft/02176-1a77d0f55d143165-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9cdd5752b0032245101647b019a2618ec2302eefd3e5a0cd36a3a3685c6c1f8c",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

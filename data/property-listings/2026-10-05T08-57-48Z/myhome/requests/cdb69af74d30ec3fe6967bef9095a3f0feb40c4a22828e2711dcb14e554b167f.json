@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=266",
+  "fetchedAt": "2026-10-05T12:31:56.764Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=266",
+  "kind": "search",
+  "responseSha256": "c2aa66ddc0daa189c2acd53afa68780c5a07a32d0a74ccfc6b19fbe9c907971b",
+  "files": [
+    {
+      "path": "myhome/06018-cdb69af74d30ec3f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=266\"].SearchResults",
+      "sha256": "23175baf657463bd6be2da9a383de5615f422c2282af553fc10a47ec861238ff",
+      "bytes": 117546
+    },
+    {
+      "path": "myhome/06018-cdb69af74d30ec3f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=266\"] (paging fields)",
+      "sha256": "9c8ce1cfdded9ef0e48a5108e694127cd041016df6e6687bf787131a8d159db0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/60-church-road-east-wall-dublin-3/5025536",
+    "https://www.myhome.ie/residential/brochure/66-rowlagh-crescent-clondalkin-dublin-22/5025533",
+    "https://www.myhome.ie/residential/brochure/apartment-2-2-henrietta-street-dublin-1/5025531",
+    "https://www.myhome.ie/residential/brochure/mullaghcrone-lodge-donore-drogheda-meath/5025510",
+    "https://www.myhome.ie/residential/brochure/hermanus-grove-road-malahide-dublin/5025525",
+    "https://www.myhome.ie/residential/brochure/59-the-glebe-kells-co-meath/5025524",
+    "https://www.myhome.ie/residential/brochure/47-hillsbrook-avenue-perrystown-dublin-12/5025522",
+    "https://www.myhome.ie/residential/brochure/51-newtown-wood-drogheda-louth/5025331",
+    "https://www.myhome.ie/residential/brochure/51-leacan-fionn-thoir-dungarvan-waterford/5025520",
+    "https://www.myhome.ie/residential/brochure/4b-henrietta-lane-dublin-1-dublin/4971618",
+    "https://www.myhome.ie/residential/brochure/27-cairnfort-stepaside-dublin-18/5025517",
+    "https://www.myhome.ie/residential/brochure/56-clune-road-finglas-dublin/5025502",
+    "https://www.myhome.ie/residential/brochure/74-prospect-avenue-glasnevin-dublin-9/4922709",
+    "https://www.myhome.ie/residential/brochure/34-abalone-the-grange-brewery-road-stillorgan/5025512",
+    "https://www.myhome.ie/residential/brochure/7-oak-tree-rise-newlands-wexford-town-wexford/4993816",
+    "https://www.myhome.ie/residential/brochure/46-north-strand-road-north-strand-dublin-3/5007875",
+    "https://www.myhome.ie/residential/brochure/13-the-wooden-building-exchange-street-upper-temple-bar-dublin-8/4983066",
+    "https://www.myhome.ie/residential/brochure/10-ardagh-drive-blackrock-co-dublin/5025499",
+    "https://www.myhome.ie/residential/brochure/solas-3b-greenwich-court-rathmines-dublin-6/5005718",
+    "https://www.myhome.ie/residential/brochure/38-the-paddocks-hybreasal-south-circular-road-dublin-8/5023099"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=267",
+  "paginationLimited": false
+}

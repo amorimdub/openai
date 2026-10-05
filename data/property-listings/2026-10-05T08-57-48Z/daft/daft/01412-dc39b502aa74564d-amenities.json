@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST MARY'S DRUMLISH",
+      "numPupils": 213,
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.818153",
+        "lon": "-7.767285"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS",
+      "numPupils": 66,
+      "distance": {
+        "value": 5.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.855390",
+        "lon": "-7.709188"
+      }
+    },
+    {
+      "schoolName": "KILLOE NATIONAL SCHOOL",
+      "numPupils": 309,
+      "distance": {
+        "value": 5.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.779205",
+        "lon": "-7.711106"
+      }
+    },
+    {
+      "schoolName": "MELVIEW NATIONAL SCHOOL",
+      "numPupils": 286,
+      "distance": {
+        "value": 6.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.762024",
+        "lon": "-7.784796"
+      }
+    },
+    {
+      "schoolName": "GORTLETTERAGH NATIONAL SCHOOL",
+      "numPupils": 77,
+      "distance": {
+        "value": 7.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.878876",
+        "lon": "-7.816692"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE NATIONAL SCHOOL",
+      "numPupils": 324,
+      "distance": {
+        "value": 7.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.762497",
+        "lon": "-7.833326"
+      }
+    },
+    {
+      "schoolName": "BORNACOOLA NATIONAL SCHOOL",
+      "numPupils": 132,
+      "distance": {
+        "value": 8.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.860493",
+        "lon": "-7.878957"
+      }
+    },
+    {
+      "schoolName": "SAMHTHANN NATIONAL SCHOOL",
+      "numPupils": 152,
+      "distance": {
+        "value": 9.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.775536",
+        "lon": "-7.647858"
+      }
+    },
+    {
+      "schoolName": "ST.CHRISTOPHER'S SPECIAL SCHOOL",
+      "numPupils": 43,
+      "distance": {
+        "value": 9.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.733280",
+        "lon": "-7.802670"
+      }
+    },
+    {
+      "schoolName": "ST EMER'S NATIONAL SCHOOL",
+      "numPupils": 219,
+      "distance": {
+        "value": 9.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.731125",
+        "lon": "-7.780207"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "TEMPLEMICHAEL COLLEGE",
+      "numPupils": 363,
+      "distance": {
+        "value": 9.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.731750",
+        "lon": "-7.786254"
+      }
+    },
+    {
+      "schoolName": "ST. MEL'S COLLEGE",
+      "numPupils": 603,
+      "distance": {
+        "value": 10.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.728992",
+        "lon": "-7.793768"
+      }
+    },
+    {
+      "schoolName": "MEÁN SCOIL MHUIRE",
+      "numPupils": 607,
+      "distance": {
+        "value": 10.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.725475",
+        "lon": "-7.795631"
+      }
+    },
+    {
+      "schoolName": "MOYNE COMMUNITY SCHOOL",
+      "numPupils": 630,
+      "distance": {
+        "value": 12.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.908348",
+        "lon": "-7.648050"
+      }
+    },
+    {
+      "schoolName": "MOHILL COMMUNITY COLLEGE",
+      "numPupils": 473,
+      "distance": {
+        "value": 13.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.922200",
+        "lon": "-7.871683"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL PHADRAIG",
+      "numPupils": 370,
+      "distance": {
+        "value": 18.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.776775",
+        "lon": "-7.504761"
+      }
+    },
+    {
+      "schoolName": "CNOC MHUIRE",
+      "numPupils": 547,
+      "distance": {
+        "value": 18.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.780365",
+        "lon": "-7.488720"
+      }
+    },
+    {
+      "schoolName": "CARRIGALLEN VOCATIONAL SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 19.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.979744",
+        "lon": "-7.647815"
+      }
+    },
+    {
+      "schoolName": "LANESBORO COMMUNITY COLLEGE",
+      "numPupils": 281,
+      "distance": {
+        "value": 21.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.669212",
+        "lon": "-7.983284"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE SEC SCHOOL",
+      "numPupils": 657,
+      "distance": {
+        "value": 22.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.777700",
+        "lon": "-8.112440"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Drumlish",
+      "route": "862",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 0.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.821165749714",
+        "lon": "-7.7673005919863"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ml Race Pk",
+      "route": "862",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 0.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.823028",
+        "lon": "-7.763903"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Leitrim",
+      "route": "862",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 4.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.78519",
+        "lon": "-7.79451"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Enybegs",
+      "route": "865",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 5.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7763362063074",
+        "lon": "-7.72614665339562"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gaigue",
+      "route": "862",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 5.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.85491",
+        "lon": "-7.7092"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clontumpher",
+      "route": "865",
+      "destination": "Granard",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 5.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7815628136716",
+        "lon": "-7.70573526701379"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cahanagh",
+      "route": "862",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 6.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7648433695479",
+        "lon": "-7.7938054588731"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cathanagh",
+      "route": "862",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 6.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.76468",
+        "lon": "-7.79394"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballinamuck",
+      "route": "862",
+      "destination": "Cavan",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 6.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8658188418696",
+        "lon": "-7.71738309995416"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killeter",
+      "route": "865",
+      "destination": "Longford",
+      "provider": "TFI Local Link Longford Westmeath Roscommon",
+      "distance": {
+        "value": 6.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.764583",
+        "lon": "-7.726405"
+      }
+    }
+  ]
+}

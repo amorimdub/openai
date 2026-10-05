@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-shrewsbury-park-dublin-4-dublin-4/6676599",
+  "fetchedAt": "2026-10-05T09:15:37.947Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-shrewsbury-park-dublin-4-dublin-4/6676599",
+  "kind": "listing",
+  "responseSha256": "b154e37eb5c853efb51a58c267a1f1f34c032dd6add1a65277515e11b8af8795",
+  "files": [
+    {
+      "path": "daft/00713-e67cdb92214458f6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fe61b1dc0814fea25866523f1d22f27397818dd5a16f4bb5b38cce5e136e165d",
+      "bytes": 52387
+    },
+    {
+      "path": "daft/00713-e67cdb92214458f6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

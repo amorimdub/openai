@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=8",
+  "fetchedAt": "2026-10-05T09:09:47.933Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=8",
+  "kind": "search",
+  "responseSha256": "6d547339e949aa2b9321485eca228d8319523fe5b32930bf9eb3338556af1712",
+  "files": [
+    {
+      "path": "daft/00480-54fa0c36a9e42b1e-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a5d6f3a398a2995d1a5d5b4a3cb2d72256b8fd4ba4bb3be67986209c406f45d9",
+      "bytes": 226368
+    },
+    {
+      "path": "daft/00480-54fa0c36a9e42b1e-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00480-54fa0c36a9e42b1e-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "828129d80256cc2d46b7299cb5d4543b635301ffa2a2bddbcee3e7cc9e0a2270",
+      "bytes": 176
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/short-let-long-lane-dublin-8-portobello-dublin-8/6673995",
+    "https://www.daft.ie/for-rent/beach-court-salthill-co-galway/6685313",
+    "https://www.daft.ie/for-rent/laurel-walk-bandon-co-cork/6490386",
+    "https://www.daft.ie/for-rent/2-admirals-walk-kinsale-kinsale-co-cork/6637893",
+    "https://www.daft.ie/for-rent/boden-heath-rathfarnham-co-dublin/6676627",
+    "https://www.daft.ie/for-rent/convent-hall-convent-avenue-milltown-dublin-6/6684638",
+    "https://www.daft.ie/for-rent/confey-leixlip-co-kildare-leixlip-co-kildare/6684474",
+    "https://www.daft.ie/for-rent/short-let-only-college-park-way-ballinteer-dublin-16/6684463",
+    "https://www.daft.ie/for-rent/blessington-street-dublin-7-north-circular-road-dublin-7/6684233",
+    "https://www.daft.ie/for-rent/apartment-37-priorsgate-tallaght-dublin-24/6600541",
+    "https://www.daft.ie/for-rent/1-dominican-church-lane-athy-co-kildare/6544779",
+    "https://www.daft.ie/for-rent/126-the-sweepstakes-ballsbridge-park-dublin-4/6683872",
+    "https://www.daft.ie/for-rent/2a-gosford-castle-co-armagh-markethill-co-armagh/6683317",
+    "https://www.daft.ie/for-rent/the-paddocks-way-adamstown-co-dublin/6682492",
+    "https://www.daft.ie/for-rent/belfield-abbey-boreenmanna-road-cork-blackrock-co-cork/6681237",
+    "https://www.daft.ie/for-rent/apartment-1-the-riverview-blackcastle-avenue-fl-navan-co-meath/6682287",
+    "https://www.daft.ie/for-rent/9-drumaneel-bridgetown-bridgetown-co-donegal/6682162",
+    "https://www.daft.ie/for-rent/3-glenryan-mews-blarney-street-cork-sundays-well-co-cork/6682007",
+    "https://www.daft.ie/for-rent/the-school-yard-533-north-circular-road-dublin-1/6681546",
+    "https://www.daft.ie/for-rent/apartment-61-block-10a-tallaght-cross-west-tallaght-dublin-24/6681526"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=9",
+  "paginationLimited": false
+}

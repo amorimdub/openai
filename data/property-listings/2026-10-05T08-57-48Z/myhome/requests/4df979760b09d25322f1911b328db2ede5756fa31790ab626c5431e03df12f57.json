@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=207",
+  "fetchedAt": "2026-10-05T12:01:04.506Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=207",
+  "kind": "search",
+  "responseSha256": "a1b4bc7f0e683c73e45a4cd9a6737ea7398545e189fa8929891cde2bf9fed93f",
+  "files": [
+    {
+      "path": "myhome/04786-4df979760b09d253-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=207\"].SearchResults",
+      "sha256": "c3cfa2ead6e14565e00cd5aa49384cb76211c053dcc9092be15264168db6882f",
+      "bytes": 110725
+    },
+    {
+      "path": "myhome/04786-4df979760b09d253-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=207\"] (paging fields)",
+      "sha256": "f9cf5aa774c69eb20ea7d60e0858b5f8b7f8bc469c5f47634e03602821631139",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/17-elm-grove-castlemartyr-cork/5027412",
+    "https://www.myhome.ie/residential/brochure/enderby-bredin-st-drogheda-louth/5027400",
+    "https://www.myhome.ie/residential/brochure/17-lady-s-cross-clonakilty-west-cork/5024241",
+    "https://www.myhome.ie/residential/brochure/45-glenaulin-road-palmerstown-dublin-20/5027397",
+    "https://www.myhome.ie/residential/brochure/derelict-residence-on-approx-26-acres-killeenmore-sallins-county-kildare/5027406",
+    "https://www.myhome.ie/residential/brochure/10-the-avenue-scholarstown-wood-rathfarnham-dublin-16/5027399",
+    "https://www.myhome.ie/residential/brochure/no-2-albert-terrace-main-street-lifford-co-donegal/5027398",
+    "https://www.myhome.ie/residential/brochure/12-pairc-beag-lis-cara-carrick-on-shannon-leitrim/5027385",
+    "https://www.myhome.ie/residential/brochure/10-stonepark-abbey-rathfarnham-dublin-14/5026963",
+    "https://www.myhome.ie/residential/brochure/entire-parcel-including-garrison-house-plus-two-apartments-church-terrace-main-street-bray-co-wicklo/5027396",
+    "https://www.myhome.ie/residential/brochure/12-saint-sylvesters-villas-malahide-county-dublin/5027344",
+    "https://www.myhome.ie/residential/brochure/craanavonane-leighlinbridge-co-carlow/5027395",
+    "https://www.myhome.ie/residential/brochure/no-13-lahard-ballinamore-co-leitrim/5027392",
+    "https://www.myhome.ie/residential/brochure/47-kenure-park-rush-co-dublin/5027391",
+    "https://www.myhome.ie/residential/brochure/apartment-20-brunswick-court-north-brunswick-street-stoneybatter-dublin-7/5026372",
+    "https://www.myhome.ie/residential/brochure/18-the-grove-baker-hall-navan-co-meath/5027390",
+    "https://www.myhome.ie/residential/brochure/1-pine-court-portmarnock-county-dublin/5027329",
+    "https://www.myhome.ie/residential/brochure/215-barton-road-east-dundrum-dublin-14/5027376",
+    "https://www.myhome.ie/residential/brochure/7-churchfield-close-ashbourne-meath/5027386",
+    "https://www.myhome.ie/residential/brochure/29-park-wood-grange-rath-drogheda-meath/5027377"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=208",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-sycamore-trimbleston-goatstown-dublin-14/6685978",
+  "fetchedAt": "2026-10-05T09:32:18.300Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-sycamore-trimbleston-goatstown-dublin-14/6685978",
+  "kind": "listing",
+  "responseSha256": "dad284338b0a10d2ccc264760162964ab04d72a8ddc4e6a87922a5c9f6c4986b",
+  "files": [
+    {
+      "path": "daft/01379-53f965da0beaa351-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e67732a30ff15932b10273da3f33baf236658e78c01b5d33e2f576e18a08e15",
+      "bytes": 30020
+    },
+    {
+      "path": "daft/01379-53f965da0beaa351-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7aac6f0aa90fb5326a15d2508458a49aa80aac5f83630b440c9445795b36c23b",
+      "bytes": 8069
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

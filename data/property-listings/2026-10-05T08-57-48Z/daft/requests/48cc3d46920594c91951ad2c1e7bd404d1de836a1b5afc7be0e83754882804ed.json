@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/kingsquarter-craddockstown-naas-co-kildare/6639711",
+  "fetchedAt": "2026-10-05T09:10:26.977Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/kingsquarter-craddockstown-naas-co-kildare/6639711",
+  "kind": "listing",
+  "responseSha256": "5be217e156e35631fbda29513da5f2283ebfc521a46dbdd2fb74e92a436210a7",
+  "files": [
+    {
+      "path": "daft/00506-48cc3d46920594c9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "86bb28e36ee59cc1ecc49fe3095251dd14933edae6cdd8003105a0c02a9c3c68",
+      "bytes": 36534
+    },
+    {
+      "path": "daft/00506-48cc3d46920594c9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b5ed5c434fa8ce6d00dc6540a2f36872bbcdf80a781d6c3032b5a6d6369bd56c",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

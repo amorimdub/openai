@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/7a-rochelle-court-old-blackrock-road-ballinlough-co-cork/6684129",
+  "fetchedAt": "2026-10-05T09:44:44.744Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/7a-rochelle-court-old-blackrock-road-ballinlough-co-cork/6684129",
+  "kind": "listing",
+  "responseSha256": "5abfc99b7d569d117e005c0c4c1f1196d9fb93501948a78f4df232934422eef4",
+  "files": [
+    {
+      "path": "daft/01876-389661a309f006e7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "210d2b0d6e6459c21b5cc6e35bc7f4868fd5f556ea862b2de0bf4da9736880f3",
+      "bytes": 42557
+    },
+    {
+      "path": "daft/01876-389661a309f006e7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bba9bc045c30bd49e66c42e57df03e67f63402688f12f67b4a244b1d29e332d6",
+      "bytes": 7980
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

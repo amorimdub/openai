@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/32-dun-eoin-meadows-carrigaline-carrigaline-co-cork/6685002",
+  "fetchedAt": "2026-10-05T09:38:32.195Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/32-dun-eoin-meadows-carrigaline-carrigaline-co-cork/6685002",
+  "kind": "listing",
+  "responseSha256": "73f5d0ee8dd38ab9ec0a28048e0682a4bf59005118f6a50cc42306dd0fe4c80b",
+  "files": [
+    {
+      "path": "daft/01628-04d856cddf6b41bb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bd1be89d18a5b7e6d38391491a68506ecc8bf3d715369a0f764b310f6afdecdd",
+      "bytes": 46518
+    },
+    {
+      "path": "daft/01628-04d856cddf6b41bb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e50fc6cdca84050872a53b0d00d18fdde4b3db4f2bf7df1b5cff796b2eedecde",
+      "bytes": 8155
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

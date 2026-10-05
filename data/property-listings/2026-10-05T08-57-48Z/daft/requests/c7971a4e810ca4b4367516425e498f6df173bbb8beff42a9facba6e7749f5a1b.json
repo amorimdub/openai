@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-dromore-view-ballybay-co-monaghan/6683841",
+  "fetchedAt": "2026-10-05T09:45:37.325Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-dromore-view-ballybay-co-monaghan/6683841",
+  "kind": "listing",
+  "responseSha256": "35966f6b057f58f32a69a1fbd461d0abf8e1add6b362baea9d4b5011bf2e905f",
+  "files": [
+    {
+      "path": "daft/01911-c7971a4e810ca4b4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "436a26b5d3796113677557845cf627f6d14e88df6982b9d18aeb2a224b1d4ad4",
+      "bytes": 32574
+    },
+    {
+      "path": "daft/01911-c7971a4e810ca4b4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3815fa2dffffcf2db3e76bc90d737bc9b7928764f35e4222ed0d77fd0d3adb9f",
+      "bytes": 8146
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

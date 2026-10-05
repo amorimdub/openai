@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/churchview-balla-co-mayo/6684227",
+  "fetchedAt": "2026-10-05T09:42:41.538Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/churchview-balla-co-mayo/6684227",
+  "kind": "listing",
+  "responseSha256": "8708335fe1c89ccab5e62c5e4a784fca98eac2e9aeb7ed7f64e48dccb31d1eff",
+  "files": [
+    {
+      "path": "daft/01794-4f1fe1fe62c30f70-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "988f223478f2811dbd0904cdb3e18e14d244ca0771529ffeba1aac7a2b6bdae9",
+      "bytes": 9602
+    },
+    {
+      "path": "daft/01794-4f1fe1fe62c30f70-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3542d036cdd95730dde25eed277c23a5f5bb76a82547c676605674a277e5a9aa",
+      "bytes": 7999
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

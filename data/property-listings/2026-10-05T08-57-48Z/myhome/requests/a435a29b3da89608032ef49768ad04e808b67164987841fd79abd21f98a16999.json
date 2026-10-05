@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=27",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=27",
+  "fetchedAt": "2026-10-05T09:23:21.620Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e6974b10842868ea5cbbd79fd8d4b288e807a3649573156647d0559272f6134f",
+  "files": [
+    {
+      "path": "myhome/01017-a435a29b3da89608-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=27\"].SearchResults",
+      "sha256": "db04e571c073e86477a868b45ab38ac1cefe38c94aab171de0e32afbde717c33",
+      "bytes": 89601
+    },
+    {
+      "path": "myhome/01017-a435a29b3da89608-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=27\"] (paging fields)",
+      "sha256": "dfe07e237c6a60ffc41fff625027d5f69e789a29a7730073c94bda41cf263083",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/31-the-crescent-robswall-malahide-co-dublin/4798509",
+    "https://www.myhome.ie/rentals/brochure/71-fairview-strand-fairview-dublin-3/4798504",
+    "https://www.myhome.ie/rentals/brochure/marlfield-close-tallaght-dublin-24/4798053",
+    "https://www.myhome.ie/rentals/brochure/allendale-square-clonsilla-dublin-15/4797195",
+    "https://www.myhome.ie/rentals/brochure/the-old-mill-ballycommane-durrus-west-cork/4796960",
+    "https://www.myhome.ie/rentals/brochure/the-hutchins-lansdowne-place-ballsbridge-dublin-4/4784664",
+    "https://www.myhome.ie/rentals/brochure/ivy-court-beaumont-dublin-9/4790962",
+    "https://www.myhome.ie/rentals/brochure/laundry-cottage-barrogstown-maynooth-county-kildare/4787925",
+    "https://www.myhome.ie/rentals/brochure/unit-11-n11-business-park-enniscorthy-business-district-enniscorthy-wexford/4787280",
+    "https://www.myhome.ie/rentals/brochure/sea-view-croagh-patrick-westport-mayo/4062528",
+    "https://www.myhome.ie/rentals/brochure/lux-beach-house-barna-galway-barna-galway/4663651",
+    "https://www.myhome.ie/rentals/brochure/woodquay-galway-city-galway/4749031",
+    "https://www.myhome.ie/rentals/brochure/captiva-kilmuckridge-wexford/4341270",
+    "https://www.myhome.ie/rentals/brochure/pavillion-dun-laoighre-dun-laoghaire-dublin/4123345",
+    "https://www.myhome.ie/rentals/brochure/luxury-lodges-carraroe-galway/4128942",
+    "https://www.myhome.ie/rentals/brochure/clew-bay-villa-westport-mayo/4004065",
+    "https://www.myhome.ie/rentals/brochure/killarney-park-residence-killarney-kerry/4425602",
+    "https://www.myhome.ie/rentals/brochure/tivoli-terrace-dun-laoghaire-dublin/4319797",
+    "https://www.myhome.ie/rentals/brochure/35-abbyfield-ballitore-kildare/4771373",
+    "https://www.myhome.ie/rentals/brochure/manor-place-tralee-kerry/4776108"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=28",
+  "paginationLimited": false
+}

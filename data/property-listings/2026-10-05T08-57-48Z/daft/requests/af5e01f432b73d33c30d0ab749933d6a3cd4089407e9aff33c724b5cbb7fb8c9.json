@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/104-leeson-street-upper-dublin-4/6548704",
+  "fetchedAt": "2026-10-05T09:45:28.309Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/104-leeson-street-upper-dublin-4/6548704",
+  "kind": "listing",
+  "responseSha256": "aa9b524a3b92951f6fbd8cfbbe7f8f67a2798d7d9c8fe0e055e665f307e40f76",
+  "files": [
+    {
+      "path": "daft/01905-af5e01f432b73d33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "32261c232592178ec98e0a1e3d8bc48966ee6bb0f6c9f8b86b01295db43726be",
+      "bytes": 42236
+    },
+    {
+      "path": "daft/01905-af5e01f432b73d33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2a3d3eeca5da2f4bd251337566161f4968e68a739bc56e90015ecfc9052599fe",
+      "bytes": 8127
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

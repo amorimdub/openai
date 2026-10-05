@@ -1,0 +1,1822 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "apt 3 newpark centre blackrock county dublin",
+    "GroupId": 5531,
+    "Address": "Apt 3 Newpark Centre",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e216f247-839d-4184-902f-23f9ff55874e_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e216f247-839d-4184-902f-23f9ff55874e_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e216f247-839d-4184-902f-23f9ff55874e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e57c1961-d210-4823-8364-56a92be97ffe_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c0645aa1-c8ec-41c8-b311-6fe868c9803f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/b8bd38e8-d90c-4375-91d1-51a3be513af3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/777f01ff-3122-4615-a760-9782da8a83cd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/61295ad9-2cd5-412d-9110-18c191257e36_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/bdf632cb-2913-4318-ae86-3a45b4b82671_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/a54b10a9-3d53-476b-9e90-5046f5746dc2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/6fbeb485-8920-4162-bcbc-cb9342d3816b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c3063bfa-d950-4a49-b19a-260177464773_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/78a8b37c-819d-4355-9ac5-146418fca397_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/825fdc31-feee-48c8-adf8-828fa6a70939_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 62,
+    "MaxSize": 62,
+    "BerRating": "F",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€625,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "59",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 4985713,
+        "DisplayAddress": "Woodlands Grove, Blackrock, County Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "0c2694d6-d1a2-4d9a-8ef8-60dfcc18b670",
+              "Filename": "bb1ce4f2-4dfe-475b-92fa-97a9366d91f0.jpg",
+              "Caption": "Kitchen (3).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8344af34-dded-4c82-8d30-6de8dec87737",
+              "Filename": "03569c9e-88bd-4274-afe7-ccc09e846cee.jpg",
+              "Caption": "Feature Shot (4).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e3f857e3-91c2-412d-8e75-946c89545175",
+              "Filename": "e711848d-14c1-4202-a019-d9b6f9bc2626.jpg",
+              "Caption": "Bathroom (3).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0f425ebf-069b-4121-a2d9-3af9a75743c6",
+              "Filename": "2f3232ce-9143-455f-beef-e864b180cb7a.jpg",
+              "Caption": "Balcony (3).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "336bed2d-82bc-4c7a-8a9b-1434551032fc",
+              "Filename": "c092b4a3-0f95-4e27-a3ce-d12cecd6a896.jpg",
+              "Caption": "Front Day.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bc601cc7-2f05-465d-a5ee-4f3112e6a06f",
+              "Filename": "b9717df9-b341-4f8b-b900-9614d0ae16cf.jpg",
+              "Caption": "Front Night.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "345b055f-9799-4c40-87ca-64033de52230",
+              "Filename": "14024035-cdc0-4795-8f65-e50c02aa4c8c.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "aac248eaa0474099bd85f448f2a869ef",
+          "OriginalImagesSuffix": "aac24",
+          "MainPhoto": {
+            "Identifier": "0c2694d6-d1a2-4d9a-8ef8-60dfcc18b670",
+            "Filename": "bb1ce4f2-4dfe-475b-92fa-97a9366d91f0.jpg",
+            "Caption": "Kitchen (3).JPG",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/7/4985713/bb1ce4f2-4dfe-475b-92fa-97a9366d91f0_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€445,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "77",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5007369,
+        "DisplayAddress": "101 Galloping Green, Stillorgan Road, Blackrock, Co. Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "0a632804-9087-4968-ab16-b4ce44fcb626",
+              "Filename": "64ffb6bc-07c7-453e-81aa-eebf255ed0ba.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "359a6a35-d4d0-4996-90cc-c82020b032ec",
+              "Filename": "4d2f2973-6dad-449d-b235-c6e371190d19.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c217f6fc-2f9a-478a-aa16-15a5d1cb0d7f",
+              "Filename": "36dcbe5b-0ca3-42d7-a377-844c0604a50a.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1188b29c-7f2a-45bc-89b3-b133a15d6373",
+              "Filename": "886dea3d-90e0-4071-9b18-a62fab54748c.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "475bff28-1287-4cd0-9378-e3cac094ebd6",
+              "Filename": "1f52278b-b506-465f-a883-5896e68ec0bf.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f8c679e3-a547-48dc-a66a-0503a0d44fab",
+              "Filename": "6790e5c3-9930-45ea-9dd4-fd5b44fb891d.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0a53347e-c819-4e21-8204-b7aa5d64895a",
+              "Filename": "06de8338-bc5a-4ad0-81f3-9f3da203c217.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "64c0c2b0-62df-4ec5-9f86-cf5346f3bebb",
+              "Filename": "76d278fb-478c-4bf8-bb0e-347c78181c13.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "24a490bb-838c-477c-95a4-d4eedce99cc0",
+              "Filename": "1e67b6ef-6760-425f-941c-c84fb8a1315e.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "52dd8d3b-2b3b-4c87-8c1e-70c625115b77",
+              "Filename": "b4cc1987-388b-4f72-8c52-69141d77744a.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "389de56c-2705-4348-ba72-3f535450bf5e",
+              "Filename": "fde482e2-eb74-48cf-bdc5-c065dc23bce2.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d49ac377-202d-4fb2-ab5c-a6347f468990",
+              "Filename": "c71c6de4-9f67-4734-96fb-50279f7272d0.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "497ee475-667a-46c5-b3dc-d253253b58b2",
+              "Filename": "ea962a15-5bcd-43f7-ae4b-ce929f7263ad.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_13.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "628c9194-8dd0-4939-8e44-23bb495d2aee",
+              "Filename": "https://youtube.com/embed/dg11LS3Lfuk",
+              "Caption": "https://youtu.be/dg11LS3Lfuk",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "2e8688b5429a425fbb0d2990a439ea38",
+          "OriginalImagesSuffix": "2e868",
+          "MainPhoto": {
+            "Identifier": "0a632804-9087-4968-ab16-b4ce44fcb626",
+            "Filename": "64ffb6bc-07c7-453e-81aa-eebf255ed0ba.jpg",
+            "Caption": "https://assets.reapit.net/dng/live/pictures/RRD/26/RRD260085_01.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/6/3/5007369/64ffb6bc-07c7-453e-81aa-eebf255ed0ba_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€675,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "81.7",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5021953,
+        "DisplayAddress": "5 Hyde House, Clonfadda Wood, Mount Merrion Avenue, Blackrock, Co. Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "f9d4c8fb-86c0-42ca-835d-f1d1885cc776",
+              "Filename": "5bdfb248-25a2-4dc6-843e-5d26529c9204.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/8aaf5a43-6285-494e-a5d7-ec04a57704ae.jpeg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b6265fcc-4dbe-49fc-975f-376382dc8372",
+              "Filename": "17e20ab9-b21a-429c-af4d-2cb399f1838f.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/da487190-5af3-4fe6-aa4a-d790a5165f47.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3b3fa0a7-0d2a-4f39-8b7d-8445170cd9ca",
+              "Filename": "387941c5-c8da-4099-ace5-a157e1066a74.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/d24966ca-0010-4853-89e3-34c3a4096ec0.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "98282656-757b-45eb-a1a0-4a18e61d7c64",
+              "Filename": "dfc29274-4518-42e8-b936-f2e917f65079.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/2bfba872-2b0a-47d0-8d6d-85cf54a23af1.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c2f95204-582e-4a0e-bf90-e33412883b69",
+              "Filename": "264968ef-2a25-49d2-a0fc-e64f34e8c44f.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/31c4965e-6e45-492a-b411-13d1d8192c35.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2cd95062-456d-45a0-b1cb-cff09f978494",
+              "Filename": "4cac4f8a-62e3-4fba-8887-ee241c467326.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/3f7692c9-deae-4767-9d69-abcf8b2b40c7.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "60ac4f1e-d775-42bb-bab9-df94cab7de2e",
+              "Filename": "5ee150ff-5425-4bf3-adbf-5030a483f38d.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/deaa5cf5-154b-44d8-865e-deb74eb5b984.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "40f11b0b-336a-45ec-8156-1f1829fbba55",
+              "Filename": "d6bfc3b3-4cf6-4746-ad54-8d92848bf387.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/fb777c09-e932-4597-b646-d59cbe995881.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "412c37a7-786e-4822-ab4b-b0a196ef8dc2",
+              "Filename": "6fe6a406-24df-4b0a-a4c9-2e88b1a10fef.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/7cd3488a-70e9-40ff-bd29-a87aa785b6a0.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2b23ccb6-0f0a-4599-ae5b-423319b00a84",
+              "Filename": "05630b46-ed29-46ef-94d4-4952e7f3a110.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/8249542e-5d54-41eb-826c-475d11a60d89.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4d7d6205-fec1-4148-8605-9236897c152d",
+              "Filename": "1e9c7a38-387b-4a16-be61-d25a95bdbea8.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/9eb45a88-06c1-4448-ab87-0fff94f17e6f.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ae82c192-36b7-4c66-b218-b643051c03e3",
+              "Filename": "4a666a5e-8848-4f3b-acf2-5c5457052b5a.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/2c0f977d-6565-4093-9e73-4b57be2d0991.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d1f5d121-0e81-45d9-bfcb-a822aae2ea4d",
+              "Filename": "4208e1a5-c13c-4c0b-998d-ac05671132f3.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/b3238eef-35c8-4fe1-a018-77be42c46f15.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d0d92be4-2f0e-418e-b3d5-b0ec47855eac",
+              "Filename": "24364846-9732-45fa-86ba-daa14cbb859c.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/1bb2af01-44aa-43d9-8801-a7289bf34b2f.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "249bfca7-7194-4d2c-8754-7ff0b854eaa5",
+              "Filename": "https://www.youtube.com/embed/xl0yNJ3rhis",
+              "Caption": "https://www.youtube.com/embed/xl0yNJ3rhis",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "9a5033d9a89b4729b9c573f70fdad40b",
+          "OriginalImagesSuffix": "9a503",
+          "MainPhoto": {
+            "Identifier": "b6265fcc-4dbe-49fc-975f-376382dc8372",
+            "Filename": "17e20ab9-b21a-429c-af4d-2cb399f1838f.jpeg",
+            "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/7/7/135777/da487190-5af3-4fe6-aa4a-d790a5165f47.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/5/9/5021953/17e20ab9-b21a-429c-af4d-2cb399f1838f_l.jpeg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€550,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "84",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5022712,
+        "DisplayAddress": "Apt 24 Sanderling, Thornwood, Booterstown Avenue, Blackrock, County Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "e22df866-4bd7-4514-b4d9-a5378a1f2807",
+              "Filename": "ba45999e-35b2-4099-9234-30388dae8322.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "111ea39d-314a-47e1-a12f-f53893771116",
+              "Filename": "4408bbd4-4ae2-4f5e-a402-bd9832cda275.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "646ab698-6a56-4676-b9ce-23fb09e1c797",
+              "Filename": "977b5229-ade4-4228-ac72-70b8963cd271.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9ebcb641-1f8e-4775-be96-f0888c98eb91",
+              "Filename": "7775887c-a2df-4402-a7cc-390594ac532d.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bbce3b6d-29bb-414f-a33a-68faa7d54688",
+              "Filename": "1a182cfa-1983-4307-b7a0-09ff9f2665b0.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5bbb0a39-4770-4ed0-990b-f06079454da8",
+              "Filename": "fe4d5742-80e7-485a-9946-fb9872b7e359.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d89df1c1-a2bc-4386-9b42-4591b188c0d7",
+              "Filename": "7c7e57bc-90dd-44b5-91a5-c7bd59283245.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-7.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fceedf98-b920-4578-925b-a55e4ddf7ba3",
+              "Filename": "77278077-8cf0-4cf3-93e6-69145db23c1f.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1bebf344-7882-4c06-9a8f-7820c3d5b5a2",
+              "Filename": "e9fdb0a7-e9ac-473b-9c27-493859fbee33.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-9.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "95e902fe-707b-449f-8ae3-8d4233752e66",
+              "Filename": "3bea08b8-c598-4ceb-8a1d-4d21c164eab0.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c0e50a71-4920-4356-8a0b-d402ee253ee6",
+              "Filename": "c57928a6-a53f-4aa2-9d1b-69092fecb086.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "de1fdce0-8da4-4eb5-80a8-778bed5fec97",
+              "Filename": "e9713e05-58c1-4071-8495-47d67d300bb8.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b7545eaf-8f78-45de-b618-dee246cd673e",
+              "Filename": "078228ab-276b-4b6d-a4bb-2759ace9bb11.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1d49a2c4-4795-416f-9c1a-21b6f6d4f7e4",
+              "Filename": "cbdd5054-a1ee-4800-bc3a-4b7002ff10cb.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "be228fa4-5a98-40d2-a1f0-74a3d0f34def",
+              "Filename": "5c2a56c9-76f0-4fc4-a8a4-cf681c3bc818.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c5285ed9-9b0a-46b1-b445-4273177e6aab",
+              "Filename": "d1c440dd-921a-41ed-bd76-95bc79346922.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "72d817e1-b2e1-4dea-9ac8-17b891f7dff3",
+              "Filename": "45f68e82-61a5-4291-81dc-0919b3a7f207.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "216a6087-7353-4592-9654-376ae08821d0",
+              "Filename": "40e9f26a-59cc-4f8f-ae54-d0a0fd1ed95a.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e8fcff3a-387e-42a4-b565-b43a56835056",
+              "Filename": "2bfe5ac8-8741-489a-b165-c5b39ddf1e37.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "dc4ce919-06b1-4bab-9b33-6d6ad0c87010",
+              "Filename": "https://www.youtube.com/embed/yPJvOtXww8U",
+              "Caption": "https://www.youtube.com/watch?v=yPJvOtXww8U",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "50457faa995e4f8599defbe287d2b5d2",
+          "OriginalImagesSuffix": "50457",
+          "MainPhoto": {
+            "Identifier": "e22df866-4bd7-4514-b4d9-a5378a1f2807",
+            "Filename": "ba45999e-35b2-4099-9234-30388dae8322.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/JCES/upload/1484-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/1/7/5022712/ba45999e-35b2-4099-9234-30388dae8322_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€585,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "93",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5022773,
+        "DisplayAddress": "Apartment 5, House 2 Linden Court, Grove Avenue, Blackrock, Co. Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "0f84a527-950d-4b10-9d1d-2a7d54133cb4",
+              "Filename": "b5603cd9-a827-4fb4-8a3a-69c338a1aee1.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f7fdf746-716e-4ec2-81f7-336d63a7d53f",
+              "Filename": "5b0d6887-9b27-4340-9767-bc7db33cd7ce.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "059f5780-39e6-4def-8cd4-495cd888816f",
+              "Filename": "26eb51dc-7436-4645-98a1-4b01a3d1ab6b.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "431ba526-f1be-4cf4-a592-bc31c1b29483",
+              "Filename": "8b84faf0-685d-4fef-8e27-dd0bfaa23946.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "da7577f6-725a-4af8-a4ae-ca3b9dd3845e",
+              "Filename": "f9e4c770-5caa-49b8-9c63-d7b63000483c.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "64b64f1a-7d93-436a-b664-ae5d6b7f6d03",
+              "Filename": "20a03f99-fcd9-4395-b723-65be5fe42b8b.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cc118385-cfb2-41df-8bcf-f9bb75ef8110",
+              "Filename": "75d0ce24-3a8d-4d00-950c-4809f64227f5.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8fe14ad3-a18f-4f8e-a694-f780fea2bf16",
+              "Filename": "18629d6c-f780-479f-8f73-1819b03ef9f4.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c6b18b6e-6aa3-4ccf-a290-f528d427a0d6",
+              "Filename": "3d88c809-8139-47d2-9682-7a22c8827c58.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "401f9758-954c-460a-adb8-53e88eea8fd9",
+              "Filename": "6b036820-9c0f-48c3-8126-168fee757b61.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c81dbf4f-1eeb-47fa-b7c9-1d8ac30c8a39",
+              "Filename": "d93609d4-7401-4b83-bd5c-e6bc3f5646ce.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0ff2dc09-2624-4996-b4f4-b6dc822b7293",
+              "Filename": "f18b0b9a-94eb-4fa1-b45d-a3864d41a0a2.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "694bd7cb-7bcc-423a-b74b-82dd8ce65c31",
+              "Filename": "11270a96-6ac2-444c-9dde-af6351cd7887.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_13.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "32930763-5b50-4cf7-b4e7-0c4fbfaa5bff",
+              "Filename": "5acf1d3a-443e-486a-9a16-f531f8170d30.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "866754bc-9da1-4e6b-9e31-e74d1beebe8a",
+              "Filename": "https://youtube.com/embed/Y9tRTdefi7c",
+              "Caption": "https://youtu.be/Y9tRTdefi7c",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "dc7a13439ccb4dd49edf6d84ed3a6f13",
+          "OriginalImagesSuffix": "dc7a1",
+          "MainPhoto": {
+            "Identifier": "0f84a527-950d-4b10-9d1d-2a7d54133cb4",
+            "Filename": "b5603cd9-a827-4fb4-8a3a-69c338a1aee1.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/25/BLA250080_12.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/7/7/5022773/b5603cd9-a827-4fb4-8a3a-69c338a1aee1_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€575,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "71",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 5023288,
+        "DisplayAddress": "Apartment 2, Brooklawn House, Brooklawn Wood, Stradbrook Road, Blackrock, Co. Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/EXEMPT.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "ba4590ac-266e-4425-9cd5-6ab92389336b",
+              "Filename": "8e24317e-c68f-476a-823e-3b3b934799d8.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d5882168-0d92-476d-a5dd-a7631532838f",
+              "Filename": "49c728ab-f85c-496a-8b9e-3b2c308a2e16.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7abd0f91-5f8d-4c14-805a-b4abd12b9720",
+              "Filename": "3bf3885e-0e7e-4e36-965e-12b5ab1bb5da.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0e11068b-76c5-43a5-b0e1-b9aad5e18238",
+              "Filename": "209c8deb-0d54-42ef-8619-7702d9a7da29.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "65237eb5-a3e1-44ec-aa94-1fe55af24628",
+              "Filename": "0278a2a1-9fae-4161-bf0f-e07737a999a6.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7fd09a6e-df8a-46e7-bf72-ea680a1db5c9",
+              "Filename": "1dd1edde-5a6f-455e-a0a6-532129cf85e9.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f85f7f0e-05c5-4997-b6d7-1ac3a9d3b1b8",
+              "Filename": "182f6937-1f9f-415c-8c83-fc38bffc9b09.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "db69f41b-914f-4ad4-8d51-a5bebb2e2ea1",
+              "Filename": "1ce22938-0859-4f2b-a37f-7c702151b737.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e8011c6b-7028-4647-9f91-7a66b2efa765",
+              "Filename": "631e7c1e-a642-4565-9251-fea483be7af8.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a4773e5e-7880-4663-b0fd-1735ed0cc6b4",
+              "Filename": "a360e78e-ab04-4a80-9640-fe37ea9ef35c.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "abe34a3f-27da-47a7-b179-50626b0b45bc",
+              "Filename": "38ad61a0-a930-48d1-ba3a-f93eacc5cad8.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_11.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bc54cc4c-f973-4b22-8bf6-60b5066fc045",
+              "Filename": "31a3cb89-3fc9-4417-8588-654b7f8533a6.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8160de16-8570-4db1-b5b9-ecb3aeb09847",
+              "Filename": "c8c54695-322a-4f0a-8e04-2fd59c95b82f.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8170f623-b4b3-4e62-a719-36388ea3c918",
+              "Filename": "https://youtube.com/embed/6_0ni5cq9KE",
+              "Caption": "https://youtu.be/6_0ni5cq9KE",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "d0bca2ac6902494ea5282f4f756b31b7",
+          "OriginalImagesSuffix": "d0bca",
+          "MainPhoto": {
+            "Identifier": "ba4590ac-266e-4425-9cd5-6ab92389336b",
+            "Filename": "8e24317e-c68f-476a-823e-3b3b934799d8.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/24/BLA240113_10.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/8/2/5023288/8e24317e-c68f-476a-823e-3b3b934799d8_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€565,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "77",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5024289,
+        "DisplayAddress": "Apartment 33, Sapphire, The Grange, Brewery Road, Blackrock, County Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "5ef5f46b-159d-40bb-9830-b9a00cfd8b9e",
+              "Filename": "7aedc970-163c-4c58-a660-d1c67b97fb3f.png",
+              "Caption": "29B6053D-30DF-4F35-A5D2-88E70BE32EBB.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "23374a57-424d-4d2c-a55a-457ed2fb6605",
+              "Filename": "86f4ba40-bc79-4015-bd23-208fe66d566e.jpeg",
+              "Caption": "33cd9296-6dd9-4d07-8366-08f6f787c1f6.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bbe63cba-d101-46a1-9b36-c9be30bc17d1",
+              "Filename": "7116935c-efa1-4959-8883-61410e33daa7.jpeg",
+              "Caption": "845d49d7-7571-45ef-b2ba-8cf023676ee5.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7c859d4f-5f55-4b4f-ae5c-1b4a8ee42026",
+              "Filename": "fd5eb3d9-e790-4a1e-a3e5-1f045f705579.jpg",
+              "Caption": "33 saphire-6695.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1f93f1d8-9ca6-473e-8a5d-8f24f1864b90",
+              "Filename": "a5f3c0f0-9c2f-42bc-b0df-c6eeefa47545.jpg",
+              "Caption": "33 saphire-6699.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d1408bc9-1ba2-4388-a0c2-edcd2d395f5c",
+              "Filename": "33f1903c-d3e5-46d9-b422-2c79dcc6f881.png",
+              "Caption": "F1CA1061-F02A-4744-BCC0-80680C80A92F.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "016be5c3-bb41-4f3e-9a81-5fbebe3a68f7",
+              "Filename": "df69f1b0-acc2-40eb-b60d-d7c69ca21a41.png",
+              "Caption": "image0 (5).png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e305da39-be78-4434-9d1d-0d0b23d911ba",
+              "Filename": "91264a4c-6bd2-4351-863b-7019a7d61538.jpeg",
+              "Caption": "IMG_8585.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8cd67189-e634-4cc8-affd-8a7235835e00",
+              "Filename": "e05950c3-86e4-42a1-81f3-14c2e323e01e.jpeg",
+              "Caption": "IMG_8586.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9f33db03-921e-44ae-9193-149bbe3101aa",
+              "Filename": "bd8a93c1-5e96-4201-b6d8-4271b0c13fd2.jpeg",
+              "Caption": "IMG_8587.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c87307c9-48e4-4acb-95d0-cd1d3c9d0d1e",
+              "Filename": "06313ad3-6749-4692-9653-7fc42f44def9.png",
+              "Caption": "AB5656B1-3AEC-4B4E-9CEA-7FC092DD95ED.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0b80bab9-1d7b-46b5-a040-53421761f6cb",
+              "Filename": "645e6caa-8d2f-41ef-8115-ce6b865d0421.jpg",
+              "Caption": "33 saphire-6712.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fc4801ae-61c6-4581-8b92-1dac706cfd14",
+              "Filename": "d9d5a97d-2020-4bd4-8424-c1a667086587.jpeg",
+              "Caption": "2f34ae14-9785-4016-a7dc-a792f09713c6.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b1ce0df5-3deb-4320-9219-b78b611e81cd",
+              "Filename": "084d5cd0-cd10-487d-9ca8-78a6a78a70ad.jpeg",
+              "Caption": "b4d98ca6-a3f6-4d05-a874-11fa7009287e.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1f101971-bf54-4964-a1bd-e702a67aa67a",
+              "Filename": "853e94d1-cf05-4253-8d8f-ab2c598ea1b4.jpg",
+              "Caption": "33 saphire-6726.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5ccb9f9a-34ef-4296-bb3c-c18a5b21cbef",
+              "Filename": "cf212a68-64d7-46de-b010-1367f25d6fe7.jpeg",
+              "Caption": "dfe74623-01da-4c17-8b9a-db2cc2942f0b.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "020c088d-2f7d-4004-9a7f-1735603e9bc2",
+              "Filename": "61e8d956-3f0d-4da9-9ee0-d81de7068116.jpg",
+              "Caption": "exterior-6734.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c1798e35-216a-4672-a823-e0b4d2410fdd",
+              "Filename": "ef1bae9c-9a78-40df-b5f1-a509952b9b14.jpg",
+              "Caption": "33 saphire-.JPG",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "d3664dcd4ce54b6f88b2b36e8110d452",
+          "OriginalImagesSuffix": "d3664",
+          "MainPhoto": {
+            "Identifier": "5ef5f46b-159d-40bb-9830-b9a00cfd8b9e",
+            "Filename": "7aedc970-163c-4c58-a660-d1c67b97fb3f.png",
+            "Caption": "29B6053D-30DF-4F35-A5D2-88E70BE32EBB.png",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/8/2/5024289/7aedc970-163c-4c58-a660-d1c67b97fb3f_l.png",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€550,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "72",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5024582,
+        "DisplayAddress": "Apartment 33 Merrion Hall, Mount Merrion Avenue, Blackrock, Co. Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "753f7114-ce8e-465b-9722-217a2e59e3b1",
+              "Filename": "84668fa5-fc4a-4be5-a48c-62557cfe8b67.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821175_382_30660_VE9NMDQ5NzQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ba582c9d-eee7-4e61-a1ff-be55bdbe8091",
+              "Filename": "1b63379d-08d2-4c6c-ad78-c9230b4ff5b1.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821180_382_30660_VE9NMDQ5Nzc.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c805f935-8f74-410b-9d91-ba8c52450598",
+              "Filename": "9e612509-1e19-4821-9697-8dd54d45e6d2.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821171_382_30660_VE9NMDQ5ODA.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "88840729-5128-4dd8-b4b4-e5e1a2520369",
+              "Filename": "cdf72fdd-527d-4f9d-8b2c-76c2908682bf.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821157_382_30660_VE9NMDUwMzc.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "54433fe7-e3fd-4c2a-8001-8117904dd842",
+              "Filename": "89a1d0ee-5c18-4d49-bb1d-fc43a8b347fc.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821159_382_30660_VE9NMDUwMzQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "318ce920-f34f-4515-862f-8cb2575c0423",
+              "Filename": "9a8b88d0-e7fc-40a6-9856-cd2fa1c1f5d9.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821163_382_30660_VE9NMDUwMjg.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0c50844b-6f32-4100-965e-40e6db35f64b",
+              "Filename": "a90988f2-5cb2-4e05-bdbf-8aca51b61369.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821166_382_30660_VE9NMDUwMTk.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2787f2d4-f572-4367-820c-0792b986afd0",
+              "Filename": "6b9fdc9a-bae0-4ec1-a1ff-ed43da6bb95b.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821168_382_30660_VE9NMDUwMTlfc3RhZ2luZ180YjkxZTNmY182M2JkMjZiOQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1ca4e389-15ef-4972-a761-588d85c98234",
+              "Filename": "4b94b3dd-85f4-42bb-b9c9-bc2447b4c943.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821183_382_30660_NDZfQmVhdHR5X1BhcmtfQ2VsYnJpZGdlLTE4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7ffa9997-996c-4f69-854f-2a1d03448bf1",
+              "Filename": "8d6c2537-3db6-48b8-b458-aa7c0dd23b19.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821150_382_30660_VE9NMDUwMDQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c6a8b1fe-a77f-438b-a085-eb0b63d6e2ec",
+              "Filename": "40821db0-65eb-4375-b4ae-7b171b47970a.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821158_382_30660_VE9NMDUwMDc.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b5ea758c-8ce6-47e0-a5e5-1a4813fc3452",
+              "Filename": "67840f1f-f398-4f6e-a536-6c2839434010.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821152_382_30660_VE9NMDQ5ODk.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "af86a26c-ddb8-4482-8070-60ac629da9fc",
+              "Filename": "49c28b4d-d3e3-4020-861e-aeb04b485131.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821153_382_30660_VE9NMDQ5ODY.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d986249f-a521-474b-9a2e-d3330bbfd392",
+              "Filename": "30fd8eab-116e-47c3-bfc3-0fd1f91514a6.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821162_382_30660_VE9NMDQ5ODZfc3RhZ2luZ18yMzcwOGEyY180NjA4MjViNQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "df2ad9ed-3389-42bc-8dd8-c7a3a516e042",
+              "Filename": "51a6abe8-a38c-44d7-84e6-9eb3d1cfb8c4.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821161_382_30660_VE9NMDUwMTM.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f624347f-03d9-4398-bb8c-9d332ae9d4f5",
+              "Filename": "416cbd15-d4bb-4cb4-ad46-fcc8197a85e4.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821170_382_30660_VE9NMDQ5OTg.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e93ccb23-902c-4b41-895b-b868bfabe987",
+              "Filename": "3e6aa50d-8a66-40d7-b50f-5cf900e691bc.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821173_382_30660_VE9NMDQ5OTU.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "430929ec-c2c9-4310-87ac-39e71a854978",
+              "Filename": "ce1dea1c-fcde-4540-825a-ee2cb11cf855.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821177_382_30660_NDZfQmVhdHR5X1BhcmtfQ2VsYnJpZGdlLTEz.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "58774407-ede1-4ee3-8a4d-67b5d3956e70",
+              "Filename": "119a472f-7dbd-49e4-80cd-0a0edad3d6b0.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821181_382_30660_NDZfQmVhdHR5X1BhcmtfQ2VsYnJpZGdlLTE2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3fb05b53-b7ea-4610-8995-0cb109dcfddf",
+              "Filename": "0f5a6db0-a557-4904-bdc0-1f344dbac9a3.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821185_382_30660_NDZfQmVhdHR5X1BhcmtfQ2VsYnJpZGdlLTE1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f25d1274-7032-477e-88cc-e18fb3d8bde0",
+              "Filename": "958b238e-a39d-4fd7-b62f-d1fadaacdc55.png",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821178_382_30660_MzNfYmxhY2tyb2Nr.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4e3de358-a42a-41df-90a5-2d44133ee2fd",
+              "Filename": "deeddc90-2ab7-4602-9123-c78b203e8286.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821191_382_30660_QV8zM19NYXJtaW9uX0hhbGxfRC0yNQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ccb68c2f-a93f-4bf6-b0a0-10e8dd3ed0a4",
+              "Filename": "6cc3f540-0dc0-40d0-988e-3c0abef7d8d8.jpg",
+              "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821164_382_30660_QV8zM19NYXJtaW9uX0hhbGxfRC0xNQ.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "8554707a641b42ef8744c03898d50e5c",
+          "OriginalImagesSuffix": "85547",
+          "MainPhoto": {
+            "Identifier": "753f7114-ce8e-465b-9722-217a2e59e3b1",
+            "Filename": "84668fa5-fc4a-4be5-a48c-62557cfe8b67.jpg",
+            "Caption": "https://images.propertycrm.ie/uploads/2026/Aug/27/1787821175_382_30660_VE9NMDQ5NzQ.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/8/5/5024582/84668fa5-fc4a-4be5-a48c-62557cfe8b67_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€335,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "42.18",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 5024865,
+        "DisplayAddress": "25 Carraig Court, George`s Avenue, Blackrock, County Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "96e4b52d-07ce-4251-bec9-65aed410e2e3",
+              "Filename": "444fc6f9-ff71-4407-862d-5781a9912b4c.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8a75a418-33a4-4c56-bedd-b6f9739c5a3e",
+              "Filename": "ebc9b2d9-faab-461e-92d1-f1e85a4ae62b.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9b1f32b0-d6c5-4e74-92f4-3558702a3f2b",
+              "Filename": "1e531794-a87f-4e5c-b95b-64953a461e96.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bdcf8c53-b22b-406b-a268-1da521f774ab",
+              "Filename": "aa8d8388-294c-4971-95fd-467c11a922d1.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f9aa1f66-e8da-4cf6-af79-182e3fdd4d91",
+              "Filename": "88e907d2-2076-40f6-816e-eadaf410164b.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0e695c78-2eae-4028-a9fd-8688a4827899",
+              "Filename": "d672d6eb-f73f-484d-aecc-a24686d7e1cb.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-6.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "32672307-df85-4619-bf2c-e6422805daac",
+              "Filename": "6c385e61-dda5-443b-ade3-c7da54ee75c2.jpg",
+              "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-FP.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "64168e69-b5fb-44c4-9444-ac15b9c4d328",
+              "Filename": "https://player.vimeo.com/video/1221912746",
+              "Caption": "https://vimeo.com/1221912746",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "c1fe4af59d8543d389305633169c6c1d",
+          "OriginalImagesSuffix": "c1fe4",
+          "MainPhoto": {
+            "Identifier": "96e4b52d-07ce-4251-bec9-65aed410e2e3",
+            "Filename": "444fc6f9-ff71-4407-862d-5781a9912b4c.jpg",
+            "Caption": "https://www.brightlogic-estateagents.co.uk/LAND/upload/1314-1.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/5/6/8/5024865/444fc6f9-ff71-4407-862d-5781a9912b4c_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€525,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "102",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5025029,
+        "DisplayAddress": "27, Ashurst, Mount Merrion Avenue, Blackrock, Co. Dublin",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "8001afde-4b8b-4c84-998a-45d26b19da32",
+              "Filename": "cc2d2b32-44ad-4dbc-aae5-ea9b1192f6bb.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "88cfeacc-5ac3-458e-9437-7b18f7c3ba30",
+              "Filename": "5e5a8b6b-edf1-42a5-90c9-aec3c066a521.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8b69d4b9-90fb-4983-9f88-9a9082ff8bec",
+              "Filename": "d3f1fe98-3f7d-4e56-9aa3-1384bc526300.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "86a97ceb-24f9-40c3-96ce-2ac7682ff1b8",
+              "Filename": "1a451395-7f81-4b19-a1ed-8223ca5f5651.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5bd48fcb-7388-4ff1-b70a-3268ce2b8966",
+              "Filename": "9c0745e3-dbf3-41b6-b792-7e271c05c063.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c48a43e8-2eb2-4025-b9a3-761ffc2d0821",
+              "Filename": "9de46060-4ccc-4115-98eb-ad3e68cb2283.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "62f4c68f-26bf-42aa-860f-fb4970c571e3",
+              "Filename": "5ab20041-3a0d-4e66-9f9e-e681cd72c524.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7b03599b-8f0a-41b3-8599-0e529857574a",
+              "Filename": "9c7f05d3-285b-4978-a1af-4569f7d187f9.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5b188388-3291-4fab-ace3-c6231dd01b27",
+              "Filename": "0582e134-56fb-4b49-9bee-7d37dff26747.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "06423529-3a31-44c8-980b-4b6abc7b9baa",
+              "Filename": "7f644d5e-d229-4a6b-827c-f1b918e29ac5.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d84f659a-0bf5-49ea-a956-425b9f239c08",
+              "Filename": "8a9a1c46-2f89-4048-8184-6057d2ec4a97.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "256687fb-e7b9-4a5c-a867-bd2b0edf0fc2",
+              "Filename": "d0053278-d9bc-4c70-adcb-e8bd166ba703.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f5d6e437-4133-4c74-a7f4-2819e42f3a4f",
+              "Filename": "241a4e52-1018-43ab-aae3-1ff7a55b7f9a.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_13.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f0a3ab70-3814-474b-9ff2-5ff931b89edb",
+              "Filename": "b2dc5bcd-b836-49fa-b97b-46128281e41a.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "493463463ef3491ab162c3120aa7cc26",
+          "OriginalImagesSuffix": "49346",
+          "MainPhoto": {
+            "Identifier": "8001afde-4b8b-4c84-998a-45d26b19da32",
+            "Filename": "cc2d2b32-44ad-4dbc-aae5-ea9b1192f6bb.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/BLA/26/BLA260159_12.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/0/5025029/cc2d2b32-44ad-4dbc-aae5-ea9b1192f6bb_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Quillsen are delighted to bring this 2 bedroom 1st floor apartment to the market.\n\nSituated in the Newpark Centre shopping complex, this property boasts a wonderful location close to a host of amenities and transport links. The apartments of the Newpark Centre are located above the shops and have a secure gated entrance with intercom system.\n\nLocal shops and amenities to include the Newpark Sports Centre, Newpark Comprehensive School and Church of the Guardian Angels are all within a short walk of the property. Blackrock Village with its chic boutiques, restaurants and local amenities within walking distance and its two shopping centres are also close by. The seafront, Blackrock & Seapoint DART stations, local bus routes and links to main road networks are all easily accessible. There are a number of prominent schools in the area including Mount Anville, St. Andrews College and Blackrock College. UCD and the Smurfit School of Business are also within walking distance.\n\nThe accommodation comprises a spacious entrance hallway which features a large mirrored wardrobe and storage cupboard. There is a large living room with a dining area/ kitchen, in addition there is a spacious bathroom and two double bedrooms."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Hallway\nAttractive wood flooring, ceiling coving, intercom, built in mirroed wardrobe, storage cupboard,\n\nLivingroom/Diningroom/kitchen - 7.03m (23'1\") x 3.36m (11'0\")\nVery large room, attractive fitted kitchen comprising ample wall and floor units, Simens hob and oven, plumbed for washing machine and dishwasher, stainless steel sink uinit, tiled floor, fireplace incorporating a solid fuel fire, ceiling coving.\n\nBedroom 1 - 3.82m (12'6\") x 2.55m (8'4\")\nCeiling coving\n\nBedroom 2 - 3.8m (12'6\") x 2.25m (7'5\")\nCeiling coving\n\nNotice\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "<ul><li> Superb location close to a host of amenities </li><li> Public transport on the door step </li><li> GFCH </li><li> Double glazing </li><li> Resident parking </li><li> Service charge approx 2900 per annum </li><li> No rent cap</li></ul>"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: F\r\nBER No: 100197284\r\nEnergy Performance Indicator: 391.19 kWh/m2/yr"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Patricia Casey"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 379912,
+    "MinEnergyRating": 20,
+    "MaxEnergyRating": 20,
+    "BERGrade": "F",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-02-20T16:04:08.4230000+00:00",
+    "ModifiedOnDate": "2026-04-21T10:55:29.2700000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-02-20T16:04:08.4230000+00:00",
+    "RefreshedOn": "2026-08-18T10:33:10.4970000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/F.png",
+    "IsTransact": false,
+    "PriceAsString": "€395,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 4982679,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 62,
+    "DisplayAddress": "Apt 3 Newpark Centre, Blackrock, County Dublin",
+    "Eircode": "A94 WK72",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 1463,
+    "RegionName": "Dublin County",
+    "LocalityId": 1258,
+    "LocalityName": "Blackrock",
+    "Price": {
+      "MinPrice": 395000,
+      "MaxPrice": 395000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e216f247-839d-4184-902f-23f9ff55874e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e216f247-839d-4184-902f-23f9ff55874e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e216f247-839d-4184-902f-23f9ff55874e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e57c1961-d210-4823-8364-56a92be97ffe_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e57c1961-d210-4823-8364-56a92be97ffe_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/e57c1961-d210-4823-8364-56a92be97ffe_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c0645aa1-c8ec-41c8-b311-6fe868c9803f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c0645aa1-c8ec-41c8-b311-6fe868c9803f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c0645aa1-c8ec-41c8-b311-6fe868c9803f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/b8bd38e8-d90c-4375-91d1-51a3be513af3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/b8bd38e8-d90c-4375-91d1-51a3be513af3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/b8bd38e8-d90c-4375-91d1-51a3be513af3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/777f01ff-3122-4615-a760-9782da8a83cd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/777f01ff-3122-4615-a760-9782da8a83cd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/777f01ff-3122-4615-a760-9782da8a83cd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/61295ad9-2cd5-412d-9110-18c191257e36_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/61295ad9-2cd5-412d-9110-18c191257e36_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/61295ad9-2cd5-412d-9110-18c191257e36_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/bdf632cb-2913-4318-ae86-3a45b4b82671_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/bdf632cb-2913-4318-ae86-3a45b4b82671_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/bdf632cb-2913-4318-ae86-3a45b4b82671_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/a54b10a9-3d53-476b-9e90-5046f5746dc2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/a54b10a9-3d53-476b-9e90-5046f5746dc2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/a54b10a9-3d53-476b-9e90-5046f5746dc2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/6fbeb485-8920-4162-bcbc-cb9342d3816b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/6fbeb485-8920-4162-bcbc-cb9342d3816b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/6fbeb485-8920-4162-bcbc-cb9342d3816b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c3063bfa-d950-4a49-b19a-260177464773_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c3063bfa-d950-4a49-b19a-260177464773_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/c3063bfa-d950-4a49-b19a-260177464773_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/78a8b37c-819d-4355-9ac5-146418fca397_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/78a8b37c-819d-4355-9ac5-146418fca397_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/78a8b37c-819d-4355-9ac5-146418fca397_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/825fdc31-feee-48c8-adf8-828fa6a70939_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/825fdc31-feee-48c8-adf8-828fa6a70939_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/825fdc31-feee-48c8-adf8-828fa6a70939_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/9ae0047a-1324-425f-a862-5e756e86c6a6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/9ae0047a-1324-425f-a862-5e756e86c6a6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/6/4982679/9ae0047a-1324-425f-a862-5e756e86c6a6_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.1761094,
+      "latitude": 53.2880841
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 12,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/9/7/6/4982679/9ae0047a-1324-425f-a862-5e756e86c6a6_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5531,
+    "Name": "Quillsen",
+    "DisplayPhone": "016323000",
+    "Email": "info@quillsen.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "quillsen-terenure",
+    "SeoName": "quillsen-terenure",
+    "Address": "31-33 The Triangle, Ranelagh, Dublin 6",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/1/3/5/5531/logo.jpg",
+    "SalesLicense": "002250",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "blackrock-dublin/1258",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024505,
+      "PropertyClassId": 1,
+      "DisplayAddress": "52 Sandford Road, Ranelagh, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/0/5/5024505/b6cc71f7-10e1-48db-ba04-3b2502f84210_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/52-sandford-road-ranelagh-dublin-6/5024505"
+    },
+    {
+      "PropertyId": 5024303,
+      "PropertyClassId": 1,
+      "DisplayAddress": "5 Raleigh Square, Crumlin, Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/3/5024303/4ec69244-7f60-4273-b13f-53650d82ef41_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/5-raleigh-square-crumlin-dublin-12/5024303"
+    },
+    {
+      "PropertyId": 5023097,
+      "PropertyClassId": 1,
+      "DisplayAddress": "82 Mount Drummond Square, Harolds Cross, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/9/0/5023097/ac343271-e274-4f18-ba98-06d70211d6dc_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/82-mount-drummond-square-harolds-cross-dublin-6/5023097"
+    },
+    {
+      "PropertyId": 5022948,
+      "PropertyClassId": 1,
+      "DisplayAddress": "14 Oxford Road, Ranelagh, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/4/9/5022948/3c6576b3-1d49-41cc-845b-ec60392c2e14_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/14-oxford-road-ranelagh-dublin-6/5022948"
+    },
+    {
+      "PropertyId": 5017372,
+      "PropertyClassId": 1,
+      "DisplayAddress": "10 Thorncliffe, Dundrum Road, Milltown, Dublin 14",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/3/5017372/b70dca28-88bf-4eb7-a3f4-d86c78060a16_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/10-thorncliffe-dundrum-road-milltown-dublin-14/5017372"
+    },
+    {
+      "PropertyId": 5021703,
+      "PropertyClassId": 1,
+      "DisplayAddress": "8 St Endas Road, Terenure, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/7/5021703/b333069e-b1c5-414f-808a-221f16e9be8d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/8-st-endas-road-terenure-dublin-6/5021703"
+    },
+    {
+      "PropertyId": 5015498,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 5 Sherborne Court, 17-18 Charleston Road, Ranelagh, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/4/5015498/cdaf9aa9-ffad-411d-b29d-561e9896b5d5_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-5-sherborne-court-17-18-charleston-road-ranelagh-dublin-6/5015498"
+    },
+    {
+      "PropertyId": 5001691,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 6 Belgrave Court, Mountpleasant Avenue Upper, Ranelagh, Dublin 6",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/9/6/5001691/3489de08-dd1c-4530-9944-7cb94311c3c6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-6-belgrave-court-mountpleasant-avenue-upper-ranelagh-dublin-6/5001691"
+    },
+    {
+      "PropertyId": 4999757,
+      "PropertyClassId": 1,
+      "DisplayAddress": "17 Wilfield, Sandymount, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/5/7/4999757/ca13f3b4-2082-4031-aca1-476fdb11f85b_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/17-wilfield-sandymount-dublin-4/4999757"
+    },
+    {
+      "PropertyId": 4989184,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Killasser Mews, 24 Morehampton Lane, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/8/1/4989184/dd9de5c1-a614-4cf9-a298-939fdfdc4c2a_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/killasser-mews-24-morehampton-lane-donnybrook-dublin-4/4989184"
+    },
+    {
+      "PropertyId": 5009107,
+      "PropertyClassId": 1,
+      "DisplayAddress": "47 Clarinda Park East, Dun Laoghaire, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/0/1/5009107/da208c31-a39e-4268-9b92-abe9c266412c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/47-clarinda-park-east-dun-laoghaire-county-dublin/5009107"
+    },
+    {
+      "PropertyId": 5007287,
+      "PropertyClassId": 1,
+      "DisplayAddress": "38 Clarinda Park West, Dun Laoghaire, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/8/2/5007287/8937e337-39a7-4e05-86ec-f9a5b0fbc601_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/38-clarinda-park-west-dun-laoghaire-county-dublin/5007287"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5028788,
+      "Address": "No 44 Les Buissonnetts , Sweetmans Ave, Frascati Rd ,Blackrock Co Dublin , Blackrock, Dublin",
+      "HasWebP": false,
+      "Price": 500000,
+      "PrevPrice": 525000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -4.7619,
+      "Created": "19th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/no-44-les-buissonnetts-sweetmans-ave-frascati-rd-blackrock-co-dublin-blackrock-dublin/5028788",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4982361,
+      "Address": "17 Castlebyrne Park, Blackrock, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/6/3/4982361/514f2ec0-e308-47fb-ba4f-7796eada0074_t.png",
+      "HasWebP": false,
+      "Price": 575000,
+      "PrevPrice": 525000,
+      "PriceChangeDelta": 50000,
+      "PriceChangePercentage": 9.5238,
+      "Created": "11th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/17-castlebyrne-park-blackrock-county-dublin/4982361",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4985779,
+      "Address": "The Penthouses at Woodlands Grove, Blackrock, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/7/7/4985779/820eeeb0-50ce-4752-9872-cc4c5129f4b9_t.jpg",
+      "HasWebP": false,
+      "Price": 1350000,
+      "PrevPrice": 1525000,
+      "PriceChangeDelta": -175000,
+      "PriceChangePercentage": -11.4754,
+      "Created": "11th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "BerRating": "A3",
+      "SeoUrl": "/residential/brochure/the-penthouses-at-woodlands-grove-blackrock-county-dublin/4985779",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4985713,
+      "Address": "Woodlands Grove, Blackrock, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/1/7/4985713/bb1ce4f2-4dfe-475b-92fa-97a9366d91f0_t.jpg",
+      "HasWebP": false,
+      "Price": 625000,
+      "PrevPrice": 685000,
+      "PriceChangeDelta": -60000,
+      "PriceChangePercentage": -8.7591,
+      "Created": "11th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "SeoUrl": "/residential/brochure/woodlands-grove-blackrock-county-dublin/4985713",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/apt-3-newpark-centre-blackrock-county-dublin/4982679",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 379912,
+    "Name": "Patricia Casey",
+    "JobTitle": "Branch Manager",
+    "Phone": "01 406 4500",
+    "Email": "ranelagh@quillsen.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/2/1/9/379912/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5531,
+    "MYH_LocalityID": 1258,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1463,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking",
+    "MYH_MaxPrice": 400000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 20,
+    "MYH_MinPrice": 400000,
+    "MYH_MinSize": 62,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 4982679,
+    "MYH_PropertyTypeID": 36
+  }
+}

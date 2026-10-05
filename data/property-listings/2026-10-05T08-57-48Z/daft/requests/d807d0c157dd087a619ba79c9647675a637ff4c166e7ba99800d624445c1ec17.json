@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/94-corran-ard-athy-co-kildare/6682557",
+  "fetchedAt": "2026-10-05T09:06:07.183Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/94-corran-ard-athy-co-kildare/6682557",
+  "kind": "listing",
+  "responseSha256": "d9b4c40b6dca08ff095a69b340695e1aa7d621b7c9b3668bf348d449d9d3359a",
+  "files": [
+    {
+      "path": "daft/00333-d807d0c157dd087a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b590582bca0e5f837c60183135b191a484cac90961b4e325e344328f4944ec75",
+      "bytes": 61623
+    },
+    {
+      "path": "daft/00333-d807d0c157dd087a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "20fbb05cc22400ee95b3ca370275a0f17e9b58d6ab39266165fd670e25c7b818",
+      "bytes": 8132
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

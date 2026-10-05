@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/unfurnished-apartment-at-the-schooner-quayside-living-at-hartys-quay-hartys-quay-rochestown-rochestown-co-cork/6634722",
+  "fetchedAt": "2026-10-05T09:01:22.927Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/unfurnished-apartment-at-the-schooner-quayside-living-at-hartys-quay-hartys-quay-rochestown-rochestown-co-cork/6634722",
+  "kind": "listing",
+  "responseSha256": "d349353f510dda0c2ed03353a0720e6b5f3f3a0259f3b3f43bdd5d79ae955c94",
+  "files": [
+    {
+      "path": "daft/00144-f0800babf34f6bb8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cf735194bc9a8ee4f6844c6d67fccbdd0452ef5ac214474c0cad4372b7f52500",
+      "bytes": 10906
+    },
+    {
+      "path": "daft/00144-f0800babf34f6bb8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "82c058ecf8ab8e690bff11f542a541706327c775a848e58d11955a38e1a1d0b6",
+      "bytes": 8165
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

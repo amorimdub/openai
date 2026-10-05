@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=141",
+  "fetchedAt": "2026-10-05T11:26:59.728Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=141",
+  "kind": "search",
+  "responseSha256": "579b3f21f51525b78ad1a7360a5ef61b98c8b448d0bdcb1af8b155ba1e883101",
+  "files": [
+    {
+      "path": "myhome/03426-e888108c9f7db064-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=141\"].SearchResults",
+      "sha256": "de9e2f8c8805465271ceb35a617aecb7220c51a91e8ab8cbf9b0aa32cb31ba25",
+      "bytes": 118841
+    },
+    {
+      "path": "myhome/03426-e888108c9f7db064-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=141\"] (paging fields)",
+      "sha256": "3f956c3197d0fedba02c5db374035cbe54fef077eaffbfc1f9a6a7c26960551a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/78-meadows-way-carlow-county-carlow/5029187",
+    "https://www.myhome.ie/residential/brochure/98-caislean-na-habhainn-castletroy-limerick/5022026",
+    "https://www.myhome.ie/residential/brochure/15-watson-place-rathfarnham-dublin-16/5029186",
+    "https://www.myhome.ie/residential/brochure/type-b1-bellingham-manor-dundalk-road-castlebellingham-louth/5029185",
+    "https://www.myhome.ie/residential/brochure/woodend-the-birches-torquay-road-foxrock-dublin-18/4966224",
+    "https://www.myhome.ie/residential/brochure/apt-101-college-view-ballymun-road-ballymun-dublin-11/5028400",
+    "https://www.myhome.ie/residential/brochure/5-oaklands-avenue-swords-county-dublin/5029181",
+    "https://www.myhome.ie/residential/brochure/15-belgrave-square-east-rathmines-dublin-6/5029183",
+    "https://www.myhome.ie/residential/brochure/type-b2-bellingham-manor-dundalk-road-castlebellingham-louth/5029178",
+    "https://www.myhome.ie/residential/brochure/11-north-quay-new-ross-co-wexford/5019279",
+    "https://www.myhome.ie/residential/brochure/101-kilcarn-court-navan-meath/5029180",
+    "https://www.myhome.ie/residential/brochure/52-the-anchorage-dun-laoghaire-county-dublin/4956683",
+    "https://www.myhome.ie/residential/brochure/60-mill-falls-collooney-sligo/5028781",
+    "https://www.myhome.ie/residential/brochure/11-churchwell-close-belmayne-co-dublin/5029176",
+    "https://www.myhome.ie/residential/brochure/15-weston-grove-churchtown-dublin-14/4984698",
+    "https://www.myhome.ie/residential/brochure/6-ornamental-gardens-oldtown-demesne-naas-kildare/5021555",
+    "https://www.myhome.ie/residential/brochure/no-4-crestfield-youghal-co-cork-youghal-cork/5029171",
+    "https://www.myhome.ie/residential/brochure/40-castlegrove-ballymote-co-sligo/5029174",
+    "https://www.myhome.ie/residential/brochure/1-griffith-avenue-drumcondra-dublin/5029134",
+    "https://www.myhome.ie/residential/brochure/thornbury-16-bushy-park-road-rathgar-dublin-6/5024867"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=142",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=472",
+  "fetchedAt": "2026-10-05T14:17:39.875Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=472",
+  "kind": "search",
+  "responseSha256": "a16b56b28fc878a05eb6c883111539a096d470daf81197fe7edee47e920b5e57",
+  "files": [
+    {
+      "path": "myhome/10233-589396a09174de90-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=472\"].SearchResults",
+      "sha256": "800ec2d271166f25e3246cdf6d4b77ed3034bc8f2533d5401028a2ad65b66001",
+      "bytes": 111656
+    },
+    {
+      "path": "myhome/10233-589396a09174de90-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=472\"] (paging fields)",
+      "sha256": "e85d5a37d07b936c67d7bb038d1db0975f30071b7a4483756ed0389f713fd998",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/whitewell-house-mulgannon-wexford-town-wexford/4950934",
+    "https://www.myhome.ie/residential/brochure/119-marigold-avenue-darndale-dublin-17/5006041",
+    "https://www.myhome.ie/residential/brochure/11-chestnut-lawn-classes-lake-ovens-co-cork/5006037",
+    "https://www.myhome.ie/residential/brochure/6-new-road-galway-city-centre-galway/5006029",
+    "https://www.myhome.ie/residential/brochure/annagh-ballyhaunis-county-mayo/4995782",
+    "https://www.myhome.ie/residential/brochure/manor-estate-greenhills-dublin-12-dublin-12-dublin/4993165",
+    "https://www.myhome.ie/residential/brochure/21-the-crescent-park-west-dublin-12/5001026",
+    "https://www.myhome.ie/residential/brochure/67-brackernagh-ballinasloe-galway/5005997",
+    "https://www.myhome.ie/residential/brochure/grangemount-ring-commons-balbriggan-dublin-balbriggan-county-dublin/5004161",
+    "https://www.myhome.ie/residential/brochure/7-newlands-drive-clondalkin-dublin-22-d22-a093/5005988",
+    "https://www.myhome.ie/residential/brochure/residence-on-approx-1-40-acres-at-lismurtagh-tulsk-co-roscommon/5005983",
+    "https://www.myhome.ie/residential/brochure/17-castlebyrne-park-blackrock-county-dublin/4982361",
+    "https://www.myhome.ie/residential/brochure/17-ashgrove-kinsealy-county-dublin/5001988",
+    "https://www.myhome.ie/residential/brochure/24-p-irc-mhuire-tullow-carlow/5005979",
+    "https://www.myhome.ie/residential/brochure/lot-3-the-site-harrow-house-church-road-killiney-co-dublin/5005974",
+    "https://www.myhome.ie/residential/brochure/171-droim-liath-tullamore-offaly/5005963",
+    "https://www.myhome.ie/residential/brochure/oakfield-sligo-sligo/5005722",
+    "https://www.myhome.ie/residential/brochure/lot-2-house-only-harrow-house-church-road-killiney-co-dublin/5005959",
+    "https://www.myhome.ie/residential/brochure/104-ludford-road-dundrum-dublin-16/5005947",
+    "https://www.myhome.ie/residential/brochure/18-moinear-na-darach-quin-clare/5005931"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=473",
+  "paginationLimited": false
+}

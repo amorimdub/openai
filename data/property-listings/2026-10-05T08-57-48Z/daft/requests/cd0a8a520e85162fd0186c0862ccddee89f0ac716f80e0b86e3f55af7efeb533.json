@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/3-ardagh-drive-blackrock-blackrock-co-dublin/6657370",
+  "fetchedAt": "2026-10-05T09:28:39.006Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/3-ardagh-drive-blackrock-blackrock-co-dublin/6657370",
+  "kind": "listing",
+  "responseSha256": "54bfadbefe14634530f92a0284194de21a99017618e8e23a320aa701e3380b77",
+  "files": [
+    {
+      "path": "daft/01233-cd0a8a520e85162f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "7051f390a3da8ee04b2eafb14376fdac02e3c0c672f9d2268a4df7019bbe5f9c",
+      "bytes": 58256
+    },
+    {
+      "path": "daft/01233-cd0a8a520e85162f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a060d4bc01dc690281a94683acbd470f549cd5d899d920637f28edd30013cd90",
+      "bytes": 8119
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,416 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "31 belltree avenue clongriffin dublin 13",
+    "GroupId": 9680,
+    "Address": "31 Belltree Avenue",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2987de8d-3706-4d60-ac50-203c28495c12_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2987de8d-3706-4d60-ac50-203c28495c12_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2987de8d-3706-4d60-ac50-203c28495c12_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/eb565973-ac49-40ee-bbed-1f3e5a494b8b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/85123b37-886a-4c63-b796-416c22fcd44f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/099c2593-7f2f-40a5-87da-7666edda7d76_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/91b017fa-d5c0-4298-9d82-c3a037f8c1a6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/73e51349-d40c-488e-94d6-6952b5553450_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d88b6dd1-6e27-49f1-b4cf-716bb90a99d7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/e0c4bbae-b9e6-4f9d-9d77-b2b26a441c01_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/68b4dc51-b9c7-469f-8da2-b93f33d95714_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/b6f11bf5-2add-409a-8869-6d56823e3638_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/7f77207f-0b8c-4e18-97f4-c85c32ed948b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5ebee5a-dca1-456b-948c-22a08d79693e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a50f9f00-c945-4498-9bb2-d24f079ec482_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/f0baf88d-5b59-4eb1-b7db-0c3ef4792363_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5feff07-6442-4a24-9c84-99830a4f7c97_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/67e30113-d1b8-4fc9-8b8d-c3f7d3c240fc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2c533d1d-804c-49ec-bba9-d5b4e961bfac_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/39a3afbc-b478-48f1-864b-d62b39dbf201_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a6d58f12-81a8-4df8-8ce6-d37e12959b79_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d3df05d8-5ce6-42ed-a5d0-b4545614d314_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/4cb31aa2-a832-4b7f-a21e-d3ff42a6d6bd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/9c8f8544-4438-407f-847d-f9ee1bd25287_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/3d797f0e-4682-4c7f-bc9b-708b61143651_l.jpg",
+      "https://photos-a.propertyimages.ie/media/3/9/9/5026993/0037ecf3-c264-4dcf-aa00-babb49030b72_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 140,
+    "MaxSize": 140,
+    "BerRating": "A3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Owen Reilly is delighted to present No. 31 Belltree Avenue, a superb end-of-terrace, three-storey, four-bedroom family home, presented in excellent condition throughout and benefiting from an A3 BER rating and solar PV panels. The property further benefits from a cobblelock driveway with parking for two cars and side access to the rear garden.\r\n\r\nExtending to approximately 140 sq. m. / 1,500 sq. ft., the accommodation is well laid out over three floors. A welcoming hallway leads to a bright living room, guest WC and utility room, and a spacious kitchen/dining area with direct access to the rear garden.\r\n\r\nThe first floor holds two well-proportioned bedrooms and the hot press. The second floor offers two further bedrooms, including a main bedroom with walk-in wardrobe and ensuite, along with a family bathroom.\r\n\r\nTo the front, an EV charger is installed on the driveway, with additional on-street parking to the side. The private, low-maintenance rear garden has a Barna shed — ideal for family life and entertaining.\r\n\r\nEarly viewing is highly recommended.\r\n\r\nMore about the location...\r\n\r\nBelltree is a well established development located in Clongriffin, North Dublin, just off the Malahide Road. This popular development offers well maintained communal green spaces and is within easy reach of the nearby coastal villages of Portmarnock, Malahide and Howth, with their scenic walks as well as an excellent selection of restaurants, shops, bars, sporting facilities, golf courses and local boutiques. There are a number of schools and childcare facilities nearby, while the M50, M1 and Dublin Airport are all within approximately a 15-minute drive. Belltree is also well served by Dublin Bus routes and is within walking distance of Clongriffin train station, providing convenient access to Dublin City Centre and surrounding areas."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall (7.20m x 3.08m) Max\r\nInviting L-shaped entrance hall with laminate flooring, HKC alarm system and access to all principal rooms.\r\n\r\nLiving Room (3.79m x 3.49m)\r\nSouth facing living room with laminate flooring.\r\n\r\nGuest WC (1.59m x 1.52m)\r\nPart tiled bathroom with WC, WHB, heated towel rail and storage mirror.\r\n\r\nUtility Room (2.81m x 1.91m)\r\nConvenient utility room which provides ample storage space, fitted with a washing machine.\r\n\r\nKitchen/Dining Area (4.99m x 4.93m)\r\nBright and spacious kitchen/dining area with French doors to garden. Contemporary style kitchen with a range of built in wall and floor units and appliances to include AEG dishwasher, Bosch double oven, Electrolux induction hob, Teka extractor fan and a Hoover American style fridge-freezer.\r\n\r\nGarden (13.82m x 6.27m)\r\nExpansive rear garden with patio area, Barna shed and side access.\r\n\r\nFirst Floor\r\n\r\nLanding (2.00m x 1.82m)\r\nWith a full length window that fills the space with natural light.\r\n\r\nBedroom 1 (4.99m x 4.12m) Max\r\nBright, south facing bedroom currently used as an additional living space.\r\n\r\nHot Press (1.18m x 1.15m)\r\nShelved Hot Press\r\n\r\nBedroom 2 (3.73m x 2.98m)\r\nSpacious double bedroom with laminate flooring and fitted wardrobes.\r\n\r\nSecond Floor\r\n\r\nBedroom 3 (Main) (4.64m x 3.12m)\r\nLarge double bedroom with walk-in wardrobe and en-suite bathroom.\r\n\r\nEn-suite (1.63m x 1.61m)\r\nPart-tiled en-suite with shower cubicle, WHB, WC, vanity unit, storage mirror and heated towel rail.\r\n\r\nWalk-in Wardrobe (1.81m x 1.43m)\r\nFully shelved and railed walk-in wardrobe.\r\n\r\nBedroom 4 (2.95m x 2.95m)\r\nDouble bedroom with fitted wardrobes and laminate flooring.\r\n\r\nMain Bathroom (2.23m x 1.70m)\r\nFully tiled bathroom with vanity unit, storage mirror, WHB, WC and bath/shower,\r\n\r\n*ALL MEASUREMENTS ARE APPROXIMATE AND FOR GUIDANCE PURPOSES ONLY*"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "End-of-terrace, three-storey, four-bedroom family home.\r\nVery spacious: 140 sq. m. / 1,500 sq. ft. of internal space.\r\nDriveway with off-street parking for two cars.\r\nEfficient A3 BER rating.\r\nPresented in excellent decorative condition.\r\nGenerously proportioned rooms.\r\nContemporary finishes throughout.\r\nAmple storage space.\r\nAttractive, low-maintenance garden with Barna shed and side access.\r\nFitted with solar PV panels.\r\nEV charger to the front.\r\nGas-fired central heating controlled by Google Nest.\r\nHKC alarm system.\r\nLocated just minutes from Dublin Airport and the M50/M1 road networks.\r\nFive-minute walk to bus stops; Clongriffin Train Station is less than a 10-minute walk, providing direct access to Dublin City Centre."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: A3"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 265138,
+    "MinEnergyRating": 130,
+    "MaxEnergyRating": 130,
+    "BERGrade": "A",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-08T15:00:57.9300000+01:00",
+    "ModifiedOnDate": "2026-09-09T09:47:42.8030000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-08T15:11:40.0300000+01:00",
+    "RefreshedOn": "2026-09-29T10:30:38.8330000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+    "IsTransact": false,
+    "PriceAsString": "€595,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 5026993,
+    "BedsString": "4 beds",
+    "SizeStringMeters": 140,
+    "DisplayAddress": "31 Belltree Avenue, Clongriffin, Dublin 13",
+    "Eircode": "D13 RK4C",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "End of Terrace House",
+    "PropertyTypeId": 45,
+    "RegionId": 1454,
+    "RegionName": "Dublin 13",
+    "LocalityId": 1276,
+    "LocalityName": "Clongriffin",
+    "Price": {
+      "MinPrice": 595000,
+      "MaxPrice": 595000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2987de8d-3706-4d60-ac50-203c28495c12_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2987de8d-3706-4d60-ac50-203c28495c12_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2987de8d-3706-4d60-ac50-203c28495c12_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/eb565973-ac49-40ee-bbed-1f3e5a494b8b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/eb565973-ac49-40ee-bbed-1f3e5a494b8b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/eb565973-ac49-40ee-bbed-1f3e5a494b8b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/85123b37-886a-4c63-b796-416c22fcd44f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/85123b37-886a-4c63-b796-416c22fcd44f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/85123b37-886a-4c63-b796-416c22fcd44f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/099c2593-7f2f-40a5-87da-7666edda7d76_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/099c2593-7f2f-40a5-87da-7666edda7d76_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/099c2593-7f2f-40a5-87da-7666edda7d76_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/91b017fa-d5c0-4298-9d82-c3a037f8c1a6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/91b017fa-d5c0-4298-9d82-c3a037f8c1a6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/91b017fa-d5c0-4298-9d82-c3a037f8c1a6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/73e51349-d40c-488e-94d6-6952b5553450_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/73e51349-d40c-488e-94d6-6952b5553450_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/73e51349-d40c-488e-94d6-6952b5553450_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d88b6dd1-6e27-49f1-b4cf-716bb90a99d7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d88b6dd1-6e27-49f1-b4cf-716bb90a99d7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d88b6dd1-6e27-49f1-b4cf-716bb90a99d7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/e0c4bbae-b9e6-4f9d-9d77-b2b26a441c01_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/e0c4bbae-b9e6-4f9d-9d77-b2b26a441c01_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/e0c4bbae-b9e6-4f9d-9d77-b2b26a441c01_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/68b4dc51-b9c7-469f-8da2-b93f33d95714_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/68b4dc51-b9c7-469f-8da2-b93f33d95714_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/68b4dc51-b9c7-469f-8da2-b93f33d95714_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/b6f11bf5-2add-409a-8869-6d56823e3638_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/b6f11bf5-2add-409a-8869-6d56823e3638_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/b6f11bf5-2add-409a-8869-6d56823e3638_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/7f77207f-0b8c-4e18-97f4-c85c32ed948b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/7f77207f-0b8c-4e18-97f4-c85c32ed948b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/7f77207f-0b8c-4e18-97f4-c85c32ed948b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5ebee5a-dca1-456b-948c-22a08d79693e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5ebee5a-dca1-456b-948c-22a08d79693e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5ebee5a-dca1-456b-948c-22a08d79693e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a50f9f00-c945-4498-9bb2-d24f079ec482_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a50f9f00-c945-4498-9bb2-d24f079ec482_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a50f9f00-c945-4498-9bb2-d24f079ec482_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/f0baf88d-5b59-4eb1-b7db-0c3ef4792363_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/f0baf88d-5b59-4eb1-b7db-0c3ef4792363_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/f0baf88d-5b59-4eb1-b7db-0c3ef4792363_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5feff07-6442-4a24-9c84-99830a4f7c97_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5feff07-6442-4a24-9c84-99830a4f7c97_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d5feff07-6442-4a24-9c84-99830a4f7c97_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/67e30113-d1b8-4fc9-8b8d-c3f7d3c240fc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/67e30113-d1b8-4fc9-8b8d-c3f7d3c240fc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/67e30113-d1b8-4fc9-8b8d-c3f7d3c240fc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2c533d1d-804c-49ec-bba9-d5b4e961bfac_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2c533d1d-804c-49ec-bba9-d5b4e961bfac_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/2c533d1d-804c-49ec-bba9-d5b4e961bfac_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/39a3afbc-b478-48f1-864b-d62b39dbf201_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/39a3afbc-b478-48f1-864b-d62b39dbf201_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/39a3afbc-b478-48f1-864b-d62b39dbf201_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a6d58f12-81a8-4df8-8ce6-d37e12959b79_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a6d58f12-81a8-4df8-8ce6-d37e12959b79_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/a6d58f12-81a8-4df8-8ce6-d37e12959b79_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d3df05d8-5ce6-42ed-a5d0-b4545614d314_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d3df05d8-5ce6-42ed-a5d0-b4545614d314_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/d3df05d8-5ce6-42ed-a5d0-b4545614d314_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/4cb31aa2-a832-4b7f-a21e-d3ff42a6d6bd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/4cb31aa2-a832-4b7f-a21e-d3ff42a6d6bd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/4cb31aa2-a832-4b7f-a21e-d3ff42a6d6bd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/9c8f8544-4438-407f-847d-f9ee1bd25287_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/9c8f8544-4438-407f-847d-f9ee1bd25287_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/9c8f8544-4438-407f-847d-f9ee1bd25287_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/3d797f0e-4682-4c7f-bc9b-708b61143651_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/3d797f0e-4682-4c7f-bc9b-708b61143651_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/3d797f0e-4682-4c7f-bc9b-708b61143651_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/0037ecf3-c264-4dcf-aa00-babb49030b72_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/0037ecf3-c264-4dcf-aa00-babb49030b72_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5026993/0037ecf3-c264-4dcf-aa00-babb49030b72_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.15246971888238,
+      "latitude": 53.4058168239783
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 24,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "2b8221f7-9cbd-4c83-9da0-a4d99eb39e3b",
+        "Filename": "https://www.youtube.com/embed/jCiYimn1MQs&t=4s",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "76d8c006-039f-4341-9d5d-ab06c42d16d3",
+        "Filename": "https://my.matterport.com/show/?m=Djw9gsCvPiD",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 9680,
+    "Name": "Owen Reilly ",
+    "DisplayPhone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "owen-reilly-property-consultants",
+    "SeoName": "owen-reilly-property-consultants",
+    "Address": "3 Forbes Street, Grand Canal Dock, Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/8/6/9680/logo.jpg",
+    "SalesLicense": "002370",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "clongriffin/1276",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/31-belltree-avenue-clongriffin-dublin-13/5026993",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 265138,
+    "Name": "Owen Reilly  Sales ",
+    "Phone": "01 677 7100",
+    "Email": "sales@owenreilly.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/8/3/1/265138/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 9680,
+    "MYH_LocalityID": 1276,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1454,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Garden",
+      "Patio",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Garden,Patio,Alarm",
+    "MYH_MaxPrice": 600000,
+    "MYH_MinBeds": 4,
+    "MYH_MinEnergyRating": 130,
+    "MYH_MinPrice": 600000,
+    "MYH_MinSize": 140,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5026993,
+    "MYH_PropertyTypeID": 45
+  }
+}

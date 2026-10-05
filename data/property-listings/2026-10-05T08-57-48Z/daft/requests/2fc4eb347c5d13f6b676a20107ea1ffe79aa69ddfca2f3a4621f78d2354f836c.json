@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-adelaide-square-whitefriar-street-dublin-2-dublin-8/6684192",
+  "fetchedAt": "2026-10-05T09:44:34.229Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-adelaide-square-whitefriar-street-dublin-2-dublin-8/6684192",
+  "kind": "listing",
+  "responseSha256": "5f48528bb67844e22bc429bc2c4f0f2258552ecd5fd20f2061428354a60f55cf",
+  "files": [
+    {
+      "path": "daft/01869-2fc4eb347c5d13f6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ef96babea05104865643068bb729189e88038e6c38352137609a3f87e6526a60",
+      "bytes": 34465
+    },
+    {
+      "path": "daft/01869-2fc4eb347c5d13f6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "789d40ceec68a05f62f3ee64790fe4cbd49c0fffa56feb22e16c7932062a360a",
+      "bytes": 8031
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=182",
+  "fetchedAt": "2026-10-05T11:48:21.003Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=182",
+  "kind": "search",
+  "responseSha256": "281ab8de39b06ed9333133232f6be1dcfbd7f72205a09a9b27771b00fe95dcf2",
+  "files": [
+    {
+      "path": "myhome/04278-f567328e8da27a4d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=182\"].SearchResults",
+      "sha256": "704d49e26026b0fa6bde93e3d25b862f142466326bebce07bcd20a75e3f8a65e",
+      "bytes": 93690
+    },
+    {
+      "path": "myhome/04278-f567328e8da27a4d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=182\"] (paging fields)",
+      "sha256": "4e21077f859ff1cef86ad4e3ea4e07e5f2999b9fe7390e538e36e9feee96020f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-stanley-villas-mountain-view-road-killiney-co-dublin/5028116",
+    "https://www.myhome.ie/residential/brochure/apartment-39-amiens-square-with-parking-space-option-ifsc-dublin-1/5028104",
+    "https://www.myhome.ie/residential/brochure/71-churchtown-road-upper-churchtown-dublin-14/5028115",
+    "https://www.myhome.ie/residential/brochure/50-st-ignatius-road-phibsborough-dublin-7/5028114",
+    "https://www.myhome.ie/residential/brochure/20-sycamore-road-mount-merrion-co-dublin/4988258",
+    "https://www.myhome.ie/residential/brochure/aghnagore-clondra-longford/5028112",
+    "https://www.myhome.ie/residential/brochure/summerseat-green-summerseat-clonee-county-meath/5028110",
+    "https://www.myhome.ie/residential/brochure/12-stratton-drive-adamstown-lucan-dublin/5022984",
+    "https://www.myhome.ie/residential/brochure/26-croydon-park-avenue-marino-dublin-3/5028109",
+    "https://www.myhome.ie/residential/brochure/addergoole-corrandulla-galway/5028105",
+    "https://www.myhome.ie/residential/brochure/39-drumalee-road-off-aughrim-street-stoneybatter-dublin-7/5028107",
+    "https://www.myhome.ie/residential/brochure/65-pic-du-jer-park-ballinlough-cork/5027712",
+    "https://www.myhome.ie/residential/brochure/12-spa-terrace-mallow-co-cork/5028103",
+    "https://www.myhome.ie/residential/brochure/lissard-burnfort-co-cork/5028100",
+    "https://www.myhome.ie/residential/brochure/dereendaragh-lettermore-galway/5028094",
+    "https://www.myhome.ie/residential/brochure/7-cedarhurst-road-phoenix-park-racecourse-dublin-15/5028097",
+    "https://www.myhome.ie/residential/brochure/5-saint-marys-court-saint-marys-road-arklow-co-wicklow/5028096",
+    "https://www.myhome.ie/residential/brochure/40-morgan-street-waterford-city-waterford/5028090",
+    "https://www.myhome.ie/residential/brochure/killower-belclare-galway/5028093",
+    "https://www.myhome.ie/residential/brochure/28-the-elms-mallow-co-cork/5028092"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=183",
+  "paginationLimited": false
+}

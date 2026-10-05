@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-2-16-grove-park-rathmines-dublin-6/6684736",
+  "fetchedAt": "2026-10-05T09:40:44.355Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-2-16-grove-park-rathmines-dublin-6/6684736",
+  "kind": "listing",
+  "responseSha256": "b3429675ac75ece46d171122cde27f31846852aa552b12918cf54a1f1d23f80f",
+  "files": [
+    {
+      "path": "daft/01716-93008c86c08b67a7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "47f311467973051d893735d97e0032c1dd1e156b33c2930506ca17ef5ccb33d3",
+      "bytes": 19943
+    },
+    {
+      "path": "daft/01716-93008c86c08b67a7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "35e9551c01f8726cee9ea322390f5f9d86c6ae3754df060fcd73feea2df2e868",
+      "bytes": 8062
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

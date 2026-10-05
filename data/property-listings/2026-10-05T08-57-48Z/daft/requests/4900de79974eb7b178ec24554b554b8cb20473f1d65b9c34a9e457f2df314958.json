@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/crookstown-upper-ballitore-athy-crookstown-co-kildare/6683272",
+  "fetchedAt": "2026-10-05T09:17:35.066Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/crookstown-upper-ballitore-athy-crookstown-co-kildare/6683272",
+  "kind": "listing",
+  "responseSha256": "3cc3fca8ef9041ac582c76d7ef5b1b53c2f7fe8ed35756d3e5ab672067787fd3",
+  "files": [
+    {
+      "path": "daft/00791-4900de79974eb7b1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4e65bee0d5c6d498bb02b130de85784cc7c30b4066862bc0f7ca7b24c71f93fc",
+      "bytes": 23491
+    },
+    {
+      "path": "daft/00791-4900de79974eb7b1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1948b34c4f8d1ddacb97fe58a04349c971fc94a5793070b0aa539b5cc691ac3f",
+      "bytes": 8182
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=123",
+  "fetchedAt": "2026-10-05T11:17:36.334Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=123",
+  "kind": "search",
+  "responseSha256": "1f1213b9298cbf0c3a573ab956e756a4408188c0d7e3f97209532a94f79c9eae",
+  "files": [
+    {
+      "path": "myhome/03051-572b487b0ec8e45e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=123\"].SearchResults",
+      "sha256": "a54807121abb3a9d2abcbb25245fa53315a9d78fc693c1d8ed7216af0cf58b1b",
+      "bytes": 104485
+    },
+    {
+      "path": "myhome/03051-572b487b0ec8e45e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=123\"] (paging fields)",
+      "sha256": "4cc301ff4ec3c05dc8d901cd37ebc7d4b4aaa2185d4118b0221678982a746eb0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-hawthorn-terraced-clover-lawn-summerfields-kilbarry-waterford-city-waterford/5029490",
+    "https://www.myhome.ie/residential/brochure/grangehill-farm-kilmallock-county-limerick/5029717",
+    "https://www.myhome.ie/residential/brochure/13-oaklands-drive-ballsbridge-dublin-4/5025144",
+    "https://www.myhome.ie/residential/brochure/corracarrow-ballyjamesduff-county-cavan/5029715",
+    "https://www.myhome.ie/residential/brochure/38-cassian-court-south-royal-canal-park-dublin-15/5029714",
+    "https://www.myhome.ie/residential/brochure/48-manorfields-road-clonee-dublin-15/5029713",
+    "https://www.myhome.ie/residential/brochure/15-ardrew-fields-athy-kildare/5029711",
+    "https://www.myhome.ie/residential/brochure/apartment-9-the-croft-parc-na-silla-avenue-loughlinstown-dublin-18/5028177",
+    "https://www.myhome.ie/residential/brochure/41-ard-na-greine-tycor-waterford-city-waterford/5018848",
+    "https://www.myhome.ie/residential/brochure/broghill-road-charleville-co-cork/5006020",
+    "https://www.myhome.ie/residential/brochure/25-hazelbury-park-clonee-dublin-15/5029699",
+    "https://www.myhome.ie/residential/brochure/ballina-broadford-co-kildare/5029709",
+    "https://www.myhome.ie/residential/brochure/chapel-street-mullinahone-tipperary/5029707",
+    "https://www.myhome.ie/residential/brochure/56-season-meadows-newtownmountkennedy-wicklow/5029622",
+    "https://www.myhome.ie/residential/brochure/fleenstown-the-ward-county-dublin/5029692",
+    "https://www.myhome.ie/residential/brochure/1-virginia-hall-tallaght-dublin-24/5029704",
+    "https://www.myhome.ie/residential/brochure/lissadelle-87-upper-newcastle-galway-county-galway/5029703",
+    "https://www.myhome.ie/residential/brochure/main-street-kilfenora-kilfenora-clare/5029689",
+    "https://www.myhome.ie/residential/brochure/48-the-orchard-castletroy-limerick/5029701",
+    "https://www.myhome.ie/residential/brochure/35-priory-way-whitehall-road-terenure-dublin-12/5029700"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=124",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=92",
+  "fetchedAt": "2026-10-05T11:01:46.533Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=92",
+  "kind": "search",
+  "responseSha256": "236f31ce8418148180e68127258aa1bec74976cdc994078856c56d19cdbd8ae9",
+  "files": [
+    {
+      "path": "myhome/02438-781e264031ccb91c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=92\"].SearchResults",
+      "sha256": "7ccb15534e7ab7e4a1ea5e8bc24ad17046b31d83d4db0275453537bd44e7400e",
+      "bytes": 119415
+    },
+    {
+      "path": "myhome/02438-781e264031ccb91c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=92\"] (paging fields)",
+      "sha256": "70e837df8c4400087d64afc75247a3a2846398f068535f464440f4b21c2fa773",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/71-old-county-glen-crumlin-dublin-12/4967047",
+    "https://www.myhome.ie/residential/brochure/3-waterside-avenue-malahide-county-dublin/5030533",
+    "https://www.myhome.ie/residential/brochure/36-glenmalure-square-milltown-dublin-6/4959370",
+    "https://www.myhome.ie/residential/brochure/6-humes-lane-west-end-mallow-co-cork/5030537",
+    "https://www.myhome.ie/residential/brochure/apartment-1-the-thomas-house-86-87-thomas-street-south-city-centre-dublin-8/5030467",
+    "https://www.myhome.ie/residential/brochure/82-bloomfield-park-donnybrook-dublin-4/5030536",
+    "https://www.myhome.ie/residential/brochure/derrycarrow-camross-co-laois/5030535",
+    "https://www.myhome.ie/residential/brochure/11-knockaire-knocklyon-dublin-16/5030531",
+    "https://www.myhome.ie/residential/brochure/15-old-bawn-drive-old-bawn-dublin-24/5030534",
+    "https://www.myhome.ie/residential/brochure/ardbree-rolestown-swords-county-dublin/5025627",
+    "https://www.myhome.ie/residential/brochure/apartment-6-cedar-place-ridgewood-swords-county-dublin/5017103",
+    "https://www.myhome.ie/residential/brochure/104-millview-lawns-malahide-county-dublin/5021343",
+    "https://www.myhome.ie/residential/brochure/39-woodbury-gorey-wexford/5030529",
+    "https://www.myhome.ie/residential/brochure/14-blakes-glen-curracloe-wexford/5030524",
+    "https://www.myhome.ie/residential/brochure/33-ledwidge-hall-slane-co-meath/5030528",
+    "https://www.myhome.ie/residential/brochure/2-forrest-close-rowley-s-lock-navan-meath/5030527",
+    "https://www.myhome.ie/residential/brochure/26-silverwood-road-rathfarnham-dublin-14/5030526",
+    "https://www.myhome.ie/residential/brochure/2-inishowen-pilot-view-harbour-road-dalkey-co-dublin/5030525",
+    "https://www.myhome.ie/residential/brochure/dairyland-cottage-kilkea-castledermot-co-kildare/5030523",
+    "https://www.myhome.ie/residential/brochure/43-crestwood-coolough-road-galway-city-suburbs-galway/5030522"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=93",
+  "paginationLimited": false
+}

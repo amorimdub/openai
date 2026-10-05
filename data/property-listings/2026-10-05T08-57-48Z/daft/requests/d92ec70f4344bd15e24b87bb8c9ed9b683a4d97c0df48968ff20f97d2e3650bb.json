@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/r147-kells-co-meath/6686999",
+  "fetchedAt": "2026-10-05T09:25:11.660Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/r147-kells-co-meath/6686999",
+  "kind": "listing",
+  "responseSha256": "6847cb1f519a1894c0b0a2bf117750a7bd28482b12c5d9dbcf853daf98a688b2",
+  "files": [
+    {
+      "path": "daft/01095-d92ec70f4344bd15-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "aae1885cf286941fd4dc327a97ea97b2a010805f4026ab5001f9e6ed4aeef8ca",
+      "bytes": 27672
+    },
+    {
+      "path": "daft/01095-d92ec70f4344bd15-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8d322fabbba105e2ab84b6be0e1d3306556a78068db9f63a8171f87675952a87",
+      "bytes": 8059
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/caledon-road-dublin-3-east-wall-co-dublin/6564367",
+  "fetchedAt": "2026-10-05T09:20:44.269Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/caledon-road-dublin-3-east-wall-co-dublin/6564367",
+  "kind": "listing",
+  "responseSha256": "db818e845f96fe22ef980553285d8f87d2e0e31bc31073c6bb6235696140dd9a",
+  "files": [
+    {
+      "path": "daft/00917-380c246c9013dde7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1c8af357f79fde307f3dc6badcf5f93b8d58af9a52322ffbbdfd9a50d6820ce4",
+      "bytes": 24893
+    },
+    {
+      "path": "daft/00917-380c246c9013dde7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "21c196019568da86d5e03d57711e33bec00550ccb5c805088ae831e4399a9d7e",
+      "bytes": 8035
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

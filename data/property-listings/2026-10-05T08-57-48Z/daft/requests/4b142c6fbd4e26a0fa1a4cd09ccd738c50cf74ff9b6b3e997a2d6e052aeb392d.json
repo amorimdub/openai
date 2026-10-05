@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/newtown-gardens-newtownpark-avenue-blackrock-co-dublin/5899540",
+  "fetchedAt": "2026-10-05T09:03:20.488Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/newtown-gardens-newtownpark-avenue-blackrock-co-dublin/5899540",
+  "kind": "listing",
+  "responseSha256": "68d25f5ac1cdf547372ba2b0867876e41a8075d43dc98efaef555a2226342081",
+  "files": [
+    {
+      "path": "daft/00222-4b142c6fbd4e26a0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c84dcd015cb7de4fcc14697b56ae8e3b6c99dedbd5fd26565f90b9faa533d176",
+      "bytes": 115965
+    },
+    {
+      "path": "daft/00222-4b142c6fbd4e26a0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8f5b537a072a34c795d93a77f1e3320a7dba13c6015f5064662e1f5bf577554f",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

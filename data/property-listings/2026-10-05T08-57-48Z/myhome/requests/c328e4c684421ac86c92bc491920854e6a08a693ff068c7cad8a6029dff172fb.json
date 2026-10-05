@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=376",
+  "fetchedAt": "2026-10-05T13:28:18.234Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=376",
+  "kind": "search",
+  "responseSha256": "80e4903c0ff6a6c1ad1b58e5573286b832d0d5b3ed0324c5b6dfdf4008d1d7bc",
+  "files": [
+    {
+      "path": "myhome/08263-c328e4c684421ac8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=376\"].SearchResults",
+      "sha256": "b1e2adff8432ad3bd5da2f0f6e0ab0cee49fde2cec96c87f28d24aed3f0127f6",
+      "bytes": 113122
+    },
+    {
+      "path": "myhome/08263-c328e4c684421ac8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=376\"] (paging fields)",
+      "sha256": "971f2f2c18cb592f2d096eec3af63f299b070cb0760471920666af696ec06f4d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ballivor-4-westlodge-athlone-westmeath/5018215",
+    "https://www.myhome.ie/residential/brochure/142-mount-garrett-park-mount-garrett-dublin-15-d15th94-tyrrelstown-dublin-15/5017093",
+    "https://www.myhome.ie/residential/brochure/an-cruc-n-an-gort-mor-rosmuck-co-galway/5018212",
+    "https://www.myhome.ie/residential/brochure/gortmore-feenagh-limerick/5018208",
+    "https://www.myhome.ie/residential/brochure/house-apartment-and-site-86-curragh-castlebar-co-mayo/5018209",
+    "https://www.myhome.ie/residential/brochure/4-blackglen-court-sandyford-dublin-18/4999511",
+    "https://www.myhome.ie/residential/brochure/7-ardfield-view-grange-douglas-cork-city-co-cork/5018045",
+    "https://www.myhome.ie/residential/brochure/64-westbury-woods-enniscorthy-wexford/5017892",
+    "https://www.myhome.ie/residential/brochure/kill-dunfanaghy-co-donegal/5017894",
+    "https://www.myhome.ie/residential/brochure/42-whitethorn-grove-letterkenny-donegal/5017890",
+    "https://www.myhome.ie/residential/brochure/gurteenlomane-skibbereen-west-cork/5016792",
+    "https://www.myhome.ie/residential/brochure/flat-1-2-the-mall-knock-county-mayo/5017887",
+    "https://www.myhome.ie/residential/brochure/balmoral-house-castlebellingham-louth/5009696",
+    "https://www.myhome.ie/residential/brochure/brackary-beg-manorhamilton-leitrim/5017865",
+    "https://www.myhome.ie/residential/brochure/antfield-aughamore-carrick-on-shannon-leitrim/5017542",
+    "https://www.myhome.ie/residential/brochure/kylemore-village-renvyle-galway/5017836",
+    "https://www.myhome.ie/residential/brochure/27-rd-mhuire-new-ballinasloe-co-galway/5017850",
+    "https://www.myhome.ie/residential/brochure/apt-100-corn-mill-distillery-road-drumcondra-dublin-3/5015286",
+    "https://www.myhome.ie/residential/brochure/st-judes-5-willow-close-douglas-cork/5014831",
+    "https://www.myhome.ie/residential/brochure/91-abbeygrove-navan-co-meath/5017833"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=377",
+  "paginationLimited": false
+}

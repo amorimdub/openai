@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=157",
+  "fetchedAt": "2026-10-05T11:35:23.197Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=157",
+  "kind": "search",
+  "responseSha256": "e7ca4700cb543e285c4216c1e41abdf7b469fa85eaf8280c253d0c3e52a996df",
+  "files": [
+    {
+      "path": "myhome/03761-f3fbeaf6bb6626b4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=157\"].SearchResults",
+      "sha256": "6a3f17e1ea80a8fa27f320f4fcaf2e9f34aa44ed83ee51f9c43b68c4b8fd2d58",
+      "bytes": 109198
+    },
+    {
+      "path": "myhome/03761-f3fbeaf6bb6626b4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=157\"] (paging fields)",
+      "sha256": "1a5d8d68115ac88f24ca2d734f8b1642c05ad2389dcb99ef4d0f48952f133fca",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-lissadel-park-malahide-co-dublin-malahide-county-dublin/5028680",
+    "https://www.myhome.ie/residential/brochure/9-firgrove-lawn-bishopstown-cork/5019811",
+    "https://www.myhome.ie/residential/brochure/6-cushla-downs-monksland-athlone-co-roscommon/5028794",
+    "https://www.myhome.ie/residential/brochure/50-kennedy-park-wexford-town-wexford/5028793",
+    "https://www.myhome.ie/residential/brochure/the-pearl-hawks-bay-rathnew-wicklow/5028635",
+    "https://www.myhome.ie/residential/brochure/the-orca-hawks-bay-rathnew-wicklow/5028634",
+    "https://www.myhome.ie/residential/brochure/the-marlin-hawks-bay-rathnew-wicklow/5028633",
+    "https://www.myhome.ie/residential/brochure/the-reef-hawks-bay-rathnew-wicklow/5028630",
+    "https://www.myhome.ie/residential/brochure/the-coral-hawksbay-rathnew-wicklow/5028625",
+    "https://www.myhome.ie/residential/brochure/glenmahon-john-o-connell-street-cobh-cork/5028791",
+    "https://www.myhome.ie/residential/brochure/the-curlew-hawks-bay-rathnew-wicklow/5028624",
+    "https://www.myhome.ie/residential/brochure/the-manta-hawks-bay-rathnew-wicklow/5028623",
+    "https://www.myhome.ie/residential/brochure/the-tern-hawks-bay-rathnew-wicklow/5028620",
+    "https://www.myhome.ie/residential/brochure/the-bluefin-hawks-bay-rathnew-wicklow/5028612",
+    "https://www.myhome.ie/residential/brochure/the-turtle-hawks-bay-rathnew-wicklow/5028605",
+    "https://www.myhome.ie/residential/brochure/the-otter-hawks-bay-rathnew-wicklow/5028594",
+    "https://www.myhome.ie/residential/brochure/bantrach-ballinahown-inverin-co-galway/5028790",
+    "https://www.myhome.ie/residential/brochure/11-carlinn-drive-dundalk-louth/5028763",
+    "https://www.myhome.ie/residential/brochure/56-capwell-road-turners-cross-cork-co-cork/5028787",
+    "https://www.myhome.ie/residential/brochure/39-beaufort-downs-rathfarnham-dublin-14/5028784"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=158",
+  "paginationLimited": false
+}

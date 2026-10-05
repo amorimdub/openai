@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=140",
+  "fetchedAt": "2026-10-05T11:26:28.172Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=140",
+  "kind": "search",
+  "responseSha256": "4bd09d0f7b20d0e7a77faf43fc157714b96bbedd77c1572d52a685ca353a8f99",
+  "files": [
+    {
+      "path": "myhome/03405-5ab323a26bad4481-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=140\"].SearchResults",
+      "sha256": "43d80b411e3dc6defa5c0e887cac09d6ac661f3ae6f0f3ce8ec3f37615b0358b",
+      "bytes": 117048
+    },
+    {
+      "path": "myhome/03405-5ab323a26bad4481-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=140\"] (paging fields)",
+      "sha256": "ff3c7d00e0909a371e9053c945ca0d0415f6364e1af6dcc3aeeffc1bf2c98be6",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-droim-na-cille-loughrea-co-galway/5029209",
+    "https://www.myhome.ie/residential/brochure/cartron-kinvara-county-galway/5029208",
+    "https://www.myhome.ie/residential/brochure/67-cosby-avenue-portlaoise-laois/5029207",
+    "https://www.myhome.ie/residential/brochure/3-pleasant-drive-mount-pleasant-waterford-city-waterford/5029206",
+    "https://www.myhome.ie/residential/brochure/6-clanmoyle-road-donnycarney-dublin-5/4972069",
+    "https://www.myhome.ie/residential/brochure/17-lisheen-woods-ovens-cork/5029204",
+    "https://www.myhome.ie/residential/brochure/7-belview-court-greenhill-road-wicklow-town-wicklow/5029203",
+    "https://www.myhome.ie/residential/brochure/17-hillside-park-rathfarnham-dublin-16/5029205",
+    "https://www.myhome.ie/residential/brochure/33-anne-devlin-avenue-rathfarnham-dublin-14/5007760",
+    "https://www.myhome.ie/residential/brochure/5-dun-oir-avenue-kilternan-dublin-18/5029199",
+    "https://www.myhome.ie/residential/brochure/aughamore-hillstreet-carrick-on-shannon-roscommon/5029202",
+    "https://www.myhome.ie/residential/brochure/55-blacklion-manor-greystones-co-wicklow/5029201",
+    "https://www.myhome.ie/residential/brochure/109-parkview-verdemont-dublin-15-co-dublin/5029200",
+    "https://www.myhome.ie/residential/brochure/6-south-avenue-carrig-na-curra-carrigaline-cork/5029195",
+    "https://www.myhome.ie/residential/brochure/35-racecourse-lawn-tralee-co-kerry/5029198",
+    "https://www.myhome.ie/residential/brochure/46-cloon-lara-mullingar-co-westmeath/5029197",
+    "https://www.myhome.ie/residential/brochure/15-grange-abbey-grove-baldoyle-dublin-13/5028730",
+    "https://www.myhome.ie/residential/brochure/type-x1-bellingham-manor-dundalk-road-castlebellingham-louth/5029194",
+    "https://www.myhome.ie/residential/brochure/srah-foxford-co-mayo/5029193",
+    "https://www.myhome.ie/residential/brochure/type-y1-bellingham-manor-dundalk-road-castlebellingham-louth/5029191"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=141",
+  "paginationLimited": false
+}

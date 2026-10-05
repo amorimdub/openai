@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/westmanstown-lucan-co-dublin/6680851",
+  "fetchedAt": "2026-10-05T09:17:32.064Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/westmanstown-lucan-co-dublin/6680851",
+  "kind": "listing",
+  "responseSha256": "1643bc40a1b0b74edd26d0fc28fec98b6a08298103cc158fd4ed21fddfc51953",
+  "files": [
+    {
+      "path": "daft/00789-36995c9533b7953c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ac9400656fdd2fa837ba3eddd3c916de79084e8a4adb986496af3c78019ce93b",
+      "bytes": 18936
+    },
+    {
+      "path": "daft/00789-36995c9533b7953c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d1eb1c4429468d429f8ce009e7f8e34277a3f1fe5c70cf620dc29a6546fbf250",
+      "bytes": 8129
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

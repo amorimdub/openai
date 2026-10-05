@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mcdara-road-shantalla-shantalla-co-galway/6685678",
+  "fetchedAt": "2026-10-05T09:34:34.938Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mcdara-road-shantalla-shantalla-co-galway/6685678",
+  "kind": "listing",
+  "responseSha256": "7b7c2b4a003bb9be350ea6ed1a18e40bbf9fcf7abcbc87eab693121728e75e22",
+  "files": [
+    {
+      "path": "daft/01470-5f70f8e0c163caa0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "64101ef5ddb0f35d7945e659395cfe9bef6b87bb6ae237bbf146d72349adca2e",
+      "bytes": 26834
+    },
+    {
+      "path": "daft/01470-5f70f8e0c163caa0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f9b85c596ba1c50d1d7e5d382c8dbdadcd7918daab479d6bb03f04b0653f6ede",
+      "bytes": 7993
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

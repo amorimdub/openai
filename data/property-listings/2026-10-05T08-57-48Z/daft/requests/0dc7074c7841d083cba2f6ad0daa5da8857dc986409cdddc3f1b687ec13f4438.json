@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/12-sarsfield-drive-ballinasloe-co-galway/6671641",
+  "fetchedAt": "2026-10-05T09:28:40.507Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/12-sarsfield-drive-ballinasloe-co-galway/6671641",
+  "kind": "listing",
+  "responseSha256": "fbbf1b7287dd2e8d6d4465e7620b7142cb993b0d542816090a638c1b80385ba4",
+  "files": [
+    {
+      "path": "daft/01234-0dc7074c7841d083-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "10d7bffdf79ef9a8305024c2f629609a76d232fd65036ad2f4ae42f6b182c893",
+      "bytes": 102425
+    },
+    {
+      "path": "daft/01234-0dc7074c7841d083-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "10be4c13e3805be4fef7d8eef9675259a000a22c0a78333c02abda2d1e3f5cce",
+      "bytes": 8034
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

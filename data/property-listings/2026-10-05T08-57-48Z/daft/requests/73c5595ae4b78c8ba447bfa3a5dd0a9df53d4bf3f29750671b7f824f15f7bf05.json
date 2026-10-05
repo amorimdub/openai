@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/28-belmayne-avenue-belmayne-dublin-13/6675036",
+  "fetchedAt": "2026-10-05T09:24:14.564Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/28-belmayne-avenue-belmayne-dublin-13/6675036",
+  "kind": "listing",
+  "responseSha256": "7cc0c1a9c4f6288dd90c3f31782096099d5792482020004492be5451d8e88ded",
+  "files": [
+    {
+      "path": "daft/01057-73c5595ae4b78c8b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "123f88de66df91282fa729ced0e32b712874f11ddcb5cd507ca98295e2e8c173",
+      "bytes": 78009
+    },
+    {
+      "path": "daft/01057-73c5595ae4b78c8b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "521e1617cfbc2819f8645ad95bef60f6e0b90158b848e66e7f57d2b83f0a403e",
+      "bytes": 8071
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

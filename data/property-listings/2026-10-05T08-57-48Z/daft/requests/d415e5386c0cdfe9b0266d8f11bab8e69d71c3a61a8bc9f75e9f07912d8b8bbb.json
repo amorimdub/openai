@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/opera-lane-apartments-cork-city-centre-co-cork/6639752",
+  "fetchedAt": "2026-10-05T09:12:36.147Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/opera-lane-apartments-cork-city-centre-co-cork/6639752",
+  "kind": "listing",
+  "responseSha256": "68db705a13baf002e006ed5117f10ba070ecda60743ef53d56a143afbe655766",
+  "files": [
+    {
+      "path": "daft/00592-d415e5386c0cdfe9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e1ab4eba1f33849975a0b98e5b18f9c5d69173cbade0fb63e3d7da4edf16d5b",
+      "bytes": 55675
+    },
+    {
+      "path": "daft/00592-d415e5386c0cdfe9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d8694a9be196f9bb86f890a7af08d92634149a984a9ea3c786785ade485f3c70",
+      "bytes": 8102
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

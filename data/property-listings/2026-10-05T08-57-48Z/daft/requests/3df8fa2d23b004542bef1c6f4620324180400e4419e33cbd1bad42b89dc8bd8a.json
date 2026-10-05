@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=34",
+  "fetchedAt": "2026-10-05T09:36:47.078Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=34",
+  "kind": "search",
+  "responseSha256": "523edbc85e309a506c724a71590b973943d70672de27e8935523a01bfaa28191",
+  "files": [
+    {
+      "path": "daft/01558-3df8fa2d23b00454-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "d8b89fccc629588b164feb44143da65e2718795e2167f3a2437c6a92e89957ee",
+      "bytes": 304925
+    },
+    {
+      "path": "daft/01558-3df8fa2d23b00454-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01558-3df8fa2d23b00454-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "e630a77bf3dc11e8cf611cbf87d3cd1ca0d22219e5472afb89001a3039544557",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/6-birchs-lane-blackrock-cove-blackrock-co-louth/6666029",
+    "https://www.daft.ie/for-sale/21-shanowen-road-dublin-9-santry-dublin-9/6665828",
+    "https://www.daft.ie/for-sale/hearst-house-clondoogan-summerhill-summerhill-co-meath/6665953",
+    "https://www.daft.ie/for-sale/39-brennanstown-square-cabinteely-dublin-18/6653144",
+    "https://www.daft.ie/for-sale/8-fernleigh-court-carpenterstown-dublin-15/6665933",
+    "https://www.daft.ie/for-sale/the-orchard-killarney-lane-co-wicklow/6665504",
+    "https://www.daft.ie/for-sale/driney-loughglynn-co-roscommon/6618702",
+    "https://www.daft.ie/for-sale/holywell-upper-ballyhaunis-co-mayo/6626490",
+    "https://www.daft.ie/for-sale/38-huntstown-rise-mulhuddart-huntstown-dublin-15/6476180",
+    "https://www.daft.ie/for-sale/site-1-rockmount-knockboy-heights-knockboy-ballygunner-knockboy-co-waterford/6323930",
+    "https://www.daft.ie/for-sale/26-saint-doolaghs-square-balgriffin-dublin-13/6466589",
+    "https://www.daft.ie/for-sale/28-parkroe-heights-ardnacrusha-parteen-co-clare/6663838",
+    "https://www.daft.ie/for-sale/apartment-no-9-blackrock-house-blackrock-co-cork/6601242",
+    "https://www.daft.ie/for-sale/belmont-road-castleconnell-limerick-co-limerick/6665735",
+    "https://www.daft.ie/for-sale/76-glendale-lawn-old-singland-road-limerick-co-limerick/6665734",
+    "https://www.daft.ie/for-sale/killeen-mountmellick-emo-co-laois/6665535",
+    "https://www.daft.ie/for-sale/apartment-63-cremorne-greenmount-road-terenure-dublin-6/6650945",
+    "https://www.daft.ie/for-sale/11-shackleton-rise-lucan-co-dublin/6589400",
+    "https://www.daft.ie/for-sale/hawthorn-lodge-pallas-lower-gorey-co-wexford/6663953",
+    "https://www.daft.ie/for-sale/6-hunters-wood-newmarket-newmarket-co-kilkenny/6630594"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=35",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-45-broadmeadow-castle-ashbourne-co-meath/6683124",
+  "fetchedAt": "2026-10-05T09:51:01.900Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-45-broadmeadow-castle-ashbourne-co-meath/6683124",
+  "kind": "listing",
+  "responseSha256": "cc581a86b7779b17c29d2e06916a204fea42d69d43ef0e9884209ff7da5b3279",
+  "files": [
+    {
+      "path": "daft/02127-0d61ff31e43fa69c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "65e3b50f369bc6fb5cdacbd99464047ee17279f59c68a09f11fc1261b37b61fb",
+      "bytes": 66176
+    },
+    {
+      "path": "daft/02127-0d61ff31e43fa69c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "232c35e591130f74ee2a213c9311c6d2a8ba911dc11acbb6e937416170b47d61",
+      "bytes": 8053
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

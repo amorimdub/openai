@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/6-castlegrange-green-clondalkin-dublin-22/6645465",
+  "fetchedAt": "2026-10-05T09:50:40.874Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/6-castlegrange-green-clondalkin-dublin-22/6645465",
+  "kind": "listing",
+  "responseSha256": "89bd20f7571ee6c6e2bedbc364a753d75c349c60a622606a24d6efcd9fa0f914",
+  "files": [
+    {
+      "path": "daft/02113-afbe89935792ed24-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3dba311cdf276afb50e14cff13c50b07c942c1a4cd134bc448befa019c8069f2",
+      "bytes": 76563
+    },
+    {
+      "path": "daft/02113-afbe89935792ed24-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d7859e2b699f1eb9c4a92c5df9dd5a724ac09ab4671d04c7496e63662d59c719",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

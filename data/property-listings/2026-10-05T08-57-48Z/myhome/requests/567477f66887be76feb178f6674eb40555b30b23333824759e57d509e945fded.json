@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=417",
+  "fetchedAt": "2026-10-05T13:49:27.431Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=417",
+  "kind": "search",
+  "responseSha256": "9c8b6c142d9ad7bd72202f07eeb946dd40c77c2eb98092469926210a6e806048",
+  "files": [
+    {
+      "path": "myhome/09107-567477f66887be76-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=417\"].SearchResults",
+      "sha256": "e9bbfad8480fa6f4318d6653ceba4b46b1467ce4ff021286e858710aa9d79d7f",
+      "bytes": 118856
+    },
+    {
+      "path": "myhome/09107-567477f66887be76-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=417\"] (paging fields)",
+      "sha256": "89041bb6ac0ee3b37b4c615774d978e382ac09876c3a1de334dfe0bdbfa82444",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-bramble-glade-ashford-co-wicklow/5003073",
+    "https://www.myhome.ie/residential/brochure/3-bed-house-ard-valley-cabinteely-dublin-18/4971560",
+    "https://www.myhome.ie/residential/brochure/14-mark-s-alley-west-the-coombe-dublin-8/5003778",
+    "https://www.myhome.ie/residential/brochure/27-the-lawns-bellingsfield-naas-kildare/5011890",
+    "https://www.myhome.ie/residential/brochure/46-mitchell-street-dungarvan-waterford/5011889",
+    "https://www.myhome.ie/residential/brochure/eastwood-and-4-bed-gate-lodge-on-c-1-26-acres-ballinteer-road-dundrum-dublin-16/5003108",
+    "https://www.myhome.ie/residential/brochure/wavecrest-cornagower-east-brittas-bay-co-wicklow/5011880",
+    "https://www.myhome.ie/residential/brochure/site-at-tully-strandhill-co-sligo/5011878",
+    "https://www.myhome.ie/residential/brochure/lilly-o-briens-public-house-apartments-castle-street-roscrea-tipperary/5011877",
+    "https://www.myhome.ie/residential/brochure/46-charleville-square-rathfarnham-dublin-14/4996464",
+    "https://www.myhome.ie/residential/brochure/64-mornington-towers-bettystown-meath/5011864",
+    "https://www.myhome.ie/residential/brochure/2-kenilworth-lane-east-rathgar-dublin-6/5011860",
+    "https://www.myhome.ie/residential/brochure/main-street-ballyvaughan-co-clare/5011857",
+    "https://www.myhome.ie/residential/brochure/266-merrion-road-ballsbridge-dublin-4/5011855",
+    "https://www.myhome.ie/residential/brochure/hillpark-clarinbridge-co-galway/5011844",
+    "https://www.myhome.ie/residential/brochure/55-rd-na-mara-blackrock-co-louth/5011823",
+    "https://www.myhome.ie/residential/brochure/45-blackcastle-demesne-navan-co-meath/5011822",
+    "https://www.myhome.ie/residential/brochure/8-port-na-habhainn-cappoquin-waterford/5011808",
+    "https://www.myhome.ie/residential/brochure/aghrafinigan-knockvicar-boyle-co-roscommon/5011813",
+    "https://www.myhome.ie/residential/brochure/poormansbridge-house-shanahoe-co-laois/5011797"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=418",
+  "paginationLimited": false
+}

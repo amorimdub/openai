@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/applewood-swords-co-dublin-swords-co-dublin/6668081",
+  "fetchedAt": "2026-10-05T09:10:22.472Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/applewood-swords-co-dublin-swords-co-dublin/6668081",
+  "kind": "listing",
+  "responseSha256": "0cd19ba7d44178c12e8c2bce660775921631414f68f5a5128164dcbcbee06495",
+  "files": [
+    {
+      "path": "daft/00503-bb278cc74b84a58a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0998e69c27424e57bf821d8b4c1242e1a0c837df148854287ca486294a4e5c48",
+      "bytes": 32535
+    },
+    {
+      "path": "daft/00503-bb278cc74b84a58a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

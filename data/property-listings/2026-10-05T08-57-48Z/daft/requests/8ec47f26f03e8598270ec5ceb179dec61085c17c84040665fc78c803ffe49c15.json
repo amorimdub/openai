@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/96-haddington-road-ballsbridge-dublin-4/6682026",
+  "fetchedAt": "2026-10-05T09:09:31.413Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/96-haddington-road-ballsbridge-dublin-4/6682026",
+  "kind": "listing",
+  "responseSha256": "aade2901719b28ed6fd94eaf2e900dd9814f06b9a5fd5cd2ed1a1eb0e5bc68cd",
+  "files": [
+    {
+      "path": "daft/00469-8ec47f26f03e8598-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8e391fa5e8cc739c9e3bf01cf6550182b567e363e6ec8ec8e4ea08701a8b7d28",
+      "bytes": 84577
+    },
+    {
+      "path": "daft/00469-8ec47f26f03e8598-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "39fd4631b76598f40ca6f17b0811890aaba4c9a647257f20eeb1b83934e56a21",
+      "bytes": 8127
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

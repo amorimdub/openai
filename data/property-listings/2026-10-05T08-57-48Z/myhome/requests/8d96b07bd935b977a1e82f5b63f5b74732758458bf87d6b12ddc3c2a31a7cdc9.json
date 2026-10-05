@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=31",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=31",
+  "fetchedAt": "2026-10-05T09:27:17.535Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "6838f3b17ef441bb01eccf2fa24428aafc43d6f54f6fc64e43c20cc8683c968a",
+  "files": [
+    {
+      "path": "myhome/01174-8d96b07bd935b977-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=31\"].SearchResults",
+      "sha256": "92f2cd6bac12a5d886c33fef1508210ba13c3f9911e913bb69e1397b2f3962b6",
+      "bytes": 70951
+    },
+    {
+      "path": "myhome/01174-8d96b07bd935b977-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=31\"] (paging fields)",
+      "sha256": "a0c8f123b9d2769d2acfd192413eaeba860fea0bd8d411c82792fa7f9db36f19",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/neptune-by-havitat-honeypark-dun-laoghaire-co-dublin/4463529",
+    "https://www.myhome.ie/rentals/brochure/test-property-12-leighlinbridge-carlow/4462228",
+    "https://www.myhome.ie/rentals/brochure/test-9-ballyfarnon-roscommon/4460682",
+    "https://www.myhome.ie/rentals/brochure/test-7-hackballscross-louth/4460679",
+    "https://www.myhome.ie/rentals/brochure/test-5-rosenallis-laois/4460677",
+    "https://www.myhome.ie/rentals/brochure/test-3-quigleys-point-donegal/4460672",
+    "https://www.myhome.ie/rentals/brochure/test-property-1-old-leighlin-carlow/4460670",
+    "https://www.myhome.ie/rentals/brochure/test-shercock-cavan/4459831",
+    "https://www.myhome.ie/rentals/brochure/hidden-acres-ballyfarnon-roscommon/4459828",
+    "https://www.myhome.ie/rentals/brochure/charlotte-apartments-honeypark-glenageary-road-upper-dun-laoghaire/4455386",
+    "https://www.myhome.ie/rentals/brochure/ashley-hall-st-edmunds-lucan-co-dublin/4448894",
+    "https://www.myhome.ie/rentals/brochure/east-arran-street-smithfield-dublin-7/4443334",
+    "https://www.myhome.ie/rentals/brochure/mount-argus-apartments-mount-argus-road-harolds-cross-dublin-6w/4443328",
+    "https://www.myhome.ie/rentals/brochure/unit-31-north-main-street-naas-kildare/4103869",
+    "https://www.myhome.ie/rentals/brochure/elmfield-by-havitat-ballyogan-road-leopardstown-dublin-18/4428576",
+    "https://www.myhome.ie/rentals/brochure/10-a-beechgrove-terrace-drogheda-louth/4406449",
+    "https://www.myhome.ie/rentals/brochure/for-lease-derryluskin-fethard-tipperary/4335638",
+    "https://www.myhome.ie/rentals/brochure/ground-floor-market-plaza-magdalene-street-drogheda-louth/4322999",
+    "https://www.myhome.ie/rentals/brochure/third-floor-market-plaza-magdalene-street-drogheda-louth/4319182",
+    "https://www.myhome.ie/rentals/brochure/test-ballyfarnon-roscommon/4459830"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=32",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/10-ardmore-grove-dublin-5-artane-dublin-5/6578452",
+  "fetchedAt": "2026-10-05T09:49:21.203Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/10-ardmore-grove-dublin-5-artane-dublin-5/6578452",
+  "kind": "listing",
+  "responseSha256": "df060e073c786106d513de52dc4e7028f67812452275b9d4f66e04fccd9566d8",
+  "files": [
+    {
+      "path": "daft/02060-e91236524816d73d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "afb63d4c7b391cd2d7f0d27025a81cdb5af5bfa03a630f7dbbc83ec269497a8a",
+      "bytes": 52328
+    },
+    {
+      "path": "daft/02060-e91236524816d73d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5d688250548203e4c2cf86a23076356870131dd93eedc6a56b6bed08ff64b1e6",
+      "bytes": 8043
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

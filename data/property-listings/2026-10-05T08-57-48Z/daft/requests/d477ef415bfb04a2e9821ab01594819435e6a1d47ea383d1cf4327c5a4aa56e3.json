@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/entwood-bailick-avenue-midleton-co-cork/6685230",
+  "fetchedAt": "2026-10-05T09:00:13.851Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/entwood-bailick-avenue-midleton-co-cork/6685230",
+  "kind": "listing",
+  "responseSha256": "b2707ca90bc7ffd623ad7cc0d664b350dcc2eb6f4f0121976bd170ff8d2fec2d",
+  "files": [
+    {
+      "path": "daft/00098-d477ef415bfb04a2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "499d2be6121e72651817335b4d060530196e94bfe666a8006508acc61fbaabc8",
+      "bytes": 79298
+    },
+    {
+      "path": "daft/00098-d477ef415bfb04a2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fdb59ffc5a30bcc0255f3044492b52cb1ad78e20e63c1becb5dd23fd3ec98a43",
+      "bytes": 8055
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

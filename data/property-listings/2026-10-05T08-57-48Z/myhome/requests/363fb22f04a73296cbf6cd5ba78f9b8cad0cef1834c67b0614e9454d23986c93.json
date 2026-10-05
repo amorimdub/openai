@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=213",
+  "fetchedAt": "2026-10-05T12:04:10.891Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=213",
+  "kind": "search",
+  "responseSha256": "9abc39752add0eb293bfe3d33409b24b07c1a5f00bf52d7377177e5c2de38f43",
+  "files": [
+    {
+      "path": "myhome/04910-363fb22f04a73296-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=213\"].SearchResults",
+      "sha256": "ea345665d1734742a26a80e6d2a258d295721c5808c385fa2deab01c3f943823",
+      "bytes": 121128
+    },
+    {
+      "path": "myhome/04910-363fb22f04a73296-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=213\"] (paging fields)",
+      "sha256": "25f7efd46dda4a2be49b99e8921b3dc7ae21d21acff4a377840d9a9544f3779e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-21-harbour-house-new-quay-clonmel-co-tipperary/5027238",
+    "https://www.myhome.ie/residential/brochure/2-the-grove-saint-catherine-s-estate-rush-dublin/5027198",
+    "https://www.myhome.ie/residential/brochure/4-le-bas-terrace-leinster-road-west-rathmines-dublin-6/5027237",
+    "https://www.myhome.ie/residential/brochure/8-the-green-saint-catherine-s-estate-rush-dublin/5027233",
+    "https://www.myhome.ie/residential/brochure/7-viking-court-meath-place-dublin-8-d08-kn9x/5027146",
+    "https://www.myhome.ie/residential/brochure/87a-saint-anne-s-square-portmarnock-dublin/5027145",
+    "https://www.myhome.ie/residential/brochure/70-st-patricks-park-carrick-on-shannon-leitrim/5027208",
+    "https://www.myhome.ie/residential/brochure/boleymount-ballintogher-sligo/5027211",
+    "https://www.myhome.ie/residential/brochure/12-whitebeam-avenue-clonskeagh-dublin-14/5027229",
+    "https://www.myhome.ie/residential/brochure/no-15-hazel-grove-clonbalt-woods-longford-longford/4996194",
+    "https://www.myhome.ie/residential/brochure/48-main-street-longford-longford/5008736",
+    "https://www.myhome.ie/residential/brochure/85-cedarbrook-walk-cherry-orchard-dublin-10/5019483",
+    "https://www.myhome.ie/residential/brochure/16-newlands-manor-court-clondalkin-dublin-22/5027008",
+    "https://www.myhome.ie/residential/brochure/20-saint-john-s-avenue-clondalkin-dublin-22/5025518",
+    "https://www.myhome.ie/residential/brochure/40-the-anchorage-bettystown-meath/5027231",
+    "https://www.myhome.ie/residential/brochure/177-cherrywood-drive-clondalkin-dublin-22/5026387",
+    "https://www.myhome.ie/residential/brochure/87-saint-anne-s-square-portmarnock-dublin/5027148",
+    "https://www.myhome.ie/residential/brochure/milltown-ballycastle-mayo/5027219",
+    "https://www.myhome.ie/residential/brochure/38-priory-drive-stillorgan-co-dublin/5010769",
+    "https://www.myhome.ie/residential/brochure/sliabh-alainn-mitchelstown-cork/5027228"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=214",
+  "paginationLimited": false
+}

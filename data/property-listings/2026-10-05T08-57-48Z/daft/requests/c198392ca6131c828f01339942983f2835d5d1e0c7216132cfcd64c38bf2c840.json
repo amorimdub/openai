@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/moness-burt-bridgend-co-donegal/6683053",
+  "fetchedAt": "2026-10-05T09:46:56.985Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/moness-burt-bridgend-co-donegal/6683053",
+  "kind": "listing",
+  "responseSha256": "648b20411f96252046ad8caf82a19a866ed46b0da9be5b477ac1f8fcb7c6a869",
+  "files": [
+    {
+      "path": "daft/01964-c198392ca6131c82-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "85f2db415bb9bc8df2a63db0b715bccd461f9bce2361027945d1f0aee194417a",
+      "bytes": 18083
+    },
+    {
+      "path": "daft/01964-c198392ca6131c82-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e31b6e877c52610f63af07a9cc331831ebfba4d01ad9628dcd7d2376df7b6209",
+      "bytes": 8111
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

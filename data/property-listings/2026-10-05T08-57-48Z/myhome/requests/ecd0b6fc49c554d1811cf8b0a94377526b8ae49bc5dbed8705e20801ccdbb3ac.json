@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=136",
+  "fetchedAt": "2026-10-05T11:24:21.948Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=136",
+  "kind": "search",
+  "responseSha256": "ce77058e8f1169b8b705ad0fdd86abf0f1a3b734064069b8a269596928357c2b",
+  "files": [
+    {
+      "path": "myhome/03321-ecd0b6fc49c554d1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=136\"].SearchResults",
+      "sha256": "bcaafcc1755b5b480673a593a790bc5945d5aee63d6118ef809791bf34eb803f",
+      "bytes": 107976
+    },
+    {
+      "path": "myhome/03321-ecd0b6fc49c554d1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=136\"] (paging fields)",
+      "sha256": "0da85487fee6b403bd97762ed14b9e643f935c5e9d2169978a7d45059498cd0d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/52-the-orchard-oldtown-mill-celbridge/5021086",
+    "https://www.myhome.ie/residential/brochure/91-the-northumberlands-south-city-centre-dublin-2/5029310",
+    "https://www.myhome.ie/residential/brochure/adamstown-castletown-geoghegan-mullingar-westmeath/5029319",
+    "https://www.myhome.ie/residential/brochure/3-roseville-court-dublin-road-bray-wicklow/5029314",
+    "https://www.myhome.ie/residential/brochure/no-56-seville-lawns-callan-road-kilkenny-kilkenny/5028972",
+    "https://www.myhome.ie/residential/brochure/75-fairgreen-park-mullagh-cavan/5029315",
+    "https://www.myhome.ie/residential/brochure/1-dakota-court-phibsboro-dublin-7/5016798",
+    "https://www.myhome.ie/residential/brochure/5-de-valera-place-phibsboro-dublin-7/4982501",
+    "https://www.myhome.ie/residential/brochure/117-ciamaltha-meadows-nenagh-tipperary/5029309",
+    "https://www.myhome.ie/residential/brochure/48-river-village-monksland-athlone-roscommon/5029308",
+    "https://www.myhome.ie/residential/brochure/11-edenbrook-close-citywest-dublin-24/5029291",
+    "https://www.myhome.ie/residential/brochure/7-belview-court-wicklow-co-wicklow/5029304",
+    "https://www.myhome.ie/residential/brochure/103-the-hazel-grange-hall-rathfarnham-dublin-16/5029303",
+    "https://www.myhome.ie/residential/brochure/116-springhill-avenue-deansgrange-blackrock-county-dublin/5029294",
+    "https://www.myhome.ie/residential/brochure/carraig-na-s-rathnafushogue-hacketstown-carlow/5029301",
+    "https://www.myhome.ie/residential/brochure/52-sandford-road-ranelagh-dublin-6/5024505",
+    "https://www.myhome.ie/residential/brochure/glenview-house-roundwood-wicklow/5029288",
+    "https://www.myhome.ie/residential/brochure/raheengraney-clonegal-co-wicklow/5029295",
+    "https://www.myhome.ie/residential/brochure/20-sandymount-road-sandymount-dublin-4/5024352",
+    "https://www.myhome.ie/residential/brochure/31-foxford-court-lucan-dublin/5028981"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=137",
+  "paginationLimited": false
+}

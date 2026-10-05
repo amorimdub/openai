@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=367",
+  "fetchedAt": "2026-10-05T13:23:34.151Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=367",
+  "kind": "search",
+  "responseSha256": "7d555f334940d0b8cc5132ace509003cab44b2b331a2fc15ded101d2731dedc6",
+  "files": [
+    {
+      "path": "myhome/08074-03d0a9228c04db82-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=367\"].SearchResults",
+      "sha256": "a1eb19caf8bc2b184d841b75ab59dd849d61bf015e783b315a56e9e3e27c833f",
+      "bytes": 115346
+    },
+    {
+      "path": "myhome/08074-03d0a9228c04db82-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=367\"] (paging fields)",
+      "sha256": "facc3ea6e35d051df3067932ea466f8434d6901e08eda3da0b42690d78c6a3e8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/46-sundale-park-tallaght-dublin-24/5018774",
+    "https://www.myhome.ie/residential/brochure/31-barr-na-haille-rosslare-harbour-rosslare-co-wexford/5018771",
+    "https://www.myhome.ie/residential/brochure/castleknock-house-castleknock-lodge-castleknock-dublin-15/5011320",
+    "https://www.myhome.ie/residential/brochure/21-garden-city-gorey-wexford/4994472",
+    "https://www.myhome.ie/residential/brochure/rahinstown-estate-summerhill-co-meath/5018739",
+    "https://www.myhome.ie/residential/brochure/jervis-st-ardee-county-louth/5018734",
+    "https://www.myhome.ie/residential/brochure/the-detached-bungalow-heritage-village-killenard-laois/5010544",
+    "https://www.myhome.ie/residential/brochure/15-willow-park-derrymullan-ballinasloe-galway/5018729",
+    "https://www.myhome.ie/residential/brochure/37-castle-manor-ferns-wexford/5018728",
+    "https://www.myhome.ie/residential/brochure/1-shackelton-drive-lucan-co-dublin-dublin-county-dublin/5018725",
+    "https://www.myhome.ie/residential/brochure/ballintruer-more-baltinglass-wicklow/5018723",
+    "https://www.myhome.ie/residential/brochure/the-sycamore-stronveele-glenville-road-wexford-town-wexford/5010954",
+    "https://www.myhome.ie/residential/brochure/the-maple-stronveele-glenville-road-wexford-town-wexford/5010961",
+    "https://www.myhome.ie/residential/brochure/the-courtyard-heritage-village-killenard-laois/5010539",
+    "https://www.myhome.ie/residential/brochure/the-oak-stronveele-glenville-road-wexford-town-wexford/5010962",
+    "https://www.myhome.ie/residential/brochure/roscad-creeslough-county-donegal/5018720",
+    "https://www.myhome.ie/residential/brochure/the-birch-stronveele-glenville-road-wexford-town-wexford/5010940",
+    "https://www.myhome.ie/residential/brochure/5-ruanbeg-court-kildare-town-kildare/5018718",
+    "https://www.myhome.ie/residential/brochure/ballyrisode-goleen-west-cork/5018563",
+    "https://www.myhome.ie/residential/brochure/34-garbally-oaks-ballinasloe-co-galway/5018712"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=368",
+  "paginationLimited": false
+}

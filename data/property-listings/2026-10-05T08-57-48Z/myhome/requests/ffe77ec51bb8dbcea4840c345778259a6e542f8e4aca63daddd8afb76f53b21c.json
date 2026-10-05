@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=249",
+  "fetchedAt": "2026-10-05T12:23:02.817Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=249",
+  "kind": "search",
+  "responseSha256": "f634d443cce36649e109229092ff0376e7cae13b98212e7dd37f5ee7800c542b",
+  "files": [
+    {
+      "path": "myhome/05663-ffe77ec51bb8dbce-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=249\"].SearchResults",
+      "sha256": "c15e659189c1c977a6aa40ea319819747d9751030c52faf5cc212b5731e81fea",
+      "bytes": 108916
+    },
+    {
+      "path": "myhome/05663-ffe77ec51bb8dbce-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=249\"] (paging fields)",
+      "sha256": "9312452fe649fd1ba89ee8881af02f9a407183de62d67d9c883533f115258452",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-bed-detached-type-a-eascanrath-brook-suncroft-co-kildare/5026087",
+    "https://www.myhome.ie/residential/brochure/42-oak-hall-malahide-dublin/5025575",
+    "https://www.myhome.ie/residential/brochure/15-church-view-station-road-ballincollig-cork/5026079",
+    "https://www.myhome.ie/residential/brochure/9-cluny-park-killiney-co-dublin/5026085",
+    "https://www.myhome.ie/residential/brochure/aughoose-pullathomas-ballina-mayo/5026078",
+    "https://www.myhome.ie/residential/brochure/50-manor-grove-mountmellick-co-laois/5026084",
+    "https://www.myhome.ie/residential/brochure/39-eagle-valley-powerscourt-demesne-enniskerry-co-wicklow/5026081",
+    "https://www.myhome.ie/residential/brochure/16-warren-grove-boyle-roscommon/5026062",
+    "https://www.myhome.ie/residential/brochure/shannon-road-mountrath-co-laois/5026076",
+    "https://www.myhome.ie/residential/brochure/7-phibblestown-house-clonee-dublin-15/5018492",
+    "https://www.myhome.ie/residential/brochure/11-dale-close-stillorgan-county-dublin/5024182",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-house-the-kippure-park-lane-cherrywood-dublin-18/5026075",
+    "https://www.myhome.ie/residential/brochure/ballindurrow-multyfarnham-co-westmeath-mullingar/5026074",
+    "https://www.myhome.ie/residential/brochure/58-galtymore-close-drimnagh-dublin-12/5026068",
+    "https://www.myhome.ie/residential/brochure/railway-road-coolriery-castleconnell-limerick/5025489",
+    "https://www.myhome.ie/residential/brochure/3-bed-duplex-park-lane-cherrywood-dublin-18/5026072",
+    "https://www.myhome.ie/residential/brochure/58-trinity-street-drogheda-louth/5026024",
+    "https://www.myhome.ie/residential/brochure/teach-duinnshleibhe-adamstown-geoghegan-westmeath/5026057",
+    "https://www.myhome.ie/residential/brochure/apt-44-kilwarden-court-clondalkin-dublin-22/5025971",
+    "https://www.myhome.ie/residential/brochure/19-dargle-road-blackrock-county-dublin/5026070"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=250",
+  "paginationLimited": false
+}

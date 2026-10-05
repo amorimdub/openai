@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/grallagh-claddaghduff-galway-claddaghduff-co-galway/6685027",
+  "fetchedAt": "2026-10-05T09:16:38.009Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/grallagh-claddaghduff-galway-claddaghduff-co-galway/6685027",
+  "kind": "listing",
+  "responseSha256": "8d9d6e0b0d23ad6984a3efb749def0d305b895a229a3ed3207c3309bf8f4e300",
+  "files": [
+    {
+      "path": "daft/00753-83687fcba69956d2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e21bd6cafd955d1e801d8d3b672b88406d20c63d913a477e0e416f2ee6d6f58c",
+      "bytes": 26596
+    },
+    {
+      "path": "daft/00753-83687fcba69956d2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "69757b1c7d8f583212f0bf0a3777867d51befe5ffa3a48883089e758f8eac551",
+      "bytes": 7967
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

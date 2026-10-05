@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/navan-co-meath/6686532",
+  "fetchedAt": "2026-10-05T09:10:20.970Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/navan-co-meath/6686532",
+  "kind": "listing",
+  "responseSha256": "4043ef634e64249b795b170415e3f8404c514c86012c648358b83e5e64f7c06b",
+  "files": [
+    {
+      "path": "daft/00502-7bca54a065f86c6e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "de58af440061a1168ba7f0eec32f861a92ca0349f06f611a54e2f06f0f1ee30b",
+      "bytes": 14793
+    },
+    {
+      "path": "daft/00502-7bca54a065f86c6e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3c877dbf4f521c0f4b2823c8a2bda55cfb3468bc02aa8295e474c09195edbd26",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

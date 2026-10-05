@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cois-na-habhainn-ballygaddy-road-tuam-co-galway/6682917",
+  "fetchedAt": "2026-10-05T09:52:00.479Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cois-na-habhainn-ballygaddy-road-tuam-co-galway/6682917",
+  "kind": "listing",
+  "responseSha256": "f8042a0a7c5ebaf2f103d5cd49bdf0b4cf7a3b7a989e3ac239879677c9a8498b",
+  "files": [
+    {
+      "path": "daft/02166-5ee487accbf37a9e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "571ec8b1570a168c0e1872202a4c94e625a7a2810b682a6124073f0076942957",
+      "bytes": 26948
+    },
+    {
+      "path": "daft/02166-5ee487accbf37a9e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4a2d575e467ea825367413655c6075a92af554c594f89006a4229b22933a9d8e",
+      "bytes": 8076
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

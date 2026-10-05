@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=479",
+  "fetchedAt": "2026-10-05T14:21:20.840Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=479",
+  "kind": "search",
+  "responseSha256": "a817c90693b22afe23109959715e6774fe58d87d9e3672089b97ebcd73756033",
+  "files": [
+    {
+      "path": "myhome/10380-a0f0acae581209be-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=479\"].SearchResults",
+      "sha256": "db9d375c36074f3292d5da5abe81626d790fd9a7f3b1f357e2d8154b0e7a4e26",
+      "bytes": 108480
+    },
+    {
+      "path": "myhome/10380-a0f0acae581209be-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=479\"] (paging fields)",
+      "sha256": "3fea70bf631e48809ba86239b13ae8b42ee440018519584972be722b2ecdb5e4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-ballinwillin-mitchelstown-cork/5005119",
+    "https://www.myhome.ie/residential/brochure/31-ashwood-glade-westport-mayo/4979291",
+    "https://www.myhome.ie/residential/brochure/40-mill-falls-collooney-sligo/5002710",
+    "https://www.myhome.ie/residential/brochure/two-bedroom-apartments-plus-study-drummartin-heights-kilmacud-dublin-14/5005100",
+    "https://www.myhome.ie/residential/brochure/knocknakill-mayo-abbey-claremorris-mayo/5005090",
+    "https://www.myhome.ie/residential/brochure/38-clanhugh-road-donnycarney-dublin-5/5005091",
+    "https://www.myhome.ie/residential/brochure/heron-s-lock-lucan-co-dublin/5005079",
+    "https://www.myhome.ie/residential/brochure/124-oaklawns-dundalk-county-louth/5005076",
+    "https://www.myhome.ie/residential/brochure/69-the-sarsfield-the-strand-apartments-o-callaghan-strand-limerick/4992362",
+    "https://www.myhome.ie/residential/brochure/5-beckscourt-lawns-bailieborough-cavan/5003940",
+    "https://www.myhome.ie/residential/brochure/2-glenbrook-view-newtownmountkennedy-wicklow/5005050",
+    "https://www.myhome.ie/residential/brochure/shanlin-house-maree-road-oranmore-co-galway/5005046",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-homes-with-elevators-merrion-gardens-merrion-road-ballsbridge-dublin-4/4764945",
+    "https://www.myhome.ie/residential/brochure/14-hawthorn-drive-listowel-co-kerry/5005034",
+    "https://www.myhome.ie/residential/brochure/apartment-5-block-d-mellowes-quay-usher-street-dublin-christchurch-dublin-8/5002540",
+    "https://www.myhome.ie/residential/brochure/31-high-street-cork-city-cork/5005021",
+    "https://www.myhome.ie/residential/brochure/ballyconnell-falcarragh-donegal/5005007",
+    "https://www.myhome.ie/residential/brochure/loughmouge-upper-dunlavin-wicklow-co-wicklow/5004822",
+    "https://www.myhome.ie/residential/brochure/44-meadow-view-avenue-road-dundalk-county-louth-dundalk-louth/5004785",
+    "https://www.myhome.ie/residential/brochure/site-at-7-corrig-court-corrig-avenue-dun-laoghaire-co-dublin/5004996"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=480",
+  "paginationLimited": false
+}

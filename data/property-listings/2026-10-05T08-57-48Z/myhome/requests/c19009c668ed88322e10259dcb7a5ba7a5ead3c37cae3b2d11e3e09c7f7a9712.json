@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=14",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=14",
+  "fetchedAt": "2026-10-05T09:09:23.269Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e358439a12a9aca72b956fc0ea48ef00743a6faeeff084c2bfbf9f0327f1b1c7",
+  "files": [
+    {
+      "path": "myhome/00463-c19009c668ed8832-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=14\"].SearchResults",
+      "sha256": "d543a5ca711813b165863e6afa43a7f82014d408ed4d2ab499d97ea4e2e4c174",
+      "bytes": 123899
+    },
+    {
+      "path": "myhome/00463-c19009c668ed8832-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=14\"] (paging fields)",
+      "sha256": "f7c687e8d60fd1b170ca630e719e3e7d84a47e2f6f37ad523b55278e233c0a78",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/19-raglan-hall-clyde-road-ballsbridge-dublin-4/5029405",
+    "https://www.myhome.ie/residential/brochure/bunkilla-cork-donoughmore-co-cork/5032000",
+    "https://www.myhome.ie/residential/brochure/apartment-1-cois-in-bhear-markievicz-road-sligo/5031322",
+    "https://www.myhome.ie/residential/brochure/1-grattan-court-clane-road-celbridge-county-kildare/5019332",
+    "https://www.myhome.ie/residential/brochure/212-clonard-road-crumlin-dublin-12/5024343",
+    "https://www.myhome.ie/residential/brochure/248-kilworth-road-drimnagh-dublin-12/5015595",
+    "https://www.myhome.ie/residential/brochure/railway-house-arklow-road-gorey-wexford/4966400",
+    "https://www.myhome.ie/residential/brochure/4-knocknaganny-park-sligo/5031897",
+    "https://www.myhome.ie/residential/brochure/163-millquarter-knockmullen-gorey-wexford/5011655",
+    "https://www.myhome.ie/residential/brochure/12-treacy-meadows-newbridge-co-kildare/5031997",
+    "https://www.myhome.ie/residential/brochure/73-beach-road-sandymount-dublin-4/5031042",
+    "https://www.myhome.ie/residential/brochure/21-fairhaven-close-fairhaven-castleknock-dublin-15/5019680",
+    "https://www.myhome.ie/residential/brochure/42-riverwood-court-castleknock-dublin-15/5024960",
+    "https://www.myhome.ie/residential/brochure/4x-apartments-eagle-court-main-street-clonee-dublin-15/5031698",
+    "https://www.myhome.ie/residential/brochure/20-rathborne-park-ashtown-dublin-15/5025821",
+    "https://www.myhome.ie/residential/brochure/finford-house-bunnahow-tubber-clare/5031972",
+    "https://www.myhome.ie/residential/brochure/1-cois-in-bhear-markievicz-road-sligo-sligo/5031337",
+    "https://www.myhome.ie/residential/brochure/46-kavanagh-hall-collegewood-castleknock-dublin-15/5008085",
+    "https://www.myhome.ie/residential/brochure/dowsain-ghar-knockmark-drumree-meath/5031994",
+    "https://www.myhome.ie/residential/brochure/85-the-green-clara-offaly/5031992"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=15",
+  "paginationLimited": false
+}

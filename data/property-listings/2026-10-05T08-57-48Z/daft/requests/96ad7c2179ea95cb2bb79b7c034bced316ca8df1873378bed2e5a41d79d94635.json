@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/house-14-150-howth-road-clontarf-dublin-3/6608399",
+  "fetchedAt": "2026-10-05T09:49:18.201Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/house-14-150-howth-road-clontarf-dublin-3/6608399",
+  "kind": "listing",
+  "responseSha256": "6ad1451cd20a47eb89b9d9b77b23eca621a7ca8bdd6eec4fe959bf4a50579d5d",
+  "files": [
+    {
+      "path": "daft/02058-96ad7c2179ea95cb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b5aff99ba7b867a3976d266865467fb6f618980751123f4e874b0d3e55e3d07d",
+      "bytes": 51185
+    },
+    {
+      "path": "daft/02058-96ad7c2179ea95cb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ab79f5368dc1d76672f4bc05571b480e664b0102f81f1849eb518dd789937fd8",
+      "bytes": 8213
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

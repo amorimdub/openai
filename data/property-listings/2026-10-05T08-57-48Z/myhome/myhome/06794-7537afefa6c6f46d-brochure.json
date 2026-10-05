@@ -1,0 +1,457 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "1 brompton grove castleknock dublin 15",
+    "GroupId": 8909,
+    "Address": "1 Brompton Grove",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d52a4769-f050-493c-9f43-b0f9e16de39a_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d52a4769-f050-493c-9f43-b0f9e16de39a_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d52a4769-f050-493c-9f43-b0f9e16de39a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e98cc2d2-c289-43b7-9e02-16833a8854ca_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/38e58ebe-2c72-4bd9-a0ee-812c48303b9f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e4fc7bc1-daff-47f1-ac22-99e2ad7402cf_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e03961e7-1daa-493e-8faa-fc6c9bde0187_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d9169e1c-98ef-442d-ab3d-782109fa2549_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/8aa27472-c1f8-49fe-8902-9e3c3864cab3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9af98f93-17c6-4e8a-89f7-398c1e46d5d4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/7140b2c2-fbfa-4d4f-9a8b-eb18dcbb005f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/698e8880-0918-4a73-85f9-a56a33ccc60f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/02d27a65-ec34-49ab-8dfe-91988a745b65_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/82cde502-a9d7-406e-a296-b6007dfbb2ba_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/97d5ce9f-1bb9-47db-8d11-1fffe3538412_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/be031e15-fc90-4c12-af9e-7ebc5c876938_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e7dd08d5-646b-4024-8cfa-1583f0e5fda7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/a05619e3-7c38-4cef-9255-cb80ee7a5a85_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9c2e6f5d-6e75-4219-9210-ddc66fe41ad8_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/fb14d867-cf87-4d94-8d33-9caae96ad517_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/603f385b-3435-4c39-8d3d-659eae4dceef_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/165fd6c2-adcf-4dce-a2f8-d306cea77ff5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/69c370b1-2d14-40bc-b0a6-c163c604c701_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/daaac3ba-fc3f-4158-a6a2-e0c4ab514af6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/78121aa9-b04b-449e-ab98-565d1bc34b86_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "MinSize": 208.369995117188,
+    "MaxSize": 208.369995117188,
+    "BerRating": "F",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Property Home and Away have the pleasure in launching this impressive double fronted six bedroom, four bathroom family home in the much sought after Brompton Grove in Castleknock.\r\nThis is a 200SqM property and comes with a 24SqM detached block shed with tiled roof to rear . \r\nThere are six-bedrooms, two with ensuite bathrooms, a family bathroom & downstairs toilet. You have three reception rooms, lounge, dining room, family room, music room, kitchen and dining area. \r\nThis is a double fronted home which looks out to an open green space & has parking for four cars off street. The rear garden is south-east facing.    \r\n\r\nLocation is excellent, close to  Phoenix Park and all social amenities. There is a host of shops and restaurants close by. You are one kilometer from train station and have easy access to the N3 & M50, bringing you to the city & Dublin airport. Catchment area for primary & secondary schools is excellent. Viewing is strictly by appointment through Agent."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall\t5.46 x 2.77 \tSpacious hall with porch area, comes with feature staircase with view to open landing area.\r\n\r\nKitchen   6.70 x 4.0      Extended Kitchen & dining area with copious amounts of fitted units & storage.      \r\n\r\nMusic room \t4.32 x 2.90   Open space with piano, links rooms on ground floor.   \r\n\t\t\r\nLounge & Dining Room\t8.34 X 3.46\tLarge family size living space with feature fireplace. Dual aspect windows in lounge and dining room bring natural light flowing in. \r\n \r\nBedroom 1   3.64 x 3.57  Maple wood flooring, painted décor and ensuite.\r\n\r\nBedroom 2   3.90 x 2.92 \tWall to Wall wardrobes with wool carpet and wall paper décor. \r\n\r\nBedroom 3\t3.52 x 2.74  \tLarge double bedroom with maple wood flooring.  \r\n\r\nBedroom 4      3.98 x 2.97    Double room with wool carpet.  \r\n\r\nBedroom 5    3.23 x 2.50  Built in waredrobes, wool carpet and wallpaper décor\r\n\r\nBedroom 6    4.96 x 3.94   Downstairs double bedroom with ensuite bathroom.\r\n\r\nDetached Shed  5.72 x 4.14     24SqM Block Shed with Tiled roof, wide variety of uses.\r\n\r\nD/s Toilet    \t               Just off hall, white sanitary units & painted décor.\r\n\r\nBathroom     3.27 x 2.58  Fully tiled wall to ceiling, feature bath and white sanitary units."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "- 6 bedroom home with 4 bathrooms\t\r\n- Large garden frontage with off street parking   \r\n- Close to train station \t\t\t\r\n- 24SqM detached block shed with tiled roof        \r\n- Double Fronted Property\t\t\r\n- Easy Access to M50, City & Airport"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: F"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 574,
+    "MinEnergyRating": 20,
+    "MaxEnergyRating": 20,
+    "BERGrade": "F",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-08-25T07:53:18.5530000+01:00",
+    "ModifiedOnDate": "2026-08-25T08:07:03.2400000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-08-25T08:07:17.1470000+01:00",
+    "RefreshedOn": "2026-08-25T08:07:17.1470000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/F.png",
+    "IsTransact": false,
+    "PriceAsString": "€745,000",
+    "AuctionList": [],
+    "PropertyId": 5023680,
+    "SizeStringMeters": 208.37,
+    "DisplayAddress": "1 Brompton Grove, Castleknock, Dublin 15",
+    "Eircode": "D15A59K",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Semi-Detached House",
+    "PropertyTypeId": 38,
+    "RegionId": 1456,
+    "RegionName": "Dublin 15",
+    "LocalityId": 1270,
+    "LocalityName": "Castleknock",
+    "Price": {
+      "MinPrice": 745000,
+      "MaxPrice": 745000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d52a4769-f050-493c-9f43-b0f9e16de39a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d52a4769-f050-493c-9f43-b0f9e16de39a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d52a4769-f050-493c-9f43-b0f9e16de39a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e98cc2d2-c289-43b7-9e02-16833a8854ca_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e98cc2d2-c289-43b7-9e02-16833a8854ca_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e98cc2d2-c289-43b7-9e02-16833a8854ca_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/38e58ebe-2c72-4bd9-a0ee-812c48303b9f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/38e58ebe-2c72-4bd9-a0ee-812c48303b9f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/38e58ebe-2c72-4bd9-a0ee-812c48303b9f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e4fc7bc1-daff-47f1-ac22-99e2ad7402cf_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e4fc7bc1-daff-47f1-ac22-99e2ad7402cf_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e4fc7bc1-daff-47f1-ac22-99e2ad7402cf_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e03961e7-1daa-493e-8faa-fc6c9bde0187_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e03961e7-1daa-493e-8faa-fc6c9bde0187_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e03961e7-1daa-493e-8faa-fc6c9bde0187_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d9169e1c-98ef-442d-ab3d-782109fa2549_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d9169e1c-98ef-442d-ab3d-782109fa2549_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/d9169e1c-98ef-442d-ab3d-782109fa2549_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/8aa27472-c1f8-49fe-8902-9e3c3864cab3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/8aa27472-c1f8-49fe-8902-9e3c3864cab3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/8aa27472-c1f8-49fe-8902-9e3c3864cab3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9af98f93-17c6-4e8a-89f7-398c1e46d5d4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9af98f93-17c6-4e8a-89f7-398c1e46d5d4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9af98f93-17c6-4e8a-89f7-398c1e46d5d4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/7140b2c2-fbfa-4d4f-9a8b-eb18dcbb005f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/7140b2c2-fbfa-4d4f-9a8b-eb18dcbb005f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/7140b2c2-fbfa-4d4f-9a8b-eb18dcbb005f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/698e8880-0918-4a73-85f9-a56a33ccc60f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/698e8880-0918-4a73-85f9-a56a33ccc60f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/698e8880-0918-4a73-85f9-a56a33ccc60f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/02d27a65-ec34-49ab-8dfe-91988a745b65_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/02d27a65-ec34-49ab-8dfe-91988a745b65_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/02d27a65-ec34-49ab-8dfe-91988a745b65_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/82cde502-a9d7-406e-a296-b6007dfbb2ba_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/82cde502-a9d7-406e-a296-b6007dfbb2ba_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/82cde502-a9d7-406e-a296-b6007dfbb2ba_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/97d5ce9f-1bb9-47db-8d11-1fffe3538412_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/97d5ce9f-1bb9-47db-8d11-1fffe3538412_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/97d5ce9f-1bb9-47db-8d11-1fffe3538412_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/be031e15-fc90-4c12-af9e-7ebc5c876938_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/be031e15-fc90-4c12-af9e-7ebc5c876938_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/be031e15-fc90-4c12-af9e-7ebc5c876938_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e7dd08d5-646b-4024-8cfa-1583f0e5fda7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e7dd08d5-646b-4024-8cfa-1583f0e5fda7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e7dd08d5-646b-4024-8cfa-1583f0e5fda7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/a05619e3-7c38-4cef-9255-cb80ee7a5a85_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/a05619e3-7c38-4cef-9255-cb80ee7a5a85_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/a05619e3-7c38-4cef-9255-cb80ee7a5a85_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9c2e6f5d-6e75-4219-9210-ddc66fe41ad8_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9c2e6f5d-6e75-4219-9210-ddc66fe41ad8_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/9c2e6f5d-6e75-4219-9210-ddc66fe41ad8_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/fb14d867-cf87-4d94-8d33-9caae96ad517_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/fb14d867-cf87-4d94-8d33-9caae96ad517_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/fb14d867-cf87-4d94-8d33-9caae96ad517_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/603f385b-3435-4c39-8d3d-659eae4dceef_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/603f385b-3435-4c39-8d3d-659eae4dceef_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/603f385b-3435-4c39-8d3d-659eae4dceef_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/165fd6c2-adcf-4dce-a2f8-d306cea77ff5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/165fd6c2-adcf-4dce-a2f8-d306cea77ff5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/165fd6c2-adcf-4dce-a2f8-d306cea77ff5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/69c370b1-2d14-40bc-b0a6-c163c604c701_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/69c370b1-2d14-40bc-b0a6-c163c604c701_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/69c370b1-2d14-40bc-b0a6-c163c604c701_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/daaac3ba-fc3f-4158-a6a2-e0c4ab514af6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/daaac3ba-fc3f-4158-a6a2-e0c4ab514af6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/daaac3ba-fc3f-4158-a6a2-e0c4ab514af6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/78121aa9-b04b-449e-ab98-565d1bc34b86_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/78121aa9-b04b-449e-ab98-565d1bc34b86_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/78121aa9-b04b-449e-ab98-565d1bc34b86_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e10ed33d-a70a-4ca8-b2bc-8e14ab7be06c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e10ed33d-a70a-4ca8-b2bc-8e14ab7be06c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e10ed33d-a70a-4ca8-b2bc-8e14ab7be06c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/3ad66934-dd14-4172-8bdd-345035bf50d2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/3ad66934-dd14-4172-8bdd-345035bf50d2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/8/6/5023680/3ad66934-dd14-4172-8bdd-345035bf50d2_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.3832228,
+      "latitude": 53.3816166
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 23,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/e10ed33d-a70a-4ca8-b2bc-8e14ab7be06c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/8/6/5023680/3ad66934-dd14-4172-8bdd-345035bf50d2_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 8909,
+    "Name": "Property Home and Away",
+    "DisplayPhone": "086 805 8703",
+    "Email": "declan@propertyhomeandaway.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "property-home-and-away",
+    "SeoName": "property-home-and-away",
+    "Address": "3 The Rise, Main Street, Blanchardstown, Dublin 15",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/9/0/9/8909/logo.jpg",
+    "SalesLicense": "001534",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "castleknock/1270",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5001009,
+      "Address": "17 Collegefort, Castleknock, Dublin 15",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/0/0/5001009/91a8bb76-7ce9-4a24-ad18-729f1feaf686_t.jpg",
+      "HasWebP": false,
+      "Price": 340000,
+      "PrevPrice": 350000,
+      "PriceChangeDelta": -10000,
+      "PriceChangePercentage": -2.8571,
+      "Created": "4th Jul 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+      "BerRating": "C1",
+      "SeoUrl": "/residential/brochure/17-collegefort-castleknock-dublin-15/5001009",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4997256,
+      "Address": "74 Rosanule, Phoenix Park Racecourse, , Castleknock, Dublin 15",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/2/4997256/079de236-9881-40f9-80fb-e577fb18233b_t.jpg",
+      "HasWebP": false,
+      "Price": 450000,
+      "PrevPrice": 465000,
+      "PriceChangeDelta": -15000,
+      "PriceChangePercentage": -3.2258,
+      "Created": "12th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B2.png",
+      "BerRating": "B2",
+      "SeoUrl": "/residential/brochure/74-rosanule-phoenix-park-racecourse-castleknock-dublin-15/4997256",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/1-brompton-grove-castleknock-dublin-15/5023680",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 8909,
+    "MYH_LocalityID": 1270,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1456,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Garden",
+    "MYH_MaxPrice": 750000,
+    "MYH_MinBeds": 0,
+    "MYH_MinEnergyRating": 20,
+    "MYH_MinPrice": 750000,
+    "MYH_MinSize": 208,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5023680,
+    "MYH_PropertyTypeID": 38
+  }
+}

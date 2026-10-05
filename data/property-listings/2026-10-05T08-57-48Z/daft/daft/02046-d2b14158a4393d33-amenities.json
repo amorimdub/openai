@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CASTLEMARTYR NATIONAL SCHOOL",
+      "numPupils": 221,
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.911290",
+        "lon": "-8.051658"
+      }
+    },
+    {
+      "schoolName": "KILCREDAN NATIONAL SCHOOL",
+      "numPupils": 318,
+      "distance": {
+        "value": 4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.888077",
+        "lon": "-7.973531"
+      }
+    },
+    {
+      "schoolName": "SHANAGARRY NATIONAL SCHOOL",
+      "numPupils": 116,
+      "distance": {
+        "value": 4.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.854640",
+        "lon": "-8.036014"
+      }
+    },
+    {
+      "schoolName": "BALLINTOTAS NATIONAL SCHOOL",
+      "numPupils": 106,
+      "distance": {
+        "value": 4.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.909588",
+        "lon": "-8.095972"
+      }
+    },
+    {
+      "schoolName": "ST FERGAL'S NATIONAL SCHOOL",
+      "numPupils": 202,
+      "distance": {
+        "value": 5.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.940280",
+        "lon": "-7.995454"
+      }
+    },
+    {
+      "schoolName": "SCOIL REALT NA MARA",
+      "numPupils": 89,
+      "distance": {
+        "value": 7.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.830560",
+        "lon": "-8.016092"
+      }
+    },
+    {
+      "schoolName": "ST COLMAN'S NATIONAL SCHOOL",
+      "numPupils": 301,
+      "distance": {
+        "value": 7.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.861847",
+        "lon": "-8.127091"
+      }
+    },
+    {
+      "schoolName": "CLONPRIEST NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 8.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.929592",
+        "lon": "-7.922309"
+      }
+    },
+    {
+      "schoolName": "KYLE NATIONAL SCHOOL",
+      "numPupils": 49,
+      "distance": {
+        "value": 8.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.953420",
+        "lon": "-7.943539"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION PRIMARY MIDLETON",
+      "numPupils": 288,
+      "distance": {
+        "value": 9.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908470",
+        "lon": "-8.163544"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST COLMAN'S COMMUNITY COLLEGE",
+      "numPupils": 1125,
+      "distance": {
+        "value": 9.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.910267",
+        "lon": "-8.167471"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S HIGH SCHOOL",
+      "numPupils": 760,
+      "distance": {
+        "value": 9.64,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.908302",
+        "lon": "-8.169499"
+      }
+    },
+    {
+      "schoolName": "MIDLETON CBS",
+      "numPupils": 949,
+      "distance": {
+        "value": 9.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.907690",
+        "lon": "-8.170371"
+      }
+    },
+    {
+      "schoolName": "MIDLETON COLLEGE",
+      "numPupils": 484,
+      "distance": {
+        "value": 9.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.915356",
+        "lon": "-8.169425"
+      }
+    },
+    {
+      "schoolName": "POBALSCOIL NA TRÍONÓIDE",
+      "numPupils": 1089,
+      "distance": {
+        "value": 12.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.951405",
+        "lon": "-7.873300"
+      }
+    },
+    {
+      "schoolName": "ST ALOYSIUS COLLEGE",
+      "numPupils": 793,
+      "distance": {
+        "value": 15.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.910095",
+        "lon": "-8.259487"
+      }
+    },
+    {
+      "schoolName": "CARRIGNAFOY COMMUNITY COLLEGE",
+      "numPupils": 356,
+      "distance": {
+        "value": 18.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.855103",
+        "lon": "-8.286558"
+      }
+    },
+    {
+      "schoolName": "CARRIGTWOHILL COMMUNITY COLLEGE",
+      "numPupils": 841,
+      "distance": {
+        "value": 18.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.910090",
+        "lon": "-8.293795"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE",
+      "numPupils": 704,
+      "distance": {
+        "value": 18.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.854828",
+        "lon": "-8.293894"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE MUIRE- RÉALT NA MARA",
+      "numPupils": 518,
+      "distance": {
+        "value": 21.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.801270",
+        "lon": "-8.298164"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Lady's Bridge",
+      "route": "260",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.898759",
+        "lon": "-8.044057"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlemartyr Sch",
+      "route": "260",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.912069",
+        "lon": "-8.051773"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlemartyr",
+      "route": "260",
+      "destination": "Youghal",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.911825",
+        "lon": "-8.056046"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castlemartyr",
+      "route": "40",
+      "destination": "Waterford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.911825",
+        "lon": "-8.056046"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Garryvoe",
+      "route": "240",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.8592331951805",
+        "lon": "-8.00373108209676"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Mogeely",
+      "route": "260",
+      "destination": "Youghal",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.931897",
+        "lon": "-8.056682"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Loughaderry",
+      "route": "260",
+      "destination": "Ardmore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.91556",
+        "lon": "-8.087425"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballymaloe",
+      "route": "240",
+      "destination": "Ballycotton",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.868201",
+        "lon": "-8.084307"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Shanagarry",
+      "route": "240",
+      "destination": "Cork",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.852278",
+        "lon": "-8.03777"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killeagh Cemetery",
+      "route": "260",
+      "destination": "Ardmore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "51.938949",
+        "lon": "-7.996204"
+      }
+    }
+  ]
+}

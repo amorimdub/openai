@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ardhu-apartments-north-circular-road-co-limerick/6305007",
+  "fetchedAt": "2026-10-05T09:27:14.856Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ardhu-apartments-north-circular-road-co-limerick/6305007",
+  "kind": "listing",
+  "responseSha256": "3b945cc113b4cfb82a07745748c86a40c23007d8a427edf1a387589d10b1d14f",
+  "files": [
+    {
+      "path": "daft/01177-7ac938c4fe4ea673-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cf063ec71f990002a94af1258ffe97f2f2dd9ee056da8317c08754c4a44c62c2",
+      "bytes": 21283
+    },
+    {
+      "path": "daft/01177-7ac938c4fe4ea673-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=144",
+  "fetchedAt": "2026-10-05T11:28:34.407Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=144",
+  "kind": "search",
+  "responseSha256": "658b50dd80933b5ac5b3a27d4555aabf4cbb58e45d2faa740d5d9effb2feea04",
+  "files": [
+    {
+      "path": "myhome/03489-4340fc608f9f3012-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=144\"].SearchResults",
+      "sha256": "6c5fb4e502d3ba9c742a2e15711b2bfc5d4d65e684d0792642dceb40a89dd295",
+      "bytes": 118763
+    },
+    {
+      "path": "myhome/03489-4340fc608f9f3012-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=144\"] (paging fields)",
+      "sha256": "0e716ace67c9f2841c19097194ffdfa109d2dabe051efd58fedd417e720be083",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-waters-edge-ballyleague-lanesboro-longford/5018962",
+    "https://www.myhome.ie/residential/brochure/373-beechmount-drive-dundalk-county-louth/5029128",
+    "https://www.myhome.ie/residential/brochure/151-thomas-moore-road-walkinstown-dublin-12/5029119",
+    "https://www.myhome.ie/residential/brochure/lacka-beg-abbeydorney-tralee-kerry/5002660",
+    "https://www.myhome.ie/residential/brochure/15-westgate-court-gravel-walk-clonmel-tipperary/5029114",
+    "https://www.myhome.ie/residential/brochure/corballyquill-ashfield-lisnageer-cootehill-cavan/5029106",
+    "https://www.myhome.ie/residential/brochure/3-cork-road-skibbereen-co-cork/5029109",
+    "https://www.myhome.ie/residential/brochure/48-glencarra-knock-mayo/5027799",
+    "https://www.myhome.ie/residential/brochure/168-shantalla-road-santry-dublin-9/5028487",
+    "https://www.myhome.ie/residential/brochure/apt-114-hampton-square-navan-road-dublin-7/5029097",
+    "https://www.myhome.ie/residential/brochure/2-beal-cuain-kinvara-co-galway/5029105",
+    "https://www.myhome.ie/residential/brochure/8-manor-grove-thornbury-view-rochestown-cork/5025420",
+    "https://www.myhome.ie/residential/brochure/45-broadford-crescent-ballinteer-dublin-16/5028991",
+    "https://www.myhome.ie/residential/brochure/tavanaghmore-foxford-mayo/5029098",
+    "https://www.myhome.ie/residential/brochure/1-sandford-avenue-donnybrook-dublin-4/4966851",
+    "https://www.myhome.ie/residential/brochure/190-ashlawn-park-ballybrack-county-dublin/5029085",
+    "https://www.myhome.ie/residential/brochure/windward-sandycove-point-sandycove-county-dublin/4960663",
+    "https://www.myhome.ie/residential/brochure/39-college-park-longford-longford/5029078",
+    "https://www.myhome.ie/residential/brochure/69-eagle-valley-wilton-cork/5028726",
+    "https://www.myhome.ie/residential/brochure/14-morton-street-clonmel-co-tipperary/5029094"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=145",
+  "paginationLimited": false
+}

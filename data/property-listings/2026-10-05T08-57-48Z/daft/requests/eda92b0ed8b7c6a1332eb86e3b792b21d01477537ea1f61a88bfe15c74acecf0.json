@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-21-block-a-castleforbes-square-ifsc-dublin-1/6683234",
+  "fetchedAt": "2026-10-05T09:50:09.334Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-21-block-a-castleforbes-square-ifsc-dublin-1/6683234",
+  "kind": "listing",
+  "responseSha256": "b76849462646f6ca09e75d16360484ddca2fbd897f0f26aa5e1ec062baa9d6a2",
+  "files": [
+    {
+      "path": "daft/02092-eda92b0ed8b7c6a1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "47c770a5be748388d58b789555cdd71eb64f4bd21a5a150582800df2748c60af",
+      "bytes": 22786
+    },
+    {
+      "path": "daft/02092-eda92b0ed8b7c6a1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4d702dc3089f71755ea2f75b52eeb8ff7c061b87114148805ba324603ac9d33b",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

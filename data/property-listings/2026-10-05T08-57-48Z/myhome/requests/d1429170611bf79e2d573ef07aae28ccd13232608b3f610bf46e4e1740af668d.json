@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=20",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=20",
+  "fetchedAt": "2026-10-05T09:16:13.258Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "b8dd71c4a56023d28e241f7ce9b9395f62306f7f22a04a6c42de6d931f89529a",
+  "files": [
+    {
+      "path": "myhome/00732-d1429170611bf79e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=20\"].SearchResults",
+      "sha256": "0efbbbfb38441f664d513917feda98e454afb55cb41d50ed02bb197aedf7f9a7",
+      "bytes": 97395
+    },
+    {
+      "path": "myhome/00732-d1429170611bf79e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=20\"] (paging fields)",
+      "sha256": "b87d1c67d2bd244e38c578efbf17097c1c76b5778401ed8d3466b1afd7d9611d",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/156-hampton-cove-balbriggan-co-dublin/5019826",
+    "https://www.myhome.ie/rentals/brochure/copper-birch-hale-street-ardee-co-louth/5019668",
+    "https://www.myhome.ie/rentals/brochure/3-domville-square-cherrywood-dublin-18/5019443",
+    "https://www.myhome.ie/rentals/brochure/kingsquarter-craddockstown-naas-county-kildare/5019397",
+    "https://www.myhome.ie/rentals/brochure/20-foxrock-mount-foxrock-dublin-18/5019239",
+    "https://www.myhome.ie/rentals/brochure/belfry-grove-citywest-dublin-24/5019322",
+    "https://www.myhome.ie/rentals/brochure/90-liosmor-cappagh-road-galway/5019089",
+    "https://www.myhome.ie/rentals/brochure/the-links-elm-park-merrion-road-dublin-4-dublin/5018983",
+    "https://www.myhome.ie/rentals/brochure/fenaghbeg-fenagh-ballinamore-leitrim/5018985",
+    "https://www.myhome.ie/rentals/brochure/drumconrath-co-meath-c15pa46-drumconrath-meath/5018459",
+    "https://www.myhome.ie/rentals/brochure/ely-place-off-st-stephen-s-green-south-city-centre-dublin-2/4994084",
+    "https://www.myhome.ie/rentals/brochure/10-orwell-park-gardens-rathgar-dublin-6/5017640",
+    "https://www.myhome.ie/rentals/brochure/coming-soon-millrace-court-saggart-co-dublin/5017618",
+    "https://www.myhome.ie/rentals/brochure/clooncarreen-bornacoola-co-leitrim/5017257",
+    "https://www.myhome.ie/rentals/brochure/90-heathervue-greystones-co-wicklow-greystones-wicklow/5001125",
+    "https://www.myhome.ie/rentals/brochure/14-la-touche-cove-greystones-wicklow/5003527",
+    "https://www.myhome.ie/rentals/brochure/12-woodview-court-leap-west-cork/5017048",
+    "https://www.myhome.ie/rentals/brochure/34-birch-house-red-arches-park-the-coast-dublin-13-co-dublin/5016782",
+    "https://www.myhome.ie/rentals/brochure/alta-verde-cross-avenue-blackrock-dublin/4935848",
+    "https://www.myhome.ie/rentals/brochure/castlefish-kilcullen-kildare/4700371"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=21",
+  "paginationLimited": false
+}

@@ -1,0 +1,461 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "mohia lane killurin  tullamore offaly",
+    "GroupId": 389720,
+    "Address": "Mohia Lane, Killurin, ",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5ea21266-37f6-4f5e-8d4e-177cb9468f0a_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5ea21266-37f6-4f5e-8d4e-177cb9468f0a_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5ea21266-37f6-4f5e-8d4e-177cb9468f0a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/845d6795-42f6-4c13-9670-13aa8b559760_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/fa3b1997-a952-4157-ac56-b75c46aebaa3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ee488ac7-c1d7-425c-b236-e162510df6ec_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/efa8597b-8078-4244-aca7-60b7464e63c0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/9176861b-b33b-4aa5-9831-d36658a2875a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2b7fea0d-0d0b-4252-8442-925f6812ebd6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b3d48d59-9e23-4abc-8b13-5e93640e42aa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f950a42c-8913-4871-b89a-cd1e3948578c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/879fa23b-b083-4a74-8ee2-541a0c8b3344_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ccf31225-97bc-402d-a06f-80e28d49bc0c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/8efa0569-0a9f-43ff-abc3-a2de5cc54ed7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/702ed30d-7a9e-497b-959e-6ab51f2ded68_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5571c6c7-5a56-4698-bd10-93ec974179ce_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/18220d41-788b-4cde-86da-eca151786080_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b50d11a2-de4d-463e-88fb-3578b039f5bd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/01e0f64d-05e9-4f24-b9b2-6aaa14dfe56a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f2fafd9b-1c98-4d3b-b554-fbb995830800_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/6834d71c-a081-4022-815f-3acf1d2b761d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a95c4bc-6067-42e2-882e-7a20859aa013_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "MinSize": 158,
+    "MaxSize": 158,
+    "BerRating": "C2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 20,
+        "Name": "Wheelchair Access",
+        "CreatedOn": "2018-03-20T10:30:38.1270000+00:00",
+        "IconName": "myh-icon-wheelchair-access",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Dermot Deegan Auctioneers are delighted to present to the market this exceptional five-bedroom detached dormer bungalow, ideally located at Mohia Lane, Killurin, Tullamore, Co. Offaly. Set on an impressive and private site extending to approximately 1.13 acres, this stunning residence offers the perfect blend of peaceful countryside living and modern convenience, with ample space for further development or expansion. The property is presented in excellent condition throughout and comes to the market as a true turnkey home, ready for immediate occupation.\r\n\r\nThis beautifully maintained home has been carefully designed to maximise space, comfort, and natural light, with well-proportioned accommodation ideally suited to family living. Having been previously used as a holiday home, the property has been exceptionally well cared for and is in superb decorative order. The home benefits from both solid fuel and oil-fired central heating, ensuring efficient and flexible heating throughout, along with double glazed windows enhancing energy efficiency and comfort.\r\n\r\nExtending to approximately 158 sq.m. internally, the accommodation is generously arranged over two floors. The ground floor comprises a bright entrance hallway leading into a spacious living room filled with natural light and featuring a charming insert solid fuel stove, along with a standout double-aspect kitchen that benefits from excellent natural light. Also on the ground floor are three generously sized bedrooms, one completed with an ensuite, as well as a main bathroom finished with stylish tiling and a convenient shower-over-bath, and a hot press providing additional storage. The first floor offers two large spacious bedrooms, both enjoying natural light from the front and rear and pleasant views of the surrounding countryside, along with a bathroom, completing this comfortable and well-appointed home. The property is also wheelchair accessible.\r\n\r\nExternally, the property features extensive lawn areas surrounding the house, complemented by well-maintained shrubbery throughout. The boundaries are thoughtfully defined, with wooden fencing to the front and one side, along with copper beech hedging, while the remaining side and rear boundaries are bordered by mature whitethorn hedging, interspersed with attractive holly trees. To the rear of the property, there are useful storage sheds, a greenhouse, and a dog kennel, further enhancing the practicality of the outdoor space. \r\n\r\nThe setting is truly idyllic, with breathtaking panoramic views to both the front and rear, allowing residents to fully appreciate the beauty of the surrounding countryside. Despite its peaceful rural setting, the property is conveniently located less than 12 minutes from Tullamore Town, offering a full range of amenities including schools, shops, restaurants, sporting facilities, and healthcare services. For commuters, Tullamore Railway Station provides regular daily services to Dublin, while the property also benefits from easy access to major road networks. The nearby Slieve Bloom Mountains and surrounding countryside provide excellent opportunities for walking, cycling, and outdoor pursuits. This outstanding home must be seen to be fully appreciated, offering a rare opportunity to acquire a high-quality residence in a sought-after and scenic location. \r\n\r\nViewings Are Strictly By Appointment Only with Sole Selling Agents, Dermot Deegan Auctioneers, who can be contacted on 085 132 6157."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall: 6.13m x 5.45m. A very bright and exceptionally spacious entrance hallway, providing comfortable access to all ground floor rooms and the staircase upon entry. Finished with a practical wood-effect linoleum flooring, the space also benefits from a radiator and creates an immediate sense of openness and light.\r\n\r\nSitting Room: 4.30m x 3.52m. Accessed through two beautiful timber doors from the kitchen/dining area, the sitting room is a warm and inviting space, enjoying excellent natural light. It features a wooden floor finish and an insert solid fuel stove with a cream granite surround, creating a charming focal point. The room is further enhanced by decorative wallpaper surrounding the fireplace and TV area, adding character and warmth throughout.\r\n\r\nKitchen/Dining Area: 4.70m x 3.73m. A bright double-aspect kitchen and dining space, well laid out and designed for everyday living. It includes an electric oven and hob, dishwasher, along with multiple storage compartments, offering excellent functionality. The room benefits from an abundance of natural light, complemented by a laminate wood flooring finish. Glass-panelled patio doors provide seamless access to the rear of the property, while an additional door connects directly to the hallway, enhancing practicality and flow throughout the ground floor. \r\n\r\nBathroom: 3.38m x 1.82m. A beautifully designed and well-appointed bathroom featuring stylish tiling throughout. The space includes a shower-over-bath configuration, a toilet and wash handbasin, a radiator for added comfort, and a frosted window providing both natural ventilation and privacy. The overall finish is modern, clean, and thoughtfully designed.\r\n\r\nBedroom 1: 3.38m x 1.82m. A well-presented bedroom currently accommodating a double bed, with built-in wardrobes providing excellent storage. The room also includes a radiator, a television point, and a beautiful wood flooring finish. It enjoys excellent natural light, creating a bright and comfortable living space. \r\n\r\nEnsuite Bathroom: 2.05m x 1.48m. A tastefully designed ensuite comprising a shower, wash hand basin, and toilet. The space is finished to a good standard and includes a radiator for added comfort, along with a frosted window providing natural light, ventilation, and privacy.\r\n\r\nBedroom 2: 4.30m x 2.83m. A bright front-aspect bedroom enjoying excellent natural light. The room features a wooden floor finish, a radiator, and includes a television point along with a useful storage locker, making it both comfortable and practical. \r\n\r\nBedroom 3: 3.74m x 2.84m. Another well-proportioned front-aspect bedroom, filled with beautiful natural light. It includes a built-in wardrobe for convenient storage, a wooden floor finish, and a radiator, creating a warm and inviting space. \r\n\r\nHot Press: Fully shelved, providing ample and convenient storage space.\r\n\r\nUpstairs consisting of,\r\n\r\nLanding: 4.03m x 2.56m. A spacious landing area finished with a quality carpet, enhancing comfort and warmth. The front-facing aspect allows for pleasant natural light and offers attractive views of the surrounding countryside. \r\n\r\nBedroom 4: 5.28m x 4.91m. An exceptionally large and bright bedroom featuring both a dormer window and a Velux window, allowing for an abundance of natural light. The room is finished with carpet flooring and benefits from built-in wardrobes and access to under-eaves storage. Generous in size, it comfortably accommodates multiple beds and additional furnishings, making it ideal for family use or guest accommodation. A radiator and bedside lockers further enhance the room’s comfort and functionality. \r\n\r\nBedroom 5: 5.25m x 4.60m. A spacious and beautifully presented bedroom centred around a king-size bed, complemented by a comfortable seating area. The room benefits from excellent natural light through both a dormer window and a Velux roof window. Additional features include a radiator and access to under-eaves storage. This room offers a calm and relaxing atmosphere, making it ideal as a main bedroom or private retreat. \r\n\r\nBathroom: 3.06m x 1.78m. A well-finished bathroom featuring wooden flooring and tiled walls, comprising a bath, wash hand basin, and a toilet. The space is complemented by built-in storage and a wall-mounted mirror, while a Velux window provides natural light and ventilation. \r\n\r\nPlease note: No apparatus, fixtures, fittings, or services have been tested. Interested parties should rely on their own enquiries to confirm the condition and operational status of these items. All measurements are approximate, and photographs are provided for illustrative purposes only. All information and measurements are provided in good faith and are believed to be correct, however, Dermot Deegan Auctioneers (Licence no. 004796) shall not be held liable for any inaccuracies or omissions."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Detached Five Bedroom Dormer Bungalow\r\nSet on an Impressive and Private Site Extending to Approximately 1.13 Acres\r\nWheelchair Accessible.\r\nApprox. 158 Sq. M. Of Accommodation\r\nBreathtaking Panoramic Views to Both the Front & Rear\r\nDouble Glazed Windows\r\nBeautifully Landscaped\r\nLocated Less Than 12 minutes From Tullamore Town"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C2"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "Enter Eircode R35XT72 into Google Maps. This will bring you directly to the property."
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Viewings Are Strictly By Appointment Only with Sole Selling Agents, Dermot Deegan Auctioneers, who can be contacted on 085 132 6157."
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 80,
+    "MaxEnergyRating": 80,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-04-26T23:57:00.8800000+01:00",
+    "ModifiedOnDate": "2026-08-25T07:56:52.7800000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-04-27T00:19:13.4330000+01:00",
+    "RefreshedOn": "2026-08-25T07:57:30.7330000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+    "IsTransact": false,
+    "PriceAsString": "€475,000",
+    "AuctionList": [],
+    "PropertyId": 4995806,
+    "SizeStringMeters": 158,
+    "DisplayAddress": "Mohia Lane, Killurin, , Tullamore, Offaly",
+    "Eircode": "R35XT72",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 2888,
+    "RegionName": "Offaly",
+    "LocalityId": 2908,
+    "LocalityName": "Tullamore",
+    "Price": {
+      "MinPrice": 475000,
+      "MaxPrice": 475000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5ea21266-37f6-4f5e-8d4e-177cb9468f0a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5ea21266-37f6-4f5e-8d4e-177cb9468f0a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5ea21266-37f6-4f5e-8d4e-177cb9468f0a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/845d6795-42f6-4c13-9670-13aa8b559760_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/845d6795-42f6-4c13-9670-13aa8b559760_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/845d6795-42f6-4c13-9670-13aa8b559760_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/fa3b1997-a952-4157-ac56-b75c46aebaa3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/fa3b1997-a952-4157-ac56-b75c46aebaa3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/fa3b1997-a952-4157-ac56-b75c46aebaa3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ee488ac7-c1d7-425c-b236-e162510df6ec_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ee488ac7-c1d7-425c-b236-e162510df6ec_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ee488ac7-c1d7-425c-b236-e162510df6ec_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/efa8597b-8078-4244-aca7-60b7464e63c0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/efa8597b-8078-4244-aca7-60b7464e63c0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/efa8597b-8078-4244-aca7-60b7464e63c0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/9176861b-b33b-4aa5-9831-d36658a2875a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/9176861b-b33b-4aa5-9831-d36658a2875a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/9176861b-b33b-4aa5-9831-d36658a2875a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2b7fea0d-0d0b-4252-8442-925f6812ebd6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2b7fea0d-0d0b-4252-8442-925f6812ebd6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2b7fea0d-0d0b-4252-8442-925f6812ebd6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b3d48d59-9e23-4abc-8b13-5e93640e42aa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b3d48d59-9e23-4abc-8b13-5e93640e42aa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b3d48d59-9e23-4abc-8b13-5e93640e42aa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f950a42c-8913-4871-b89a-cd1e3948578c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f950a42c-8913-4871-b89a-cd1e3948578c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f950a42c-8913-4871-b89a-cd1e3948578c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/879fa23b-b083-4a74-8ee2-541a0c8b3344_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/879fa23b-b083-4a74-8ee2-541a0c8b3344_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/879fa23b-b083-4a74-8ee2-541a0c8b3344_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ccf31225-97bc-402d-a06f-80e28d49bc0c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ccf31225-97bc-402d-a06f-80e28d49bc0c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/ccf31225-97bc-402d-a06f-80e28d49bc0c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/8efa0569-0a9f-43ff-abc3-a2de5cc54ed7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/8efa0569-0a9f-43ff-abc3-a2de5cc54ed7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/8efa0569-0a9f-43ff-abc3-a2de5cc54ed7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/702ed30d-7a9e-497b-959e-6ab51f2ded68_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/702ed30d-7a9e-497b-959e-6ab51f2ded68_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/702ed30d-7a9e-497b-959e-6ab51f2ded68_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5571c6c7-5a56-4698-bd10-93ec974179ce_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5571c6c7-5a56-4698-bd10-93ec974179ce_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/5571c6c7-5a56-4698-bd10-93ec974179ce_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/18220d41-788b-4cde-86da-eca151786080_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/18220d41-788b-4cde-86da-eca151786080_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/18220d41-788b-4cde-86da-eca151786080_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b50d11a2-de4d-463e-88fb-3578b039f5bd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b50d11a2-de4d-463e-88fb-3578b039f5bd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/b50d11a2-de4d-463e-88fb-3578b039f5bd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/01e0f64d-05e9-4f24-b9b2-6aaa14dfe56a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/01e0f64d-05e9-4f24-b9b2-6aaa14dfe56a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/01e0f64d-05e9-4f24-b9b2-6aaa14dfe56a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f2fafd9b-1c98-4d3b-b554-fbb995830800_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f2fafd9b-1c98-4d3b-b554-fbb995830800_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/f2fafd9b-1c98-4d3b-b554-fbb995830800_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/6834d71c-a081-4022-815f-3acf1d2b761d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/6834d71c-a081-4022-815f-3acf1d2b761d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/6834d71c-a081-4022-815f-3acf1d2b761d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a95c4bc-6067-42e2-882e-7a20859aa013_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a95c4bc-6067-42e2-882e-7a20859aa013_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a95c4bc-6067-42e2-882e-7a20859aa013_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a503403-0cb2-4d9e-9461-94da195d73e1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a503403-0cb2-4d9e-9461-94da195d73e1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a503403-0cb2-4d9e-9461-94da195d73e1_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -7.5607072,
+      "latitude": 53.2173579
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 20,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/6/0/8/4995806/2a503403-0cb2-4d9e-9461-94da195d73e1_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 389720,
+    "Name": "Dermot Deegan",
+    "DisplayPhone": "085 1326157",
+    "Email": "dermotdeegansales@gmail.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "dermot-deegan",
+    "SeoName": "dermot-deegan",
+    "Address": "Clonminch Road, Tullamore, Co. Offaly",
+    "SalesLicense": "",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "tullamore/2908",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5021854,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Ballykilmurray, , Tullamore, Offaly",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/5/8/5021854/e5064d24-3777-4ae0-b3bd-52a2691596ab_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/ballykilmurray-tullamore-offaly/5021854"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5005963,
+      "Address": "171 Droim Liath, Tullamore, Offaly",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/6/9/5005963/62dfad88-a865-448c-b355-c9630035b2be_t.jpg",
+      "HasWebP": false,
+      "Price": 510000,
+      "PrevPrice": 545000,
+      "PriceChangeDelta": -35000,
+      "PriceChangePercentage": -6.422,
+      "Created": "4th Aug 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+      "BerRating": "B3",
+      "SeoUrl": "/residential/brochure/171-droim-liath-tullamore-offaly/5005963",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 5005963,
+      "Address": "171 Droim Liath, Tullamore, Offaly",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/6/9/5005963/62dfad88-a865-448c-b355-c9630035b2be_t.jpg",
+      "HasWebP": false,
+      "Price": 545000,
+      "PrevPrice": 570000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -4.386,
+      "Created": "2nd Jul 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+      "BerRating": "B3",
+      "SeoUrl": "/residential/brochure/171-droim-liath-tullamore-offaly/5005963",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4995806,
+      "Address": "Mohia Lane, Killurin, , Tullamore, Offaly",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/0/8/4995806/4bf624c5-9e8b-4662-9f49-8fe8d1007a24_t.jpg",
+      "HasWebP": false,
+      "Price": 475000,
+      "PrevPrice": 500000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -5,
+      "Created": "21st May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+      "BerRating": "C2",
+      "SeoUrl": "/residential/brochure/mohia-lane-killurin-tullamore-offaly/4995806",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/mohia-lane-killurin-tullamore-offaly/4995806",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 389720,
+    "MYH_LocalityID": 2908,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2888,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Cable Television",
+      "Garden",
+      "Alarm",
+      "Wheelchair Access",
+      "Full Furnished",
+      "Dishwasher"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Cable Television,Garden,Alarm,Wheelchair Access,Full Furnished,Dishwasher",
+    "MYH_MaxPrice": 475000,
+    "MYH_MinBeds": 0,
+    "MYH_MinEnergyRating": 80,
+    "MYH_MinPrice": 475000,
+    "MYH_MinSize": 158,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 4995806,
+    "MYH_PropertyTypeID": 39
+  }
+}

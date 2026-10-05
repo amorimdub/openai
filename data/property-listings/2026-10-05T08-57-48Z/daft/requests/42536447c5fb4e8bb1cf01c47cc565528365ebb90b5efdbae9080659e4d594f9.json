@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=17",
+  "fetchedAt": "2026-10-05T09:19:29.190Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=17",
+  "kind": "search",
+  "responseSha256": "e2fb4caee754219072cb25ef7610e0659efba2c7cb3d305f3c1fc29d32dd5b88",
+  "files": [
+    {
+      "path": "daft/00867-42536447c5fb4e8b-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "21287f07effcdc7f425eac1c0e3969758f27874755dbce4c77e5cb02b6807229",
+      "bytes": 258001
+    },
+    {
+      "path": "daft/00867-42536447c5fb4e8b-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00867-42536447c5fb4e8b-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "70c1cbdc29c6778dfa2a9c528736ed836410283b5b8677f3953cca7360a98feb",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/-co-roscommon-bellanagare-co-roscommon/6675186",
+    "https://www.daft.ie/for-rent/apartment-6-101-ranelagh-ranelagh-dublin-6/6674760",
+    "https://www.daft.ie/for-rent/chestnut-grove-kingswood-tallaght-dublin-24/6607920",
+    "https://www.daft.ie/for-rent/glenside-annacotty-co-limerick/6674086",
+    "https://www.daft.ie/for-rent/6-kenilworth-square-rathgar-co-dublin/6662807",
+    "https://www.daft.ie/for-rent/churchtown-road-lower-dublin-14-churchtown-dublin-14/6667553",
+    "https://www.daft.ie/for-rent/c-irt-eanna-the-long-walk-galway-galway-city-centre-co-galway/6673561",
+    "https://www.daft.ie/for-rent/caledon-road-dublin-3-east-wall-co-dublin/6564367",
+    "https://www.daft.ie/for-rent/apartment-15-priory-hall-dublin-road-drogheda-co-louth/6643599",
+    "https://www.daft.ie/for-rent/the-stable-mill-house-levitstown-athy-co-kildare-maganey-co-kildare/6671990",
+    "https://www.daft.ie/for-rent/laragh-kilcock-laragh-co-kildare/6653903",
+    "https://www.daft.ie/for-rent/hadleigh-court-haddington-road-dublin-4/6671722",
+    "https://www.daft.ie/for-rent/sorrento-road-dalkey-co-dublin/6670256",
+    "https://www.daft.ie/for-rent/richmond-hall-mount-st-annes-milltown-co-dublin/6671511",
+    "https://www.daft.ie/for-rent/rural-kilcullen-kilcullen-co-kildare/6624526",
+    "https://www.daft.ie/for-rent/33-woodfield-coolroe-ballincollig-cork-ballincollig-co-cork/6670952",
+    "https://www.daft.ie/for-rent/hynes-yard-dock-road-galway-city-centre-co-galway/6671069",
+    "https://www.daft.ie/for-rent/manorhamilton-co-leitrim-near-sligo-manorhamilton-co-leitrim/6670084",
+    "https://www.daft.ie/for-rent/20-the-oaks-rockfield-dundrum-dublin-16/6670148",
+    "https://www.daft.ie/for-rent/gravelmount-house-castletown-navan-castletown-co-meath/6650262"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=18",
+  "paginationLimited": false
+}

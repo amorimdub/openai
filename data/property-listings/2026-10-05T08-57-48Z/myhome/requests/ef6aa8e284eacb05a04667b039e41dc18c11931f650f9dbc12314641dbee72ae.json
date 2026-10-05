@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=340",
+  "fetchedAt": "2026-10-05T13:09:44.437Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=340",
+  "kind": "search",
+  "responseSha256": "f315cdb230dce040e6b42b89c3aac6c018430ba3ecb792a8087569c08926cbce",
+  "files": [
+    {
+      "path": "myhome/07522-ef6aa8e284eacb05-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=340\"].SearchResults",
+      "sha256": "e58bda624f98c48aa1dc97dd2ab8c57dc34861a51984939b4ffaaa24f273dffa",
+      "bytes": 119488
+    },
+    {
+      "path": "myhome/07522-ef6aa8e284eacb05-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=340\"] (paging fields)",
+      "sha256": "3186f7c93851961e12f84a0573c2d77d2b75e48c0cd0847b7917b09ae218c300",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-quinn-villas-ballaghaderreen-county-roscommon/5021317",
+    "https://www.myhome.ie/residential/brochure/cloyne-road-ballinacurra-midleton-cork/5021034",
+    "https://www.myhome.ie/residential/brochure/letterbrick-cloghan-co-donegal/5021316",
+    "https://www.myhome.ie/residential/brochure/86-wyckham-place-wyckham-way-dundrum-dublin-16/5017868",
+    "https://www.myhome.ie/residential/brochure/cooleycall-farmhouse-on-c-20-5-acres-baldwinstown-bridgetown-wexford/4931353",
+    "https://www.myhome.ie/residential/brochure/sea-breeze-23-st-laurences-park-wicklow-town-co-wicklow/5021313",
+    "https://www.myhome.ie/residential/brochure/bianconci-house-oldborris-castletown-portlaoise-co-laois/5021311",
+    "https://www.myhome.ie/residential/brochure/54-hallwell-avenue-adamstown-dublin/5020954",
+    "https://www.myhome.ie/residential/brochure/13-lower-grand-canal-street-dublin-2/5021295",
+    "https://www.myhome.ie/residential/brochure/41-college-vale-mullingar-westmeath/5021288",
+    "https://www.myhome.ie/residential/brochure/7-an-fulacht-fiadh-bantry-west-cork/4991024",
+    "https://www.myhome.ie/residential/brochure/7-mcswiney-street-dundalk-louth/5021278",
+    "https://www.myhome.ie/residential/brochure/killinbore-colehill-co-longford/5021290",
+    "https://www.myhome.ie/residential/brochure/apartment-128-block-b3-belgrove-park-mount-prospect-lawns-clontarf-dublin-3/5011096",
+    "https://www.myhome.ie/residential/brochure/5-brabazon-cottages-bray-co-wicklow/5009920",
+    "https://www.myhome.ie/residential/brochure/39-james-everett-park-bray-co-wicklow/5009011",
+    "https://www.myhome.ie/residential/brochure/8-old-connaught-house-old-connaught-rathmichael-co-dublin/5002168",
+    "https://www.myhome.ie/residential/brochure/copper-hill-7-rathmichael-haven-rathmichael-dublin-18/4952825",
+    "https://www.myhome.ie/residential/brochure/glencarrig-falls-road-shankill-dublin-18/4932310",
+    "https://www.myhome.ie/residential/brochure/30-ard-garr-n-ferbane-co-offaly/5021284"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=341",
+  "paginationLimited": false
+}

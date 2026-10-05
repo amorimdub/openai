@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=154",
+  "fetchedAt": "2026-10-05T11:33:50.000Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=154",
+  "kind": "search",
+  "responseSha256": "edefcd382baa5da0f3f5188a475f9d48d6582ef1305e00c3b6492c5905480076",
+  "files": [
+    {
+      "path": "myhome/03699-93b317aad21c883f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=154\"].SearchResults",
+      "sha256": "1c706f97b903deccdcc23f1ef138a6eb9938aa361ac8a1528076c6ad07f3b512",
+      "bytes": 115624
+    },
+    {
+      "path": "myhome/03699-93b317aad21c883f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=154\"] (paging fields)",
+      "sha256": "7af2f7f3b79fe9fa5ac37d77ae9cbd1bef00a05cd861a9f46a5060874aa7abdc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-the-park-balbriggan-street-skerries-county-dublin/5007235",
+    "https://www.myhome.ie/residential/brochure/apartment-53-horizon-building-royal-canal-park-ashtown-dublin-15/5028685",
+    "https://www.myhome.ie/residential/brochure/grattan-lodge-ballyweelin-rosses-point-sligo/5028856",
+    "https://www.myhome.ie/residential/brochure/knocknanaugh-kiskeam-mallow-cork/5025691",
+    "https://www.myhome.ie/residential/brochure/43-ely-woods-owendore-lodge-rathfarnham-dublin-16/5028865",
+    "https://www.myhome.ie/residential/brochure/10-ballynakelly-cottages-ballynakelly-newcastle-co-dublin/5028864",
+    "https://www.myhome.ie/residential/brochure/13-burrow-road-sutton-dublin-13/5027108",
+    "https://www.myhome.ie/residential/brochure/7-seabury-view-malahide-county-dublin/5027957",
+    "https://www.myhome.ie/residential/brochure/96-biscayne-malahide-county-dublin/5028848",
+    "https://www.myhome.ie/residential/brochure/isleham-house-tullytreane-crosskeys-cavan-county-cavan/5028859",
+    "https://www.myhome.ie/residential/brochure/glanlough-kilcrohane-co-cork/5028855",
+    "https://www.myhome.ie/residential/brochure/52-roseland-avenue-cualanor-dun-laoghaire-co-dublin/5028854",
+    "https://www.myhome.ie/residential/brochure/545-carnlough-road-cabra-dublin-7/5028853",
+    "https://www.myhome.ie/residential/brochure/37-block-a-the-harbour-nelson-street-athy-county-kildare/5028850",
+    "https://www.myhome.ie/residential/brochure/112-roselawn-road-castleknock-dublin-15/5028849",
+    "https://www.myhome.ie/residential/brochure/moynalty-house-18-dromore-rise-raheen-limerick/5027630",
+    "https://www.myhome.ie/residential/brochure/ballymacshoneen-butlerstown-bandon-co-cork/5028847",
+    "https://www.myhome.ie/residential/brochure/11-brackinrainey-wood-longwood-enfield-co-meath/5028846",
+    "https://www.myhome.ie/residential/brochure/5-simcox-lane-drogheda-co-louth/5028845",
+    "https://www.myhome.ie/residential/brochure/57-bayside-boulevard-north-sutton-dublin-13/5028844"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=155",
+  "paginationLimited": false
+}

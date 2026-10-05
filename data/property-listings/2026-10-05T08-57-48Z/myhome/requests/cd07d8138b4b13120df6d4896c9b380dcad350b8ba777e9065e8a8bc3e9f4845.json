@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=8",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=8",
+  "fetchedAt": "2026-10-05T09:03:44.095Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "9a757f788277e220e034776ef33f5a114d2ceec48e5f59c49a11382bafae5342",
+  "files": [
+    {
+      "path": "myhome/00238-cd07d8138b4b1312-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=8\"].SearchResults",
+      "sha256": "0675315f523dda0601aec4bc3a1e34c4bab32c6f4529456d7a8019a3445f769b",
+      "bytes": 93851
+    },
+    {
+      "path": "myhome/00238-cd07d8138b4b1312-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=8\"] (paging fields)",
+      "sha256": "16e47ee20e6a38328206935a88614fa6ee0c1ea4497465a5992e0dbbf66de6d4",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/ard-mor-close-tallaght-dublin-24/5031388",
+    "https://www.myhome.ie/rentals/brochure/1b-the-drumlins-cavan-county-cavan/5031365",
+    "https://www.myhome.ie/rentals/brochure/63-seapark-drive-clontarf-dublin-3/5031332",
+    "https://www.myhome.ie/rentals/brochure/woodbrook-court-castleknock-dublin-15/5031323",
+    "https://www.myhome.ie/rentals/brochure/apartment-53-southmede-ballinteer-dublin-16/5026379",
+    "https://www.myhome.ie/rentals/brochure/greenbank-stradbrook-road-blackrock-dublin/5028916",
+    "https://www.myhome.ie/rentals/brochure/castlecurragh-vale-blanchardstown-dublin-15/5031306",
+    "https://www.myhome.ie/rentals/brochure/apartment-1-34-longwood-avenue-portobello-dublin-8/5031273",
+    "https://www.myhome.ie/rentals/brochure/tobarkeel-drumcliffe-road-ennis-county-clare/5031269",
+    "https://www.myhome.ie/rentals/brochure/apartment-20-carberry-house-ard-ri-athlone-westmeath/5031266",
+    "https://www.myhome.ie/rentals/brochure/2499-conroy-park-kilcullen-kildare/5031232",
+    "https://www.myhome.ie/rentals/brochure/stockwell-sandyford-road-dundrum-dublin-16/5031224",
+    "https://www.myhome.ie/rentals/brochure/crookstown-ballitore-kildare/5031208",
+    "https://www.myhome.ie/rentals/brochure/mayeston-square-finglas-dublin-11/5031200",
+    "https://www.myhome.ie/rentals/brochure/blarney-park-kimmage-dublin-12/5031192",
+    "https://www.myhome.ie/rentals/brochure/apartment-45-broadmeadow-castle-ashbourne-meath/5027506",
+    "https://www.myhome.ie/rentals/brochure/bloomfield-park-bloomfield-avenue-donnybrook-dublin-4-donnybrook-dublin-4/5031182",
+    "https://www.myhome.ie/rentals/brochure/amiens-street-dublin-1/5031180",
+    "https://www.myhome.ie/rentals/brochure/coolquay-common-the-ward-co-dublin/5031166",
+    "https://www.myhome.ie/rentals/brochure/sand-house-glass-bottle-cullet-walk-sandymount-dublin-4/5018828"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=9",
+  "paginationLimited": false
+}

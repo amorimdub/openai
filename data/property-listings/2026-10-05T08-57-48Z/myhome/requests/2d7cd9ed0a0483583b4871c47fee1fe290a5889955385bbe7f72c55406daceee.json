@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=407",
+  "fetchedAt": "2026-10-05T13:44:21.576Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=407",
+  "kind": "search",
+  "responseSha256": "c9c58393b1e3a386cc672320dc7599ace51f2d0101c8e7788593b6915a13aad4",
+  "files": [
+    {
+      "path": "myhome/08904-2d7cd9ed0a048358-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=407\"].SearchResults",
+      "sha256": "6a1f982848eaa2359199efd98d7c4ff10f51e98a5ec130396a7840cf4fccb44b",
+      "bytes": 145454
+    },
+    {
+      "path": "myhome/08904-2d7cd9ed0a048358-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=407\"] (paging fields)",
+      "sha256": "4a122ad16ecab7d458b50079e74262140b707f21c234d1414a3c9e556ecc95be",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/gort-na-r-trim-county-meath/5014730",
+    "https://www.myhome.ie/residential/brochure/san-feliu-ardeevin-road-dalkey-county-dublin/5014712",
+    "https://www.myhome.ie/residential/brochure/69-lisheen-woods-ovens-co-cork/5014721",
+    "https://www.myhome.ie/residential/brochure/1-carrick-mor-cullenstown-duncormick-co-wexford/5014713",
+    "https://www.myhome.ie/residential/brochure/10-newpark-lawn-kilkenny-kilkenny/5014670",
+    "https://www.myhome.ie/residential/brochure/mermaids-view-cruisetown-clogherhead-louth/5014197",
+    "https://www.myhome.ie/residential/brochure/25-college-orchard-newbridge-co-kildare/5014709",
+    "https://www.myhome.ie/residential/brochure/4-cathedral-view-cavan-county-cavan/5014706",
+    "https://www.myhome.ie/residential/brochure/45-the-sycamore-trimblestown-goatstown-dublin-14/4962798",
+    "https://www.myhome.ie/residential/brochure/48-o-rahillys-villas-tralee-co-kerry/5014703",
+    "https://www.myhome.ie/residential/brochure/lawn-house-west-end-drimoleague-cork/4989342",
+    "https://www.myhome.ie/residential/brochure/236-beech-park-easton-road-leixlip-kildare/5014680",
+    "https://www.myhome.ie/residential/brochure/woodstock-dublin-road-arklow-wicklow/5014688",
+    "https://www.myhome.ie/residential/brochure/spencer-street-castlebar-mayo/5014669",
+    "https://www.myhome.ie/residential/brochure/4-the-avenue-harbour-heights-passage-west-cork/5005163",
+    "https://www.myhome.ie/residential/brochure/2-flann-o-brien-mews-avoca-road-blackrock-co-dublin/5000942",
+    "https://www.myhome.ie/residential/brochure/boleybeg-ballitore-co-kildare/5014665",
+    "https://www.myhome.ie/residential/brochure/23-lanesborough-court-lanesborough-drive-dublin-11-dublin/5014659",
+    "https://www.myhome.ie/residential/brochure/station-house-rossnowlagh-county-donegal/5014661",
+    "https://www.myhome.ie/residential/brochure/saint-martins-20-rathbawn-drive-castlebar-mayo/5014654"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=408",
+  "paginationLimited": false
+}

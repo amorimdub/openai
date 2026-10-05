@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "AHANE NATIONAL SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 3.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.668495",
+        "lon": "-8.482184"
+      }
+    },
+    {
+      "schoolName": "MURROE NATIONAL SCHOOL",
+      "numPupils": 143,
+      "distance": {
+        "value": 3.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.649704",
+        "lon": "-8.397826"
+      }
+    },
+    {
+      "schoolName": "KILLINURE NATIONAL SCHOOL",
+      "numPupils": 191,
+      "distance": {
+        "value": 4.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.613804",
+        "lon": "-8.436945"
+      }
+    },
+    {
+      "schoolName": "LISNAGRY NATIONAL SCHOOL",
+      "numPupils": 295,
+      "distance": {
+        "value": 5.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.680187",
+        "lon": "-8.512487"
+      }
+    },
+    {
+      "schoolName": "ST VINCENT'S LISNAGRY",
+      "numPupils": 100,
+      "distance": {
+        "value": 5.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.668415",
+        "lon": "-8.524258"
+      }
+    },
+    {
+      "schoolName": "NEWPORT CONVENT",
+      "numPupils": 270,
+      "distance": {
+        "value": 6.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.710854",
+        "lon": "-8.411192"
+      }
+    },
+    {
+      "schoolName": "CAHERCONLISH NATIONAL SCHOOL",
+      "numPupils": 109,
+      "distance": {
+        "value": 6.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.594143",
+        "lon": "-8.476665"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL CHALADH AN TREOIGH",
+      "numPupils": 417,
+      "distance": {
+        "value": 7.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.657333",
+        "lon": "-8.548863"
+      }
+    },
+    {
+      "schoolName": "MONALEEN NATIONAL SCHOOL",
+      "numPupils": 847,
+      "distance": {
+        "value": 7.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658348",
+        "lon": "-8.549495"
+      }
+    },
+    {
+      "schoolName": "BOHERMORE NATIONAL SCHOOL",
+      "numPupils": 97,
+      "distance": {
+        "value": 7.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.611034",
+        "lon": "-8.525215"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "GLENSTAL ABBEY SCHOOL",
+      "numPupils": 202,
+      "distance": {
+        "value": 3.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661720",
+        "lon": "-8.387130"
+      }
+    },
+    {
+      "schoolName": "CASTLETROY COLLEGE",
+      "numPupils": 1329,
+      "distance": {
+        "value": 6.59,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663136",
+        "lon": "-8.540899"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S SECONDARY SCHOOL",
+      "numPupils": 725,
+      "distance": {
+        "value": 6.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.709633",
+        "lon": "-8.411606"
+      }
+    },
+    {
+      "schoolName": "NEWPORT COLLEGE",
+      "numPupils": 364,
+      "distance": {
+        "value": 7.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.714870",
+        "lon": "-8.406546"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 574,
+      "distance": {
+        "value": 11.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670030",
+        "lon": "-8.614521"
+      }
+    },
+    {
+      "schoolName": "ST MUNCHIN'S COLLEGE",
+      "numPupils": 662,
+      "distance": {
+        "value": 11.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.681995",
+        "lon": "-8.614303"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE LUIMNIGH",
+      "numPupils": 616,
+      "distance": {
+        "value": 11.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666676",
+        "lon": "-8.619911"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHICHIL",
+      "numPupils": 346,
+      "distance": {
+        "value": 11.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659195",
+        "lon": "-8.621262"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NANO NAGLE",
+      "numPupils": 356,
+      "distance": {
+        "value": 12.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.660180",
+        "lon": "-8.622252"
+      }
+    },
+    {
+      "schoolName": "ST CLEMENTS COLLEGE",
+      "numPupils": 411,
+      "distance": {
+        "value": 13.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655870",
+        "lon": "-8.638259"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Cappanahanagh",
+      "route": "332",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 2.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.664408",
+        "lon": "-8.419282"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Murroe",
+      "route": "332",
+      "destination": "Cashel",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6494543368273",
+        "lon": "-8.40026664159405"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sandylane",
+      "route": "347",
+      "destination": "Limerick",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.612572",
+        "lon": "-8.46034"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Knockbrack East",
+      "route": "332",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.682109",
+        "lon": "-8.495216"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Knockbrack West",
+      "route": "391",
+      "destination": "Limerick Arthur's Quay",
+      "provider": "TFI Local Link Tipperary",
+      "distance": {
+        "value": 4.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6798",
+        "lon": "-8.50073"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Bunkey",
+      "route": "332",
+      "destination": "Cappamore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 4.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.694593",
+        "lon": "-8.468759"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lisnagry",
+      "route": "323",
+      "destination": "Nenagh",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.685532",
+        "lon": "-8.510401"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lisnagry",
+      "route": "332",
+      "destination": "Cappamore",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.685532",
+        "lon": "-8.510401"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Annacotty Br",
+      "route": "323",
+      "destination": "Limerick Bus Station",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.669844",
+        "lon": "-8.525609"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Annacotty Br",
+      "route": "300",
+      "destination": "Killarney Mission Road",
+      "provider": "Dublin Coach",
+      "distance": {
+        "value": 5.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.669844",
+        "lon": "-8.525609"
+      }
+    }
+  ]
+}

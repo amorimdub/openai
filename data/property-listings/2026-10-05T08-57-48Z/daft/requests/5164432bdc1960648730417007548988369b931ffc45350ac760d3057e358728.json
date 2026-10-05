@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-saint-conleths-avenue-naas-road-newbridge-co-kildare/6623255",
+  "fetchedAt": "2026-10-05T08:58:00.194Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-saint-conleths-avenue-naas-road-newbridge-co-kildare/6623255",
+  "kind": "listing",
+  "responseSha256": "b5584bd06103b02c7e09eb46e60db04609a4beefbac1f8174f4d00a37455e4cb",
+  "files": [
+    {
+      "path": "daft/00009-5164432bdc196064-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2ddd6d8cd13996716d695a51068e20eeb880db5dfed72dbbe0a9f8bd99126b4f",
+      "bytes": 94635
+    },
+    {
+      "path": "daft/00009-5164432bdc196064-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b458ca8cd4c3b3b1d6b57f05eb345c8d6731be42485badbd269046cf90f03971",
+      "bytes": 8258
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

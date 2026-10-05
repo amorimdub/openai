@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "BISHOP SHANAHAN NATIONAL SCHOOL",
+      "numPupils": 441,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.298428",
+        "lon": "-6.318416"
+      }
+    },
+    {
+      "schoolName": "RIVERVIEW EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 234,
+      "distance": {
+        "value": 0.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304966",
+        "lon": "-6.328266"
+      }
+    },
+    {
+      "schoolName": "BISHOP GALVIN NATIONAL SCHOOL",
+      "numPupils": 450,
+      "distance": {
+        "value": 0.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.298065",
+        "lon": "-6.318636"
+      }
+    },
+    {
+      "schoolName": "LIBERMANN SPIRITAN SCHOOL",
+      "numPupils": 43,
+      "distance": {
+        "value": 0.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304493",
+        "lon": "-6.313026"
+      }
+    },
+    {
+      "schoolName": "HOLY SPIRIT JUNIOR PRIMARY SCHOOL",
+      "numPupils": 277,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310080",
+        "lon": "-6.325699"
+      }
+    },
+    {
+      "schoolName": "HOLY SPIRIT SENIOR PRIMARY SCHOOL",
+      "numPupils": 266,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.310080",
+        "lon": "-6.325699"
+      }
+    },
+    {
+      "schoolName": "CHEEVERSTOWN SP SCH",
+      "numPupils": 26,
+      "distance": {
+        "value": 1.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294520",
+        "lon": "-6.313186"
+      }
+    },
+    {
+      "schoolName": "ST PIUS X BOYS NATIONAL SCHOOL",
+      "numPupils": 509,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.302770",
+        "lon": "-6.305443"
+      }
+    },
+    {
+      "schoolName": "ST PIUS X GIRLS NATIONAL SCHOOL",
+      "numPupils": 544,
+      "distance": {
+        "value": 1.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.302654",
+        "lon": "-6.304728"
+      }
+    },
+    {
+      "schoolName": "ST DAMIAN'S NATIONAL SCHOOL",
+      "numPupils": 232,
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.314236",
+        "lon": "-6.321282"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST. MAC DARA'S COMMUNITY COLLEGE",
+      "numPupils": 901,
+      "distance": {
+        "value": 0.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.297300",
+        "lon": "-6.327571"
+      }
+    },
+    {
+      "schoolName": "TEMPLEOGUE COLLEGE",
+      "numPupils": 660,
+      "distance": {
+        "value": 0.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304165",
+        "lon": "-6.311983"
+      }
+    },
+    {
+      "schoolName": "ST PAULS SECONDARY SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.307850",
+        "lon": "-6.331982"
+      }
+    },
+    {
+      "schoolName": "GREENHILLS COMMUNITY COLLEGE",
+      "numPupils": 177,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.307987",
+        "lon": "-6.336019"
+      }
+    },
+    {
+      "schoolName": "TALLAGHT COMMUNITY SCHOOL",
+      "numPupils": 828,
+      "distance": {
+        "value": 1.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294724",
+        "lon": "-6.338550"
+      }
+    },
+    {
+      "schoolName": "TERENURE COLLEGE",
+      "numPupils": 798,
+      "distance": {
+        "value": 1.67,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304250",
+        "lon": "-6.297370"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S SCHOOL",
+      "numPupils": 798,
+      "distance": {
+        "value": 1.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.300200",
+        "lon": "-6.296227"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE DE HÍDE",
+      "numPupils": 267,
+      "distance": {
+        "value": 1.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301247",
+        "lon": "-6.349289"
+      }
+    },
+    {
+      "schoolName": "ROSARY COLLEGE",
+      "numPupils": 225,
+      "distance": {
+        "value": 2.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.318680",
+        "lon": "-6.307461"
+      }
+    },
+    {
+      "schoolName": "SANCTA MARIA COLLEGE",
+      "numPupils": 574,
+      "distance": {
+        "value": 2.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284737",
+        "lon": "-6.303927"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Willington Green",
+      "route": "82",
+      "destination": "Sean Moore Rd",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303074",
+        "lon": "-6.322377"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Willington Green",
+      "route": "F2",
+      "destination": "Charlestown",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.303074",
+        "lon": "-6.322377"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Willington Lawn",
+      "route": "82",
+      "destination": "Kiltipper Way",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301272",
+        "lon": "-6.323378"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Willington Lawn",
+      "route": "F2",
+      "destination": "Rossmore Road",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301272",
+        "lon": "-6.323378"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Limekiln Rd E",
+      "route": "150",
+      "destination": "Limekiln Avenue",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.28,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304723",
+        "lon": "-6.322672"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Limekiln Rd E",
+      "route": "15A",
+      "destination": "Merrion Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304731",
+        "lon": "-6.323242"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Wellington Road",
+      "route": "15A",
+      "destination": "Merrion Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.305281",
+        "lon": "-6.322125"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Wellington Road",
+      "route": "150",
+      "destination": "Hawkins Street",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.305281",
+        "lon": "-6.322125"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Limekiln Park",
+      "route": "150",
+      "destination": "Limekiln Avenue",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.30434",
+        "lon": "-6.32638"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Limekiln Park",
+      "route": "15A",
+      "destination": "Limekiln Ave",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.30434",
+        "lon": "-6.32638"
+      }
+    }
+  ]
+}

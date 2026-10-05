@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/32-georges-quay-apartments-2-georges-quay-dublin-2/6225741",
+  "fetchedAt": "2026-10-05T09:22:27.900Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/32-georges-quay-apartments-2-georges-quay-dublin-2/6225741",
+  "kind": "listing",
+  "responseSha256": "217e18681743fd55dd112a6adacb15d0c8d2885dcdda17a9ab94824bca6f2c86",
+  "files": [
+    {
+      "path": "daft/00986-b3f3982faf7313e6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "742fdcc8b756d1e21338a1a1b96c5df2b7f9353ad6f3fab1364483a2a0b87593",
+      "bytes": 25999
+    },
+    {
+      "path": "daft/00986-b3f3982faf7313e6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3252f2b6db3ea6d1f4954d87d1050da708f29ca691c1a6c825f32356e5618718",
+      "bytes": 8005
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=87",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=87",
+  "fetchedAt": "2026-10-05T09:56:21.110Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "afae4954870cd1bff70354a48c804f4b78d25f4d9dc1856526e601ff1b896df1",
+  "files": [
+    {
+      "path": "myhome/02333-399a632f4d70408f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=87\"].SearchResults",
+      "sha256": "e24a8a52927fd337a164956c13fec51e54c4a71fef5f2c01cfb7ba4153641a23",
+      "bytes": 120150
+    },
+    {
+      "path": "myhome/02333-399a632f4d70408f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=87\"] (paging fields)",
+      "sha256": "ba39bdd82f378f25bb35bb123b567e15d8fc4b52ef3bec479fc7f1845e28aee3",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/8-rollins-court-sallynoggin-county-dublin/5028344",
+    "https://www.myhome.ie/residential/brochure/galtymore-burncourt-near-cahir-tipperary/5030624",
+    "https://www.myhome.ie/residential/brochure/foxglove-lodge-killincooley-more-kilmuckridge-co-wexford/5030630",
+    "https://www.myhome.ie/residential/brochure/durod-goleen-west-cork/5028906",
+    "https://www.myhome.ie/residential/brochure/apartment-14-block-7-clarion-quay-excise-walk-ifsc-dublin-1/5011658",
+    "https://www.myhome.ie/residential/brochure/108-rd-coillte-ballina-tipperary/5030619",
+    "https://www.myhome.ie/residential/brochure/46-new-row-square-south-city-centre-dublin-8/5030585",
+    "https://www.myhome.ie/residential/brochure/8-beechwood-grove-hansfield-ongar-dublin-15/5030628",
+    "https://www.myhome.ie/residential/brochure/91-pearse-gardens-sallynoggin-co-dublin/5030627",
+    "https://www.myhome.ie/residential/brochure/12-fey-yerra-leopardstown-road-foxrock-dublin-18/5030626",
+    "https://www.myhome.ie/residential/brochure/18-park-house-baldoyle-dublin-13/4833796",
+    "https://www.myhome.ie/residential/brochure/15-westbury-woods-enniscorthy-county-wexford/5030623",
+    "https://www.myhome.ie/residential/brochure/4-fingal-court-main-street-dunshaughlin-co-meath/5030622",
+    "https://www.myhome.ie/residential/brochure/tipper-newtowncashel-longford/5030620",
+    "https://www.myhome.ie/residential/brochure/drumkilly-kilnaleck-co-cavan/5030621",
+    "https://www.myhome.ie/residential/brochure/french-road-bohernasup-ballina-mayo/5030615",
+    "https://www.myhome.ie/residential/brochure/26-crescent-house-marino-dublin-3/5030613",
+    "https://www.myhome.ie/residential/brochure/apartment-7-maypark-mews-ballinakill-dunmore-road-waterford/5030553",
+    "https://www.myhome.ie/residential/brochure/apartment-3-block-b-mellowes-quay-usher-street-dublin-8/5030614",
+    "https://www.myhome.ie/residential/brochure/bohernasup-french-road-ballina-mayo/5030612"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=88",
+  "paginationLimited": false
+}

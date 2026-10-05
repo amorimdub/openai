@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=102",
+  "fetchedAt": "2026-10-05T11:06:30.421Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=102",
+  "kind": "search",
+  "responseSha256": "057545e7f20e0295899ea5a688dc2f16981fcc05ab9aa35afbe941298e669a0d",
+  "files": [
+    {
+      "path": "myhome/02627-3f2c6ccddc65b005-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=102\"].SearchResults",
+      "sha256": "5793529cbbb6f1b8bcf6006325aead1f56fcc6c5c7ec5ee32de684866773dc06",
+      "bytes": 107395
+    },
+    {
+      "path": "myhome/02627-3f2c6ccddc65b005-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=102\"] (paging fields)",
+      "sha256": "ad2ca252d8d922dc3f6a29479a79bcb871830f560d96b781d9f3b4fc9306f82e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/103-gleann-na-mona-ballymoneen-road-knocknacarra-galway/5030309",
+    "https://www.myhome.ie/residential/brochure/4-the-waterfront-clonakilty-co-cork/5030308",
+    "https://www.myhome.ie/residential/brochure/9-inishboffin-bailey-view-dalkey-co-dublin/5022661",
+    "https://www.myhome.ie/residential/brochure/townhouse-5-brabazon-hall-ardee-street-dublin-8/5030297",
+    "https://www.myhome.ie/residential/brochure/37-phoenix-park-avenue-phoenix-park-racecourse-castleknock-dublin-15/5021796",
+    "https://www.myhome.ie/residential/brochure/27-galtymore-close-drimnagh-dublin-12-co-dublin/5030303",
+    "https://www.myhome.ie/residential/brochure/glencar-road-letterkenny-county-donegal/5030302",
+    "https://www.myhome.ie/residential/brochure/55-oakcourt-lawn-palmerstown-dublin-20/5030224",
+    "https://www.myhome.ie/residential/brochure/apartment-12-the-mews-classes-lake-ovens-cork/5030300",
+    "https://www.myhome.ie/residential/brochure/3-barnfield-close-convent-road-delgany-co-wicklow/5030301",
+    "https://www.myhome.ie/residential/brochure/8-green-gardens-new-road-bandon-west-cork/5030296",
+    "https://www.myhome.ie/residential/brochure/51-cuan-glas-bishop-o-donnell-road-co-galway/5030294",
+    "https://www.myhome.ie/residential/brochure/14-college-close-dunshaughlin-meath/5030286",
+    "https://www.myhome.ie/residential/brochure/risa-grange-little-rosslare-strand-wexford/4963123",
+    "https://www.myhome.ie/residential/brochure/20-h-fernleigh-drive-castleknock-dublin-15/5030290",
+    "https://www.myhome.ie/residential/brochure/7a-cameron-court-cork-street-dublin-8/5030289",
+    "https://www.myhome.ie/residential/brochure/redcross-avoca-county-wicklow/5030284",
+    "https://www.myhome.ie/residential/brochure/13-lisle-road-walkinstown-dublin-12/5030270",
+    "https://www.myhome.ie/residential/brochure/garrynalyna-galbally-co-limerick/5030283",
+    "https://www.myhome.ie/residential/brochure/4-the-arches-barrack-street-kilkenny/5030282"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=103",
+  "paginationLimited": false
+}

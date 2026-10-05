@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=294",
+  "fetchedAt": "2026-10-05T12:46:25.698Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=294",
+  "kind": "search",
+  "responseSha256": "8924c7b257d1c2ca6aa0e6b82179d9e255de5b0239a312faa23e1911513df579",
+  "files": [
+    {
+      "path": "myhome/06596-b66588c760403a35-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=294\"].SearchResults",
+      "sha256": "04c2123132dec4798b4fb4c24e6eef53c02c19e89069b2220bb776b242de3acd",
+      "bytes": 112246
+    },
+    {
+      "path": "myhome/06596-b66588c760403a35-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=294\"] (paging fields)",
+      "sha256": "dec24febea82211ddea1dbf6a45eb33394b9db9d738f19fdc64471e462a2cb0f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/35-glasanaon-road-finglas-dublin-11/5024412",
+    "https://www.myhome.ie/residential/brochure/6-elm-gardens-balla-mayo/5024461",
+    "https://www.myhome.ie/residential/brochure/15-carn-glas-heights-gracedieu-waterford-city-co-waterford/5024464",
+    "https://www.myhome.ie/residential/brochure/25-finn-street-stoneybatter-dublin-7/5024460",
+    "https://www.myhome.ie/residential/brochure/4-seachnall-abbey-dunshaughlin-meath/5024456",
+    "https://www.myhome.ie/residential/brochure/61-evergreen-street-cork-city/5023466",
+    "https://www.myhome.ie/residential/brochure/4-clarinda-manor-dun-laoghaire-co-dublin/5011115",
+    "https://www.myhome.ie/residential/brochure/1-3-acre-site-riverstown-murrintown-co-wexford/5024449",
+    "https://www.myhome.ie/residential/brochure/7-seacliff-ave-baldoyle-dublin-13/4997957",
+    "https://www.myhome.ie/residential/brochure/27-stonebridge-close-shankill-dublin-18/5024448",
+    "https://www.myhome.ie/residential/brochure/ballyarthur-mitchelstown-cork/5024445",
+    "https://www.myhome.ie/residential/brochure/50-dunbeag-newport-road-castlebar-mayo/5024442",
+    "https://www.myhome.ie/residential/brochure/6-moatlands-drive-navan-meath/5024441",
+    "https://www.myhome.ie/residential/brochure/newlands-46-hainault-road-foxrock-dublin-18/5019058",
+    "https://www.myhome.ie/residential/brochure/8-ballyguilemore-wicklow-town-co-wicklow/5018228",
+    "https://www.myhome.ie/residential/brochure/27-tor-bui-cappagh-road-knocknacarra-galway/5024437",
+    "https://www.myhome.ie/residential/brochure/heather-hill-36-carrickbrack-road-howth-county-dublin/5008191",
+    "https://www.myhome.ie/residential/brochure/8-red-arches-close-baldoyle-dublin-13/5011606",
+    "https://www.myhome.ie/residential/brochure/23-marlton-springs-wicklow-town-co-wicklow/5001318",
+    "https://www.myhome.ie/residential/brochure/apartment-32-liberty-corner-foley-street-north-city-centre-dublin-1/5005803"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=295",
+  "paginationLimited": false
+}

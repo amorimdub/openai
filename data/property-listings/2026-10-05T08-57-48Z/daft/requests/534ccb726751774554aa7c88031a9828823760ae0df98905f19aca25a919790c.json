@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/castlecurragh-vale-blanchardstown-dublin-15/6683714",
+  "fetchedAt": "2026-10-05T09:47:57.079Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/castlecurragh-vale-blanchardstown-dublin-15/6683714",
+  "kind": "listing",
+  "responseSha256": "f75e4d14bab5d74de5e846c5374da3afc06dffc32b72d91a9f3efc4d8a9ff3ae",
+  "files": [
+    {
+      "path": "daft/02004-534ccb7267517745-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6dc90f014574c05cb99e7ca6b316c76f6c68676cc923f315ce23efbe7d673a87",
+      "bytes": 40774
+    },
+    {
+      "path": "daft/02004-534ccb7267517745-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "929f2d6dd12c40d85c310d98a533cfcd2b8d5f12200d761f2b6872433781b52e",
+      "bytes": 8165
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

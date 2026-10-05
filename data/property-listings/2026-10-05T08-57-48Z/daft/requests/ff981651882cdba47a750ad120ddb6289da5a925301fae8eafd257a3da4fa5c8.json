@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/greystones-house-ballintemple-ballintemple-co-galway/6685272",
+  "fetchedAt": "2026-10-05T09:37:30.625Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/greystones-house-ballintemple-ballintemple-co-galway/6685272",
+  "kind": "listing",
+  "responseSha256": "66ca872865ea85ecfff52350fc6bb8007a5732bebad73ae719009892eaa063f4",
+  "files": [
+    {
+      "path": "daft/01587-ff981651882cdba4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b6a1c13b58299b3aaf5457757f9e50323510f3730e0b7ad4e2912a0f9e468359",
+      "bytes": 78625
+    },
+    {
+      "path": "daft/01587-ff981651882cdba4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3b49bce161fd35fe6abcd7f56baf995c151180e2a77db83dda047197d1a6ae48",
+      "bytes": 7987
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

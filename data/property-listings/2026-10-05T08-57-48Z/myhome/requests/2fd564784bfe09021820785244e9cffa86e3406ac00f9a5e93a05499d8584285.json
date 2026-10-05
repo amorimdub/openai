@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=285",
+  "fetchedAt": "2026-10-05T12:41:49.091Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=285",
+  "kind": "search",
+  "responseSha256": "49d64b3a885dffb8a14f4eee1173680e54a18120c9414e3a34636d08c787573f",
+  "files": [
+    {
+      "path": "myhome/06412-2fd564784bfe0902-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=285\"].SearchResults",
+      "sha256": "a7de3a887c5b6e9671d7489dbfabeddbdeedd22123607eae4a2ea27804bce21d",
+      "bytes": 111362
+    },
+    {
+      "path": "myhome/06412-2fd564784bfe0902-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=285\"] (paging fields)",
+      "sha256": "9594f0e5dfe4178e5729af9b4e6acd1ebbe58e7d5fea65959c1332d62695ed52",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-coolagh-road-abbeyside-dungarvan-waterford/5024849",
+    "https://www.myhome.ie/residential/brochure/9-hyacinth-street-north-strand-dublin-3/5002250",
+    "https://www.myhome.ie/residential/brochure/107-killester-park-killester-dublin-5/5024873",
+    "https://www.myhome.ie/residential/brochure/25-woodstock-kilcoole-wicklow/5024784",
+    "https://www.myhome.ie/residential/brochure/16-brookes-mill-prosperous-co-kildare-naas/5024872",
+    "https://www.myhome.ie/residential/brochure/34-millbrook-grove-donaghmede-dublin-13/5022921",
+    "https://www.myhome.ie/residential/brochure/53-hampton-wood-avenue-finglas-dublin-11/5023203",
+    "https://www.myhome.ie/residential/brochure/25-carraig-court-george-s-avenue-blackrock-county-dublin/5024865",
+    "https://www.myhome.ie/residential/brochure/132-castleforbes-square-ifsc-dublin/4990778",
+    "https://www.myhome.ie/residential/brochure/8-cedar-crescent-parcnagowan-kilkenny/5024861",
+    "https://www.myhome.ie/residential/brochure/62-kill-avenue-dun-laoghaire-co-dublin/5024860",
+    "https://www.myhome.ie/residential/brochure/filane-lodge-filane-castletownbere-co-cork/5024859",
+    "https://www.myhome.ie/residential/brochure/cloghaderreen-old-pallas-pallasgreen-county-limerick/5024854",
+    "https://www.myhome.ie/residential/brochure/dereen-aughacashel-co-leitrim-ballinamore/5024852",
+    "https://www.myhome.ie/residential/brochure/34-watson-avenue-killiney-co-dublin/5024851",
+    "https://www.myhome.ie/residential/brochure/glencoum-skeoughvosteen-co-kilkenny/5024848",
+    "https://www.myhome.ie/residential/brochure/15-drumcoura-lake-resort-drumcoura-ballinamore-co-leitrim/5024847",
+    "https://www.myhome.ie/residential/brochure/9-harbour-view-the-quay-westport-co-mayo/5024840",
+    "https://www.myhome.ie/residential/brochure/18-ottomy-avenue-clane-kildare/5024821",
+    "https://www.myhome.ie/residential/brochure/25-rockfield-road-kells-meath/5024838"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=286",
+  "paginationLimited": false
+}

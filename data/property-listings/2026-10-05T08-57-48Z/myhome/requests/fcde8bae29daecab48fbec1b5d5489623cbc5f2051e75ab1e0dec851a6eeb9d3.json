@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=254",
+  "fetchedAt": "2026-10-05T12:25:40.655Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=254",
+  "kind": "search",
+  "responseSha256": "c854448a47aa911ad19b5ccac0db9f20cee6c838c58081f12aad9b11d0cc1efd",
+  "files": [
+    {
+      "path": "myhome/05768-fcde8bae29daecab-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=254\"].SearchResults",
+      "sha256": "b70501aecb7974c730074d2251c0bf4a31c794c8a704f9fcb3463f3c7900f59b",
+      "bytes": 115239
+    },
+    {
+      "path": "myhome/05768-fcde8bae29daecab-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=254\"] (paging fields)",
+      "sha256": "c81602acbc1ee68384e95c44690c3b79a6f560535e46129d8bc7cf6b78b5a6a1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-lodge-castle-road-blackrock-cork/4831475",
+    "https://www.myhome.ie/residential/brochure/21-ros-na-greine-ardfinnan-tipperary/5025939",
+    "https://www.myhome.ie/residential/brochure/shaleigh-6-tower-hill-kilcoolishal-glounthaune-co-cork/5014995",
+    "https://www.myhome.ie/residential/brochure/9-elm-court-clash-cross-tralee-co-kerry/5025943",
+    "https://www.myhome.ie/residential/brochure/143-castle-park-tallaght-dublin-24/4942069",
+    "https://www.myhome.ie/residential/brochure/the-marigold-4-yourell-s-meadows-malahide-county-dublin/5021718",
+    "https://www.myhome.ie/residential/brochure/25-block-2c-malahide-dublin/4732552",
+    "https://www.myhome.ie/residential/brochure/23-earlsfort-avenue-lucan-co-dublin/5025937",
+    "https://www.myhome.ie/residential/brochure/4a-aughrim-villas-stoneybatter-dublin-7/4997976",
+    "https://www.myhome.ie/residential/brochure/32-delaford-drive-knocklyon-dublin-16/5025922",
+    "https://www.myhome.ie/residential/brochure/21-giltspur-brook-boghall-road-bray-co-wicklow/5025921",
+    "https://www.myhome.ie/residential/brochure/burnchurch-cottage-burnchurch-cuffesgrange-kilkenny/5025920",
+    "https://www.myhome.ie/residential/brochure/107-esker-park-lucan-co-dublin/5025917",
+    "https://www.myhome.ie/residential/brochure/5-sandyford-village-sandyford-dublin-18/4981194",
+    "https://www.myhome.ie/residential/brochure/6-bramble-park-bridgetown-wexford/5025907",
+    "https://www.myhome.ie/residential/brochure/64-rath-geal-clondalkin-dublin-22/5025908",
+    "https://www.myhome.ie/residential/brochure/11-upper-dargle-road-bray-co-wicklow/5025906",
+    "https://www.myhome.ie/residential/brochure/merlin-s-way-enniskerry-wicklow/5010018",
+    "https://www.myhome.ie/residential/brochure/merlin-s-way-enniskerry-wicklow/5005786",
+    "https://www.myhome.ie/residential/brochure/7-pinewood-ballybrack-co-dublin/5025904"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=255",
+  "paginationLimited": false
+}

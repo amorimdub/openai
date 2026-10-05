@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/churchtown-road-lower-dublin-14-churchtown-dublin-14/6667553",
+  "fetchedAt": "2026-10-05T09:20:41.265Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/churchtown-road-lower-dublin-14-churchtown-dublin-14/6667553",
+  "kind": "listing",
+  "responseSha256": "f37c1aada4307246b2badf309d1759e18e395bc483c70ebb1f0e2284eebd5e72",
+  "files": [
+    {
+      "path": "daft/00915-594e2f0cefb64903-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "35339f587664c2cdba26f0a472f566be13162732914009c2b0cc89e7760529ec",
+      "bytes": 59600
+    },
+    {
+      "path": "daft/00915-594e2f0cefb64903-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "051e3d6da15b23af9b284ef681affaec4fc12f3126c33f1de82ef7dd7e934c7f",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

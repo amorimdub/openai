@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/flat-2-15-grove-park-rathmines-dublin-6/6683805",
+  "fetchedAt": "2026-10-05T09:46:59.992Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/flat-2-15-grove-park-rathmines-dublin-6/6683805",
+  "kind": "listing",
+  "responseSha256": "8a6cd9d4076c4d24a7432a951db1214576dd5794380d0cf5c7abd4eb24f3cae1",
+  "files": [
+    {
+      "path": "daft/01966-6b2b054dd028522b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "15b31a31a15c9c10674779b84b37f16e0a1d3b17560ec508bd5fb1a2227116f6",
+      "bytes": 19759
+    },
+    {
+      "path": "daft/01966-6b2b054dd028522b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5298e9a09394134c02eecd70180034c72f7532c9b90f9cf053bc0006dfd981d0",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

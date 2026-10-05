@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-ocallaghan-court-dublin-2-ocallaghan-court-erne-street-upper-dublin2-dublin-2/6638179",
+  "fetchedAt": "2026-10-05T08:58:33.235Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-ocallaghan-court-dublin-2-ocallaghan-court-erne-street-upper-dublin2-dublin-2/6638179",
+  "kind": "listing",
+  "responseSha256": "6a7ac7981269cab365509eae9ddf59d2ef7c1d015471ddf33807bdc7cce22c00",
+  "files": [
+    {
+      "path": "daft/00031-86a2a5fb390d9800-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "870261dfbe048cb322405f1d36b3d97ede414356df13004ecc6e28471159c0ba",
+      "bytes": 34603
+    },
+    {
+      "path": "daft/00031-86a2a5fb390d9800-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3d3b8ab04858e54e9453fe1ee57350c0bb09c96bc7c8bd2a0f326b76cada7983",
+      "bytes": 8053
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

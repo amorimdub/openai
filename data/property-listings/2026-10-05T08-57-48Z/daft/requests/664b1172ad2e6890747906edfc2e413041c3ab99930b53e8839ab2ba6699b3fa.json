@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-dargle-house-custom-house-square-mayor-street-lower-ifsc-dublin-1/6684636",
+  "fetchedAt": "2026-10-05T09:41:38.440Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-dargle-house-custom-house-square-mayor-street-lower-ifsc-dublin-1/6684636",
+  "kind": "listing",
+  "responseSha256": "603c8624f6717952a76e8a022d9e3f641b496d39824781622c912b563140af75",
+  "files": [
+    {
+      "path": "daft/01752-664b1172ad2e6890-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fa098f89ea20298028ff6ecd23a5b94d3988148c04f8fe6b63f0a466a6d65732",
+      "bytes": 35241
+    },
+    {
+      "path": "daft/01752-664b1172ad2e6890-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2c608ea36d181ef3776097048c05cf19f35ef5fe4e8a94d8577c788c3dcb5d6d",
+      "bytes": 8101
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

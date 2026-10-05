@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=126",
+  "fetchedAt": "2026-10-05T11:19:11.018Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=126",
+  "kind": "search",
+  "responseSha256": "1b913ae15d1c7d4f712c2c821b39ba9393c5d1295bd94a34f637f88966235128",
+  "files": [
+    {
+      "path": "myhome/03114-d60ade05d2e55628-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=126\"].SearchResults",
+      "sha256": "8b252d7fe82570c0d209c2674e9cae72807e9d182e50751fe5434052725eef3c",
+      "bytes": 109252
+    },
+    {
+      "path": "myhome/03114-d60ade05d2e55628-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=126\"] (paging fields)",
+      "sha256": "4129d8d1099c31aed02499901294c57511d78a72f7f7bb138afe0ad49eb0f011",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-the-elms-newbridge-co-kildare/5022128",
+    "https://www.myhome.ie/residential/brochure/72-riverdale-oranmore-co-galway/5029640",
+    "https://www.myhome.ie/residential/brochure/6-irish-st-bunclody-co-wexford/5029639",
+    "https://www.myhome.ie/residential/brochure/21-hillside-park-rathfarnham-dublin-16/5005133",
+    "https://www.myhome.ie/residential/brochure/7-thornberry-abbeyleix-laois/5029628",
+    "https://www.myhome.ie/residential/brochure/28-michael-street-kilkenny/5029636",
+    "https://www.myhome.ie/residential/brochure/quintagh-valleymount-county-wicklow/5029634",
+    "https://www.myhome.ie/residential/brochure/20-ave-maria-park-moate-co-westmeath/5029633",
+    "https://www.myhome.ie/residential/brochure/atlantic-view-roscahill-kilmeena-westport-mayo/5024707",
+    "https://www.myhome.ie/residential/brochure/38-leinster-avenue-north-strand-dublin-3/5029629",
+    "https://www.myhome.ie/residential/brochure/c-l-lainn-23a-rathmore-lawn-south-douglas-road-cork-city/4955466",
+    "https://www.myhome.ie/residential/brochure/2-elden-maryborough-hill-douglas-cork/5019354",
+    "https://www.myhome.ie/residential/brochure/4-clonkeen-lawn-clonkeen-road-deansgrange-blackrock-co-dublin/4996706",
+    "https://www.myhome.ie/residential/brochure/5-o-carolan-road-south-circular-road-dublin-8/4995972",
+    "https://www.myhome.ie/residential/brochure/2-copperalley-close-greencloyne-youghal-co-cork/5029623",
+    "https://www.myhome.ie/residential/brochure/churchtown-lodge-churchtown-athy-kildare/5029616",
+    "https://www.myhome.ie/residential/brochure/24-kirwan-street-cottages-stoneybatter-dublin-7/5029618",
+    "https://www.myhome.ie/residential/brochure/oldcourt-piltown-kilkenny/5029604",
+    "https://www.myhome.ie/residential/brochure/10-prospect-heights-rathfarnham-dublin-16/5029621",
+    "https://www.myhome.ie/residential/brochure/curra-more-loughill-west-loughill-co-limerick/5029620"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=127",
+  "paginationLimited": false
+}

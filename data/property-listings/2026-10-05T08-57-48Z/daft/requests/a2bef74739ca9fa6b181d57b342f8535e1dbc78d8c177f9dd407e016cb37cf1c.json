@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/daneswell-place-botanic-road-daneswell-place-botanic-road-glasnevin-co-dublin/6293529",
+  "fetchedAt": "2026-10-05T09:01:48.454Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/daneswell-place-botanic-road-daneswell-place-botanic-road-glasnevin-co-dublin/6293529",
+  "kind": "listing",
+  "responseSha256": "2c21133640314c9153de3cf4f6e9eda8399f3da51993192c0098f428c992d30c",
+  "files": [
+    {
+      "path": "daft/00161-a2bef74739ca9fa6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a1ed37ca0d5f5b3d23ca60f563fe11f549c1d2c3243b8aee9d03b6958bef058d",
+      "bytes": 122262
+    },
+    {
+      "path": "daft/00161-a2bef74739ca9fa6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "da54f1500a3cc5673a55d7cb94dee0fc5648cadb73ed85b33eae41182bc955b5",
+      "bytes": 8010
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

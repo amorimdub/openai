@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/12-cortreasla-road-newry-co-down/6686273",
+  "fetchedAt": "2026-10-05T09:16:21.490Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/12-cortreasla-road-newry-co-down/6686273",
+  "kind": "listing",
+  "responseSha256": "7e4a46fccde1232a1bf3e85ff62e0485e94161098fa8a268ca2ec6edd3301c8f",
+  "files": [
+    {
+      "path": "daft/00742-b9fad936ddcccd11-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6576dd85d2d38d7a2cb1d0d616aa5447a1d2e138522d0c8b40fc1c64169f25f7",
+      "bytes": 17243
+    },
+    {
+      "path": "daft/00742-b9fad936ddcccd11-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

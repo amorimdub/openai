@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/46-aughavannagh-road-dublin-12-crumlin-dublin-12/6674621",
+  "fetchedAt": "2026-10-05T09:24:35.598Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/46-aughavannagh-road-dublin-12-crumlin-dublin-12/6674621",
+  "kind": "listing",
+  "responseSha256": "6f69ff77c4d60882e55f51a9f65519572a1c3380283311597dba5d8e51dca303",
+  "files": [
+    {
+      "path": "daft/01071-6d8e824f0135621d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6c36cb9454d68a615c30c3f9583db71cf1a05adfd590213c06349bae4d32b2ba",
+      "bytes": 65349
+    },
+    {
+      "path": "daft/01071-6d8e824f0135621d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "53e66ec3cef55dce50d658b43dc8aec7b2428d35d091d6325f1a6623c77a6627",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

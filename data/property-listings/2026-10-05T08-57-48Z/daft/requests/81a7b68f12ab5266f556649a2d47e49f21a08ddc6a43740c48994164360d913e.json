@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/castle-street-birr-co-offaly-birr-co-offaly/6684543",
+  "fetchedAt": "2026-10-05T09:41:48.956Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/castle-street-birr-co-offaly-birr-co-offaly/6684543",
+  "kind": "listing",
+  "responseSha256": "ea6adfbfa75d8a983c8e691246f629a72395bf2675647153f4fb9f72203c654c",
+  "files": [
+    {
+      "path": "daft/01759-81a7b68f12ab5266-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1b25d10ab9df8edcf2a21e7fa348a8fbb74cd89ad055857c60402c43490305e3",
+      "bytes": 19767
+    },
+    {
+      "path": "daft/01759-81a7b68f12ab5266-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

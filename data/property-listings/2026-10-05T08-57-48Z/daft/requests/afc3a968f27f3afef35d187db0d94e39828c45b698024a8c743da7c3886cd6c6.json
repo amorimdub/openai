@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/south-circular-road-portobello-dublin-8/6685254",
+  "fetchedAt": "2026-10-05T09:37:36.631Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/south-circular-road-portobello-dublin-8/6685254",
+  "kind": "listing",
+  "responseSha256": "5889b4f726e22dfe769f4500b20a788f64e60aa6c062ee49195e2ba397d8af4e",
+  "files": [
+    {
+      "path": "daft/01591-afc3a968f27f3afe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0753ff1553ff17e78b57c3e98a8bd829f3ce1048c872f362c8fecce0100c7b6b",
+      "bytes": 17046
+    },
+    {
+      "path": "daft/01591-afc3a968f27f3afe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a86d57036d47c2ec6c05882456454c5cb049274581f59372ad3eca5555071d4f",
+      "bytes": 8172
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

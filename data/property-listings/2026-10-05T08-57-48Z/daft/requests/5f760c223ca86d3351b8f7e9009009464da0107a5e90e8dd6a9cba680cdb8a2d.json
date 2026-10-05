@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-park-citywest-village-dublin-24/6685305",
+  "fetchedAt": "2026-10-05T09:37:26.121Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-park-citywest-village-dublin-24/6685305",
+  "kind": "listing",
+  "responseSha256": "28304b9d4910052f97dec2b9b141ab275d2d123319941a3ff6057a8318b07cbf",
+  "files": [
+    {
+      "path": "daft/01584-5f760c223ca86d33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "19560a4a1447ff783c3fc1fd37247627d1590cf5c74cf43a538ea3906a7983d9",
+      "bytes": 28444
+    },
+    {
+      "path": "daft/01584-5f760c223ca86d33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0882a3c735ff4012f768935e9c0a4207fe22f64793752854e6b9751ff8a222ee",
+      "bytes": 8069
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-school-yard-533-north-circular-road-dublin-1/6681546",
+  "fetchedAt": "2026-10-05T09:11:33.046Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-school-yard-533-north-circular-road-dublin-1/6681546",
+  "kind": "listing",
+  "responseSha256": "f37eb64e33a14f73c6ca28a4e7b9172b48f4f0a6ad1fd97107bc02b0ca79edca",
+  "files": [
+    {
+      "path": "daft/00550-9c4d074691361333-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0611d0318b5641232b094725607c58b715b026a846d8f129288cc7a69ab38760",
+      "bytes": 37814
+    },
+    {
+      "path": "daft/00550-9c4d074691361333-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7d268557d5f4c832439c5cd62b8fa8f718dbe79f43ef43d2af83d237b05b34db",
+      "bytes": 8100
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

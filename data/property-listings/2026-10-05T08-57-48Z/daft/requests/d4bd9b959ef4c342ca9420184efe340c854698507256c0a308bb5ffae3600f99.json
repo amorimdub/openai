@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sandford-lodge-sandford-lodge-ranelagh-co-dublin/2317385",
+  "fetchedAt": "2026-10-05T09:01:45.451Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sandford-lodge-sandford-lodge-ranelagh-co-dublin/2317385",
+  "kind": "listing",
+  "responseSha256": "9622cb7da7098b58c5c67fec15d0338e02d06819d0748ed20479f889fafaffc3",
+  "files": [
+    {
+      "path": "daft/00159-d4bd9b959ef4c342-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5cbd437be08528c99a548af33292a519183f60144f95dd8f3b83d94e8001616d",
+      "bytes": 103750
+    },
+    {
+      "path": "daft/00159-d4bd9b959ef4c342-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "739ef21a29baa6d66af5bfa42c5c30ad0593012dddd727be500abe5ad4b9d5bd",
+      "bytes": 8013
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

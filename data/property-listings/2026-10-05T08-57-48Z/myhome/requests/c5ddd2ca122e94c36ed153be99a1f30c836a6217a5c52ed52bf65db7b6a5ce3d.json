@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=30",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=30",
+  "fetchedAt": "2026-10-05T09:26:14.419Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "0320a084f915600452be5002a2d6e188e96a2c1b4c8a0b402ff328a26fb08894",
+  "files": [
+    {
+      "path": "myhome/01132-c5ddd2ca122e94c3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=30\"].SearchResults",
+      "sha256": "39c08e33629c44c9e7d888a6c49d1ea1bfe4a7c0b895368fa75c5f1a2e262427",
+      "bytes": 92943
+    },
+    {
+      "path": "myhome/01132-c5ddd2ca122e94c3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=30\"] (paging fields)",
+      "sha256": "549b9627f63f1215794279ac00ba046da7e83b162b5a780ee9e6e5636a09cb00",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/shackleton-glebe-shackleton-park-lucan-co-dublin/4646500",
+    "https://www.myhome.ie/rentals/brochure/3-bedroom-apartments-griffith-wood-griffith-avenue-drumcondra-dublin-9/4540622",
+    "https://www.myhome.ie/rentals/brochure/2-bedroom-apartments-griffith-wood-griffith-avenue-drumcondra-dublin-9/4540621",
+    "https://www.myhome.ie/rentals/brochure/quayside-quarter-dublin-landings-docklands-dublin-1/4428947",
+    "https://www.myhome.ie/rentals/brochure/53-54-tullow-street-carlow-town-carlow/4571413",
+    "https://www.myhome.ie/rentals/brochure/fair-green-borrisokane-tipperary/4575983",
+    "https://www.myhome.ie/rentals/brochure/charlotte-apartments-honeypark-glenageary-road-upper-dun-laoghaire/4571780",
+    "https://www.myhome.ie/rentals/brochure/elmfield-by-havitat-ballyogan-road-leopardstown-dublin-18/4555776",
+    "https://www.myhome.ie/rentals/brochure/quayside-quarter-at-dublin-landings-docklands-dublin-1/4496986",
+    "https://www.myhome.ie/rentals/brochure/glenmalure-square-milltown-dublin-6/4553108",
+    "https://www.myhome.ie/rentals/brochure/leona-apartments-dun-laoghaire-co-dublin/4551880",
+    "https://www.myhome.ie/rentals/brochure/charlotte-apartments-honeypark-dun-laoghaire-dublin/4548518",
+    "https://www.myhome.ie/rentals/brochure/the-elms-mount-merrion-avenue-blackrock-co-dublin/4514819",
+    "https://www.myhome.ie/rentals/brochure/wolfe-tone-lofts-by-havitat-dublin-1-dublin/4508676",
+    "https://www.myhome.ie/rentals/brochure/adamstown-adamstown-boulevard/4504619",
+    "https://www.myhome.ie/rentals/brochure/neptune-by-havitat-dun-laoghaire-co-dublin/4492691",
+    "https://www.myhome.ie/rentals/brochure/leona-apartments-dun-laoghaire-co-dublin/4492325",
+    "https://www.myhome.ie/rentals/brochure/st-edmunds-apartments-juliet-square-st-edmunds-lucan-co-dublin/4492236",
+    "https://www.myhome.ie/rentals/brochure/ballymun-road-ballymun-dublin-11/4431849",
+    "https://www.myhome.ie/rentals/brochure/leona-apartments-honeypark-dun-laoghaire-dublin/4485446"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=31",
+  "paginationLimited": false
+}

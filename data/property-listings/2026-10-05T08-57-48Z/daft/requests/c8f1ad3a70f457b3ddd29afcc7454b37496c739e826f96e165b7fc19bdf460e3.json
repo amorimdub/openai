@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=23",
+  "fetchedAt": "2026-10-05T09:25:14.664Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=23",
+  "kind": "search",
+  "responseSha256": "e8df647bf4e51143a22ba9845079b51a1c5bdc254cac5932b74c7937345b840d",
+  "files": [
+    {
+      "path": "daft/01097-c8f1ad3a70f457b3-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "73669675a7e4137c112549eb028eb199ee7140388fc78754b28b6d64089891e4",
+      "bytes": 307782
+    },
+    {
+      "path": "daft/01097-c8f1ad3a70f457b3-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01097-c8f1ad3a70f457b3-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "6e6a22eb2f328c2274810dfab0ce081cf1bed453a7e3506fd18c64b7c62ec696",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/9-firgrove-lawn-bishopstown-co-cork/6673912",
+    "https://www.daft.ie/for-sale/219-woodfield-scholarstown-road-rathfarnham-dublin-16/6673906",
+    "https://www.daft.ie/for-sale/entire-parcel-including-garrison-house-plus-two-apartments-church-terrace-main-street-co-wicklow/6668090",
+    "https://www.daft.ie/for-sale/glenmahon-john-oconnell-street-cobh-co-cork/6673870",
+    "https://www.daft.ie/for-sale/athlumney-navan-co-meath/6667908",
+    "https://www.daft.ie/for-sale/96-home-farm-road-drumcondra-dublin-9/6673014",
+    "https://www.daft.ie/for-sale/212-clonard-road-crumlin-dublin-12/6673825",
+    "https://www.daft.ie/for-sale/60-cookes-terrace-bohermore-bohermore-co-galway/6660734",
+    "https://www.daft.ie/for-sale/railway-house-arklow-road-gorey-co-wexford/6345972",
+    "https://www.daft.ie/for-sale/4-the-dunes-aylesbridge-riverchapel-gorey-co-wexford/6542658",
+    "https://www.daft.ie/for-sale/163-millquarter-knockmullen-gorey-co-wexford/6617505",
+    "https://www.daft.ie/for-sale/west-winds-raheen-road-athenry-co-galway/6654589",
+    "https://www.daft.ie/for-sale/doon-39-kingston-road-kingston-galway/6632033",
+    "https://www.daft.ie/for-sale/station-road-ballyduff-co-waterford/6673583",
+    "https://www.daft.ie/for-sale/ballyhooly-lodge-or-castle-tavern-ballyhooly-co-cork/6673210",
+    "https://www.daft.ie/for-sale/kilkea-cottage-kilkea-village-athy-kilkea-co-kildare/6561608",
+    "https://www.daft.ie/for-sale/12-rostrevor-terrace-rathgar-dublin-6/6641482",
+    "https://www.daft.ie/for-sale/rockville-94-salthill-road-lower-salthill-galway-city/6650225",
+    "https://www.daft.ie/for-sale/gordonville-sydenham-villas-dundrum-dublin-14/6651440",
+    "https://www.daft.ie/for-sale/18-parker-house-myrtle-court-baldoyle-dublin-13/6672531"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=24",
+  "paginationLimited": false
+}

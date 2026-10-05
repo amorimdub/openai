@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL",
+      "numPupils": 140,
+      "distance": {
+        "value": 0.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.669857",
+        "lon": "-8.621133"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL SAIRSEAL",
+      "numPupils": 343,
+      "distance": {
+        "value": 0.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.667553",
+        "lon": "-8.623049"
+      }
+    },
+    {
+      "schoolName": "THOMOND PRIMARY SCHOOL",
+      "numPupils": 215,
+      "distance": {
+        "value": 0.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.677555",
+        "lon": "-8.641952"
+      }
+    },
+    {
+      "schoolName": "SALESIAN PRIMARY SCHOOL",
+      "numPupils": 389,
+      "distance": {
+        "value": 0.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.665330",
+        "lon": "-8.636772"
+      }
+    },
+    {
+      "schoolName": "ST AUGUSTINE'S SCHOOL",
+      "numPupils": 24,
+      "distance": {
+        "value": 1.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.662680",
+        "lon": "-8.627315"
+      }
+    },
+    {
+      "schoolName": "J F K MEMORIAL SCHOOL",
+      "numPupils": 220,
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666160",
+        "lon": "-8.644519"
+      }
+    },
+    {
+      "schoolName": "SCOIL ÍDE",
+      "numPupils": 690,
+      "distance": {
+        "value": 1.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.678020",
+        "lon": "-8.614668"
+      }
+    },
+    {
+      "schoolName": "CORPUS CHRISTI NATIONAL SCHOOL",
+      "numPupils": 415,
+      "distance": {
+        "value": 1.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.681522",
+        "lon": "-8.644756"
+      }
+    },
+    {
+      "schoolName": "ST JOHN THE BAPTIST BOYS NATIONAL SCHOOL",
+      "numPupils": 47,
+      "distance": {
+        "value": 1.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.663296",
+        "lon": "-8.614625"
+      }
+    },
+    {
+      "schoolName": "SCOIL EOIN NAOFA",
+      "numPupils": 220,
+      "distance": {
+        "value": 1.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.661926",
+        "lon": "-8.616440"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "GAELCHOLÁISTE LUIMNIGH",
+      "numPupils": 616,
+      "distance": {
+        "value": 1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.666676",
+        "lon": "-8.619911"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL RIS",
+      "numPupils": 747,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.665417",
+        "lon": "-8.641246"
+      }
+    },
+    {
+      "schoolName": "LIMERICK EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 714,
+      "distance": {
+        "value": 1.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.664608",
+        "lon": "-8.639804"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 574,
+      "distance": {
+        "value": 1.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670030",
+        "lon": "-8.614521"
+      }
+    },
+    {
+      "schoolName": "THOMOND COMMUNITY COLLEGE",
+      "numPupils": 606,
+      "distance": {
+        "value": 1.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.675060",
+        "lon": "-8.647347"
+      }
+    },
+    {
+      "schoolName": "ST MUNCHIN'S COLLEGE",
+      "numPupils": 662,
+      "distance": {
+        "value": 1.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.681995",
+        "lon": "-8.614303"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE NANO NAGLE",
+      "numPupils": 356,
+      "distance": {
+        "value": 1.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.660180",
+        "lon": "-8.622252"
+      }
+    },
+    {
+      "schoolName": "COLAISTE MHICHIL",
+      "numPupils": 346,
+      "distance": {
+        "value": 1.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.659195",
+        "lon": "-8.621262"
+      }
+    },
+    {
+      "schoolName": "ST CLEMENTS COLLEGE",
+      "numPupils": 411,
+      "distance": {
+        "value": 1.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655870",
+        "lon": "-8.638259"
+      }
+    },
+    {
+      "schoolName": "LAUREL HILL COLÁISTE FCJ",
+      "numPupils": 343,
+      "distance": {
+        "value": 2.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.655130",
+        "lon": "-8.638703"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "High Road",
+      "route": "302",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.67118",
+        "lon": "-8.63271"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "High Road",
+      "route": "303",
+      "destination": "Pineview",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.67096",
+        "lon": "-8.63243"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "High Road",
+      "route": "313",
+      "destination": "Ardnacrusha",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.67096",
+        "lon": "-8.63243"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "St Ita's St South",
+      "route": "305A",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.673096",
+        "lon": "-8.625973"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "St Senan's Street",
+      "route": "305A",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.67486",
+        "lon": "-8.627152"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Thomond Bridge",
+      "route": "302",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.669802",
+        "lon": "-8.628321"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Saint Columcille St",
+      "route": "305A",
+      "destination": "St. Mary's Park",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.675989",
+        "lon": "-8.62773"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sexton St N",
+      "route": "302",
+      "destination": "City Centre",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.672248",
+        "lon": "-8.636548"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sexton St N",
+      "route": "964",
+      "destination": "N17 Business Park",
+      "provider": "Bus Feda",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.672248",
+        "lon": "-8.636548"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sexton St N",
+      "route": "303",
+      "destination": "Ros Mor",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.672248",
+        "lon": "-8.636548"
+      }
+    }
+  ]
+}

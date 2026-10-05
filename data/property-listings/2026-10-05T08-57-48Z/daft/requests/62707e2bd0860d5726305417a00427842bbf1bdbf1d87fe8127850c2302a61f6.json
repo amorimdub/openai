@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-mervyn-court-glenageary-road-lower-glenageary-co-dublin/6677820",
+  "fetchedAt": "2026-10-05T09:18:48.646Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-mervyn-court-glenageary-road-lower-glenageary-co-dublin/6677820",
+  "kind": "listing",
+  "responseSha256": "a16a6a3a3dfab7644b7e5a299d826e56910512c4872cfcfee5583611ede82d6c",
+  "files": [
+    {
+      "path": "daft/00840-62707e2bd0860d57-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "629b7a44be7a274e623dd35dd6a5e694bc80998041240ea3c53f03063ec605d4",
+      "bytes": 35634
+    },
+    {
+      "path": "daft/00840-62707e2bd0860d57-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "55c7f530fb5bd33cca2de28361b37555c842b7a6e21804ad9c60b9f04364cd6e",
+      "bytes": 8084
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

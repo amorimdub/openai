@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=226",
+  "fetchedAt": "2026-10-05T12:10:59.760Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=226",
+  "kind": "search",
+  "responseSha256": "49ec5cba982db152865f8a9aa2193d27f8216cd67acc65fac7a1e2d3f3158d80",
+  "files": [
+    {
+      "path": "myhome/05182-223113483637f91f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=226\"].SearchResults",
+      "sha256": "9d0e94c029f03d38fd0353a8a7a60f3ddb7242037877491f45851957aa53f567",
+      "bytes": 118655
+    },
+    {
+      "path": "myhome/05182-223113483637f91f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=226\"] (paging fields)",
+      "sha256": "ea47aa05e33c82e9619a6b80d0764a1b8b54ce1cff016ec46d442b44ef6191a2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/grattan-park-shackleton-road-celbridge-co-kildare-4-bedroom-semi-detached/4941148",
+    "https://www.myhome.ie/residential/brochure/derelict-residence-on-approx-3-1-acres-balbriggan-county-dublin/5026885",
+    "https://www.myhome.ie/residential/brochure/riverside-manor-kilcullen-co-kildare/4950324",
+    "https://www.myhome.ie/residential/brochure/2-seamount-house-st-johns-road-sandymount-dublin-4/5024813",
+    "https://www.myhome.ie/residential/brochure/dunmore-west-dunmore-kilkenny/5026859",
+    "https://www.myhome.ie/residential/brochure/apartment-14-the-stockyard-the-steelworks-amiens-street-dublin-1/5022903",
+    "https://www.myhome.ie/residential/brochure/9-keane-hall-collegwood-castleknock-dublin-15/5026875",
+    "https://www.myhome.ie/residential/brochure/apartment-144-block-d-belfry-hall-citywest-county-dublin/5021105",
+    "https://www.myhome.ie/residential/brochure/robin-hill-lake-road-cobh-co-cork-cobh-cork/5026869",
+    "https://www.myhome.ie/residential/brochure/balreask-carlanstown-co-meath-kells/5026872",
+    "https://www.myhome.ie/residential/brochure/apartment-11-the-elm-rockfield-dundrum-dublin-16/5018431",
+    "https://www.myhome.ie/residential/brochure/65-drumnigh-manor-portmarnock-county-dublin/5026604",
+    "https://www.myhome.ie/residential/brochure/2-aderrig-orchard-adamstown-lucan-co-dublin/4998755",
+    "https://www.myhome.ie/residential/brochure/20-brighton-avenue-rathgar-dublin-6/5004235",
+    "https://www.myhome.ie/residential/brochure/57-beverton-court-donabate-county-dublin/5014646",
+    "https://www.myhome.ie/residential/brochure/kilmoyley-ardfert-kerry/5026861",
+    "https://www.myhome.ie/residential/brochure/10-gandon-avenue-lucan-co-dublin/5026862",
+    "https://www.myhome.ie/residential/brochure/2-northumberland-avenue-dun-laoghaire-co-dublin/4985080",
+    "https://www.myhome.ie/residential/brochure/underwood-curraghbinny-co-cork/5026857",
+    "https://www.myhome.ie/residential/brochure/11-garra-she-in-roscam-galway-city/5026855"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=227",
+  "paginationLimited": false
+}

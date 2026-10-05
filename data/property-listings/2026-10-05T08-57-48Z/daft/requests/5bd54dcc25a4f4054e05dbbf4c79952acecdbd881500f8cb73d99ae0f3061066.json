@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-70-sonata-hartys-quay-rochestown-co-cork/6653410",
+  "fetchedAt": "2026-10-05T09:47:15.012Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-70-sonata-hartys-quay-rochestown-co-cork/6653410",
+  "kind": "listing",
+  "responseSha256": "3fe8123b82760c7c93fdeba2b94150df925b7c0f6028e7c75b8a881422fa8108",
+  "files": [
+    {
+      "path": "daft/01976-5bd54dcc25a4f405-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a70226106205fecdf69f580d305e42fe2cad42e839b029ad26f4ec9f12e814d8",
+      "bytes": 111119
+    },
+    {
+      "path": "daft/01976-5bd54dcc25a4f405-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "99d06bf7f0ba790d3cd5b1eb2d4d6e9814a5c53cdf49e5e744b642cc550d40d4",
+      "bytes": 8167
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

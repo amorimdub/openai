@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=324",
+  "fetchedAt": "2026-10-05T13:01:40.419Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=324",
+  "kind": "search",
+  "responseSha256": "5b3e6ce5e21b1fb77ce08b5c24fae11e314987ce5fad7c3074b582e3589c0a99",
+  "files": [
+    {
+      "path": "myhome/07200-4d6262816e306949-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=324\"].SearchResults",
+      "sha256": "f41b1e5cde70a8ebfd600900bdbfb2703d577ff682d51ebef5a6ee8468e19140",
+      "bytes": 116650
+    },
+    {
+      "path": "myhome/07200-4d6262816e306949-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=324\"] (paging fields)",
+      "sha256": "de1ec4ccffbe4cb48da2ba52bd9cc80a8bb58c776960b2abdf03f0263b47cce5",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/hawthorn-house-rathconnell-wood-nurney-co-kildare/5022583",
+    "https://www.myhome.ie/residential/brochure/house-c6-acres-of-land-at-cribbons-lane-kildare-rathangan-co-kildare/5022582",
+    "https://www.myhome.ie/residential/brochure/woodside-killanne-enniscorthy-wexford/5022578",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-showunit-with-contents-harbour-gate-naas-co-kildare/4925507",
+    "https://www.myhome.ie/residential/brochure/46-parkview-robswall-malahide-county-dublin/5022569",
+    "https://www.myhome.ie/residential/brochure/22-boot-road-clondalkin-dublin-22/5022571",
+    "https://www.myhome.ie/residential/brochure/30-murrell-drive-arklow-wicklow/5004945",
+    "https://www.myhome.ie/residential/brochure/9-hamlet-ave-balbriggan-county-dublin/5022017",
+    "https://www.myhome.ie/residential/brochure/ashville-20-thormanby-road-howth-county-dublin/5018291",
+    "https://www.myhome.ie/residential/brochure/31-bru-na-mara-donegal-county-donegal/5022555",
+    "https://www.myhome.ie/residential/brochure/ballintemple-dundrum-co-tipperary/5022544",
+    "https://www.myhome.ie/residential/brochure/carrowmore-killasser-co-mayo/5022542",
+    "https://www.myhome.ie/residential/brochure/43-springvale-tubbercurry-sligo/5022537",
+    "https://www.myhome.ie/residential/brochure/main-street-ballyhale-kilkenny/5019803",
+    "https://www.myhome.ie/residential/brochure/5-saint-helens-downs-adamstown-lucan-dublin/5022536",
+    "https://www.myhome.ie/residential/brochure/4-anglers-rest-beaver-row-donnybrook-dublin-4/5017863",
+    "https://www.myhome.ie/residential/brochure/19-waterside-lower-rosbercon-new-ross-co-wexford/5022211",
+    "https://www.myhome.ie/residential/brochure/178-whitethorn-gardens-clondalkin-dublin-22/5022207",
+    "https://www.myhome.ie/residential/brochure/8-glenbeigh-road-dublin-7-dublin-7/5022200",
+    "https://www.myhome.ie/residential/brochure/5-rd-na-gr-ine-lis-na-dara-dundalk-louth/5022061"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=325",
+  "paginationLimited": false
+}

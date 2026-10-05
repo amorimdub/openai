@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-55-the-alders-saint-edmunds-avenue-dublin-20/6686205",
+  "fetchedAt": "2026-10-05T09:30:21.171Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-55-the-alders-saint-edmunds-avenue-dublin-20/6686205",
+  "kind": "listing",
+  "responseSha256": "d315b8fb5205cffe703c33e5fa000b29e4d624d3bc1a32fce82abe6f482f5837",
+  "files": [
+    {
+      "path": "daft/01301-32e3c5b232da5b86-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "493e6ae7363e81d17ef87d6afec10420ab6050637a6fcdb396da90a98587a668",
+      "bytes": 61529
+    },
+    {
+      "path": "daft/01301-32e3c5b232da5b86-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "31f3b4a0b281d2de631c1b8ff460477ef7f81e20f706f0cbaa769a08fc156df3",
+      "bytes": 8228
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

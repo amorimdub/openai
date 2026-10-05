@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=72",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=72",
+  "fetchedAt": "2026-10-05T09:48:48.946Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "37fc73a8e1c042014cc21b1afbd42ac78c10d94886f02cd31489d3f725a6c0c4",
+  "files": [
+    {
+      "path": "myhome/02032-e4822603c80722bd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=72\"].SearchResults",
+      "sha256": "20d998df0b93050f305c713ca20d1d1545c81ebc2a99509f7fb91db2359b166b",
+      "bytes": 113872
+    },
+    {
+      "path": "myhome/02032-e4822603c80722bd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=72\"] (paging fields)",
+      "sha256": "ff28672d937a605e5d2a35610423b4706a202dcbb0b599f408264b8660135fcf",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/archgate-cottage-carnakelly-kilmainhamwood-kells-co-meath/5030985",
+    "https://www.myhome.ie/residential/brochure/7-railway-avenue-inchicore-dublin-8/5024335",
+    "https://www.myhome.ie/residential/brochure/88-devenish-road-kimmage-dublin-12/5019665",
+    "https://www.myhome.ie/residential/brochure/6-dodder-park-grove-rathfarnham-dublin-14/5030981",
+    "https://www.myhome.ie/residential/brochure/33-the-green-woodbrook-glen-bray-wicklow/5030980",
+    "https://www.myhome.ie/residential/brochure/forth-lodge-forth-commons-murrintown-wexford/5030965",
+    "https://www.myhome.ie/residential/brochure/kilroe-east-inverin-inverin-galway/4990348",
+    "https://www.myhome.ie/residential/brochure/8-hyacinth-street-north-strand-dublin-3/5030973",
+    "https://www.myhome.ie/residential/brochure/8-seabury-grove-malahide-county-dublin/5030307",
+    "https://www.myhome.ie/residential/brochure/46-carndonagh-park-plus-attic-conversion-donaghmede-dublin-13/5030957",
+    "https://www.myhome.ie/residential/brochure/sylvan-13-milltown-drive-churchtown-dublin-14/5030969",
+    "https://www.myhome.ie/residential/brochure/11-ballinteer-gardens-ballinteer-dublin-16/5030968",
+    "https://www.myhome.ie/residential/brochure/27-lawnswood-park-stillorgan-co-dublin/5030967",
+    "https://www.myhome.ie/residential/brochure/49-woodford-heights-clondalkin-dublin-22/5030963",
+    "https://www.myhome.ie/residential/brochure/doughmore-doonbeg-kilrush-co-clare/5030962",
+    "https://www.myhome.ie/residential/brochure/clarlougheske-donegal-co-donegal/5030961",
+    "https://www.myhome.ie/residential/brochure/clonevin-house-meelick-limerick-city-limerick/5030946",
+    "https://www.myhome.ie/residential/brochure/51-rathdown-park-greystones-co-wicklow/5030960",
+    "https://www.myhome.ie/residential/brochure/lot-2-2-king-street-wexford-wexford-town-wexford/5030958",
+    "https://www.myhome.ie/residential/brochure/6-sruth-n-beag-dingle-kerry/5030952"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=73",
+  "paginationLimited": false
+}

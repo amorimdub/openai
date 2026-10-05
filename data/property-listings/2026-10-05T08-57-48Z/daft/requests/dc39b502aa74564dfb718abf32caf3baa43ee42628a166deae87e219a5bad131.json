@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/6-bridgets-court-longford-road-drumlish-co-longford/6685889",
+  "fetchedAt": "2026-10-05T09:33:07.847Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/6-bridgets-court-longford-road-drumlish-co-longford/6685889",
+  "kind": "listing",
+  "responseSha256": "fa438beb627167445e9be0bf3b76a906b0833b37a3e2414dc909b109342753cb",
+  "files": [
+    {
+      "path": "daft/01412-dc39b502aa74564d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "eefb6d8c732522795fd90ef762cda92d8bc002b9bd4ef2c06ae1cd34dcf0a443",
+      "bytes": 26759
+    },
+    {
+      "path": "daft/01412-dc39b502aa74564d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "629574270094b11658d048810ae3f52fef0cb3b84c70cb9cabd3ca4573c3fdca",
+      "bytes": 8291
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

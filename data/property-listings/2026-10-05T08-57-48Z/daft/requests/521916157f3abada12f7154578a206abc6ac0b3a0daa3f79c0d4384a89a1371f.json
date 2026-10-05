@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/36-tara-view-tara-view-merrion-road-ballsbridge-dublin-4-dublin-4/6678606",
+  "fetchedAt": "2026-10-05T09:06:50.732Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/36-tara-view-tara-view-merrion-road-ballsbridge-dublin-4-dublin-4/6678606",
+  "kind": "listing",
+  "responseSha256": "9f5336c10655bbb8b374eb2032889b8205598d9043d87f00ff39330a1702b5ec",
+  "files": [
+    {
+      "path": "daft/00362-521916157f3abada-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "34281b347267ad15cffdfef5a248e0ad48bf52a86061d658bfeaafcdeb33a6a2",
+      "bytes": 46715
+    },
+    {
+      "path": "daft/00362-521916157f3abada-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "daa90079a4d17c8d4637aad4cf0be2271c00d56da874a099360b1fbf07a8924b",
+      "bytes": 8089
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

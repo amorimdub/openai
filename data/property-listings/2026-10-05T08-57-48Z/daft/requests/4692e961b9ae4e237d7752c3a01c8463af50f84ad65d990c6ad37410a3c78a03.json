@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-212-beechwood-court-stillorgan-stillorgan-co-dublin/6675801",
+  "fetchedAt": "2026-10-05T09:03:53.530Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-212-beechwood-court-stillorgan-stillorgan-co-dublin/6675801",
+  "kind": "listing",
+  "responseSha256": "1b4ab46175231b728315171f4fc1d78b0849e514e5a0fdf7a9c6408ecf9c8fda",
+  "files": [
+    {
+      "path": "daft/00244-4692e961b9ae4e23-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0b4312d8557a6da2bf0c5705d939fa7642dcbf7cbea83200a348af89eeec9bfa",
+      "bytes": 52971
+    },
+    {
+      "path": "daft/00244-4692e961b9ae4e23-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a833188ac426777b43772d50020e78d31d0cad5091102a8a659e44f8c2222d72",
+      "bytes": 8139
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

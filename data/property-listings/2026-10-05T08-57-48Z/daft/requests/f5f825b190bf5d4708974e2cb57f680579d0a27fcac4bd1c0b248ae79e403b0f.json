@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/odder-kilmessan-dunsany-co-meath/6683112",
+  "fetchedAt": "2026-10-05T09:51:03.401Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/odder-kilmessan-dunsany-co-meath/6683112",
+  "kind": "listing",
+  "responseSha256": "fa11d44efd8f6050c817abdf8a755c47b3c695f341abd4dd98b11030b0fda37a",
+  "files": [
+    {
+      "path": "daft/02128-f5f825b190bf5d47-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9da20f29c341067f48a85d06bff309256e1b58697d60034445340c0b91d1dd00",
+      "bytes": 37677
+    },
+    {
+      "path": "daft/02128-f5f825b190bf5d47-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8a21ff7740b94fd9461d2c66c0a1d455c771cfa4acca4eb03121a1c5dc399086",
+      "bytes": 7994
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

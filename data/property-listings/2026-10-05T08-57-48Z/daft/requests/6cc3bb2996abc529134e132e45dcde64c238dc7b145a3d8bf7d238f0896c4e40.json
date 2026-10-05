@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/silver-quay-northgate-street-athlone-co-westmeath/6685572",
+  "fetchedAt": "2026-10-05T09:28:04.441Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/silver-quay-northgate-street-athlone-co-westmeath/6685572",
+  "kind": "listing",
+  "responseSha256": "5714a0c3bca1d8f5ed930c8768d4ed3d1d20afd3de33ae5d9a647283e2a3a49c",
+  "files": [
+    {
+      "path": "daft/01210-6cc3bb2996abc529-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "084089b0fd14a36c357a5e9609976ef6759fa2bf63aef04662cb4b08852e818a",
+      "bytes": 5610
+    },
+    {
+      "path": "daft/01210-6cc3bb2996abc529-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ae891a0e8576a9eb767eb48924b90e859140201eaa594d39dc35e60c408594c4",
+      "bytes": 8027
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

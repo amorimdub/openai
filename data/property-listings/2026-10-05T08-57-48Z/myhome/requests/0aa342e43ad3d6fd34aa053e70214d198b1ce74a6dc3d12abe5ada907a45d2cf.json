@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=264",
+  "fetchedAt": "2026-10-05T12:30:53.611Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=264",
+  "kind": "search",
+  "responseSha256": "03dbcdd061c4e6950070d26fbc2f88bd4e323b1e5adddbfbedba16bdc4773973",
+  "files": [
+    {
+      "path": "myhome/05976-0aa342e43ad3d6fd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=264\"].SearchResults",
+      "sha256": "4c8cae1c34f4b54026ad28fe57953f4cb707ff472940c8c90a4c85c13e447504",
+      "bytes": 111154
+    },
+    {
+      "path": "myhome/05976-0aa342e43ad3d6fd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=264\"] (paging fields)",
+      "sha256": "774ae9ff288b87480cbf8e341874b189a94a9a08c8f0d749268ca8d25554c469",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/7-durham-road-sandymount-dublin-4/4991957",
+    "https://www.myhome.ie/residential/brochure/8-beauparc-downs-monkstown-valley-monkstown-co-dublin/4989011",
+    "https://www.myhome.ie/residential/brochure/24-st-fachtnas-terrace-skibbereen-west-cork/5025607",
+    "https://www.myhome.ie/residential/brochure/77a-the-mews-seaview-avenue-north-clontarf-dublin-3/5024737",
+    "https://www.myhome.ie/residential/brochure/131-wainsfort-manor-drive-wainsfort-road-dublin-6w/5025609",
+    "https://www.myhome.ie/residential/brochure/40-drumnigh-wood-portmarnock-county-dublin/4961723",
+    "https://www.myhome.ie/residential/brochure/ballinderry-gardens-mullingar-westmeath/5025605",
+    "https://www.myhome.ie/residential/brochure/21-pine-valley-avenue-rathfarnham-dublin-16/5025604",
+    "https://www.myhome.ie/residential/brochure/129-griffith-avenue-dublin-9-co-dublin/5025600",
+    "https://www.myhome.ie/residential/brochure/rockfield-sea-road-sligo-sligo/5025598",
+    "https://www.myhome.ie/residential/brochure/17-archers-wood-green-delgany-wicklow/5025134",
+    "https://www.myhome.ie/residential/brochure/72-ashlawn-park-ballybrack-co-dublin/5025594",
+    "https://www.myhome.ie/residential/brochure/11-cardy-rock-road-balbriggan-county-dublin/5024248",
+    "https://www.myhome.ie/residential/brochure/125-pembroke-square-the-berkeley-block-ballsbridge-dublin-4/5025589",
+    "https://www.myhome.ie/residential/brochure/8-bayview-glen-killiney-co-dublin/5025588",
+    "https://www.myhome.ie/residential/brochure/the-cottage-new-road-castletownroche-co-cork/5025587",
+    "https://www.myhome.ie/residential/brochure/10-castleville-golf-links-road-castletroy-limerick-county-limerick/5025585",
+    "https://www.myhome.ie/residential/brochure/the-lime-kiln-lower-road-bunratty-county-clare/5025584",
+    "https://www.myhome.ie/residential/brochure/25-haddington-road-ballsbridge-dublin-4/5025582",
+    "https://www.myhome.ie/residential/brochure/51-greenville-terrace-south-circular-road-dublin-8/5025577"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=265",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-116-the-oval-tullyvale-cherrywood-dublin-18/6668889",
+  "fetchedAt": "2026-10-05T09:31:45.259Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-116-the-oval-tullyvale-cherrywood-dublin-18/6668889",
+  "kind": "listing",
+  "responseSha256": "8cfba3a375095733f2a210a038897b6bc785773d53f5f181294bde48426c8934",
+  "files": [
+    {
+      "path": "daft/01357-11a50086203ea1ba-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "74ac663f92cc13cd7144b8af0e2defa5e827f8c7cfb81edb527102487d8ea55c",
+      "bytes": 56630
+    },
+    {
+      "path": "daft/01357-11a50086203ea1ba-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "169c51b24fd3aa1e6cdcfefcc0ee2b85d454873533c9bcf9d06613cb790b3cdc",
+      "bytes": 8145
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

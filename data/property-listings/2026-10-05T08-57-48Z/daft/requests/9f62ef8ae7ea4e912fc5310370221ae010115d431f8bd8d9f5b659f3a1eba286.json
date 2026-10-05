@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-river-vale-newmarket-road-kanturk-co-cork/6684400",
+  "fetchedAt": "2026-10-05T09:42:43.040Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-river-vale-newmarket-road-kanturk-co-cork/6684400",
+  "kind": "listing",
+  "responseSha256": "54473662cd588eb62b1aeef06d9126d0ea148038ab25e300f933bb8fe0812730",
+  "files": [
+    {
+      "path": "daft/01795-9f62ef8ae7ea4e91-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "39058be0c33ef9c645284c411cb87e643c185a0d2abdb480f0a1fd4cd6934bef",
+      "bytes": 22425
+    },
+    {
+      "path": "daft/01795-9f62ef8ae7ea4e91-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dd183438246a67291b9ac778329b650da4c1394d47f634d2e1ffb52372d9de2c",
+      "bytes": 8022
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

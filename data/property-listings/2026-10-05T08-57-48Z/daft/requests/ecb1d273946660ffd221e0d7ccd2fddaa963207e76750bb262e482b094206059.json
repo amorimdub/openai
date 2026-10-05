@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/carrabane-athenry-co-galway/6680145",
+  "fetchedAt": "2026-10-05T09:15:49.960Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/carrabane-athenry-co-galway/6680145",
+  "kind": "listing",
+  "responseSha256": "0574a2191c6fa8109310f8322a949a003c0d3c57cc0b1e98178fc9ccbd1ecbd2",
+  "files": [
+    {
+      "path": "daft/00721-ecb1d273946660ff-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9ffd5a86db652dda088b71ed197ee2139f0aae6c13cef0cc0205534041a1073e",
+      "bytes": 96544
+    },
+    {
+      "path": "daft/00721-ecb1d273946660ff-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8d29c9527ef1a9fc66cc4e072e036550cfe6b40d276c17112eaae40c897629c0",
+      "bytes": 7986
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

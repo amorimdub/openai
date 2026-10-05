@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/the-elms-30-the-crescent-beaumont-blackrock-co-cork/6656555",
+  "fetchedAt": "2026-10-05T09:40:23.325Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/the-elms-30-the-crescent-beaumont-blackrock-co-cork/6656555",
+  "kind": "listing",
+  "responseSha256": "05b2553de1fbc3dc2868c94e8866a51d3b74a2a2716f8a77b274dc430bbfef76",
+  "files": [
+    {
+      "path": "daft/01702-ad33cff509647609-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "390fa047375a6e258195c219734275be133a08260179f92fbcc3d1432ece074f",
+      "bytes": 152109
+    },
+    {
+      "path": "daft/01702-ad33cff509647609-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dfc1a0569bc8546b3de9d3e60c9c330bb787014de3205a8d73863bb152b285b7",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

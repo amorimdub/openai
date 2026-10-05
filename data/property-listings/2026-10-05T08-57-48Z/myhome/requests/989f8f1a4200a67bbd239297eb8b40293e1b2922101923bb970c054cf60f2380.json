@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=51",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=51",
+  "fetchedAt": "2026-10-05T09:38:12.504Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "57d293b53d9e7868d130be783adde6fea91f3e524d1ed04d17c7b0bac09ac685",
+  "files": [
+    {
+      "path": "myhome/01610-989f8f1a4200a67b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=51\"].SearchResults",
+      "sha256": "69b22e2de4e24cef10f943b00c8d361c8eee3146b1291538986bb492e0cd3e67",
+      "bytes": 113601
+    },
+    {
+      "path": "myhome/01610-989f8f1a4200a67b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=51\"] (paging fields)",
+      "sha256": "0d35326d9758d4341834b114b682d4ab0d4d9b2f99fd57d0080cdb739a6ffe10",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/36-woodstown-drive-knocklyon-dublin-16/5026717",
+    "https://www.myhome.ie/residential/brochure/12-knockfield-manor-knocklyon-road-knocklyon-dublin-16/5019772",
+    "https://www.myhome.ie/residential/brochure/cahilly-liscannor-clare/5031385",
+    "https://www.myhome.ie/residential/brochure/coreen-30-shrewsbury-road-ballsbridge-dublin-4/5031397",
+    "https://www.myhome.ie/residential/brochure/12-chelmsford-road-ranelagh-dublin-6/4991124",
+    "https://www.myhome.ie/residential/brochure/2-albany-terrace-drogheda-louth/5024224",
+    "https://www.myhome.ie/residential/brochure/14-old-meadow-grove-avenue-blackrock-co-dublin/5005015",
+    "https://www.myhome.ie/residential/brochure/205-cooley-road-drimnagh-dublin-12/5031390",
+    "https://www.myhome.ie/residential/brochure/11-congress-terrace-longford-longford/5031380",
+    "https://www.myhome.ie/residential/brochure/2-prospect-hill-barclay-court-blackrock-co-dublin/5024973",
+    "https://www.myhome.ie/residential/brochure/knockgreany-coolgreany-county-wexford/5031389",
+    "https://www.myhome.ie/residential/brochure/7-tritonville-road-sandymount-dublin-4/5028857",
+    "https://www.myhome.ie/residential/brochure/main-street-glaslough-monaghan/5031383",
+    "https://www.myhome.ie/residential/brochure/apartment-5-house-2-linden-court-grove-avenue-blackrock-co-dublin/5022773",
+    "https://www.myhome.ie/residential/brochure/site-off-emerald-square-the-coombe-dublin-8/5031382",
+    "https://www.myhome.ie/residential/brochure/forth-view-polldoon-foulksmills-co-wexford/5031381",
+    "https://www.myhome.ie/residential/brochure/13-the-walk-boyne-road-navan-meath/5031376",
+    "https://www.myhome.ie/residential/brochure/17-morley-terrace-gracedieu-road-waterford/5031379",
+    "https://www.myhome.ie/residential/brochure/9-college-green-maynooth-co-kildare-naas/5031377",
+    "https://www.myhome.ie/residential/brochure/5-cois-croinn-saltown-dundalk-co-louth/5031375"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=52",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=421",
+  "fetchedAt": "2026-10-05T13:51:26.165Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=421",
+  "kind": "search",
+  "responseSha256": "0546be3aa8eeac7eb2cea9b21170e20b36fd5bae4af404435e514d050bb25469",
+  "files": [
+    {
+      "path": "myhome/09186-f656637841eee195-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=421\"].SearchResults",
+      "sha256": "9d71756ce1161af0e4f3aa62083d0e90b530888acc45b7058acdec2382fdbe58",
+      "bytes": 114703
+    },
+    {
+      "path": "myhome/09186-f656637841eee195-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=421\"] (paging fields)",
+      "sha256": "1c00332bdb5d07f69d74a734c64588e082a8c7ce99b4c3d8998eab4e2eb9e901",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/knader-ballyshannon-county-donegal/5011544",
+    "https://www.myhome.ie/residential/brochure/dunaree-kingscourt-co-cavan-a82h1k2-kingscourt-cavan/5011294",
+    "https://www.myhome.ie/residential/brochure/no-20-carraig-mhor-rocklands-wexford-town-wexford/5011523",
+    "https://www.myhome.ie/residential/brochure/apt-11a-brooklawn-ballaghaderreen-roscommon/5011517",
+    "https://www.myhome.ie/residential/brochure/2b-rathborne-way-ashtown-dublin-15/5011516",
+    "https://www.myhome.ie/residential/brochure/18-charleston-wharf-bailick-road-midleton-co-cork/5011510",
+    "https://www.myhome.ie/residential/brochure/ravenswood-loreto-park-ballinlough-cork/5011421",
+    "https://www.myhome.ie/residential/brochure/saint-johns-kilteel-road-carrigeen-rathcoole-co-dublin/5011501",
+    "https://www.myhome.ie/residential/brochure/no-1b-saint-peter-s-square-wexford-wexford-town-wexford/5011475",
+    "https://www.myhome.ie/residential/brochure/house-type-c01-st-johns-mill-enniscorthy-co-wexford/5011472",
+    "https://www.myhome.ie/residential/brochure/mid-terrace-house-type-a01-st-johns-mill-enniscorthy-co-wexford/5011471",
+    "https://www.myhome.ie/residential/brochure/mid-terrace-house-type-d01-st-johns-mill-enniscorthy-co-wexford/5011468",
+    "https://www.myhome.ie/residential/brochure/c-1-06-acres-feevagh-beg-dysart-county-roscommon/5011465",
+    "https://www.myhome.ie/residential/brochure/lacken-road-kilbarry-waterford-city-waterford/5011461",
+    "https://www.myhome.ie/residential/brochure/149-effernock-avenue-trim-co-meath/5011458",
+    "https://www.myhome.ie/residential/brochure/the-leys-carrickmines-dublin-18/5011439",
+    "https://www.myhome.ie/residential/brochure/the-leys-carrickmines-dublin-18/5011433",
+    "https://www.myhome.ie/residential/brochure/22-monksfield-lawn-clondalkin-dublin-22/5010924",
+    "https://www.myhome.ie/residential/brochure/2-monastery-heath-avenue-clondalkin-dublin-22/4998287",
+    "https://www.myhome.ie/residential/brochure/35-upper-john-street-wexford-town-wexford/5011426"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=422",
+  "paginationLimited": false
+}

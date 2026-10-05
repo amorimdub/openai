@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST PATRICK'S NATIONAL SCHOOL",
+      "numPupils": 36,
+      "distance": {
+        "value": 4.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.571290",
+        "lon": "-6.860493"
+      }
+    },
+    {
+      "schoolName": "DRUMPHEA NATIONAL SCHOOL",
+      "numPupils": 60,
+      "distance": {
+        "value": 5.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.658380",
+        "lon": "-6.839858"
+      }
+    },
+    {
+      "schoolName": "BORRIS NATIONAL SCHOOL",
+      "numPupils": 198,
+      "distance": {
+        "value": 5.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.599655",
+        "lon": "-6.920431"
+      }
+    },
+    {
+      "schoolName": "BALLINKILLEN NATIONAL SCHOOL",
+      "numPupils": 126,
+      "distance": {
+        "value": 7.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.648810",
+        "lon": "-6.930092"
+      }
+    },
+    {
+      "schoolName": "GARRYHILL SCHOOL",
+      "numPupils": 32,
+      "distance": {
+        "value": 7.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.677456",
+        "lon": "-6.852725"
+      }
+    },
+    {
+      "schoolName": "NEWTOWN NATIONAL SCHOOL",
+      "numPupils": 45,
+      "distance": {
+        "value": 8.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.546604",
+        "lon": "-6.903765"
+      }
+    },
+    {
+      "schoolName": "KILTEALY NATIONAL SCHOOL",
+      "numPupils": 97,
+      "distance": {
+        "value": 8.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.566803",
+        "lon": "-6.742588"
+      }
+    },
+    {
+      "schoolName": "MYSHALL NATIONAL SCHOOL",
+      "numPupils": 116,
+      "distance": {
+        "value": 9.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.686504",
+        "lon": "-6.780090"
+      }
+    },
+    {
+      "schoolName": "SKEOUGHVOSTEEN NATIONAL SCHOOL",
+      "numPupils": 81,
+      "distance": {
+        "value": 10.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.590374",
+        "lon": "-6.994929"
+      }
+    },
+    {
+      "schoolName": "SAPLINGS SPECIAL SCHOOL",
+      "numPupils": 12,
+      "distance": {
+        "value": 10.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.629560",
+        "lon": "-6.996460"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "BORRIS COLLEGE",
+      "numPupils": 537,
+      "distance": {
+        "value": 5.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.597200",
+        "lon": "-6.917786"
+      }
+    },
+    {
+      "schoolName": "DUISKE COLLEGE",
+      "numPupils": 139,
+      "distance": {
+        "value": 10.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.539894",
+        "lon": "-6.957374"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AINDRIÚ",
+      "numPupils": 140,
+      "distance": {
+        "value": 12.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.702140",
+        "lon": "-6.950726"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION / DE LA SALLE COLLEGE",
+      "numPupils": 763,
+      "distance": {
+        "value": 13.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.700905",
+        "lon": "-6.970111"
+      }
+    },
+    {
+      "schoolName": "BUNCLODY COMMUNITY COLLEGE",
+      "numPupils": 314,
+      "distance": {
+        "value": 13.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.653100",
+        "lon": "-6.651600"
+      }
+    },
+    {
+      "schoolName": "F.C.J.  SECONDARY SCHOOL",
+      "numPupils": 1035,
+      "distance": {
+        "value": 14.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.656315",
+        "lon": "-6.646381"
+      }
+    },
+    {
+      "schoolName": "ENNISCORTHY COMMUNITY COLLEGE",
+      "numPupils": 472,
+      "distance": {
+        "value": 20.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.509655",
+        "lon": "-6.585215"
+      }
+    },
+    {
+      "schoolName": "GRENNAN COLLEGE",
+      "numPupils": 334,
+      "distance": {
+        "value": 22.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.528297",
+        "lon": "-7.142543"
+      }
+    },
+    {
+      "schoolName": "TULLOW COMMUNITY SCHOOL",
+      "numPupils": 871,
+      "distance": {
+        "value": 22.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.799488",
+        "lon": "-6.732308"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S C.B.S.",
+      "numPupils": 772,
+      "distance": {
+        "value": 22.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.497444",
+        "lon": "-6.569224"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Borris",
+      "route": "881",
+      "destination": "Graiguenamanagh",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 5.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.600186",
+        "lon": "-6.923985"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Borris",
+      "route": "887",
+      "destination": "Carlow",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 5.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.60014",
+        "lon": "-6.92412"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Woodlawn Pk",
+      "route": "887",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 6.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.60307",
+        "lon": "-6.93516"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Woodlawn Pk",
+      "route": "881",
+      "destination": "Kilkenny",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 6.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.60298",
+        "lon": "-6.93527"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Coolnamara",
+      "route": "887",
+      "destination": "Carlow",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 8.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.55145",
+        "lon": "-6.91206"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kiltealy",
+      "route": "359",
+      "destination": "New Ross",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 8.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.56549",
+        "lon": "-6.74529"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilgraney",
+      "route": "887",
+      "destination": "Carlow",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 8.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.65341",
+        "lon": "-6.95248"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Goresbridge East",
+      "route": "BRW",
+      "destination": "Bagenalstown",
+      "provider": "Barrow Bus",
+      "distance": {
+        "value": 10.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6303703",
+        "lon": "-6.990582347"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Goresbridge",
+      "route": "881",
+      "destination": "Kilkenny",
+      "provider": "TFI Local Link Carlow Kilkenny Wicklow",
+      "distance": {
+        "value": 10.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.629602",
+        "lon": "-6.994213"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Goresbridge",
+      "route": "BRW",
+      "destination": "Bagenalstown",
+      "provider": "Barrow Bus",
+      "distance": {
+        "value": 10.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.62988",
+        "lon": "-6.9942"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=42",
+  "fetchedAt": "2026-10-05T09:45:34.320Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=42",
+  "kind": "search",
+  "responseSha256": "ac372b5e29448834cda77423ab2526df2e4d32846707996239e6a5034b21cc0d",
+  "files": [
+    {
+      "path": "daft/01909-f75618e451d078cf-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a18c44b3f545699f46a24bea7692cdf3714a8b9fd1a9b6ef842507e6be7a0e18",
+      "bytes": 251191
+    },
+    {
+      "path": "daft/01909-f75618e451d078cf-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01909-f75618e451d078cf-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "0344ae8b37708ce4f6079b27e0e722a73e0ce36b927b43246a6d4c4ac8fafcc6",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/brabazon-links-golf-links-road-bettystown-co-meath/6683843",
+    "https://www.daft.ie/for-rent/ifsc-dublin-1/6683851",
+    "https://www.daft.ie/for-rent/belgrave-road-rathmines-dublin-6/6683856",
+    "https://www.daft.ie/for-rent/2-118-120-cabra-park-dublin-7-phibsborough-dublin-7/6683846",
+    "https://www.daft.ie/for-rent/killballygorman-ardfinnan-co-tipperary/6683840",
+    "https://www.daft.ie/for-rent/kinsale-co-cork-ballinspittle-co-cork/6682495",
+    "https://www.daft.ie/for-rent/coolagh-well-beamore-road-drogheda-co-louth/6683786",
+    "https://www.daft.ie/for-rent/ballyheigue-tralee-co-kerry-ballyheigue-co-kerry/6682537",
+    "https://www.daft.ie/for-rent/8a-woodlawn-park-dun-laoghaire-monkstown-co-dublin/6683476",
+    "https://www.daft.ie/for-rent/coachford-county-cork-ballynagree-co-cork/6682591",
+    "https://www.daft.ie/for-rent/227-roundwood-close-maryborough-village-pallas-co-laois/6683804",
+    "https://www.daft.ie/for-rent/d-hollywood-co-wicklow/6682594",
+    "https://www.daft.ie/for-rent/apartment-5-geraldine-court-doctors-lane-maynooth-naas-maynooth-co-kildare/6682859",
+    "https://www.daft.ie/for-rent/moness-burt-bridgend-co-donegal/6683053",
+    "https://www.daft.ie/for-rent/apartment-12-bayview-court-main-street-inniscrone-enniscrone-co-sligo/6683382",
+    "https://www.daft.ie/for-rent/flat-2-15-grove-park-rathmines-dublin-6/6683805",
+    "https://www.daft.ie/for-rent/cloonanass-kilmurry-ennis-kilmurry-co-clare/6683417",
+    "https://www.daft.ie/for-rent/skehanore-south-douglas-road-douglas-co-cork/6683567",
+    "https://www.daft.ie/for-rent/21-esker-manor-lucan-co-dublin/6683738",
+    "https://www.daft.ie/for-rent/flat-7-68-rathgar-road-rathgar-dublin-6/6683789"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=43",
+  "paginationLimited": false
+}

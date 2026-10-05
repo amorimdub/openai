@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/sixmilewater-whitechurch-co-cork/6683145",
+  "fetchedAt": "2026-10-05T09:50:55.893Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/sixmilewater-whitechurch-co-cork/6683145",
+  "kind": "listing",
+  "responseSha256": "2ae5960bb0bd3df301ab2093b22c94fd54f9d71838ea6bac6b4f0b029d5c1fc4",
+  "files": [
+    {
+      "path": "daft/02123-514f07c2d9a4d097-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ddde5b80da44c5cb2e5d9ed88a7db158fddeedf68ce0e29182a8c9d8877c8286",
+      "bytes": 24513
+    },
+    {
+      "path": "daft/02123-514f07c2d9a4d097-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8706c75d3ddebd543f4d9cea26cd0b61dc66d0097e5078a252e4205ea6c45e6e",
+      "bytes": 8028
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

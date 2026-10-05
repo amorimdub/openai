@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=296",
+  "fetchedAt": "2026-10-05T12:47:35.541Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=296",
+  "kind": "search",
+  "responseSha256": "2794a62c71137d78a04f1e6b35ed396a9dafdab93b33e4d7a72278ea4ba91206",
+  "files": [
+    {
+      "path": "myhome/06638-091d8358d7e6ba6e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=296\"].SearchResults",
+      "sha256": "7b9b9f927435003e8c43a7838ff77fecbab32130396e562a43a059b749cdd23b",
+      "bytes": 119215
+    },
+    {
+      "path": "myhome/06638-091d8358d7e6ba6e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=296\"] (paging fields)",
+      "sha256": "eeb3ed1888f0696f1a52c1e716f80b31f8edb89ddbcb403e0297047824ea2049",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/6-newtown-avenue-the-meadows-kill-kildare/5024378",
+    "https://www.myhome.ie/residential/brochure/2a-marley-lawn-rathfarnham-dublin-16/5024371",
+    "https://www.myhome.ie/residential/brochure/massabielle-fr-russell-road-raheen-limerick/5011463",
+    "https://www.myhome.ie/residential/brochure/drumroragh-crosserlough-ballyjamesduff-co-cavan/5024368",
+    "https://www.myhome.ie/residential/brochure/2-marley-lawn-rathfarnham-dublin-16/5024366",
+    "https://www.myhome.ie/residential/brochure/4-canterbrook-navan-co-meath/5024362",
+    "https://www.myhome.ie/residential/brochure/14-garnd-priory-kells-meath/5024360",
+    "https://www.myhome.ie/residential/brochure/7-airfield-manor-donnybrook-dublin-4/4996336",
+    "https://www.myhome.ie/residential/brochure/templetown-fethard-wexford/5024342",
+    "https://www.myhome.ie/residential/brochure/4-coundon-court-killiney-avenue-killiney-county-dublin/5024174",
+    "https://www.myhome.ie/residential/brochure/woodleigh-leopardstown-road-foxrock-dublin-18/5024341",
+    "https://www.myhome.ie/residential/brochure/38-blackberry-rise-portmarnock-county-dublin/5024232",
+    "https://www.myhome.ie/residential/brochure/8a-coachmans-40-dominick-street-lower-galway/5024339",
+    "https://www.myhome.ie/residential/brochure/10-carrigmore-terrace-citywest-co-dublin/5024337",
+    "https://www.myhome.ie/residential/brochure/stradermot-ballinamore-leitrim/5024334",
+    "https://www.myhome.ie/residential/brochure/knock-cross-balbriggan-balrothery-co-dublin/5024333",
+    "https://www.myhome.ie/residential/brochure/sessiaghoneill-ballybofey-county-donegal/5024324",
+    "https://www.myhome.ie/residential/brochure/44-knocklyon-green-knocklyon-dublin-16/5024323",
+    "https://www.myhome.ie/residential/brochure/61-charleston-woods-castleredmond-midleton-cork/5023235",
+    "https://www.myhome.ie/residential/brochure/st-endas-channel-road-rush-co-dublin/5024319"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=297",
+  "paginationLimited": false
+}

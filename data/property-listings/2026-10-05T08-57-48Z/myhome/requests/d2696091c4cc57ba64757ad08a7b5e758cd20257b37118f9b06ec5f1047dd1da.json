@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=22",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=22",
+  "fetchedAt": "2026-10-05T09:17:34.341Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "4726794714b9570b72c1f5b915bc1d867eefbe6801ec4d3b7f72deaaa35536b6",
+  "files": [
+    {
+      "path": "myhome/00786-d2696091c4cc57ba-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=22\"].SearchResults",
+      "sha256": "daf3ecde2c3a85d91cf5be3f8624b74ca243836c39dbfe09fbc9d49a9f654872",
+      "bytes": 116716
+    },
+    {
+      "path": "myhome/00786-d2696091c4cc57ba-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=22\"] (paging fields)",
+      "sha256": "fcb8ce3ef0b348ca59189df6ff36cf005b456f2e59181921a081496b28bde1f6",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-bedroom-detached-type-c-fermoyle-manor-gorey-wexford/4952010",
+    "https://www.myhome.ie/residential/brochure/tanglewood-ballard-lower-kilbride-co-wicklow/5011723",
+    "https://www.myhome.ie/residential/brochure/roselli-cornagower-east-brittas-bay-co-wicklow/5017031",
+    "https://www.myhome.ie/residential/brochure/ard-na-cree-church-hill-wicklow-town-co-wicklow/5004139",
+    "https://www.myhome.ie/residential/brochure/blackfort-ashford-co-wicklow/5010386",
+    "https://www.myhome.ie/residential/brochure/10-mariners-row-mariners-point-greenhill-road-wicklow-town-co-wicklow/5010932",
+    "https://www.myhome.ie/residential/brochure/15-haven-green-altidore-gardens-newtownmountkennedy-co-wicklow/5024137",
+    "https://www.myhome.ie/residential/brochure/2-connolly-terrace-bohermore-co-galway/5031859",
+    "https://www.myhome.ie/residential/brochure/24-rathlyon-park-ballycullen-dublin-24/5031856",
+    "https://www.myhome.ie/residential/brochure/9-millrace-park-saggart-co-dublin/5031855",
+    "https://www.myhome.ie/residential/brochure/the-lake-house-shandrum-bantry-west-cork/5031778",
+    "https://www.myhome.ie/residential/brochure/147-wyckham-point-dundrum-dublin-16/5031853",
+    "https://www.myhome.ie/residential/brochure/5-palmerstown-heights-palmerstown-dublin-20/5026209",
+    "https://www.myhome.ie/residential/brochure/70-culmore-road-palmerstown-dublin-20/5030181",
+    "https://www.myhome.ie/residential/brochure/apartment-31-cassian-court-south-royal-canal-park-ashtown-dublin-15/5031194",
+    "https://www.myhome.ie/residential/brochure/11-holly-park-leitrim-village-co-leitrim/5031851",
+    "https://www.myhome.ie/residential/brochure/29-athlumney-close-kentstown-road-navan-meath/5031834",
+    "https://www.myhome.ie/residential/brochure/18-clearwater-court-south-royal-canal-park-ashtown-dublin-15/5031636",
+    "https://www.myhome.ie/residential/brochure/26-glenview-park-the-glen-dillons-cross-city-centre-nth-cork-city/5031847",
+    "https://www.myhome.ie/residential/brochure/62-talbot-s-court-freshford-road-kilkenny/5030321"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=23",
+  "paginationLimited": false
+}

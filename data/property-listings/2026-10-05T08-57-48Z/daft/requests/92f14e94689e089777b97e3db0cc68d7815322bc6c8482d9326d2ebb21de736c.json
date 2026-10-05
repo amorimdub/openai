@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/32-6-ushers-quay-south-city-centre-dublin-8/6682121",
+  "fetchedAt": "2026-10-05T09:52:10.989Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/32-6-ushers-quay-south-city-centre-dublin-8/6682121",
+  "kind": "listing",
+  "responseSha256": "8d55e3b8671c07da71ad93ce11a97b54db6f24988a3e2a91d81bab1516995027",
+  "files": [
+    {
+      "path": "daft/02173-92f14e94689e0897-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "333fe61f6bfe3d697b53c97c21396f457e36e4e2ad3582edddd10e6170aa412b",
+      "bytes": 16492
+    },
+    {
+      "path": "daft/02173-92f14e94689e0897-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "20ebc33dd8a7edb1de141b52918e73a297d24e52b7c64e5e88ce341b3f4b95c6",
+      "bytes": 8009
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

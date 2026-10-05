@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=291",
+  "fetchedAt": "2026-10-05T12:44:56.998Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=291",
+  "kind": "search",
+  "responseSha256": "eee135ec39724914ee7708504b9555b25e07d37a02cef67c904a71a4cd309628",
+  "files": [
+    {
+      "path": "myhome/06537-f3d1f9f43c50eb38-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=291\"].SearchResults",
+      "sha256": "e6d1f700a151f61e8881f7de1eb61826b14c76a422e2bac48f3e1360e09ffec6",
+      "bytes": 109706
+    },
+    {
+      "path": "myhome/06537-f3d1f9f43c50eb38-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=291\"] (paging fields)",
+      "sha256": "910e9c070534a601fef50bd08637fc8246a04311111f6511fc24f26ade6613e9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/51-coolmine-park-clonsilla-dublin-15/5024610",
+    "https://www.myhome.ie/residential/brochure/ballinakill-castlemahon-limerick/5024608",
+    "https://www.myhome.ie/residential/brochure/carrowmoreknock-rosscahill-co-galway/5024602",
+    "https://www.myhome.ie/residential/brochure/cullionbeg-mullingar-co-westmeath/5024600",
+    "https://www.myhome.ie/residential/brochure/site-at-dangan-kilmacow-co-kilkenny/5024598",
+    "https://www.myhome.ie/residential/brochure/1-dillons-row-maynooth-co-kildare/5024596",
+    "https://www.myhome.ie/residential/brochure/union-hall-pearse-street-gorey-co-wexford/5024595",
+    "https://www.myhome.ie/residential/brochure/4-castlegrange-park-clonee-dublin-15/5024581",
+    "https://www.myhome.ie/residential/brochure/inchera-williamstown-road-waterford/5024593",
+    "https://www.myhome.ie/residential/brochure/408-swiftwood-saggart-co-dublin/5024591",
+    "https://www.myhome.ie/residential/brochure/10-basin-street-naas-kildare/5015009",
+    "https://www.myhome.ie/residential/brochure/brownstown-castleinch-co-kilkenny/5024590",
+    "https://www.myhome.ie/residential/brochure/archersleas-callan-road-kilkenny-kilkenny/5024586",
+    "https://www.myhome.ie/residential/brochure/ref-1245-substantial-farmhouse-dungeagan-ballinskelligs-kerry/5024578",
+    "https://www.myhome.ie/residential/brochure/trentagh-letterkenny-donegal/5024579",
+    "https://www.myhome.ie/residential/brochure/fanmore-falcarragh-falcarragh-donegal/5024571",
+    "https://www.myhome.ie/residential/brochure/1-altamount-close-altamount-street-westport-co-mayo/5024570",
+    "https://www.myhome.ie/residential/brochure/6-rosary-road-maryland-dublin-8-co-dublin/5024565",
+    "https://www.myhome.ie/residential/brochure/52-glendhu-road-navan-road-dublin-7/5024424",
+    "https://www.myhome.ie/residential/brochure/the-bargain-store-and-tattoo-parlour-kildare-town-co-kildare/5024564"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=292",
+  "paginationLimited": false
+}

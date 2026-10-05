@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=384",
+  "fetchedAt": "2026-10-05T13:32:26.186Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=384",
+  "kind": "search",
+  "responseSha256": "6e45533d65b546866afc4a8151c80f7841f8ebed3f67e38070b7faead34f2baa",
+  "files": [
+    {
+      "path": "myhome/08428-a68df063648bba01-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=384\"].SearchResults",
+      "sha256": "e4df9ea4d55223ead6f76885a5f8a6ee11cf8f8437fb8a3411f8373ec8ba8cd5",
+      "bytes": 106623
+    },
+    {
+      "path": "myhome/08428-a68df063648bba01-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=384\"] (paging fields)",
+      "sha256": "b49c143f2e9e100894088523155c1dd8e13dd6127a029ec8326810a94f95d602",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/16-newberry-park-edenderry-offaly/5017293",
+    "https://www.myhome.ie/residential/brochure/aisling-slate-row-hacketstown-co-carlow/5017294",
+    "https://www.myhome.ie/residential/brochure/15-love-lane-clonmel-county-tipperary/5017292",
+    "https://www.myhome.ie/residential/brochure/7-parklands-gables-saggart-co-dublin/5017286",
+    "https://www.myhome.ie/residential/brochure/listellick-house-listellick-south-tralee-kerry/5017266",
+    "https://www.myhome.ie/residential/brochure/glenamucklagh-west-newmarket-cork/5017283",
+    "https://www.myhome.ie/residential/brochure/4-st-conleth-s-avenue-naas-road-newbridge-kildare/5014849",
+    "https://www.myhome.ie/residential/brochure/kilcormack-raheenduff-enniscorthy-co-wexford/5017267",
+    "https://www.myhome.ie/residential/brochure/dublin-road-ashbourne-meath/5017258",
+    "https://www.myhome.ie/residential/brochure/brickanagh-cloughjordan-co-tipperary/5017265",
+    "https://www.myhome.ie/residential/brochure/college-road-letterkenny-co-donegal/5017243",
+    "https://www.myhome.ie/residential/brochure/11-the-hampton-santry-cross-ballymun-dublin-11/5015690",
+    "https://www.myhome.ie/residential/brochure/the-rocks-kilmyshall-bunclody-enniscorthy-county-wexford/5017223",
+    "https://www.myhome.ie/residential/brochure/4-the-flaxmills-skibbereen-west-cork/5017216",
+    "https://www.myhome.ie/residential/brochure/shanlin-house-maree-road-oranmore-co-galway/5017220",
+    "https://www.myhome.ie/residential/brochure/site-at-cratloekeel-cratloe-clare/5017214",
+    "https://www.myhome.ie/residential/brochure/65-tymon-north-road-tallaght-north-rd-dublin-24-tallaght-dublin-24/5016988",
+    "https://www.myhome.ie/residential/brochure/87-coney-meadows-coneyboro-athy-athy-kildare/5016982",
+    "https://www.myhome.ie/residential/brochure/apartment-11-ovenden-house-christchurch-dublin-christchurch-dublin-8/5015520",
+    "https://www.myhome.ie/residential/brochure/45-fox-lodge-manor-ratoath-ratoath-ratoath-meath/5015223"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=385",
+  "paginationLimited": false
+}

@@ -1,0 +1,590 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "lime house glass bottle ave dublin 4 d04 yrv1",
+    "GroupId": 389465,
+    "Address": "Glass Bottle Avenue",
+    "LatestPriceChangeString": "-€100 on 29th Sep 26",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/fa1ae026-a7a7-46fe-b8cc-aa3c09826140_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/fa1ae026-a7a7-46fe-b8cc-aa3c09826140_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/fa1ae026-a7a7-46fe-b8cc-aa3c09826140_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/2af65981-d64e-45f7-8b22-051658d5f2ae_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/e9316099-4c27-440a-9ef5-da3f9de2921d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d385f262-4454-4d25-bfcd-97e232a5ded1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d3e8f442-98e5-4836-a027-1ac8474242af_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0df1222f-89d4-42b6-a922-6bb69b65a434_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/ef736f92-29df-4ec5-90fe-d0db6ae8c76f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0b32cc84-92d4-4084-8249-51351b6c8a52_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0bacacf8-91ea-4d2e-8e31-7b2f9e75a18f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/5/8/5/4966585/c9c8db24-3ec8-4258-b8e8-f3b64f2a2f6b_l.jpg"
+    ],
+    "DevelopmentLogo": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/dff9dd0e-9053-4a6b-89b3-7e5751f6e688.png",
+    "Bathrooms": 2,
+    "BerRating": "A2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 17,
+        "Name": "Pets Allowed",
+        "CreatedOn": "2018-03-20T10:29:41.1400000+00:00",
+        "IconName": "myh-icon-pets-allowed",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 31,
+        "Name": "Sea Views",
+        "CreatedOn": "2018-09-11T10:21:06.7100000+01:00",
+        "IconName": "myh-icon-sea-views",
+        "IsRequirement": false
+      },
+      {
+        "Id": 32,
+        "Name": "Gym",
+        "CreatedOn": "2018-09-11T10:21:14.0600000+01:00",
+        "IconName": "myh-icon-gym",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "A spacious three-bedroom home with modern open-plan design and stylish furnishings throughout. All bedrooms feature fitted wardrobes and painted feature walls. Includes a family bathroom including a bath and en-suite with rainfall shower, a comfortable living and dining area with plush seating, and a sleek kitchen with Neff appliances.\r\n\r\nFor more information or to Book a Viewing, please visit https://glassbottle.ie/"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Residents lounges - Shared space to unwind and connect with neighbours.\r\nGym and fitness studio - A fully-equipped fitness area for a life of balance and wellbeing.\r\nCo-working spaces - Flexible co-working space for the perfect work/life balance.\r\nSky lounge and private dining - A bookable space for your special events\r\nRooftop terrace - With beautiful views and dedicated space for BBQs.\r\nPrivate screening room - A residents-only screening room for movie nights.\r\nMeetings rooms - Bookable meeting rooms for focused work and collaboration.\r\nExercise terrace - A terrace to bring your workout into the fresh sea air.\r\nPet friendly - Where you and your pets both feel at home.\r\nLandscaped courtyards - Outdoor seating on the edge of the coastline.\r\nOnsite management - Professional onsite team available.\r\nDublin Bay on your doorstep - Coastal living brings a life of balance, mindfulness and wellbeing.\r\nSecure bike storage - Lock away your bikes in your shared storage facility"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: A2"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "Located on the Sean Moore Road, Sandymount, Dublin 4"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Viewings are available Monday - Sunday.\r\nBook a time online at https://glassbottle.ie/"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 669879,
+    "MinEnergyRating": 140,
+    "MaxEnergyRating": 140,
+    "BERGrade": "A",
+    "IsNewBER": false,
+    "PremiumAdExpiresOn": "2026-12-17T23:59:59.0000000+00:00",
+    "CreatedOnDate": "2025-11-14T14:09:51.3600000+00:00",
+    "ModifiedOnDate": "2026-09-29T13:12:11.0230000+01:00",
+    "IsPremiumAd": true,
+    "ActivatedOn": "2025-11-14T15:03:35.4030000+00:00",
+    "RefreshedOn": "2026-10-04T22:58:02.4870000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "RelatedProperties": "4966595",
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+    "IsTransact": false,
+    "PriceAsString": "€3,995 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 4966585,
+    "BedsString": "3 beds",
+    "DisplayAddress": "Lime House, Glass Bottle Ave, Dublin 4, D04 YRV1",
+    "Eircode": "D04YRV1",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1444,
+    "RegionName": "Dublin 4",
+    "LocalityId": 1392,
+    "LocalityName": "Sandymount",
+    "Price": {
+      "MinRentalPrice": 3995,
+      "MaxRentalPrice": 3995,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 3995,
+      "ShowPrice": true,
+      "AvailableOn": "2026-07-24T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 3995,
+      "MaxMonthlyRentalPrice": 3995
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/fa1ae026-a7a7-46fe-b8cc-aa3c09826140_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/fa1ae026-a7a7-46fe-b8cc-aa3c09826140_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/fa1ae026-a7a7-46fe-b8cc-aa3c09826140_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/2af65981-d64e-45f7-8b22-051658d5f2ae_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/2af65981-d64e-45f7-8b22-051658d5f2ae_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/2af65981-d64e-45f7-8b22-051658d5f2ae_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/e9316099-4c27-440a-9ef5-da3f9de2921d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/e9316099-4c27-440a-9ef5-da3f9de2921d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/e9316099-4c27-440a-9ef5-da3f9de2921d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d385f262-4454-4d25-bfcd-97e232a5ded1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d385f262-4454-4d25-bfcd-97e232a5ded1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d385f262-4454-4d25-bfcd-97e232a5ded1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d3e8f442-98e5-4836-a027-1ac8474242af_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d3e8f442-98e5-4836-a027-1ac8474242af_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/d3e8f442-98e5-4836-a027-1ac8474242af_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0df1222f-89d4-42b6-a922-6bb69b65a434_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0df1222f-89d4-42b6-a922-6bb69b65a434_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0df1222f-89d4-42b6-a922-6bb69b65a434_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/ef736f92-29df-4ec5-90fe-d0db6ae8c76f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/ef736f92-29df-4ec5-90fe-d0db6ae8c76f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/ef736f92-29df-4ec5-90fe-d0db6ae8c76f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0b32cc84-92d4-4084-8249-51351b6c8a52_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0b32cc84-92d4-4084-8249-51351b6c8a52_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0b32cc84-92d4-4084-8249-51351b6c8a52_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0bacacf8-91ea-4d2e-8e31-7b2f9e75a18f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0bacacf8-91ea-4d2e-8e31-7b2f9e75a18f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/0bacacf8-91ea-4d2e-8e31-7b2f9e75a18f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/c9c8db24-3ec8-4258-b8e8-f3b64f2a2f6b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/c9c8db24-3ec8-4258-b8e8-f3b64f2a2f6b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/8/5/4966585/c9c8db24-3ec8-4258-b8e8-f3b64f2a2f6b_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2135826,
+      "latitude": 53.3395002
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [
+        4966595
+      ],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": "#000055"
+    },
+    "PhotoCount": 10,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "9d37f5be-c1e1-4d65-987f-6d29ed56f9c0",
+        "Filename": "https://youtube.com/embed/ibtQj8wL6Lw",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      },
+      {
+        "Identifier": "832a1b6e-50a3-4fc3-9dfc-4fc61d2d96e6",
+        "Filename": "https://my.matterport.com/show/?m=SgzY3iKZZm5",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 389465,
+    "Name": "Compass Rock",
+    "Email": "altaverde@domu.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "domu",
+    "SeoName": "domu",
+    "Address": "1st Floor, Block E, Iveagh Court, Harcourt Road, Dublin 2, D02 YT22",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/5/6/4/389465/logo.jpg",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "sandymount/1392",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [
+    {
+      "PropertyId": 4966585,
+      "HasWebP": false,
+      "Price": 3995,
+      "PrevPrice": 4095,
+      "PriceChangeDelta": -100,
+      "PriceChangePercentage": -2.442,
+      "Created": "29th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "IsActive": false
+    },
+    {
+      "PropertyId": 4966585,
+      "HasWebP": false,
+      "Price": 4095,
+      "PrevPrice": 4357,
+      "PriceChangeDelta": -262,
+      "PriceChangePercentage": -6.0133,
+      "Created": "23rd Jul 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "IsActive": false
+    },
+    {
+      "PropertyId": 4966585,
+      "HasWebP": false,
+      "Price": 4357,
+      "PrevPrice": 3850,
+      "PriceChangeDelta": 507,
+      "PriceChangePercentage": 13.1688,
+      "Created": "20th Jul 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "IsActive": false
+    }
+  ],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [
+    {
+      "PropertyId": 4966595,
+      "GroupId": 389465,
+      "CustomData": {
+        "RelatedPropertyIDs": [
+          4966585,
+          4966581,
+          4966526
+        ],
+        "PromotionalSnippet": "",
+        "IsMyHomePassport": false,
+        "DevelopmentLogoBgColour": "#000055"
+      },
+      "RefreshedOn": "2026-10-04T22:58:02.7230000+01:00",
+      "Address": "Glass Bottle Avenue",
+      "GroupPhoneNumber": "",
+      "GroupEmail": "altaverde@domu.ie",
+      "GroupName": "Compass Rock",
+      "GroupAddress": "1st Floor, Block E, Iveagh Court, Harcourt Road, Dublin 2, D02 YT22",
+      "GroupUrlSlugIdentifier": "domu",
+      "Negotiator": {
+        "NegotiatorId": 0,
+        "Email": "enquiries.limehouse@glassbottle.ie"
+      },
+      "CreatedOnDate": "2025-11-14T14:25:53.1230000+00:00",
+      "ActivatedOn": "2025-11-14T15:03:43.3870000+00:00",
+      "IsNew": false,
+      "IsSaleAgreed": false,
+      "GroupLogoBgColor": "#fffcf3",
+      "GroupPremiumHeadTextColour": "#FFFFFF",
+      "GroupLogoUrl": "https://photos-a.propertyimages.ie/groups/5/6/4/389465/logo.jpg",
+      "GroupPremiumLogoUrl": "",
+      "GroupPremiumJointLogoUrl": "",
+      "GroupRectangularLogoUrl": "",
+      "JointGroupRectangularLogoUrl": "",
+      "JointGroupPremiumJointLogo": "",
+      "GroupUrl": "/estate-agents/domu-389465",
+      "IsPremiumAd": true,
+      "IsBuildToRent": true,
+      "IsBuildToRentDevelopment": true,
+      "IsPrivateLandlord": false,
+      "IsBrandBooster": true,
+      "IsActive": true,
+      "SaleTypeId": 0,
+      "IsFavourite": false,
+      "HasVideos": true,
+      "HasWebP": true,
+      "IsMappedAccurately": false,
+      "IsTopSpot": false,
+      "BedsString": "",
+      "NumberOfBeds": 0,
+      "BrochureMap": {
+        "longitude": -6.2275049,
+        "latitude": 53.32937
+      },
+      "id": 4966595,
+      "PriceChangeIsIncrease": false,
+      "DisplayAddress": "Glass Bottle Avenue, Sandymount, Dublin 4",
+      "Eircode": "D04YRV1",
+      "PropertyClassId": 3,
+      "PropertyClass": "LettingsToRent",
+      "PropertyClassUrlSlug": "rentals",
+      "PropertyStatus": "ToLet",
+      "PropertyType": "Apartment",
+      "NumberOfBathrooms": 0,
+      "BerRating": "A2",
+      "EnergyRatingMediaPath": "//photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "OpenViewings": [],
+      "VirtualViewings": [],
+      "OrderedDisplayAddress": "glass bottle avenue sandymount dublin 4",
+      "SeoDisplayAddress": "glass-bottle-avenue-sandymount-dublin-4",
+      "BrochureUrl": "/rentals/brochure/glass-bottle-avenue-sandymount-dublin-4/4966595",
+      "SeoUrl": "/rentals/brochure/glass-bottle-avenue-sandymount-dublin-4/4966595",
+      "PhotoCount": 53,
+      "MainPhoto": "https://photos-a.propertyimages.ie/media/5/9/5/4966595/f2eb75a6-6879-4276-852e-28726893e2b7_l.jpg",
+      "MainPhotoWeb": "https://photos-a.propertyimages.ie/media/5/9/5/4966595/f2eb75a6-6879-4276-852e-28726893e2b7_m.jpg",
+      "Photos": [
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/f2eb75a6-6879-4276-852e-28726893e2b7_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/cf599681-144d-4554-9c61-8bfc8d048861_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/a0c423ae-8afa-427a-9ef0-5f8b6c99ef8e_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/dfbb390d-6324-40f6-aff7-830aa4a07e76_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/c86960d9-f015-43e6-85c9-15f627ecb242_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/6d3dbfc1-2f55-4cd5-91b0-4bd62ffa5bd1_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/22bb8a94-5740-498c-8752-b5c746cae90b_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/e4ce9e5c-fcd8-4bff-971a-bbb843d97878_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/d07492cf-2e12-4d22-920a-76d03d9cc05f_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/54916138-f601-422f-929d-9f30880edb6c_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/76870f70-c0b5-4402-9619-dbafb58dacca_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/f3ff0a2e-e981-4ed8-b3ab-8e3196d47bd6_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/079e03b0-b20b-4bf8-9dea-5cf4d3fb3bff_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/76d6a741-ca10-4141-a440-9b8878ffd8f1_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/2799242c-09ee-4760-9c12-150b55d173f1_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/f6ce0f87-6d89-491a-b9f3-03ae15243d47_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/b21f3386-0954-436c-abd8-1201412c6a32_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/8b7ad4ea-8a1c-45a7-8bff-69d4af802703_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/1a2b12c1-766d-4626-a1cf-7325aae97a7f_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/7a3a840a-5375-4ed5-8b04-a4042d008ca5_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/c163049f-5ba8-4faa-9d83-2e7de1ee257a_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/66507c49-e5d4-4c68-932b-e765a7d19ab2_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/8f06b735-2897-4ebf-9d7a-75f62be2d9af_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/e637178d-038c-4ca3-8c98-9da74bfc7f6f_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/300bf415-a56d-47a5-9284-9df01f549c38_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/2b5add0d-6fe3-45b0-8e9f-d8e2d5e5647b_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/b002bb23-bd88-44eb-a755-d0a546301f3c_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/c9761acd-9036-41cd-a215-419695267ba2_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/c9ec7454-936e-455d-b440-c756a5eb6b79_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/6592e81b-4c49-4216-a557-3e4454cc3d99_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/85f171be-89f9-48cb-b995-e8ece9285670_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/d5e6ca99-e390-455a-838c-ed9382597982_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/cea94481-2c2a-41d3-8e5c-31d4624a7d7e_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/febe621f-71f3-41c7-8949-194c54a66503_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/116a1b68-9a9d-4b66-b7b0-8d874b42c878_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/619d1229-8a55-4cfd-bf03-11b557cd8866_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/6d0796db-79fa-4e86-855d-5b7c50b3e47d_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/b0fb3a86-f016-4d04-bf7c-7577af9883a0_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/4bb9e93f-b4f1-4451-a4a2-05991affe187_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/bcbe6209-56a9-400e-bc3f-f012255f1ac4_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/bd10a537-08b2-4784-8c8d-8426adeb4127_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/3328f5d0-10c4-4ce1-b218-a6ad83429932_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/8ffc1486-fd76-4195-8db6-4cc7d0d1de71_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/b7e535a1-1f7a-4315-a6e7-da20583ed80c_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/d8141a7d-1571-476d-97da-a648a564f22c_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/ff4f4e8b-e0d9-486a-bd56-eabc5975b82a_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/2176f647-e4f7-4518-af7f-796cb49bab9c_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/8809f441-d700-43fd-980f-f5cd5f3727f6_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/a3b37d7b-9df9-4228-81db-416a9d56ac3f_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/01936f26-d7dd-49df-8985-6fa761e2b637_l.jpg",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/09cc8f4c-763c-4885-a63d-89fa10355b52_l.png",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/b9d61643-5d1b-4f1b-8660-5e849122ab43_l.png",
+        "https://photos-a.propertyimages.ie/media/5/9/5/4966595/6b7ce5ec-a8f4-440c-b6c7-66865552b7f5_l.png"
+      ],
+      "TravelTimes": [],
+      "AuctionList": [],
+      "AdditionalLogoUrls": [],
+      "RelatedPropertiesTotal": 0
+    }
+  ],
+  "SeoUrl": "/rentals/brochure/lime-house-glass-bottle-ave-dublin-4-d04-yrv1/4966585",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 669879,
+    "Name": "Glass Bottle",
+    "Email": "enquiries.limehouse@glassbottle.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "-€100.00 29th Sep 26",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 389465,
+    "MYH_LocalityID": 1392,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1444,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Balcony",
+      "References Required",
+      "Pets Allowed",
+      "Full Furnished",
+      "Dishwasher",
+      "Sea Views",
+      "Gym"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Balcony,References Required,Pets Allowed,Full Furnished,Dishwasher,Sea Views,Gym",
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 140,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4966585,
+    "MYH_PropertyTypeID": 74
+  }
+}

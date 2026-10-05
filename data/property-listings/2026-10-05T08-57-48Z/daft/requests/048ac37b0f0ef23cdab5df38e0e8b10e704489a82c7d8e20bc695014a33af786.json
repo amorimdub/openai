@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/church-road-kilmuckridge-gorey-co-wexford/6685859",
+  "fetchedAt": "2026-10-05T09:33:30.369Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/church-road-kilmuckridge-gorey-co-wexford/6685859",
+  "kind": "listing",
+  "responseSha256": "7246c8de466340e8560be53915350828482c4f3dfdbe0863b9d77064a41391ba",
+  "files": [
+    {
+      "path": "daft/01427-048ac37b0f0ef23c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e0a0e69315650a7878786355e4355c958bd36f397043c29eb326a27d40696692",
+      "bytes": 41954
+    },
+    {
+      "path": "daft/01427-048ac37b0f0ef23c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "760cd3b128daae45f772292c515dd618b47a50be4dd0e8aa6c35ac88d6fc090f",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

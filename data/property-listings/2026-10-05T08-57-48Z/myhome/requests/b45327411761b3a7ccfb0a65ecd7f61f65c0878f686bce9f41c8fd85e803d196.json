@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=14",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=14",
+  "fetchedAt": "2026-10-05T09:09:54.820Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "28b753ccda2a6877e81a5d9ffce6f6ccacd2d5bc0886af238dc0086d6ea9a57d",
+  "files": [
+    {
+      "path": "myhome/00484-b45327411761b3a7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=14\"].SearchResults",
+      "sha256": "bc32704ad8338deb7a4eb4958866e26e3f348a1882a39081e66293e00bdcde35",
+      "bytes": 97927
+    },
+    {
+      "path": "myhome/00484-b45327411761b3a7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=14\"] (paging fields)",
+      "sha256": "000cded8e4cb67beadceb41718cb1f3252089f1b6900f6226768d6789ec069f8",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/the-penthouse-adelaide-square-south-city-centre-dublin-8/5028828",
+    "https://www.myhome.ie/rentals/brochure/drumkeeran-black-arvagh-county-cavan/5028816",
+    "https://www.myhome.ie/rentals/brochure/123-ferguson-road-dublin-9-drumcondra-dublin-9-drumcondra-dublin-9/5028813",
+    "https://www.myhome.ie/rentals/brochure/grosvenor-place-rathmines-dublin-6/5028799",
+    "https://www.myhome.ie/rentals/brochure/the-lansdowne-block-pembroke-square-grand-canal-dk-dublin-4/5028786",
+    "https://www.myhome.ie/rentals/brochure/bremore-pastures-way-balbriggan-co-dublin/5028779",
+    "https://www.myhome.ie/rentals/brochure/8-the-court-bettyglen-raheny-dublin-5/5028769",
+    "https://www.myhome.ie/rentals/brochure/28-donore-dundalk-county-louth/5028705",
+    "https://www.myhome.ie/rentals/brochure/flat-2-47-blessington-street-north-city-centre-dublin-7/5028678",
+    "https://www.myhome.ie/rentals/brochure/hali-cherrywood-dublin-18-dublin/4553996",
+    "https://www.myhome.ie/rentals/brochure/hali-cherrywood-dublin-18-dublin/4554017",
+    "https://www.myhome.ie/rentals/brochure/hali-cherrywood-cherrywood-dublin/4554018",
+    "https://www.myhome.ie/rentals/brochure/hali-cherrywood-cherrywood-dublin/4554022",
+    "https://www.myhome.ie/rentals/brochure/hali-cherrywood-cherrywood-dublin-18/4554025",
+    "https://www.myhome.ie/rentals/brochure/cannon-court-bride-street-dublin-8/5028574",
+    "https://www.myhome.ie/rentals/brochure/fairway-drive-cualanor-dun-laoghaire-county-dublin/5028539",
+    "https://www.myhome.ie/rentals/brochure/24-the-avenue-straffan-wood-maynooth-co-kildare/5028532",
+    "https://www.myhome.ie/rentals/brochure/5-fitzmaurice-road-ballygall-glasnevin-dublin-11/5028528",
+    "https://www.myhome.ie/rentals/brochure/1-enniscoush-limerick-county-limerick/5028526",
+    "https://www.myhome.ie/rentals/brochure/26-seamount-booterstown-county-dublin/5028511"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=15",
+  "paginationLimited": false
+}

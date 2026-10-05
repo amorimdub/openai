@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=64",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=64",
+  "fetchedAt": "2026-10-05T09:44:52.175Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "7bc499253e34490827eaab8c266dd915969633357b45ec17c4276c7a3427d014",
+  "files": [
+    {
+      "path": "myhome/01876-0fad31d06e1e2d1e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=64\"].SearchResults",
+      "sha256": "43e8cb9b493bd22b02f858611f2f376a5eaa121b04f08052a204f3dcba06adb5",
+      "bytes": 118639
+    },
+    {
+      "path": "myhome/01876-0fad31d06e1e2d1e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=64\"] (paging fields)",
+      "sha256": "59e9c2bc0b991ea1f116947be32adb6909136a262f8d35cb40befa2e67aed10e",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/5-great-western-avenue-phibsborough-dublin-7/5027309",
+    "https://www.myhome.ie/residential/brochure/18b-clonliffe-avenue-drumcondra-dublin-3/5019909",
+    "https://www.myhome.ie/residential/brochure/41-trimbelston-goatstown-dublin-14/5028280",
+    "https://www.myhome.ie/residential/brochure/103-nutgrove-avenue-rathfarnham-dublin-14/5014694",
+    "https://www.myhome.ie/residential/brochure/95-silloge-gardens-ballymun-dublin-11/5031155",
+    "https://www.myhome.ie/residential/brochure/ballynew-ballinrobe-co-mayo/5031152",
+    "https://www.myhome.ie/residential/brochure/58-abbeywood-way-lucan-dublin/5031052",
+    "https://www.myhome.ie/residential/brochure/4-meadow-avenue-churchtown-dublin-16/5031145",
+    "https://www.myhome.ie/residential/brochure/8-the-sycamore-clonshaugh-woods-clonshaugh-dublin-17/5028755",
+    "https://www.myhome.ie/residential/brochure/16-ennel-avenue-artane-dublin-5/5027409",
+    "https://www.myhome.ie/residential/brochure/4-green-road-mullingar-co-westmeath/5031153",
+    "https://www.myhome.ie/residential/brochure/36-maywood-crescent-raheny-dublin-5/5030801",
+    "https://www.myhome.ie/residential/brochure/293-landen-road-ballyfermot-dublin-10/5031151",
+    "https://www.myhome.ie/residential/brochure/23-valentia-parade-phibsborough-dublin-7/5031150",
+    "https://www.myhome.ie/residential/brochure/19-knocksinna-park-blackrock-co-dublin/5023309",
+    "https://www.myhome.ie/residential/brochure/101-galloping-green-stillorgan-road-blackrock-co-dublin/5007369",
+    "https://www.myhome.ie/residential/brochure/mons-lodge-leinster-walk-kildare-town/5031147",
+    "https://www.myhome.ie/residential/brochure/apt-30-the-oak-carysfort-hall-carysfort-park-blackrock-county-dublin/5031146",
+    "https://www.myhome.ie/residential/brochure/residence-on-approx-1-40-acres-at-lismurtagh-tulsk-co-roscommon/5031144",
+    "https://www.myhome.ie/residential/brochure/45-rathvilly-park-finglas-dublin-11/5031143"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=65",
+  "paginationLimited": false
+}

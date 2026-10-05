@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/milltown-tuam-co-galway/6684700",
+  "fetchedAt": "2026-10-05T09:41:29.423Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/milltown-tuam-co-galway/6684700",
+  "kind": "listing",
+  "responseSha256": "0d854dc60d9e3b37f6bd8090ed609fbf763a1845d59b1cab400aae59d9fe748c",
+  "files": [
+    {
+      "path": "daft/01746-33ef6dadba16c213-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5b0e99771a2ae8d3daeaff7a055c3bb093590ad829d365e04a16df7de89949dd",
+      "bytes": 31062
+    },
+    {
+      "path": "daft/01746-33ef6dadba16c213-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2c826aca04363464e812d9e73783ea31239710c04ff409471dd96967679cc1dc",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=306",
+  "fetchedAt": "2026-10-05T12:52:46.729Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=306",
+  "kind": "search",
+  "responseSha256": "0d116b8a18c24afece7642490e375bc48fdc97fae008e485945354ad5fe5e874",
+  "files": [
+    {
+      "path": "myhome/06845-b5e93806272995d3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=306\"].SearchResults",
+      "sha256": "1cf3c08d12faf2506ecf54a51f5c94413478b2b9b2529d0067a2de51f03d3119",
+      "bytes": 105787
+    },
+    {
+      "path": "myhome/06845-b5e93806272995d3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=306\"] (paging fields)",
+      "sha256": "ee03f2fe6c888d70daf18a94ec20d3fdc78d6ca6aae1b160fea6200957df2052",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-hanover-quarter-grand-canal-dk-dublin-2/5023486",
+    "https://www.myhome.ie/residential/brochure/12-brabazon-square-the-coombe-dublin-8/5019304",
+    "https://www.myhome.ie/residential/brochure/omeca-newtownbalregan-kilkerley-dundalk-louth/5023494",
+    "https://www.myhome.ie/residential/brochure/36-st-mary-s-park-walkinstown-dublin-12/4995094",
+    "https://www.myhome.ie/residential/brochure/426-ticknevin-carbury-kildare/5023493",
+    "https://www.myhome.ie/residential/brochure/54-barnwall-court-balbriggan-county-dublin/5023370",
+    "https://www.myhome.ie/residential/brochure/3-heron-gate-blackpool-cork/4931259",
+    "https://www.myhome.ie/residential/brochure/luxury-lodge-tinakilly-wicklow-town-wicklow/5004203",
+    "https://www.myhome.ie/residential/brochure/leampreaghane-kilflynn-tralee-co-kerry/5023473",
+    "https://www.myhome.ie/residential/brochure/202-lurgan-park-galway-renmore-co-galway/5023469",
+    "https://www.myhome.ie/residential/brochure/7-clos-emer-saltown-dundalk-co-louth/5023467",
+    "https://www.myhome.ie/residential/brochure/11-phibsborough-phibsborough-dublin-7/4992276",
+    "https://www.myhome.ie/residential/brochure/coolowen-magazine-road-cork-city-cork/5022938",
+    "https://www.myhome.ie/residential/brochure/apartment-111-the-jessop-charlotte-quay-dock-dublin-4-dublin/5023450",
+    "https://www.myhome.ie/residential/brochure/milltown-co-galway/5023461",
+    "https://www.myhome.ie/residential/brochure/15-berwick-way-swords-co-dublin/5017429",
+    "https://www.myhome.ie/residential/brochure/45-the-northumberlands-lower-mount-street-dublin-2/5023457",
+    "https://www.myhome.ie/residential/brochure/40-willow-close-dunshaughlin-dunshaughlin-co-meath-dunshaughlin-meath/5023452",
+    "https://www.myhome.ie/residential/brochure/no-60-springfields-waterford-road-kilkenny-kilkenny-kilkenny/5023448",
+    "https://www.myhome.ie/residential/brochure/56-ferndale-park-wexford-town-co-wexford/5023449"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=307",
+  "paginationLimited": false
+}

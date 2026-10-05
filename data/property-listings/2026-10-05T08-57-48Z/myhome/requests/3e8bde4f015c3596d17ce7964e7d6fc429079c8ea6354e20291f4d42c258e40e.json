@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=21",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=21",
+  "fetchedAt": "2026-10-05T09:16:44.788Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "635251898ce90bebb6706bfc5afe0a088d6b52277897141c9f4803b7bdf5c362",
+  "files": [
+    {
+      "path": "myhome/00753-3e8bde4f015c3596-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=21\"].SearchResults",
+      "sha256": "f028fa0e2818cdbee22cdd763a8fd3254a806a09d9cc799b2c5701fe8cdcedb9",
+      "bytes": 120231
+    },
+    {
+      "path": "myhome/00753-3e8bde4f015c3596-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=21\"] (paging fields)",
+      "sha256": "9e3b81c31e5ee4e84acada718a64c844196fbb5e64562cce86bb3ffefc766bda",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/derryleigh-manor-inchigeelagh-macroom-cork/5031869",
+    "https://www.myhome.ie/residential/brochure/crinalisk-kill-waterford/5031849",
+    "https://www.myhome.ie/residential/brochure/8-the-daintree-pleasants-place-portobello-dublin-8/5031882",
+    "https://www.myhome.ie/residential/brochure/30-father-murphy-square-kilkenny-kilkenny/5031874",
+    "https://www.myhome.ie/residential/brochure/fortbarrington-road-athy-county-kildare/5031880",
+    "https://www.myhome.ie/residential/brochure/karuna-commons-the-old-village-rathnew-wicklow/5010515",
+    "https://www.myhome.ie/residential/brochure/5-glendoher-close-rathfarnham-dublin-16/5027724",
+    "https://www.myhome.ie/residential/brochure/109-booterstown-avenue-blackrock-dublin/5029175",
+    "https://www.myhome.ie/residential/brochure/69-southmede-ballinteer-road-dundrum-dublin-16/5029725",
+    "https://www.myhome.ie/residential/brochure/myville-55-hollybrook-road-clontarf-dublin-3/5031877",
+    "https://www.myhome.ie/residential/brochure/kilmore-house-kilmore-enfield-kildare/5014805",
+    "https://www.myhome.ie/residential/brochure/8-cluain-beag-clonard-wexford/5031873",
+    "https://www.myhome.ie/residential/brochure/28-meadow-avenue-whitebrook-wexford-town-wexford/5031870",
+    "https://www.myhome.ie/residential/brochure/23-blackhall-view-blackhall-place-stoneybatter-dublin-7/5031871",
+    "https://www.myhome.ie/residential/brochure/168-whitehall-road-west-perrystown-dublin-12/5027537",
+    "https://www.myhome.ie/residential/brochure/47-cassian-court-royal-canal-park-dublin-15-ashtown/5031868",
+    "https://www.myhome.ie/residential/brochure/apartment-14-block-a-the-gallery-turvey-walk-donabate-co-dublin/5031867",
+    "https://www.myhome.ie/residential/brochure/enniscorthy-road-ferns-gorey-county-wexford/5031866",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-semi-detached-fermoyle-manor-kilanerin-wexford/5010849",
+    "https://www.myhome.ie/residential/brochure/apt-35-h-merchants-dock-merchants-road-galway-county-galway/5031863"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=22",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/occu-adamstown-adamstown-adamstown-co-dublin/4256738",
+  "fetchedAt": "2026-10-05T09:09:11.892Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/occu-adamstown-adamstown-adamstown-co-dublin/4256738",
+  "kind": "listing",
+  "responseSha256": "1a4eb435dcb4efdcef9c18f6df4a25911c9dc58f001c986f2aba4fe27a6850ec",
+  "files": [
+    {
+      "path": "daft/00456-2565079f12aff00b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "acf1e8906a903d8f1a91f9fb4b109eb13bcfe918690b3fee45ea1d40b48ed2a2",
+      "bytes": 255952
+    },
+    {
+      "path": "daft/00456-2565079f12aff00b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2ac16828f10f1213be8e50e2963e47ad60c1968c549253cc1b8a61b3a6f71e72",
+      "bytes": 8112
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

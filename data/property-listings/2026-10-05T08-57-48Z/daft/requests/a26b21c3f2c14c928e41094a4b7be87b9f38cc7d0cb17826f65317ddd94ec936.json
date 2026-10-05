@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/151-thomas-moore-road-walkinstown-dublin-12/6675054",
+  "fetchedAt": "2026-10-05T09:23:40.010Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/151-thomas-moore-road-walkinstown-dublin-12/6675054",
+  "kind": "listing",
+  "responseSha256": "449afb8bbd6a659dcaa37737d3fbcbef0ec20117c5ef1ca1e278dcbb4f69c2a1",
+  "files": [
+    {
+      "path": "daft/01034-a26b21c3f2c14c92-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "77d9e844b98960cc9d4a565a614408ef658c77452c7338d848838d8f8a5ab05e",
+      "bytes": 112701
+    },
+    {
+      "path": "daft/01034-a26b21c3f2c14c92-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "546bcc3a3dc51eef9b75ca929b3ef1d5ad8cca8afbd3ad58f9a59ff68dcc7c3f",
+      "bytes": 8170
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

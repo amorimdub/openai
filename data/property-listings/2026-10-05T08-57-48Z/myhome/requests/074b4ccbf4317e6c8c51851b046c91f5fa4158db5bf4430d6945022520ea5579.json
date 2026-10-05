@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=172",
+  "fetchedAt": "2026-10-05T11:43:10.703Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=172",
+  "kind": "search",
+  "responseSha256": "f91490c92a701918b17dcd95dcaad85dc5e0c8304dc6d739787fb686483986bf",
+  "files": [
+    {
+      "path": "myhome/04072-074b4ccbf4317e6c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=172\"].SearchResults",
+      "sha256": "b3bd8c0180a36d8b8ae656ce8c9a624dc8d3c6fb409982e4623e5bf8d5e1f4dd",
+      "bytes": 127149
+    },
+    {
+      "path": "myhome/04072-074b4ccbf4317e6c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=172\"] (paging fields)",
+      "sha256": "f18c46f12417a5eb2b83934be1e4a95ad2594fe56dddea76cbdfbc59c46451fc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rathpierce-hill-ballyfad-gorey-wexford/5011707",
+    "https://www.myhome.ie/residential/brochure/14-the-tides-aylesbridge-riverchapel-gorey-wexford/5003263",
+    "https://www.myhome.ie/residential/brochure/121-monksfield-bealnamulla-athlone-county-roscommon/5028393",
+    "https://www.myhome.ie/residential/brochure/7-fortbarrington-drive-dun-brinn-athy-county-kildare/5028392",
+    "https://www.myhome.ie/residential/brochure/16-granville-park-st-patrick-s-road-city-centre-limerick-limerick-city/5001712",
+    "https://www.myhome.ie/residential/brochure/apartment-120-block-e-blackhall-square-with-parking-space-option-smithfield-dublin-7/5028221",
+    "https://www.myhome.ie/residential/brochure/7-edgeworth-court-longwood-co-meath/5028388",
+    "https://www.myhome.ie/residential/brochure/49-donore-earlsfort-blackrock-louth/5027922",
+    "https://www.myhome.ie/residential/brochure/43-moatfield-avenue-artane-dublin-5/5028386",
+    "https://www.myhome.ie/residential/brochure/21-gleann-na-riogh-grove-naas-county-kildare/5028385",
+    "https://www.myhome.ie/residential/brochure/22-roselawn-bolton-woods-callan-co-kilkenny/5028384",
+    "https://www.myhome.ie/residential/brochure/cummeen-hill-strandhill-rd-strandhill-sligo/5028383",
+    "https://www.myhome.ie/residential/brochure/11-the-lookout-dungarvan-waterford/5027909",
+    "https://www.myhome.ie/residential/brochure/110-larkhill-road-whitehall-dublin-9/5028226",
+    "https://www.myhome.ie/residential/brochure/13-church-avenue-south-rialto-dublin-8/5028376",
+    "https://www.myhome.ie/residential/brochure/caherush-quilty-clare/5028364",
+    "https://www.myhome.ie/residential/brochure/28-slievenamon-road-ivowen-kilsheelan-clonmel-tipperary/5028382",
+    "https://www.myhome.ie/residential/brochure/berhill-killiney-road-dalkey-co-dublin/5028381",
+    "https://www.myhome.ie/residential/brochure/38-slane-road-crumlin-dublin-12/5028380",
+    "https://www.myhome.ie/residential/brochure/3-stapleton-place-dundalk-louth/5028347"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=173",
+  "paginationLimited": false
+}

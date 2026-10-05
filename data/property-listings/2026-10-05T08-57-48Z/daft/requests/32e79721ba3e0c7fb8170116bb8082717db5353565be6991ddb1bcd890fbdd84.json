@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/56-stratford-haven-dublin-6-rathgar-dublin-6/6682033",
+  "fetchedAt": "2026-10-05T09:34:28.932Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/56-stratford-haven-dublin-6-rathgar-dublin-6/6682033",
+  "kind": "listing",
+  "responseSha256": "eb6750faed6c059fcf20c439cfc659ad0b6bb6e683de0bbbb6f378da0bb01bc0",
+  "files": [
+    {
+      "path": "daft/01466-32e79721ba3e0c7f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8734c88040020599e88336003bc5423af6bfc7e62852d43d21fb83e62f84e6fa",
+      "bytes": 25255
+    },
+    {
+      "path": "daft/01466-32e79721ba3e0c7f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ddc29520a28f819e5fd121f35520d8c9997263a71b8fc20691dac1c773ab1d8b",
+      "bytes": 7974
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

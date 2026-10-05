@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=313",
+  "fetchedAt": "2026-10-05T12:56:17.228Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=313",
+  "kind": "search",
+  "responseSha256": "730fe30bb2918dc03d483bb5899b529108acf7548af86ac435b0bd49ee05d71c",
+  "files": [
+    {
+      "path": "myhome/06985-e3467bcff52d6269-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=313\"].SearchResults",
+      "sha256": "2952e1bc7a83f90e32761664db88016e9c1cf02d1c1827d72b27538209227c58",
+      "bytes": 122075
+    },
+    {
+      "path": "myhome/06985-e3467bcff52d6269-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=313\"] (paging fields)",
+      "sha256": "58560ffca572ecc1b1738c7e3e968d46ba1ff160b6126c43e6bd80d8f4e878ff",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/mohia-lane-killurin-tullamore-offaly/5023181",
+    "https://www.myhome.ie/residential/brochure/50-51-richmond-hill-cork-city/4947572",
+    "https://www.myhome.ie/residential/brochure/10-millcourt-drive-clondalkin-dublin-22-d22-n5w6/5023179",
+    "https://www.myhome.ie/residential/brochure/apt-2-oaklands-court-claremont-road-sandymount-dublin-4/5023158",
+    "https://www.myhome.ie/residential/brochure/2-the-avenue-graigavern-lodge-ballybrittas-co-laois/4985359",
+    "https://www.myhome.ie/residential/brochure/new-road-mooncoin-mooncoin-kilkenny/5010041",
+    "https://www.myhome.ie/residential/brochure/tambou-clonskeagh-dublin-14/5021348",
+    "https://www.myhome.ie/residential/brochure/3-st-james-court-ennis-road-limerick/5021487",
+    "https://www.myhome.ie/residential/brochure/pump-lane-sean-costello-street-athlone-co-westmeath/5023169",
+    "https://www.myhome.ie/residential/brochure/house-and-11-60-acres-of-land-bunnacranna-curry-co-sligo/5023168",
+    "https://www.myhome.ie/residential/brochure/kylatlea-mullinahone-county-tipperary/5023166",
+    "https://www.myhome.ie/residential/brochure/2-muckinish-west-ballyvaughan-county-clare/5023165",
+    "https://www.myhome.ie/residential/brochure/cosher-kilmuckridge-wexford/4951160",
+    "https://www.myhome.ie/residential/brochure/21-berryfield-road-finglas-dublin-11/5023161",
+    "https://www.myhome.ie/residential/brochure/coolkirky-riverstick-cork/5021728",
+    "https://www.myhome.ie/residential/brochure/45-coole-haven-crowe-street-gort-co-galway/5023159",
+    "https://www.myhome.ie/residential/brochure/1-lorrin-lodge-rathnew-co-wicklow/5023154",
+    "https://www.myhome.ie/residential/brochure/apartment-152-the-anchorage-seabourne-view-charlesland-greystones-co-wicklow/5023149",
+    "https://www.myhome.ie/residential/brochure/3-applewood-lawn-swords-county-dublin/5023145",
+    "https://www.myhome.ie/residential/brochure/60-boroimhe-maples-swords-county-dublin/5023142"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=314",
+  "paginationLimited": false
+}

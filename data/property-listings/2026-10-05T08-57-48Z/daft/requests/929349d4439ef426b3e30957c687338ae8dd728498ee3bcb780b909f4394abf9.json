@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/42-thornberry-letterkenny-letterkenny-co-donegal/6685620",
+  "fetchedAt": "2026-10-05T09:35:32.004Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/42-thornberry-letterkenny-letterkenny-co-donegal/6685620",
+  "kind": "listing",
+  "responseSha256": "550716d6a031ffdc8c02a5d51075b177ee3a0366078466b50327d4fac9ca687b",
+  "files": [
+    {
+      "path": "daft/01508-929349d4439ef426-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0b4bc4c5c2e22efb091a3b4f5f932ecc312b0b1754dd931ab591467d6983ee2e",
+      "bytes": 24839
+    },
+    {
+      "path": "daft/01508-929349d4439ef426-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fe742076440d4631cbfc094ca7a2f592974a5c6bd326a857ef7fbee77b7015",
+      "bytes": 8224
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

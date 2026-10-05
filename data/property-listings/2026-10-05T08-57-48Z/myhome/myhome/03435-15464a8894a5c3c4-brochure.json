@@ -1,0 +1,451 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "33 anne devlin avenue rathfarnham dublin 14",
+    "GroupId": 386542,
+    "Address": "33 Anne Devlin Avenue",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/aeb149f4-93cb-45ba-aef7-7147f4c269fa_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/aeb149f4-93cb-45ba-aef7-7147f4c269fa_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/aeb149f4-93cb-45ba-aef7-7147f4c269fa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d5109a0e-6617-42ce-85d7-3d0445834988_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/b0cfec26-b205-4900-a548-819b88040544_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/acbd4487-f100-436e-a445-3c776af48c9c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/bd1908e2-3e53-4732-857b-e5155576cd02_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/fc3d6463-531c-4920-8c22-a03b8246fa3a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/826f77ee-dee9-49e1-ba4c-c2b84b82a70c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/7299c4b0-f425-41c5-bbf4-eab4f4aa127a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/186c64fc-de2b-4c69-a773-54f849fc0d2e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/da5a5071-2cd8-425c-9b19-1a016dbffeae_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/15b1137f-4387-4dbc-a67f-6041fa0e65e5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/c9f25608-a719-496f-8d7f-b9e71229dd49_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4492bda9-b36c-4f3a-aa81-f07ffda0de17_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/297f4df1-e4c9-4176-9b1e-8f92f0560b72_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/6786b5f2-bdd0-4b50-bbf2-eedd01c8f88a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/325e54a3-58cb-42bc-beda-5f15f9b6277b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ade222ab-4fcd-483f-a1b3-27217504d3ba_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/01619cd7-cec8-45c0-b5a8-ad2d866ad5ab_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d18a9d4d-0c9e-4cda-bb96-2c259a6de9d4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ccd28d95-d877-496d-9db6-a13d25407f51_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/3ee9fbac-be9c-4756-897d-013d5533c24e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/2c0cda28-24b3-4f63-a23a-6c598ca3739a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/1e12eb23-d3b5-4ae9-bdb7-800b3b3dad08_l.jpg",
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4c65d60c-88b3-4a45-be52-81f07e294ee5_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 123,
+    "MaxSize": 123,
+    "BerRating": "G",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      },
+      {
+        "Id": 26,
+        "Name": "Garage",
+        "CreatedOn": "2018-09-11T10:20:02.6870000+01:00",
+        "IconName": "myh-icon-garage",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "\n**DNG 3D VIRTUAL TOUR OF THIS PROPERTY AVAILABLE**\n\nDelightful and much loved, three bedroomed, semi-detached dormer style residence circa 123 sq.m. 1,324 sq.ft. including garage, with lounge/dining room, television room, kitchen. \n\nLocated in an extremely popular area, between Anne Devlin Road & Marian Road, this property is close to Rathfarnham Shopping Centre and Village, within walking distance to an excellent selection of local shops including, Super-Valu, Get Fresh, Butchers, and Café, at Marian Road and beside Community Centre and Library. \n\nThe area is surrounded by a wide range of amenities, sports and golf clubs, including Ballyboden St Enda's GAA club and Bushy Park. Public transport routes 15B, 74 & S6 and is also just a short drive to the M50 with access to all major routes. Excellent schools including St Patrick's N.S. & Sancta Maria & Colaiste Eanna Colleges are a mere stroll away. There are walled sunny rear gardens. Carpets, blinds, & drapes are included."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "\nGROUND FLOOR - \n\n\nEntrance Porch - \n\n\nEntrance Hall - \n\n\nBedroom 3 - 3.3m x 3.0m\nWith storage units\n\nLounge/Dining Room - 3.83m x 6.4m\n\n\nFamily Room - 4.3m x 3.2m\nWith marble fireplace & hearth and understairs storage\n\nKitchen - 4.1m x 3.1m\nLarge selection of fitted presses, tiled floor including cooker, fridge/freezer & washing machine\n\nFIRST FLOOR - \n\n\nLanding - \n\n\nBedroom 1 - 4.2m x 3.6m\nLarge selection of built in wardrobe\n\nBedroom 2 - 3.9m x 3.3m\nWith built in wardrobe and access to attic\n\nBathroom - 3.2m x 1.7m\nwith w.c. & w.h.b. newly fitted with walk in shower, fully tiled floor and walls\n\n"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "<ul><li> Double Glazed Windows</li><li> Oil Fired Central Heating</li><li> Re-Wired 2011</li><li> Burglar Alarm</li><li> Off Street Parking</li><li> Garage 4.5m x 2.2</li><li> Side Entrance</li><li> Outside w.c. & Boiler House</li><li> Outside Tap</li><li> Telephone and Cable T.V. available.</li><li> Carpets, Drapes & Blinds</li><li> Mature Sunny Walled Rear Garden circa 30ft.</li><li> Floor Area 123 sq.m. 1,324 sq.ft. (including garage)</ul>"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: G\nBER No: 119476398\nEnergy Performance Indicator: 529.95"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Cathal McCarthy"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 317670,
+    "MinEnergyRating": 10,
+    "MaxEnergyRating": 10,
+    "BERGrade": "G",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-19T17:17:41.4270000+01:00",
+    "ModifiedOnDate": "2026-09-28T09:17:13.2070000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-19T17:17:41.4270000+01:00",
+    "RefreshedOn": "2026-09-18T18:01:22.8670000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+    "IsTransact": false,
+    "PriceAsString": "€695,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5007760,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 123,
+    "DisplayAddress": "33 Anne Devlin Avenue, Rathfarnham, Dublin 14",
+    "Eircode": "D14E827",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Semi-Detached House",
+    "PropertyTypeId": 38,
+    "RegionId": 1455,
+    "RegionName": "Dublin 14",
+    "LocalityId": 1380,
+    "LocalityName": "Rathfarnham",
+    "Price": {
+      "MinPrice": 695000,
+      "MaxPrice": 695000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/aeb149f4-93cb-45ba-aef7-7147f4c269fa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/aeb149f4-93cb-45ba-aef7-7147f4c269fa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/aeb149f4-93cb-45ba-aef7-7147f4c269fa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d5109a0e-6617-42ce-85d7-3d0445834988_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d5109a0e-6617-42ce-85d7-3d0445834988_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d5109a0e-6617-42ce-85d7-3d0445834988_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/b0cfec26-b205-4900-a548-819b88040544_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/b0cfec26-b205-4900-a548-819b88040544_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/b0cfec26-b205-4900-a548-819b88040544_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/acbd4487-f100-436e-a445-3c776af48c9c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/acbd4487-f100-436e-a445-3c776af48c9c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/acbd4487-f100-436e-a445-3c776af48c9c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/bd1908e2-3e53-4732-857b-e5155576cd02_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/bd1908e2-3e53-4732-857b-e5155576cd02_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/bd1908e2-3e53-4732-857b-e5155576cd02_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/fc3d6463-531c-4920-8c22-a03b8246fa3a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/fc3d6463-531c-4920-8c22-a03b8246fa3a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/fc3d6463-531c-4920-8c22-a03b8246fa3a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/826f77ee-dee9-49e1-ba4c-c2b84b82a70c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/826f77ee-dee9-49e1-ba4c-c2b84b82a70c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/826f77ee-dee9-49e1-ba4c-c2b84b82a70c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/7299c4b0-f425-41c5-bbf4-eab4f4aa127a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/7299c4b0-f425-41c5-bbf4-eab4f4aa127a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/7299c4b0-f425-41c5-bbf4-eab4f4aa127a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/186c64fc-de2b-4c69-a773-54f849fc0d2e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/186c64fc-de2b-4c69-a773-54f849fc0d2e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/186c64fc-de2b-4c69-a773-54f849fc0d2e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/da5a5071-2cd8-425c-9b19-1a016dbffeae_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/da5a5071-2cd8-425c-9b19-1a016dbffeae_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/da5a5071-2cd8-425c-9b19-1a016dbffeae_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/15b1137f-4387-4dbc-a67f-6041fa0e65e5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/15b1137f-4387-4dbc-a67f-6041fa0e65e5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/15b1137f-4387-4dbc-a67f-6041fa0e65e5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/c9f25608-a719-496f-8d7f-b9e71229dd49_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/c9f25608-a719-496f-8d7f-b9e71229dd49_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/c9f25608-a719-496f-8d7f-b9e71229dd49_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4492bda9-b36c-4f3a-aa81-f07ffda0de17_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4492bda9-b36c-4f3a-aa81-f07ffda0de17_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4492bda9-b36c-4f3a-aa81-f07ffda0de17_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/297f4df1-e4c9-4176-9b1e-8f92f0560b72_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/297f4df1-e4c9-4176-9b1e-8f92f0560b72_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/297f4df1-e4c9-4176-9b1e-8f92f0560b72_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/6786b5f2-bdd0-4b50-bbf2-eedd01c8f88a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/6786b5f2-bdd0-4b50-bbf2-eedd01c8f88a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/6786b5f2-bdd0-4b50-bbf2-eedd01c8f88a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/325e54a3-58cb-42bc-beda-5f15f9b6277b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/325e54a3-58cb-42bc-beda-5f15f9b6277b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/325e54a3-58cb-42bc-beda-5f15f9b6277b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ade222ab-4fcd-483f-a1b3-27217504d3ba_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ade222ab-4fcd-483f-a1b3-27217504d3ba_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ade222ab-4fcd-483f-a1b3-27217504d3ba_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/01619cd7-cec8-45c0-b5a8-ad2d866ad5ab_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/01619cd7-cec8-45c0-b5a8-ad2d866ad5ab_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/01619cd7-cec8-45c0-b5a8-ad2d866ad5ab_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d18a9d4d-0c9e-4cda-bb96-2c259a6de9d4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d18a9d4d-0c9e-4cda-bb96-2c259a6de9d4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/d18a9d4d-0c9e-4cda-bb96-2c259a6de9d4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ccd28d95-d877-496d-9db6-a13d25407f51_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ccd28d95-d877-496d-9db6-a13d25407f51_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/ccd28d95-d877-496d-9db6-a13d25407f51_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/3ee9fbac-be9c-4756-897d-013d5533c24e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/3ee9fbac-be9c-4756-897d-013d5533c24e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/3ee9fbac-be9c-4756-897d-013d5533c24e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/2c0cda28-24b3-4f63-a23a-6c598ca3739a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/2c0cda28-24b3-4f63-a23a-6c598ca3739a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/2c0cda28-24b3-4f63-a23a-6c598ca3739a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/1e12eb23-d3b5-4ae9-bdb7-800b3b3dad08_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/1e12eb23-d3b5-4ae9-bdb7-800b3b3dad08_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/1e12eb23-d3b5-4ae9-bdb7-800b3b3dad08_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4c65d60c-88b3-4a45-be52-81f07e294ee5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4c65d60c-88b3-4a45-be52-81f07e294ee5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/4c65d60c-88b3-4a45-be52-81f07e294ee5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/0700244f-e245-435d-a1b4-ecb3d6447d84_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/0700244f-e245-435d-a1b4-ecb3d6447d84_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/0/6/7/5007760/0700244f-e245-435d-a1b4-ecb3d6447d84_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.300761,
+      "latitude": 53.29025
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 25,
+    "Pdfs": [],
+    "FloorPlans": [
+      "https://photos-a.propertyimages.ie/media/0/6/7/5007760/0700244f-e245-435d-a1b4-ecb3d6447d84_l.jpg"
+    ],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "0c3a634c-90a4-483d-a1b1-9d5416606d2d",
+        "Filename": "https://my.matterport.com/show/?m=WedW3SKLMfg",
+        "Caption": "https://my.matterport.com/show/?m=WedW3SKLMfg",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 386542,
+    "Name": "DNG Rathfarnham",
+    "DisplayPhone": "01 490 4666",
+    "Email": "rathfarnham@dng.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "dng-rathfarnham",
+    "SeoName": "dng-rathfarnham",
+    "Address": "35 Main Street, Rathfarnham, Dublin 14",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/2/4/5/386542/logo.jpg",
+    "SalesLicense": "004017",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "rathfarnham/1380",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4965506,
+      "Address": "41 The Rise, Boden Park, Rathfarnham, Dublin 16, Rathfarnham, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/0/5/4965506/9ed5563a-e5f9-4742-be17-473e46bd2245_t.jpg",
+      "HasWebP": false,
+      "Price": 720000,
+      "PrevPrice": 715000,
+      "PriceChangeDelta": 5000,
+      "PriceChangePercentage": 0.6993,
+      "Created": "24th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+      "BerRating": "C2",
+      "SeoUrl": "/residential/brochure/41-the-rise-boden-park-rathfarnham-dublin-16-rathfarnham-dublin-16/4965506",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4965506,
+      "Address": "41 The Rise, Boden Park, Rathfarnham, Dublin 16, Rathfarnham, Dublin 16",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/0/5/4965506/9ed5563a-e5f9-4742-be17-473e46bd2245_t.jpg",
+      "HasWebP": false,
+      "Price": 715000,
+      "PrevPrice": 675000,
+      "PriceChangeDelta": 40000,
+      "PriceChangePercentage": 5.9259,
+      "Created": "9th Dec 25",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+      "BerRating": "C2",
+      "SeoUrl": "/residential/brochure/41-the-rise-boden-park-rathfarnham-dublin-16-rathfarnham-dublin-16/4965506",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/33-anne-devlin-avenue-rathfarnham-dublin-14/5007760",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 317670,
+    "Name": "Cathal McCarthy",
+    "JobTitle": "Director of Sales",
+    "Email": "cathalmccarthy@dng.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/0/7/6/317670/profile.jpg",
+    "Licence": ""
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 386542,
+    "MYH_LocalityID": 1380,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1455,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Central Heating",
+      "Garden",
+      "Alarm",
+      "Garage"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Central Heating,Garden,Alarm,Garage",
+    "MYH_MaxPrice": 700000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 10,
+    "MYH_MinPrice": 700000,
+    "MYH_MinSize": 123,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5007760,
+    "MYH_PropertyTypeID": 38
+  }
+}

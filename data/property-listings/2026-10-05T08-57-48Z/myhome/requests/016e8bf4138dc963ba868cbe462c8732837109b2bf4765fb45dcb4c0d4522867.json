@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=366",
+  "fetchedAt": "2026-10-05T13:23:02.582Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=366",
+  "kind": "search",
+  "responseSha256": "a3c7ddc8b97ec7273c964a3c57869fe06d1cbc913c9fbc6042fe830e6506ed8f",
+  "files": [
+    {
+      "path": "myhome/08053-016e8bf4138dc963-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=366\"].SearchResults",
+      "sha256": "b29f91c013915aaa65aeb37c331c972fd57f348ebf3aca42d573b6e542fa44d0",
+      "bytes": 106922
+    },
+    {
+      "path": "myhome/08053-016e8bf4138dc963-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=366\"] (paging fields)",
+      "sha256": "d67f9ffb38ca4903b86424308f1139b2dfee490018c2d2eef12c93def0cc94ef",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/56-boyne-view-johnstown-navan-meath/5018846",
+    "https://www.myhome.ie/residential/brochure/25-beech-lodge-farmleigh-woods-castleknock-dublin-15/5018816",
+    "https://www.myhome.ie/residential/brochure/rinevella-carrigaholt-co-clare/5018849",
+    "https://www.myhome.ie/residential/brochure/79-sutton-grove-sutton-dublin-13/5018841",
+    "https://www.myhome.ie/residential/brochure/oghambawn-tubbercurry-sligo/5018842",
+    "https://www.myhome.ie/residential/brochure/john-street-kells-meath/5018836",
+    "https://www.myhome.ie/residential/brochure/gurranes-north-drimoleague-west-cork/5018829",
+    "https://www.myhome.ie/residential/brochure/64-ridgehall-ballybrack-county-dublin/5018827",
+    "https://www.myhome.ie/residential/brochure/rahanine-rochfortbridge-westmeath/5018797",
+    "https://www.myhome.ie/residential/brochure/inismore-house-st-agnes-road-crumlin-dublin-12/5002855",
+    "https://www.myhome.ie/residential/brochure/apartment-39-straffan-close-straffan-wood-maynooth-co-kildare/5018819",
+    "https://www.myhome.ie/residential/brochure/lurganboy-oldcastle-county-meath/5018808",
+    "https://www.myhome.ie/residential/brochure/lurganboy-oldcastle-county-meath/5018807",
+    "https://www.myhome.ie/residential/brochure/lurganboy-oldcastle-county-meath/5018806",
+    "https://www.myhome.ie/residential/brochure/4-church-place-east-wall-dublin-3/5018799",
+    "https://www.myhome.ie/residential/brochure/28-north-street-skibbereen-west-cork/5018794",
+    "https://www.myhome.ie/residential/brochure/carrick-street-mullinahone-county-tipperary/5018792",
+    "https://www.myhome.ie/residential/brochure/lynn-road-mullingar-co-westmeath/5018786",
+    "https://www.myhome.ie/residential/brochure/36-the-birches-close-galway-road-tuam-co-galway/5018782",
+    "https://www.myhome.ie/residential/brochure/3-newtown-lawns-mullingar-co-westmeath/5018776"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=367",
+  "paginationLimited": false
+}

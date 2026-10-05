@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/berwick-hall-churchtown-dublin-14/6684117",
+  "fetchedAt": "2026-10-05T09:44:43.241Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/berwick-hall-churchtown-dublin-14/6684117",
+  "kind": "listing",
+  "responseSha256": "433ff01b8238f5b7dfd4620b7d2e6b6ae23a0a8187e174ba036e6770769005ba",
+  "files": [
+    {
+      "path": "daft/01875-47f32fa470f95b80-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3a441349dc9df12b74938621f98aecda0d57b9191523c6af252c1353bc8c7b7f",
+      "bytes": 34232
+    },
+    {
+      "path": "daft/01875-47f32fa470f95b80-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ea168c36dcd03bc713954ff465a611bf0efe9b1363366d17f6086727248a3048",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

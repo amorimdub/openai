@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/annagellia-tedavnet-tydavnet-co-monaghan/6685326",
+  "fetchedAt": "2026-10-05T09:36:41.073Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/annagellia-tedavnet-tydavnet-co-monaghan/6685326",
+  "kind": "listing",
+  "responseSha256": "0dda4f4bc71d0c3fd154df0c5952f0f86b1dd06f694dda548d265cc5c5a73cf2",
+  "files": [
+    {
+      "path": "daft/01554-ee5f9ba457482937-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dbb388def118f2fdf8d7c8becdbb722f9299902a2ca51c1681d56600c1b674c6",
+      "bytes": 21872
+    },
+    {
+      "path": "daft/01554-ee5f9ba457482937-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4c0044182b0cadc275d0866af8a56148807e7e71243d017db77202cc7b46dcbe",
+      "bytes": 8208
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

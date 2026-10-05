@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=406",
+  "fetchedAt": "2026-10-05T13:43:50.024Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=406",
+  "kind": "search",
+  "responseSha256": "75282805158eed2bfb785aa154bc66df016088e8f0f09f8180d428fe4843d3da",
+  "files": [
+    {
+      "path": "myhome/08883-7b3d1e29a64d9830-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=406\"].SearchResults",
+      "sha256": "1ddf04d5b306787e5417518e16a7649a1ee130d4dd5e65702d33542564f4575c",
+      "bytes": 122947
+    },
+    {
+      "path": "myhome/08883-7b3d1e29a64d9830-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=406\"] (paging fields)",
+      "sha256": "c57a46f44975ff97ced42dac2b5293994d5024982aa87f546c521e90a16a17ef",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-113-block-f-cedar-square-ridgewood-swords-county-dublin/5014230",
+    "https://www.myhome.ie/residential/brochure/sin-carrigeen-south-baltinglass-kildare/5014776",
+    "https://www.myhome.ie/residential/brochure/21-kings-court-naas-co-kildare/5014775",
+    "https://www.myhome.ie/residential/brochure/3-harbour-terrace-east-hill-cobh-co-cork-cobh-cork/5014767",
+    "https://www.myhome.ie/residential/brochure/3-oaklawns-paulstown-kilkenny/5014762",
+    "https://www.myhome.ie/residential/brochure/castlebar-turlough-mayo/5014766",
+    "https://www.myhome.ie/residential/brochure/kilduff-belturbet-county-cavan/5014764",
+    "https://www.myhome.ie/residential/brochure/sunnyside-house-sunnyside-drogheda-co-louth/5014761",
+    "https://www.myhome.ie/residential/brochure/216-maolchnoc-ballymoneen-road-knocknacarra-galway/5014760",
+    "https://www.myhome.ie/residential/brochure/ardoyne-tullow-county-carlow/5014758",
+    "https://www.myhome.ie/residential/brochure/25-deerpark-crossmolina-mayo/5014749",
+    "https://www.myhome.ie/residential/brochure/18-st-joseph-s-road-walkinstown-dublin-12/5014742",
+    "https://www.myhome.ie/residential/brochure/35-patrick-st-portarlington-portarlington-offaly/5014711",
+    "https://www.myhome.ie/residential/brochure/lakeside-ballinakill-lettermullen-co-galway/5014741",
+    "https://www.myhome.ie/residential/brochure/leith-west-leith-kerry/5014243",
+    "https://www.myhome.ie/residential/brochure/ballyhimikin-house-garryvoe-co-cork/5014737",
+    "https://www.myhome.ie/residential/brochure/18-the-green-clonattin-village-gorey-co-wexford/5014734",
+    "https://www.myhome.ie/residential/brochure/22-dromkeen-view-innishannon-west-cork/5014718",
+    "https://www.myhome.ie/residential/brochure/65-cherrywood-grove-clondalkin-dublin-22/5014731",
+    "https://www.myhome.ie/residential/brochure/gort-na-r-trim-county-meath/5014730"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=407",
+  "paginationLimited": false
+}

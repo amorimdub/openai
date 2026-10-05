@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=37",
+  "fetchedAt": "2026-10-05T09:39:53.281Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=37",
+  "kind": "search",
+  "responseSha256": "74885568ec48b9a2fb048e644f34b8a8f6c7ce4498535bb1b1c63fdd1c875e87",
+  "files": [
+    {
+      "path": "daft/01682-948fde8195100be4-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "a32256d9d5cf0cc1fe85c284fd6b22eafbe035f51c10a6354ca9278134f6285b",
+      "bytes": 285182
+    },
+    {
+      "path": "daft/01682-948fde8195100be4-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01682-948fde8195100be4-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "11fb966852d7297ffd8262c220b1b458d95600d5aec8160b76e6394563f63282",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/ballindurrow-multyfarnham-multyfarnham-co-westmeath/6662702",
+    "https://www.daft.ie/for-sale/84-ailesbury-road-ballsbridge-dublin-4/6541256",
+    "https://www.daft.ie/for-sale/fearaun-house-fearaun-suncroft-fontstown-co-kildare/6662634",
+    "https://www.daft.ie/for-sale/33-ailesbury-road-ballsbridge-dublin-4/6574615",
+    "https://www.daft.ie/for-sale/15-cuil-duin-close-citywest-co-dublin/6662569",
+    "https://www.daft.ie/for-sale/116-saint-johns-wood-west-clondalkin-dublin-22/6662568",
+    "https://www.daft.ie/for-sale/85-cherrywood-grove-clondalkin-dublin-22/6662438",
+    "https://www.daft.ie/for-sale/19-castlegrange-square-clondalkin-dublin-22/6662499",
+    "https://www.daft.ie/for-sale/sea-view-sea-road-blackrock-co-louth/6633219",
+    "https://www.daft.ie/for-sale/sligo-bay-lodge-rosses-point-co-sligo/6628746",
+    "https://www.daft.ie/for-sale/roseneath-mill-road-corbally-co-limerick/6114090",
+    "https://www.daft.ie/for-sale/248-kilworth-road-drimnagh-dublin-12/6662342",
+    "https://www.daft.ie/for-sale/top-floor-apartment-1-eaton-square-monkstown-co-dublin/6529929",
+    "https://www.daft.ie/for-sale/12-william-street-kilkenny-co-kilkenny/6661019",
+    "https://www.daft.ie/for-sale/21-newcastle-park-lower-newcastle-road-newcastle-galway-city/6623258",
+    "https://www.daft.ie/for-sale/5-taylor-hill-way-balbriggan-co-dublin/6661660",
+    "https://www.daft.ie/for-sale/4-an-pairc-mor-castlegar-galway-co-galway/6604772",
+    "https://www.daft.ie/for-sale/meadowbrook-tulsk-co-roscommon/6661970",
+    "https://www.daft.ie/for-sale/boyne-road-navan-co-meath/6661279",
+    "https://www.daft.ie/for-sale/7-green-street-greenmount-cork-city-centre-co-cork/6646103"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=38",
+  "paginationLimited": false
+}

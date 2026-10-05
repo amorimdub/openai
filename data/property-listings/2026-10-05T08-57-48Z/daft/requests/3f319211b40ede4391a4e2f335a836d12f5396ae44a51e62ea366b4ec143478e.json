@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/brickfield-square-brickfield-drive-rialto-co-dublin/5718274",
+  "fetchedAt": "2026-10-05T08:58:24.222Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/brickfield-square-brickfield-drive-rialto-co-dublin/5718274",
+  "kind": "listing",
+  "responseSha256": "aa28e69a52bc05d488d03398e6c8dbe661debe4e4d6c8716c844d73b63cafab3",
+  "files": [
+    {
+      "path": "daft/00025-3f319211b40ede43-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e95c6658989b3451aba4c5d69ad13d98886695eb042d2443a542bfc8e323dec8",
+      "bytes": 192276
+    },
+    {
+      "path": "daft/00025-3f319211b40ede43-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "927710b884c9a7da55293811adbbe437f741efba72e56c867eac573665181593",
+      "bytes": 8057
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

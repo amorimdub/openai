@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=219",
+  "fetchedAt": "2026-10-05T12:07:18.802Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=219",
+  "kind": "search",
+  "responseSha256": "3d6accf120653e9ae8cca119f9134137be02af2505bee4f8bdb87a0b48eb266f",
+  "files": [
+    {
+      "path": "myhome/05035-ff57cf4322b072c9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=219\"].SearchResults",
+      "sha256": "ec969b25b10486966dcc94b042abfb27b8055ab453dfad1183561763b874ac01",
+      "bytes": 114069
+    },
+    {
+      "path": "myhome/05035-ff57cf4322b072c9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=219\"] (paging fields)",
+      "sha256": "5cc2bb40fdd5ee145accd6b793285f8aeef12723edb2dfa5dc83d770e498b5f0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tearmann-castlekieran-carnaross-co-meath/5021277",
+    "https://www.myhome.ie/residential/brochure/cunnagher-ross-castlebar-mayo/5027065",
+    "https://www.myhome.ie/residential/brochure/15-patrician-villas-stillorgan-co-dublin/5027064",
+    "https://www.myhome.ie/residential/brochure/163-clonkeen-road-deansgrange-blackrock-co-dublin/5027063",
+    "https://www.myhome.ie/residential/brochure/dereenmanus-castlebar-mayo/5027001",
+    "https://www.myhome.ie/residential/brochure/140-harold-s-cross-road-harold-s-cross-dublin-6w/5026312",
+    "https://www.myhome.ie/residential/brochure/donkell-ballymoneen-road-knocknacarra-galway-city/5016734",
+    "https://www.myhome.ie/residential/brochure/halltown-dunderry-navan-county-meath/5027062",
+    "https://www.myhome.ie/residential/brochure/farmhouse-on-9-1-acres-kilmog-kells-road-kilkenny/5027060",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-semi-detached-willow-67-haley-s-hill-malahide-road-kinsealy-co-dublin/5027059",
+    "https://www.myhome.ie/residential/brochure/4-bedroom-semi-detached-sycamore-62-haley-s-hill-malahide-road-kinsealy-co-dublin/5027058",
+    "https://www.myhome.ie/residential/brochure/3-brehon-court-harold-s-grange-road-rathfarnham-dublin-16/4995559",
+    "https://www.myhome.ie/residential/brochure/13-bridgewater-quay-islandbridge-dublin-8/5027050",
+    "https://www.myhome.ie/residential/brochure/orchard-mews-1a-brookfield-avenue-blackrock-co-dublin/5027055",
+    "https://www.myhome.ie/residential/brochure/proby-cottage-2-killiney-road-dalkey-county-dublin/5027053",
+    "https://www.myhome.ie/residential/brochure/70-templeroan-avenue-knocklyon-dublin-16/5027052",
+    "https://www.myhome.ie/residential/brochure/60-palmerston-road-rathmines-dublin-6/5027049",
+    "https://www.myhome.ie/residential/brochure/10-the-paddocks-drive-adamstown-lucan-dublin/5025649",
+    "https://www.myhome.ie/residential/brochure/8-eden-park-road-goatstown-dublin-14/5026710",
+    "https://www.myhome.ie/residential/brochure/8-walkinstown-drive-walkinstown-dublin-12/5027041"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=220",
+  "paginationLimited": false
+}

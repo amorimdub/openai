@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=461",
+  "fetchedAt": "2026-10-05T14:12:10.700Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=461",
+  "kind": "search",
+  "responseSha256": "60db3d7268873b6b657e9ca86f61805bd8191a9bbaae8f5347c5d5f4e7100972",
+  "files": [
+    {
+      "path": "myhome/10014-44273f2cbf0d1a10-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=461\"].SearchResults",
+      "sha256": "58cbad597948b8f0a78fea9b082c5938c75de3d55458646880b01c0f76a5a92f",
+      "bytes": 112801
+    },
+    {
+      "path": "myhome/10014-44273f2cbf0d1a10-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=461\"] (paging fields)",
+      "sha256": "9f94253ea4b895b95ea311681d5a8a22fa169e12c9282c035a5871ff4128bfdf",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-errew-drive-lough-rinn-mohill-leitrim/5007407",
+    "https://www.myhome.ie/residential/brochure/273-charlesland-wood-charlesland-greystones-co-wicklow/5007406",
+    "https://www.myhome.ie/residential/brochure/2-wainsfort-manor-grove-terenure-dublin-6w/5007397",
+    "https://www.myhome.ie/residential/brochure/the-hazel-type-f-droim-an-ir-nenagh-tipperary/4992049",
+    "https://www.myhome.ie/residential/brochure/7-balally-road-dundrum-dublin-16/5001580",
+    "https://www.myhome.ie/residential/brochure/the-old-rectory-ballincurra-moyvore-westmeath/5007389",
+    "https://www.myhome.ie/residential/brochure/c-5-acres-at-lane-of-stones-carne-our-lady-s-island-wexford/5007391",
+    "https://www.myhome.ie/residential/brochure/no-32-goodtide-harbour-batt-street-wexford-town-wexford/5007384",
+    "https://www.myhome.ie/residential/brochure/lea-castle-lea-road-portarlington-laois/5007376",
+    "https://www.myhome.ie/residential/brochure/quinpool-parteen-county-clare/5007378",
+    "https://www.myhome.ie/residential/brochure/castleview-house-keeloge-south-borris-in-ossory-laois/5007354",
+    "https://www.myhome.ie/residential/brochure/riverside-clifden-galway/5007342",
+    "https://www.myhome.ie/residential/brochure/22-melrose-avenue-stameen-drogheda-co-louth/5007356",
+    "https://www.myhome.ie/residential/brochure/ballyboe-convoy-co-donegal/5007344",
+    "https://www.myhome.ie/residential/brochure/kiltycloghan-ballintogher-sligo/5007330",
+    "https://www.myhome.ie/residential/brochure/41-hollywoodrath-drive-hollystown-dublin-15/5007293",
+    "https://www.myhome.ie/residential/brochure/ballykeoghan-kilmacow-kilkenny/5007291",
+    "https://www.myhome.ie/residential/brochure/13-chancery-park-way-tullamore-offaly/5007285",
+    "https://www.myhome.ie/residential/brochure/81-the-elms-mount-merrion-avenue-blackrock-co-dublin/5007282",
+    "https://www.myhome.ie/residential/brochure/ballycormick-mountrath-laois/5007265"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=462",
+  "paginationLimited": false
+}

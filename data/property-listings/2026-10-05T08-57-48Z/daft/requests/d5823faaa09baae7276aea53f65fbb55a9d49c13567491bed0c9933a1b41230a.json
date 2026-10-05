@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/7-richview-villas-clonskeagh-road-clonskeagh-dublin-14/6660368",
+  "fetchedAt": "2026-10-05T09:14:25.823Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/7-richview-villas-clonskeagh-road-clonskeagh-dublin-14/6660368",
+  "kind": "listing",
+  "responseSha256": "466e28319f8e7cad430fb267cbfef6155abb84249a64b1e0f1a4d11b3c11d17d",
+  "files": [
+    {
+      "path": "daft/00665-d5823faaa09baae7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9829cc67cc560c1bb59991c66067bb93cafd2136b4cb8a9f988e0b4bd84d281",
+      "bytes": 49555
+    },
+    {
+      "path": "daft/00665-d5823faaa09baae7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "fddaa2f6208a902c93672380909f39ac7c3649d333af8aab531ad256467e8ec4",
+      "bytes": 8095
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

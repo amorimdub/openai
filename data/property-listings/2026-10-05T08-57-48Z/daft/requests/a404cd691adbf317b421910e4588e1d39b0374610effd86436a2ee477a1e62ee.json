@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-83-kerrymount-castle-court-kilgobbin-wood-dublin-18/6683544",
+  "fetchedAt": "2026-10-05T09:48:55.668Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-83-kerrymount-castle-court-kilgobbin-wood-dublin-18/6683544",
+  "kind": "listing",
+  "responseSha256": "367b476fa2e954c935d545bf246afd77d964ee2b469423a012f9664451eb4b19",
+  "files": [
+    {
+      "path": "daft/02043-a404cd691adbf317-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c17c112f1d28c654ad0a8cb016c9fe5ad452caf36a045ca23c2c76088c99e4f1",
+      "bytes": 29447
+    },
+    {
+      "path": "daft/02043-a404cd691adbf317-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8b6fe81cba7b0db5aebf60333f25deb834068a6bd26bf36776d9e2b73f97ceb6",
+      "bytes": 8033
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

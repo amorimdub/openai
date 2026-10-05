@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "GROSVENOR SCHOOL",
+      "numPupils": 68,
+      "distance": {
+        "value": 0.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269917",
+        "lon": "-6.207178"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S NATIONAL SCHOOL",
+      "numPupils": 408,
+      "distance": {
+        "value": 1.03,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.281870",
+        "lon": "-6.204956"
+      }
+    },
+    {
+      "schoolName": "GOATSTOWN STILLORGAN PRIMARY SCHOOL",
+      "numPupils": 141,
+      "distance": {
+        "value": 1.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278683",
+        "lon": "-6.211414"
+      }
+    },
+    {
+      "schoolName": "SETANTA SPECIAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 1.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.282413",
+        "lon": "-6.188391"
+      }
+    },
+    {
+      "schoolName": "HOLY TRINITY NATIONAL SCHOOL",
+      "numPupils": 596,
+      "distance": {
+        "value": 1.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.261818",
+        "lon": "-6.196423"
+      }
+    },
+    {
+      "schoolName": "ST BRIGIDS NATIONAL SCHOOL",
+      "numPupils": 102,
+      "distance": {
+        "value": 1.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285316",
+        "lon": "-6.196701"
+      }
+    },
+    {
+      "schoolName": "HOLLYPARK GIRLS NATIONAL SCHOOL",
+      "numPupils": 487,
+      "distance": {
+        "value": 1.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279633",
+        "lon": "-6.175485"
+      }
+    },
+    {
+      "schoolName": "HOLLYPARK BOYS NATIONAL SCHOOL",
+      "numPupils": 512,
+      "distance": {
+        "value": 1.72,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280193",
+        "lon": "-6.174952"
+      }
+    },
+    {
+      "schoolName": "ST LAURENCE'S BOYS NATIONAL SCHOOL",
+      "numPupils": 402,
+      "distance": {
+        "value": 1.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.288530",
+        "lon": "-6.207112"
+      }
+    },
+    {
+      "schoolName": "QUEEN OF ANGELS PRIMARY SCHOOLS",
+      "numPupils": 252,
+      "distance": {
+        "value": 1.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276325",
+        "lon": "-6.226044"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "NORD ANGLIA INTERNATIONAL SCHOOL DUBLIN",
+      "numPupils": 630,
+      "distance": {
+        "value": 0.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.2669",
+        "lon": "-6.1986"
+      }
+    },
+    {
+      "schoolName": "ST RAPHAELA'S SECONDARY SCHOOL",
+      "numPupils": 631,
+      "distance": {
+        "value": 1.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283104",
+        "lon": "-6.205334"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE FOXROCK",
+      "numPupils": 637,
+      "distance": {
+        "value": 1.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272797",
+        "lon": "-6.176822"
+      }
+    },
+    {
+      "schoolName": "ST BENILDUS COLLEGE",
+      "numPupils": 925,
+      "distance": {
+        "value": 1.98,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.284637",
+        "lon": "-6.221376"
+      }
+    },
+    {
+      "schoolName": "OATLANDS COLLEGE",
+      "numPupils": 634,
+      "distance": {
+        "value": 2.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292484",
+        "lon": "-6.202487"
+      }
+    },
+    {
+      "schoolName": "ROSEMONT SCHOOL",
+      "numPupils": 291,
+      "distance": {
+        "value": 2.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.260914",
+        "lon": "-6.226888"
+      }
+    },
+    {
+      "schoolName": "NEWPARK COMPREHENSIVE SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 2.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289818",
+        "lon": "-6.173190"
+      }
+    },
+    {
+      "schoolName": "MOUNT ANVILLE SECONDARY SCHOOL",
+      "numPupils": 712,
+      "distance": {
+        "value": 2.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.293280",
+        "lon": "-6.222601"
+      }
+    },
+    {
+      "schoolName": "CLONKEEN COLLEGE",
+      "numPupils": 630,
+      "distance": {
+        "value": 2.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269830",
+        "lon": "-6.157335"
+      }
+    },
+    {
+      "schoolName": "ROCKFORD MANOR SECONDARY SCHOOL",
+      "numPupils": 285,
+      "distance": {
+        "value": 2.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287060",
+        "lon": "-6.163007"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Racecourse",
+      "route": "S8",
+      "destination": "Citywest",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273004",
+        "lon": "-6.198832"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Racecourse",
+      "route": "114",
+      "destination": "Ticknock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273004",
+        "lon": "-6.198832"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Brewery Road",
+      "route": "118",
+      "destination": "Eden Quay",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273894",
+        "lon": "-6.200654"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Silverpark GAA",
+      "route": "114",
+      "destination": "Blackrock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273844",
+        "lon": "-6.195573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Silverpark GAA",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273844",
+        "lon": "-6.195573"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burton Hall Road",
+      "route": "S8",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273827",
+        "lon": "-6.203326"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burton Hall Road",
+      "route": "114",
+      "destination": "Ticknock",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273657",
+        "lon": "-6.203393"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Burton Hall Road",
+      "route": "47",
+      "destination": "Poolbeg St",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273657",
+        "lon": "-6.203393"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Torquay Road",
+      "route": "S8",
+      "destination": "Citywest",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274371",
+        "lon": "-6.192987"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Blackthorn Avenue",
+      "route": "47",
+      "destination": "Belarmine",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.273421",
+        "lon": "-6.204372"
+      }
+    }
+  ]
+}

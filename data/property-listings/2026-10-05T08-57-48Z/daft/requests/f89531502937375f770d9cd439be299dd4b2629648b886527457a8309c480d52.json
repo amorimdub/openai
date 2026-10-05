@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/occu-hollywoodrath-hollywoodrath-hollystown-co-dublin/3967748",
+  "fetchedAt": "2026-10-05T09:06:53.735Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/occu-hollywoodrath-hollywoodrath-hollystown-co-dublin/3967748",
+  "kind": "listing",
+  "responseSha256": "8ae072900bea31265d835d22d5fa74cd5fa9997fb25c41c0af172525ac50dacc",
+  "files": [
+    {
+      "path": "daft/00364-f89531502937375f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fb9a93deea5fcae6484e9136a724878ef31b2dde13759a6edb7f3a286be14439",
+      "bytes": 68518
+    },
+    {
+      "path": "daft/00364-f89531502937375f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "606dcb78a2cedf12a8bbc95e6fcc7a6213ed467faef8b26385f7b0c6f0c1af87",
+      "bytes": 8075
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=482",
+  "fetchedAt": "2026-10-05T14:22:52.546Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=482",
+  "kind": "search",
+  "responseSha256": "5aa8463a5c922ee2241bfcac3fe89361c7dd8c244b1d325a5dcc64cbcad8b70d",
+  "files": [
+    {
+      "path": "myhome/10441-eb54113444d9218e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=482\"].SearchResults",
+      "sha256": "7f7ba12137d7c77efb5313410b3caa4dfb56d364a420fbe4b35f8a63b58b6d9f",
+      "bytes": 113840
+    },
+    {
+      "path": "myhome/10441-eb54113444d9218e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=482\"] (paging fields)",
+      "sha256": "6ae1c2eb24de19e564956aaa85f324f76b8751517d4febf839b29efca14ef8df",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/bramble-cottage-kilonahan-patrickswell-county-limerick/5004701",
+    "https://www.myhome.ie/residential/brochure/34-old-court-manor-firhouse-tallaght-dublin-24/5002371",
+    "https://www.myhome.ie/residential/brochure/38-belfry-manor-citywest-dublin-24/5000928",
+    "https://www.myhome.ie/residential/brochure/rectory-cottage-west-street-tallow-co-waterford/5004695",
+    "https://www.myhome.ie/residential/brochure/drum-knock-county-mayo/5004684",
+    "https://www.myhome.ie/residential/brochure/togher-dunmanway-west-cork/5004677",
+    "https://www.myhome.ie/residential/brochure/22-shelton-grove-kimmage-dublin-12/5004440",
+    "https://www.myhome.ie/residential/brochure/38-ard-na-slaine-newtown-road-wexford-town-wexford/5004667",
+    "https://www.myhome.ie/residential/brochure/42-garville-avenue-rathgar-dublin-6/5001422",
+    "https://www.myhome.ie/residential/brochure/30-maiville-terrace-turners-cross-cork/4999106",
+    "https://www.myhome.ie/residential/brochure/site-at-coolgreen-glanmire-bucklearys-cross-cork/5004653",
+    "https://www.myhome.ie/residential/brochure/cottage-on-c-0-5-acre-church-road-donard-wicklow/5004647",
+    "https://www.myhome.ie/residential/brochure/1-bedroom-apartment-the-tannery-cairns-hill-sligo/4940758",
+    "https://www.myhome.ie/residential/brochure/118-walkinstown-road-walkinstown-dublin-12/4999510",
+    "https://www.myhome.ie/residential/brochure/seacliff-guileen-whitegate-co-cork/5004255",
+    "https://www.myhome.ie/residential/brochure/17-the-ceadars-hophill-tullamore-offaly/5003604",
+    "https://www.myhome.ie/residential/brochure/archways-ballintubber-carrigtwohill-cork/5004437",
+    "https://www.myhome.ie/residential/brochure/11-halpin-terrace-drogheda-louth/5004608",
+    "https://www.myhome.ie/residential/brochure/clare-road-ennis-clare/5004620",
+    "https://www.myhome.ie/residential/brochure/16-finn-street-stoneybatter-dublin-7/5004599"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=483",
+  "paginationLimited": false
+}

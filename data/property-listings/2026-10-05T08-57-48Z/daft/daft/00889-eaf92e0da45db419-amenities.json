@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "KILKELLY NATIONAL SCHOOL",
+      "numPupils": 49,
+      "distance": {
+        "value": 0.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.874058",
+        "lon": "-8.854434"
+      }
+    },
+    {
+      "schoolName": "TAVRANE CENTRAL NATIONAL SCHOOL",
+      "numPupils": 12,
+      "distance": {
+        "value": 4.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.878277",
+        "lon": "-8.776445"
+      }
+    },
+    {
+      "schoolName": "BARNACOGUE NATIONAL SCHOOL",
+      "numPupils": 21,
+      "distance": {
+        "value": 5.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.918270",
+        "lon": "-8.867094"
+      }
+    },
+    {
+      "schoolName": "AGHAMORE NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 5.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.825840",
+        "lon": "-8.820395"
+      }
+    },
+    {
+      "schoolName": "MIDFIELD NATIONAL SCHOOL",
+      "numPupils": 65,
+      "distance": {
+        "value": 5.7,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.897316",
+        "lon": "-8.924692"
+      }
+    },
+    {
+      "schoolName": "CLOONLYON NATIONAL SCHOOL",
+      "numPupils": 36,
+      "distance": {
+        "value": 6.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.930843",
+        "lon": "-8.838157"
+      }
+    },
+    {
+      "schoolName": "TAVNEENA NATIONAL SCHOOL",
+      "numPupils": 12,
+      "distance": {
+        "value": 7.06,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.917885",
+        "lon": "-8.776610"
+      }
+    },
+    {
+      "schoolName": "TOOREEN NATIONAL SCHOOL",
+      "numPupils": 109,
+      "distance": {
+        "value": 7.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.827270",
+        "lon": "-8.763750"
+      }
+    },
+    {
+      "schoolName": "KINAFFE NATIONAL SCHOOL",
+      "numPupils": 50,
+      "distance": {
+        "value": 8.84,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.898064",
+        "lon": "-8.976774"
+      }
+    },
+    {
+      "schoolName": "CULMORE NATIONAL SCHOOL",
+      "numPupils": 32,
+      "distance": {
+        "value": 9.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.953133",
+        "lon": "-8.892516"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST LOUIS COMMUNITY SCHOOL",
+      "numPupils": 690,
+      "distance": {
+        "value": 10.31,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.848385",
+        "lon": "-9.002216"
+      }
+    },
+    {
+      "schoolName": "SCOIL MUIRE AGUS PADRAIG",
+      "numPupils": 410,
+      "distance": {
+        "value": 10.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.942100",
+        "lon": "-8.952785"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S COMMUNITY COLLEGE",
+      "numPupils": 201,
+      "distance": {
+        "value": 10.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.960330",
+        "lon": "-8.801390"
+      }
+    },
+    {
+      "schoolName": "Ballyhaunis Community School, Knock Road, Ballyhaunis, Mayo",
+      "numPupils": 750,
+      "distance": {
+        "value": 12.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.765923",
+        "lon": "-8.780561"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHOLMÁIN",
+      "numPupils": 378,
+      "distance": {
+        "value": 17.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.735443",
+        "lon": "-8.980459"
+      }
+    },
+    {
+      "schoolName": "ST NATHY'S COLLEGE",
+      "numPupils": 658,
+      "distance": {
+        "value": 18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.903510",
+        "lon": "-8.580730"
+      }
+    },
+    {
+      "schoolName": "MOUNT ST MICHAEL",
+      "numPupils": 404,
+      "distance": {
+        "value": 18.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.732270",
+        "lon": "-9.001320"
+      }
+    },
+    {
+      "schoolName": "BALLA SECONDARY SCHOOL",
+      "numPupils": 475,
+      "distance": {
+        "value": 20.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.806858",
+        "lon": "-9.137721"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 21.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.981884",
+        "lon": "-9.111387"
+      }
+    },
+    {
+      "schoolName": "ST ATTRACTA'S COMMUNITY SCHOOL",
+      "numPupils": 710,
+      "distance": {
+        "value": 21.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.053448",
+        "lon": "-8.760024"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Kilkelly",
+      "route": "440",
+      "destination": "Knock Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.8713099452537",
+        "lon": "-8.8500533260727"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kilkelly N17",
+      "route": "64",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.869138",
+        "lon": "-8.849599"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glentavraun",
+      "route": "440",
+      "destination": "Knock Airport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 3.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.886539",
+        "lon": "-8.802188"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ireland W Airport",
+      "route": "440",
+      "destination": "Westport",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.914066",
+        "lon": "-8.812639"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ireland W Airport",
+      "route": "64",
+      "destination": "Sligo",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.914066",
+        "lon": "-8.812639"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Shanvaghera",
+      "route": "440",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.27,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.820112",
+        "lon": "-8.889962"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Knock",
+      "route": "964",
+      "destination": "ATU Galway",
+      "provider": "Bus Feda",
+      "distance": {
+        "value": 9.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.79549",
+        "lon": "-8.918462"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Knock",
+      "route": "64",
+      "destination": "Derry",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.79472",
+        "lon": "-8.91678"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Knock",
+      "route": "421",
+      "destination": "Claremorris",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7946149477604",
+        "lon": "-8.91886789425847"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Knock",
+      "route": "440",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 9.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.7946149477604",
+        "lon": "-8.91886789425847"
+      }
+    }
+  ]
+}

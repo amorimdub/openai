@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "TARA HILL NATIONAL SCHOOL",
+      "numPupils": 220,
+      "distance": {
+        "value": 1.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.706448",
+        "lon": "-6.211734"
+      }
+    },
+    {
+      "schoolName": "CASTLETOWN NATIONAL SCHOOL",
+      "numPupils": 145,
+      "distance": {
+        "value": 2.96,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.721863",
+        "lon": "-6.188459"
+      }
+    },
+    {
+      "schoolName": "BUNSCOIL LORETO",
+      "numPupils": 641,
+      "distance": {
+        "value": 6.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.673935",
+        "lon": "-6.289719"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S PRIMARY SCHOOL GOREY",
+      "numPupils": 514,
+      "distance": {
+        "value": 6.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.674280",
+        "lon": "-6.293107"
+      }
+    },
+    {
+      "schoolName": "KILANERIN NATIONAL SCHOOL",
+      "numPupils": 213,
+      "distance": {
+        "value": 6.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.730602",
+        "lon": "-6.286030"
+      }
+    },
+    {
+      "schoolName": "GOREY CENTRAL SCHOOL",
+      "numPupils": 244,
+      "distance": {
+        "value": 6.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.673760",
+        "lon": "-6.297851"
+      }
+    },
+    {
+      "schoolName": "RIVERCHAPEL NATIONAL SCHOOL",
+      "numPupils": 304,
+      "distance": {
+        "value": 6.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.638218",
+        "lon": "-6.234164"
+      }
+    },
+    {
+      "schoolName": "COOLGREANY NATIONAL SCHOOL",
+      "numPupils": 117,
+      "distance": {
+        "value": 7.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.763010",
+        "lon": "-6.234403"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL MHOSHIOLOG",
+      "numPupils": 153,
+      "distance": {
+        "value": 7.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.674520",
+        "lon": "-6.315910"
+      }
+    },
+    {
+      "schoolName": "GOREY EDUCATE TOGETHER NATIONAL SCHOOL",
+      "numPupils": 373,
+      "distance": {
+        "value": 7.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.674940",
+        "lon": "-6.316743"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "GOREY COMMUNITY SCHOOL",
+      "numPupils": 1536,
+      "distance": {
+        "value": 6.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.673805",
+        "lon": "-6.287406"
+      }
+    },
+    {
+      "schoolName": "GOREY EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 260,
+      "distance": {
+        "value": 6.5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.681640",
+        "lon": "-6.299700"
+      }
+    },
+    {
+      "schoolName": "CREAGH COLLEGE",
+      "numPupils": 1067,
+      "distance": {
+        "value": 7.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.675350",
+        "lon": "-6.314063"
+      }
+    },
+    {
+      "schoolName": "GLENART COLLEGE",
+      "numPupils": 629,
+      "distance": {
+        "value": 11.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.796085",
+        "lon": "-6.173213"
+      }
+    },
+    {
+      "schoolName": "ARKLOW CBS",
+      "numPupils": 383,
+      "distance": {
+        "value": 11.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.797523",
+        "lon": "-6.166360"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S COLLEGE",
+      "numPupils": 540,
+      "distance": {
+        "value": 11.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.796913",
+        "lon": "-6.157358"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE NA MARA",
+      "numPupils": 302,
+      "distance": {
+        "value": 11.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.800743",
+        "lon": "-6.168119"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE BHRÍDE CARNEW",
+      "numPupils": 896,
+      "distance": {
+        "value": 19.92,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.709854",
+        "lon": "-6.501966"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN ÁTHA",
+      "numPupils": 366,
+      "distance": {
+        "value": 21.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.511658",
+        "lon": "-6.285835"
+      }
+    },
+    {
+      "schoolName": "AVONDALE COMMUNITY COLLEGE",
+      "numPupils": 624,
+      "distance": {
+        "value": 26.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.934486",
+        "lon": "-6.236089"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Kildermot",
+      "route": "879",
+      "destination": "Poulshone",
+      "provider": "Gorey Bus Links",
+      "distance": {
+        "value": 1.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.686503",
+        "lon": "-6.216434"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballymoney",
+      "route": "879",
+      "destination": "Gorey Main Street",
+      "provider": "Gorey Bus Links",
+      "distance": {
+        "value": 2.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.680319",
+        "lon": "-6.220375"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Raheenagurren",
+      "route": "379",
+      "destination": "Gorey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.670357",
+        "lon": "-6.276289"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Esmonde Street",
+      "route": "389",
+      "destination": "Riverchapel",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 5.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6760526",
+        "lon": "-6.286803"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Courtown",
+      "route": "879",
+      "destination": "Poulshone",
+      "provider": "Gorey Bus Links",
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6449118174922",
+        "lon": "-6.23014693514187"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Courtown",
+      "route": "379",
+      "destination": "Wexford",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.6449118174922",
+        "lon": "-6.23014693514187"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Courtown",
+      "route": "389",
+      "destination": "Riverchapel",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 6.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.645074",
+        "lon": "-6.231367"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Courtown Hrbr",
+      "route": "379",
+      "destination": "Gorey",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.644022",
+        "lon": "-6.227774"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Seamount N",
+      "route": "389",
+      "destination": "Gorey",
+      "provider": "TFI Local Link Wexford",
+      "distance": {
+        "value": 6.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.64361",
+        "lon": "-6.23041"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Seamount N",
+      "route": "879",
+      "destination": "Gorey Main Street",
+      "provider": "Gorey Bus Links",
+      "distance": {
+        "value": 6.23,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.64348",
+        "lon": "-6.23041"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-u-clay-farm-clay-farm-leopardstown-leopardstown-co-dublin/5983988",
+  "fetchedAt": "2026-10-05T09:06:14.690Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-u-clay-farm-clay-farm-leopardstown-leopardstown-co-dublin/5983988",
+  "kind": "listing",
+  "responseSha256": "b635a39b1c080c5327cd4a3ea32b68336e667672eb6e61136dd8b37ca8238c7f",
+  "files": [
+    {
+      "path": "daft/00338-ba3eb3e7c63b3dcb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "478ea37f80e9815ab1217ba0ceffdc7a0afe78fc57325117fbc0c3174dc8c392",
+      "bytes": 39820
+    },
+    {
+      "path": "daft/00338-ba3eb3e7c63b3dcb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9089f3c7ac5d78d59bfbe0eff7c041936883aa75375dc0abc9548b8c42f845fd",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/main-street-headford-headford-co-galway/6646736",
+  "fetchedAt": "2026-10-05T09:31:48.263Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/main-street-headford-headford-co-galway/6646736",
+  "kind": "listing",
+  "responseSha256": "14d5fc7430bf625f8709942358868dc9f067f1e283185fb7be51282047cf1ab2",
+  "files": [
+    {
+      "path": "daft/01359-507501e0546dfdd6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a3747cdd33bc917b6cbb415eee3c4b8bd62682df3c9fd52a70b1ed3e51815cb3",
+      "bytes": 61927
+    },
+    {
+      "path": "daft/01359-507501e0546dfdd6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f053b8eeec1242f6e981eff022b41390fed07616f3c667607d22923bdf148a98",
+      "bytes": 8029
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=35",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=35",
+  "fetchedAt": "2026-10-05T09:29:59.888Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "25ebdf5c48a8d390440bcdb08cfcf15c1dbb59251ad88b6975b1979d214ff9ef",
+  "files": [
+    {
+      "path": "myhome/01282-2565d4045b1398a1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=35\"].SearchResults",
+      "sha256": "f929da0a9a30dbc5fceb861e25bf17f5734b98373f346a2138a4baeadb57c396",
+      "bytes": 124661
+    },
+    {
+      "path": "myhome/01282-2565d4045b1398a1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=35\"] (paging fields)",
+      "sha256": "4a2a213d247d93f5f48968f8c6d38492aa791bc28c5a6a6af181633aafc40c12",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/site-with-derelict-house-bridge-street-navan-co-meath/5031667",
+    "https://www.myhome.ie/residential/brochure/12-cruagh-court-stepaside-county-dublin/5031665",
+    "https://www.myhome.ie/residential/brochure/c-3-acre-c-1-21-hectare-site-with-opp-at-common-bridgetown-wexford/5006047",
+    "https://www.myhome.ie/residential/brochure/158-viewmount-park-co-waterford/5031661",
+    "https://www.myhome.ie/residential/brochure/13a-the-borough-dublin-7-phibsborough/5031660",
+    "https://www.myhome.ie/residential/brochure/12-sallins-town-centre-clane-road-sallins-co-kildare/5031659",
+    "https://www.myhome.ie/residential/brochure/lissadell-dublin-road-naas-co-kildare/5031653",
+    "https://www.myhome.ie/residential/brochure/hygge-drumbar-co-cavan/4996769",
+    "https://www.myhome.ie/residential/brochure/bumblebee-cottage-largysillagh-killybegs-co-donegal/5015344",
+    "https://www.myhome.ie/residential/brochure/9-kensington-manor-dun-laoghaire-co-dublin/4961274",
+    "https://www.myhome.ie/residential/brochure/apartment-mcevoy-s-restaurant-abbeyleix-laois/5031652",
+    "https://www.myhome.ie/residential/brochure/59-mask-avenue-artane-dublin-5/5018812",
+    "https://www.myhome.ie/residential/brochure/14-rockville-avenue-kilternan-dublin-18/5025086",
+    "https://www.myhome.ie/residential/brochure/mylerstown-robertstown-co-kildare/5031650",
+    "https://www.myhome.ie/residential/brochure/23-glenamuck-cottages-carrickmines-dublin-18/5031639",
+    "https://www.myhome.ie/residential/brochure/apt-305-parklands-block-6-northwood-santry-dublin-9/5031649",
+    "https://www.myhome.ie/residential/brochure/649-carnlough-road-cabra-dublin-7/5031648",
+    "https://www.myhome.ie/residential/brochure/33-ailesbury-road-ballsbridge-dublin-4/5001721",
+    "https://www.myhome.ie/residential/brochure/penthouse-70-80-shrewsbury-square-sandymount-avenue-ballsbridge-dublin-4/5011704",
+    "https://www.myhome.ie/residential/brochure/133-riverside-park-clonshaugh-dublin-17/5027097"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=36",
+  "paginationLimited": false
+}

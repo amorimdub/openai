@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/10-kenilworth-lane-west-rathgar-dublin-6/6648856",
+  "fetchedAt": "2026-10-05T09:49:24.206Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/10-kenilworth-lane-west-rathgar-dublin-6/6648856",
+  "kind": "listing",
+  "responseSha256": "b0900b5a90c58abb2e2f13fd258b1ca868ac1812e96ecac20da5eb60f2778a97",
+  "files": [
+    {
+      "path": "daft/02062-50dcc85096f60902-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0a49eae9592f544b961c4db75f8d8f5f8622b5cb167502eb8b844d2b250b8302",
+      "bytes": 51019
+    },
+    {
+      "path": "daft/02062-50dcc85096f60902-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2d6aee539f5f6a4714d119ead94d4618d4aca023e2514ec4d1432ed6808ad21b",
+      "bytes": 8094
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

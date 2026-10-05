@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=18",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=18",
+  "fetchedAt": "2026-10-05T09:13:39.997Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "b01dc83ce230ebfd16d7546705b0e28cdf28fbe878acf1cf09e1189d8261306c",
+  "files": [
+    {
+      "path": "myhome/00630-255cbd6f6a6db501-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=18\"].SearchResults",
+      "sha256": "bd81b6dc424c6ff7bf5ce7cebe1d51d36504de2853393934d0d394984245ef5e",
+      "bytes": 121398
+    },
+    {
+      "path": "myhome/00630-255cbd6f6a6db501-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=18\"] (paging fields)",
+      "sha256": "27c118fdece4554b4f9dde4d68ac600fe21fec45c546d79344b9412697869f80",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/22-easton-mews-leixlip-co-kildare/5004041",
+    "https://www.myhome.ie/residential/brochure/14-morristown-crescent-the-paddocks-newbridge-co-kildare/5031934",
+    "https://www.myhome.ie/residential/brochure/9-the-grove-sadlier-hall-dunboyne-county-meath/5031933",
+    "https://www.myhome.ie/residential/brochure/26-abbey-park-arklow-wicklow/5031893",
+    "https://www.myhome.ie/residential/brochure/apt-216-coill-t-re-doughiska-galway/5031932",
+    "https://www.myhome.ie/residential/brochure/9-hammond-street-dublin-8/5031928",
+    "https://www.myhome.ie/residential/brochure/83-garavogue-villas-sligo/5031640",
+    "https://www.myhome.ie/residential/brochure/8-whitethorn-place-naas-kildare/5031926",
+    "https://www.myhome.ie/residential/brochure/20-dundoogan-haynestown-dundalk-county-louth/5031925",
+    "https://www.myhome.ie/residential/brochure/4-the-laurels-mount-prospect-avenue-clontarf-dublin-3/5031924",
+    "https://www.myhome.ie/residential/brochure/17-luttrell-park-drive-castleknock-dublin-15/5031923",
+    "https://www.myhome.ie/residential/brochure/101-beechwood-avenue-lower-ranelagh-dublin-6/5027950",
+    "https://www.myhome.ie/residential/brochure/4-leicester-avenue-rathgar-dublin-6/5028315",
+    "https://www.myhome.ie/residential/brochure/22-calderwood-road-drumcondra-dublin-9/5031212",
+    "https://www.myhome.ie/residential/brochure/scurlocksleap-blessington-wicklow/5031922",
+    "https://www.myhome.ie/residential/brochure/rathog-ballintubber-carrigtwohill-cork/5031675",
+    "https://www.myhome.ie/residential/brochure/9-sycamore-walk-the-park-cabinteely-dublin-18/5005391",
+    "https://www.myhome.ie/residential/brochure/75-philipsburgh-avenue-fairview-dublin-3/4917313",
+    "https://www.myhome.ie/residential/brochure/11-the-dales-kilmartin-grove-hollystown-dublin-15/5031919",
+    "https://www.myhome.ie/residential/brochure/rathconnell-mullingar-westmeath/5031911"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=19",
+  "paginationLimited": false
+}

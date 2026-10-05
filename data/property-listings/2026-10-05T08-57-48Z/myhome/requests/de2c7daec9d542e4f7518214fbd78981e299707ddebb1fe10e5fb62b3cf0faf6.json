@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=8",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=8",
+  "fetchedAt": "2026-10-05T09:03:12.554Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "fbbcd90a16726fa083fb59173fa104aed2e7d39fb696b357e9010f68fe55fb8d",
+  "files": [
+    {
+      "path": "myhome/00217-de2c7daec9d542e4-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=8\"].SearchResults",
+      "sha256": "0bb6029ff81918373cdc2a45f7412a949dff65866cbf8b88df7e9bf9186ab93f",
+      "bytes": 117514
+    },
+    {
+      "path": "myhome/00217-de2c7daec9d542e4-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=8\"] (paging fields)",
+      "sha256": "bb922ef1e88c7eaea2594ab3b7b20bbd562117d40d0afe7019a4cb618f86f107",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/kilternan-village-kilternan-dublin-18/4895566",
+    "https://www.myhome.ie/residential/brochure/35-temple-square-temple-road-dartry-dublin-6/5029954",
+    "https://www.myhome.ie/residential/brochure/38-huntstown-rise-mulhuddart-dublin-15/4975598",
+    "https://www.myhome.ie/residential/brochure/5-botanic-mews-prospect-avenue-glasnevin-dublin-9/5032072",
+    "https://www.myhome.ie/residential/brochure/2-willow-lodge-farmleigh-avenue-farmleigh-woods-castleknock-dublin-15/5007074",
+    "https://www.myhome.ie/residential/brochure/castletown-portroe-nenagh-co-tipperary/5026373",
+    "https://www.myhome.ie/residential/brochure/mill-harbour-sallins-co-kildare/5013559",
+    "https://www.myhome.ie/residential/brochure/60-trimbleston-goatstown-dublin-14/5032013",
+    "https://www.myhome.ie/residential/brochure/avondale-109-lower-kilmacud-road-kilmacud-dublin-14/5030063",
+    "https://www.myhome.ie/residential/brochure/saint-josephs-63-knockaphunta-park-castlebar-co-mayo/5032071",
+    "https://www.myhome.ie/residential/brochure/dawn-view-rathbane-naas-kilteel-co-kildare/5026270",
+    "https://www.myhome.ie/residential/brochure/18-maywood-avenue-raheny-dublin-5/5028335",
+    "https://www.myhome.ie/residential/brochure/apt-5-portobello-harbour-with-garden-portobello-dublin-8/5029668",
+    "https://www.myhome.ie/residential/brochure/15-stocking-wood-way-rathfarnham-dublin-16/5032070",
+    "https://www.myhome.ie/residential/brochure/11-the-coppins-foxrock-dublin-18/5028387",
+    "https://www.myhome.ie/residential/brochure/40-woodbank-shankill-dublin-18/5032068",
+    "https://www.myhome.ie/residential/brochure/eglington-barney-edgeworthstown-ardagh-longford/5032066",
+    "https://www.myhome.ie/residential/brochure/3-castle-park-churchtown-dublin-14/5024013",
+    "https://www.myhome.ie/residential/brochure/apartment-40-wingfield-enniskerry-road-stepaside-county-dublin/5032067",
+    "https://www.myhome.ie/residential/brochure/carha-rehins-castlebar-co-mayo/5032065"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=9",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-lighthouse-apartments-church-road-dublin-3-east-wall-dublin-3/6686009",
+  "fetchedAt": "2026-10-05T09:32:12.292Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-lighthouse-apartments-church-road-dublin-3-east-wall-dublin-3/6686009",
+  "kind": "listing",
+  "responseSha256": "30a557c42265b88fbf4499f8d0c038d8fa1c356e4aca0fecee6ff181d8d99dc3",
+  "files": [
+    {
+      "path": "daft/01375-7c8b9d246871185b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3516c3009446fea99157fd8ba0d67508827e7d4b9915af8eaf86c367488150c7",
+      "bytes": 11669
+    },
+    {
+      "path": "daft/01375-7c8b9d246871185b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

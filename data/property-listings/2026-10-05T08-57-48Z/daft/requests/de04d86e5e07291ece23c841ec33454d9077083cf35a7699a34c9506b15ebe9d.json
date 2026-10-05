@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-saint-lappans-place-little-island-little-island-co-cork/6684978",
+  "fetchedAt": "2026-10-05T09:39:35.262Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-saint-lappans-place-little-island-little-island-co-cork/6684978",
+  "kind": "listing",
+  "responseSha256": "e18ec4721fe4ccf3cdc8453fd74c0d95038b8614a973301b942e0293b8eb1574",
+  "files": [
+    {
+      "path": "daft/01670-de04d86e5e07291e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "0e2731f8362ad53d9e20805c4851739854f63a7432cc646a7211383946fe3b8f",
+      "bytes": 47186
+    },
+    {
+      "path": "daft/01670-de04d86e5e07291e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "08221cf5ca04e3359eb43b8ee8e1c2770bdade19d306b6168a5cff2bac4c50a2",
+      "bytes": 8174
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=91",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=91",
+  "fetchedAt": "2026-10-05T09:58:27.280Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "1b33fcd61bb92ed590f2dced85a22a9639222dad6d69dec8a9955858c1bac407",
+  "files": [
+    {
+      "path": "myhome/02417-8ce2cd0fec5e44bd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=91\"].SearchResults",
+      "sha256": "a90ecc2b92d2feecafcd9b0821ed6f2bcc7e7a054ee5c9df513281042ed5656b",
+      "bytes": 120942
+    },
+    {
+      "path": "myhome/02417-8ce2cd0fec5e44bd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=91\"] (paging fields)",
+      "sha256": "f9d62c76d295b2d2a90ce5cdc36b2b70531719b7e66a6f76e9fbc84b6201e1ee",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/36-glenmalure-square-milltown-dublin-6/4959370",
+    "https://www.myhome.ie/residential/brochure/6-humes-lane-west-end-mallow-co-cork/5030537",
+    "https://www.myhome.ie/residential/brochure/apartment-1-the-thomas-house-86-87-thomas-street-south-city-centre-dublin-8/5030467",
+    "https://www.myhome.ie/residential/brochure/82-bloomfield-park-donnybrook-dublin-4/5030536",
+    "https://www.myhome.ie/residential/brochure/derrycarrow-camross-co-laois/5030535",
+    "https://www.myhome.ie/residential/brochure/11-knockaire-knocklyon-dublin-16/5030531",
+    "https://www.myhome.ie/residential/brochure/15-old-bawn-drive-old-bawn-dublin-24/5030534",
+    "https://www.myhome.ie/residential/brochure/ardbree-rolestown-swords-county-dublin/5025627",
+    "https://www.myhome.ie/residential/brochure/apartment-6-cedar-place-ridgewood-swords-county-dublin/5017103",
+    "https://www.myhome.ie/residential/brochure/104-millview-lawns-malahide-county-dublin/5021343",
+    "https://www.myhome.ie/residential/brochure/39-woodbury-gorey-wexford/5030529",
+    "https://www.myhome.ie/residential/brochure/14-blakes-glen-curracloe-wexford/5030524",
+    "https://www.myhome.ie/residential/brochure/33-ledwidge-hall-slane-co-meath/5030528",
+    "https://www.myhome.ie/residential/brochure/2-forrest-close-rowley-s-lock-navan-meath/5030527",
+    "https://www.myhome.ie/residential/brochure/26-silverwood-road-rathfarnham-dublin-14/5030526",
+    "https://www.myhome.ie/residential/brochure/2-inishowen-pilot-view-harbour-road-dalkey-co-dublin/5030525",
+    "https://www.myhome.ie/residential/brochure/dairyland-cottage-kilkea-castledermot-co-kildare/5030523",
+    "https://www.myhome.ie/residential/brochure/43-crestwood-coolough-road-galway-city-suburbs-galway/5030522",
+    "https://www.myhome.ie/residential/brochure/28-cassian-court-north-dublin-15-dublin/5030520",
+    "https://www.myhome.ie/residential/brochure/43-mcclure-meadows-wexford-town-wexford/5030519"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=92",
+  "paginationLimited": false
+}

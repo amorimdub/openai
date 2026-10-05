@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/23-rosslyn-co-wicklow/6649703",
+  "fetchedAt": "2026-10-05T08:58:16.714Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/23-rosslyn-co-wicklow/6649703",
+  "kind": "listing",
+  "responseSha256": "e335dc59a6e08d463430ccb0dafa73b0fcfefa39b871fd5357208981492248ab",
+  "files": [
+    {
+      "path": "daft/00020-d4ddc6d023572a2a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ab043f64416cef96cb0d6965b2352a1c1502ebbc5bab8999569cf27c0ead62ca",
+      "bytes": 89746
+    },
+    {
+      "path": "daft/00020-d4ddc6d023572a2a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "58b504e37c694c5043fbc7645119d0e6a8c4666eacfdd737b8795cd2b923c8ca",
+      "bytes": 8106
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

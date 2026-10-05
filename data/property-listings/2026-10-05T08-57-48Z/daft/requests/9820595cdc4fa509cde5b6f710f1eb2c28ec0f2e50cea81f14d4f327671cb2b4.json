@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/top-floor-apartment-1-eaton-square-monkstown-co-dublin/6529929",
+  "fetchedAt": "2026-10-05T09:41:14.398Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/top-floor-apartment-1-eaton-square-monkstown-co-dublin/6529929",
+  "kind": "listing",
+  "responseSha256": "b962dfdc687a9c8ac7783868182444c043ecb7594daf18fed14c9fd6f065348b",
+  "files": [
+    {
+      "path": "daft/01736-9820595cdc4fa509-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fe67ae2cefcd5794fbe9faf405f4cd008a6555648c0f8582394cf39e80812111",
+      "bytes": 54468
+    },
+    {
+      "path": "daft/01736-9820595cdc4fa509-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "864e899d905150df2659f4dec96c0f8f894e680cb8faf88e2f5964a4cfcadc64",
+      "bytes": 8054
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

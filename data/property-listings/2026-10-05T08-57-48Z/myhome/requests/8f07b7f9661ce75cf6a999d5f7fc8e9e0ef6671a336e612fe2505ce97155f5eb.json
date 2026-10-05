@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=447",
+  "fetchedAt": "2026-10-05T14:04:48.776Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=447",
+  "kind": "search",
+  "responseSha256": "5570637d2d128c794e33433e4471a019ded5d96e6c2919908b448c038a43ce3a",
+  "files": [
+    {
+      "path": "myhome/09720-8f07b7f9661ce75c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=447\"].SearchResults",
+      "sha256": "baa0d9e94daf4139e677e1e871c5a2dcadd35d5cb9c856efe46fdb147483e20a",
+      "bytes": 117322
+    },
+    {
+      "path": "myhome/09720-8f07b7f9661ce75c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=447\"] (paging fields)",
+      "sha256": "04aecc6b5cb494b6678c5a9ade08b41a31af1b68cb490478539ed8bd8e71a4ab",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/15-st-johns-street-enniscorthy-co-wexford/5009098",
+    "https://www.myhome.ie/residential/brochure/72-moreen-road-sandyford-dublin/5009082",
+    "https://www.myhome.ie/residential/brochure/1-cahir-lodges-cahir-west-kenmare-co-kerry/5009080",
+    "https://www.myhome.ie/residential/brochure/15-ballymaney-newbridge-kildare/5007645",
+    "https://www.myhome.ie/residential/brochure/43-windmill-road-drogheda-louth/5009068",
+    "https://www.myhome.ie/residential/brochure/26-beladd-upper-portlaoise-laois/5004510",
+    "https://www.myhome.ie/residential/brochure/8-owenmore-paddock-ballinacarrow-ballymote-co-sligo/5009059",
+    "https://www.myhome.ie/residential/brochure/annies-place-grange-kilmallock-limerick/5009056",
+    "https://www.myhome.ie/residential/brochure/ramparts-lane-b-kinsale-cork/5009042",
+    "https://www.myhome.ie/residential/brochure/newpark-lodge-kildare-town-kildare/5009008",
+    "https://www.myhome.ie/residential/brochure/mountprospect-stud-mountprospect-rathangan-kildare/5009012",
+    "https://www.myhome.ie/residential/brochure/joristown-raharney-westmeath/5009005",
+    "https://www.myhome.ie/residential/brochure/38-kiltipper-gate-kiltipper-dublin-24/5009009",
+    "https://www.myhome.ie/residential/brochure/keelballylahiff-castlegregory-kerry/4998559",
+    "https://www.myhome.ie/residential/brochure/40-seabury-park-malahide-co-dublin/4987053",
+    "https://www.myhome.ie/residential/brochure/site-for-143sqm-bungalow-foxrock-grove-foxrock-dublin-18/5008996",
+    "https://www.myhome.ie/residential/brochure/11-hollymount-waterford-williamstown-road-waterford-city-waterford/5008993",
+    "https://www.myhome.ie/residential/brochure/11-hollymount-williamstown-road-waterford-city-co-waterford/5008985",
+    "https://www.myhome.ie/residential/brochure/site-at-pass-road-redgate-limerick/5008981",
+    "https://www.myhome.ie/residential/brochure/toormore-goleen-west-cork/5008964"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=448",
+  "paginationLimited": false
+}

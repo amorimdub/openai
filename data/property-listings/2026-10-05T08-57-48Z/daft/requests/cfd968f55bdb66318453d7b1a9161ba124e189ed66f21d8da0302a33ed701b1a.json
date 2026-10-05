@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/33-woodfield-coolroe-ballincollig-cork-ballincollig-co-cork/6670952",
+  "fetchedAt": "2026-10-05T09:20:56.282Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/33-woodfield-coolroe-ballincollig-cork-ballincollig-co-cork/6670952",
+  "kind": "listing",
+  "responseSha256": "bdcefa36e7c3b9b201cfb5115ce931c3d4f56e70dbabbbf5f50ecfa606f1f299",
+  "files": [
+    {
+      "path": "daft/00925-cfd968f55bdb6631-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3ad71fb2f6b21e4697abae65744bdf4fce8240de2284fc4fc050b1c55fa7d515",
+      "bytes": 65480
+    },
+    {
+      "path": "daft/00925-cfd968f55bdb6631-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d385e710914b1a73e92fbf2f8a7b679ea1157773ab2198d189f4ebb7e7aa64a2",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

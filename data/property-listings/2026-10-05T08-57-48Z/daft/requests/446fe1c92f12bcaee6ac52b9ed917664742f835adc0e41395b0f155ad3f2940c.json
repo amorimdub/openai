@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/176-grande-central-south-central-rockbrook-sandyford-co-dublin/6684317",
+  "fetchedAt": "2026-10-05T09:02:56.460Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/176-grande-central-south-central-rockbrook-sandyford-co-dublin/6684317",
+  "kind": "listing",
+  "responseSha256": "662654b7818dac093ca190d6a54e38333124ca142f9baec0f7678ef54dfb2bdf",
+  "files": [
+    {
+      "path": "daft/00206-446fe1c92f12bcae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a3b9ffbdaa27a3743267f7509583a0f14a86d3e6b215c8cce0d293bbda9fdafd",
+      "bytes": 27561
+    },
+    {
+      "path": "daft/00206-446fe1c92f12bcae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bd6e98f90cfb36f9e60e3c1dbe59ffa3560c0fdbd0ea25ef62c3f0ae54ae9938",
+      "bytes": 8068
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

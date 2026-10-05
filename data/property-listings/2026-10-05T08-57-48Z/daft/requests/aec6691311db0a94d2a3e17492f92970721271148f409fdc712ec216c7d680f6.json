@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=14",
+  "fetchedAt": "2026-10-05T09:16:19.989Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=14",
+  "kind": "search",
+  "responseSha256": "3523c9c04b6f239009cce4ee98a3a00da01ea8c9a28695ce5365a671e974da72",
+  "files": [
+    {
+      "path": "daft/00741-aec6691311db0a94-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "8aad86f5a84e85095b35b1f4634ff3cfc7ebc8974b26ae81c9ec7c95281eff68",
+      "bytes": 255156
+    },
+    {
+      "path": "daft/00741-aec6691311db0a94-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00741-aec6691311db0a94-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "78b08e4088da9e7c6a6738694e593e8ea5976b02a9be8fb7e0f2e542212f8ce2",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/marina-village-malahide-co-dublin/6657302",
+    "https://www.daft.ie/for-rent/moathill-navan-co-meath/6683598",
+    "https://www.daft.ie/for-rent/short-let-only-ballynoe-grove-bray-co-wicklow/6683733",
+    "https://www.daft.ie/for-rent/apartment-93-temple-gardens-dublin-9/6676133",
+    "https://www.daft.ie/for-rent/apartment-7-glandore-court-glandore-park-monkstown-co-dublin/6683600",
+    "https://www.daft.ie/for-rent/westmanstown-lucan-co-dublin/6680851",
+    "https://www.daft.ie/for-rent/31a-beecher-street-mallow-mallow-co-cork/6683354",
+    "https://www.daft.ie/for-rent/crookstown-upper-ballitore-athy-crookstown-co-kildare/6683272",
+    "https://www.daft.ie/for-rent/apartment-2-loughview-station-road-omeath-dundalk-omeath-co-louth/6682989",
+    "https://www.daft.ie/for-rent/apartment-20-the-ash-carysfort-hall-blackrock-co-dublin/6682933",
+    "https://www.daft.ie/for-rent/manor-court-knocknacarra-co-galway/6682786",
+    "https://www.daft.ie/for-rent/supple-hall-dunshaughlin-co-meath-dunshaughlin-co-meath/6682846",
+    "https://www.daft.ie/for-rent/5-blackhall-green-arbour-hill-arbour-hill-dublin-7/6682715",
+    "https://www.daft.ie/for-rent/rowan-court-claremont-howth-road-howth-co-dublin-howth-dublin-13/6664495",
+    "https://www.daft.ie/for-rent/beaufort-killarney-beaufort-co-kerry/6682182",
+    "https://www.daft.ie/for-rent/3km-outside-kilmuckridge-village-co-wexford-kilmuckridge-co-wexford/6682238",
+    "https://www.daft.ie/for-rent/eugene-street-dublin-8-dublin-8/6664930",
+    "https://www.daft.ie/for-rent/curraghlawn-tinahely-arklow-aughrim-co-wicklow/6681211",
+    "https://www.daft.ie/for-rent/apartment-the-barrington-ballsbridge-dublin-4/6681884",
+    "https://www.daft.ie/for-rent/howleys-quay-henry-street-limerick-limerick-city-centre-co-limerick/6677630"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=15",
+  "paginationLimited": false
+}

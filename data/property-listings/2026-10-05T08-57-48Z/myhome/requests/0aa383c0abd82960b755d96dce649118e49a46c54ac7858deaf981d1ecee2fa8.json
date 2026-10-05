@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=242",
+  "fetchedAt": "2026-10-05T12:19:21.840Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=242",
+  "kind": "search",
+  "responseSha256": "d78195329336ed0606b0d23887de1c583bfb3da3b77bec9888565fa6133becbf",
+  "files": [
+    {
+      "path": "myhome/05516-0aa383c0abd82960-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=242\"].SearchResults",
+      "sha256": "5319b7acbb436cf3841c1fb83e3ff8e5279984489b773b683f1fa2a67bdb190e",
+      "bytes": 116909
+    },
+    {
+      "path": "myhome/05516-0aa383c0abd82960-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=242\"] (paging fields)",
+      "sha256": "850ec8f610d9bc61e0bfc2588282a91a6e844119fea67af21cb0685f33b0be25",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/18-the-court-moyglare-hall-maynooth-kildare/5026337",
+    "https://www.myhome.ie/residential/brochure/shannonbridge-co-offaly/5026348",
+    "https://www.myhome.ie/residential/brochure/13-sika-woods-enniskerry-co-wicklow/5026346",
+    "https://www.myhome.ie/residential/brochure/13-blackthorn-hill-view-rathcoole-co-dublin/5026344",
+    "https://www.myhome.ie/residential/brochure/brookhill-claremorris-co-mayo/5009194",
+    "https://www.myhome.ie/residential/brochure/beaconhill-on-approx-15-7-ha-38-77-acres-kennycourt-brannockstown-co-kildare/4999804",
+    "https://www.myhome.ie/residential/brochure/apartment-7-glenbrae-house-shankill-co-dublin/5026334",
+    "https://www.myhome.ie/residential/brochure/22-the-crescent-lennonstown-manor-dundalk-co-louth/5026331",
+    "https://www.myhome.ie/residential/brochure/6-castleview-green-swords-county-dublin/4985925",
+    "https://www.myhome.ie/residential/brochure/cammarano-st-john-s-road-wexford-town-wexford/5026327",
+    "https://www.myhome.ie/residential/brochure/934-sarto-lawn-bayside-sutton-dublin-13/5019852",
+    "https://www.myhome.ie/residential/brochure/12-larkfield-view-lucan-co-dublin/5026324",
+    "https://www.myhome.ie/residential/brochure/1-seskin-view-avenue-tallaght-dublin-24/5026323",
+    "https://www.myhome.ie/residential/brochure/lower-ballagh-menlough-ballinasloe-co-galway/5026321",
+    "https://www.myhome.ie/residential/brochure/knock-na-rea-commons-cross-dromiskin-co-louth/5026320",
+    "https://www.myhome.ie/residential/brochure/4-parkview-grove-finglas-dublin-11/5026317",
+    "https://www.myhome.ie/residential/brochure/lyrath-kilkenny-kilkenny/5026295",
+    "https://www.myhome.ie/residential/brochure/10-beechlawn-grove-coolock-artane-dublin-5/5026314",
+    "https://www.myhome.ie/residential/brochure/8-cedarhurst-green-castleknock-dublin-15/4976046",
+    "https://www.myhome.ie/residential/brochure/63-marble-crest-kilkenny-kilkenny/5026309"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=243",
+  "paginationLimited": false
+}

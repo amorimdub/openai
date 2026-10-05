@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/laragh-house-laragh-killiney-co-dublin/6674184",
+  "fetchedAt": "2026-10-05T09:13:19.718Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/laragh-house-laragh-killiney-co-dublin/6674184",
+  "kind": "listing",
+  "responseSha256": "4324e0b644fb14eba2606c223d185169f1639f650553fc7d37a6418ceb984432",
+  "files": [
+    {
+      "path": "daft/00621-dbd732866cc46961-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "86c42863e9578e62b9efd76cc7aa7fff1ed93a353a9a1ba51837e8cac3c19021",
+      "bytes": 127201
+    },
+    {
+      "path": "daft/00621-dbd732866cc46961-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "681ad1cd8b7677e4055359774955c7797481f941a7e5e30902342ea9409a699a",
+      "bytes": 8108
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

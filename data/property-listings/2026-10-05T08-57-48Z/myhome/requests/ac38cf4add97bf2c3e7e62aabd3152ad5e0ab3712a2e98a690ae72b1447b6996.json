@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=271",
+  "fetchedAt": "2026-10-05T12:34:34.634Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=271",
+  "kind": "search",
+  "responseSha256": "c105032f7d01c595aa385d4bd9704b877a52ab1cb608ae48399746d81adbbc91",
+  "files": [
+    {
+      "path": "myhome/06123-ac38cf4add97bf2c-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=271\"].SearchResults",
+      "sha256": "10845a4aeb01f7972958689a5644f60e419221df7c14da3dc38272daa5c998d6",
+      "bytes": 118224
+    },
+    {
+      "path": "myhome/06123-ac38cf4add97bf2c-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=271\"] (paging fields)",
+      "sha256": "bc22162228f57f64f960e39e14cc290d6c0bb95985bda22886b30e62bae23386",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/9-the-innings-observatory-lane-rathmines-dublin-6/5003128",
+    "https://www.myhome.ie/residential/brochure/meenagrave-ballybofey-co-donegal/5025326",
+    "https://www.myhome.ie/residential/brochure/8-brookfield-finnstown-abbey-lucan-co-dublin/4964854",
+    "https://www.myhome.ie/residential/brochure/chapel-street-tarbert-co-kerry/5018817",
+    "https://www.myhome.ie/residential/brochure/25-tandy-s-place-adamstown-lucan-co-dublin/5022804",
+    "https://www.myhome.ie/residential/brochure/31-st-edmunds-park-lucan-co-dublin/4999686",
+    "https://www.myhome.ie/residential/brochure/58-castlegate-grove-adamstown-lucan-co-dublin/4968264",
+    "https://www.myhome.ie/residential/brochure/holyvalley-blessington-wicklow/5025309",
+    "https://www.myhome.ie/residential/brochure/11-glenbrook-park-delgany-co-wicklow/5007758",
+    "https://www.myhome.ie/residential/brochure/shanooan-2-burnaby-manor-hillside-road-greystones-wicklow/5018769",
+    "https://www.myhome.ie/residential/brochure/tara-cottage-trafalgar-road-greystones-co-wicklow/5011014",
+    "https://www.myhome.ie/residential/brochure/moorlands-whitshed-road-greystones-co-wicklow/5014316",
+    "https://www.myhome.ie/residential/brochure/ocean-view-blacklion-greystones-co-wicklow/4979742",
+    "https://www.myhome.ie/residential/brochure/12-elm-lawn-portlaoise-portlaoise-co-laois/5025308",
+    "https://www.myhome.ie/residential/brochure/6-seville-place-dublin-1-co-dublin/5025307",
+    "https://www.myhome.ie/residential/brochure/257-bachelors-walk-north-city-centre-dublin-1/5024379",
+    "https://www.myhome.ie/residential/brochure/45-college-square-terenure-dublin-6w/5025306",
+    "https://www.myhome.ie/residential/brochure/c-10-77-acres-the-meadows-tullamore-offaly/5025305",
+    "https://www.myhome.ie/residential/brochure/32-brooklands-dublin-road-clane-county-kildare/5003423",
+    "https://www.myhome.ie/residential/brochure/1-victoria-road-clontarf-dublin-3/4908172"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=272",
+  "paginationLimited": false
+}

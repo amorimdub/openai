@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/mount-prospect-house-dollymount-dublin-3/6684990",
+  "fetchedAt": "2026-10-05T09:39:30.759Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/mount-prospect-house-dollymount-dublin-3/6684990",
+  "kind": "listing",
+  "responseSha256": "7edb331ab1bf3efc2de49ae0a6d63fb3c05146851abc645ecd28a1b0fdee209b",
+  "files": [
+    {
+      "path": "daft/01667-5334f9d4721a242e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f80a7efad1ae1f614c4aa2f9314f721d6bea9cc9ada285bd2c28ab2cd6216cd7",
+      "bytes": 48931
+    },
+    {
+      "path": "daft/01667-5334f9d4721a242e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "babddc032f4bbc48ac993c623b4e7cd6c478b6d86da391b1a86cb928e7011451",
+      "bytes": 8008
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

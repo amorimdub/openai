@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=49",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=49",
+  "fetchedAt": "2026-10-05T09:37:09.429Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e539c76da3371d129d0d969ff8c0dd8af04632d881582d998cefb2f7ab028308",
+  "files": [
+    {
+      "path": "myhome/01568-6083fc6598c8655a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=49\"].SearchResults",
+      "sha256": "8962cba02e16f462632f98cdf9daa63279116328efb368ef23458ccc3b5e0408",
+      "bytes": 101580
+    },
+    {
+      "path": "myhome/01568-6083fc6598c8655a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=49\"] (paging fields)",
+      "sha256": "560b302645a1f2ccb6655bf3b1d589726746717eee9d0c93f3f4ccd66223741b",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/64-academy-square-navan-meath/5031423",
+    "https://www.myhome.ie/residential/brochure/49-seven-oaks-drumcondra-dublin-9/5018615",
+    "https://www.myhome.ie/residential/brochure/11-joyce-road-plus-study-drumcondra-dublin-9/4998328",
+    "https://www.myhome.ie/residential/brochure/craigadoes-st-johnston-co-donegal/5031425",
+    "https://www.myhome.ie/residential/brochure/43-walnut-rise-courtlands-griffith-avenue-drumcondra-dublin-9/5025139",
+    "https://www.myhome.ie/residential/brochure/hawthorn-avenue-castlebar-co-mayo/5031424",
+    "https://www.myhome.ie/residential/brochure/40-silverdale-road-ballinlough-cork/5031299",
+    "https://www.myhome.ie/residential/brochure/5-strangford-road-east-east-wall-dublin-3/5025996",
+    "https://www.myhome.ie/residential/brochure/18-cypress-avenue-brookwood-rathfarnham-dublin-16/5031419",
+    "https://www.myhome.ie/residential/brochure/apartment-121-the-cedars-carrington-northwood-santry-dublin-9/5031396",
+    "https://www.myhome.ie/residential/brochure/70-drisin-ballymoneen-road-knocknacarra-galway/4989248",
+    "https://www.myhome.ie/residential/brochure/apartment-23-woodlands-grove-blackrock-co-dublin-blackrock-dublin/5030304",
+    "https://www.myhome.ie/residential/brochure/56-dorney-court-shankill-dublin-18/5031417",
+    "https://www.myhome.ie/residential/brochure/9-the-scallops-ballybunion-kerry/5030199",
+    "https://www.myhome.ie/residential/brochure/10-frederick-avenue-crawford-gate-blackrock-cork/5031410",
+    "https://www.myhome.ie/residential/brochure/3-bedroom-duplex-the-dunmore-collection-south-coast-shankill-co-dublin/5031416",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-duplex-the-dunmore-collection-south-coast-shankill-co-dublin/5031415",
+    "https://www.myhome.ie/residential/brochure/the-apartments-collection-south-coast-shankill-co-dublin/5031414",
+    "https://www.myhome.ie/residential/brochure/652-saint-patrick-s-park-celbridge-co-kildare/5025135",
+    "https://www.myhome.ie/residential/brochure/helvic-farranlea-park-model-farm-road-cork/5031413"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=50",
+  "paginationLimited": false
+}

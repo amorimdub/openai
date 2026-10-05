@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=240",
+  "fetchedAt": "2026-10-05T12:18:20.214Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=240",
+  "kind": "search",
+  "responseSha256": "424a966fca07cb94912bcc3b96b23c8d1e12b5cef5a3a8a95ac5464ff2681f7d",
+  "files": [
+    {
+      "path": "myhome/05475-36dd5584471ee3fe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=240\"].SearchResults",
+      "sha256": "e5d5c3969c1ea6f0b01843e9be37c8f07486a84c81b40640ff003169f8362bce",
+      "bytes": 114164
+    },
+    {
+      "path": "myhome/05475-36dd5584471ee3fe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=240\"] (paging fields)",
+      "sha256": "b5bcd722553b394c08991b281e91d0512252550b643bb0d1fe8e9aabc68be524",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/28-the-oaks-ridgewood-swords-county-dublin/5010480",
+    "https://www.myhome.ie/residential/brochure/108-westpoint-avenue-donegal-co-donegal/5026421",
+    "https://www.myhome.ie/residential/brochure/29-patrick-street-portarlington-co-laois/5026420",
+    "https://www.myhome.ie/residential/brochure/fearaun-house-fearaun-suncroft-the-curragh-co-kildare/5026419",
+    "https://www.myhome.ie/residential/brochure/16-the-belfry-cockhill-cavan-co-cavan/5026418",
+    "https://www.myhome.ie/residential/brochure/knockbrack-athenry-co-galway/5024270",
+    "https://www.myhome.ie/residential/brochure/oldtown-tomhaggard-wexford/5026408",
+    "https://www.myhome.ie/residential/brochure/woodlands-letterkenny-co-donegal/5026415",
+    "https://www.myhome.ie/residential/brochure/site-c-seafield-youghal-co-cork/5026412",
+    "https://www.myhome.ie/residential/brochure/162-hampton-cove-skerries-road-balbriggan-county-dublin/5026410",
+    "https://www.myhome.ie/residential/brochure/sonas-snipe-avenue-newcastle-galway-county-galway/5026409",
+    "https://www.myhome.ie/residential/brochure/14-grosvenor-place-rathmines-dublin-6/5026407",
+    "https://www.myhome.ie/residential/brochure/apartment-38-block-d-boden-heath-ballyboden-rathfarnham-dublin-16/5026388",
+    "https://www.myhome.ie/residential/brochure/34-drummagh-summerhill-carrick-on-shannon-leitrim/5026405",
+    "https://www.myhome.ie/residential/brochure/genista-cottage-drishoge-ballyboughal-co-dublin/5026402",
+    "https://www.myhome.ie/residential/brochure/63-congress-avenue-drogheda-louth/5026397",
+    "https://www.myhome.ie/residential/brochure/14-brookfield-court-dartry-dublin-6/5006757",
+    "https://www.myhome.ie/residential/brochure/1-ferndale-ballinacurra-road-limerick/5026394",
+    "https://www.myhome.ie/residential/brochure/37-mckee-avenue-finglas-dublin-11/5026386",
+    "https://www.myhome.ie/residential/brochure/ballybane-east-ballydehob-co-cork/5026384"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=241",
+  "paginationLimited": false
+}

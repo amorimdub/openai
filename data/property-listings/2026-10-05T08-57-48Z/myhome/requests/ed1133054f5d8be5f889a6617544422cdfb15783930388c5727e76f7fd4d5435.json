@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=4",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=4",
+  "fetchedAt": "2026-10-05T09:00:15.353Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "ac956a3306f89cc7838bac59a5837bc367bb2e6a8d813ea6a1a85bde6235821c",
+  "files": [
+    {
+      "path": "myhome/00099-ed1133054f5d8be5-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=4\"].SearchResults",
+      "sha256": "27e8af441d135358027b9465f0d819986b6ec2bb069efded7a0139be189c0a72",
+      "bytes": 84767
+    },
+    {
+      "path": "myhome/00099-ed1133054f5d8be5-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=4\"] (paging fields)",
+      "sha256": "d51cefaca5d25bf85b07aa48f3892b7a3ff6b2bad92aecfac8b9111d9f899932",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/parklands-northwood-santry-dublin-9-d09-kt26/5024071",
+    "https://www.myhome.ie/rentals/brochure/16c-cork-street-kinsale-cork-p17-d429/5026956",
+    "https://www.myhome.ie/rentals/brochure/2-coolmine-mews-coolmine-dublin-15/5025603",
+    "https://www.myhome.ie/rentals/brochure/33-mountjoy-square-apt-77-russell-house-mountjoy-square-dublin-1/5019908",
+    "https://www.myhome.ie/rentals/brochure/apartment-3-65-67-aungier-street-dublin-2-south-city-centre-dublin-2-d02pc95/5029550",
+    "https://www.myhome.ie/rentals/brochure/43-dun-emer-drive-lusk-co-dublin-lusk-north-county-dublin/5030691",
+    "https://www.myhome.ie/rentals/brochure/swift-readstown-trim-summerhill-meath-c15-ev57/5023282",
+    "https://www.myhome.ie/rentals/brochure/8-parkleigh-view-seven-mills-dublin-22-d22v26t/4971789",
+    "https://www.myhome.ie/rentals/brochure/glass-bottle-avenue-sandymount-dublin-4/4966595",
+    "https://www.myhome.ie/rentals/brochure/lime-house-glass-bottle-ave-dublin-4-d04-yrv1/4966585",
+    "https://www.myhome.ie/rentals/brochure/lime-house-glass-bottle-ave-dublin-4-d04-yrv1/4966581",
+    "https://www.myhome.ie/rentals/brochure/lime-house-glass-bottle-ave-dublin-4-d04-yrv1/4966526",
+    "https://www.myhome.ie/rentals/brochure/292-bachelors-walk-bachelors-walk-dublin-1-north-city-centre-dublin-1-d01f903/5032094",
+    "https://www.myhome.ie/rentals/brochure/mespil-estate-sussex-road-donnybrook-dublin-4/299887",
+    "https://www.myhome.ie/rentals/brochure/3-dunluce-road-clontarf-dublin-3/4960293",
+    "https://www.myhome.ie/rentals/brochure/linden-court-grove-ave-stillorgan-county-dublin/320316",
+    "https://www.myhome.ie/rentals/brochure/3-slaney-medical-centre-enniscorthy-co-wexford/5032088",
+    "https://www.myhome.ie/rentals/brochure/9-seabury-orchard-malahide-dublin/5027871",
+    "https://www.myhome.ie/rentals/brochure/32-the-meadows-grange-road-clonsilla-clonsilla-dublin-15-d15hc7h/5032077",
+    "https://www.myhome.ie/rentals/brochure/fortunes-lawn-citywest-dublin/5032074"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=5",
+  "paginationLimited": false
+}

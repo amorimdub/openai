@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/6-main-street-duncormick-co-wexford/6457136",
+  "fetchedAt": "2026-10-05T09:45:13.285Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/6-main-street-duncormick-co-wexford/6457136",
+  "kind": "listing",
+  "responseSha256": "f2b77aee09edb0649f01c6b167eafd91df1f8f00d7413a39aa451bc5a5f5fd54",
+  "files": [
+    {
+      "path": "daft/01895-8157c56d5904621c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8f62389dd5435c32106d9af3b5468c21bded4b5ac43438f2336ac8c300b011cb",
+      "bytes": 52048
+    },
+    {
+      "path": "daft/01895-8157c56d5904621c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "24070248d680c4286f91b836d04589f50641ea1d1c309d113dc94bd31115e7c8",
+      "bytes": 8123
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

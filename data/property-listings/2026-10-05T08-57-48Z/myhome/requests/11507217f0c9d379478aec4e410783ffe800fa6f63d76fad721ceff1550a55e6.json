@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=263",
+  "fetchedAt": "2026-10-05T12:30:22.041Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=263",
+  "kind": "search",
+  "responseSha256": "11729af41c9f9af969ffb3435ef6c6ce82c9f11fbe22410a136375f78df251ae",
+  "files": [
+    {
+      "path": "myhome/05955-11507217f0c9d379-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=263\"].SearchResults",
+      "sha256": "a7c593c32c8c5f9064dc5bc362616f530b24e9b5c7c6f8c3cff84306cd7d4a95",
+      "bytes": 115449
+    },
+    {
+      "path": "myhome/05955-11507217f0c9d379-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=263\"] (paging fields)",
+      "sha256": "7cf3b8829d83a16b8082b8a3e4515cffe7265b52ea6de973726b39b0590b4e12",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/407-river-oaks-ballisodare-sligo-sligo/5025656",
+    "https://www.myhome.ie/residential/brochure/hillview-house-greatwood-ardee-louth/5025650",
+    "https://www.myhome.ie/residential/brochure/12-william-street-kilkenny-co-kilkenny/5025651",
+    "https://www.myhome.ie/residential/brochure/138-custom-hall-gardiner-srteet-lower-dublin-1/4984970",
+    "https://www.myhome.ie/residential/brochure/1-clonskeagh-road-ranelagh-dublin-6/5025644",
+    "https://www.myhome.ie/residential/brochure/102-killeen-wood-oakpark-tralee-kerry/5025640",
+    "https://www.myhome.ie/residential/brochure/69-forest-hills-rathcoole-co-dublin/5025642",
+    "https://www.myhome.ie/residential/brochure/flo-oscars-cottage-1-back-lane-ramelton-co-donegal/5025637",
+    "https://www.myhome.ie/residential/brochure/8-liam-leech-terrace-patrick-street-drogheda-co-louth/5025636",
+    "https://www.myhome.ie/residential/brochure/2-chapel-avenue-irishtown-dublin-4/4992156",
+    "https://www.myhome.ie/residential/brochure/apartment-126-block-4-parkgate-place-dublin-8-dublin/5025632",
+    "https://www.myhome.ie/residential/brochure/drumminabo-westport-co-mayo/5025633",
+    "https://www.myhome.ie/residential/brochure/40-castlemoyne-balgriffin-dublin-13/5025614",
+    "https://www.myhome.ie/residential/brochure/the-bowen-macnebury-mews-cherrywood-dublin-18/5001481",
+    "https://www.myhome.ie/residential/brochure/the-joyce-macnebury-mews-cherrywood-dublin-18/5001480",
+    "https://www.myhome.ie/residential/brochure/keadue-burtonport-county-donegal/5025623",
+    "https://www.myhome.ie/residential/brochure/42-season-meadows-newtownmountkennedy-wicklow/4970559",
+    "https://www.myhome.ie/residential/brochure/26-cuil-duin-green-citywest-dublin-24/5025618",
+    "https://www.myhome.ie/residential/brochure/38-glenarriff-road-navan-road-dublin-7/5025617",
+    "https://www.myhome.ie/residential/brochure/melfort-19-shrewsbury-road-ballsbridge-dublin-4/4987992"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=264",
+  "paginationLimited": false
+}

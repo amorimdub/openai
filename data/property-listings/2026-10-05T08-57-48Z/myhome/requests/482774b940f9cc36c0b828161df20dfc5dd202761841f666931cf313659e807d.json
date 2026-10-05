@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=375",
+  "fetchedAt": "2026-10-05T13:27:46.670Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=375",
+  "kind": "search",
+  "responseSha256": "b7d23f0c6c894eb11098305010216309f0811f790f20715d693d2aa60c29754f",
+  "files": [
+    {
+      "path": "myhome/08242-482774b940f9cc36-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=375\"].SearchResults",
+      "sha256": "e99e7a94c6c990ef0f6be063dfd7ef570d16e13f5ad2f89400d5903e938e5313",
+      "bytes": 113657
+    },
+    {
+      "path": "myhome/08242-482774b940f9cc36-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=375\"] (paging fields)",
+      "sha256": "efd92764c3605d2415abf1974c371231a94e6f6e258921cd7dcab6f2ab911638",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-ferns-2-barnabawn-road-glenealy-co-wicklow/4991541",
+    "https://www.myhome.ie/residential/brochure/apartment-62-whitehall-square-whitehall-road-west-dublin-12-dublin/5018253",
+    "https://www.myhome.ie/residential/brochure/dunkerron-house-kenmare-co-kerry/5018258",
+    "https://www.myhome.ie/residential/brochure/ballynoe-cobh-cork/5018256",
+    "https://www.myhome.ie/residential/brochure/26-portersgate-way-clonsilla-dublin-15/5018239",
+    "https://www.myhome.ie/residential/brochure/5-rockfield-park-brittas-bay-wicklow/5018246",
+    "https://www.myhome.ie/residential/brochure/roseleigh-drumheel-virginia-co-cavan/4986375",
+    "https://www.myhome.ie/residential/brochure/askinamoe-ferns-wexford/5018241",
+    "https://www.myhome.ie/residential/brochure/apartment-5-the-crescent-killegland-street-ashbourne-co-meath/5018249",
+    "https://www.myhome.ie/residential/brochure/17-calderwood-court-donnybrook-cork/5018242",
+    "https://www.myhome.ie/residential/brochure/ballydonoghue-lisselton-co-kerry/4950895",
+    "https://www.myhome.ie/residential/brochure/27-shanid-road-harold-s-cross-dublin-6w/5000390",
+    "https://www.myhome.ie/residential/brochure/32-kirvin-hill-rathnew-wicklow/5018234",
+    "https://www.myhome.ie/residential/brochure/33a-b-thar-brugha-drogheda-louth/5017772",
+    "https://www.myhome.ie/residential/brochure/ballyhomock-adare-limerick/5018236",
+    "https://www.myhome.ie/residential/brochure/mill-street-bruree-county-limerick/5018237",
+    "https://www.myhome.ie/residential/brochure/2-pier-road-schull-west-cork/5017719",
+    "https://www.myhome.ie/residential/brochure/7-church-avenue-east-wall-dublin-3/5009583",
+    "https://www.myhome.ie/residential/brochure/49-high-street-wexford-town-wexford/5018235",
+    "https://www.myhome.ie/residential/brochure/43-gort-na-bro-western-distributor-road-knocknacarra-galway/5018231"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=376",
+  "paginationLimited": false
+}

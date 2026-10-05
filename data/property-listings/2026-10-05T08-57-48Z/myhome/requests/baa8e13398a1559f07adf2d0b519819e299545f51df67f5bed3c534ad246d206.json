@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=160",
+  "fetchedAt": "2026-10-05T11:36:56.399Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=160",
+  "kind": "search",
+  "responseSha256": "5a7b8f06002cf9e615a2ec474d899e047c9239fd5a07491c289276c93bd80eaa",
+  "files": [
+    {
+      "path": "myhome/03823-baa8e13398a1559f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=160\"].SearchResults",
+      "sha256": "eca5540d9c58e221a8e1f005da733b7a9a320a5fd6802704e7c7ae1c69eb46ca",
+      "bytes": 129808
+    },
+    {
+      "path": "myhome/03823-baa8e13398a1559f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=160\"] (paging fields)",
+      "sha256": "4e70aaa44e610de1c439d0a4bde025351967001527e02f1ab1ec4a71054dff56",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/55b-smithfield-market-smithfield-dublin-7/5028720",
+    "https://www.myhome.ie/residential/brochure/24-adare-park-coolock-dublin-17/5028719",
+    "https://www.myhome.ie/residential/brochure/casa-mia-102-avondale-road-killiney-county-dublin/5028716",
+    "https://www.myhome.ie/residential/brochure/102-drumfinn-road-ballyfermot-dublin-10/5028714",
+    "https://www.myhome.ie/residential/brochure/4-mountain-view-sheen-falls-country-club-kenmare-kerry/5028708",
+    "https://www.myhome.ie/residential/brochure/66-lymewood-mews-northwood-santry-dublin-9/5027086",
+    "https://www.myhome.ie/residential/brochure/24-tradaree-court-shannon-clare/5028709",
+    "https://www.myhome.ie/residential/brochure/53-church-hill-bunratty-clare/5028701",
+    "https://www.myhome.ie/residential/brochure/60-hunter-s-hall-hunter-s-place-ballycullen-dublin-24/5028707",
+    "https://www.myhome.ie/residential/brochure/104-wylies-hill-ballybay-monaghan/5019313",
+    "https://www.myhome.ie/residential/brochure/station-road-ballyduff-waterford/5028693",
+    "https://www.myhome.ie/residential/brochure/15-kellys-bay-rocks-skerries-co-dublin/5028703",
+    "https://www.myhome.ie/residential/brochure/2-beverly-ovens-co-cork/5028702",
+    "https://www.myhome.ie/residential/brochure/44-beresford-avenue-donabate-county-dublin/5021861",
+    "https://www.myhome.ie/residential/brochure/1-mitchell-terrace-dungarvan-waterford/5028691",
+    "https://www.myhome.ie/residential/brochure/3-grange-oaks-avenue-kilternan-dublin-18/4999054",
+    "https://www.myhome.ie/residential/brochure/55-heathfield-kinnegad-co-westmeath-mullingar/5028699",
+    "https://www.myhome.ie/residential/brochure/62-chestnut-drive-mullingar-co-westmeath/5028698",
+    "https://www.myhome.ie/residential/brochure/60-ardilaun-heights-mullingar-co-westmeath/5028697",
+    "https://www.myhome.ie/residential/brochure/31-grange-village-mullingar-co-westmeath/5028696"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=161",
+  "paginationLimited": false
+}

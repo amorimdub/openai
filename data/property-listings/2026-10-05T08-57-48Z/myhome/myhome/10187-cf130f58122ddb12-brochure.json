@@ -1,0 +1,916 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "3 ellensborough lodge kiltipper   dublin 24",
+    "GroupId": 5770,
+    "Address": "3 Ellensborough Lodge",
+    "SoldPrice": 360000,
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/cad3c90c-70d4-468f-90d7-f7c027c46bcd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5d425381-e97f-4ad4-b6aa-7a0a409b3f80_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/476b4df3-116b-4453-893f-6dca092ccf65_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/84a2bc05-e432-4333-af03-f19fd885894c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8ad9a210-8898-4f95-ae5e-1bfc32aa9d23_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/e62b1743-1bae-430a-8c70-e8bb99b2bed9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/3d4cd492-748a-4d54-b3ea-89dcf923876a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5a988106-140b-4178-9fae-b318cdd38d35_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f8da93dd-75da-4ee2-bb69-de66be47df55_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6f5afdb4-ca8f-411e-9248-1f2fb2c8b1b7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a46b3bc7-bc98-4406-828b-6e8033867457_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/9c52d233-1906-44f9-99ff-0cd397977588_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/d1f91765-66c0-4e2a-9a32-f06c509fe8e5_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/7f00ddda-64ed-46b4-9588-2fbc7ef15b51_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/93a0259b-386c-4923-b153-dd448c9e013d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/446584c7-1c42-4840-a722-ea4b8be3650f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6330934c-aafd-426d-aeb6-51ca52c2a688_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/62053bc1-45bd-495c-8166-b0c43657f1af_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/595791ee-f393-48d6-8eac-826773e91c33_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a27e5429-588d-4381-99bb-3642b50e7913_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f814c7c3-9f17-4bc2-97dc-4919378c2a73_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8d4f0a0f-6054-4077-ad08-bae0afad2f00_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 69,
+    "MaxSize": 69,
+    "BerRating": "C3",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 13,
+        "Name": "Alarm",
+        "CreatedOn": "2018-03-20T10:21:38.8030000+00:00",
+        "IconName": "myh-icon-house-alarm",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€285,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "69",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5001627,
+        "DisplayAddress": "3 Ellensborough Lodge, Kiltipper,   Dublin 24",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "caf89ba8-491b-49c9-98ba-5b17e81d3322",
+              "Filename": "46cd7987-6b1d-43cc-b83c-dab2b2602813.jpg",
+              "Caption": "3 Ellensborough Lodge (22).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ea301ce4-5177-4970-9bf2-f7d9c706043d",
+              "Filename": "cad3c90c-70d4-468f-90d7-f7c027c46bcd.jpg",
+              "Caption": "3 Ellensborough Lodge (21).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a57c275e-8015-4102-a063-6c478a14f4a6",
+              "Filename": "5d425381-e97f-4ad4-b6aa-7a0a409b3f80.jpg",
+              "Caption": "3 Ellensborough Lodge (19).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ece3d40e-6a10-4add-8eb9-8716ca83b4aa",
+              "Filename": "476b4df3-116b-4453-893f-6dca092ccf65.jpg",
+              "Caption": "3 Ellensborough Lodge (20).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6be06caa-9ebb-4251-bc27-b24f4e5dfa23",
+              "Filename": "84a2bc05-e432-4333-af03-f19fd885894c.jpg",
+              "Caption": "3 Ellensborough Lodge (18).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6cfdd261-7ccc-494f-9981-d4e25dc4babe",
+              "Filename": "8ad9a210-8898-4f95-ae5e-1bfc32aa9d23.jpg",
+              "Caption": "3 Ellensborough Lodge (16).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eb348dac-e2f4-43cd-8200-9b64bcb5ce79",
+              "Filename": "e62b1743-1bae-430a-8c70-e8bb99b2bed9.jpg",
+              "Caption": "3 Ellensborough Lodge (15).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8b1e0ad6-90f7-4451-8ba8-a6304da6b9fe",
+              "Filename": "3d4cd492-748a-4d54-b3ea-89dcf923876a.jpg",
+              "Caption": "3 Ellensborough Lodge (17).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0b927c9f-e19b-4132-a7de-0f415745ee2b",
+              "Filename": "5a988106-140b-4178-9fae-b318cdd38d35.jpg",
+              "Caption": "3 Ellensborough Lodge (10).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "659739a0-8a6e-4156-af38-d8afe9cfde48",
+              "Filename": "f8da93dd-75da-4ee2-bb69-de66be47df55.jpg",
+              "Caption": "3 Ellensborough Lodge (11).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "baa54121-6b33-4233-91e2-cda6c0b6a9a5",
+              "Filename": "6f5afdb4-ca8f-411e-9248-1f2fb2c8b1b7.jpg",
+              "Caption": "3 Ellensborough Lodge (7).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ad171bb8-dcb8-4063-9053-e4a127cea72f",
+              "Filename": "a46b3bc7-bc98-4406-828b-6e8033867457.jpg",
+              "Caption": "3 Ellensborough Lodge (8).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "88ab0675-e0fb-49d3-82f7-38790a282100",
+              "Filename": "9c52d233-1906-44f9-99ff-0cd397977588.jpg",
+              "Caption": "3 Ellensborough Lodge (9).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "34df0803-feb7-44f7-8acd-ed4f0f146c4b",
+              "Filename": "d1f91765-66c0-4e2a-9a32-f06c509fe8e5.jpg",
+              "Caption": "3 Ellensborough Lodge (6).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a41db5b1-5916-4ef4-9204-589363d83ede",
+              "Filename": "7f00ddda-64ed-46b4-9588-2fbc7ef15b51.jpg",
+              "Caption": "3 Ellensborough Lodge (3).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bafc7e31-3763-4733-81e7-88d52d2b01da",
+              "Filename": "93a0259b-386c-4923-b153-dd448c9e013d.jpg",
+              "Caption": "3 Ellensborough Lodge (5).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "73647aa2-ef25-4abe-9d66-ae07455028c9",
+              "Filename": "446584c7-1c42-4840-a722-ea4b8be3650f.jpg",
+              "Caption": "3 Ellensborough Lodge (4).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3108c4e3-dcf8-422a-a071-6782d8c42502",
+              "Filename": "6330934c-aafd-426d-aeb6-51ca52c2a688.jpg",
+              "Caption": "3 Ellensborough Lodge (2).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa0de4a0-3d84-4a2b-9608-c8b1e752c709",
+              "Filename": "62053bc1-45bd-495c-8166-b0c43657f1af.jpg",
+              "Caption": "3 Ellensborough Lodge (12).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4e33284b-2dfb-48c5-8424-22a66c8c8ed8",
+              "Filename": "595791ee-f393-48d6-8eac-826773e91c33.jpg",
+              "Caption": "3 Ellensborough Lodge (13).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "01c8ca6c-8a27-470e-8061-d285a757824f",
+              "Filename": "a27e5429-588d-4381-99bb-3642b50e7913.jpg",
+              "Caption": "3 Ellensborough Lodge (23).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "abe4d1fa-583f-476d-a61c-0b78f987711a",
+              "Filename": "f814c7c3-9f17-4bc2-97dc-4919378c2a73.jpg",
+              "Caption": "3 Ellensborough Lodge (24).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "948274c7-d4f4-45ec-b63c-a33ad162d6c7",
+              "Filename": "8d4f0a0f-6054-4077-ad08-bae0afad2f00.jpg",
+              "Caption": "3 Ellensborough Lodge (1).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "ca11098e3a394f7982b69c3753c9de98",
+          "OriginalImagesSuffix": "ca110",
+          "MainPhoto": {
+            "Identifier": "caf89ba8-491b-49c9-98ba-5b17e81d3322",
+            "Filename": "46cd7987-6b1d-43cc-b83c-dab2b2602813.jpg",
+            "Caption": "3 Ellensborough Lodge (22).jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€395,000",
+        "PropertyClassId": 1,
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5001703,
+        "DisplayAddress": "5 Ellensborough Grange, Dublin 24, Kiltipper, Dublin 24,, Kiltipper, Dublin 24",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "e03f91ec-043d-407b-baaa-27771fca1e69",
+              "Filename": "6405ec95-9b14-4b36-aa35-058415eca468.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_194956.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "283cd5a2-3cb4-4df0-9cd2-d93dd67d35a2",
+              "Filename": "8d62fc34-6105-4d9a-8ac6-4843093cd95c.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_194906.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "29da8cd0-a23d-4486-b22b-c9671b378bac",
+              "Filename": "e07c761c-d57a-4d9f-a0d5-970e50b78a8e.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_194932.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "55fc4506-c7cb-4073-9fff-3466e5e9e1ae",
+              "Filename": "73f70579-aac7-403d-aba1-c6ade264fc6c.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195015.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b789bd91-5f8f-4032-88a0-a6a3acb55699",
+              "Filename": "41f977ff-cb98-4979-8ac0-45bd84bde789.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195034.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1ad949bb-a276-41c1-a96b-61d6133affc8",
+              "Filename": "2a1dd765-20be-4a5e-b001-a2eee086a147.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195329.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5323fe73-217c-4c21-83dc-2c2db5196ea2",
+              "Filename": "040394aa-2eb2-4dc6-918d-172b86dc0518.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195107.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9f9f9114-f834-4cd6-bcaf-95adfcfb165a",
+              "Filename": "a3cee770-b50a-418e-ad87-8742fb019bae.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195134.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "660aaf4c-c80e-457d-a3a2-aae4ea80c584",
+              "Filename": "75be6921-3ffe-4a0e-9b8d-78de75b3060c.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195156.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0e81fff7-a514-44a9-8ae7-3cd65e85f79f",
+              "Filename": "df76db67-bf2b-481a-8bea-891b1224b9ab.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195211.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "aa2e9ed1-7ddf-4c88-8920-3d0b76f08d1f",
+              "Filename": "a569aa8c-079f-48c2-9139-fe0a48713eff.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195237.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d3e0cf5f-60d2-4439-b550-e000c4e31e8a",
+              "Filename": "35bee97b-ec2b-42f0-bd83-c8dd3adff3d8.jpg",
+              "Caption": "5-Ellensborough-Grange-05202026_195302.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4e5368ee-12c6-4dc3-bf0a-9b3748b73c72",
+              "Filename": "02d746cd-42ce-4a6e-a40a-e94ab7dd705c.jpg",
+              "Caption": "5 Ellensborough Grange, Dublin 24  - PHOTO - Front",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0446ea69-3990-4911-b6d7-b18bc1e874a8",
+              "Filename": "51cef9f9-fce0-4b5a-a282-be58bb4a89fb.jpg",
+              "Caption": "5 Ellensborough Grange, Dublin 24  - PHOTO - Front",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e05aa123-10e5-4957-b243-cf04cbbaab53",
+              "Filename": "95106866-ced1-4ee2-a6fa-65a7027c41ab.jpg",
+              "Caption": "5 Ellensborough Grange, Dublin 24  - PHOTO - Back ",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "82ada02e-a881-4eef-8655-b8ca9fded42f",
+              "Filename": "0f1f2560-cc76-40ca-b36b-3b248f44e336.jpg",
+              "Caption": "5 Ellensborough Grange, Dublin 24  - PHOTO - Back ",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8aae21f1-163e-4d2c-bef1-913d6d29d3df",
+              "Filename": "5d2e577c-35c8-4847-bf13-4312a55e663e.jpg",
+              "Caption": "5 Ellensborough Grange, Dublin 24  - PHOTO - Back ",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ca152f14-7f60-4929-8889-26f468fd4cbb",
+              "Filename": "564868c7-fdfe-499b-bca9-5add2896cab7.jpg",
+              "Caption": "5 Ellensborough Grange, Dublin 24  - PHOTO - Back ",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "08a03c3f-702f-4b82-aa13-54ac59711363",
+              "Filename": "https://my.matterport.com/show/?m=LnnUmnE4e7E",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            },
+            {
+              "Identifier": "08854496-c21f-464b-8fb7-06875a0a4ef1",
+              "Filename": "https://www.youtube.com/embed/KKOHAUL1j2Q",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            },
+            {
+              "Identifier": "d873b78b-ce34-4426-873e-140baf09543d",
+              "Filename": "650e971c-9683-4c22-8d09-f93f84c9469e.jpg",
+              "Caption": "5EllensboroughGrange_c5hxnn618gc22zrey53cnqxwc_pag",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "f9d92ad615754d8aa424e1bcf2d249f5",
+          "OriginalImagesSuffix": "f9d92",
+          "MainPhoto": {
+            "Identifier": "e03f91ec-043d-407b-baaa-27771fca1e69",
+            "Filename": "6405ec95-9b14-4b36-aa35-058415eca468.jpg",
+            "Caption": "5-Ellensborough-Grange-05202026_194956.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/7/5001703/6405ec95-9b14-4b36-aa35-058415eca468_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "BROE auctioneers is delighted to present this well-maintained two-bedroom house to the market. The property is in good condition throughout and boasts bright, spacious rooms. The accommodation includes an entrance hall, a large lounge, and a fully fitted kitchen/dining area with patio doors leading to the low-maintenance private courtyard. Upstairs, there are two generously sized bedrooms, master ensuite and each bedroom has fitted carpet and fitted wardrobes, along with a main family bathroom. Ellensborough has always been proven very popular location for purchasers. It is enviably positioned within easy reach of all essential amenities, including primary and secondary schools, leisure and sports facilities, convenience stores. In terms of transport, numerous bus routes are available, and the M50 Motorway is just minutes away by car, providing easy access to all parts of the country. 3 Ellensborough Lodge represents a fantastic opportunity for first-time buyers looking to enter the property market or couples looking to downsize. \r\n\r\nFor more information or to register your interest, please contact Shauna O'Brien at BROE auctioneers today."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Entrance Hall                \t    1.63m x 1.55m\tBright entrance hallway to include tiled flooring and \r\nalarm panel. \r\n\r\n\t\r\nLounge                                  5.47m x 3.93m\tSpacious lounge area to include carpet\r\n\t\t\t\t\t\t\tflooring, TV point. Double doors to……\r\n                                          \r\n\r\nKitchen/dining room            3.53m x 3.90m\tThere is a great range of floor and eye-level units, \r\nand the area features tiled flooring with patio doors leading to the courtyard.  \r\n\r\nStorage \t\t\t     2.14m x 0.78\tStorage located under the stairs.\r\n\r\n\r\n(1) Bedroom\t\t\t     3.92m x 2.68m   To include fitted wardrobes and carpet flooring. \r\n\r\n\r\nEn suite \t\t\t     1.38m x 1.81m \tParty tiled to include WHB, WC and corner shower. \r\n\r\n\r\n(2) Bedroom\t\t\t    3.92m x 2.68m     To include fitted wardrobes and carpet flooring. \r\n\r\n\r\n\r\nBathroom \t   \t\t   2.13m x 1.66m     Main bathroom with partly fully tiled walls, WHC, W.C\r\n \t\t\t\t\t\t          and bath. \r\n\r\n\r\nPatio \t\t\t\t4.37m x 4.12m \tA low-maintenance private patio area that faces west.\r\n\r\n\r\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.\r\n\r\nPlease note any information, statement, description, quantity or measurement so given or contained in any such sales particulars, webpage, brochure, catalogue, email, letter, written valuations or hand out issued by or on behalf of BROE auctioneers are for illustration purposes only and are not to be taken as matters of fact. Any mistake, omission, inaccuracy or mis description given orally or contained in any sales particulars, webpage, brochure, catalogue, email, letter, written valuation or hand out issues by BROE auctioneers. Agents shall not give rise to any right of action, claim, entitlement or compensation against BROE auctioneers. Intending purchasers must satisfy themselves by carrying out their own independent due diligence, inspections or otherwise as to the correctness of any and all the information, statements, descriptions, quantity or measurements contained in any such sales particulars, webpage, brochure, catalogue, email, letter, written valuation or hand out issued by BROE auctioneers. The services, systems and appliances shown have not been tested and no warranty is made or given by BROE auctioneers as to their operability or efficiency."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "•\tGas boiler. \r\n•\tBER C3\r\n•\tDouble Glazed windows throughout. \r\n•\tc.69 mtrs Sq.\r\n•\tLow maintenance west facing rear garden. \r\n•\tNo onward chain. \r\n•\tManagement fees €925.35 per annum. \r\n•\tAmple parking.\r\n•\tAlarmed."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C3"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Contact Shauna O'Brien at BROE auctioneers to arrange a viewing today.\r\n\r\nPlease note all appointments are strictly by appointment only.\r\n\r\nContact details, shauna@broe.ie or 01 459 4433 / 01 566 6680"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 1474,
+    "MinEnergyRating": 70,
+    "MaxEnergyRating": 70,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-05-22T11:43:46.5030000+01:00",
+    "ModifiedOnDate": "2026-07-02T14:51:48.4470000+01:00",
+    "IsPremiumAd": false,
+    "InstructedOn": "2026-05-22T11:48:04.2100000+01:00",
+    "ActivatedOn": "2026-06-15T16:21:09.1600000+01:00",
+    "RefreshedOn": "2026-06-15T16:21:09.1600000+01:00",
+    "EstimatedClosedOn": "2026-09-02T00:00:00.0000000+01:00",
+    "ValuedOn": "2026-05-22T11:44:46.6670000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C3.png",
+    "IsTransact": false,
+    "PriceAsString": "€285,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5001627,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 69,
+    "DisplayAddress": "3 Ellensborough Lodge, Kiltipper,   Dublin 24",
+    "Eircode": "D24RPY1",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Terraced House",
+    "PropertyTypeId": 37,
+    "RegionId": 1462,
+    "RegionName": "Dublin 24",
+    "LocalityId": 1322,
+    "LocalityName": "Kiltipper",
+    "Price": {
+      "MinPrice": 285000,
+      "MaxPrice": 285000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/46cd7987-6b1d-43cc-b83c-dab2b2602813_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/cad3c90c-70d4-468f-90d7-f7c027c46bcd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/cad3c90c-70d4-468f-90d7-f7c027c46bcd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/cad3c90c-70d4-468f-90d7-f7c027c46bcd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5d425381-e97f-4ad4-b6aa-7a0a409b3f80_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5d425381-e97f-4ad4-b6aa-7a0a409b3f80_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5d425381-e97f-4ad4-b6aa-7a0a409b3f80_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/476b4df3-116b-4453-893f-6dca092ccf65_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/476b4df3-116b-4453-893f-6dca092ccf65_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/476b4df3-116b-4453-893f-6dca092ccf65_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/84a2bc05-e432-4333-af03-f19fd885894c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/84a2bc05-e432-4333-af03-f19fd885894c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/84a2bc05-e432-4333-af03-f19fd885894c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8ad9a210-8898-4f95-ae5e-1bfc32aa9d23_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8ad9a210-8898-4f95-ae5e-1bfc32aa9d23_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8ad9a210-8898-4f95-ae5e-1bfc32aa9d23_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/e62b1743-1bae-430a-8c70-e8bb99b2bed9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/e62b1743-1bae-430a-8c70-e8bb99b2bed9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/e62b1743-1bae-430a-8c70-e8bb99b2bed9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/3d4cd492-748a-4d54-b3ea-89dcf923876a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/3d4cd492-748a-4d54-b3ea-89dcf923876a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/3d4cd492-748a-4d54-b3ea-89dcf923876a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5a988106-140b-4178-9fae-b318cdd38d35_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5a988106-140b-4178-9fae-b318cdd38d35_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/5a988106-140b-4178-9fae-b318cdd38d35_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f8da93dd-75da-4ee2-bb69-de66be47df55_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f8da93dd-75da-4ee2-bb69-de66be47df55_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f8da93dd-75da-4ee2-bb69-de66be47df55_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6f5afdb4-ca8f-411e-9248-1f2fb2c8b1b7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6f5afdb4-ca8f-411e-9248-1f2fb2c8b1b7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6f5afdb4-ca8f-411e-9248-1f2fb2c8b1b7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a46b3bc7-bc98-4406-828b-6e8033867457_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a46b3bc7-bc98-4406-828b-6e8033867457_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a46b3bc7-bc98-4406-828b-6e8033867457_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/9c52d233-1906-44f9-99ff-0cd397977588_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/9c52d233-1906-44f9-99ff-0cd397977588_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/9c52d233-1906-44f9-99ff-0cd397977588_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/d1f91765-66c0-4e2a-9a32-f06c509fe8e5_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/d1f91765-66c0-4e2a-9a32-f06c509fe8e5_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/d1f91765-66c0-4e2a-9a32-f06c509fe8e5_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/7f00ddda-64ed-46b4-9588-2fbc7ef15b51_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/7f00ddda-64ed-46b4-9588-2fbc7ef15b51_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/7f00ddda-64ed-46b4-9588-2fbc7ef15b51_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/93a0259b-386c-4923-b153-dd448c9e013d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/93a0259b-386c-4923-b153-dd448c9e013d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/93a0259b-386c-4923-b153-dd448c9e013d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/446584c7-1c42-4840-a722-ea4b8be3650f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/446584c7-1c42-4840-a722-ea4b8be3650f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/446584c7-1c42-4840-a722-ea4b8be3650f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6330934c-aafd-426d-aeb6-51ca52c2a688_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6330934c-aafd-426d-aeb6-51ca52c2a688_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/6330934c-aafd-426d-aeb6-51ca52c2a688_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/62053bc1-45bd-495c-8166-b0c43657f1af_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/62053bc1-45bd-495c-8166-b0c43657f1af_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/62053bc1-45bd-495c-8166-b0c43657f1af_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/595791ee-f393-48d6-8eac-826773e91c33_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/595791ee-f393-48d6-8eac-826773e91c33_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/595791ee-f393-48d6-8eac-826773e91c33_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a27e5429-588d-4381-99bb-3642b50e7913_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a27e5429-588d-4381-99bb-3642b50e7913_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/a27e5429-588d-4381-99bb-3642b50e7913_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f814c7c3-9f17-4bc2-97dc-4919378c2a73_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f814c7c3-9f17-4bc2-97dc-4919378c2a73_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/f814c7c3-9f17-4bc2-97dc-4919378c2a73_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8d4f0a0f-6054-4077-ad08-bae0afad2f00_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8d4f0a0f-6054-4077-ad08-bae0afad2f00_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/2/6/5001627/8d4f0a0f-6054-4077-ad08-bae0afad2f00_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.369027961693645,
+      "latitude": 53.26880149692819
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 23,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5770,
+    "Name": "BROE Auctioneers",
+    "DisplayPhone": "01 459 4433",
+    "Email": "info@broe.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "broe-auctioneers",
+    "SeoName": "broe-auctioneers",
+    "Address": "Unit D Tower Commercial Centre, Monastery Road, Dublin 22",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/0/7/7/5770/logo.jpg",
+    "SalesLicense": "001123",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "kiltipper/1322",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5023024,
+      "PropertyClassId": 1,
+      "DisplayAddress": "110 Mourne Road, Drimnagh,   Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/2/0/5023024/168736e9-b51c-4095-9d2d-d73e15dbd518_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/110-mourne-road-drimnagh-dublin-12/5023024"
+    },
+    {
+      "PropertyId": 5019846,
+      "PropertyClassId": 1,
+      "DisplayAddress": "9 Sundale Parade, Tallaght,   Dublin 24",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/4/8/5019846/fb7b32d2-8c10-4269-a731-0d3dfb69e236_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/9-sundale-parade-tallaght-dublin-24/5019846"
+    },
+    {
+      "PropertyId": 5019812,
+      "PropertyClassId": 1,
+      "DisplayAddress": "22 Carrow Road, Drimnagh,   Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/1/8/5019812/655edf28-07a6-40b7-8527-80f2eb1dbac6_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/22-carrow-road-drimnagh-dublin-12/5019812"
+    },
+    {
+      "PropertyId": 5018545,
+      "PropertyClassId": 1,
+      "DisplayAddress": "2 Airfield Terrace, Donnybrook, Dublin 4",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/5/5018545/64c3fb99-b6bb-4cf7-8d4a-5da7f2513831_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/2-airfield-terrace-donnybrook-dublin-4/5018545"
+    },
+    {
+      "PropertyId": 5021248,
+      "PropertyClassId": 1,
+      "DisplayAddress": "63 James Connolly Park, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/4/2/5021248/0e753ab6-2e71-418c-ad68-f519d572c4fa_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/63-james-connolly-park-clondalkin-dublin-22/5021248"
+    },
+    {
+      "PropertyId": 5012086,
+      "PropertyClassId": 1,
+      "DisplayAddress": "2 Castle Drive, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/8/0/5012086/8ad64e9a-af90-4c7c-9b24-d477cc234fd1_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/2-castle-drive-clondalkin-dublin-22/5012086"
+    },
+    {
+      "PropertyId": 5024428,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 16, Whitehall Square, Walkinstown,   Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/2/4/5024428/94e40c1c-f777-4521-b522-7f8701040c72_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-16-whitehall-square-walkinstown-dublin-12/5024428"
+    },
+    {
+      "PropertyId": 4668564,
+      "PropertyClassId": 3,
+      "DisplayAddress": "McGoverns Corner, Cork Street, Dublin 8, Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/6/5/4668564/d7ca9972-63ee-45c9-98a2-9cab1d8de060_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/mcgoverns-corner-cork-street-dublin-8-dublin/4668564"
+    },
+    {
+      "PropertyId": 3574633,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Apt 87, Block J, Sandyford View, Sandyford, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/3/6/3574633/6e12e8a5-2c8f-4d40-bf37-51641c289e30_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/apt-87-block-j-sandyford-view-sandyford-dublin-18/3574633"
+    },
+    {
+      "PropertyId": 5023366,
+      "PropertyClassId": 3,
+      "DisplayAddress": "The Mews, Saint Johns Avenue, Clondalkin, Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/6/3/5023366/420ff49d-0825-4926-829d-20531f67abab_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/the-mews-saint-johns-avenue-clondalkin-dublin-22/5023366"
+    },
+    {
+      "PropertyId": 5018427,
+      "PropertyClassId": 1,
+      "DisplayAddress": "6 Castlegrange Green, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/2/4/5018427/3fda07c7-47ef-4474-a02f-966748632b68_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/6-castlegrange-green-clondalkin-dublin-22/5018427"
+    },
+    {
+      "PropertyId": 5021122,
+      "PropertyClassId": 1,
+      "DisplayAddress": "107 Saint John's Crescent, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/1/5021122/87c85a9c-5c1a-4fbd-b22c-a4fa43eda75e_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/107-saint-john-s-crescent-clondalkin-dublin-22/5021122"
+    },
+    {
+      "PropertyId": 5017517,
+      "PropertyClassId": 1,
+      "DisplayAddress": "148 Cherryfield Road, Walkinstown,   Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/1/5/5017517/0b742130-03e5-447d-8513-c2ac3f5e21de_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/148-cherryfield-road-walkinstown-dublin-12/5017517"
+    },
+    {
+      "PropertyId": 5010325,
+      "PropertyClassId": 1,
+      "DisplayAddress": "152 Saint James's Road, Greenhills, Dublin 12",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/2/3/5010325/790cfd98-8f57-431d-b2b6-7c35ecb8eb85_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/152-saint-james-s-road-greenhills-dublin-12/5010325"
+    },
+    {
+      "PropertyId": 5015757,
+      "PropertyClassId": 1,
+      "DisplayAddress": "12 Woodford Parade, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/5/7/5015757/e977aed4-650c-4b22-8f5c-b7fe0e2f8e8f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/12-woodford-parade-clondalkin-dublin-22/5015757"
+    },
+    {
+      "PropertyId": 5010924,
+      "PropertyClassId": 1,
+      "DisplayAddress": "22 Monksfield Lawn, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/2/9/5010924/6270d873-1e82-4521-a709-c491eb6305fb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/22-monksfield-lawn-clondalkin-dublin-22/5010924"
+    },
+    {
+      "PropertyId": 4998287,
+      "PropertyClassId": 1,
+      "DisplayAddress": "2 Monastery Heath Avenue, Clondalkin, Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/8/2/4998287/ad872cc1-0ac1-4a90-a4ba-d2ab08c97249_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/2-monastery-heath-avenue-clondalkin-dublin-22/4998287"
+    },
+    {
+      "PropertyId": 4998385,
+      "PropertyClassId": 1,
+      "DisplayAddress": "44 Boot Road, Clondalkin,   Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/3/4998385/a9f228ca-7322-4f98-aa78-f625ddda01d7_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/44-boot-road-clondalkin-dublin-22/4998385"
+    },
+    {
+      "PropertyId": 4987048,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 26, Smithfield Gate, Smithfield, Dublin 7",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/4/0/4987048/103517bd-a677-4da7-8eaa-1cd900c318f3_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-26-smithfield-gate-smithfield-dublin-7/4987048"
+    },
+    {
+      "PropertyId": 5008250,
+      "PropertyClassId": 3,
+      "DisplayAddress": "Woodford Drive, Clondalkin, Dublin 22",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/5/2/5008250/f2a0b5c8-213e-45a5-b848-d8a188b8cee8_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/rentals/brochure/woodford-drive-clondalkin-dublin-22/5008250"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/3-ellensborough-lodge-kiltipper-dublin-24/5001627",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 1474,
+    "Name": "Shauna  O'Brien M.I.P.A.V",
+    "JobTitle": "Sales and Lettings Negotiator",
+    "Phone": "01 459 4433 / 01 479 0503",
+    "Email": "shauna@broe.ie",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/4/7/4/1474/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5770,
+    "MYH_LocalityID": 1322,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1462,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "En-suite",
+      "Central Heating",
+      "Alarm"
+    ],
+    "MYH_PropertyFeatureIDListString": "En-suite,Central Heating,Alarm",
+    "MYH_MaxPrice": 300000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 70,
+    "MYH_MinPrice": 300000,
+    "MYH_MinSize": 69,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5001627,
+    "MYH_PropertyTypeID": 37
+  }
+}

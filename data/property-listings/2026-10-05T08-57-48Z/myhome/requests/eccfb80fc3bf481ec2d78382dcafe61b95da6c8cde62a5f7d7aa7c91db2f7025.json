@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=469",
+  "fetchedAt": "2026-10-05T14:16:14.211Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=469",
+  "kind": "search",
+  "responseSha256": "3e08ca918342b14134e8f161c8b7dc7349907b4f24a02e4a17c4407d31ca6eef",
+  "files": [
+    {
+      "path": "myhome/10176-eccfb80fc3bf481e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=469\"].SearchResults",
+      "sha256": "43d8df1f52c33aca21f4f5e59d35748f3650a93048f079859540c5242db181d1",
+      "bytes": 118975
+    },
+    {
+      "path": "myhome/10176-eccfb80fc3bf481e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=469\"] (paging fields)",
+      "sha256": "366cb1e57346b0f7b2d1fac1c7ea4331676edb77ae2dea0bbe7a3d0353295c3c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/82-lanesborough-mews-finglas-dublin-11/5006414",
+    "https://www.myhome.ie/residential/brochure/8-palmers-court-palmerstown-dublin-20/5006395",
+    "https://www.myhome.ie/residential/brochure/derryfunshion-cottage-derryfunshion-durrus-west-cork/4994277",
+    "https://www.myhome.ie/residential/brochure/28-nuns-island-galway/5006374",
+    "https://www.myhome.ie/residential/brochure/66-fitzwilliam-square-dublin-2/4915559",
+    "https://www.myhome.ie/residential/brochure/5-barnwell-lane-ongar-dublin-15/5006350",
+    "https://www.myhome.ie/residential/brochure/roseville-11-woodlands-heights-carrick-beg-carrick-on-suir/5006338",
+    "https://www.myhome.ie/residential/brochure/134-carrigweir-weir-road-tuam-co-galway/5006337",
+    "https://www.myhome.ie/residential/brochure/loyola-killure-ahascragh-ballinasloe-galway/5006331",
+    "https://www.myhome.ie/residential/brochure/lislevane-north-bandon-west-cork/5002296",
+    "https://www.myhome.ie/residential/brochure/1866-lourdesville-kildare-town-kildare/5006321",
+    "https://www.myhome.ie/residential/brochure/60a-lacken-view-naas-kildare/5006306",
+    "https://www.myhome.ie/residential/brochure/3-grantham-place-portobello-dublin-8/4979124",
+    "https://www.myhome.ie/residential/brochure/52-beechpark-court-coolock-dublin-5/5006316",
+    "https://www.myhome.ie/residential/brochure/apartment-43-143-merrion-road-herbert-avenue-ballsbridge-dublin-4/5006298",
+    "https://www.myhome.ie/residential/brochure/71-kill-avenue-dun-laoghaire-county-dublin/4996695",
+    "https://www.myhome.ie/residential/brochure/9-pococke-valley-kilkenny-kilkenny/5006275",
+    "https://www.myhome.ie/residential/brochure/rathmore-cottages-dundalk-louth/5006277",
+    "https://www.myhome.ie/residential/brochure/1-glenair-manor-delgany-co-wicklow/4921367",
+    "https://www.myhome.ie/residential/brochure/eastwood-and-4-bed-gate-lodge-on-c-1-26-acres-ballinteer-road-dundrum-dublin-16-dundrum-dublin-16/5006270"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=470",
+  "paginationLimited": false
+}

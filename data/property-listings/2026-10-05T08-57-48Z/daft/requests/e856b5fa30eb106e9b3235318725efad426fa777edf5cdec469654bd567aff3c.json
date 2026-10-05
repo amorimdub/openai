@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/type-b-kilcarbery-square-kilcarbery-grange-clondalkin-co-dublin/5343986",
+  "fetchedAt": "2026-10-05T09:05:14.630Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/type-b-kilcarbery-square-kilcarbery-grange-clondalkin-co-dublin/5343986",
+  "kind": "listing",
+  "responseSha256": "509a78789afd8cba44bf60102ee3dee8acf3c31baf894a6d89d44bc281eac5a1",
+  "files": [
+    {
+      "path": "daft/00298-e856b5fa30eb106e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "89bd0d76e92cad9998690abaff7e979adcb344495c679bdbbb9957d3df11a3c6",
+      "bytes": 43337
+    },
+    {
+      "path": "daft/00298-e856b5fa30eb106e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "67459abc5a4651d287d536bedf0fe72da004650ddf81d9a83d3bd6fd6143b49d",
+      "bytes": 8019
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

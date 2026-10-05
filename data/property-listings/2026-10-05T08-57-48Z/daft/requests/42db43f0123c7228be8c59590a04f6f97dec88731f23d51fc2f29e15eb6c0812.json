@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=30",
+  "fetchedAt": "2026-10-05T09:33:06.346Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=30",
+  "kind": "search",
+  "responseSha256": "13028ad829a3ca04a4b9d7889b5b6ddbf96b39ad872183b95d370c27298626ba",
+  "files": [
+    {
+      "path": "daft/01411-42db43f0123c7228-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "d6e2671910062d96e205c10d51f4c6ebaf4a11365bb39df0aa1bdcb5b3c95f3b",
+      "bytes": 274260
+    },
+    {
+      "path": "daft/01411-42db43f0123c7228-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01411-42db43f0123c7228-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "d9911215479fbe825f565413b6d78e88829a16a8b01942ce301fd743cc9a2eae",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/140-curlew-road-dublin-12-drimnagh-dublin-12/6685827",
+    "https://www.daft.ie/for-rent/15-millbrook-court-mount-brown-kilmainham-dublin-8/6685798",
+    "https://www.daft.ie/for-rent/block-5-new-priory-clongriffin-dublin-13/6685831",
+    "https://www.daft.ie/for-rent/athgoe-newcastle-co-dublin/6685840",
+    "https://www.daft.ie/for-rent/rathmines-road-lower-rathmines-dublin-6/6685833",
+    "https://www.daft.ie/for-rent/apartment-75-the-links-elmpark-merrion-dublin-4/6685801",
+    "https://www.daft.ie/for-rent/malin-hall-waterville-terrace-ballycoolin-dublin-15/6685776",
+    "https://www.daft.ie/for-rent/apartment-39-hill-of-down-house-ifsc-dublin-1/6685792",
+    "https://www.daft.ie/for-rent/town-centre-mitchelstown-mitchelstown-co-cork/6685778",
+    "https://www.daft.ie/for-rent/ardbeg-road-artane-dublin-5/6685786",
+    "https://www.daft.ie/for-rent/363-kildare-road-dublin-12-crumlin-dublin-12/6685690",
+    "https://www.daft.ie/for-rent/-cowper-downs-rathgar-dublin-6/6683900",
+    "https://www.daft.ie/for-rent/56-stratford-haven-dublin-6-rathgar-dublin-6/6682033",
+    "https://www.daft.ie/for-rent/mayeston-square-finglas-d11w598-dublin-11/6685745",
+    "https://www.daft.ie/for-rent/15-the-crescent-highfield-park-ballincollig-co-cork/6685740",
+    "https://www.daft.ie/for-rent/aughnaskerry-drive-cavan-cavan-co-cavan/6685733",
+    "https://www.daft.ie/for-rent/mcdara-road-shantalla-shantalla-co-galway/6685678",
+    "https://www.daft.ie/for-rent/apartment-13-killeen-hall-park-west-dublin-10/6685726",
+    "https://www.daft.ie/for-rent/apartment-2-24-25-esmonde-street-gorey-co-wexford/6685721",
+    "https://www.daft.ie/for-rent/riverbank-hall-addison-park-glasnevin-dublin-11/6685667"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=31",
+  "paginationLimited": false
+}

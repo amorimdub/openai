@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=48",
+  "fetchedAt": "2026-10-05T09:51:18.417Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=48",
+  "kind": "search",
+  "responseSha256": "260f2ae83541694e12913a8c15ce2cf683e6b76ccdbf43ba3f672f09a9675ff2",
+  "files": [
+    {
+      "path": "daft/02138-ad3c2f36d0868022-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "18707516a9f3cf7778c9a1bc0603130bda76a9e76add2ee8347f89f654888592",
+      "bytes": 291601
+    },
+    {
+      "path": "daft/02138-ad3c2f36d0868022-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02138-ad3c2f36d0868022-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "db7ee4b48058f3e4c9469eefcecbb67a30bc756f3459a082c86a29c61feb3c5c",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/36-waterside-park-waterside-malahide-co-dublin/6630716",
+    "https://www.daft.ie/for-sale/14-roebuck-park-roebuck-goatstown-dublin-14/6603598",
+    "https://www.daft.ie/for-sale/rahanine-rochfortbridge-rochfortbridge-co-westmeath/6642921",
+    "https://www.daft.ie/for-sale/11-walled-garden-duninga-goresbridge-co-kilkenny/6576338",
+    "https://www.daft.ie/for-sale/temair-house-tara-hill-gorey-co-wexford/6562440",
+    "https://www.daft.ie/for-sale/92-corrib-road-dublin-6w-kimmage-dublin-6w/6642566",
+    "https://www.daft.ie/for-sale/3-4-ardara-terrace-ennis-road-co-limerick/6147283",
+    "https://www.daft.ie/for-sale/39-si-l-na-habhann-mill-road-corbally-co-limerick/6504202",
+    "https://www.daft.ie/for-sale/currinara-foxford-foxford-co-mayo/6473801",
+    "https://www.daft.ie/for-sale/fixed-price-450-000-no-bidding-richmond-hall-richmond-road-dublin-3-ballybough-dublin-3/6642341",
+    "https://www.daft.ie/for-sale/1-griffin-rath-manor-maynooth-maynooth-co-kildare/6547342",
+    "https://www.daft.ie/for-sale/48-park-vale-grange-rath-colpe-east-drogheda-co-meath/6583930",
+    "https://www.daft.ie/for-sale/5-suttonfield-paddocks-kilternan-carrickmines-dublin-18/6642053",
+    "https://www.daft.ie/for-sale/old-tullyveela-national-school-tullyveela-corlough-corlough-co-cavan/6622163",
+    "https://www.daft.ie/for-sale/enaghan-aughnacliffe-aughnacliffe-co-longford/6623164",
+    "https://www.daft.ie/for-sale/ballyduffy-moyne-moyne-co-longford/6640652",
+    "https://www.daft.ie/for-sale/fixed-price-370-000-no-bidding-apartment-15-liberty-view-st-james-gate-dublin-8/6597314",
+    "https://www.daft.ie/for-sale/fixed-price-310-000-no-bidding-33-the-charter-santry-cross-dublin-11/6634194",
+    "https://www.daft.ie/for-sale/4-oliver-plunkett-road-kells-co-meath/6631339",
+    "https://www.daft.ie/for-sale/the-stables-cartron-kinvara-co-galway/6629267"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=49",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=142",
+  "fetchedAt": "2026-10-05T11:27:31.288Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=142",
+  "kind": "search",
+  "responseSha256": "3f04b5692ad5765b93eb17efe27102e8e98eb04eee23932d2f6a7cce48a38dda",
+  "files": [
+    {
+      "path": "myhome/03447-b07ec43fed106e68-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=142\"].SearchResults",
+      "sha256": "b6fd2f49b441e9fc4702a2ed418cc7bdb012f295412dc5da1b7255882767f69a",
+      "bytes": 103995
+    },
+    {
+      "path": "myhome/03447-b07ec43fed106e68-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=142\"] (paging fields)",
+      "sha256": "7e47045051ecea350f6e61f7f983bf12019a494e9de9cffddb747f9c1bfb29bb",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/shanid-shanagolden-co-limerick/5029173",
+    "https://www.myhome.ie/residential/brochure/3-cooldrinagh-terrace-cooldrinagh-lane-leixlip-naas-co-kildare/5029172",
+    "https://www.myhome.ie/residential/brochure/caherlissakill-monivea-county-galway/5029170",
+    "https://www.myhome.ie/residential/brochure/130-lakelands-naas-co-kildare/5029168",
+    "https://www.myhome.ie/residential/brochure/6-belgrave-court-mountpleasant-ave-upper-ranelagh-dublin-6/5029131",
+    "https://www.myhome.ie/residential/brochure/28-cluain-uilinn-spanish-point-road-miltown-malbay-co-clare/5029167",
+    "https://www.myhome.ie/residential/brochure/52-mayeston-crescent-finglas-dublin-11/5029166",
+    "https://www.myhome.ie/residential/brochure/stonebridge-ahacross-kildorrery-cork/5029154",
+    "https://www.myhome.ie/residential/brochure/78-fosterbrook-booterstown-blackrock-co-dublin/5029164",
+    "https://www.myhome.ie/residential/brochure/9-sallynoggin-road-lower-sallynogggin-co-dublin/5029163",
+    "https://www.myhome.ie/residential/brochure/show-house-the-meadows-d-n-an-r-athlone-co-westmeath/5029162",
+    "https://www.myhome.ie/residential/brochure/3-burnside-lane-santry-dublin-9/5029159",
+    "https://www.myhome.ie/residential/brochure/55-castlegrange-court-clonee-dublin-15/5029155",
+    "https://www.myhome.ie/residential/brochure/185-st-attracta-road-cabra-dublin-7/5029153",
+    "https://www.myhome.ie/residential/brochure/apt-5-block-2-gateway-apartments-ballinode-sligo/5029018",
+    "https://www.myhome.ie/residential/brochure/6-bracken-park-close-bracken-park-castleknock-dublin-15/4996951",
+    "https://www.myhome.ie/residential/brochure/47-ridgepool-village-ballina-co-mayo/5029151",
+    "https://www.myhome.ie/residential/brochure/gurteenroe-schull-co-cork/5029149",
+    "https://www.myhome.ie/residential/brochure/8-toner-house-sidmonton-place-bray-co-wicklow/5029148",
+    "https://www.myhome.ie/residential/brochure/6-shamrock-street-phibsborough-dublin-7/5029147"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=143",
+  "paginationLimited": false
+}

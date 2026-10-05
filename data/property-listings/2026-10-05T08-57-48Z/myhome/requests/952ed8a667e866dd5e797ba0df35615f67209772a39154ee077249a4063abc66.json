@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=374",
+  "fetchedAt": "2026-10-05T13:27:15.109Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=374",
+  "kind": "search",
+  "responseSha256": "9766ddf4ac8a7a92cbe3b8eb29db261b502737880440f7fba5f866d8be059800",
+  "files": [
+    {
+      "path": "myhome/08221-952ed8a667e866dd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=374\"].SearchResults",
+      "sha256": "8219e3891930195a278c710235562a17786ca076b0c878ee1cab7225bd710086",
+      "bytes": 121527
+    },
+    {
+      "path": "myhome/08221-952ed8a667e866dd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=374\"] (paging fields)",
+      "sha256": "17370cf9dd914790f3435b0cd37dce09b342eecd126d1f1d0060ebc61d868812",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-four-oaks-oaklands-crescent-rathgar-dublin-6/5012237",
+    "https://www.myhome.ie/residential/brochure/55-boroimhe-maples-swords-dublin/5018328",
+    "https://www.myhome.ie/residential/brochure/apartment-6-block-b2-the-bottle-works-irishtown-dublin-4/5018323",
+    "https://www.myhome.ie/residential/brochure/16-the-heathers-classes-lake-ballincollig-cork/5018322",
+    "https://www.myhome.ie/residential/brochure/35-eiscir-island-eiscir-meadows-tullamore-county-offaly/5018325",
+    "https://www.myhome.ie/residential/brochure/7-silloge-gardens-poppintree-d11e042-poppintree-dublin-11/5018315",
+    "https://www.myhome.ie/residential/brochure/pallashill-killanerin-gorey-county-wexford/5018317",
+    "https://www.myhome.ie/residential/brochure/11-woodfield-green-newcastle-west-county-limerick/5018301",
+    "https://www.myhome.ie/residential/brochure/208-lower-kilmacud-road-goatstown-dublin-14/4950783",
+    "https://www.myhome.ie/residential/brochure/5-woodview-fionn-laoi-ballincollig-cork/5018289",
+    "https://www.myhome.ie/residential/brochure/11-the-close-hazelbrook-square-churchtown-dublin-14/5004390",
+    "https://www.myhome.ie/residential/brochure/ballask-carne-co-wexford/5018293",
+    "https://www.myhome.ie/residential/brochure/77-ashfield-east-golf-links-road-kilkenny-kilkenny/5018287",
+    "https://www.myhome.ie/residential/brochure/19-marwood-lawn-riverstown-glanmire-cork/5018271",
+    "https://www.myhome.ie/residential/brochure/ardkilly-sandycove-kinsale-county-cork/5018272",
+    "https://www.myhome.ie/residential/brochure/262-beechdale-dunboyne-co-meath/5018268",
+    "https://www.myhome.ie/residential/brochure/7-the-coachman-s-yard-horetown-foulksmills-co-wexford/5018264",
+    "https://www.myhome.ie/residential/brochure/71-drynam-avenue-kinsealy-dublin/5018220",
+    "https://www.myhome.ie/residential/brochure/47-northcliffe-chapelizod-dublin-20/5018262",
+    "https://www.myhome.ie/residential/brochure/glenfield-ballinacooley-glenealy-co-wicklow/4986550"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=375",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-hansfield-station-road-ongar-co-dublin/4506859",
+  "fetchedAt": "2026-10-05T09:09:07.388Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-hansfield-station-road-ongar-co-dublin/4506859",
+  "kind": "listing",
+  "responseSha256": "4f9727882e3091e0853e7f6cf461e9ee2fe79e42ab200705fc8f9b25effb996c",
+  "files": [
+    {
+      "path": "daft/00453-091e4df49b1686c3-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c70f229e08bbd2e050460ed7792d9207558d3464d9d76218360f108be3ac2263",
+      "bytes": 200336
+    },
+    {
+      "path": "daft/00453-091e4df49b1686c3-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "6fa2cbc0b360afd62f00c3e2c3d0ddb0bf4fa5ab7b0b95016d9d0f43a1aef5fe",
+      "bytes": 8101
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

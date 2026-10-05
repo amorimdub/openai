@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=41",
+  "fetchedAt": "2026-10-05T09:44:01.173Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=41",
+  "kind": "search",
+  "responseSha256": "9e57c2b219c8f6191521211bf7923e5ed7043ed74f840b2a93cc98b9d61a3d8f",
+  "files": [
+    {
+      "path": "daft/01847-0d060904ce7e7cd4-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "36d8653f5dfb119a3de3f9bc484b0bf678655d552ea8e171087fb168979fd86a",
+      "bytes": 309134
+    },
+    {
+      "path": "daft/01847-0d060904ce7e7cd4-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01847-0d060904ce7e7cd4-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "49c9bc7bcc15404733e1abe43815c3099abca9a7856c60c95d9b73e5689c1d01",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/carraig-na-greine-furbo-co-galway/6650563",
+    "https://www.daft.ie/for-sale/19-abbeybrook-garden-abbeybrook-kilbeggan-kilbeggan-co-westmeath/6657190",
+    "https://www.daft.ie/for-sale/16-the-woods-glounthaune-glounthaune-co-cork/6649651",
+    "https://www.daft.ie/for-sale/27-shantalla-drive-dublin-9-beaumont-dublin-9/6656663",
+    "https://www.daft.ie/for-sale/21-ard-aoibhinn-rosslare-strand-co-wexford/6469734",
+    "https://www.daft.ie/for-sale/13-arasain-na-mara-grattan-road-salthill-galway/6655637",
+    "https://www.daft.ie/for-sale/6-main-street-duncormick-co-wexford/6457136",
+    "https://www.daft.ie/for-sale/the-granary-caherass-court-croom-croom-co-limerick/6650300",
+    "https://www.daft.ie/for-sale/apartment-4-glencourt-dell-co-wicklow/6656651",
+    "https://www.daft.ie/for-sale/24-summerstown-grove-glasheen-glasheen-co-cork/6636138",
+    "https://www.daft.ie/for-sale/juanita-144-ardmore-park-co-wicklow/6656459",
+    "https://www.daft.ie/for-sale/carrigkeal-carrickbrack-road-howth-dublin-13/6649926",
+    "https://www.daft.ie/for-sale/26-the-crescent-beaumont-ballintemple-co-cork/6656283",
+    "https://www.daft.ie/for-sale/94-sl-gheal-ballymoneen-road-knocknacarra-co-galway/6655946",
+    "https://www.daft.ie/for-sale/apartment-16-whitehall-square-walkinstown-dublin-12/6656008",
+    "https://www.daft.ie/for-sale/86-lorcan-grove-dublin-9-santry-dublin-9/6656199",
+    "https://www.daft.ie/for-sale/104-leeson-street-upper-dublin-4/6548704",
+    "https://www.daft.ie/for-sale/glenealy-house-ballyfree-west-glenealy-co-wicklow/6448361",
+    "https://www.daft.ie/for-sale/13-dowdingstown-wood-naas-two-mile-house-co-kildare/6634563",
+    "https://www.daft.ie/for-sale/the-penthouses-at-woodlands-grove-stillorgan-co-dublin/6513291"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=42",
+  "paginationLimited": false
+}

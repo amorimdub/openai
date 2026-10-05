@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=43",
+  "fetchedAt": "2026-10-05T09:46:37.442Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=43",
+  "kind": "search",
+  "responseSha256": "2a85e716c223dc2a483e1933080da51fda6af9e23934bf6bede34b8c6c881041",
+  "files": [
+    {
+      "path": "daft/01951-65821040c9c0ea28-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "865363c91b2a47b848c7588e56eab152d206fe98a0916aab17386069146ecf30",
+      "bytes": 248146
+    },
+    {
+      "path": "daft/01951-65821040c9c0ea28-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01951-65821040c9c0ea28-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "018e637b39c1c0bd3e182eccf3b39f53eac651417b093037266652597a4b75b3",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/flat-7-68-rathgar-road-rathgar-dublin-6/6683789",
+    "https://www.daft.ie/for-rent/63-seapark-drive-clontarf-dublin-3/6683800",
+    "https://www.daft.ie/for-rent/collins-avenue-whitehall-dublin-9/6683788",
+    "https://www.daft.ie/for-rent/woodbrook-court-castleknock-dublin-15/6683771",
+    "https://www.daft.ie/for-rent/capel-street-smithfield-dublin-1/6683761",
+    "https://www.daft.ie/for-rent/apartment-7-bakers-quay-the-quay-tinnahinch-graiguenamanagh-co-carlow/6683759",
+    "https://www.daft.ie/for-rent/belgrave-terrace-ranelagh-dublin-6/6683755",
+    "https://www.daft.ie/for-rent/south-circular-road-rialto-dublin-8/6683748",
+    "https://www.daft.ie/for-rent/block-j-431-castleforbes-square-ifsc-dublin-1/6683727",
+    "https://www.daft.ie/for-rent/flat-3-56-richmond-street-south-dublin-2/6683731",
+    "https://www.daft.ie/for-rent/apartment-3-18-kenilworth-park-harolds-cross-dublin-6w/6683672",
+    "https://www.daft.ie/for-rent/apartment-2-kilrush-airfield-kilcullen-co-kildare/6683713",
+    "https://www.daft.ie/for-rent/castlecurragh-vale-blanchardstown-dublin-15/6683714",
+    "https://www.daft.ie/for-rent/apartment-24-burleigh-court-ballsbridge-dublin-4/6683692",
+    "https://www.daft.ie/for-rent/apartment-kellys-court-dublin-1/6683704",
+    "https://www.daft.ie/for-rent/cois-dara-chapelstown-carlow-town-co-carlow/6683618",
+    "https://www.daft.ie/for-rent/32-elton-court-castlepark-road-dalkey-co-dublin/6675403",
+    "https://www.daft.ie/for-rent/apartment-23-block-a-south-terrace-court-cork-city-centre-co-cork/6683676",
+    "https://www.daft.ie/for-rent/-eden-gate-delgany-delgany-co-wicklow/6683663",
+    "https://www.daft.ie/for-rent/mill-parade-lower-bridge-street-athboy-co-meath/6683555"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=44",
+  "paginationLimited": false
+}

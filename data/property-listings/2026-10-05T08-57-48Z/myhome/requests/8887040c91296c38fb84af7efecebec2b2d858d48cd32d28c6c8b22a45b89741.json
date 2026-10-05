@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=342",
+  "fetchedAt": "2026-10-05T13:10:47.581Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=342",
+  "kind": "search",
+  "responseSha256": "7557c4ef191ba27462ec1b8849b568148eb26c656c5155cbe3fd13299bcb2112",
+  "files": [
+    {
+      "path": "myhome/07564-8887040c91296c38-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=342\"].SearchResults",
+      "sha256": "f9ba5805b30c67219867a99c5d7a65b773648b344fd3c2327dfb9e529a0089f1",
+      "bytes": 117467
+    },
+    {
+      "path": "myhome/07564-8887040c91296c38-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=342\"] (paging fields)",
+      "sha256": "8f4cc599c70a452219e6a2b1b387e43cd73c2034b0205bdca42743246042bdbd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/54-market-street-dundalk-county-louth/5021228",
+    "https://www.myhome.ie/residential/brochure/site-with-f-p-p-moyetra-td-clontibret-co-monaghan/5021223",
+    "https://www.myhome.ie/residential/brochure/18-riverside-estate-midleton-cork/5021161",
+    "https://www.myhome.ie/residential/brochure/68-father-murray-park-dundalk-county-louth/5021220",
+    "https://www.myhome.ie/residential/brochure/3-mount-eustace-drive-tyrrelstown-dublin-15/5015190",
+    "https://www.myhome.ie/residential/brochure/boyne-road-navan-co-meath/5021217",
+    "https://www.myhome.ie/residential/brochure/13-parkside-woods-balgriffin-dublin-13/5021214",
+    "https://www.myhome.ie/residential/brochure/apartment-7-turnstone-thornwood-booterstown-county-dublin/4997501",
+    "https://www.myhome.ie/residential/brochure/16-gracemeadow-court-stamullen-meath/5021202",
+    "https://www.myhome.ie/residential/brochure/knockawarriga-mountcollins-co-limerick/5021201",
+    "https://www.myhome.ie/residential/brochure/sranagallon-crusheen-ennis-co-clare/5021198",
+    "https://www.myhome.ie/residential/brochure/28-joyce-house-viking-harbour-dublin-8/5019738",
+    "https://www.myhome.ie/residential/brochure/55-hyde-court-townsend-street-dublin-2/5021194",
+    "https://www.myhome.ie/residential/brochure/slieveroe-frenchpark-roscommon/5021183",
+    "https://www.myhome.ie/residential/brochure/7-friar-street-nenagh-co-tipperary/5021180",
+    "https://www.myhome.ie/residential/brochure/clonmines-wellingtonbridge-co-wexford/5021178",
+    "https://www.myhome.ie/residential/brochure/manderlay-crosstown-wexford-town-co-wexford/5021177",
+    "https://www.myhome.ie/residential/brochure/68-oakleigh-wood-dooradoyle-limerick-county-limerick/5021174",
+    "https://www.myhome.ie/residential/brochure/33-dingle-road-cabra-dublin-7/4959522",
+    "https://www.myhome.ie/residential/brochure/17-the-telford-building-heuston-south-quater-saint-john-s-road-west-dublin-8/5021171"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=343",
+  "paginationLimited": false
+}

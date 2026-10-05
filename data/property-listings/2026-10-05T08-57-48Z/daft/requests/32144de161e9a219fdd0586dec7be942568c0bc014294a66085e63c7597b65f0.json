@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-149-wyckham-point-dundrum-dublin-16/6685035",
+  "fetchedAt": "2026-10-05T09:39:26.252Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-149-wyckham-point-dundrum-dublin-16/6685035",
+  "kind": "listing",
+  "responseSha256": "e799a10543d44fcb3bd265e8fa0141b13ec114b22aa034f3052709dbbf88a76e",
+  "files": [
+    {
+      "path": "daft/01664-32144de161e9a219-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b3403ee1530c905681c0f477bf539607b8f6e2e69264eb67324689a0bb4be967",
+      "bytes": 30305
+    },
+    {
+      "path": "daft/01664-32144de161e9a219-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c6e970db7f48d1f971dfb0df4652508c10a1ea7d53a6185f206c59214eb8fed2",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/39-knockmaree-chapelizod-d20-w787-chapelizod-dublin-20/6682677",
+  "fetchedAt": "2026-10-05T09:53:23.067Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/39-knockmaree-chapelizod-d20-w787-chapelizod-dublin-20/6682677",
+  "kind": "listing",
+  "responseSha256": "73e17e0faa8029ad9033b94ef8444d0e51fbc8d06b3352923087e4954afa5b0a",
+  "files": [
+    {
+      "path": "daft/02221-b5d6fec507e90911-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bf2f784720548e03f7382fde6045ccae7399035e086b32210562a0d0fed7a10e",
+      "bytes": 49713
+    },
+    {
+      "path": "daft/02221-b5d6fec507e90911-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a6dcc60c6a0b8a5831b08009190bf9e379f484b82e4328a3f8ed6c24b067948b",
+      "bytes": 8133
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

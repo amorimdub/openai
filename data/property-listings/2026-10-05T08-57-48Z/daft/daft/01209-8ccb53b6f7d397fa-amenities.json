@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST. PETER'S NATIONAL SCHOOL",
+      "numPupils": 129,
+      "distance": {
+        "value": 0.25,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.421673",
+        "lon": "-7.942643"
+      }
+    },
+    {
+      "schoolName": "ST PAUL'S NATIONAL SCHOOL",
+      "numPupils": 129,
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.420506",
+        "lon": "-7.942382"
+      }
+    },
+    {
+      "schoolName": "ST MARYS NATIONAL SCHOOL",
+      "numPupils": 586,
+      "distance": {
+        "value": 0.53,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.425480",
+        "lon": "-7.933446"
+      }
+    },
+    {
+      "schoolName": "ST. HILDA'S SPECIAL SCHOOL",
+      "numPupils": 58,
+      "distance": {
+        "value": 0.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.425224",
+        "lon": "-7.930421"
+      }
+    },
+    {
+      "schoolName": "DEAN KELLY NATIONAL SCHOOL",
+      "numPupils": 93,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.423664",
+        "lon": "-7.953942"
+      }
+    },
+    {
+      "schoolName": "ATHLONE MIXED NATIONAL SCHOOL",
+      "numPupils": 56,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.432247",
+        "lon": "-7.939037"
+      }
+    },
+    {
+      "schoolName": "SCOIL NA GCEITHRE MÁISTRÍ",
+      "numPupils": 219,
+      "distance": {
+        "value": 1.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.427303",
+        "lon": "-7.917961"
+      }
+    },
+    {
+      "schoolName": "COOSAN NATIONAL SCHOOL",
+      "numPupils": 414,
+      "distance": {
+        "value": 2.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.446610",
+        "lon": "-7.934174"
+      }
+    },
+    {
+      "schoolName": "CORNAMADDY CNS",
+      "numPupils": 308,
+      "distance": {
+        "value": 2.82,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.435060",
+        "lon": "-7.902737"
+      }
+    },
+    {
+      "schoolName": "SUMMERHILL NATIONAL SCHOOL",
+      "numPupils": 249,
+      "distance": {
+        "value": 3.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.411068",
+        "lon": "-7.987596"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MARIST COLLEGE",
+      "numPupils": 608,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.425156",
+        "lon": "-7.926287"
+      }
+    },
+    {
+      "schoolName": "OUR LADY'S BOWER",
+      "numPupils": 638,
+      "distance": {
+        "value": 1.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.422455",
+        "lon": "-7.922142"
+      }
+    },
+    {
+      "schoolName": "ATHLONE COMMUNITY COLLEGE",
+      "numPupils": 1161,
+      "distance": {
+        "value": 1.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.424340",
+        "lon": "-7.919499"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CHIARÁIN",
+      "numPupils": 958,
+      "distance": {
+        "value": 3.52,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.408783",
+        "lon": "-7.987701"
+      }
+    },
+    {
+      "schoolName": "MOATE COMMUNITY SCHOOL",
+      "numPupils": 910,
+      "distance": {
+        "value": 14.54,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.396587",
+        "lon": "-7.726089"
+      }
+    },
+    {
+      "schoolName": "GALLEN COMMUNITY SCHOOL FERBANE",
+      "numPupils": 433,
+      "distance": {
+        "value": 18.69,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269363",
+        "lon": "-7.828822"
+      }
+    },
+    {
+      "schoolName": "BALLYMAHON VOCATIONAL SCHOOL",
+      "numPupils": 420,
+      "distance": {
+        "value": 19.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.568410",
+        "lon": "-7.771834"
+      }
+    },
+    {
+      "schoolName": "MERCY SECONDARY SCHOOL",
+      "numPupils": 760,
+      "distance": {
+        "value": 19.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.567320",
+        "lon": "-7.764910"
+      }
+    },
+    {
+      "schoolName": "ARDSCOIL MHUIRE",
+      "numPupils": 481,
+      "distance": {
+        "value": 23.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322304",
+        "lon": "-8.246747"
+      }
+    },
+    {
+      "schoolName": "CLONFERT COLLEGE",
+      "numPupils": 0,
+      "distance": {
+        "value": 23.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.322227",
+        "lon": "-8.246835"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Northgate St",
+      "route": "A2",
+      "destination": "Bealnamulla",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.42466",
+        "lon": "-7.94042"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Northgate St",
+      "route": "A1",
+      "destination": "Bealnamulla",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.42466",
+        "lon": "-7.94042"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castle Street",
+      "route": "A1",
+      "destination": "Bealnamulla",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4226641777525",
+        "lon": "-7.94257368074834"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Luan Gallery",
+      "route": "A2",
+      "destination": "Bealnamulla",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4242",
+        "lon": "-7.94362"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Luan Gallery",
+      "route": "548",
+      "destination": "Loughrea",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4242",
+        "lon": "-7.94362"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Northgate St",
+      "route": "548",
+      "destination": "Athlone",
+      "provider": "TFI Local Link Galway",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.42542",
+        "lon": "-7.94101"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Pearse Street",
+      "route": "A1",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4227731108939",
+        "lon": "-7.94489045211356"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "J Broderick St",
+      "route": "A2",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.422238",
+        "lon": "-7.934962"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "J Broderick St",
+      "route": "A1",
+      "destination": "Athlone",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.422238",
+        "lon": "-7.934962"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Gleeson Street",
+      "route": "A1",
+      "destination": "Bealnamulla",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.425042",
+        "lon": "-7.934867"
+      }
+    }
+  ]
+}

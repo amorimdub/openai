@@ -1,0 +1,485 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "36 dunbur glen wicklow town wicklow",
+    "GroupId": 255504,
+    "Address": "36 Dunbur Glen",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b874139a-e7a1-4eef-8119-45bcdd5e9545_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b874139a-e7a1-4eef-8119-45bcdd5e9545_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b874139a-e7a1-4eef-8119-45bcdd5e9545_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/f82cccc2-7640-42b7-a0bb-a0fdbb6586c2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/ef1bce76-f956-43a7-97bf-5f7ee46082f1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/1aa5ce59-8d68-40ee-8d59-cae56fe8b318_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a93b324e-144c-45ae-9e6b-42501c6b6ac0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7debf2b3-66be-4637-b1d2-2811f62109e6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/771eec37-9ec7-4e79-b15b-f72e0b43f050_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/8892b868-96dd-428c-b782-33d14ef83d61_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a31c766e-40cf-47cc-8b5f-093df3aa900c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/0446e852-5f59-4801-b006-65d89c2d14fe_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a225b34f-f205-426c-8a89-e920cc396c03_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/68456404-d1a7-4eb7-bb17-2bb901517e60_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7530aba2-0f17-4573-86f5-eac9fea4487a_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/300e5798-ef8f-44cc-8e7c-bc91e8af7b0f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/13dd27dc-c4d1-4de5-81d1-b31b679a33fe_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/06b31c5f-bc26-48ff-8302-71b6d1dad779_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/00284e8d-2e88-4bf5-9c89-519b0baa7755_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/fdbc9f29-0b60-427a-ade7-da8ed853ce58_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b3a085c7-aba7-4e63-9b89-b6313c1dbb67_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/2ebe8af1-6bec-450f-b756-012e5e9ab83d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/9c9938df-40f6-4df0-99e5-20a4706d556b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/62e60969-4234-4723-9f02-a816dc8d9e80_l.jpg",
+      "https://photos-a.propertyimages.ie/media/1/7/2/5028271/c9b7c9da-e9ae-4736-8520-9804b9ff1268_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 88,
+    "MaxSize": 88,
+    "BerRating": "G",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 26,
+        "Name": "Garage",
+        "CreatedOn": "2018-09-11T10:20:02.6870000+01:00",
+        "IconName": "myh-icon-garage",
+        "IsRequirement": false
+      },
+      {
+        "Id": 31,
+        "Name": "Sea Views",
+        "CreatedOn": "2018-09-11T10:21:06.7100000+01:00",
+        "IconName": "myh-icon-sea-views",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "An exciting opportunity to acquire a three-bedroom bungalow in the highly regarded Dunbur Glen area of Wicklow Town, enjoying wonderful sea views and offering enormous potential for those looking to create their ideal home.\r\n\r\nWhile the property requires upgrading and modernisation, its attractive setting, single-storey accommodation and stunning outlook provide an excellent foundation for a rewarding renovation project. The property offers well-proportioned accommodation, with three bedrooms and generous living space, and would suit buyers seeking to put their own stamp on a home in a sought-after coastal location. There is a block built garage to the rear. \r\n\r\nThe elevated position takes full advantage of the views towards the sea, while the surrounding area offers a peaceful residential setting yet remains within easy reach of Wicklow Town and its wide range of amenities, including shops, cafés, schools, sporting facilities and transport links.\r\n\r\nProperties offering this combination of sea views, generous accommodation and refurbishment potential rarely come to the market and this bungalow is sure to appeal to a wide range of purchasers.\r\n\r\nViewing is highly recommended to appreciate the location, views and potential this property has to offer."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Block built garage\r\nOff street parking\r\n3 bedrooms\r\nDetached bulgalow\r\n1 minute walk to the beach\r\nWicklow Golf Club is 10 seconds drive\r\nViews over the sea\r\n\r\nBER: 119692317"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: G"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 232834,
+    "MinEnergyRating": 10,
+    "MaxEnergyRating": 10,
+    "BERGrade": "G",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-15T14:12:50.1800000+01:00",
+    "ModifiedOnDate": "2026-09-15T14:19:15.6700000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-15T14:19:28.7070000+01:00",
+    "RefreshedOn": "2026-09-15T14:19:28.7070000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+    "IsTransact": false,
+    "PriceAsString": "€325,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5028271,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 88,
+    "DisplayAddress": "36 Dunbur Glen, Wicklow Town, Wicklow",
+    "Eircode": "A67FY23",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Bungalow",
+    "PropertyTypeId": 40,
+    "RegionId": 4011,
+    "RegionName": "Wicklow",
+    "LocalityId": 4052,
+    "LocalityName": "Wicklow Town",
+    "Price": {
+      "MinPrice": 325000,
+      "MaxPrice": 325000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b874139a-e7a1-4eef-8119-45bcdd5e9545_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b874139a-e7a1-4eef-8119-45bcdd5e9545_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b874139a-e7a1-4eef-8119-45bcdd5e9545_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/f82cccc2-7640-42b7-a0bb-a0fdbb6586c2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/f82cccc2-7640-42b7-a0bb-a0fdbb6586c2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/f82cccc2-7640-42b7-a0bb-a0fdbb6586c2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/ef1bce76-f956-43a7-97bf-5f7ee46082f1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/ef1bce76-f956-43a7-97bf-5f7ee46082f1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/ef1bce76-f956-43a7-97bf-5f7ee46082f1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/1aa5ce59-8d68-40ee-8d59-cae56fe8b318_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/1aa5ce59-8d68-40ee-8d59-cae56fe8b318_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/1aa5ce59-8d68-40ee-8d59-cae56fe8b318_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a93b324e-144c-45ae-9e6b-42501c6b6ac0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a93b324e-144c-45ae-9e6b-42501c6b6ac0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a93b324e-144c-45ae-9e6b-42501c6b6ac0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7debf2b3-66be-4637-b1d2-2811f62109e6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7debf2b3-66be-4637-b1d2-2811f62109e6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7debf2b3-66be-4637-b1d2-2811f62109e6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/771eec37-9ec7-4e79-b15b-f72e0b43f050_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/771eec37-9ec7-4e79-b15b-f72e0b43f050_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/771eec37-9ec7-4e79-b15b-f72e0b43f050_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/8892b868-96dd-428c-b782-33d14ef83d61_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/8892b868-96dd-428c-b782-33d14ef83d61_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/8892b868-96dd-428c-b782-33d14ef83d61_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a31c766e-40cf-47cc-8b5f-093df3aa900c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a31c766e-40cf-47cc-8b5f-093df3aa900c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a31c766e-40cf-47cc-8b5f-093df3aa900c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/0446e852-5f59-4801-b006-65d89c2d14fe_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/0446e852-5f59-4801-b006-65d89c2d14fe_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/0446e852-5f59-4801-b006-65d89c2d14fe_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a225b34f-f205-426c-8a89-e920cc396c03_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a225b34f-f205-426c-8a89-e920cc396c03_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/a225b34f-f205-426c-8a89-e920cc396c03_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/68456404-d1a7-4eb7-bb17-2bb901517e60_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/68456404-d1a7-4eb7-bb17-2bb901517e60_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/68456404-d1a7-4eb7-bb17-2bb901517e60_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7530aba2-0f17-4573-86f5-eac9fea4487a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7530aba2-0f17-4573-86f5-eac9fea4487a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/7530aba2-0f17-4573-86f5-eac9fea4487a_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/300e5798-ef8f-44cc-8e7c-bc91e8af7b0f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/300e5798-ef8f-44cc-8e7c-bc91e8af7b0f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/300e5798-ef8f-44cc-8e7c-bc91e8af7b0f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/13dd27dc-c4d1-4de5-81d1-b31b679a33fe_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/13dd27dc-c4d1-4de5-81d1-b31b679a33fe_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/13dd27dc-c4d1-4de5-81d1-b31b679a33fe_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/06b31c5f-bc26-48ff-8302-71b6d1dad779_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/06b31c5f-bc26-48ff-8302-71b6d1dad779_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/06b31c5f-bc26-48ff-8302-71b6d1dad779_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/00284e8d-2e88-4bf5-9c89-519b0baa7755_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/00284e8d-2e88-4bf5-9c89-519b0baa7755_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/00284e8d-2e88-4bf5-9c89-519b0baa7755_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/fdbc9f29-0b60-427a-ade7-da8ed853ce58_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/fdbc9f29-0b60-427a-ade7-da8ed853ce58_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/fdbc9f29-0b60-427a-ade7-da8ed853ce58_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b3a085c7-aba7-4e63-9b89-b6313c1dbb67_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b3a085c7-aba7-4e63-9b89-b6313c1dbb67_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/b3a085c7-aba7-4e63-9b89-b6313c1dbb67_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/2ebe8af1-6bec-450f-b756-012e5e9ab83d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/2ebe8af1-6bec-450f-b756-012e5e9ab83d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/2ebe8af1-6bec-450f-b756-012e5e9ab83d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/9c9938df-40f6-4df0-99e5-20a4706d556b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/9c9938df-40f6-4df0-99e5-20a4706d556b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/9c9938df-40f6-4df0-99e5-20a4706d556b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/62e60969-4234-4723-9f02-a816dc8d9e80_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/62e60969-4234-4723-9f02-a816dc8d9e80_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/62e60969-4234-4723-9f02-a816dc8d9e80_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/c9b7c9da-e9ae-4736-8520-9804b9ff1268_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/c9b7c9da-e9ae-4736-8520-9804b9ff1268_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/1/7/2/5028271/c9b7c9da-e9ae-4736-8520-9804b9ff1268_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.0257952,
+      "latitude": 52.9717636
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 23,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 255504,
+    "Name": "OMD Estate Agents",
+    "DisplayPhone": "01 497 1004",
+    "Email": "omdestates@gmail.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "omd-estate-agents",
+    "SeoName": "omd-estate-agents",
+    "Address": "6 Olivemount Terrace, Windy Arbour, Dublin 14",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/4/0/5/255504/logo.jpg",
+    "SalesLicense": "001580",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "wicklow-town/4052",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4857348,
+      "Address": "Rock Springs, Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/4/3/4857348/ed4a8f28-0644-429e-bc59-ae90710282a7_t.jpg",
+      "HasWebP": false,
+      "Price": 498000,
+      "PrevPrice": 490000,
+      "PriceChangeDelta": 8000,
+      "PriceChangePercentage": 1.6327,
+      "Created": "25th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "SeoUrl": "/residential/brochure/rock-springs-wicklow-town-wicklow/4857348",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4998742,
+      "Address": "The Cascades, Ballynerrin Upper, Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/7/4998742/c3d289e2-be4d-41e3-9aaa-3f5e13dc4d3c_t.jpg",
+      "HasWebP": false,
+      "Price": 750000,
+      "PrevPrice": 795000,
+      "PriceChangeDelta": -45000,
+      "PriceChangePercentage": -5.6604,
+      "Created": "21st Aug 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+      "BerRating": "B3",
+      "SeoUrl": "/residential/brochure/the-cascades-ballynerrin-upper-wicklow-town-wicklow/4998742",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 5004203,
+      "Address": "Luxury Lodge Tinakilly, Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/2/5004203/78c4b5e3-61a5-4407-a754-26f275d91c5b_t.jpg",
+      "HasWebP": false,
+      "Price": 1995000,
+      "PrevPrice": 2500000,
+      "PriceChangeDelta": -505000,
+      "PriceChangePercentage": -20.2,
+      "Created": "19th Aug 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B2.png",
+      "BerRating": "B2",
+      "SeoUrl": "/residential/brochure/luxury-lodge-tinakilly-wicklow-town-wicklow/5004203",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4804854,
+      "Address": "31 The Briary Blainroe, Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/5/8/4804854/34d48606-1219-4ef3-a66f-ff5e99f2fd19_t.jpg",
+      "HasWebP": false,
+      "Price": 495000,
+      "PrevPrice": 520000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -4.8077,
+      "Created": "17th Jul 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/31-the-briary-blainroe-wicklow-town-wicklow/4804854",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4997445,
+      "Address": "The Stone House , Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/4/4997445/0ef1382f-15ce-4736-919a-1f29f9137373_t.jpeg",
+      "HasWebP": false,
+      "Price": 850000,
+      "PrevPrice": 950000,
+      "PriceChangeDelta": -100000,
+      "PriceChangePercentage": -10.5263,
+      "Created": "16th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+      "BerRating": "B3",
+      "SeoUrl": "/residential/brochure/the-stone-house-wicklow-town-wicklow/4997445",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4960165,
+      "Address": "Rock Springs, Marlon Road, Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/6/1/4960165/5c0e69b4-1103-4975-a9ca-cb3e915583e8_t.jpg",
+      "HasWebP": false,
+      "Price": 499000,
+      "PrevPrice": 490000,
+      "PriceChangeDelta": 9000,
+      "PriceChangePercentage": 1.8367,
+      "Created": "4th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+      "BerRating": "A2",
+      "SeoUrl": "/residential/brochure/rock-springs-marlon-road-wicklow-town-wicklow/4960165",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/36-dunbur-glen-wicklow-town-wicklow/5028271",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 232834,
+    "Name": "Brian O'Connor",
+    "Phone": "01 4971004",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/4/3/8/232834/profile.jpg"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 255504,
+    "MYH_LocalityID": 4052,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 4011,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Garden",
+      "Patio",
+      "Garage",
+      "Sea Views"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Garden,Patio,Garage,Sea Views",
+    "MYH_MaxPrice": 325000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 10,
+    "MYH_MinPrice": 325000,
+    "MYH_MinSize": 88,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5028271,
+    "MYH_PropertyTypeID": 40
+  }
+}

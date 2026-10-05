@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=75",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=75",
+  "fetchedAt": "2026-10-05T09:50:23.582Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "32fce70b670ffb0caa26dfdac5008fc6ce4f6ab9d8f846bb7b0f09f52fc67c30",
+  "files": [
+    {
+      "path": "myhome/02095-f6ac1ab0d3f08db7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=75\"].SearchResults",
+      "sha256": "9ecebeab39d2426fefb4f1e5ab929926848dccfdb5d2132018c11d861a787fde",
+      "bytes": 121145
+    },
+    {
+      "path": "myhome/02095-f6ac1ab0d3f08db7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=75\"] (paging fields)",
+      "sha256": "4e8cf1b68db2e2c7b17839ab80a43d6d13aeee16a4958e690279caafd2bfabbd",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/3-bed-mid-end-terrace-homes-ballymakenny-park-drogheda-co-louth/4669091",
+    "https://www.myhome.ie/residential/brochure/26-the-drive-ledwill-park-kilcock-co-kildare/5030911",
+    "https://www.myhome.ie/residential/brochure/366-kimmage-road-lower-terenure-dublin-6w/5009525",
+    "https://www.myhome.ie/residential/brochure/no-28-knightspark-castlebar-mayo/5030773",
+    "https://www.myhome.ie/residential/brochure/apartment-21-millrace-road-21-phoenix-park-racecourse-castleknock-dublin-15/5030910",
+    "https://www.myhome.ie/residential/brochure/60-carraig-geal-galway-road-loughrea-galway/5030907",
+    "https://www.myhome.ie/residential/brochure/cooldaniel-toames-macroom-cork/5030327",
+    "https://www.myhome.ie/residential/brochure/26-castleforde-ballyconnell-cavan/5030905",
+    "https://www.myhome.ie/residential/brochure/tenure-dunleer-drogheda-co-louth/5030904",
+    "https://www.myhome.ie/residential/brochure/la-corbiere-4-drumbear-monaghan-town/5030903",
+    "https://www.myhome.ie/residential/brochure/1a-lime-trees-road-lower-maryborough-hill-douglas-cork/5030597",
+    "https://www.myhome.ie/residential/brochure/clonincurragh-mountrath-laois/5006612",
+    "https://www.myhome.ie/residential/brochure/teach-sean-thom-is-langton-road-newbridge-co-kildare/4986800",
+    "https://www.myhome.ie/residential/brochure/69-curragh-finn-kildare-town-kildare/5030895",
+    "https://www.myhome.ie/residential/brochure/15-garryknock-bracken-park-drive-castleknock-castleknock-dublin/5030897",
+    "https://www.myhome.ie/residential/brochure/derrycallan-north-gort-co-galway/5030896",
+    "https://www.myhome.ie/residential/brochure/lower-fermanagh-street-clones-monaghan/5029381",
+    "https://www.myhome.ie/residential/brochure/the-bunker-westmanstown-lucan-co-dublin/5027267",
+    "https://www.myhome.ie/residential/brochure/274-swords-road-santry-dublin-9/5030893",
+    "https://www.myhome.ie/residential/brochure/33-brookfield-green-kimmage-dublin-12/4961946"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=76",
+  "paginationLimited": false
+}

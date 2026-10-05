@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=381",
+  "fetchedAt": "2026-10-05T13:30:56.022Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=381",
+  "kind": "search",
+  "responseSha256": "0cb94d20e85dc1456929a3a87fff138329358cfc1461cb48f03e6b8f78f5325e",
+  "files": [
+    {
+      "path": "myhome/08368-1bfcc5dd2284caaf-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=381\"].SearchResults",
+      "sha256": "a661ad2b0f423a1b94a913567902194af30800864a1006575617419fc3ed7375",
+      "bytes": 122760
+    },
+    {
+      "path": "myhome/08368-1bfcc5dd2284caaf-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=381\"] (paging fields)",
+      "sha256": "930777db36f8a5370a81e21f8e7a065619c5756fc5339a90b5e49cdd83392f88",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-174-temple-gardens-northwood-santry-dublin-9/5017519",
+    "https://www.myhome.ie/residential/brochure/apartment-59-saint-james-s-woods-south-circular-road-dublin-8/4967293",
+    "https://www.myhome.ie/residential/brochure/castleinch-kilkenny-kilkenny/5017509",
+    "https://www.myhome.ie/residential/brochure/187-botanic-avenue-drumcondra-drumcondra-dublin-9/5017499",
+    "https://www.myhome.ie/residential/brochure/seaglass-ardkilly-sandycove-kinsale-co-cork/5017505",
+    "https://www.myhome.ie/residential/brochure/tromora-castle-quilty-clare/5017492",
+    "https://www.myhome.ie/residential/brochure/whole-land-cottage-at-lisnavagh-lisnavagh-co-carlow/5017494",
+    "https://www.myhome.ie/residential/brochure/the-stables-cartron-kinvara-co-galway/5017488",
+    "https://www.myhome.ie/residential/brochure/lot-3-gamekeeper-s-cottage-lisnavagh-co-carlow/5017478",
+    "https://www.myhome.ie/residential/brochure/lot-2-north-land-at-lisnavagh-lisnavagh-co-carlow/5017476",
+    "https://www.myhome.ie/residential/brochure/college-hill-ballycahill-templemore-tipperary/5017464",
+    "https://www.myhome.ie/residential/brochure/apartment-116-block-f-cedar-square-ridgewood-swords-dublin/5017465",
+    "https://www.myhome.ie/residential/brochure/hollybrook-mill-bunalun-skibbereen-west-cork/5017209",
+    "https://www.myhome.ie/residential/brochure/summerhill-bantry-west-cork/5016846",
+    "https://www.myhome.ie/residential/brochure/millview-house-st-johnston-letterkenny-co-donegal/5017462",
+    "https://www.myhome.ie/residential/brochure/lot-1-south-land-at-lisnavagh-lisnavagh-co-carlow/5017460",
+    "https://www.myhome.ie/residential/brochure/66-fatima-court-castletown-road-dundalk-louth/5017459",
+    "https://www.myhome.ie/residential/brochure/main-street-clonegal-co-carlow/5017456",
+    "https://www.myhome.ie/residential/brochure/ballyduff-knocknagoshel-co-kerry/5017454",
+    "https://www.myhome.ie/residential/brochure/251-the-oaks-newbridge-co-kildare/5017446"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=382",
+  "paginationLimited": false
+}

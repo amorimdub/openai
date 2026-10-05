@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-kilrush-airfield-kilcullen-co-kildare/6683713",
+  "fetchedAt": "2026-10-05T09:47:55.577Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-kilrush-airfield-kilcullen-co-kildare/6683713",
+  "kind": "listing",
+  "responseSha256": "71cc5549df85eb3f532f30b1c3edf5160782df08d1f990ef78384fef37c04519",
+  "files": [
+    {
+      "path": "daft/02003-8dd9ab1bc0b7733e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "81996107d6a97a4c9e2cb1321c7a11cf865649df03113f380d37f73d63af017c",
+      "bytes": 25724
+    },
+    {
+      "path": "daft/02003-8dd9ab1bc0b7733e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b6329d631c964f13d8fec5a51c94eb967ae65001614ec17ff424584a324b0a65",
+      "bytes": 8179
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

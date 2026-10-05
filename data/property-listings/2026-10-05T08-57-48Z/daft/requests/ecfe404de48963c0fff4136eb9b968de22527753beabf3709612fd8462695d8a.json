@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-47-distillery-court-the-maltings-ballincollig-co-cork/6686185",
+  "fetchedAt": "2026-10-05T09:31:07.718Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-47-distillery-court-the-maltings-ballincollig-co-cork/6686185",
+  "kind": "listing",
+  "responseSha256": "75650468376005f886a2d1acee76888b59a934fd420a6bd1537d6d358d0c0e21",
+  "files": [
+    {
+      "path": "daft/01332-ecfe404de48963c0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "850a484af06ce44372bcd795e84fd3672bb6feab1d15432bc18796b0a6735d18",
+      "bytes": 30599
+    },
+    {
+      "path": "daft/01332-ecfe404de48963c0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a5e2ad85242be33522a6547d47efe3ec4801648d1942b08525263a98a08459e9",
+      "bytes": 8033
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

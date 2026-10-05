@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/9-drumaneel-bridgetown-bridgetown-co-donegal/6682162",
+  "fetchedAt": "2026-10-05T09:11:30.043Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/9-drumaneel-bridgetown-bridgetown-co-donegal/6682162",
+  "kind": "listing",
+  "responseSha256": "3eda0a9c7dd97c678582818c11e768d8a9da61d964d1db1661ca60ce773d5195",
+  "files": [
+    {
+      "path": "daft/00548-7a24e6774c3f32e1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "40696e1218072fe4861101db426329181f4147b77408a9b83cbd659321c3d424",
+      "bytes": 57562
+    },
+    {
+      "path": "daft/00548-7a24e6774c3f32e1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8fa6a5fc26991ce0414068d6094d4324c9c15654b075895b97bd69ca15716178",
+      "bytes": 8117
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

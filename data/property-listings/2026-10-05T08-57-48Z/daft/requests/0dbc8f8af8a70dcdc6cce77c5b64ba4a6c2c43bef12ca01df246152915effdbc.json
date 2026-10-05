@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-market-road-ballina-co-mayo/6683263",
+  "fetchedAt": "2026-10-05T09:50:03.254Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-market-road-ballina-co-mayo/6683263",
+  "kind": "listing",
+  "responseSha256": "543e6edad46f1636d1d171abe336d6873abf732cfdbdcebc45ab9220dc5fd468",
+  "files": [
+    {
+      "path": "daft/02088-0dbc8f8af8a70dcd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bf1445e66d7e9fee1ae6c29f74b9143c21e9a29ed13942f557140bcfd75dbfbc",
+      "bytes": 17518
+    },
+    {
+      "path": "daft/02088-0dbc8f8af8a70dcd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "43cd5c8faef8e98975da80698c81d3ec08cbef4901077f91e068981717ba8741",
+      "bytes": 8056
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

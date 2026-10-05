@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=354",
+  "fetchedAt": "2026-10-05T13:16:55.823Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=354",
+  "kind": "search",
+  "responseSha256": "222571e68e8fa1b60b5375a7cb6988f75b2a89cdb21028b234ad3fa7570d1bc2",
+  "files": [
+    {
+      "path": "myhome/07809-fd0ac80a886ffb45-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=354\"].SearchResults",
+      "sha256": "c3ccdfc009386534bf9be9ece26a0c889e80ffd87b861a74a39a71fd3db370d8",
+      "bytes": 133154
+    },
+    {
+      "path": "myhome/07809-fd0ac80a886ffb45-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=354\"] (paging fields)",
+      "sha256": "dc079379596227d5c6448da38dbbc7ce459caa2437e092ade64935691feb0c52",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/152-saint-james-s-road-greenhills-dublin-12/5010325",
+    "https://www.myhome.ie/residential/brochure/creamery-house-loughcullen-kilmacow-kilkenny/5018789",
+    "https://www.myhome.ie/residential/brochure/old-park-house-claremorris-mayo/5019542",
+    "https://www.myhome.ie/residential/brochure/22-abbeyfield-ballaghaderreen-co-roscommon/5019571",
+    "https://www.myhome.ie/residential/brochure/1636-pairc-mhuire-newbridge-co-kildare/5019569",
+    "https://www.myhome.ie/residential/brochure/45-woodlands-navan-meath/5019560",
+    "https://www.myhome.ie/residential/brochure/11-the-court-robswall-malahide-dublin/5019550",
+    "https://www.myhome.ie/residential/brochure/lawcus-stoneyford-co-kilkenny/5019554",
+    "https://www.myhome.ie/residential/brochure/109-philipsburgh-avenue-fairview-dublin-3-d03-e8e8/5019552",
+    "https://www.myhome.ie/residential/brochure/18-cluain-an-oir-belgooly-cork/5019546",
+    "https://www.myhome.ie/residential/brochure/prucklish-church-hill-letterkenny-co-donegal/5019539",
+    "https://www.myhome.ie/residential/brochure/25-kingsbridge-south-douglas-road-cork/5019538",
+    "https://www.myhome.ie/residential/brochure/ticknevin-carbury-kildare/5019525",
+    "https://www.myhome.ie/residential/brochure/28-the-courthouse-rathcoole-co-dublin/5019534",
+    "https://www.myhome.ie/residential/brochure/glenveagh-house-abbeyleix-road-portlaoise-co-laois/5019527",
+    "https://www.myhome.ie/residential/brochure/59-sli-na-speire-clieveragh-listowel-co-kerry/5019526",
+    "https://www.myhome.ie/residential/brochure/93-kiltipper-gate-tallaght-dublin-24/5019524",
+    "https://www.myhome.ie/residential/brochure/boherkyle-castlecomer-co-kilkenny-castlecomer-kilkenny/5019511",
+    "https://www.myhome.ie/residential/brochure/cragleigh-house-cragleigh-ennis-co-clare/5019522",
+    "https://www.myhome.ie/residential/brochure/apt-11-altamont-hall-dundrum-dublin-14/5010882"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=355",
+  "paginationLimited": false
+}

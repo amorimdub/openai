@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/25-marlinstown-park-dublin-road-mullingar-co-westmeath/6687456",
+  "fetchedAt": "2026-10-05T09:23:05.460Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/25-marlinstown-park-dublin-road-mullingar-co-westmeath/6687456",
+  "kind": "listing",
+  "responseSha256": "5bb76fdecc6b1282530aa4534d27bf48b9e9bd269127fd5fdb744c7046890dde",
+  "files": [
+    {
+      "path": "daft/01011-06a617a19fedb6a1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "833ad4ce5f9f7f475ea813aa8b3d5c1966a55ffff6341328962aedd3c130aff8",
+      "bytes": 28380
+    },
+    {
+      "path": "daft/01011-06a617a19fedb6a1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "619ba7021b4e03be351e3dccd65f8ccf18cb966b5840d2cb61b7b94205c681c7",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

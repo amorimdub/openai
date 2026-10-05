@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/52a-sundrive-road-kimmage-dublin-12/6664184",
+  "fetchedAt": "2026-10-05T09:22:05.364Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/52a-sundrive-road-kimmage-dublin-12/6664184",
+  "kind": "listing",
+  "responseSha256": "8880abda40530380180712b99e0d41c95b68a89da19c3d511f6e728cb8eff847",
+  "files": [
+    {
+      "path": "daft/00971-20909f78f2052e72-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f579f959f160c0f7dabb32294e26df2999ec232ee8b39f43e7334ca57f3e2320",
+      "bytes": 34265
+    },
+    {
+      "path": "daft/00971-20909f78f2052e72-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5e0f685062676fd46281238defe49abe103c45cbe71f056955a5cf2d37102200",
+      "bytes": 8027
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

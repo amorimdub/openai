@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=25",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=25",
+  "fetchedAt": "2026-10-05T09:20:43.881Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "3f6f5f925603e59d753027f8d9db490701c26ef4946be72341cf7ee8623c2ad2",
+  "files": [
+    {
+      "path": "myhome/00912-5cc753b1e39738ef-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=25\"].SearchResults",
+      "sha256": "cdb9b680e60c0fe9bfa443ebc6ab3147613c5b3e69fe11886904030a97ebd50f",
+      "bytes": 114946
+    },
+    {
+      "path": "myhome/00912-5cc753b1e39738ef-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=25\"] (paging fields)",
+      "sha256": "ef56b89e9c74a8e0d5cbb2abe2ca5d892add593a3780996780f159893669423c",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/163-kilnap-place-farranree-cork/5031466",
+    "https://www.myhome.ie/residential/brochure/4-glenaulin-park-chapelizod-dublin-20/5000292",
+    "https://www.myhome.ie/residential/brochure/annacrivey-kill-lane-foxrock-dublin-18/5028410",
+    "https://www.myhome.ie/residential/brochure/ballyhow-screen-co-wexford/5031802",
+    "https://www.myhome.ie/residential/brochure/mahanagh-boyle-cloonloo-co-sligo/5031801",
+    "https://www.myhome.ie/residential/brochure/3-churchfield-place-east-churchfield-cork/5031478",
+    "https://www.myhome.ie/residential/brochure/17-bridge-street-dundalk-louth/5031098",
+    "https://www.myhome.ie/residential/brochure/2-cluain-mhuire-goresbridge-co-kilkenny/5029792",
+    "https://www.myhome.ie/residential/brochure/83-blackheath-park-clontarf-dublin-3/5031798",
+    "https://www.myhome.ie/residential/brochure/1-ashgrove-avenue-ballyvolane-cork/4957120",
+    "https://www.myhome.ie/residential/brochure/kilduff-house-cloncurry-enfield-co-kildare/5031797",
+    "https://www.myhome.ie/residential/brochure/site-at-1-ashgrove-avenue-ballyvolane-cork/5030331",
+    "https://www.myhome.ie/residential/brochure/ardoughter-ballyduff-kerry/4804666",
+    "https://www.myhome.ie/residential/brochure/nolans-hill-fenit-kerry/5025191",
+    "https://www.myhome.ie/residential/brochure/13-front-field-oakview-village-tralee-kerry/5030938",
+    "https://www.myhome.ie/residential/brochure/21-ely-close-firhouse-dublin-24/5031795",
+    "https://www.myhome.ie/residential/brochure/58-conquer-hill-road-clontarf-dublin/5031529",
+    "https://www.myhome.ie/residential/brochure/50-d-n-darrach-dublin-road-longford-town-longford/5031794",
+    "https://www.myhome.ie/residential/brochure/ballyfeeny-kilglass-roscommon/5031793",
+    "https://www.myhome.ie/residential/brochure/7-the-place-citywest-village-dublin-24/5031791"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=26",
+  "paginationLimited": false
+}

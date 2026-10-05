@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=110",
+  "fetchedAt": "2026-10-05T11:10:29.280Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=110",
+  "kind": "search",
+  "responseSha256": "5d729b4d1e4f8732d3bcf1bc99fa2107cd7ae92e1c9661abb98902eee6bb98a5",
+  "files": [
+    {
+      "path": "myhome/02786-18fa1e6de86e2966-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=110\"].SearchResults",
+      "sha256": "ef7a3ea0565c6cb7f4f8eff8b0b0794da6e29fc13785f0910c6dca6b353d4db0",
+      "bytes": 118040
+    },
+    {
+      "path": "myhome/02786-18fa1e6de86e2966-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=110\"] (paging fields)",
+      "sha256": "4f3ec0f2be94fef8aa50e37688af9d8ef51f79971d3b7160becfed16495746df",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apt-12-68-jervis-st-north-city-dublin-1/5030084",
+    "https://www.myhome.ie/residential/brochure/no-4-main-street-shillelagh-county-wicklow/5030081",
+    "https://www.myhome.ie/residential/brochure/43-twin-oaks-bailieborough-county-cavan/5030080",
+    "https://www.myhome.ie/residential/brochure/172-mulvey-park-dundrum-dublin-14/5030079",
+    "https://www.myhome.ie/residential/brochure/sandhill-tiernaur-newport-co-mayo/5030076",
+    "https://www.myhome.ie/residential/brochure/46-pearse-park-drogheda-louth/5030070",
+    "https://www.myhome.ie/residential/brochure/copperbeech-house-athenry-road-loughrea-co-galway/5030073",
+    "https://www.myhome.ie/residential/brochure/rathconnell-mullingar-co-westmeath/5030072",
+    "https://www.myhome.ie/residential/brochure/no-11-clifford-terrace-wexford-town-wexford/5030067",
+    "https://www.myhome.ie/residential/brochure/8-the-fairways-old-golf-links-road-kilkenny-kilkenny/5030069",
+    "https://www.myhome.ie/residential/brochure/23-b-thar-brugha-drogheda-louth/5030068",
+    "https://www.myhome.ie/residential/brochure/no-56-melrose-court-upper-george-s-street-wexford-town-wexford/5030062",
+    "https://www.myhome.ie/residential/brochure/1-radharc-na-sleibhte-lahardane-ballina-co-mayo/5030061",
+    "https://www.myhome.ie/residential/brochure/1-st-patricks-villas-ringsend-dublin-4/5030059",
+    "https://www.myhome.ie/residential/brochure/12-chestnut-lawn-johnstown-wood-navan-co-meath/5030056",
+    "https://www.myhome.ie/residential/brochure/22-woodleigh-park-blessington-wicklow/5030052",
+    "https://www.myhome.ie/residential/brochure/5-the-avenue-fox-meadow-kilkenny/5030054",
+    "https://www.myhome.ie/residential/brochure/b22-bastion-quay-deerpark-road-athlone-co-westmeath/5030051",
+    "https://www.myhome.ie/residential/brochure/78-old-kilgobbin-road-sandyford-dublin-18/5030050",
+    "https://www.myhome.ie/residential/brochure/12-beverton-lawns-donabate-county-dublin/5000435"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=111",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-4-ballinode-co-monaghan-ballinode-co-monaghan/6685529",
+  "fetchedAt": "2026-10-05T09:35:21.490Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-4-ballinode-co-monaghan-ballinode-co-monaghan/6685529",
+  "kind": "listing",
+  "responseSha256": "ea0e04e8a9acadb8a585fa747e245ed630617063333d6ae2abd4374c2789a602",
+  "files": [
+    {
+      "path": "daft/01501-eab688d61c382f88-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5ead6868b67e6eb9fd82ac5c568d1a2cd40662e9340f1448e26fa48bc74b4120",
+      "bytes": 6583
+    },
+    {
+      "path": "daft/01501-eab688d61c382f88-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

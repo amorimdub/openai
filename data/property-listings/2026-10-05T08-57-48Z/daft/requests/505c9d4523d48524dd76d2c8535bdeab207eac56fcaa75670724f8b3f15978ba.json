@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/railway-road-kilmallock-co-limerick/6582890",
+  "fetchedAt": "2026-10-05T09:36:53.085Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/railway-road-kilmallock-co-limerick/6582890",
+  "kind": "listing",
+  "responseSha256": "4167dac5b517fd47490b3652f61b0ee1c00a778b524dacff0566080c39b3f317",
+  "files": [
+    {
+      "path": "daft/01562-505c9d4523d48524-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b66519aa34afec8d88e1c0eb7b737eaf51b74aa50fe0d4fb3e6851198e5e1a53",
+      "bytes": 124333
+    },
+    {
+      "path": "daft/01562-505c9d4523d48524-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "38430b7b988bb0ce4f563bbdbb280c03835a6643f4aab51e6595a4532245c2c2",
+      "bytes": 7996
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

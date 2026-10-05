@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/leinster-street-east-dublin-3-north-strand-dublin-3/6685977",
+  "fetchedAt": "2026-10-05T09:32:21.304Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/leinster-street-east-dublin-3-north-strand-dublin-3/6685977",
+  "kind": "listing",
+  "responseSha256": "5dc6c5b99565e98aa4f18c5f384e533dd287dfdc47e14597aa4f3fb8171cc303",
+  "files": [
+    {
+      "path": "daft/01381-47fe6d5317c3699c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5a4c3115b258d115d3139b4bd2d30e6d720e24cd36c3615e73346cfe8ee9d9d1",
+      "bytes": 31290
+    },
+    {
+      "path": "daft/01381-47fe6d5317c3699c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "08d666e8ef6008aee4595beb11378daa42def8a72ba3f83f6564a952f4e71563",
+      "bytes": 8083
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

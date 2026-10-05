@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=204",
+  "fetchedAt": "2026-10-05T11:59:29.847Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=204",
+  "kind": "search",
+  "responseSha256": "b197167eebdf67152a50db468cd7db155d0000964e9c9bf7e2ff7831908dfe12",
+  "files": [
+    {
+      "path": "myhome/04723-9c492e71cf1a2f90-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=204\"].SearchResults",
+      "sha256": "aaae495ee8834b8fdb7ac75685eab59a77e4e4299684c01cb8ca81989015bf75",
+      "bytes": 124250
+    },
+    {
+      "path": "myhome/04723-9c492e71cf1a2f90-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=204\"] (paging fields)",
+      "sha256": "2c27b3832771b049fc10e4329f0017fb658cfe7121835122367989418cfd18bb",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/27-college-green-green-road-carlow/5027502",
+    "https://www.myhome.ie/residential/brochure/the-old-school-house-ballycumber-tinahely-wicklow/5027489",
+    "https://www.myhome.ie/residential/brochure/101-north-road-finglas-dublin-11/5017744",
+    "https://www.myhome.ie/residential/brochure/40-hampton-wood-drive-finglas-dublin-11/4972815",
+    "https://www.myhome.ie/residential/brochure/83-allen-park-road-stillorgan-co-dublin/5027497",
+    "https://www.myhome.ie/residential/brochure/cnoc-an-aighre-model-farm-road-carrigrohane-co-cork/5027495",
+    "https://www.myhome.ie/residential/brochure/apt-9-phoenix-view-the-steeples-chapelizod-dublin-20/5027486",
+    "https://www.myhome.ie/residential/brochure/cloonlara-dowth-drogheda-meath/5023214",
+    "https://www.myhome.ie/residential/brochure/68-main-street-howth-co-dublin/4953182",
+    "https://www.myhome.ie/residential/brochure/apt-20-riverside-distillery-road-westport-co-mayo/5027490",
+    "https://www.myhome.ie/residential/brochure/no-1-lower-quay-westport-co-mayo/5027488",
+    "https://www.myhome.ie/residential/brochure/32-ardoughan-woods-ballina-mayo/5027479",
+    "https://www.myhome.ie/residential/brochure/drumaveg-moycullen-co-galway/5027478",
+    "https://www.myhome.ie/residential/brochure/99-grattan-lodge-donaghmede-dublin-13/5027477",
+    "https://www.myhome.ie/residential/brochure/dunmaynor-killasser-co-mayo/5027475",
+    "https://www.myhome.ie/residential/brochure/2-broadford-avenue-ballinteer-dublin-16/5027474",
+    "https://www.myhome.ie/residential/brochure/10-victoria-village-rathgar-dublin-6/5027194",
+    "https://www.myhome.ie/residential/brochure/cuil-aluinn-gurteenroe-macroom-cork/4938289",
+    "https://www.myhome.ie/residential/brochure/carrowkibbock-lower-ballycastle-co-mayo/5027472",
+    "https://www.myhome.ie/residential/brochure/5-the-mews-station-manor-portmarnock-county-dublin/5021527"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=205",
+  "paginationLimited": false
+}

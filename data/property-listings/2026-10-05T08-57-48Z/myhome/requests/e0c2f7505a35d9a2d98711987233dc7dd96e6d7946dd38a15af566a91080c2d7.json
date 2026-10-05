@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=302",
+  "fetchedAt": "2026-10-05T12:50:43.467Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=302",
+  "kind": "search",
+  "responseSha256": "1a2b0f47e99b774d460e3dc48959a144d98ab4c22fea16a38ad322f242329f24",
+  "files": [
+    {
+      "path": "myhome/06763-e0c2f7505a35d9a2-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=302\"].SearchResults",
+      "sha256": "207eebff0c2a8bd20d93046ef120068d6ad555d7c9d075a2dd8ec334e32141fd",
+      "bytes": 115243
+    },
+    {
+      "path": "myhome/06763-e0c2f7505a35d9a2-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=302\"] (paging fields)",
+      "sha256": "dbb173161924781e856f0c7f637b13a4cb085b99f42e528b1c51ed61d25c9313",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/44-sidmonton-gardens-bray-co-wicklow/5023812",
+    "https://www.myhome.ie/residential/brochure/34-clonbrusk-athlone-co-westmeath/5023809",
+    "https://www.myhome.ie/residential/brochure/32-borris-little-portlaoise-co-laois/5023808",
+    "https://www.myhome.ie/residential/brochure/85-iona-road-glasnevin-dublin-9/4991471",
+    "https://www.myhome.ie/residential/brochure/the-old-rectory-lot-1-glebe-timolin-co-kildare/4991035",
+    "https://www.myhome.ie/residential/brochure/the-old-rectory-glebe-timolin-co-kildare/4991039",
+    "https://www.myhome.ie/residential/brochure/residential-farm-standing-on-20-43-acres-knocknaglogh-dungarvan-waterford/5023749",
+    "https://www.myhome.ie/residential/brochure/10-castle-row-ballina-co-mayo/5023731",
+    "https://www.myhome.ie/residential/brochure/ballykeeran-athlone-east-westmeath/5023682",
+    "https://www.myhome.ie/residential/brochure/1-the-lodges-rocky-valley-crescent-kilmacanogue-co-wicklow/5023681",
+    "https://www.myhome.ie/residential/brochure/1-brompton-grove-castleknock-dublin-15/5023680",
+    "https://www.myhome.ie/residential/brochure/mohia-lane-killurin-tullamore-offaly/4995806",
+    "https://www.myhome.ie/residential/brochure/ballykilmurray-tullamore-offaly/5021854",
+    "https://www.myhome.ie/residential/brochure/55-silk-park-drogheda-louth/5023675",
+    "https://www.myhome.ie/residential/brochure/162-corrib-road-terenure-dublin-6w/4993092",
+    "https://www.myhome.ie/residential/brochure/106-sperrin-road-drimnagh-dublin-12/5019608",
+    "https://www.myhome.ie/residential/brochure/cronagort-doolin-co-clare/5023662",
+    "https://www.myhome.ie/residential/brochure/lands-bunnanertish-knockanillaun-ballina-co-mayo/5023661",
+    "https://www.myhome.ie/residential/brochure/41-grosvenor-park-rathmines-dublin-6/5023660",
+    "https://www.myhome.ie/residential/brochure/6-woodbrook-manor-monavalley-tralee-co-kerry/5023653"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=303",
+  "paginationLimited": false
+}

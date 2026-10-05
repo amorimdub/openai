@@ -1,0 +1,388 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "apartment 53 southmede ballinteer dublin 16",
+    "GroupId": 334039,
+    "Address": "Apartment 53 Southmede",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/45e5680c-9448-47d7-abf2-2068f90eb9e5_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/45e5680c-9448-47d7-abf2-2068f90eb9e5_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/45e5680c-9448-47d7-abf2-2068f90eb9e5_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/216a00b3-9098-4049-9611-0d1227f75e8e_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44b8c7e4-12e2-4cbc-bd05-7728c635b0bd_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/d9f290de-a3d6-49e9-a952-1888d9cb52e1_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/09e44e71-0d68-408a-86ff-8629f623e945_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44951827-816f-4202-92a4-b76ebebe043d_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/8cbd2e09-ea4d-49f4-bf1e-22677748752c_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/1ee97d39-a624-4633-8043-8239783d510a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497ca08c-7bf0-4749-961b-6ce49ce90f1f_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/aaf6fb4d-bfc3-40d9-85e7-b1181dc9cb9d_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/f1615c8c-26c3-407b-837a-b3d4658c0c40_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/015851cf-b3ea-43d8-9479-b91acc6ac222_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497dabbb-5a89-4e0f-a4f5-15ec91ccbd13_l.jpeg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 15,
+        "Name": "Non Smoker",
+        "CreatedOn": "2018-03-20T10:28:47.7000000+00:00",
+        "IconName": "myh-icon-non-smoker",
+        "IsRequirement": true
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 28,
+        "Name": "No Pets",
+        "CreatedOn": "2018-09-11T10:20:24.0170000+01:00",
+        "IconName": "myh-icon-no-pets",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Apartment 53 Southmede, Ballinteer, Dublin 16 \r\n\r\nBorgman Earls are delighted to present Apartment 53 Southmede to the rental market. Southmede is a well established gated development close to Dundrum and Ballinteer. Available 14th of September 2026.\r\n\r\nThis bright and spacious two-bedroom penthouse apartment enjoys a superb dual-aspect layout with two private balconies and exceptional views across the Dublin Mountains to the south and Dublin city to the north. Positioned on the fourth floor, it is one of just three apartments on the penthouse level, offering a wonderful sense of privacy and natural light throughout the day.\r\n\r\nThe accommodation is well laid out and extends to a welcoming entrance hall, a generous open-plan living, dining and kitchen area with direct access to the south-facing balcony, two large double bedrooms, including a principal bedroom with ensuite, and a main bathroom. The apartment is presented in excellent condition and benefits from gas-fired central heating, making it a comfortable and energy-efficient home year-round.\r\n\r\nSouthmede is a well-maintained development in one of South Dublin's most convenient locations. Dundrum Town Centre, the Luas, Airfield Estate and the M50 are all just minutes away, while nearby parks, gyms and sporting facilities make it an ideal base for anyone looking to enjoy both city convenience and outdoor amenities.\r\n\r\nThe area is also exceptionally well served by schools, including Wesley College, St Attracta's, Holy Cross and several other primary and secondary schools, while UCD and a number of Dublin's colleges are easily accessible by Luas and bus."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "•\tBright dual-aspect penthouse apartment.\r\n•\tTwo double bedrooms.\r\n•\tPrincipal bedroom with ensuite.\r\n•\tTwo private balconies, including a south-facing balcony with mountain views.\r\n•\tFourth-floor apartment with excellent privacy.\r\n•\tGas-fired central heating.\r\n•\tSpacious open-plan living, dining and kitchen area.\r\n•\tExcellent transport links with the Luas just a short walk away.\r\n•\tMinutes from Dundrum Town Centre, Airfield Estate and the M50."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C1"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 234124,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-04T15:21:37.2600000+01:00",
+    "ModifiedOnDate": "2026-09-04T15:35:31.8770000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-04T15:36:02.3930000+01:00",
+    "RefreshedOn": "2026-09-30T10:55:54.8400000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,850 / month",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5026379,
+    "BedsString": "2 beds",
+    "DisplayAddress": "Apartment 53 Southmede, Ballinteer, Dublin 16",
+    "Eircode": "D16EW72",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1457,
+    "RegionName": "Dublin 16",
+    "LocalityId": 1263,
+    "LocalityName": "Ballinteer",
+    "Price": {
+      "MinRentalPrice": 2850,
+      "MaxRentalPrice": 2850,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2850,
+      "ShowPrice": true,
+      "AvailableOn": "2026-09-14T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2850,
+      "MaxMonthlyRentalPrice": 2850
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/45e5680c-9448-47d7-abf2-2068f90eb9e5_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/45e5680c-9448-47d7-abf2-2068f90eb9e5_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/45e5680c-9448-47d7-abf2-2068f90eb9e5_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/216a00b3-9098-4049-9611-0d1227f75e8e_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/216a00b3-9098-4049-9611-0d1227f75e8e_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/216a00b3-9098-4049-9611-0d1227f75e8e_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44b8c7e4-12e2-4cbc-bd05-7728c635b0bd_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44b8c7e4-12e2-4cbc-bd05-7728c635b0bd_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44b8c7e4-12e2-4cbc-bd05-7728c635b0bd_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/d9f290de-a3d6-49e9-a952-1888d9cb52e1_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/d9f290de-a3d6-49e9-a952-1888d9cb52e1_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/d9f290de-a3d6-49e9-a952-1888d9cb52e1_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/09e44e71-0d68-408a-86ff-8629f623e945_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/09e44e71-0d68-408a-86ff-8629f623e945_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/09e44e71-0d68-408a-86ff-8629f623e945_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44951827-816f-4202-92a4-b76ebebe043d_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44951827-816f-4202-92a4-b76ebebe043d_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/44951827-816f-4202-92a4-b76ebebe043d_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/8cbd2e09-ea4d-49f4-bf1e-22677748752c_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/8cbd2e09-ea4d-49f4-bf1e-22677748752c_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/8cbd2e09-ea4d-49f4-bf1e-22677748752c_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/1ee97d39-a624-4633-8043-8239783d510a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/1ee97d39-a624-4633-8043-8239783d510a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/1ee97d39-a624-4633-8043-8239783d510a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497ca08c-7bf0-4749-961b-6ce49ce90f1f_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497ca08c-7bf0-4749-961b-6ce49ce90f1f_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497ca08c-7bf0-4749-961b-6ce49ce90f1f_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/aaf6fb4d-bfc3-40d9-85e7-b1181dc9cb9d_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/aaf6fb4d-bfc3-40d9-85e7-b1181dc9cb9d_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/aaf6fb4d-bfc3-40d9-85e7-b1181dc9cb9d_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/f1615c8c-26c3-407b-837a-b3d4658c0c40_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/f1615c8c-26c3-407b-837a-b3d4658c0c40_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/f1615c8c-26c3-407b-837a-b3d4658c0c40_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/015851cf-b3ea-43d8-9479-b91acc6ac222_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/015851cf-b3ea-43d8-9479-b91acc6ac222_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/015851cf-b3ea-43d8-9479-b91acc6ac222_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497dabbb-5a89-4e0f-a4f5-15ec91ccbd13_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497dabbb-5a89-4e0f-a4f5-15ec91ccbd13_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/3/5026379/497dabbb-5a89-4e0f-a4f5-15ec91ccbd13_m.jpeg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2446854,
+      "latitude": 53.2832643
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 13,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 334039,
+    "Name": "Borgman Earls Property Consultants",
+    "DisplayPhone": "01 662 5931",
+    "Email": "info@borgmanearls.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "borgman-earls-lettings-management",
+    "SeoName": "borgman-earls-lettings-management",
+    "Address": "11 Herbert Street, Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/9/3/0/334039/logo.jpg",
+    "SalesLicense": "003265",
+    "RentalLicense": "003265",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballinteer/1263",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/apartment-53-southmede-ballinteer-dublin-16/5026379",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Dishwasher",
+    "Cable TV",
+    "Internet",
+    "Suits Professionals",
+    "References Required"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 234124,
+    "Name": "Tracy Earls",
+    "Email": "tracy@borgmanearls.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 334039,
+    "MYH_LocalityID": 1263,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1457,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Washing Machine",
+      "Cable Television",
+      "Central Heating",
+      "Broadband",
+      "Balcony",
+      "References Required",
+      "Non Smoker",
+      "Full Furnished",
+      "Dishwasher",
+      "No Pets"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Washing Machine,Cable Television,Central Heating,Broadband,Balcony,References Required,Non Smoker,Full Furnished,Dishwasher,No Pets",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 90,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5026379,
+    "MYH_PropertyTypeID": 74
+  }
+}

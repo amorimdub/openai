@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=350",
+  "fetchedAt": "2026-10-05T13:14:58.582Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=350",
+  "kind": "search",
+  "responseSha256": "0a94d7a5816cf2fce8f3d3dafed78e1355b4994b80869cbdc34f4d5e8db156c7",
+  "files": [
+    {
+      "path": "myhome/07731-d4dcc34513130712-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=350\"].SearchResults",
+      "sha256": "7782e38b773e524ec944b91cc149b8fcb0309ba13b86eadee79004045459109a",
+      "bytes": 110662
+    },
+    {
+      "path": "myhome/07731-d4dcc34513130712-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=350\"] (paging fields)",
+      "sha256": "2dde232dfa6bf25b9626bd8433699eaeb533298136e7fe1d8b11681b94d13ddd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/14-fermoyle-manor-kilanerin-gorey-wexford/5019745",
+    "https://www.myhome.ie/residential/brochure/10-seaview-park-ballycotton-cork/5019461",
+    "https://www.myhome.ie/residential/brochure/30-beech-park-avenue-foxrock-dublin-18/5019750",
+    "https://www.myhome.ie/residential/brochure/ballinderry-gardens-mullingar-westmeath/4959863",
+    "https://www.myhome.ie/residential/brochure/old-school-house-meanus-limerick/5019744",
+    "https://www.myhome.ie/residential/brochure/26-castlemanor-cavan-co-cavan/5019736",
+    "https://www.myhome.ie/residential/brochure/32-straffan-grove-straffan-wood-maynooth-co-kildare-maynooth-kildare/5011896",
+    "https://www.myhome.ie/residential/brochure/9-brownstown-kilcloon-co-meath-kilcloon-meath/5019724",
+    "https://www.myhome.ie/residential/brochure/1-cul-na-balla-carlingford-county-louth/5019732",
+    "https://www.myhome.ie/residential/brochure/14-lissadel-avenue-drimnagh-dublin-12/5019731",
+    "https://www.myhome.ie/residential/brochure/16-cluain-alainn-dungarvan-waterford/5019725",
+    "https://www.myhome.ie/residential/brochure/caherconreeffy-pallasgreen-co-limerick/5019729",
+    "https://www.myhome.ie/residential/brochure/apartment-4-charter-house-dunboyne-road-maynooth-co-kildare-maynooth-kildare/5019717",
+    "https://www.myhome.ie/residential/brochure/bealadangan-connemara-co-galway/4947792",
+    "https://www.myhome.ie/residential/brochure/1a-castletown-road-dundalk-county-louth/5019719",
+    "https://www.myhome.ie/residential/brochure/acorn-road-34-dundrum-dublin-16/5015675",
+    "https://www.myhome.ie/residential/brochure/roe-kilmeena-westport-co-mayo/5019714",
+    "https://www.myhome.ie/residential/brochure/sion-hill-house-ferrybank-waterford/5019598",
+    "https://www.myhome.ie/residential/brochure/adanove-templetown-carlingford-co-louth/5013516",
+    "https://www.myhome.ie/residential/brochure/1-winward-drive-donegal-town-donegal-town-donegal/5019711"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=351",
+  "paginationLimited": false
+}

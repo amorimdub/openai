@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/5-the-glen-coosan-road-athlone-co-westmeath/6682903",
+  "fetchedAt": "2026-10-05T09:51:58.978Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/5-the-glen-coosan-road-athlone-co-westmeath/6682903",
+  "kind": "listing",
+  "responseSha256": "e82f805ff92707374613b20d25becf105b2b23204679fb4a8c15873598202d68",
+  "files": [
+    {
+      "path": "daft/02165-9771d16c0c5067e6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a704de5a2d12b3e62ffc65885246de0f8e7e7d7e9d56f4124b6084ae89346cf3",
+      "bytes": 7346
+    },
+    {
+      "path": "daft/02165-9771d16c0c5067e6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ad8463aa252cddff054eac263bdaee817249aadb0f6ac43ef92b784e8a5cde7b",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

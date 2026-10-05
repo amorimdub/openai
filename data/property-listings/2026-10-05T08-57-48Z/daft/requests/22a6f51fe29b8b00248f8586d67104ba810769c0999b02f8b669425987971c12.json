@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=33",
+  "fetchedAt": "2026-10-05T09:35:44.017Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=33",
+  "kind": "search",
+  "responseSha256": "134edfe499182c204e98669db2e90319de82753d6db8380355fd53f5a8883f01",
+  "files": [
+    {
+      "path": "daft/01516-22a6f51fe29b8b00-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "af92fc09185ec7742595eb934eb75307a775d1ea0ba1030f336e14b4a6ca4166",
+      "bytes": 305814
+    },
+    {
+      "path": "daft/01516-22a6f51fe29b8b00-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01516-22a6f51fe29b8b00-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "0545644c55cdcedd3108c51b29f7b126f419da47d8ee685604de7e5a520aa340",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/29-cois-na-habhainn-abbeyknockmoy-co-galway/6654077",
+    "https://www.daft.ie/for-sale/44-fearann-r-doughiska-co-galway/6657342",
+    "https://www.daft.ie/for-sale/7-cluain-dara-knocknacarra-co-galway/6659171",
+    "https://www.daft.ie/for-sale/railway-road-kilmallock-co-limerick/6582890",
+    "https://www.daft.ie/for-sale/orchard-mews-1a-brookfield-avenue-blackrock-co-dublin/6658306",
+    "https://www.daft.ie/for-sale/donkell-ballymoneen-road-knocknacarra-galway-city/6625641",
+    "https://www.daft.ie/for-sale/17-dun-chaoin-dunmore-co-galway/6666624",
+    "https://www.daft.ie/for-sale/8-eden-park-road-goatstown-kilmacud-dublin-14/6665267",
+    "https://www.daft.ie/for-sale/coolpark-tuam-co-galway/6666566",
+    "https://www.daft.ie/for-sale/7-the-rivery-crosstown-ferrybank-co-wexford/6565208",
+    "https://www.daft.ie/for-sale/1-stocking-wood-green-stocking-avenue-rathfarnham-dublin-16/6666092",
+    "https://www.daft.ie/for-sale/45-woodlands-navan-co-meath/6636758",
+    "https://www.daft.ie/for-sale/18-warwick-villas-sallymount-avenue-ranelagh-dublin-6/6328194",
+    "https://www.daft.ie/for-sale/24-leeson-park-ranelagh-dublin-6/6611007",
+    "https://www.daft.ie/for-sale/clardona-baybush-straffan-co-kildare-/6607929",
+    "https://www.daft.ie/for-sale/19-ardmore-close-mullingar-co-westmeath/6666306",
+    "https://www.daft.ie/for-sale/stradbally-north-clarinbridge-co-galway/6665974",
+    "https://www.daft.ie/for-sale/apartment-50-the-horizon-building-royal-canal-park-ashtown-dublin/6660279",
+    "https://www.daft.ie/for-sale/49-carrowmore-drive-knock-co-mayo/6665519",
+    "https://www.daft.ie/for-sale/keelogue-maynooth-road-celbridge-co-kildare/6547072"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=34",
+  "paginationLimited": false
+}

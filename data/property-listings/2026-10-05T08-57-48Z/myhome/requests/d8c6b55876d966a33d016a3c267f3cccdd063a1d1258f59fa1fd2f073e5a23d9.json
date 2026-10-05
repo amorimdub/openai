@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=377",
+  "fetchedAt": "2026-10-05T13:28:49.795Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=377",
+  "kind": "search",
+  "responseSha256": "479aca92f41efec143a994747b7aa052958fd1dc2e578cd619931e4753ec75db",
+  "files": [
+    {
+      "path": "myhome/08284-d8c6b55876d966a3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=377\"].SearchResults",
+      "sha256": "3959553940c561b098539fbc3f21bd03052d59a8bc2666ee4a73c79074cc9c53",
+      "bytes": 112885
+    },
+    {
+      "path": "myhome/08284-d8c6b55876d966a3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=377\"] (paging fields)",
+      "sha256": "cf3f3fcc71f0af2aa199d38d810e3d22bb5be820b642c068f53b8ad81d8889f4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-temple-manor-drive-limekiln-greenhills-dublin-12/5003722",
+    "https://www.myhome.ie/residential/brochure/20-philipsburgh-avenue-fairview-dublin-3/4997473",
+    "https://www.myhome.ie/residential/brochure/17-knocknamona-crescent-letterkenny-county-donegal/5017793",
+    "https://www.myhome.ie/residential/brochure/2-east-road-east-wall-dublin-3/4968220",
+    "https://www.myhome.ie/residential/brochure/both-chuanna-thoir-spiddal-co-galway/5017782",
+    "https://www.myhome.ie/residential/brochure/ballynamultina-clashmore-waterford/5017780",
+    "https://www.myhome.ie/residential/brochure/dun-an-oir-carrickbrack-road-howth-dublin-13/4938317",
+    "https://www.myhome.ie/residential/brochure/32-lios-an-chnoic-carnamuggagh-letterkenny-co-donegal/5017778",
+    "https://www.myhome.ie/residential/brochure/ballinakill-rathdrum-wicklow/5017767",
+    "https://www.myhome.ie/residential/brochure/6-bridge-street-graiguecullen-carlow-co-carlow/5017771",
+    "https://www.myhome.ie/residential/brochure/125-greenpark-meadows-mullingar-westmeath/5017754",
+    "https://www.myhome.ie/residential/brochure/killahornia-creagh-ballinasloe-co-roscommon/5017769",
+    "https://www.myhome.ie/residential/brochure/27-glenties-park-finglas-dublin-11/5017768",
+    "https://www.myhome.ie/residential/brochure/ardnaculla-fortmary-park-north-circular-road-limerick/5017765",
+    "https://www.myhome.ie/residential/brochure/clonegonnell-cavan-cavan/5017752",
+    "https://www.myhome.ie/residential/brochure/711-carleton-wharf-green-park-youghal-co-cork/5017751",
+    "https://www.myhome.ie/residential/brochure/1-father-murray-parl-dundalk-county-louth/5017750",
+    "https://www.myhome.ie/residential/brochure/13-harcourt-mews-camden-street-lower-dublin-2/5010742",
+    "https://www.myhome.ie/residential/brochure/rushwee-house-saint-margarets-co-dublin/5017741",
+    "https://www.myhome.ie/residential/brochure/42-tayleurs-point-rush-co-dublin/5017739"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=378",
+  "paginationLimited": false
+}

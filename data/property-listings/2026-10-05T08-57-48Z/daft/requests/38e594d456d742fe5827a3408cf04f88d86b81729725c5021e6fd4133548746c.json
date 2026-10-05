@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-penthouse-apartment-mill-pond-parnell-avenue-harolds-cross-co-dublin/5381593",
+  "fetchedAt": "2026-10-05T09:08:38.855Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-penthouse-apartment-mill-pond-parnell-avenue-harolds-cross-co-dublin/5381593",
+  "kind": "listing",
+  "responseSha256": "f60d6179fde63439785e1a25f104bdf9f072979eba3804c12108eacd5d1c7c1f",
+  "files": [
+    {
+      "path": "daft/00434-38e594d456d742fe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a1f66db565b5986921b0c0697d35f2edcc297b44f0e789f46ae4a46da4e4a87f",
+      "bytes": 42011
+    },
+    {
+      "path": "daft/00434-38e594d456d742fe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f3c1a92114378762bcc5f26959fb638391858ddc861ac46d5f89d002ebbf52fb",
+      "bytes": 8150
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

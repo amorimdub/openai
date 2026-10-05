@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-1-34-longwood-avenue-portobello-dublin-8/6683487",
+  "fetchedAt": "2026-10-05T09:49:49.738Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-1-34-longwood-avenue-portobello-dublin-8/6683487",
+  "kind": "listing",
+  "responseSha256": "d0cb9f756f21fd1130b35acc46e8fa4d755df004b171e68c25ddc04748bfaccf",
+  "files": [
+    {
+      "path": "daft/02079-c7db298ba37c5ed0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3081a6a924e2d37fdfde67cfedb45521ee54cc36887fd4acbb7f8f371927ce3e",
+      "bytes": 15713
+    },
+    {
+      "path": "daft/02079-c7db298ba37c5ed0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c3d0b635e9f6d5f0e07c803ad9e4b21d9078cd76e3885064aa313b8e0e108720",
+      "bytes": 8101
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

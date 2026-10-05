@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/trabolgan-whitegate-midleton-co-cork/6624424",
+  "fetchedAt": "2026-10-05T09:22:42.921Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/trabolgan-whitegate-midleton-co-cork/6624424",
+  "kind": "listing",
+  "responseSha256": "6b19a3c73a209f69b591e5d92933d2ce95fb0f2303852a741914a6d836cfe5ed",
+  "files": [
+    {
+      "path": "daft/00996-c0300eb65c34a9a2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4fd39965b997bdd35a6e8ddc85fd01b7aee400a7808b28a8791dc7f8b6de5331",
+      "bytes": 44609
+    },
+    {
+      "path": "daft/00996-c0300eb65c34a9a2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f8b512ce9ec4fbb77e68f2c8f556aff487a83fd4cf61496fea8bf121b4147ea4",
+      "bytes": 8054
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

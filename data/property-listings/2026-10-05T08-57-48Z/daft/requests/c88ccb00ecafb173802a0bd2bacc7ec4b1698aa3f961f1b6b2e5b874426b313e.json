@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/15-distillery-road-drumcondra-dublin-3/6681533",
+  "fetchedAt": "2026-10-05T09:07:31.279Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/15-distillery-road-drumcondra-dublin-3/6681533",
+  "kind": "listing",
+  "responseSha256": "710ea81a2cb6e26396715449798e4f94df2e395371fc2367f8007623227c7cde",
+  "files": [
+    {
+      "path": "daft/00389-c88ccb00ecafb173-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "42f76aada670a024bef2ab92f5577ed769b6ebe49ee84c0967c8d6f63344d64c",
+      "bytes": 56752
+    },
+    {
+      "path": "daft/00389-c88ccb00ecafb173-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8866ce546195ed946975296b7a122e2cf48c4b4e747f256e2a993e4d8be58485",
+      "bytes": 8103
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

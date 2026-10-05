@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/17-vicar-street-cork-cork-city-centre-co-cork/6685846",
+  "fetchedAt": "2026-10-05T09:33:33.371Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/17-vicar-street-cork-cork-city-centre-co-cork/6685846",
+  "kind": "listing",
+  "responseSha256": "4187aa3f6d5169c55d4201604c5a91406dc0ccd1c949231579cbc5052ddeb852",
+  "files": [
+    {
+      "path": "daft/01429-1fdee1fdf1ca6409-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "994064115cd26e0964f4af60cc5d0a68156a4fb07d1b293aa2e61c6ad902e93a",
+      "bytes": 26436
+    },
+    {
+      "path": "daft/01429-1fdee1fdf1ca6409-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d58c5b87a4bba39b1df9da368a4f087ba7e600757a9b8a07ee00a5eecd2de954",
+      "bytes": 8172
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

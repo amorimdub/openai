@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-4-crosley-house-crosley-row-limerick-city-centre-co-limerick/6571769",
+  "fetchedAt": "2026-10-05T09:40:03.797Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-4-crosley-house-crosley-row-limerick-city-centre-co-limerick/6571769",
+  "kind": "listing",
+  "responseSha256": "5ee5f89497a9ba5c7d99ddb034328dd9bf590ad8541b2793182a7b95775c2c79",
+  "files": [
+    {
+      "path": "daft/01689-975dcc61a8062426-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "94eadb2a3329f19e8f6562d8bbf1c7f3f1344c8270c3ea48182962bb89eb3dd8",
+      "bytes": 63112
+    },
+    {
+      "path": "daft/01689-975dcc61a8062426-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0b9d5951aa186e5dbbad50215fea01c977a172dd11cbfda33c480d8e5aa944fc",
+      "bytes": 7992
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/kinsale-co-cork-ballinspittle-co-cork/6682495",
+  "fetchedAt": "2026-10-05T09:46:44.964Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/kinsale-co-cork-ballinspittle-co-cork/6682495",
+  "kind": "listing",
+  "responseSha256": "3e1b53d120fb992fac03680d5eec3c81ba638aa81b25158385f00bdf46d19e8b",
+  "files": [
+    {
+      "path": "daft/01956-0a4b8433085e3337-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3d482bf8669a641de44a9aa71cd701bd4391e5a7d1785a03fea5aa6f03fce36d",
+      "bytes": 30410
+    },
+    {
+      "path": "daft/01956-0a4b8433085e3337-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

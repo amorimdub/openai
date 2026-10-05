@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/banking-hall-20-main-street-athboy-co-meath/6684594",
+  "fetchedAt": "2026-10-05T09:41:47.454Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/banking-hall-20-main-street-athboy-co-meath/6684594",
+  "kind": "listing",
+  "responseSha256": "2c3248a07245b22d9f0f5791b8d6184e7d4a89eb148f7b2f473710b3506b3942",
+  "files": [
+    {
+      "path": "daft/01758-ddbe936b2b5841b0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "506f0422458b1ab910bb83351073b37ecc11134e7b3a52f58e23f2335fbc9d90",
+      "bytes": 74082
+    },
+    {
+      "path": "daft/01758-ddbe936b2b5841b0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "227d8fac26e9c3e964eff4999dbe4253fdd9df064af3d381626b8d47255e8354",
+      "bytes": 8164
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

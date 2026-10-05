@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/33-oldcourt-ballincollig-co-cork/6685839",
+  "fetchedAt": "2026-10-05T09:33:36.375Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/33-oldcourt-ballincollig-co-cork/6685839",
+  "kind": "listing",
+  "responseSha256": "5bbde62ae29d76236450bf8f9a85cfe7254fd95154f6fa235f1a3ca31ae5de21",
+  "files": [
+    {
+      "path": "daft/01431-ebea68f06840e34b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "05f2faf2064410ee6999a7353acdf4c9a918422bfcfc6340df62e6604b156a5d",
+      "bytes": 66656
+    },
+    {
+      "path": "daft/01431-ebea68f06840e34b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c57f94de9610ed43b0d3829803c2d3b1032148284814ec68a5cbf938ef36f8ae",
+      "bytes": 8085
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

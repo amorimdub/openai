@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-34-the-cedars-herbert-park-lane-anglesea-road-donnybrook-dublin-4/6672528",
+  "fetchedAt": "2026-10-05T09:13:28.733Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-34-the-cedars-herbert-park-lane-anglesea-road-donnybrook-dublin-4/6672528",
+  "kind": "listing",
+  "responseSha256": "f9bd9cff6f60fd9c56a113e5a8518abc31fcd050974e069a4e4781abce98572f",
+  "files": [
+    {
+      "path": "daft/00627-49f4c159834e685c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8c593e41744060c497fa28c3ae993e5f2f4633648d09cca57b31b53564c55810",
+      "bytes": 37208
+    },
+    {
+      "path": "daft/00627-49f4c159834e685c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "bd627716fa7b971b17481c7d0a3b27a4614019c7d9ea4c13f97311bf910ffa4f",
+      "bytes": 8253
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

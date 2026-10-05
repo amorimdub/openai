@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/11-shruffuin-apartments-newline-castlebar-co-mayo/6687286",
+  "fetchedAt": "2026-10-05T09:23:46.019Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/11-shruffuin-apartments-newline-castlebar-co-mayo/6687286",
+  "kind": "listing",
+  "responseSha256": "a92875750b328bc42e464a3f66e14995297cb2c0ffb4e8291be0974317f42eb1",
+  "files": [
+    {
+      "path": "daft/01038-f51192acb69aac75-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3a4967c0d5cb51a4c9dcccdba579c9b7a4a4f95f0ae6afff9aceb6a655eb0cf0",
+      "bytes": 11275
+    },
+    {
+      "path": "daft/01038-f51192acb69aac75-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "f550edd34cad61dec5fa5387f71fde663ceb46d7d850c52e44dd871d0c4ee57c",
+      "bytes": 8006
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

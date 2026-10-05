@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-13-killeen-hall-park-west-dublin-10/6685726",
+  "fetchedAt": "2026-10-05T09:34:36.439Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-13-killeen-hall-park-west-dublin-10/6685726",
+  "kind": "listing",
+  "responseSha256": "efcbc3aad2dc66f4c59268b18fe4cafcdd7b1ed69ca35948faae9c98de106dc5",
+  "files": [
+    {
+      "path": "daft/01471-6b63fcc5188186f7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4ae13a0ddf7433c50afe1b79aeb2a4e66599b446eb73d14eba31d88cea2ea9a5",
+      "bytes": 22692
+    },
+    {
+      "path": "daft/01471-6b63fcc5188186f7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b054ad798325f5a6b0d7f3e3641ae3ad8d3c8a6de22e8336acf4401fd0b13ec8",
+      "bytes": 8138
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

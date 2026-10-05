@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-unit-shieling-square-howth-road-raheny-co-dublin/6511365",
+  "fetchedAt": "2026-10-05T09:05:23.641Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-unit-shieling-square-howth-road-raheny-co-dublin/6511365",
+  "kind": "listing",
+  "responseSha256": "80899b608a3a7d3dcc17326bb195a962afb06e356f3bb60deeccff6329f2197a",
+  "files": [
+    {
+      "path": "daft/00304-649945eec0681335-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "50702b939458787e0c5fdbb873f342b40f00a43da786b111a41b41fa0937de08",
+      "bytes": 30763
+    },
+    {
+      "path": "daft/00304-649945eec0681335-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b9b61487ecc5424d54c4c8ebd95601d96e2757c69c58837b1aa222cc71f7c6d3",
+      "bytes": 8082
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

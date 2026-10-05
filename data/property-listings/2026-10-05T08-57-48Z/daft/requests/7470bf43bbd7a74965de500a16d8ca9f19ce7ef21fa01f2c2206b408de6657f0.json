@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/5-abbeyfield-loughrea-co-galway/6682897",
+  "fetchedAt": "2026-10-05T09:41:44.449Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/5-abbeyfield-loughrea-co-galway/6682897",
+  "kind": "listing",
+  "responseSha256": "0bc16e0bbd713ccf01c1264c1a4bf3d0501706b11affc8372dc10397fe004ef0",
+  "files": [
+    {
+      "path": "daft/01756-7470bf43bbd7a749-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "acb74fc955c5b76a1dac5616a79421c0c63ad18b1948262148f010582e32311e",
+      "bytes": 4902
+    },
+    {
+      "path": "daft/01756-7470bf43bbd7a749-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ede32d568351a73c25c8cdc9e63c9bc06b9c1bf32ab15b78fc958b38d55c95d4",
+      "bytes": 7970
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

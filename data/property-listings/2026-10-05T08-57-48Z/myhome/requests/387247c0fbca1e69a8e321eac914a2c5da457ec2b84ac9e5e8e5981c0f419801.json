@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=235",
+  "fetchedAt": "2026-10-05T12:15:42.373Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=235",
+  "kind": "search",
+  "responseSha256": "180fe7bb8a9c43395896818aabffab0e1f9d89ccb0cbbdc5de79883392f6fc51",
+  "files": [
+    {
+      "path": "myhome/05370-387247c0fbca1e69-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=235\"].SearchResults",
+      "sha256": "4e9cdf04315c8089801c03b5818824f53425607f5aed3d8eb200dcb7d492a8ce",
+      "bytes": 118402
+    },
+    {
+      "path": "myhome/05370-387247c0fbca1e69-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=235\"] (paging fields)",
+      "sha256": "6d00628b965d015cd3a267295259c8abfffedd646baf2f7448b921ccbbc54a27",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/32-seagreen-park-greystones-co-wicklow/5026559",
+    "https://www.myhome.ie/residential/brochure/liscullane-tulla-ennis-co-clare/5026558",
+    "https://www.myhome.ie/residential/brochure/18-pound-street-kilrush-co-clare/5026557",
+    "https://www.myhome.ie/residential/brochure/gortygara-gurteen-ballymote-co-sligo/5026556",
+    "https://www.myhome.ie/residential/brochure/42-annaville-park-dundrum-dublin-14/5026555",
+    "https://www.myhome.ie/residential/brochure/7-northshore-greystones-wicklow/5023491",
+    "https://www.myhome.ie/residential/brochure/baunarawn-lodge-clonkeen-portlaoise-co-laois/5026552",
+    "https://www.myhome.ie/residential/brochure/no-47-templemichael-glebe-longford-longford/5026551",
+    "https://www.myhome.ie/residential/brochure/53-the-green-kilminchy-portlaoise-co-laois/5019657",
+    "https://www.myhome.ie/residential/brochure/49-riverdale-oranmore-galway/5026550",
+    "https://www.myhome.ie/residential/brochure/10-drumcairn-green-tallaght-dublin-24/5026545",
+    "https://www.myhome.ie/residential/brochure/bodenstown-lodge-bodenstown-sallins-co-kildare/5000906",
+    "https://www.myhome.ie/residential/brochure/7-ashfield-park-booterstown-county-dublin/5010720",
+    "https://www.myhome.ie/residential/brochure/152-carrig-court-saggart-citywest-dublin-24/5022094",
+    "https://www.myhome.ie/residential/brochure/31-earlscourt-athy-kildare/5026544",
+    "https://www.myhome.ie/residential/brochure/32-rathgailine-portlaoise-co-laois/5026539",
+    "https://www.myhome.ie/residential/brochure/21-waterside-lawn-waterside-malahide-co-dublin/5026532",
+    "https://www.myhome.ie/residential/brochure/parochial-house-abbey-loughrea/5026530",
+    "https://www.myhome.ie/residential/brochure/12-connolly-gardens-inchicore-dublin-8/5026529",
+    "https://www.myhome.ie/residential/brochure/9-abbey-street-portumna-co-galway/5026527"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=236",
+  "paginationLimited": false
+}

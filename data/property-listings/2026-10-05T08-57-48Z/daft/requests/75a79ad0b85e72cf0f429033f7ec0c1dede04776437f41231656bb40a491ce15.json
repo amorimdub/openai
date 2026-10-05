@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=20",
+  "fetchedAt": "2026-10-05T09:22:06.865Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=20",
+  "kind": "search",
+  "responseSha256": "dd2c765f4da2edc28321c9f0e6b299d6cb92505dbd9642a66e8d2eeab2d78e80",
+  "files": [
+    {
+      "path": "daft/00972-75a79ad0b85e72cf-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "03920224dea13cbbe2e9fedf1d446ddfdd537efc87606c0e8ebc3dc4e7d75d28",
+      "bytes": 302343
+    },
+    {
+      "path": "daft/00972-75a79ad0b85e72cf-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00972-75a79ad0b85e72cf-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "820f473dd4a3b7911c2f64c1b89571c931ddf1c60fd628e97ec169e840002d14",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/saint-kilda-sandycove-avenue-east-sandycove-co-dublin/6675897",
+    "https://www.daft.ie/for-sale/apartment-101-chapelgate-drumcondra-dublin-9/6611377",
+    "https://www.daft.ie/for-sale/cammarano-st-johns-road-wexford-town-wexford/6646790",
+    "https://www.daft.ie/for-sale/herondale-ballinesker-curracloe-co-wexford/6548701",
+    "https://www.daft.ie/for-sale/the-log-cabin-tawnyculawee-castlebar-co-mayo/6641326",
+    "https://www.daft.ie/for-sale/29-marian-crescent-rathfarnham-dublin-14/6675120",
+    "https://www.daft.ie/for-sale/ballystraw-duncannon-duncannon-co-wexford/6663327",
+    "https://www.daft.ie/for-sale/4-hampton-crescent-saint-helens-wood-blackrock-co-dublin/6544900",
+    "https://www.daft.ie/for-sale/52-saint-fintans-villas-deansgrange-blackrock-co-dublin/6674984",
+    "https://www.daft.ie/for-sale/cloverhill-ballinrobe-co-mayo/6675529",
+    "https://www.daft.ie/for-sale/inverbrinny-skevanish-innishannon-co-cork/6674802",
+    "https://www.daft.ie/for-sale/ticknevin-carbury-carbury-co-kildare/6669683",
+    "https://www.daft.ie/for-sale/46-cloon-lara-mullingar-mullingar-co-westmeath/6675140",
+    "https://www.daft.ie/for-sale/11-churchwell-close-belmayne-co-dublin/6675128",
+    "https://www.daft.ie/for-sale/78-meadows-way-graiguecullen-carlow-town-co-laois/6675106",
+    "https://www.daft.ie/for-sale/98-home-farm-road-dublin-9-drumcondra-dublin-9/6675065",
+    "https://www.daft.ie/for-sale/20-brookfield-carnew-arklow-co-wicklow/6623624",
+    "https://www.daft.ie/for-sale/lazy-acre-roney-point-ardamine-gorey-co-wexford/6623696",
+    "https://www.daft.ie/for-sale/avalon-munny-gorey-co-wexford/6656253",
+    "https://www.daft.ie/for-sale/151-thomas-moore-road-walkinstown-dublin-12/6675054"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=21",
+  "paginationLimited": false
+}

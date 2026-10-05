@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-45-weavers-hall-levmoss-park-leopardstown-dublin-18/6646922",
+  "fetchedAt": "2026-10-05T09:43:10.090Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-45-weavers-hall-levmoss-park-leopardstown-dublin-18/6646922",
+  "kind": "listing",
+  "responseSha256": "f91c153e447bf9dc1cad13c342d176ab8a1147f2ede16486dbb12522f1bc5c91",
+  "files": [
+    {
+      "path": "daft/01813-24ea343f62235ad7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "666c0314bb0e939256eb1f80603f99a1bc3d28ac33198640b5c7d2cd16f67048",
+      "bytes": 34704
+    },
+    {
+      "path": "daft/01813-24ea343f62235ad7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "99e63efa192e9d1bde94d6093b4ec83ad680a9cf5e012926196accc929fa4711",
+      "bytes": 8096
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=117",
+  "fetchedAt": "2026-10-05T11:13:59.573Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=117",
+  "kind": "search",
+  "responseSha256": "f1b3112bf8e3180792dd1cf5e66e71fe0c0e99a303dcf874cbb63632cbbeb954",
+  "files": [
+    {
+      "path": "myhome/02926-80b2ef0b4d536558-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=117\"].SearchResults",
+      "sha256": "f32f752a50db53967f718755dc449a73f5165e237393141f3aaf759d183c9758",
+      "bytes": 108673
+    },
+    {
+      "path": "myhome/02926-80b2ef0b4d536558-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=117\"] (paging fields)",
+      "sha256": "4dc312f725428be829d8ba11ebaf9c336c3f108c7bbff745204e2dc373867b2a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/8-leix-road-cabra-dublin-7/5029872",
+    "https://www.myhome.ie/residential/brochure/27-chestnut-hill-killeens-wexford-town-co-wexford/5029869",
+    "https://www.myhome.ie/residential/brochure/62-cosby-avenue-fairgreen-mountmellick-road-portlaoise-co-laois/5029868",
+    "https://www.myhome.ie/residential/brochure/three-ways-maghery-dungloe-county-donegal/5029865",
+    "https://www.myhome.ie/residential/brochure/1-ashbrook-pearse-road-sligo/5017133",
+    "https://www.myhome.ie/residential/brochure/woodbrook-lodge-kilmurry-kilworth-cork/4998587",
+    "https://www.myhome.ie/residential/brochure/3-ballintyre-downs-ballinteer-dublin-16/5029863",
+    "https://www.myhome.ie/residential/brochure/25-belarmine-place-stepaside-dublin-18/5029861",
+    "https://www.myhome.ie/residential/brochure/26-leeson-village-donnybrook-dublin-4/5029862",
+    "https://www.myhome.ie/residential/brochure/7-bells-terrace-pearse-road-sligo-sligo/5029860",
+    "https://www.myhome.ie/residential/brochure/53-ballintyre-grove-ballinteer-dublin-16/5027854",
+    "https://www.myhome.ie/residential/brochure/34-stratford-haven-rathgar-dublin-6/5029546",
+    "https://www.myhome.ie/residential/brochure/apartment-3-block-9-the-street-college-farm-newbridge-kildare/5029859",
+    "https://www.myhome.ie/residential/brochure/51-ferncourt-green-firhouse-dublin/5029858",
+    "https://www.myhome.ie/residential/brochure/ballyhowly-knock-mayo/5029857",
+    "https://www.myhome.ie/residential/brochure/39-derham-park-balbriggan-co-dublin/5029856",
+    "https://www.myhome.ie/residential/brochure/123-southmede-dundrum-dublin-16/5029517",
+    "https://www.myhome.ie/residential/brochure/42-grange-village-mullingar-westmeath/5029854",
+    "https://www.myhome.ie/residential/brochure/82-tara-court-balbriggan-co-dublin/5029853",
+    "https://www.myhome.ie/residential/brochure/21-granary-hall-mount-oval-rochestown-cork/5029851"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=118",
+  "paginationLimited": false
+}

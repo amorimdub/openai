@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=150",
+  "fetchedAt": "2026-10-05T11:31:43.745Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=150",
+  "kind": "search",
+  "responseSha256": "2b18732e8ec2e2521bafa4fe67cf24454e7771ffcbe2b20f8e80c55c2d354a19",
+  "files": [
+    {
+      "path": "myhome/03615-b73cc39ba3f051bd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=150\"].SearchResults",
+      "sha256": "b54fcce63062781071504cd3bb446ba39fe9142ce9d7adadd02f0d13da50c2da",
+      "bytes": 122347
+    },
+    {
+      "path": "myhome/03615-b73cc39ba3f051bd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=150\"] (paging fields)",
+      "sha256": "65d872659811f33d4f4f2387505f1a42a1ef467ea2ba87560b460aebfe33b17a",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-norwood-park-ranelagh-dublin-6/5003083",
+    "https://www.myhome.ie/residential/brochure/34-laurel-park-patrickswell-limerick/5028965",
+    "https://www.myhome.ie/residential/brochure/93-beechlawns-johnswell-road-kilkenny-kilkenny/5028962",
+    "https://www.myhome.ie/residential/brochure/195-south-circular-road-dublin-8/5028964",
+    "https://www.myhome.ie/residential/brochure/25-sienna-drogheda-louth/5028957",
+    "https://www.myhome.ie/residential/brochure/14-clonlea-shanballa-ennis-co-clare/5028960",
+    "https://www.myhome.ie/residential/brochure/crocknahattina-bailieborough-cavan/5028003",
+    "https://www.myhome.ie/residential/brochure/218-larkhill-road-whitehall-dublin-9/5020943",
+    "https://www.myhome.ie/residential/brochure/91-lagavooren-manor-beamore-road-drogheda-louth/5028954",
+    "https://www.myhome.ie/residential/brochure/306-ballsgrove-drogheda-louth/5028723",
+    "https://www.myhome.ie/residential/brochure/17-osprey-drive-templeogue-dublin-6w/5001089",
+    "https://www.myhome.ie/residential/brochure/186-millbrook-johnstown-navan-co-meath/5028956",
+    "https://www.myhome.ie/residential/brochure/72-boot-road-clondalkin-dublin-22/5028436",
+    "https://www.myhome.ie/residential/brochure/gurranreigh-lissarda-macroom-cork/5025468",
+    "https://www.myhome.ie/residential/brochure/9-castlesize-grove-sallins-kildare/5028952",
+    "https://www.myhome.ie/residential/brochure/14-st-aongus-green-tallaght-dublin-24/5028948",
+    "https://www.myhome.ie/residential/brochure/1-arnwood-blackhorse-avenue-dublin-7/5006819",
+    "https://www.myhome.ie/residential/brochure/129-new-row-square-dublin-8-co-dublin/5028947",
+    "https://www.myhome.ie/residential/brochure/6-monk-s-glade-blainroe-wicklow-town-co-wicklow/4999523",
+    "https://www.myhome.ie/residential/brochure/29-druids-court-druids-glen-newtownmountkennedy-co-wicklow/5025101"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=151",
+  "paginationLimited": false
+}

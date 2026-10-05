@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-apartment-the-lookout-harbour-road-dalkey-co-dublin/5525098",
+  "fetchedAt": "2026-10-05T09:03:40.015Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-apartment-the-lookout-harbour-road-dalkey-co-dublin/5525098",
+  "kind": "listing",
+  "responseSha256": "9eec43ec0de7f4821ae402bd1b06ca5fc265094825eb1de81339e9f59efa7438",
+  "files": [
+    {
+      "path": "daft/00235-0ee1da4292ac298f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "aeade7d8ea9d4062597e2616c718a8d426fce588356258eb0a3c28c2ed32bb24",
+      "bytes": 37391
+    },
+    {
+      "path": "daft/00235-0ee1da4292ac298f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "321b94a7b618d482cc97f996f3fc35c7c7789cebb627ac06090d7e81f7d236ee",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

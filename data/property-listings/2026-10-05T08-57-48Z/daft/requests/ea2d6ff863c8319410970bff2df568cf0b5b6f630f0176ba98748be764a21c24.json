@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/adamstown-lucan-lucan-co-dublin/6538747",
+  "fetchedAt": "2026-10-05T09:04:52.105Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/adamstown-lucan-lucan-co-dublin/6538747",
+  "kind": "listing",
+  "responseSha256": "73c28bec063ab14622421e1c351ceebcd55865f182e83a11f00e93a584b3bafd",
+  "files": [
+    {
+      "path": "daft/00283-ea2d6ff863c83194-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "343172941fe5561771d6e007c0ac2e0f3f2ade37142f6d61a2ee8fbd3472c7c6",
+      "bytes": 153217
+    },
+    {
+      "path": "daft/00283-ea2d6ff863c83194-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "77dce4c7512d27afc6b776d1e18020077e36fd51475ce43f638c4f59316fc56d",
+      "bytes": 8124
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

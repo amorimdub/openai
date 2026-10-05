@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-7-newpark-newtownpark-avenue-foxrock-co-dublin/6685705",
+  "fetchedAt": "2026-10-05T09:16:27.496Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-7-newpark-newtownpark-avenue-foxrock-co-dublin/6685705",
+  "kind": "listing",
+  "responseSha256": "5c41c54ca2ecb209182e4cf01f056444991665164cc72a01737bd913c67adead",
+  "files": [
+    {
+      "path": "daft/00746-58b9441e6b91a750-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8b491f17031217020d571a9f3ccb5dd962c37df3e2a7773ce72e3f2fe87478f7",
+      "bytes": 47531
+    },
+    {
+      "path": "daft/00746-58b9441e6b91a750-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1aaedb39cb3425fedf02ded289e54b7378548061c90b2a5260f76ebad6bb1aea",
+      "bytes": 8164
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

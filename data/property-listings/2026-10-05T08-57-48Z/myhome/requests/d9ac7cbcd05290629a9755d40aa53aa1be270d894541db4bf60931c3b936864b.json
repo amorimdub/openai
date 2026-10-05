@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=26",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=26",
+  "fetchedAt": "2026-10-05T09:21:46.960Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "a99ce8d73c300ff4151631fca91bfe8800c44a12fa562b1744a8b9f2d56e50e9",
+  "files": [
+    {
+      "path": "myhome/00954-d9ac7cbcd0529062-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=26\"].SearchResults",
+      "sha256": "770055a2216530bed7a1568b5c5d1bfcd8140f1da834684b1b5a194477a3ea91",
+      "bytes": 115170
+    },
+    {
+      "path": "myhome/00954-d9ac7cbcd0529062-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=26\"] (paging fields)",
+      "sha256": "08027e1cd0b805e006341b5d90fc9ac300c37df35c10a7b2b27d49949cc1bca3",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/232-gleann-an-ghairdin-gorey-county-wexford/5031788",
+    "https://www.myhome.ie/residential/brochure/18-hollywoodrath-place-hollystown-dublin-15/5025744",
+    "https://www.myhome.ie/residential/brochure/5-curzon-street-portobello-dublin-8/5030758",
+    "https://www.myhome.ie/residential/brochure/eagle-valley-18-fernwood-close-doughcloyne-cork/5031786",
+    "https://www.myhome.ie/residential/brochure/36-tuscany-downs-raheny-dublin-5/5031784",
+    "https://www.myhome.ie/residential/brochure/31-deravarra-delvin-road-mullingar-co-westmeath/5031782",
+    "https://www.myhome.ie/residential/brochure/mogeely-road-castlemartyr-co-cork/5026474",
+    "https://www.myhome.ie/residential/brochure/riverdale-house-lyrath-kilkenny-co-kilkenny/5027057",
+    "https://www.myhome.ie/residential/brochure/2-rosemount-kilmacrennan-co-donegal/5031777",
+    "https://www.myhome.ie/residential/brochure/2-belmont-terrace-stillorgan-road-blackrock-co-dublin/5003050",
+    "https://www.myhome.ie/residential/brochure/12-verbena-grove-sutton-dublin-13/5031774",
+    "https://www.myhome.ie/residential/brochure/245-sutton-park-sutton-dublin-13/5031773",
+    "https://www.myhome.ie/residential/brochure/the-anchorage-extended-pebble-cove-portmarnock-co-dublin-portmarnock-county-dublin/5002820",
+    "https://www.myhome.ie/residential/brochure/25-castlewood-park-rathmines-dublin-6/5026874",
+    "https://www.myhome.ie/residential/brochure/glandart-coronea-skibbereen-west-cork/4997415",
+    "https://www.myhome.ie/residential/brochure/brookview-house-balcunnin-skerries-co-dublin/4947476",
+    "https://www.myhome.ie/residential/brochure/53-spencer-manor-castlebar-co-mayo/5031772",
+    "https://www.myhome.ie/residential/brochure/3-malton-31-33-merrion-road-ballsbridge-dublin-4/5002452",
+    "https://www.myhome.ie/residential/brochure/rockville-manor-kilternan-dublin-18/4908517",
+    "https://www.myhome.ie/residential/brochure/17-grosvenor-road-rathmines-dublin-6/5027111"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=27",
+  "paginationLimited": false
+}

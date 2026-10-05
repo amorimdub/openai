@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SN CILL",
+      "numPupils": 71,
+      "distance": {
+        "value": 1.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.485558",
+        "lon": "-6.826509"
+      }
+    },
+    {
+      "schoolName": "BACONSTOWN NATIONAL SCHOOL",
+      "numPupils": 149,
+      "distance": {
+        "value": 3.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.444153",
+        "lon": "-6.803442"
+      }
+    },
+    {
+      "schoolName": "DANGAN NATIONAL SCHOOL",
+      "numPupils": 217,
+      "distance": {
+        "value": 4.79,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.489980",
+        "lon": "-6.743277"
+      }
+    },
+    {
+      "schoolName": "BOARDSMILL NATIONAL SCHOOL",
+      "numPupils": 187,
+      "distance": {
+        "value": 5.99,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.512390",
+        "lon": "-6.876182"
+      }
+    },
+    {
+      "schoolName": "COOLE N.S,",
+      "numPupils": 153,
+      "distance": {
+        "value": 6.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.452305",
+        "lon": "-6.727351"
+      }
+    },
+    {
+      "schoolName": "CARA COMMUNITY SPECIAL SCHOOL",
+      "numPupils": 18,
+      "distance": {
+        "value": 6.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.414253",
+        "lon": "-6.829505"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S PRIMARY SCHOOL",
+      "numPupils": 556,
+      "distance": {
+        "value": 6.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.413540",
+        "lon": "-6.832220"
+      }
+    },
+    {
+      "schoolName": "LONGWOOD NATIONAL SCHOOL",
+      "numPupils": 315,
+      "distance": {
+        "value": 7.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.453120",
+        "lon": "-6.919405"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S NATIONAL SCHOOL",
+      "numPupils": 92,
+      "distance": {
+        "value": 8.55,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.402470",
+        "lon": "-6.854381"
+      }
+    },
+    {
+      "schoolName": "MOYNALVEY NATIONAL SCHOOL",
+      "numPupils": 142,
+      "distance": {
+        "value": 8.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.474804",
+        "lon": "-6.681743"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ENFIELD COMMUNITY COLLEGE",
+      "numPupils": 532,
+      "distance": {
+        "value": 6.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.414413",
+        "lon": "-6.828750"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE CLAVIN",
+      "numPupils": 517,
+      "distance": {
+        "value": 7.68,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.454970",
+        "lon": "-6.922248"
+      }
+    },
+    {
+      "schoolName": "BOYNE COMMUNITY SCHOOL",
+      "numPupils": 998,
+      "distance": {
+        "value": 8.6,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.550640",
+        "lon": "-6.784260"
+      }
+    },
+    {
+      "schoolName": "SCOIL MHUIRE TRIM",
+      "numPupils": 820,
+      "distance": {
+        "value": 8.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.552498",
+        "lon": "-6.789659"
+      }
+    },
+    {
+      "schoolName": "SCOIL DARA",
+      "numPupils": 860,
+      "distance": {
+        "value": 12.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.402996",
+        "lon": "-6.670221"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE POBAIL RATH CAIRN",
+      "numPupils": 138,
+      "distance": {
+        "value": 16.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.620068",
+        "lon": "-6.860758"
+      }
+    },
+    {
+      "schoolName": "GAELCHOLÁISTE MHAIGH NUAD",
+      "numPupils": 129,
+      "distance": {
+        "value": 17.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.385963",
+        "lon": "-6.595427"
+      }
+    },
+    {
+      "schoolName": "MAYNOOTH POST PRIMARY SCHOOL",
+      "numPupils": 1018,
+      "distance": {
+        "value": 17.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384550",
+        "lon": "-6.596447"
+      }
+    },
+    {
+      "schoolName": "MAYNOOTH COMMUNITY COLLEGE",
+      "numPupils": 962,
+      "distance": {
+        "value": 17.47,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.384390",
+        "lon": "-6.595700"
+      }
+    },
+    {
+      "schoolName": "COMMUNITY COLLEGE DUNSHAUGHLIN",
+      "numPupils": 1135,
+      "distance": {
+        "value": 17.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.513973",
+        "lon": "-6.549007"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Rathmolyon",
+      "route": "115C",
+      "destination": "Killucan",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 1.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4879865198314",
+        "lon": "-6.80494774026777"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Summerhill",
+      "route": "115C",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.482202",
+        "lon": "-6.734537"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Elm Grove",
+      "route": "115C",
+      "destination": "Dublin",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 5.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4803713895682",
+        "lon": "-6.73058356657467"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Summerhill",
+      "route": "UM09",
+      "destination": "Athboy, stop 135891",
+      "provider": "Streamline Coaches",
+      "distance": {
+        "value": 5.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.48216",
+        "lon": "-6.73"
+      }
+    },
+    {
+      "type": "Rail",
+      "stop": "Enfield Stn",
+      "route": "rail",
+      "destination": "Mullingar",
+      "provider": "Irish Rail",
+      "distance": {
+        "value": 6.63,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.416677",
+        "lon": "-6.832842"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloncurry Cross",
+      "route": "115X",
+      "destination": "U C D Belfield",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 6.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.415439660208",
+        "lon": "-6.79144302865356"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloncurry Cross",
+      "route": "DY02",
+      "destination": "Enfield",
+      "provider": "McCaffrey Coaches",
+      "distance": {
+        "value": 6.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4152672672839",
+        "lon": "-6.79216999215493"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloncurry Cross",
+      "route": "845",
+      "destination": "Kinnegad",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 6.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4152672672839",
+        "lon": "-6.79216999215493"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloncurry Cross",
+      "route": "847",
+      "destination": "Birr",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 6.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4152672672839",
+        "lon": "-6.79216999215493"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Cloncurry Cross",
+      "route": "UM02",
+      "destination": "Birr, stop 152181",
+      "provider": "Kearns Transport",
+      "distance": {
+        "value": 6.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.4152672672839",
+        "lon": "-6.79216999215493"
+      }
+    }
+  ]
+}

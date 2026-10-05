@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/richmond-hall-mount-st-annes-milltown-co-dublin/6671511",
+  "fetchedAt": "2026-10-05T09:20:53.280Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/richmond-hall-mount-st-annes-milltown-co-dublin/6671511",
+  "kind": "listing",
+  "responseSha256": "c437106f2737918c34a04668267297ed4d7aa81451095b349cb3970225aa236d",
+  "files": [
+    {
+      "path": "daft/00923-32dd90164b9a59f1-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c4388062504fc63a9067991df1aab536eeee22704c5b99f7337886d176679b76",
+      "bytes": 34356
+    },
+    {
+      "path": "daft/00923-32dd90164b9a59f1-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3895f3a00db4c3233baf617091b526bcd0549aacc74d1b8cd74433d56df3d3a4",
+      "bytes": 8017
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

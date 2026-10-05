@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/11-an-fiod-n-doughiska-doughiska-co-galway/6684285",
+  "fetchedAt": "2026-10-05T09:43:47.652Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/11-an-fiod-n-doughiska-doughiska-co-galway/6684285",
+  "kind": "listing",
+  "responseSha256": "2d1dcc0435b6f5456da62ec2aa5cb8d35f1e25d897d913d4d25ff30ad43b6d1a",
+  "files": [
+    {
+      "path": "daft/01838-00c8d81bfe0faa4f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8fa67e01f67fe534dad6e94a5fb199cbb18e65cc7141b6e3c929e4595f1457bb",
+      "bytes": 51936
+    },
+    {
+      "path": "daft/01838-00c8d81bfe0faa4f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1ad302178510cb7f3099a4030a96c2dfebc930bb9f1e54c0bca8c0f8df057c2a",
+      "bytes": 8025
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

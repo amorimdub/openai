@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ballyharty-kilmore-wexford-kilmore-quay-co-wexford/6667108",
+  "fetchedAt": "2026-10-05T09:31:30.241Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ballyharty-kilmore-wexford-kilmore-quay-co-wexford/6667108",
+  "kind": "listing",
+  "responseSha256": "fa9f26c7a3a891c535975f0b1374fd6ad0da7752424db19b07da1f4d4b7746fa",
+  "files": [
+    {
+      "path": "daft/01347-a43db85253c1ad73-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f1a984d0916f7f9b736ac5abdfce406cd0cc728762b014b354ca2598d0c7e58f",
+      "bytes": 37412
+    },
+    {
+      "path": "daft/01347-a43db85253c1ad73-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "727c45d9d5117e250da2113fad2cf77afc63dfb64650dfaa0c68477b6c1466cc",
+      "bytes": 8162
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

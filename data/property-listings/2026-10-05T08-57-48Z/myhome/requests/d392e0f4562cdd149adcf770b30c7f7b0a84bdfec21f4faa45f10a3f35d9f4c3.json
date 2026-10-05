@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=197",
+  "fetchedAt": "2026-10-05T11:56:09.932Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=197",
+  "kind": "search",
+  "responseSha256": "f010ec25d617911a3924a997b61eace52b110f502f3989f49f351dd90c7fba0f",
+  "files": [
+    {
+      "path": "myhome/04590-d392e0f4562cdd14-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=197\"].SearchResults",
+      "sha256": "53ebb6549e16bb1ef04c9e144ab30dced7d12b1864d67444cc3955f41335353b",
+      "bytes": 107938
+    },
+    {
+      "path": "myhome/04590-d392e0f4562cdd14-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=197\"] (paging fields)",
+      "sha256": "37e5176cd0d17eaa343e4a4a215d176f01a6dd1d7dfaedd3de0dedea2e5dbc02",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/tullykeel-ardee-louth/5011666",
+    "https://www.myhome.ie/residential/brochure/15-hillcrest-manor-templeogue-dublin-6w/5027720",
+    "https://www.myhome.ie/residential/brochure/apartment-116-the-oval-tullyvale-cherrywood-dublin-18/5027594",
+    "https://www.myhome.ie/residential/brochure/hartwell-lower-kill-co-kildare/5027717",
+    "https://www.myhome.ie/residential/brochure/apt-3-woodbrook-rivervale-upper-dargle-road-bray-wicklow/5027700",
+    "https://www.myhome.ie/residential/brochure/18-doolin-house-clare-village-malahide-road-dublin-17/5027707",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-brackenstown-road-swords-county-dublin/5027706",
+    "https://www.myhome.ie/residential/brochure/28-cedar-avenue-ridgewood-swords-county-dublin/5027705",
+    "https://www.myhome.ie/residential/brochure/16-thornleigh-green-swords-county-dublin/5027704",
+    "https://www.myhome.ie/residential/brochure/14-westmill-green-millers-glen-swords-county-dublin/5027703",
+    "https://www.myhome.ie/residential/brochure/38-cronan-s-well-park-swords-county-dublin/5027702",
+    "https://www.myhome.ie/residential/brochure/4-clontymon-lawn-boreenmanna-road-cork-city-cork/5026911",
+    "https://www.myhome.ie/residential/brochure/18-radcliff-hall-st-john-s-road-sandymount-dublin-4/5027695",
+    "https://www.myhome.ie/residential/brochure/17-the-innings-observatory-lane-rathmines-dublin-6/5027627",
+    "https://www.myhome.ie/residential/brochure/7-gleann-dara-ballygarvan-cork/5027128",
+    "https://www.myhome.ie/residential/brochure/seaville-terrace-sea-road-blackrock-louth/5027679",
+    "https://www.myhome.ie/residential/brochure/72-st-anne-s-kimmage-road-west-kimmage-dublin-12/5027692",
+    "https://www.myhome.ie/residential/brochure/6-meadow-view-sarsfield-road-kilmainham-dublin-10/5027691",
+    "https://www.myhome.ie/residential/brochure/castle-ffrench-ballinamore-bridge-galway/5027522",
+    "https://www.myhome.ie/residential/brochure/13-magherarney-smithborough-monaghan/5017118"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=198",
+  "paginationLimited": false
+}

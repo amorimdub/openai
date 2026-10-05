@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-the-barrington-ballsbridge-dublin-4/6681884",
+  "fetchedAt": "2026-10-05T09:17:51.585Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-the-barrington-ballsbridge-dublin-4/6681884",
+  "kind": "listing",
+  "responseSha256": "e2200c0e95d744eba20f096463f9a4e638bb6703cde7e1672540a1d501cc1835",
+  "files": [
+    {
+      "path": "daft/00802-4fde007b92c65d96-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "89c1eff51a76765e2f3c273acde13664874dd7def3f297fb51292d1d1fd4c031",
+      "bytes": 66009
+    },
+    {
+      "path": "daft/00802-4fde007b92c65d96-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "67e38fd14eee22c4069c0cbc4e21c0a16724f235e8c417558f4d064fad03980e",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-6-101-ranelagh-ranelagh-dublin-6/6674760",
+  "fetchedAt": "2026-10-05T09:20:35.258Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-6-101-ranelagh-ranelagh-dublin-6/6674760",
+  "kind": "listing",
+  "responseSha256": "068dd9adb3e489df5501597bd20b94e9707d0a40a5366c161a50aa6ab379be44",
+  "files": [
+    {
+      "path": "daft/00911-806ac7c023d03e1e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9fe4866bcd156689013bccf665393e4f13c78182fdc0fbd22ee5717a616878b8",
+      "bytes": 31486
+    },
+    {
+      "path": "daft/00911-806ac7c023d03e1e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5371e3ab0232dff05c0d7d30c42c60cc5ba7cb505bb53c3ea85e7112a8582e3d",
+      "bytes": 8010
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

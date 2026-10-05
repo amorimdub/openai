@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bed-apartment-eglinton-place-eglinton-road-dublin-4/5811432",
+  "fetchedAt": "2026-10-05T09:00:43.885Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bed-apartment-eglinton-place-eglinton-road-dublin-4/5811432",
+  "kind": "listing",
+  "responseSha256": "57089e70e05275432100dfd23d58ca534163f903cd6dc4b3f34426bce087f42b",
+  "files": [
+    {
+      "path": "daft/00118-76de26009d101bae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "da79a831197268fe933b4eb0ea251779b100ef927605f8fafcf5e921405c9c9f",
+      "bytes": 37221
+    },
+    {
+      "path": "daft/00118-76de26009d101bae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "df63afd64a164a15a4ddfd907b8105c130ba52c86eb1c970b2f840575c07d6d1",
+      "bytes": 8087
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

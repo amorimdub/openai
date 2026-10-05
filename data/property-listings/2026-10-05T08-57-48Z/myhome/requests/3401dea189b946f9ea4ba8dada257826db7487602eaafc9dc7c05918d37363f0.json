@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=396",
+  "fetchedAt": "2026-10-05T13:38:40.412Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=396",
+  "kind": "search",
+  "responseSha256": "5d8486ae953c252d8af62235f263bde3741a9fccd42d0dfd3f5da5b0e6693871",
+  "files": [
+    {
+      "path": "myhome/08677-3401dea189b946f9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=396\"].SearchResults",
+      "sha256": "cf3b647e87e632f043fa7b4f9219f083678a92e3809241ed790a0c58b45737f2",
+      "bytes": 116530
+    },
+    {
+      "path": "myhome/08677-3401dea189b946f9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=396\"] (paging fields)",
+      "sha256": "bf58a95eddac840858f05126e542a33d11defb842049baba0a742a86e2dd9044",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/curravohill-nohoval-co-cork/5015571",
+    "https://www.myhome.ie/residential/brochure/ballinabarny-gap-glen-of-imaal-old-two-story-farmhouse-on-0-89-ha-2-19-ac-donard-wicklow/5007198",
+    "https://www.myhome.ie/residential/brochure/62-grattan-park-salthill-galway/5015553",
+    "https://www.myhome.ie/residential/brochure/9-the-pines-killester-dublin-5/4997055",
+    "https://www.myhome.ie/residential/brochure/55-coppinger-glade-stillorgan-blackrock-county-dublin/5015543",
+    "https://www.myhome.ie/residential/brochure/38-the-tolka-prospect-hill-finglas-dublin-11/5008518",
+    "https://www.myhome.ie/residential/brochure/anglers-rest-high-street-inistoige-co-kilkenny/5015542",
+    "https://www.myhome.ie/residential/brochure/18-auburn-avenue-glenageary-co-dublin/4992715",
+    "https://www.myhome.ie/residential/brochure/saint-anne-s-tivoli-terrace-north-dun-laoghaire-co-dublin/5005290",
+    "https://www.myhome.ie/residential/brochure/85-howth-road-clontarf-dublin-3/4994034",
+    "https://www.myhome.ie/residential/brochure/no-41-school-street-wexford-town-wexford/5015519",
+    "https://www.myhome.ie/residential/brochure/apartment-52-the-waterfront-drumshanbo-road-leitrim-village-leitrim/5015497",
+    "https://www.myhome.ie/residential/brochure/27-boyne-lodge-drogheda-louth/5015475",
+    "https://www.myhome.ie/residential/brochure/meadow-mill-athy-co-kildare-2-bedroom-townhouse/4916947",
+    "https://www.myhome.ie/residential/brochure/83-wylie-s-hill-ballybay-monaghan/5015502",
+    "https://www.myhome.ie/residential/brochure/1-broadfield-glen-broadfield-manor-rathcoole-co-dublin/5015496",
+    "https://www.myhome.ie/residential/brochure/2-clybaun-close-clybaun-road-knocknacarra-galway/5015494",
+    "https://www.myhome.ie/residential/brochure/209-brandon-road-drimnagh-dublin-12/5004980",
+    "https://www.myhome.ie/residential/brochure/mountain-park-house-mountain-park-carlingford-county-louth/5015459",
+    "https://www.myhome.ie/residential/brochure/139-fearann-ri-doughiska-galway/5015449"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=397",
+  "paginationLimited": false
+}

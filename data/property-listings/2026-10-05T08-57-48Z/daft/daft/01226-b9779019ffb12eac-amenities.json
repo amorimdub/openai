@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "SHANBALLYMORE NATIONAL SCHOOL",
+      "numPupils": 64,
+      "distance": {
+        "value": 2.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.218407",
+        "lon": "-8.476529"
+      }
+    },
+    {
+      "schoolName": "CASTLETOWNROCHE NATIONAL SCHOOL",
+      "numPupils": 87,
+      "distance": {
+        "value": 3.8,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.172200",
+        "lon": "-8.468147"
+      }
+    },
+    {
+      "schoolName": "KILDORRERY NATIONAL SCHOOL",
+      "numPupils": 184,
+      "distance": {
+        "value": 4.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.245260",
+        "lon": "-8.425524"
+      }
+    },
+    {
+      "schoolName": "BALLYGOWN SCHOOL",
+      "numPupils": 104,
+      "distance": {
+        "value": 5,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.191950",
+        "lon": "-8.519690"
+      }
+    },
+    {
+      "schoolName": "GLANWORTH NATIONAL SCHOOL",
+      "numPupils": 113,
+      "distance": {
+        "value": 6.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.192380",
+        "lon": "-8.358377"
+      }
+    },
+    {
+      "schoolName": "BALLYHOOLY NATIONAL SCHOOL",
+      "numPupils": 166,
+      "distance": {
+        "value": 7.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.145400",
+        "lon": "-8.399467"
+      }
+    },
+    {
+      "schoolName": "KILLAVULLEN NATIONAL SCHOOL",
+      "numPupils": 113,
+      "distance": {
+        "value": 7.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.145844",
+        "lon": "-8.516198"
+      }
+    },
+    {
+      "schoolName": "GLENAHULLA NATIONAL SCHOOL",
+      "numPupils": 95,
+      "distance": {
+        "value": 7.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.253800",
+        "lon": "-8.364551"
+      }
+    },
+    {
+      "schoolName": "BALLINDANGAN MIXED NATIONAL SCHOOL",
+      "numPupils": 37,
+      "distance": {
+        "value": 8.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.236282",
+        "lon": "-8.336494"
+      }
+    },
+    {
+      "schoolName": "CANON SHEEHAN PRIMARY SCHOOL",
+      "numPupils": 171,
+      "distance": {
+        "value": 9.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.214603",
+        "lon": "-8.587422"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "NAGLE RICE SECONDARY SCHOOL",
+      "numPupils": 249,
+      "distance": {
+        "value": 9.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.221610",
+        "lon": "-8.583767"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE AN CHRAOIBHÍN",
+      "numPupils": 922,
+      "distance": {
+        "value": 13.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.135174",
+        "lon": "-8.285297"
+      }
+    },
+    {
+      "schoolName": "ST. COLMAN'S COLLEGE",
+      "numPupils": 719,
+      "distance": {
+        "value": 13.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.136288",
+        "lon": "-8.278386"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 727,
+      "distance": {
+        "value": 14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.135868",
+        "lon": "-8.276886"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS SECONDARY SCHOOL",
+      "numPupils": 407,
+      "distance": {
+        "value": 14.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.263760",
+        "lon": "-8.266677"
+      }
+    },
+    {
+      "schoolName": "PRESENTATION SECONDARY SCHOOL",
+      "numPupils": 351,
+      "distance": {
+        "value": 14.24,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.265410",
+        "lon": "-8.265306"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE FIONNCHUA",
+      "numPupils": 410,
+      "distance": {
+        "value": 14.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.264893",
+        "lon": "-8.262394"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S SECONDARY SCHOOL",
+      "numPupils": 758,
+      "distance": {
+        "value": 14.86,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.141365",
+        "lon": "-8.641335"
+      }
+    },
+    {
+      "schoolName": "PATRICIAN ACADEMY",
+      "numPupils": 570,
+      "distance": {
+        "value": 15.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.139656",
+        "lon": "-8.644908"
+      }
+    },
+    {
+      "schoolName": "COLAISTE POBAIL NAOMH MHUIRE",
+      "numPupils": 580,
+      "distance": {
+        "value": 15.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.230556",
+        "lon": "-8.669904"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Shanballymore",
+      "route": "523",
+      "destination": "Mallow",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 2.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.219847",
+        "lon": "-8.476951"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rockmills",
+      "route": "529",
+      "destination": "Mitchelstown",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 3.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.222687",
+        "lon": "-8.413118"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Castletownroche",
+      "route": "530",
+      "destination": "Fermoy",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 3.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.171573",
+        "lon": "-8.467246"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kildorrery",
+      "route": "523",
+      "destination": "Mallow",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 4.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.246114",
+        "lon": "-8.426671"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Kildorrery",
+      "route": "529",
+      "destination": "Fermoy",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 4.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.246114",
+        "lon": "-8.426671"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glanworth",
+      "route": "529",
+      "destination": "Mitchelstown",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 6.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.1863",
+        "lon": "-8.356709"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballyhooly",
+      "route": "530",
+      "destination": "Fermoy",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 7.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.14541",
+        "lon": "-8.39807"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Killavullen",
+      "route": "530",
+      "destination": "Mallow",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 7.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.1469399371423",
+        "lon": "-8.51563129222244"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Doneraile",
+      "route": "523",
+      "destination": "Mitchelstown",
+      "provider": "TFI Local Link Cork",
+      "distance": {
+        "value": 9.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.2160252203416",
+        "lon": "-8.58554745319261"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Lynch Camp",
+      "route": "245",
+      "destination": "Mitchelstown",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 12.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "52.214072",
+        "lon": "-8.272134"
+      }
+    }
+  ]
+}

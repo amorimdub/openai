@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-86-sandyford-view-sandyford-dublin-18/6684308",
+  "fetchedAt": "2026-10-05T09:43:40.141Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-86-sandyford-view-sandyford-dublin-18/6684308",
+  "kind": "listing",
+  "responseSha256": "92feeaccec12b8e08820dfdf382f63a0a572b0371076c1bca6558fcc6200ed4a",
+  "files": [
+    {
+      "path": "daft/01833-a5a09f88d187c768-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "af6e8e0359866b42a85411e90623dbb988b01a745752a2237da45b7ff60299ed",
+      "bytes": 29076
+    },
+    {
+      "path": "daft/01833-a5a09f88d187c768-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2d7a6c05e4672aa63f9e1a3ba16c3db2f56d6a24860e32d6e4ae3a0511902c1f",
+      "bytes": 8069
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=257",
+  "fetchedAt": "2026-10-05T12:27:15.361Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=257",
+  "kind": "search",
+  "responseSha256": "9eb975aeffa3b3fcb19d8d4f7efd9ad2605b0c66c86c91d8b7d903182c446306",
+  "files": [
+    {
+      "path": "myhome/05831-af5a028193d44a34-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=257\"].SearchResults",
+      "sha256": "4e28ad9a7237c67288b4bf54f2a39130eddc01d5cc84423abb01c16e05239fcc",
+      "bytes": 120462
+    },
+    {
+      "path": "myhome/05831-af5a028193d44a34-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=257\"] (paging fields)",
+      "sha256": "9b5fbceeaff0c8456665ece24f774a1742f34d508eec68aab7b1f05a95f16476",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/10-glebemount-wicklow-town-co-wicklow/5025832",
+    "https://www.myhome.ie/residential/brochure/carriglea-dungarvan-waterford/5025831",
+    "https://www.myhome.ie/residential/brochure/8-clonshaugh-rise-clonshaugh-dublin-17/5022204",
+    "https://www.myhome.ie/residential/brochure/8a-clonshaugh-rise-clonshaugh-dublin-17/5022210",
+    "https://www.myhome.ie/residential/brochure/sycamore-house-station-road-blarney-co-cork/5025830",
+    "https://www.myhome.ie/residential/brochure/oaklands-lagore-little-dunshaughlin-meath/4995120",
+    "https://www.myhome.ie/residential/brochure/trumera-mountrath-portlaoise-co-laois/5025827",
+    "https://www.myhome.ie/residential/brochure/portacarron-oughterard-galway-county-galway/5025826",
+    "https://www.myhome.ie/residential/brochure/st-farnans-close-4bd-st-farnans-close-prosperous-co-kildare/5025825",
+    "https://www.myhome.ie/residential/brochure/cowpasture-monasterevin-co-kildare/5025823",
+    "https://www.myhome.ie/residential/brochure/29-ravenswood-cregg-road-carrick-on-suir-tipperary/5025820",
+    "https://www.myhome.ie/residential/brochure/28-arnold-grove-glenageary-glenageary-dublin/5025818",
+    "https://www.myhome.ie/residential/brochure/corcashel-redhills-cavan/5025822",
+    "https://www.myhome.ie/residential/brochure/7-newtown-hall-hazelbrook-square-churchtown-dublin-14/5025681",
+    "https://www.myhome.ie/residential/brochure/12-knightsbridge-court-knightsbridge-village-trim-county-meath/5025817",
+    "https://www.myhome.ie/residential/brochure/21-highbury-waterpark-carrigaline-cork/5021274",
+    "https://www.myhome.ie/residential/brochure/5-taylor-hill-way-balbriggan-county-dublin/5025816",
+    "https://www.myhome.ie/residential/brochure/cappanargid-kildare-rathangan-co-kildare/5025811",
+    "https://www.myhome.ie/residential/brochure/44-avondale-mews-old-church-road-passage-west-cork-passage-west-cork/4997717",
+    "https://www.myhome.ie/residential/brochure/1a-granville-lodge-granville-road-blackrock-co-dublin/4993089"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=258",
+  "paginationLimited": false
+}

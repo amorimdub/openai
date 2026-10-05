@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=95",
+  "fetchedAt": "2026-10-05T11:02:49.616Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=95",
+  "kind": "search",
+  "responseSha256": "8dca7a9d9fc3b8d3f719c53d5b7c7b75d925297f4987956ba408977ecb63e91c",
+  "files": [
+    {
+      "path": "myhome/02480-823dcb4173036e0e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=95\"].SearchResults",
+      "sha256": "de8144d3daf29c45bed49386ee454a6b03e2140a819803cb233c8d4a24b50e5f",
+      "bytes": 116579
+    },
+    {
+      "path": "myhome/02480-823dcb4173036e0e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=95\"] (paging fields)",
+      "sha256": "47be5573bcc35d07da0219344c375a1cbafa1225640a0711c8b8d549aee1cc93",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/angel-view-keeltrasna-adrigole-west-cork/5030465",
+    "https://www.myhome.ie/residential/brochure/13-spireview-lane-rathgar-dublin-6/5008699",
+    "https://www.myhome.ie/residential/brochure/8-parkside-close-dublin-13-dublin/5030377",
+    "https://www.myhome.ie/residential/brochure/20-brindley-park-road-ashbourne-meath/5030402",
+    "https://www.myhome.ie/residential/brochure/69-grianan-fidh-aiken-s-village-dublin-18-co-dublin/5030475",
+    "https://www.myhome.ie/residential/brochure/12-st-ives-malahide-county-dublin/4991348",
+    "https://www.myhome.ie/residential/brochure/sonas-8-the-links-old-golf-links-road-blackrock-louth/5015799",
+    "https://www.myhome.ie/residential/brochure/107-ardcullen-hollyhill-cork/5024438",
+    "https://www.myhome.ie/residential/brochure/ardnaculla-north-ennistymon-clare/5030468",
+    "https://www.myhome.ie/residential/brochure/scrahannagaur-sneem-kerry/5030471",
+    "https://www.myhome.ie/residential/brochure/rath-ashbourne-county-meath/5030470",
+    "https://www.myhome.ie/residential/brochure/duncarraig-lowertownmore-blueball-co-offaly/5030466",
+    "https://www.myhome.ie/residential/brochure/ravensdale-ticknock-arklow-co-wicklow/5030464",
+    "https://www.myhome.ie/residential/brochure/apartment-17-block-e-smithfield-market-smithfield-dublin-7/5026696",
+    "https://www.myhome.ie/residential/brochure/4-greenpark-mullingar-westmeath/5030443",
+    "https://www.myhome.ie/residential/brochure/101-harbour-mill-the-quay-westport-co-mayo/5030460",
+    "https://www.myhome.ie/residential/brochure/no-28-carrigeen-street-wexford-town-wexford/5030454",
+    "https://www.myhome.ie/residential/brochure/mill-house-enniskerry-road-kilternan-dublin-18/5030459",
+    "https://www.myhome.ie/residential/brochure/7-parkside-woods-clongriffin-dublin/5030156",
+    "https://www.myhome.ie/residential/brochure/corragarry-caningstown-tonyduff-cootehill-cavan/5013575"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=96",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/annagh-more-innishannon-crossbarry-co-cork/6684374",
+  "fetchedAt": "2026-10-05T09:42:50.557Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/annagh-more-innishannon-crossbarry-co-cork/6684374",
+  "kind": "listing",
+  "responseSha256": "338ad3cae9b2089924436410d465b8d08888de560dfe8ffa613945391d56d23a",
+  "files": [
+    {
+      "path": "daft/01800-0df5f3894ca9220d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "98358ec8682f575b12e7330072610438072e4c710f00fe5bc5eac7066acb4870",
+      "bytes": 50852
+    },
+    {
+      "path": "daft/01800-0df5f3894ca9220d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e0319e3614dd7a584e8d6d38436726674c205f78bda0a87bb86c352cfdd3792c",
+      "bytes": 7979
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

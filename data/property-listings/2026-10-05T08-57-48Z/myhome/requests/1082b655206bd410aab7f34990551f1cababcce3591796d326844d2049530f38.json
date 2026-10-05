@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=143",
+  "fetchedAt": "2026-10-05T11:28:02.853Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=143",
+  "kind": "search",
+  "responseSha256": "271d553d5142bf030b9a45e2138955760a34ea473e7213de73915729cbc2a81e",
+  "files": [
+    {
+      "path": "myhome/03468-1082b655206bd410-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=143\"].SearchResults",
+      "sha256": "8b9b9740790e316333741dbeb4e830594bc0f44de471139be7e6c9335451575d",
+      "bytes": 117462
+    },
+    {
+      "path": "myhome/03468-1082b655206bd410-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=143\"] (paging fields)",
+      "sha256": "2cc2074f7d39e4ef7602aaaa42eaf1e7a45bcc47272baf14663efaa117165d15",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/52-boroimhe-blackthorn-swords-co-dublin/5029146",
+    "https://www.myhome.ie/residential/brochure/ongenstown-bohermeen-navan-meath/5029145",
+    "https://www.myhome.ie/residential/brochure/1-derrigra-crescent-ballineen-co-cork/5029144",
+    "https://www.myhome.ie/residential/brochure/4-the-crescent-graydon-manor-robertstown-co-kildare/5029142",
+    "https://www.myhome.ie/residential/brochure/derryniggin-newtowngore-leitrim/5029140",
+    "https://www.myhome.ie/residential/brochure/141-ard-na-mara-malahide-county-dublin/5029090",
+    "https://www.myhome.ie/residential/brochure/9-aubrey-grove-shankill-dublin-18/5029138",
+    "https://www.myhome.ie/residential/brochure/8-brennan-s-parade-bray-co-wicklow/5001182",
+    "https://www.myhome.ie/residential/brochure/61-newcourt-road-bray-co-wicklow/5008321",
+    "https://www.myhome.ie/residential/brochure/98-lissadel-drive-drimnagh-dublin-12-co-dublin/5029137",
+    "https://www.myhome.ie/residential/brochure/la-rochelle-ferndale-road-rathmichael-dublin-18/5007731",
+    "https://www.myhome.ie/residential/brochure/19-seaview-wood-shankill-dublin-18/4996321",
+    "https://www.myhome.ie/residential/brochure/23-strand-view-strand-road-bray-co-wicklow/4989429",
+    "https://www.myhome.ie/residential/brochure/dysertmore-estate-inistioge-co-kilkenny/5029135",
+    "https://www.myhome.ie/residential/brochure/site-with-f-p-p-site-2-cedarbrook-fassaroe-avenue-bray-co-wicklow/4840503",
+    "https://www.myhome.ie/residential/brochure/site-with-f-p-p-site-1-cedarbrook-fassaroe-avenue-bray-co-wicklow/4840502",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-crufty-beamore-drogheda-louth/5029115",
+    "https://www.myhome.ie/residential/brochure/4-woodvale-drive-clonsilla-dublin-15/4961622",
+    "https://www.myhome.ie/residential/brochure/10-ticknock-park-sandyford-dublin-18/4996533",
+    "https://www.myhome.ie/residential/brochure/1-latlurcan-monaghan-town-monaghan/5029118"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=144",
+  "paginationLimited": false
+}

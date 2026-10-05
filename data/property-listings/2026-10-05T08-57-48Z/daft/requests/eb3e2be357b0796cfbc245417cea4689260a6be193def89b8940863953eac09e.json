@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-10-block-a-hanover-quay-dublin-2/6686170",
+  "fetchedAt": "2026-10-05T09:31:10.723Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-10-block-a-hanover-quay-dublin-2/6686170",
+  "kind": "listing",
+  "responseSha256": "870d610a6651260d421c6cc46399ed8a80af0cfeee37004a3105db93a247817d",
+  "files": [
+    {
+      "path": "daft/01334-eb3e2be357b0796c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "be90ccdef4f1690e90b6ac25370135e659fe89c6a0e720c7aa9505034c2c098e",
+      "bytes": 53783
+    },
+    {
+      "path": "daft/01334-eb3e2be357b0796c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "61b6ac920dc80968468ff117d8ea8bd95ae3a7919545c07e2b668eae5baa10a8",
+      "bytes": 8051
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

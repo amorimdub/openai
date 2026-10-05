@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/7-parklands-view-ballycullen-dublin-24/6669113",
+  "fetchedAt": "2026-10-05T09:31:58.780Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/7-parklands-view-ballycullen-dublin-24/6669113",
+  "kind": "listing",
+  "responseSha256": "5bb9a4ad81916109b35e616165c30129abc5ebfd348f0bd139a739cd74dba86e",
+  "files": [
+    {
+      "path": "daft/01366-05616fbc27ce8c66-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1a06d4a7f910799f8552e60de37a09dc10fdb214a433efc8a638dce82a566e98",
+      "bytes": 98390
+    },
+    {
+      "path": "daft/01366-05616fbc27ce8c66-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aa95258a0298b1271875cf1c3745512500ed5450b02ea9ee89a2864b7e70bf2d",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

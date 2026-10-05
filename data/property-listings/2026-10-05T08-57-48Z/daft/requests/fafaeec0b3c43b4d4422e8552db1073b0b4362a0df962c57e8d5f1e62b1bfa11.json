@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/28-woodlands-mullingar-co-westmeath/6682875",
+  "fetchedAt": "2026-10-05T09:52:09.488Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/28-woodlands-mullingar-co-westmeath/6682875",
+  "kind": "listing",
+  "responseSha256": "5f4e9999dc52b29432b6c3c607839b626b11d9b29045ec1d59af0aff646dd0d2",
+  "files": [
+    {
+      "path": "daft/02172-fafaeec0b3c43b4d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1c7c539acdf2c6b740bd043f890c2324b3a50b38767616ea830e7fdde067d063",
+      "bytes": 4717
+    },
+    {
+      "path": "daft/02172-fafaeec0b3c43b4d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "565c1ae65e326effb6c785e461225260faa00fee0b800d28f0d38b85157a8ad5",
+      "bytes": 8235
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

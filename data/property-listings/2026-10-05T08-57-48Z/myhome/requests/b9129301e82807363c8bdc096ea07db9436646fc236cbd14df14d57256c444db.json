@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=179",
+  "fetchedAt": "2026-10-05T11:46:47.811Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=179",
+  "kind": "search",
+  "responseSha256": "f32347a4772e61ef7f7424f49d0de2321fe1571364d5777c27b16a63a44b839c",
+  "files": [
+    {
+      "path": "myhome/04216-b9129301e8280736-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=179\"].SearchResults",
+      "sha256": "23ad20a898339fcc89dad8fb1edda254b1f3633cd1c1de109ec3b40b915a7174",
+      "bytes": 107133
+    },
+    {
+      "path": "myhome/04216-b9129301e8280736-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=179\"] (paging fields)",
+      "sha256": "45abe34f7fb0028d12ad04c02ebc5d257604655fe85fe944fdd5bc645de90202",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/cuan-well-road-douglas-cork/5010946",
+    "https://www.myhome.ie/residential/brochure/10-moyglas-drive-lucan-co-dublin/5028198",
+    "https://www.myhome.ie/residential/brochure/48-grace-park-heights-drumcondra-dublin-9/5028196",
+    "https://www.myhome.ie/residential/brochure/swallow-cottage-greenan-more-rathdrum-wicklow/5028167",
+    "https://www.myhome.ie/residential/brochure/20-manorfields-view-clonee-dublin-15/5028195",
+    "https://www.myhome.ie/residential/brochure/kilballyowen-aughrim-wicklow/5028193",
+    "https://www.myhome.ie/residential/brochure/woodtown-drumree-meath/5028191",
+    "https://www.myhome.ie/residential/brochure/89-esker-manor-lucan-co-dublin/5028190",
+    "https://www.myhome.ie/residential/brochure/46-orwell-road-rathgar-dublin-6/4989758",
+    "https://www.myhome.ie/residential/brochure/132-wyckham-point-wyckham-way-dundrum-dublin-16/5022623",
+    "https://www.myhome.ie/residential/brochure/16-wyckham-point-dundrum-dublin-16/5017781",
+    "https://www.myhome.ie/residential/brochure/5-oakwood-gorey-wexford/5028187",
+    "https://www.myhome.ie/residential/brochure/35-whitecliff-whitechurch-road-rathfarnham-dublin-16/5028184",
+    "https://www.myhome.ie/residential/brochure/31-tubberclaire-meadows-old-road-athlumney-navan-co-meath/5028185",
+    "https://www.myhome.ie/residential/brochure/22-berwick-hall-churchtown-dublin-14/5021219",
+    "https://www.myhome.ie/residential/brochure/41-grosvenor-court-clontarf-dublin-3/5028182",
+    "https://www.myhome.ie/residential/brochure/6-birch-s-lane-blackrock-dundalk-county-louth/5028180",
+    "https://www.myhome.ie/residential/brochure/5-lag-na-carraige-derrybeg-county-donegal/5028179",
+    "https://www.myhome.ie/residential/brochure/28-the-coombe-south-city-centre-dublin-8/5028137",
+    "https://www.myhome.ie/residential/brochure/103-rathmount-blackrock-co-louth/5006505"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=180",
+  "paginationLimited": false
+}

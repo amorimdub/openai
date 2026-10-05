@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-3-friary-close-christchurch-dublin-8/6685145",
+  "fetchedAt": "2026-10-05T09:38:30.695Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-3-friary-close-christchurch-dublin-8/6685145",
+  "kind": "listing",
+  "responseSha256": "9de50b4d728ce61562341e80bdc7f5dacc4fbcf962601d801b4634d2e81ad49e",
+  "files": [
+    {
+      "path": "daft/01627-7f1a59c57903f406-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "445f18bf5935471033c1b1d5de7a5517e2e0ceae801648709f4c40e97434c195",
+      "bytes": 46290
+    },
+    {
+      "path": "daft/01627-7f1a59c57903f406-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "33ad2a5f179d54a4b071001fab7e9c30a309d0e490882eee71499eb5c87996cb",
+      "bytes": 8011
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/boden-heath-rathfarnham-co-dublin/6676627",
+  "fetchedAt": "2026-10-05T09:11:12.025Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/boden-heath-rathfarnham-co-dublin/6676627",
+  "kind": "listing",
+  "responseSha256": "3961e6e63a5270234b66785e8a92671371604572deccf003d3fc128003a62083",
+  "files": [
+    {
+      "path": "daft/00536-cda65d589124743e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "70aa3d4c8147f20f8017886e1f7dfe95eea2d3f259f6361fb146b1966a94b6c1",
+      "bytes": 33133
+    },
+    {
+      "path": "daft/00536-cda65d589124743e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "57bbe1162f6771145c9fa11db605efd9a07d4874734f16f26918132c98eed897",
+      "bytes": 8091
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

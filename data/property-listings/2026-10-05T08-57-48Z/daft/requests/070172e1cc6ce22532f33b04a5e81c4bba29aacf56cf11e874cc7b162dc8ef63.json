@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/studio-apartment-station-view-the-crossings-adamstown-co-dublin/5356042",
+  "fetchedAt": "2026-10-05T09:03:17.486Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/studio-apartment-station-view-the-crossings-adamstown-co-dublin/5356042",
+  "kind": "listing",
+  "responseSha256": "a7c77a6d3b6e52639ccea3a00a56d6622513f1238278ee0fe83481f48153c4ac",
+  "files": [
+    {
+      "path": "daft/00220-070172e1cc6ce225-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6e5bc97e07296fbb267e305e9d1bc3017b1ad99d6fde470079b8457da47282af",
+      "bytes": 19345
+    },
+    {
+      "path": "daft/00220-070172e1cc6ce225-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4280c81bfbc8a1677d027c879aa4c10094318f6c31fb74105ec47b0965a32669",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

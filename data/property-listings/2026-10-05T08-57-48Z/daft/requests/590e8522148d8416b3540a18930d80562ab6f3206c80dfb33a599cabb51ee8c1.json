@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apt-1-summerland-house-waterford-city-centre-co-waterford/6685170",
+  "fetchedAt": "2026-10-05T09:38:24.686Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apt-1-summerland-house-waterford-city-centre-co-waterford/6685170",
+  "kind": "listing",
+  "responseSha256": "0e1283a97221f007cb366eb586ef37503baacc703ec894fecbfaaa861815909e",
+  "files": [
+    {
+      "path": "daft/01623-590e8522148d8416-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "52c5dd1d5071eaed0c4fab9b8e42263b99b9a4088156ba61d1d8d9ff4c1277ee",
+      "bytes": 17572
+    },
+    {
+      "path": "daft/01623-590e8522148d8416-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "09e9141e82a481f154480aede003226e157f494464b2efff3e6cfc72b3a098d4",
+      "bytes": 8242
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

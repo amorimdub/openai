@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cannon-place-herbert-road-ballsbridge-co-dublin/6682906",
+  "fetchedAt": "2026-10-05T09:52:06.486Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cannon-place-herbert-road-ballsbridge-co-dublin/6682906",
+  "kind": "listing",
+  "responseSha256": "39c90f140371eac3fcf0d46a04923f313870e77fb4fabbffc5a7b4b4774a9780",
+  "files": [
+    {
+      "path": "daft/02170-3755dc72a7dbda34-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f0702511194df403b19808763651bd836312ca56af2a15ba240f3d43130f6c72",
+      "bytes": 23104
+    },
+    {
+      "path": "daft/02170-3755dc72a7dbda34-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c058fa6dab308e9d0b04d9e257e47a76b684f3f3a6be3c10d0922e59d6f9e707",
+      "bytes": 8148
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

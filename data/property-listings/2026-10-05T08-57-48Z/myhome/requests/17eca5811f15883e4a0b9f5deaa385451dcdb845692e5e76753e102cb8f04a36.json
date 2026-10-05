@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=260",
+  "fetchedAt": "2026-10-05T12:28:48.826Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=260",
+  "kind": "search",
+  "responseSha256": "95e97edf591118e0034f57613b262e126844c158c80252e4985dd5a0c2b484e6",
+  "files": [
+    {
+      "path": "myhome/05893-17eca5811f15883e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=260\"].SearchResults",
+      "sha256": "d641918f8f398f3b65c60d4805045e90d9b2595599fd13a061720ffcd6e26039",
+      "bytes": 101273
+    },
+    {
+      "path": "myhome/05893-17eca5811f15883e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=260\"] (paging fields)",
+      "sha256": "3b7e72e78a957334e14a54f7a0587d8de1dd8174bf6937947a8580931ceeda12",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/22-drynam-crescent-drynam-hall-kinsealy-county-dublin/5025742",
+    "https://www.myhome.ie/residential/brochure/apartment-1-building-c-the-waterways-sallins-co-kildare/5025738",
+    "https://www.myhome.ie/residential/brochure/killola-rosscahill-co-galway/5025735",
+    "https://www.myhome.ie/residential/brochure/10-albany-road-ranelagh-dublin-6/5025733",
+    "https://www.myhome.ie/residential/brochure/holly-field-milestown-castlebellingham-louth/5025155",
+    "https://www.myhome.ie/residential/brochure/45-bru-na-mara-donegal-town-donegal/5025727",
+    "https://www.myhome.ie/residential/brochure/305-tirellan-heights-headford-road-galway/5025726",
+    "https://www.myhome.ie/residential/brochure/assaly-cottage-assaly-little-killinick-co-wexford/5025725",
+    "https://www.myhome.ie/residential/brochure/4-farren-street-gerald-griffin-street-gurranabraher-cork/5025722",
+    "https://www.myhome.ie/residential/brochure/three-bed-semi-detached-type-b-rahan-view-spa-glen-mallow-co-cork/5025723",
+    "https://www.myhome.ie/residential/brochure/430-mourne-road-drimnagh-dublin-12/5017275",
+    "https://www.myhome.ie/residential/brochure/7-the-bridge-avila-convent-garden-kinsale-co-cork/5025715",
+    "https://www.myhome.ie/residential/brochure/110-hazelwood-park-artane-dublin-5/5003118",
+    "https://www.myhome.ie/residential/brochure/1-the-helm-avila-convent-garden-kinsale-co-cork/5025713",
+    "https://www.myhome.ie/residential/brochure/ballinaboola-newbawn-wexford-county-wexford/5025712",
+    "https://www.myhome.ie/residential/brochure/4-the-bridge-avila-convent-garden-kinsale-co-cork/5025710",
+    "https://www.myhome.ie/residential/brochure/1-main-street-shanballymore-co-cork/5025707",
+    "https://www.myhome.ie/residential/brochure/6-galteeview-cahir-tipperary/5025699",
+    "https://www.myhome.ie/residential/brochure/the-grove-portland-road-the-burnaby-greystones-co-wicklow/4995526",
+    "https://www.myhome.ie/residential/brochure/15-bow-bridge-kilmainham-dublin-8/5025705"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=261",
+  "paginationLimited": false
+}

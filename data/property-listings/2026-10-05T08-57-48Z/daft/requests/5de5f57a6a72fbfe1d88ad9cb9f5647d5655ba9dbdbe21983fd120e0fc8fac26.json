@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/18-bishop-street-newcastle-west-co-limerick/6686712",
+  "fetchedAt": "2026-10-05T09:26:07.239Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/18-bishop-street-newcastle-west-co-limerick/6686712",
+  "kind": "listing",
+  "responseSha256": "50882d86d64b3c21644cc4441fb44e803007ee9fb9b37c736b40dca811957c60",
+  "files": [
+    {
+      "path": "daft/01132-5de5f57a6a72fbfe-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b042dfe3aefc55bfa7d5c3c68210d5a4b4ddddbe38a27188bcdf3061eb184856",
+      "bytes": 60311
+    },
+    {
+      "path": "daft/01132-5de5f57a6a72fbfe-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c465379512668cf97ca525951a5d31f2d8105c066514973228d05e34cca4967c",
+      "bytes": 8115
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

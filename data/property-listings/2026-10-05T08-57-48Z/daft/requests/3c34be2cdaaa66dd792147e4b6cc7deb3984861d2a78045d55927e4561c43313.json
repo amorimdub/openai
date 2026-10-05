@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-u-bancroft-bancroft-tallaght-co-dublin/4697854",
+  "fetchedAt": "2026-10-05T09:06:40.218Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-u-bancroft-bancroft-tallaght-co-dublin/4697854",
+  "kind": "listing",
+  "responseSha256": "61d89b739b57eec1d1917dae2c783b01ec4ade5ec0227717a3e2008bdcf1b0ac",
+  "files": [
+    {
+      "path": "daft/00355-3c34be2cdaaa66dd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "9484b8ffc4e77221028d53a84552ee20c8fbd6e3ca3028f8ad0364ffa08ae728",
+      "bytes": 45865
+    },
+    {
+      "path": "daft/00355-3c34be2cdaaa66dd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76fa5fd03d76cad11384f5a638d39cd0f1a6040406c5a759b627c03b5b6aa2a0",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

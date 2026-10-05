@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=9",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=9",
+  "fetchedAt": "2026-10-05T09:04:47.167Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "4908e4c645a9eeec45c7912fa60122ceabfb00c1f538213b57a7b67912612ff3",
+  "files": [
+    {
+      "path": "myhome/00280-aa685f259c08aa8a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=9\"].SearchResults",
+      "sha256": "4acb45d478885166cefe69dbcefd491831ab5a2366a5bd048e5a3ad76f371b75",
+      "bytes": 90516
+    },
+    {
+      "path": "myhome/00280-aa685f259c08aa8a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=9\"] (paging fields)",
+      "sha256": "2d7c6e8ce16703434142074c42afb8e2e2e3d12565738103aef2752ef809cc80",
+      "bytes": 134
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/sand-house-glass-bottle-cullet-walk-sandymount-dublin-4/5018747",
+    "https://www.myhome.ie/rentals/brochure/sand-house-glass-bottle-cullet-walk-sandymount-dublin-4/5018826",
+    "https://www.myhome.ie/rentals/brochure/61-bremore-pastures-way-balbriggan-dublin/5031126",
+    "https://www.myhome.ie/rentals/brochure/1b-carpenterstown-road-castleknock-dublin-15/5031122",
+    "https://www.myhome.ie/rentals/brochure/rathlyon-grove-knocklyon-dublin-16/5031113",
+    "https://www.myhome.ie/rentals/brochure/botanic-hall-avenue-addison-avenue-addison-park-glasnevin-dublin-11/5031076",
+    "https://www.myhome.ie/rentals/brochure/flat-1-42-gardiner-street-upper-dublin-1/5031062",
+    "https://www.myhome.ie/rentals/brochure/14-crannagh-hall-landscape-road-churchtown-dublin-14/5031044",
+    "https://www.myhome.ie/rentals/brochure/6-station-road-kingscourt-cavan/5031024",
+    "https://www.myhome.ie/rentals/brochure/4-station-road-kingscourt-cavan/5031022",
+    "https://www.myhome.ie/rentals/brochure/2-bedroom-apartment-18-waterloo-road-ballsbridge-dublin-4/5030986",
+    "https://www.myhome.ie/rentals/brochure/the-westmoreland-charlotte-quay-dock-dublin-4-dublin/5030921",
+    "https://www.myhome.ie/rentals/brochure/longmeadow-conyngham-road-islandbridge-dublin-8/5030908",
+    "https://www.myhome.ie/rentals/brochure/eaton-terrace-rathcoole-co-dublin/5030902",
+    "https://www.myhome.ie/rentals/brochure/12-00-54-glenburren-park-tuam-road-co-galway/5030871",
+    "https://www.myhome.ie/rentals/brochure/liffey-place-liffey-park-lucan-co-dublin/5030856",
+    "https://www.myhome.ie/rentals/brochure/new-bancroft-hall-tallaght-dublin-24/4702248",
+    "https://www.myhome.ie/rentals/brochure/75-milltown-manor-archerstown-wood-ashbourne-meath/5030822",
+    "https://www.myhome.ie/rentals/brochure/32-woodbrook-court-dublin-road-shankill-dublin-18/5030812",
+    "https://www.myhome.ie/rentals/brochure/12-the-avenue-bellfield-ferrybank-waterford-city/5030816"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=10",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/cranmer-place-cranmer-lane-d04-cc98-grand-canal-dock-dublin-4/6684243",
+  "fetchedAt": "2026-10-05T09:43:49.155Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/cranmer-place-cranmer-lane-d04-cc98-grand-canal-dock-dublin-4/6684243",
+  "kind": "listing",
+  "responseSha256": "e62ac8d249ff3f0f8d379261cdfe5f0f7d32ab5b239fb50eb7b7316a3daf2957",
+  "files": [
+    {
+      "path": "daft/01839-6c4ad4ef69652e7a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "105f9c03fceedc9f9ac78ad4a0436e5216f4037dd60ef09b23a22b4e9ddadefb",
+      "bytes": 27984
+    },
+    {
+      "path": "daft/01839-6c4ad4ef69652e7a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a70bc9329f37798ae34db7189dc37d4b1c0192fd4a7f5ece9cfe16f0cc6376b3",
+      "bytes": 8131
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

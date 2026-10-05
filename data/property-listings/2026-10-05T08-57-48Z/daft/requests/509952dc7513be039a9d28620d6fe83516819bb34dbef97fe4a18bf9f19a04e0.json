@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-apartment-marietta-woods-castle-park-road-dalkey-co-dublin/4551199",
+  "fetchedAt": "2026-10-05T09:09:01.381Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-apartment-marietta-woods-castle-park-road-dalkey-co-dublin/4551199",
+  "kind": "listing",
+  "responseSha256": "946f200344394557c7f8264819dbfc1de16fe2234800b4780527f102ce447cbe",
+  "files": [
+    {
+      "path": "daft/00449-509952dc7513be03-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d045b5c05fd207887020f114f3e0f09704bdf8f8163e3924dbe7cee9cab7fe5c",
+      "bytes": 54898
+    },
+    {
+      "path": "daft/00449-509952dc7513be03-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "feacc0a5eb8c37e23c4f8d4014b5c11b00726c8e6561928b0c42ee40aa9701b0",
+      "bytes": 8132
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

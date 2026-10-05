@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/mylerstown-robertstown-co-kildare/6684964",
+  "fetchedAt": "2026-10-05T09:04:20.565Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/mylerstown-robertstown-co-kildare/6684964",
+  "kind": "listing",
+  "responseSha256": "d81d5f0c8026b6610af4a95816eb01d84abe60d4cc1e6167b3acbee187acdea9",
+  "files": [
+    {
+      "path": "daft/00262-add894a429461689-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1fab8d0f820cb2a9d13f64ce9cc27c9b28191d0689cafbd76c96a8513b5f3457",
+      "bytes": 253409
+    },
+    {
+      "path": "daft/00262-add894a429461689-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5ecc4ce96ee3b785ea7b5f2ed76f86fac3f561b48459df3318157e65c59f257a",
+      "bytes": 8223
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

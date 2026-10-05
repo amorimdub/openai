@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=52",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=52",
+  "fetchedAt": "2026-10-05T09:38:44.043Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "d79084b9d8606cc43525e32ebd554f0189c7c9f64f3f1cd17d2c9cd10b4f627a",
+  "files": [
+    {
+      "path": "myhome/01631-bfe1527d8f488afd-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=52\"].SearchResults",
+      "sha256": "945d1592d74b59b1a00317629170638cd3a38cbf9d4a2d7b2c537848b7c78ec9",
+      "bytes": 117320
+    },
+    {
+      "path": "myhome/01631-bfe1527d8f488afd-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=52\"] (paging fields)",
+      "sha256": "af4f43dfb0a29754ba90c4fe8e16990d9c0d1305ae63dce83deef45697400443",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/122-meadowgate-gorey-co-wexford/5031374",
+    "https://www.myhome.ie/residential/brochure/6-clonsilla-park-clonsilla-dublin-15/5031373",
+    "https://www.myhome.ie/residential/brochure/18-beaverstown-orchard-donabate-county-dublin/5013389",
+    "https://www.myhome.ie/residential/brochure/12-kingston-lodge-drumcondra-dublin-3/5029265",
+    "https://www.myhome.ie/residential/brochure/1-monaloe-court-deansgrange-blackrock-co-dublin/4999141",
+    "https://www.myhome.ie/residential/brochure/126-corn-mill-distillery-road-drumcondra-dublin-3/5029057",
+    "https://www.myhome.ie/residential/brochure/4-bed-semi-detached-whitesland-rathbride-road-kildare-town-co-kildare/5001569",
+    "https://www.myhome.ie/residential/brochure/212-grace-park-manor-drumcondra-dublin-9/5030113",
+    "https://www.myhome.ie/residential/brochure/apartment-38-knockmuldowney-park-ballisodare-sligo/5031363",
+    "https://www.myhome.ie/residential/brochure/117-bishopswater-wexford-town-wexford/5031362",
+    "https://www.myhome.ie/residential/brochure/168-vernon-avenue-clontarf-dublin-3/5021514",
+    "https://www.myhome.ie/residential/brochure/robbswall-cottage-coast-road-malahide-county-dublin/5007913",
+    "https://www.myhome.ie/residential/brochure/26-binn-eadair-view-sutton-dublin-13/5027708",
+    "https://www.myhome.ie/residential/brochure/12-oakley-park-clontarf-dublin-3/5025766",
+    "https://www.myhome.ie/residential/brochure/153-moorefield-park-newbridge-co-kildare/5031366",
+    "https://www.myhome.ie/residential/brochure/dromoher-pallaskenry-county-limerick/5031364",
+    "https://www.myhome.ie/residential/brochure/60-millbridge-way-sallins-road-naas-co-kildare/5031360",
+    "https://www.myhome.ie/residential/brochure/4-broomfield-hall-shankill-county-dublin/5031353",
+    "https://www.myhome.ie/residential/brochure/cedarvale-torquay-road-foxrock-dublin-18/5031355",
+    "https://www.myhome.ie/residential/brochure/29-roselawn-naas-co-kildare/5031352"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=53",
+  "paginationLimited": false
+}

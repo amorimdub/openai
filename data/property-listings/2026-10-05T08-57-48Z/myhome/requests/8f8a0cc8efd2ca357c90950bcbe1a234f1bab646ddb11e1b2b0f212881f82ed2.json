@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=156",
+  "fetchedAt": "2026-10-05T11:34:51.624Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=156",
+  "kind": "search",
+  "responseSha256": "14a22c5024582149a52d2a788f7df891628a785458948f26c112006748ae9de9",
+  "files": [
+    {
+      "path": "myhome/03740-8f8a0cc8efd2ca35-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=156\"].SearchResults",
+      "sha256": "528b232cfce21c8fb90c2406d3af9f81068a39db83e958056409d8802d23090b",
+      "bytes": 126643
+    },
+    {
+      "path": "myhome/03740-8f8a0cc8efd2ca35-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=156\"] (paging fields)",
+      "sha256": "af94b925f9e53d5635feaf89f9a4811471590f924d745112539934c3a0f21080",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/killaune-ballymacward-ballinasloe-co-galway/5028821",
+    "https://www.myhome.ie/residential/brochure/11-central-park-clane-co-kildare/5028819",
+    "https://www.myhome.ie/residential/brochure/37-beechdale-place-ballycullen-dublin-24/5028817",
+    "https://www.myhome.ie/residential/brochure/6-merton-avenue-south-circular-road-dublin-8/5011530",
+    "https://www.myhome.ie/residential/brochure/42-breffni-crescent-carrick-on-shannon-leitrim/5028808",
+    "https://www.myhome.ie/residential/brochure/carmel-46-marble-hall-park-ballinlough-cork/5028815",
+    "https://www.myhome.ie/residential/brochure/ballaghaderreen-co-mayo-kilmovee-mayo/5028580",
+    "https://www.myhome.ie/residential/brochure/13-ard-gaoithe-drive-clonmel-tipperary/5028814",
+    "https://www.myhome.ie/residential/brochure/mallard-foxrock-park-kill-lane-foxrock-dublin-18/5028812",
+    "https://www.myhome.ie/residential/brochure/2-viking-wharf-worlds-end-kinsale-cork/5028806",
+    "https://www.myhome.ie/residential/brochure/3-shackleton-place-tandy-s-lane-lucan-dublin/5010006",
+    "https://www.myhome.ie/residential/brochure/30-grattan-park-grattan-road-galway-county-galway/5028809",
+    "https://www.myhome.ie/residential/brochure/no-44-les-buissonnetts-sweetmans-ave-frascati-rd-blackrock-co-dublin-blackrock-dublin/5028788",
+    "https://www.myhome.ie/residential/brochure/2-the-crescent-college-farm-newbridge-co-kildare/5028804",
+    "https://www.myhome.ie/residential/brochure/bunbeg-house-harbour-road-bun-beag-an-bun-beag-county-donegal/5028803",
+    "https://www.myhome.ie/residential/brochure/90-charlesland-wood-greystones-wicklow/5028777",
+    "https://www.myhome.ie/residential/brochure/the-pink-house-channel-road-rush-co-dublin/5028801",
+    "https://www.myhome.ie/residential/brochure/heather-view-court-castlebar-mayo/5028800",
+    "https://www.myhome.ie/residential/brochure/newport-house-main-street-newport-co-mayo/5028798",
+    "https://www.myhome.ie/residential/brochure/12-college-lawn-college-manor-cobh-cork/5028752"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=157",
+  "paginationLimited": false
+}

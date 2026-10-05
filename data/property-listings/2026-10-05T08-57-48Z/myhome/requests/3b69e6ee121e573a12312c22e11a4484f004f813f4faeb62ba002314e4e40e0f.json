@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=112",
+  "fetchedAt": "2026-10-05T11:11:32.364Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=112",
+  "kind": "search",
+  "responseSha256": "e9aaa360b89aab1eae425681f61b2731c4f0552028c0a39251fc238ee876e542",
+  "files": [
+    {
+      "path": "myhome/02828-3b69e6ee121e573a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=112\"].SearchResults",
+      "sha256": "eedccf3f77ea6dce06539cd69246e2c044208cd25100be76d2abf6ff4fcdc4a4",
+      "bytes": 113819
+    },
+    {
+      "path": "myhome/02828-3b69e6ee121e573a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=112\"] (paging fields)",
+      "sha256": "0c269cd77ca39ac0c88913d2531649be8887b871dba10178a8be71ea144172c9",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-losset-hall-belgard-square-tallaght-dublin-24/5030020",
+    "https://www.myhome.ie/residential/brochure/148-ardbeg-park-artane-dublin-5/4966467",
+    "https://www.myhome.ie/residential/brochure/33-redwood-court-kilnamanagh-dublin-24/5029216",
+    "https://www.myhome.ie/residential/brochure/26-the-close-ledwill-park-kilcock-co-kildare/5030019",
+    "https://www.myhome.ie/residential/brochure/11-wingfield-corke-abbey-bray-co-dublin/5030018",
+    "https://www.myhome.ie/residential/brochure/41-gleann-tuarigh-youghal-cork/5019840",
+    "https://www.myhome.ie/residential/brochure/apartment-10-54-main-street-clongriffin-dublin-13/5030017",
+    "https://www.myhome.ie/residential/brochure/15-ardrew-fields-d-n-brinn-athy-co-kildare/5030016",
+    "https://www.myhome.ie/residential/brochure/23-loreto-avenue-dalkey-co-dublin/5030014",
+    "https://www.myhome.ie/residential/brochure/28-ferns-road-crumlin-dublin-12/5030008",
+    "https://www.myhome.ie/residential/brochure/jenkinstown-park-co-kilkenny-jenkinstown-kilkenny/5030006",
+    "https://www.myhome.ie/residential/brochure/42-hollywoodrath-drive-hollystown-dublin-15/5029999",
+    "https://www.myhome.ie/residential/brochure/23-mask-drive-artane-dublin-5/5030004",
+    "https://www.myhome.ie/residential/brochure/apartment-14-6-usher-s-quay-dublin-8/5030003",
+    "https://www.myhome.ie/residential/brochure/7-the-paddocks-kildangan-kildare/5029994",
+    "https://www.myhome.ie/residential/brochure/30-sundays-well-road-cork-city/5030000",
+    "https://www.myhome.ie/residential/brochure/179-broadmeadows-swords-county-dublin/5029984",
+    "https://www.myhome.ie/residential/brochure/6-hybla-court-blackhorse-ave-dublin-7/5029983",
+    "https://www.myhome.ie/residential/brochure/woodfield-cappagh-road-barna-co-galway/5029990",
+    "https://www.myhome.ie/residential/brochure/apartment-6-aston-abbey-10-aston-quay-temple-bar-dublin-2/5029979"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=113",
+  "paginationLimited": false
+}

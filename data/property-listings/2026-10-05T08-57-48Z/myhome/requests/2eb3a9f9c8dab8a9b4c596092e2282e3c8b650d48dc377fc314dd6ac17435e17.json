@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=65",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=65",
+  "fetchedAt": "2026-10-05T09:45:23.741Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "e87773c163be384124697a41c6530472e30620878611f9c97d6cda9869cb61cf",
+  "files": [
+    {
+      "path": "myhome/01897-2eb3a9f9c8dab8a9-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=65\"].SearchResults",
+      "sha256": "3f4f06da1d4af44137f5bebbe61004722b40db8779a333693d7cebdec5934031",
+      "bytes": 109300
+    },
+    {
+      "path": "myhome/01897-2eb3a9f9c8dab8a9-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=65\"] (paging fields)",
+      "sha256": "5600501a9b770efe7671382e7e3241dfda1fc683b0c5627e06efbf16d5adcbab",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/52-diswellstown-manor-castleknock-co-dublin-dublin-15/5031142",
+    "https://www.myhome.ie/residential/brochure/7-highfield-road-cavan-county-cavan/5031141",
+    "https://www.myhome.ie/residential/brochure/10-beech-hill-crossmolina-mayo/5031140",
+    "https://www.myhome.ie/residential/brochure/1-east-view-cobh-cork/5028663",
+    "https://www.myhome.ie/residential/brochure/gortnagrace-castlefin-co-donegal/5031139",
+    "https://www.myhome.ie/residential/brochure/11c-bellevue-islandbridge-dublin-8/5031136",
+    "https://www.myhome.ie/residential/brochure/43-yellow-road-whitehall-dublin-9/5031096",
+    "https://www.myhome.ie/residential/brochure/4-barrowlands-graiguecullen-carlow-co-carlow/5031138",
+    "https://www.myhome.ie/residential/brochure/66-castlewood-gardens-pollerton-road-carlow/5031137",
+    "https://www.myhome.ie/residential/brochure/9-spanish-walk-convent-garden-kinsale-county-cork/5031135",
+    "https://www.myhome.ie/residential/brochure/apartment-10-errigal-house-eglinton-court-donnybrook-dublin-4/5031077",
+    "https://www.myhome.ie/residential/brochure/80-ferguson-road-drumcondra-dublin-9/5031134",
+    "https://www.myhome.ie/residential/brochure/7-mount-auburn-close-bryanstown-drogheda-louth/5029002",
+    "https://www.myhome.ie/residential/brochure/21-bayside-boulevard-south-sutton-dublin-13/5002830",
+    "https://www.myhome.ie/residential/brochure/beech-hill-83-newcourt-road-bray-co-wicklow/5009660",
+    "https://www.myhome.ie/residential/brochure/9-fairgreen-court-kilcock-co-kildare/5031127",
+    "https://www.myhome.ie/residential/brochure/123-the-berkley-block-pembroke-square-grand-canal-dk-dublin-4/5015586",
+    "https://www.myhome.ie/residential/brochure/boherroe-school-ballysundrivan-elphin-co-roscommon/5031125",
+    "https://www.myhome.ie/residential/brochure/5-ryebridge-row-kilcock-co-kildare/5031124",
+    "https://www.myhome.ie/residential/brochure/42a-grange-road-baldoyle-dublin-13/5025479"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=66",
+  "paginationLimited": false
+}

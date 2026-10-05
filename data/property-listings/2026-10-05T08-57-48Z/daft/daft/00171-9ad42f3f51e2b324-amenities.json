@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CARMONA SPECIAL NATIONAL SCHOOL",
+      "numPupils": 37,
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280037",
+        "lon": "-6.133870"
+      }
+    },
+    {
+      "schoolName": "ST KEVIN'S NATIONAL SCHOOL",
+      "numPupils": 213,
+      "distance": {
+        "value": 0.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276493",
+        "lon": "-6.138317"
+      }
+    },
+    {
+      "schoolName": "DALKEY SCHOOL PROJECT",
+      "numPupils": 224,
+      "distance": {
+        "value": 0.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.274760",
+        "lon": "-6.133015"
+      }
+    },
+    {
+      "schoolName": "THE HAROLD SCHOOL",
+      "numPupils": 649,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286064",
+        "lon": "-6.125616"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S NATIONAL SCHOOL",
+      "numPupils": 392,
+      "distance": {
+        "value": 0.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286686",
+        "lon": "-6.140004"
+      }
+    },
+    {
+      "schoolName": "MONKSTOWN ETNS",
+      "numPupils": 427,
+      "distance": {
+        "value": 1.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.280773",
+        "lon": "-6.150557"
+      }
+    },
+    {
+      "schoolName": "NATIONAL REHABILITATION HOSPITAL",
+      "numPupils": 10,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275140",
+        "lon": "-6.152086"
+      }
+    },
+    {
+      "schoolName": "DOMINICAN PRIMARY SCHOOL",
+      "numPupils": 194,
+      "distance": {
+        "value": 1.49,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.292206",
+        "lon": "-6.138059"
+      }
+    },
+    {
+      "schoolName": "GLENAGEARY KILLINEY NATIONAL SCHOOL",
+      "numPupils": 215,
+      "distance": {
+        "value": 1.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269432",
+        "lon": "-6.115768"
+      }
+    },
+    {
+      "schoolName": "HOLY FAMILY SCHOOL",
+      "numPupils": 153,
+      "distance": {
+        "value": 1.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286327",
+        "lon": "-6.153762"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "RATHDOWN SCHOOL",
+      "numPupils": 349,
+      "distance": {
+        "value": 0.36,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276460",
+        "lon": "-6.129826"
+      }
+    },
+    {
+      "schoolName": "HOLY CHILD COMMUNITY SCHOOL",
+      "numPupils": 275,
+      "distance": {
+        "value": 0.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.275960",
+        "lon": "-6.136515"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH OF CLUNY SECONDARY SCHOOL",
+      "numPupils": 256,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.270690",
+        "lon": "-6.123586"
+      }
+    },
+    {
+      "schoolName": "CHRISTIAN BROTHERS COLLEGE",
+      "numPupils": 564,
+      "distance": {
+        "value": 1.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289770",
+        "lon": "-6.148046"
+      }
+    },
+    {
+      "schoolName": "CLONKEEN COLLEGE",
+      "numPupils": 630,
+      "distance": {
+        "value": 1.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.269830",
+        "lon": "-6.157335"
+      }
+    },
+    {
+      "schoolName": "CABINTEELY COMMUNITY SCHOOL",
+      "numPupils": 517,
+      "distance": {
+        "value": 2.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.261948",
+        "lon": "-6.146260"
+      }
+    },
+    {
+      "schoolName": "LORETO ABBEY SECONDARY SCHOOL, DALKEY",
+      "numPupils": 742,
+      "distance": {
+        "value": 2.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279522",
+        "lon": "-6.099824"
+      }
+    },
+    {
+      "schoolName": "ROCKFORD MANOR SECONDARY SCHOOL",
+      "numPupils": 285,
+      "distance": {
+        "value": 2.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287060",
+        "lon": "-6.163007"
+      }
+    },
+    {
+      "schoolName": "NEWPARK COMPREHENSIVE SCHOOL",
+      "numPupils": 849,
+      "distance": {
+        "value": 2.94,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.289818",
+        "lon": "-6.173190"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE FOXROCK",
+      "numPupils": 637,
+      "distance": {
+        "value": 3.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.272797",
+        "lon": "-6.176822"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Glenageary Park",
+      "route": "7",
+      "destination": "Brides Glen",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278672",
+        "lon": "-6.135444"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Glenageary Avenue",
+      "route": "7",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.2,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279089",
+        "lon": "-6.135726"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sallynoggin Road",
+      "route": "7A",
+      "destination": "Loughlinstown Pk",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279391",
+        "lon": "-6.137197"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sallynoggin Road",
+      "route": "111",
+      "destination": "Brides Glen Luas",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279391",
+        "lon": "-6.137197"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sallynoggin Road",
+      "route": "45B",
+      "destination": "Kilmacanogue",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279391",
+        "lon": "-6.137197"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sallynoggin Road",
+      "route": "7n",
+      "destination": "Woodbrook College",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279391",
+        "lon": "-6.137197"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Street",
+      "route": "111",
+      "destination": "Dalkey",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279142",
+        "lon": "-6.137958"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Street",
+      "route": "7A",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279142",
+        "lon": "-6.137958"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Street",
+      "route": "45B",
+      "destination": "Dun Laoghaire",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279142",
+        "lon": "-6.137958"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Sarsfield Street",
+      "route": "7E",
+      "destination": "Mountjoy Square",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.279142",
+        "lon": "-6.137958"
+      }
+    }
+  ]
+}

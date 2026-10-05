@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=322",
+  "fetchedAt": "2026-10-05T13:00:46.275Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=322",
+  "kind": "search",
+  "responseSha256": "e014cd318d0c9e74a5a89813b2216dc417b291bce45063f8836c9bf789cb5a42",
+  "files": [
+    {
+      "path": "myhome/07164-6779461e0ef7e1c3-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=322\"].SearchResults",
+      "sha256": "8301286031cef4276397acf80316260f46aa86e2d34c82a738bef06dba79f067",
+      "bytes": 120865
+    },
+    {
+      "path": "myhome/07164-6779461e0ef7e1c3-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=322\"] (paging fields)",
+      "sha256": "5bb14bb16ccb23df44952ee1bb1323c3e0795e069d6b946894e3f678059982b4",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-magheross-drive-carrickmacross-county-monaghan/5022676",
+    "https://www.myhome.ie/residential/brochure/166-applewood-heights-greystones-co-wicklow/4966737",
+    "https://www.myhome.ie/residential/brochure/caprio-kilcrone-cloyne-cork/4983073",
+    "https://www.myhome.ie/residential/brochure/49-the-arches-gas-house-lane-kilkenny-co-kilkenny/5022671",
+    "https://www.myhome.ie/residential/brochure/27b-oakwood-apartments-the-glen-bettyglen-raheny-dublin/5022645",
+    "https://www.myhome.ie/residential/brochure/apartment-7-the-willows-diamond-valley-upper-dargle-road-bray-co-wicklow/5022666",
+    "https://www.myhome.ie/residential/brochure/13-lake-view-glenamaddy-co-galway/5022665",
+    "https://www.myhome.ie/residential/brochure/27-lakeview-castlebar-co-mayo/5022659",
+    "https://www.myhome.ie/residential/brochure/45-tournore-court-abbeyside-dungarvan-co-waterford/5022658",
+    "https://www.myhome.ie/residential/brochure/284-rosemount-terrace-north-circular-road-dublin-7/5022042",
+    "https://www.myhome.ie/residential/brochure/3-pery-street-limerick-county-limerick-co-limerick-v94-x49c/5022656",
+    "https://www.myhome.ie/residential/brochure/70-block-5a-the-casino-dublin-road-malahide-county-dublin/5022608",
+    "https://www.myhome.ie/residential/brochure/207-clogher-road-crumlin-dublin-12/5015816",
+    "https://www.myhome.ie/residential/brochure/19-meath-place-the-liberties-south-city-centre-dublin-8/5008386",
+    "https://www.myhome.ie/residential/brochure/apt-5-blind-quay-exchange-street-lower-south-city-centre-south-city-centre-dublin-8/4904049",
+    "https://www.myhome.ie/residential/brochure/the-laurels-barrettstown-knocktopher-co-kilkenny/4984721",
+    "https://www.myhome.ie/residential/brochure/34-ballyglass-ardnacrusha-limerick-county-limerick/5022650",
+    "https://www.myhome.ie/residential/brochure/7-glenmalure-pines-ballintombay-lower-rathdrum-co-wicklow/4941469",
+    "https://www.myhome.ie/residential/brochure/meadow-drive-kerlogue-wexford-town-wexford/5022642",
+    "https://www.myhome.ie/residential/brochure/10-homeleigh-proterstown-castleknock-dublin/5020972"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=323",
+  "paginationLimited": false
+}

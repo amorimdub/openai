@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=370",
+  "fetchedAt": "2026-10-05T13:25:08.854Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=370",
+  "kind": "search",
+  "responseSha256": "2ba5705ae6fcd80cbecf7dac5917d809d7e72ce92d3de51bbcfcd1290ee15ca0",
+  "files": [
+    {
+      "path": "myhome/08137-f12eedb187821e74-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=370\"].SearchResults",
+      "sha256": "652594264ca06c10ea00787f77460615323c1ce8ac2e5f7a5139e1e9ddcf2b54",
+      "bytes": 111139
+    },
+    {
+      "path": "myhome/08137-f12eedb187821e74-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=370\"] (paging fields)",
+      "sha256": "78e5500d72ce0ede7090859f6f6042bb1d535c4bb41f36495a0667ea0e973b5c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-holywell-avenue-sea-road-kilcoole-co-wicklow/5018610",
+    "https://www.myhome.ie/residential/brochure/lisatava-hollymount-mayo/5018608",
+    "https://www.myhome.ie/residential/brochure/no-7-riverside-louisburgh-mayo/5018602",
+    "https://www.myhome.ie/residential/brochure/8-the-links-seapoint-termonfeckin-louth/5018561",
+    "https://www.myhome.ie/residential/brochure/diamond-dungloe-county-donegal/5018604",
+    "https://www.myhome.ie/residential/brochure/21-grantham-place-portobello-dublin-8/5014777",
+    "https://www.myhome.ie/residential/brochure/98-monread-heights-monread-naas-co-kildare/5018598",
+    "https://www.myhome.ie/residential/brochure/ballybrusa-west-ardmore-waterford/5018594",
+    "https://www.myhome.ie/residential/brochure/7-maywood-park-raheny-dublin-5/5018470",
+    "https://www.myhome.ie/residential/brochure/61-mulberry-park-ballinode-sligo-sligo/5018596",
+    "https://www.myhome.ie/residential/brochure/rahard-hollymount-mayo/5018585",
+    "https://www.myhome.ie/residential/brochure/29-beneavin-park-glasnevin-dublin-11-d11-v8y6/5018588",
+    "https://www.myhome.ie/residential/brochure/3-woodstown-lane-knocklyon-dublin-16/5018586",
+    "https://www.myhome.ie/residential/brochure/bohernasup-ballina-co-mayo/5018583",
+    "https://www.myhome.ie/residential/brochure/2-the-beeches-drummagh-carrick-on-shannon-leitrim/5017260",
+    "https://www.myhome.ie/residential/brochure/21-hillcrest-claremorris-mayo/5018566",
+    "https://www.myhome.ie/residential/brochure/1-mount-temple-summerhill-carrick-on-shannon-leitrim/5018568",
+    "https://www.myhome.ie/residential/brochure/28-brandon-crescent-dillons-cross-cork-city-cork/5018555",
+    "https://www.myhome.ie/residential/brochure/tara-house-redcross-co-wicklow/5018562",
+    "https://www.myhome.ie/residential/brochure/shannongrove-pallaskenry-county-limerick/5018551"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=371",
+  "paginationLimited": false
+}

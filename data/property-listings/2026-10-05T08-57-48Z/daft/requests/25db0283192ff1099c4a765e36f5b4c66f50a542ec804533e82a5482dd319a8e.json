@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/tallaght-cross-east-tallaght-tallaght-co-dublin/2325335",
+  "fetchedAt": "2026-10-05T08:59:54.330Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/tallaght-cross-east-tallaght-tallaght-co-dublin/2325335",
+  "kind": "listing",
+  "responseSha256": "708930d164c3a342018cf09910693666c381f7fad4bb594c1b9591b26c79ffe6",
+  "files": [
+    {
+      "path": "daft/00085-25db0283192ff109-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1a8b065f744c507f7a561d75f556f91a65a4232196e204c512bdc19af7573931",
+      "bytes": 30054
+    },
+    {
+      "path": "daft/00085-25db0283192ff109-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e1b85fef68a3c7e42da0eb8e2b1f7bfa2e6127e89c6cfa26ed37c83178b5ed30",
+      "bytes": 8091
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

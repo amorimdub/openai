@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/52-lurgan-park-renmore-galway/6647431",
+  "fetchedAt": "2026-10-05T09:46:16.403Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/52-lurgan-park-renmore-galway/6647431",
+  "kind": "listing",
+  "responseSha256": "dbf8ee255021a6ef7865fea8da99d3f061f7280f4a7529a2409b75e5090d3e2c",
+  "files": [
+    {
+      "path": "daft/01937-47c12fd2dd82c8dc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fe99f11809bf5e059dddc756698591e5bb0a22a0bfc062389398afd80b6bf742",
+      "bytes": 62750
+    },
+    {
+      "path": "daft/01937-47c12fd2dd82c8dc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "da3b25b695a0313ff75d3d0cfe8afa72cbcd4458d6bf84e7aad78a7b6b964caa",
+      "bytes": 8016
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apt-2-5-east-beach-cobh-co-cork/6686453",
+  "fetchedAt": "2026-10-05T09:29:01.544Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apt-2-5-east-beach-cobh-co-cork/6686453",
+  "kind": "listing",
+  "responseSha256": "b90ad8701e2e7b7314ee9648d2ea8ed6e6a31a7c389a37425ce99aee27ec18f0",
+  "files": [
+    {
+      "path": "daft/01248-2f8a7684db33962d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "390b8a0c44cc5f7ec61f37f52089dbc69bb0e4875ee94aae344624f3939fa03c",
+      "bytes": 49588
+    },
+    {
+      "path": "daft/01248-2f8a7684db33962d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "96f6e8c28ef7f9562b48aa0bdfea0c6c3b28f699c1aeba9e7a47992ff5295632",
+      "bytes": 8062
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

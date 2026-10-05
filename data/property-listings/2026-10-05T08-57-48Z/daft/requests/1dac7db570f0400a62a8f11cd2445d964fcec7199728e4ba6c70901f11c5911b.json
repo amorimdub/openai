@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-lookout-harbour-road-dalkey-co-dublin/5525100",
+  "fetchedAt": "2026-10-05T09:03:38.513Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-lookout-harbour-road-dalkey-co-dublin/5525100",
+  "kind": "listing",
+  "responseSha256": "467f89ef98aba2c292c7c232a8589106e9a38d71a052b453577315368a8590da",
+  "files": [
+    {
+      "path": "daft/00234-1dac7db570f0400a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1bac332c2339d5252ef5a12e89db2860031759507fc29dd42b35e9098bd8c35a",
+      "bytes": 109236
+    },
+    {
+      "path": "daft/00234-1dac7db570f0400a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "321b94a7b618d482cc97f996f3fc35c7c7789cebb627ac06090d7e81f7d236ee",
+      "bytes": 8128
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

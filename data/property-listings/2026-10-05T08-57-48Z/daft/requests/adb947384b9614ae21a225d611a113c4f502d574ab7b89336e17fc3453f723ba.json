@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-charlestown-st-margarets-road-finglas-north-dublin-finglas-co-dublin/4519609",
+  "fetchedAt": "2026-10-05T09:06:10.186Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-charlestown-st-margarets-road-finglas-north-dublin-finglas-co-dublin/4519609",
+  "kind": "listing",
+  "responseSha256": "ccc37f369efafcece931a61abf0c5757af2e3b6c8818558539ac01642daba4cb",
+  "files": [
+    {
+      "path": "daft/00335-adb947384b9614ae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4d2811857d5e943c56d038119eeb7ec55a4f3ab6d61a01dd8ea0f67a2d71e6f7",
+      "bytes": 171112
+    },
+    {
+      "path": "daft/00335-adb947384b9614ae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0fc0f7cf49b7ecdeb541069af18f33adb32dd00c2355a55e8f2fba148eb87d84",
+      "bytes": 8061
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

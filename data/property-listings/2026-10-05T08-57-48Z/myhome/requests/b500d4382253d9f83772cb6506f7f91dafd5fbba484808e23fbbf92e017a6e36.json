@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=27",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=27",
+  "fetchedAt": "2026-10-05T09:22:50.064Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "8e9f23f2fb784d109ca5a9f5276150d6a12ec7b3e17fc783bbcb38268a35f346",
+  "files": [
+    {
+      "path": "myhome/00996-b500d4382253d9f8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=27\"].SearchResults",
+      "sha256": "087b5131cf64d910cfbc5b81d7aacf2f0d041ff828af456eae6194ee6db6c9bd",
+      "bytes": 127321
+    },
+    {
+      "path": "myhome/00996-b500d4382253d9f8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=27\"] (paging fields)",
+      "sha256": "5dcd7bc95560aa6b99ea7eaca04bdffc894b36bb25bf79fa59c660f2986bfd6d",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/rockville-manor-kilternan-dublin-18/4908517",
+    "https://www.myhome.ie/residential/brochure/17-grosvenor-road-rathmines-dublin-6/5027111",
+    "https://www.myhome.ie/residential/brochure/house-type-d-an-tulach-liath-quay-road-dungloe-donegal/5022696",
+    "https://www.myhome.ie/residential/brochure/raistin-court-clonmellon-westmeath/5025428",
+    "https://www.myhome.ie/residential/brochure/15-the-orchard-fortfield-road-terenure-dublin-6w/5005539",
+    "https://www.myhome.ie/residential/brochure/joaney-s-garden-compass-hill-kinsale-cork/4766956",
+    "https://www.myhome.ie/residential/brochure/12-saint-colmans-square-cobh-co-cork-cobh-east-cork/5017392",
+    "https://www.myhome.ie/residential/brochure/8-oaklawn-drive-nenagh-co-tipperary/5031769",
+    "https://www.myhome.ie/residential/brochure/50-dollymount-park-clontarf-dublin-3/5028350",
+    "https://www.myhome.ie/residential/brochure/8-tullyhall-park-lucan-dublin/5031768",
+    "https://www.myhome.ie/residential/brochure/10-barrow-lane-graiguenamanagh-co-kilkenny/5026553",
+    "https://www.myhome.ie/residential/brochure/38-st-john-s-well-way-kilmainham-dublin-8/5026687",
+    "https://www.myhome.ie/residential/brochure/kileen-dunsany-meath/5027744",
+    "https://www.myhome.ie/residential/brochure/20-whitethorn-place-naas-co-kildare/5021142",
+    "https://www.myhome.ie/residential/brochure/6-oakfield-place-portobello-dublin-8/5018679",
+    "https://www.myhome.ie/residential/brochure/131-droim-liath-tullamore-co-offaly/5031767",
+    "https://www.myhome.ie/residential/brochure/st-farnans-close-prosperous-co-kildare-3-bedroom-townhouse/4960915",
+    "https://www.myhome.ie/residential/brochure/kilnamonagh-collooney-sligo/5007587",
+    "https://www.myhome.ie/residential/brochure/9-arconagh-naas-kildare/5031765",
+    "https://www.myhome.ie/residential/brochure/waratah-18-rostrevor-road-rathgar-dublin-6/5025866"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=28",
+  "paginationLimited": false
+}

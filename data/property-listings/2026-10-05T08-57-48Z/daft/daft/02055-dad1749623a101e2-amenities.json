@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST NICHOLAS SPEC SCH",
+      "numPupils": 27,
+      "distance": {
+        "value": 0.62,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.115060",
+        "lon": "-9.159982"
+      }
+    },
+    {
+      "schoolName": "ST MICHAEL'S NATIONAL SCHOOL",
+      "numPupils": 27,
+      "distance": {
+        "value": 0.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.107870",
+        "lon": "-9.153286"
+      }
+    },
+    {
+      "schoolName": "SCOIL ÍOSA",
+      "numPupils": 245,
+      "distance": {
+        "value": 0.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116184",
+        "lon": "-9.164062"
+      }
+    },
+    {
+      "schoolName": "ST DYMPNAS SPEC SCHOOL",
+      "numPupils": 33,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.117290",
+        "lon": "-9.167376"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL NA GCEITHRE MAOL",
+      "numPupils": 138,
+      "distance": {
+        "value": 2.02,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.131140",
+        "lon": "-9.166163"
+      }
+    },
+    {
+      "schoolName": "THE QUAY NATIONAL SCHOOL",
+      "numPupils": 364,
+      "distance": {
+        "value": 2.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.131702",
+        "lon": "-9.130512"
+      }
+    },
+    {
+      "schoolName": "CULLENS NATIONAL SCHOOL",
+      "numPupils": 266,
+      "distance": {
+        "value": 2.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.138023",
+        "lon": "-9.163803"
+      }
+    },
+    {
+      "schoolName": "ST. JOSEPH'S NATIONAL SCHOOL",
+      "numPupils": 218,
+      "distance": {
+        "value": 3.29,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.087600",
+        "lon": "-9.167254"
+      }
+    },
+    {
+      "schoolName": "KNOCKANILLO NATIONAL SCHOOL",
+      "numPupils": 28,
+      "distance": {
+        "value": 3.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.132744",
+        "lon": "-9.195095"
+      }
+    },
+    {
+      "schoolName": "BEHY NATIONAL SCHOOL",
+      "numPupils": 220,
+      "distance": {
+        "value": 3.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116257",
+        "lon": "-9.095765"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "MOYNE COLLEGE",
+      "numPupils": 207,
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.113003",
+        "lon": "-9.147819"
+      }
+    },
+    {
+      "schoolName": "ST MUREDACHS COLLEGE",
+      "numPupils": 401,
+      "distance": {
+        "value": 0.41,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.115510",
+        "lon": "-9.144240"
+      }
+    },
+    {
+      "schoolName": "ST. MARY'S SECONDARY SCHOOL",
+      "numPupils": 539,
+      "distance": {
+        "value": 0.78,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.117138",
+        "lon": "-9.162142"
+      }
+    },
+    {
+      "schoolName": "GORTNOR ABBEY",
+      "numPupils": 604,
+      "distance": {
+        "value": 9.88,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.097478",
+        "lon": "-9.298888"
+      }
+    },
+    {
+      "schoolName": "ST. TIERNAN'S COLLEGE",
+      "numPupils": 237,
+      "distance": {
+        "value": 10.95,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.096840",
+        "lon": "-9.315385"
+      }
+    },
+    {
+      "schoolName": "JESUS & MARY SECONDARY SCHOOL",
+      "numPupils": 262,
+      "distance": {
+        "value": 11.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.215420",
+        "lon": "-9.092453"
+      }
+    },
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 15.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.981884",
+        "lon": "-9.111387"
+      }
+    },
+    {
+      "schoolName": "ST. PATRICK'S COLLEGE",
+      "numPupils": 203,
+      "distance": {
+        "value": 15.51,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.229404",
+        "lon": "-9.287921"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE IASCAIGH",
+      "numPupils": 247,
+      "distance": {
+        "value": 22.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.285860",
+        "lon": "-8.956183"
+      }
+    },
+    {
+      "schoolName": "SCOIL MUIRE AGUS PADRAIG",
+      "numPupils": 410,
+      "distance": {
+        "value": 23.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.942100",
+        "lon": "-8.952785"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Dillon Terrace",
+      "route": "458",
+      "destination": "Ballina",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.05,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.11527",
+        "lon": "-9.15117"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "430",
+      "destination": "Galway Cathedral",
+      "provider": "Citylink",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116356",
+        "lon": "-9.153433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "458",
+      "destination": "Enniskillen",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116356",
+        "lon": "-9.153433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "499",
+      "destination": "Ballina Humbert Street",
+      "provider": "McGrath Coaches",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116356",
+        "lon": "-9.153433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "445",
+      "destination": "Ballycastle",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116356",
+        "lon": "-9.153433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "496",
+      "destination": "Ballina Humbert Street",
+      "provider": "McGrath Coaches",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116356",
+        "lon": "-9.153433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "436",
+      "destination": "Ballycastle",
+      "provider": "McGrath Coaches",
+      "distance": {
+        "value": 0.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116356",
+        "lon": "-9.153433"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "454",
+      "destination": "Castlebar",
+      "provider": "TFI Local Link Mayo",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116346",
+        "lon": "-9.15357"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "SI11",
+      "destination": "Ballina Humbert Street",
+      "provider": "Treacy Coaches",
+      "distance": {
+        "value": 0.22,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.116346",
+        "lon": "-9.15357"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Ballina Humbrt",
+      "route": "SI03",
+      "destination": "Civic Offices",
+      "provider": "Barrett Coaches",
+      "distance": {
+        "value": 0.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "54.117137",
+        "lon": "-9.155345"
+      }
+    }
+  ]
+}

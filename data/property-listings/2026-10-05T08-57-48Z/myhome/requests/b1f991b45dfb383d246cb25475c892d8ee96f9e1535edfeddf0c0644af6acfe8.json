@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=378",
+  "fetchedAt": "2026-10-05T13:29:21.348Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=378",
+  "kind": "search",
+  "responseSha256": "0d350c04e190bb6fabefaf520192f3042a65b418d4d4d69a61d12503614f7417",
+  "files": [
+    {
+      "path": "myhome/08305-b1f991b45dfb383d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=378\"].SearchResults",
+      "sha256": "e7d8f5a70a0cf206c89f7d8adbb1a5d0c5ff503d81212de910a09eef851bf679",
+      "bytes": 116582
+    },
+    {
+      "path": "myhome/08305-b1f991b45dfb383d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=378\"] (paging fields)",
+      "sha256": "c3d1bd7f34a50ed74cbeec6d3154c0e9c8f9f5f7a3b2c776efa1a041e8b43c56",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/20-beechmount-carnew-wicklow/5017737",
+    "https://www.myhome.ie/residential/brochure/journey-s-end-ballyorley-upper-ferns-wexford/5017731",
+    "https://www.myhome.ie/residential/brochure/22-maiden-lane-new-ross-wexford/5017655",
+    "https://www.myhome.ie/residential/brochure/8-castle-road-dundalk-co-louth/5017730",
+    "https://www.myhome.ie/residential/brochure/66-kenilworth-square-south-and-site-rathgar-dublin-6/4982744",
+    "https://www.myhome.ie/residential/brochure/28-ashbrook-clontarf-dublin-3/5016911",
+    "https://www.myhome.ie/residential/brochure/2205-highfield-estate-newbridge-co-kildare/5017717",
+    "https://www.myhome.ie/residential/brochure/260-cashel-road-crumlin-dublin-12/5017704",
+    "https://www.myhome.ie/residential/brochure/ballynagar-house-ballynagar-abbey-loughrea-co-galway/5017716",
+    "https://www.myhome.ie/residential/brochure/16-saint-albans-battery-road-longford/5017712",
+    "https://www.myhome.ie/residential/brochure/mcgettricks-o-connell-street-ballymote-co-sligo/4963989",
+    "https://www.myhome.ie/residential/brochure/77-cluain-dara-clonard-wexford-town-wexford/5017702",
+    "https://www.myhome.ie/residential/brochure/graigacurragh-granagh-kilmallock-co-limerick/5017701",
+    "https://www.myhome.ie/residential/brochure/54-railway-avenue-inchicore-dublin-8/5017699",
+    "https://www.myhome.ie/residential/brochure/test-test-test-fenagh-carlow/5017697",
+    "https://www.myhome.ie/residential/brochure/14-lough-gate-portarlington-laois/5017694",
+    "https://www.myhome.ie/residential/brochure/springmount-house-sunday-s-well-road-cork-city-co-cork/5017695",
+    "https://www.myhome.ie/residential/brochure/site-at-thomas-hand-street-skerries-co-dublin/4682266",
+    "https://www.myhome.ie/residential/brochure/13-belton-park-gardens-donnycarney-dublin-9/5005827",
+    "https://www.myhome.ie/residential/brochure/28-pairc-na-cuileann-poppintree-dublin-11/5017672"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=379",
+  "paginationLimited": false
+}

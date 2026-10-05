@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/10-mill-court-tullow-tullow-co-carlow/6683845",
+  "fetchedAt": "2026-10-05T09:45:58.367Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/10-mill-court-tullow-tullow-co-carlow/6683845",
+  "kind": "listing",
+  "responseSha256": "5d827aa034f0078171866b9b4321a4a7c26ecf214f7812989c816cc467712a5c",
+  "files": [
+    {
+      "path": "daft/01925-e3900282cf2d0b53-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "202ddf3552870c5bd752dd0ffbff94d05033eeb95d96a2abc4b8c79e3be7eb54",
+      "bytes": 28756
+    },
+    {
+      "path": "daft/01925-e3900282cf2d0b53-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5484bafea4d90ee2b78b10e82d1801d151ceab5e0b63c922fd4ba74f3c281146",
+      "bytes": 8102
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

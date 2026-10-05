@@ -1,0 +1,845 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "apartment 5 the crescent killegland street ashbourne co meath",
+    "GroupId": 8898,
+    "Address": "Apartment 5, The Crescent, Killegland Street",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3c403237-2cf2-4acf-86fa-1b8e57630b73_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/aa992bc7-c452-4c17-b286-e283a111868a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/cb4d851e-0cf8-4e56-b696-49da31cc80bd_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/1a6dfc56-6dad-4f22-94c6-457ba7a12380_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/ef64d044-1e88-421b-83bd-9ae8f2d9c250_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/9/4/2/5018249/e857ead5-2dc7-4eb9-be15-8b3f2bab007b_l.jpeg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 72,
+    "MaxSize": 72,
+    "BerRating": "C",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€325,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "80",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 4986267,
+        "DisplayAddress": "Apartment 12, Churchfields, Ashbourne, Meath",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "2ca74ed4-5daa-4c14-b116-dcc0897215ae",
+              "Filename": "aa637f40-b26e-4227-8906-2bf8dac6db87.jpg",
+              "Caption": "86819_R_1_Exterior-3810.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bdcc9819-ecea-451c-9400-967f5ad10ac4",
+              "Filename": "72139f29-8642-460c-8d93-f030a2258209.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3778.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "01d09494-78d4-49fa-96cb-a609a29e4e7f",
+              "Filename": "b626cbcd-f26c-414c-9b65-57d24aff6fa6.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3781.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1f51d0a3-1a70-46dd-9d4d-1d8252e79f0b",
+              "Filename": "005751ab-9e01-4340-bae0-ba770c02f96d.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3800.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eeace8ce-4640-4264-a68a-3bcaf566f882",
+              "Filename": "55a2f35c-366c-4a2f-bd4e-93d3742eda73.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3771.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e40f5ebb-56ff-4516-ace9-47e1e613baa7",
+              "Filename": "a4ef0ffe-7777-4145-a19a-e6bff7b1c15a.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3766.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "91b15154-2e7f-48a0-bb8e-84f3b80529d5",
+              "Filename": "b180ea1b-d6e3-48b5-a66c-beb1b96bf874.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3774.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "74ff754a-cb7c-4722-a6c2-97f2b453e47a",
+              "Filename": "b742f182-72f5-49e5-8272-7602999e2a9d.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3787.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a10616bb-2799-4c98-a169-143e0d953666",
+              "Filename": "97703dad-76d7-4900-9a86-1389126a7cbe.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3793.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c25f5e1d-a9de-4b2f-abdd-5f9c9186f3e5",
+              "Filename": "ba944a97-89f4-4fea-abb1-715bfcee65ab.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3784.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "88e3ad3b-2bc5-4bb9-8f82-9177c2df9f39",
+              "Filename": "0214b655-1986-4f1d-b658-a1f9c441dd3d.jpg",
+              "Caption": "86819_R_1_12 Churchfields-3796.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9cb66e02-ba99-44dd-b5a5-b440ebb6c074",
+              "Filename": "c606fabf-f6c9-4b0d-ba79-00008e60f90a.jpg",
+              "Caption": "86819_R_2_0_12 Churchfields Ashbourne - Floor Plan",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "b0860d2e9da848fba8525f2ad09c1337",
+          "OriginalImagesSuffix": "b0860",
+          "MainPhoto": {
+            "Identifier": "2ca74ed4-5daa-4c14-b116-dcc0897215ae",
+            "Filename": "aa637f40-b26e-4227-8906-2bf8dac6db87.jpg",
+            "Caption": "86819_R_1_Exterior-3810.JPG",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/6/2/4986267/aa637f40-b26e-4227-8906-2bf8dac6db87_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€295,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "75",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5009958,
+        "DisplayAddress": "Apartment 8, Killegland Meadows, Killegland Street, Ashbourne, Co. Meath",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "b184ad2c-e3b2-4c46-ab4b-7398a3c78d87",
+              "Filename": "65f26164-9c5d-42e7-a48d-8f782b903412.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/e017a718-18de-4291-8bcf-1f6e223108af.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8371e745-e242-4d59-a2e9-7cb26b3c3f33",
+              "Filename": "a0f42606-a9b8-4aac-aa53-81d3fa98a186.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/301e937f-e163-4deb-b1aa-c55f2a180339.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "358a8a1d-e938-43aa-a355-5db177617b20",
+              "Filename": "b4f07ba6-fc9e-44eb-b8b3-ad4296b7939b.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/592f0abd-e785-4731-9b46-6b9bba859615.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "78858549-006a-4d6d-b413-138340cae80c",
+              "Filename": "17023cbf-69d0-4765-afb0-7311f1a19531.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/637f809e-3c16-4343-9159-0d611d1a185b.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ec34f23e-45d1-4f83-a393-7ca658e8d061",
+              "Filename": "735b97d5-712e-4ee1-9468-656f8e0708f6.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/6a0eb27e-d252-42b6-a5a5-ca16a65bd7a5.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c4bda06f-e6ab-4866-83fd-175f613cb5ef",
+              "Filename": "b088b433-9342-465c-9968-358d44f4f6ce.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/4cb31042-3ea8-46a6-868b-2d7f32486b16.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8d1f2874-78d7-47c2-9760-b7514eb1f676",
+              "Filename": "baee901a-6d5e-4143-98ad-c26f3a59c1c4.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/5ea581cd-a68c-475e-b718-3c9fd0b87673.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4683248c-7cd6-4754-a216-7e97ee76c279",
+              "Filename": "13ab338a-276d-43ec-8b44-47fe8f690fe5.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/5985074f-ab05-4d8d-8725-93e8e95b9d4b.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d80dfcfb-80a1-408c-8a46-a2c79ca88fc1",
+              "Filename": "7d16acf0-a322-4f28-b900-9c4d02d3bd77.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/ef812dea-f46a-4c30-b079-5e73384de13d.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "337319b1-6f98-4505-8290-371be931fc10",
+              "Filename": "1d8bf880-94c5-4bbb-b79d-1da939d9d9e8.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/99a4f7be-3d18-40db-be36-896a8a59b410.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5a70ef2a-d475-4bd8-8416-b84dd150e0df",
+              "Filename": "fd05ebe3-a431-4217-ad4f-5b58e7e202ca.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/68c62852-ce10-4910-b45d-17cd1d19e861.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9fe1057a-4727-4c89-a90f-4d373cae7fbd",
+              "Filename": "9ec9c672-dc72-4858-a690-01eed17fd4ed.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/40db349c-6b1d-427b-b910-f2eee9340037.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0ce9a570-d8b8-4fae-a8cb-b08b60c2d8f0",
+              "Filename": "96e9619b-8c99-4b3c-a556-ddde9881fe1f.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/a6028447-b850-4fdc-bf62-fa643a43cc3f.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e6cc1481-447f-4b9f-a040-2cf2cf3c69cb",
+              "Filename": "5f1cc2d0-9de6-4912-9c2f-6d5c38000d02.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/60f0d036-2193-4f30-8a66-83cf19d21652.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "334df266-8fb2-40f5-a0e1-e03084ce4f45",
+              "Filename": "0218d0dd-f570-42fc-9784-858f50752daa.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/2925753d-b49d-4f17-b64a-30cbeb2aa732.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4a8a226d-fb11-4c72-86b3-7b317b6f5337",
+              "Filename": "d1dc8eea-03bd-4410-a2bf-0c27b852d187.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/f7a4fcfd-9c02-4fed-b978-91ca33266fca.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5a90cceb-56bc-491d-80f7-84dfc6a0eb83",
+              "Filename": "2aadba11-d222-4112-9f44-ca29b37e86d1.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/feae7bc9-dd03-4c51-ab46-b7f2b0be01cf.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4ee89f06-0182-4b4f-850f-4d1dab1a59b3",
+              "Filename": "https://tour.giraffe360.com/083bd35f2592446ba553d2dade857cfe",
+              "Caption": "https://tour.giraffe360.com/083bd35f2592446ba553d2dade857cfe",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "b552ec4ef91146ac9ffed7fc2e5da0b0",
+          "OriginalImagesSuffix": "b552e",
+          "MainPhoto": {
+            "Identifier": "b184ad2c-e3b2-4c46-ab4b-7398a3c78d87",
+            "Filename": "65f26164-9c5d-42e7-a48d-8f782b903412.jpeg",
+            "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/1/0/7/66701/e017a718-18de-4291-8bcf-1f6e223108af.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/5/9/5009958/65f26164-9c5d-42e7-a48d-8f782b903412_l.jpeg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€270,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "72",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 5018249,
+        "DisplayAddress": "Apartment 5, The Crescent, Killegland Street, Ashbourne, Co. Meath",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "3b3193ed-7449-4a4d-afce-27ef327bd476",
+              "Filename": "3cbdca8e-1484-4a36-b99b-0dc47efbd395.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/09bb008d-3427-4e98-b2d7-d71f30f1e746.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "50d7cfaf-f1fd-48ff-9f4d-1624a265c176",
+              "Filename": "3c403237-2cf2-4acf-86fa-1b8e57630b73.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/c5469980-e212-4232-8305-c9037d39c595.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d5f3ee79-ec3e-4ccd-b057-1191573355a2",
+              "Filename": "aa992bc7-c452-4c17-b286-e283a111868a.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/8812c0ce-6276-44b8-a6db-93385f17bd77.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6de4ce63-b9c1-454e-a976-37a307205707",
+              "Filename": "cb4d851e-0cf8-4e56-b696-49da31cc80bd.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/4494ad91-ae3a-41d1-9621-3cfd41352bc9.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "43accd09-6f3f-4218-bf4b-b7ac5c575e95",
+              "Filename": "1a6dfc56-6dad-4f22-94c6-457ba7a12380.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/65393221-864e-42a2-a315-6707a2946bb4.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3f0d7449-50fa-4e6a-b700-f87adcb2b49f",
+              "Filename": "ef64d044-1e88-421b-83bd-9ae8f2d9c250.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/38a9cf56-da62-47f8-b513-a4557c57f6bc.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "32e302ff-b4f6-4c1b-9745-b7812987d3c2",
+              "Filename": "e857ead5-2dc7-4eb9-be15-8b3f2bab007b.jpeg",
+              "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/56b75655-590f-4a8d-b723-9088f67e5946.jpeg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "f18089dbeb1e45d0aedf9e49be96b5ac",
+          "OriginalImagesSuffix": "f1808",
+          "MainPhoto": {
+            "Identifier": "3b3193ed-7449-4a4d-afce-27ef327bd476",
+            "Filename": "3cbdca8e-1484-4a36-b99b-0dc47efbd395.jpeg",
+            "Caption": "https://propertyimagesprod.blob.core.windows.net/properties/property/images/7/2/6/135627/09bb008d-3427-4e98-b2d7-d71f30f1e746.jpeg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_l.jpeg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "*EXCELLENT LOCATION*\n*TWO SPACIOUS BEDROOMS*\n*FITTED WARDROBES*\n*BALCONY*\n\nViewing comes highly advised. To arrange a viewing please contact DNG Tormey Lee on 01 835 7089 or send an email via this advert.\n\nThis spacious two-bedroom apartment comes to the market in Killegland Crescent and is conveniently located in the heart of Ashbourne Town Centre.\n\nThe apartment is presented in good condition throughout and comprises of entrance hall, open plan living, dining & kitchen, balcony, master bedroom with ensuite bathroom, second bedroom and bathroom. Both bedrooms have fitted wardrobes and there is also a large storage cupboard off the hallway.\n\nThe management fees payable are in the region of 2,497 per annum.\n\nAshbourne is home to a number of good Primary Schools and two Secondary schools. There are well established and thriving sports clubs to include GAA, Soccer, Rugby, Golf, Cricket & Tennis Clubs. For entertainment there is a cinema and new bowling / leisure centre. Ashbourne is home to a number of large supermarkets to include Dunnes Stores, Supervalu, Lidl, Aldi & Tesco, as well as smaller independent shops and boutiques. There are regular commuter bus services to Dublin City Centre ran by Bus Eireann and Ashbourne Connect. There are also regular buses to Blanchardstown and Swords. The M2 motorway is easily accessible for nationwide routes and the Airport is a c. 20-minute drive.\n\nPlease contact DNG Tormey Lee on 01 835 7089 or send an email via this advert.\n\nSummary of Apt. 5 The Crescent, Killegland Street: -\nGIA: c. 72.66m2\nBuilt c. 2004\nC Energy Rating\n2 double bedrooms\nSecure underground parking space (1)\nFitted wardrobes \nStorage heating\nWalking distance to village & bus stop for Dublin\nEasy access to M2\nEasy access to Dublin Airport"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "- Parking\n- En Suite\n- Balcony"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C\nBER No: 119458198"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "TormeyLee User"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 0,
+    "MinEnergyRating": 75,
+    "MaxEnergyRating": 75,
+    "BERGrade": "C",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-07-30T10:52:00.2270000+01:00",
+    "ModifiedOnDate": "2026-07-30T11:24:57.1600000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-07-30T10:52:00.2270000+01:00",
+    "RefreshedOn": "2026-07-30T10:52:00.2270000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+    "IsTransact": false,
+    "PriceAsString": "€270,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5018249,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 72,
+    "DisplayAddress": "Apartment 5, The Crescent, Killegland Street, Ashbourne, Co. Meath",
+    "Eircode": "A84 W590",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 36,
+    "RegionId": 2712,
+    "RegionName": "Meath",
+    "LocalityId": 2714,
+    "LocalityName": "Ashbourne",
+    "Price": {
+      "MinPrice": 270000,
+      "MaxPrice": 270000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3cbdca8e-1484-4a36-b99b-0dc47efbd395_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3c403237-2cf2-4acf-86fa-1b8e57630b73_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3c403237-2cf2-4acf-86fa-1b8e57630b73_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/3c403237-2cf2-4acf-86fa-1b8e57630b73_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/aa992bc7-c452-4c17-b286-e283a111868a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/aa992bc7-c452-4c17-b286-e283a111868a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/aa992bc7-c452-4c17-b286-e283a111868a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/cb4d851e-0cf8-4e56-b696-49da31cc80bd_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/cb4d851e-0cf8-4e56-b696-49da31cc80bd_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/cb4d851e-0cf8-4e56-b696-49da31cc80bd_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/1a6dfc56-6dad-4f22-94c6-457ba7a12380_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/1a6dfc56-6dad-4f22-94c6-457ba7a12380_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/1a6dfc56-6dad-4f22-94c6-457ba7a12380_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/ef64d044-1e88-421b-83bd-9ae8f2d9c250_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/ef64d044-1e88-421b-83bd-9ae8f2d9c250_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/ef64d044-1e88-421b-83bd-9ae8f2d9c250_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/e857ead5-2dc7-4eb9-be15-8b3f2bab007b_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/e857ead5-2dc7-4eb9-be15-8b3f2bab007b_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/4/2/5018249/e857ead5-2dc7-4eb9-be15-8b3f2bab007b_m.jpeg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.401102,
+      "latitude": 53.511659
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 7,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 8898,
+    "Name": "DNG Tormey Lee",
+    "DisplayPhone": "01 835 7089",
+    "Email": "tormeylee@dng.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "dng-tormey-lee",
+    "SeoName": "dng-tormey-lee",
+    "Address": "Unit 2, Ashbourne Court, Ashbourne, Co. Meath",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/9/8/8898/logo.jpg",
+    "SalesLicense": "003940",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ashbourne/2714",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024987,
+      "PropertyClassId": 1,
+      "DisplayAddress": "9 The Beeches, Archerstown Demesne, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/8/9/5024987/8e859ca7-dd10-433d-8ff1-b38cc01ca571_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/9-the-beeches-archerstown-demesne-ashbourne-co-meath/5024987"
+    },
+    {
+      "PropertyId": 5021172,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Cabinhill, Ratoath, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/7/1/5021172/2fe52299-bde5-4351-87ce-1b12b68a6b95_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/cabinhill-ratoath-co-meath/5021172"
+    },
+    {
+      "PropertyId": 5017595,
+      "PropertyClassId": 1,
+      "DisplayAddress": "The Croft, Dean Hill, Hayes, Slane, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/9/5/5017595/c6e41356-bbbc-49a3-a73c-87fa1c1533f7_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/the-croft-dean-hill-hayes-slane-co-meath/5017595"
+    },
+    {
+      "PropertyId": 5011492,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Olbar, Baltrasna Road, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/9/4/5011492/3c86cde5-c8fb-4481-b2c0-30f39202156b_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/olbar-baltrasna-road-ashbourne-co-meath/5011492"
+    },
+    {
+      "PropertyId": 5024705,
+      "PropertyClassId": 1,
+      "DisplayAddress": "25 Crestwood Road, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/0/7/5024705/7788e130-1199-44f1-932d-635d1b042e25_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/25-crestwood-road-ashbourne-co-meath/5024705"
+    },
+    {
+      "PropertyId": 5023084,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Bowhill, Fairyhouse Road, Ratoath, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/8/0/5023084/3ca668eb-9e31-4413-a387-44cff6c99642_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/bowhill-fairyhouse-road-ratoath-co-meath/5023084"
+    },
+    {
+      "PropertyId": 5021356,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Rose Cottage, Leastown Lane, Oldtown, Co. Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/3/5021356/cd87d7ef-dc2c-4e31-b2a0-fb33b2fbab6a_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/rose-cottage-leastown-lane-oldtown-co-dublin/5021356"
+    },
+    {
+      "PropertyId": 5019638,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Abhaile, Ratoath Road, Baltrasna, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/3/6/5019638/919ca01d-a210-493f-a746-c05b1e7cc80f_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/abhaile-ratoath-road-baltrasna-ashbourne-co-meath/5019638"
+    },
+    {
+      "PropertyId": 5019280,
+      "PropertyClassId": 1,
+      "DisplayAddress": "15 Brindley Park Square, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/8/2/5019280/c1a99c95-1fc3-4799-b8e4-a112ed60c68b_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/15-brindley-park-square-ashbourne-co-meath/5019280"
+    },
+    {
+      "PropertyId": 5018268,
+      "PropertyClassId": 1,
+      "DisplayAddress": "262 Beechdale, Dunboyne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/6/2/5018268/2f014b66-3b8f-48c9-a46a-96800b994b16_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/262-beechdale-dunboyne-co-meath/5018268"
+    },
+    {
+      "PropertyId": 5016918,
+      "PropertyClassId": 1,
+      "DisplayAddress": "10 Johnswood Drive, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/1/9/5016918/a28d3465-30c5-4e8a-8343-2b0489795c06_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/10-johnswood-drive-ashbourne-co-meath/5016918"
+    },
+    {
+      "PropertyId": 5013620,
+      "PropertyClassId": 1,
+      "DisplayAddress": "7 Ashewood Walk, Ashewood, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/2/6/5013620/1cef826c-79dd-44da-a945-ae6902673894_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/7-ashewood-walk-ashewood-ashbourne-co-meath/5013620"
+    },
+    {
+      "PropertyId": 5013602,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Denbri, Fairyhouse Road, Ennistown, Ratoath, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/0/6/5013602/04019d41-ac7f-4517-a34d-ddcbc83832f3_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/denbri-fairyhouse-road-ennistown-ratoath-co-meath/5013602"
+    },
+    {
+      "PropertyId": 5010545,
+      "PropertyClassId": 1,
+      "DisplayAddress": "17 Castle Crescent, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/4/5/5010545/ef0c0934-2328-4df2-ae1f-d4fb7227109f_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/17-castle-crescent-ashbourne-co-meath/5010545"
+    },
+    {
+      "PropertyId": 5009958,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 8, Killegland Meadows, Killegland Street, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/5/9/5009958/65f26164-9c5d-42e7-a48d-8f782b903412_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-8-killegland-meadows-killegland-street-ashbourne-co-meath/5009958"
+    },
+    {
+      "PropertyId": 4999342,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Inistioge, Raystown, Ratoath, Meath, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/4/3/4999342/2587c597-a88b-46e3-955f-736222b03253_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/inistioge-raystown-ratoath-meath-co-meath/4999342"
+    },
+    {
+      "PropertyId": 5008610,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Cornstown, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/1/6/5008610/16bf417e-5336-495b-8cd7-5b5cf25bb5bf_m.jpeg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/cornstown-ashbourne-co-meath/5008610"
+    },
+    {
+      "PropertyId": 4983165,
+      "PropertyClassId": 1,
+      "DisplayAddress": "3 Churchfield Grove (with attic conversion), Ashbourne, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/6/1/4983165/ae18b2ca-9dff-471d-b514-84b5f9e59626_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/3-churchfield-grove-with-attic-conversion-ashbourne-meath/4983165"
+    },
+    {
+      "PropertyId": 5002762,
+      "PropertyClassId": 1,
+      "DisplayAddress": "35 Cedar Road, Archerstown Wood, Ashbourne, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/6/7/5002762/693c9d0d-ba09-40a0-96e7-e01bccc0ef53_m.png",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/35-cedar-road-archerstown-wood-ashbourne-meath/5002762"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 5025754,
+      "Address": "88 Crenigans Bánóg, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/5/7/5025754/47c14980-7f53-444e-893c-cd7e7a75cd15_t.jpeg",
+      "HasWebP": false,
+      "Price": 545000,
+      "PrevPrice": 565000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -3.5398,
+      "Created": "25th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "BerRating": "A3",
+      "SeoUrl": "/residential/brochure/88-crenigans-b-n-g-ashbourne-co-meath/5025754",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 5025754,
+      "Address": "88 Crenigans Bánóg, Ashbourne, Co. Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/5/7/5025754/47c14980-7f53-444e-893c-cd7e7a75cd15_t.jpeg",
+      "HasWebP": false,
+      "Price": 545000,
+      "PrevPrice": 565000,
+      "PriceChangeDelta": -20000,
+      "PriceChangePercentage": -3.5398,
+      "Created": "17th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "BerRating": "A3",
+      "SeoUrl": "/residential/brochure/88-crenigans-b-n-g-ashbourne-co-meath/5025754",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4973031,
+      "Address": "Coolfore, Ashbourne, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/0/4973031/b9abea20-cbbb-4acb-ba8f-f5dfd9243c32_t.jpg",
+      "HasWebP": false,
+      "Price": 575000,
+      "PrevPrice": 550000,
+      "PriceChangeDelta": 25000,
+      "PriceChangePercentage": 4.5455,
+      "Created": "16th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E1.png",
+      "BerRating": "E1",
+      "SeoUrl": "/residential/brochure/coolfore-ashbourne-meath/4973031",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4973031,
+      "Address": "Coolfore, Ashbourne, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/0/4973031/b9abea20-cbbb-4acb-ba8f-f5dfd9243c32_t.jpg",
+      "HasWebP": false,
+      "Price": 550000,
+      "PrevPrice": 575000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -4.3478,
+      "Created": "10th Aug 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/E1.png",
+      "BerRating": "E1",
+      "SeoUrl": "/residential/brochure/coolfore-ashbourne-meath/4973031",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4983165,
+      "Address": "3 Churchfield Grove (with attic conversion), Ashbourne, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/6/1/4983165/ae18b2ca-9dff-471d-b514-84b5f9e59626_t.jpg",
+      "HasWebP": false,
+      "Price": 510000,
+      "PrevPrice": 495000,
+      "PriceChangeDelta": 15000,
+      "PriceChangePercentage": 3.0303,
+      "Created": "29th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A3.png",
+      "BerRating": "A3",
+      "SeoUrl": "/residential/brochure/3-churchfield-grove-with-attic-conversion-ashbourne-meath/4983165",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/apartment-5-the-crescent-killegland-street-ashbourne-co-meath/5018249",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 8898,
+    "MYH_LocalityID": 2714,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 2712,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking",
+    "MYH_MaxPrice": 275000,
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 75,
+    "MYH_MinPrice": 275000,
+    "MYH_MinSize": 72,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5018249,
+    "MYH_PropertyTypeID": 36
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/st-edmunds-st-edmunds-lucan-co-dublin/2315129",
+  "fetchedAt": "2026-10-05T09:10:07.454Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/st-edmunds-st-edmunds-lucan-co-dublin/2315129",
+  "kind": "listing",
+  "responseSha256": "b6a1d803db533976f8e801216229706b58af3bbb186db1b52c95bbe5eedbc947",
+  "files": [
+    {
+      "path": "daft/00493-2762440198eb14bf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cb959aedace231a25fa9e0280e3cb571c4f801916e5330bf626c6665a9c7e5aa",
+      "bytes": 162128
+    },
+    {
+      "path": "daft/00493-2762440198eb14bf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e5585ba5091e4ef4afe24e4ae57650835f645b80ed452089947f48aa1f54a01e",
+      "bytes": 8231
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

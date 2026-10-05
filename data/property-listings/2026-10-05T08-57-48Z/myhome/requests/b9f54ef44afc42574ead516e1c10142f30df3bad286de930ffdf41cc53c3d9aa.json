@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=333",
+  "fetchedAt": "2026-10-05T13:06:09.489Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=333",
+  "kind": "search",
+  "responseSha256": "f897e40ce545825d62b658be9e10749760dce7b663b150a3a1759bfadc57b1f1",
+  "files": [
+    {
+      "path": "myhome/07379-b9f54ef44afc4257-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=333\"].SearchResults",
+      "sha256": "5303136e397b239260e09d5e851cb86dcc6156b96e151b5f5bcd491f489c6c51",
+      "bytes": 116299
+    },
+    {
+      "path": "myhome/07379-b9f54ef44afc4257-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=333\"] (paging fields)",
+      "sha256": "e7466deb3e0090868da7db56fc4a2d0b7b879591eb93ca88f12d39a4ae8e35e1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-68-collegeview-silloge-road-ballymun-dublin/5021676",
+    "https://www.myhome.ie/residential/brochure/apartment-20-alen-hall-belgard-square-tallaght-dublin-24/4966626",
+    "https://www.myhome.ie/residential/brochure/17-straffan-green-straffan-wood-maynooth-co-kildare/5021678",
+    "https://www.myhome.ie/residential/brochure/23-derrywood-durrow-portlaoise-co-laois/5021675",
+    "https://www.myhome.ie/residential/brochure/23-castleview-walk-swords-county-dublin/5021236",
+    "https://www.myhome.ie/residential/brochure/1-lower-charles-street-castlebar-co-mayo/5021668",
+    "https://www.myhome.ie/residential/brochure/rinshinna-castlebar-co-mayo/5021666",
+    "https://www.myhome.ie/residential/brochure/2-frenchbrook-sarnaught-castlebar-co-mayo/5002208",
+    "https://www.myhome.ie/residential/brochure/shintilla-milebush-castlebar-co-mayo/5002933",
+    "https://www.myhome.ie/residential/brochure/45-the-pottery-weir-road-tuam-co-galway/5021662",
+    "https://www.myhome.ie/residential/brochure/26-emmet-road-inchicore-dublin-8/5021649",
+    "https://www.myhome.ie/residential/brochure/beaghmore-belclare-tuam-co-galway/5021659",
+    "https://www.myhome.ie/residential/brochure/3-sliabh-breagh-ardee-louth/5021643",
+    "https://www.myhome.ie/residential/brochure/5-abbey-manor-newbridge-kildare/5021638",
+    "https://www.myhome.ie/residential/brochure/breanross-house-dromod-road-mohill-co-leitrim/5021642",
+    "https://www.myhome.ie/residential/brochure/leaby-cross-collon-collon-co-louth-collon-louth/5021637",
+    "https://www.myhome.ie/residential/brochure/11-loughboy-drogheda-co-louth-drogheda-louth/5021635",
+    "https://www.myhome.ie/residential/brochure/rathdown-house-rahdown-park-greystones-wicklow/5021634",
+    "https://www.myhome.ie/residential/brochure/slattamore-kilglass-co-roscommon/5021636",
+    "https://www.myhome.ie/residential/brochure/23-cherry-lodge-farmleigh-woods-castleknock-dublin-15/5018539"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=334",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/18-leopardstown-avenue-blackrock-co-dublin/6661945",
+  "fetchedAt": "2026-10-05T09:12:06.105Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/18-leopardstown-avenue-blackrock-co-dublin/6661945",
+  "kind": "listing",
+  "responseSha256": "2200161c1b1d29734324466c61776d2087715ffefec7e67a97003675190912a8",
+  "files": [
+    {
+      "path": "daft/00572-bb94834987222474-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "5b9a895fe0bb4b6b590cf13613b6f444704eef1f192e69069a83bc7059f2ccb6",
+      "bytes": 46432
+    },
+    {
+      "path": "daft/00572-bb94834987222474-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "68f82653c11f47e7470936889f72f248ff04d3dc50fd3989d0245c613ce115e2",
+      "bytes": 8100
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

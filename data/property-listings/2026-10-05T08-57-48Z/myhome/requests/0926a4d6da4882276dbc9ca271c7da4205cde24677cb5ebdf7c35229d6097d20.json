@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=84",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=84",
+  "fetchedAt": "2026-10-05T09:55:04.502Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "4ace584340ba98e42b035832fbf90ad58c199edf6a06abc24794c76724fe575a",
+  "files": [
+    {
+      "path": "myhome/02282-0926a4d6da488227-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=84\"].SearchResults",
+      "sha256": "8835cae295557a50d79fac65823b3c9d5466a4aa200f349ef125d6f9abaf15d2",
+      "bytes": 111281
+    },
+    {
+      "path": "myhome/02282-0926a4d6da488227-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=84\"] (paging fields)",
+      "sha256": "1abb2c543f1827a4120815a819633d271f09b9ae6f05d769ab1aba04c625c57c",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/no-9-main-street-coolgreany-gorey-county-wexford/5030683",
+    "https://www.myhome.ie/residential/brochure/the-gate-lodge-molesworth-street-daingean-co-offaly/5030675",
+    "https://www.myhome.ie/residential/brochure/4-clarney-hall-rathdowney-laois/5030555",
+    "https://www.myhome.ie/residential/brochure/house-development-land-derrybeg-co-donegal/5030673",
+    "https://www.myhome.ie/residential/brochure/tanimar-bealnamulla-athlone-county-roscommon/5030671",
+    "https://www.myhome.ie/residential/brochure/pilltown-kinsalebeg-waterford/5030670",
+    "https://www.myhome.ie/residential/brochure/barryroe-tragumna-skibbereen-cork/5030668",
+    "https://www.myhome.ie/residential/brochure/305-harolds-cross-road-harold-s-cross-dublin-6/4990867",
+    "https://www.myhome.ie/residential/brochure/125-new-ireland-road-rialto-dublin-8/5009937",
+    "https://www.myhome.ie/residential/brochure/8-wellmount-park-finglas-dublin-11/5030667",
+    "https://www.myhome.ie/residential/brochure/no-10-tinteskin-close-kilmuckridge-gorey-county-wexford/5030666",
+    "https://www.myhome.ie/residential/brochure/50-ashfield-rise-balbriggan-county-dublin/5030648",
+    "https://www.myhome.ie/residential/brochure/seffin-birr-co-offaly/5019830",
+    "https://www.myhome.ie/residential/brochure/myrtle-court-baldoyle-dublin-13/4733919",
+    "https://www.myhome.ie/residential/brochure/knockane-killumney-ovens-cork/5030566",
+    "https://www.myhome.ie/residential/brochure/93-beaumont-road-beaumont-dublin-9/5030632",
+    "https://www.myhome.ie/residential/brochure/apartment-11-an-croc-n-clane-co-kildare/5030664",
+    "https://www.myhome.ie/residential/brochure/29-rathdown-square-north-circular-road-dublin-7/5030663",
+    "https://www.myhome.ie/residential/brochure/165-beech-park-easton-road-leixlip-county-kildare/5030662",
+    "https://www.myhome.ie/residential/brochure/13-grange-park-baldoyle-dublin-13/5024250"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=85",
+  "paginationLimited": false
+}

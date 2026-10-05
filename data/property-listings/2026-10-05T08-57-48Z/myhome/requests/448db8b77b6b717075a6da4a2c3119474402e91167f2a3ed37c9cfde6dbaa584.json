@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=19",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=19",
+  "fetchedAt": "2026-10-05T09:14:40.104Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "f03ebccd43c4a59c43caa95ccd4a01ef18b1574728c75f44786b6cdf94b71093",
+  "files": [
+    {
+      "path": "myhome/00670-448db8b77b6b7170-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=19\"].SearchResults",
+      "sha256": "2ecc8d36cc946072bb2dc80532f086886f0ca233e91e8a044d72e8d2bf595ab2",
+      "bytes": 107421
+    },
+    {
+      "path": "myhome/00670-448db8b77b6b7170-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=19\"] (paging fields)",
+      "sha256": "2e4b3c252f797d11035f4945f0f7a436d9a85f9d4ff4e6e4843bad0b699c4d2d",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-milltown-hill-milltown-dublin-6/5007598",
+    "https://www.myhome.ie/residential/brochure/51-belleville-blackhorse-avenue-ashtown-dublin-7/5006161",
+    "https://www.myhome.ie/residential/brochure/356-sutton-park-sutton-dublin-13/5031904",
+    "https://www.myhome.ie/residential/brochure/10-st-josephs-cottage-blackhorse-avenue-dublin-7/5015329",
+    "https://www.myhome.ie/residential/brochure/magdala-house-castleknock-road-castleknock-dublin-15/5024701",
+    "https://www.myhome.ie/residential/brochure/6-saint-annes-road-south-south-circular-road-dublin-8/5031912",
+    "https://www.myhome.ie/residential/brochure/34-the-courtyard-maelduin-dunshaughlin-meath/5031910",
+    "https://www.myhome.ie/residential/brochure/8-latchford-green-clonee-dublin-15/5031909",
+    "https://www.myhome.ie/residential/brochure/16-seafield-crescent-booterstown-blackrock-county-dublin/5031123",
+    "https://www.myhome.ie/residential/brochure/8-engleberg-court-mounttown-road-lower-dun-laoghaire-county-dublin/5031048",
+    "https://www.myhome.ie/residential/brochure/119-castlecurragh-vale-mulhuddart-dublin-15/5031908",
+    "https://www.myhome.ie/residential/brochure/23-saint-michaels-terrace-blackpitts-dublin-8/5031907",
+    "https://www.myhome.ie/residential/brochure/lough-keel-cottage-carrownasaul-termon-county-donegal/5031905",
+    "https://www.myhome.ie/residential/brochure/18-the-maples-diamond-valley-bray-co-wicklow/5031903",
+    "https://www.myhome.ie/residential/brochure/63-lanesborough-mews-finglas-dublin-11/5031902",
+    "https://www.myhome.ie/residential/brochure/5-wallace-road-walkinstown-dublin-12/5019716",
+    "https://www.myhome.ie/residential/brochure/11-rathmichael-woods-shankill-dublin-18/5026831",
+    "https://www.myhome.ie/residential/brochure/ballyhaden-borrisokane-co-tipperary/5031901",
+    "https://www.myhome.ie/residential/brochure/47-the-stockyard-block-e-the-steelworks-foley-street-dublin-1-dublin/5031900",
+    "https://www.myhome.ie/residential/brochure/7-yellow-meadows-lawn-clondalkin-dublin-22/5031898"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=20",
+  "paginationLimited": false
+}

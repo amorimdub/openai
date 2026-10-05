@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/u-citywest-demesne-citywest-citywest-co-dublin/4572491",
+  "fetchedAt": "2026-10-05T09:08:52.371Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/u-citywest-demesne-citywest-citywest-co-dublin/4572491",
+  "kind": "listing",
+  "responseSha256": "9541ff820aa96f983ee31d545b0c38b9281e5298f3da0ca5318f799c3e02615c",
+  "files": [
+    {
+      "path": "daft/00443-289c4f058a59a423-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2be14313c2042cea6c61849d9fe3cc63ae8639f94d985c858e8699d3ecf51a6d",
+      "bytes": 74118
+    },
+    {
+      "path": "daft/00443-289c4f058a59a423-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a97b4a11a41d2cda5c2ac2dcb88b37c4befd680a73eb439860ea52ae3fc5b29a",
+      "bytes": 8025
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

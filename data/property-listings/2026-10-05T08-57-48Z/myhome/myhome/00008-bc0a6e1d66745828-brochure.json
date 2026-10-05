@@ -1,0 +1,369 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "3 sli liag ard ballard road miltown malbay co clare",
+    "GroupId": 5632,
+    "Address": "3 Sli Liag Ard, Ballard Road, Miltown Malbay, Co. Clare, V95 X306",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7c73c62f-9b9a-4f39-84ac-a98c103640db_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7c73c62f-9b9a-4f39-84ac-a98c103640db_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7c73c62f-9b9a-4f39-84ac-a98c103640db_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8967ce02-d9cc-48b8-a129-81cac783fb3e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/5f227b4f-6e76-40b6-a490-f00b7eef74bd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/de7e0396-eb72-4e41-8cde-4a8ebd96b289_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b0410ff4-4d37-44d0-9a67-fb60475e8378_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8e2e2287-6694-4181-b523-b32da6615b78_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/4f04bb63-d3ea-46f0-bc87-52a7eb9084af_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/510981bf-8837-4b46-bf70-30f94e95a158_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/2372f7c1-09fd-40ad-8391-4333771b4663_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7e2f7991-4ab1-4ec4-9a18-dc5e1d76feec_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/d68a8bfe-3a04-4fb1-8ea8-18d705cd1b08_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/36e16cde-5098-4c98-b3bb-f6529705e6ea_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/01e468e3-337a-4bd5-81b2-8f71d147747c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/30a8abe6-4531-4f51-b8f3-433563f2c06d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/1aa7cac4-ca8b-4233-8123-281f45493353_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/f4950e6d-6a3f-4611-b612-5b03ab03157f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b694739d-8218-434c-a075-1da65306abe6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/6ea32b63-a002-4d4d-9fd4-1e581a4103a3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/bffc7598-9ec2-4164-b4b1-a92726fa012e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8638dd33-0146-4168-92aa-6ee10d6ea245_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/8/3/4335387/90d8c57f-e7be-454d-9c34-d7e0b895e1aa_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 3,
+    "MinSize": 122,
+    "MaxSize": 313,
+    "BerRating": "C3",
+    "OpenViewings": [
+      {
+        "Id": 0,
+        "StartDate": "2026-10-08T15:00:00.0000000+01:00",
+        "EndDate": "2026-10-08T15:30:00.0000000+01:00",
+        "OpenViewingType": "OnViewing",
+        "StartDateFormatted": "Thu Oct 8, 3pm",
+        "EndDateFormatted": "Thu Oct 8, 3.30pm",
+        "FeaturedSpotId": 688748,
+        "ChannelId": 0,
+        "FormattedString": "Thu Oct 8, 3pm - 3.30pm"
+      },
+      {
+        "Id": 0,
+        "StartDate": "2026-10-10T09:30:00.0000000+01:00",
+        "EndDate": "2026-10-10T10:00:00.0000000+01:00",
+        "OpenViewingType": "OnViewing",
+        "StartDateFormatted": "Sat Oct 10, 9.30am",
+        "EndDateFormatted": "Sat Oct 10, 10am",
+        "FeaturedSpotId": 688749,
+        "ChannelId": 0,
+        "FormattedString": "Sat Oct 10, 9.30am - 10am"
+      }
+    ],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 31,
+        "Name": "Sea Views",
+        "CreatedOn": "2018-09-11T10:21:06.7100000+01:00",
+        "IconName": "myh-icon-sea-views",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "\nOPEN VIEWINGS: Thursday 8th October 3pm-3.30pm sharp. Saturday 10th October 9.30am-10am sharp.\nThis immaculately presented 3 bedroom detached residence is offered for sale in excellent condition throughout. Ideally located within walking distance of the town and all local amenities and nestled within an established residential community of only 20 units. It is also within easy access of Spanish Point beach. This particular property is superbly positioned with fabulous sea views and views overlooking Miltown Malbay. Accommodation is deceivingly spacious comprising 122 sq.m. (1,313 sq.ft.) and includes an open plan kitchen and dining area, living room, utility room, toilet, bathroom and 3 bedrooms (one of which is ensuite). Externally, the grounds are meticulously maintained with green areas, graveled areas, two timber storage sheds and an elevated decking and seating area to take in the lovely views. This house really must be viewed to be fully appreciated. OFCH and a solid fuel stove. BER C3. BER Number 100576990. BER Code 211.32 kWh/m²/yr."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "\nEntrance Hall - 4. x 1.8m\nA bright and inviting entrance hallway complete with oak effect laminate flooring, ceiling coving and a telephone point.\n\nHallway - 6.01m x 1.30m\nComplete with laminate effect oak flooring and access to attic area. The hot press is housed here with recessed storage space.\n\nLiving Room - 5.40m x 3.90m\nLocated to the front of the property, this cosy living room is complete with laminate oak effect flooring, a tv point, a solid fuel stove, ceiling coving and double doors which lead to the dining area.\n\nKitchen/Dining Area - 5.80m x 3.80m\nContemporary open plan kitchen and dining area. The kitchen is complete with solid wood wall and base storage units, solid timber worktops, a 6 plate gas hob, a double electric oven, tiled splash back and laminate oak effect flooring. The dining area also has laminate effect oak flooring, a tv point and a telephone point. A set of French doors lead to an elevated decking and seating area. This open plan room overlooks the meticulously maintained rear garden and has some lovely sea views and views over Miltown Malbay.\n\nUtility Room - 2.60m x 2.11m\nComplete with a continuation of the solid wood kitchen wall and base storage units and tiled flooring. Rear access.\n\nToilet - 1.81m x 1.34m\nIdeally located on the ground floor, this is complete with wc and whb.\n\nBedroom 1 - 4.19m x 3.45m\nLocated to the front of the property, this fine double bedroom is complete with laminate oak effect flooring, built in wardrobes and has a dual aspect.\n\nBathroom - 4.01m x 2.17m\nPartially tiled in a neutral tone and complete with bath, wc and whb.\n\nBedroom 2 - 3.93m x 3.50m\nLocated to the back of the property, this extremely bright bedroom is complete with laminate oak effect flooring and has some lovely sea views.\n\nBedroom 3 - 4.23m x 3.40m\nThe master bedroom is located to the front of the property and is complete with laminate oak effect flooring, large built in wardrobes and a spacious ensuite. Some nice views from this room.\n\nEnsuite - 2.22m x 2.13m\nFully tiled spacious ensuite complete with shower, wc and whb.\n\n"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "<ul><li>Detached 3 bedroom residence built in 2007 </li><li>Finished to a very high specification throughout</li><li>OFCH and a solid fuel stove</li><li>Bound by hedging and fencing and is not overlooked</li><li>Fabulous sea views to rear and views overlooking Miltown Malbay</li><li>Gardens are mainly in lawn with an elevated decking area </li><li>Ideal family or holiday home</li><li>Only 20 units in the development</li><li>Walking distance of all local amenities</li><li>Easy access of Spanish Point beach</li><li>All mains services</ul>"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C3\nBER No: 100576990\nEnergy Performance Indicator: 211.32 kWh/m<sup>2</sup>/yr"
+      },
+      {
+        "ContentType": "Negotiator",
+        "SortOrder": 10,
+        "Content": "Danielle O'Connor"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 0,
+    "MinEnergyRating": 70,
+    "MaxEnergyRating": 70,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2019-05-16T14:08:58.3530000+01:00",
+    "ModifiedOnDate": "2026-10-04T15:13:18.1830000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2019-05-16T14:09:23.4970000+01:00",
+    "RefreshedOn": "2026-10-05T08:54:00.6530000+01:00",
+    "AgreedOn": "2019-07-25T10:56:46.7830000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C3.png",
+    "IsTransact": false,
+    "PriceAsString": "€325,000",
+    "BathString": "3 baths",
+    "AuctionList": [],
+    "PropertyId": 4335387,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 313,
+    "DisplayAddress": "3 Sli Liag Ard, Ballard Road, Miltown Malbay, Co. Clare",
+    "Eircode": "V95 X306",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 618,
+    "RegionName": "Clare",
+    "LocalityId": 666,
+    "LocalityName": "Miltown Malbay",
+    "Price": {
+      "MinPrice": 325000,
+      "MaxPrice": 325000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7c73c62f-9b9a-4f39-84ac-a98c103640db_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7c73c62f-9b9a-4f39-84ac-a98c103640db_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7c73c62f-9b9a-4f39-84ac-a98c103640db_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8967ce02-d9cc-48b8-a129-81cac783fb3e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8967ce02-d9cc-48b8-a129-81cac783fb3e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8967ce02-d9cc-48b8-a129-81cac783fb3e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/5f227b4f-6e76-40b6-a490-f00b7eef74bd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/5f227b4f-6e76-40b6-a490-f00b7eef74bd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/5f227b4f-6e76-40b6-a490-f00b7eef74bd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/de7e0396-eb72-4e41-8cde-4a8ebd96b289_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/de7e0396-eb72-4e41-8cde-4a8ebd96b289_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/de7e0396-eb72-4e41-8cde-4a8ebd96b289_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b0410ff4-4d37-44d0-9a67-fb60475e8378_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b0410ff4-4d37-44d0-9a67-fb60475e8378_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b0410ff4-4d37-44d0-9a67-fb60475e8378_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8e2e2287-6694-4181-b523-b32da6615b78_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8e2e2287-6694-4181-b523-b32da6615b78_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8e2e2287-6694-4181-b523-b32da6615b78_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/4f04bb63-d3ea-46f0-bc87-52a7eb9084af_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/4f04bb63-d3ea-46f0-bc87-52a7eb9084af_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/4f04bb63-d3ea-46f0-bc87-52a7eb9084af_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/510981bf-8837-4b46-bf70-30f94e95a158_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/510981bf-8837-4b46-bf70-30f94e95a158_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/510981bf-8837-4b46-bf70-30f94e95a158_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/2372f7c1-09fd-40ad-8391-4333771b4663_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/2372f7c1-09fd-40ad-8391-4333771b4663_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/2372f7c1-09fd-40ad-8391-4333771b4663_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7e2f7991-4ab1-4ec4-9a18-dc5e1d76feec_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7e2f7991-4ab1-4ec4-9a18-dc5e1d76feec_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/7e2f7991-4ab1-4ec4-9a18-dc5e1d76feec_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/d68a8bfe-3a04-4fb1-8ea8-18d705cd1b08_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/d68a8bfe-3a04-4fb1-8ea8-18d705cd1b08_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/d68a8bfe-3a04-4fb1-8ea8-18d705cd1b08_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/36e16cde-5098-4c98-b3bb-f6529705e6ea_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/36e16cde-5098-4c98-b3bb-f6529705e6ea_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/36e16cde-5098-4c98-b3bb-f6529705e6ea_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/01e468e3-337a-4bd5-81b2-8f71d147747c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/01e468e3-337a-4bd5-81b2-8f71d147747c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/01e468e3-337a-4bd5-81b2-8f71d147747c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/30a8abe6-4531-4f51-b8f3-433563f2c06d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/30a8abe6-4531-4f51-b8f3-433563f2c06d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/30a8abe6-4531-4f51-b8f3-433563f2c06d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/1aa7cac4-ca8b-4233-8123-281f45493353_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/1aa7cac4-ca8b-4233-8123-281f45493353_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/1aa7cac4-ca8b-4233-8123-281f45493353_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/f4950e6d-6a3f-4611-b612-5b03ab03157f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/f4950e6d-6a3f-4611-b612-5b03ab03157f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/f4950e6d-6a3f-4611-b612-5b03ab03157f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b694739d-8218-434c-a075-1da65306abe6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b694739d-8218-434c-a075-1da65306abe6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/b694739d-8218-434c-a075-1da65306abe6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/6ea32b63-a002-4d4d-9fd4-1e581a4103a3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/6ea32b63-a002-4d4d-9fd4-1e581a4103a3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/6ea32b63-a002-4d4d-9fd4-1e581a4103a3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/bffc7598-9ec2-4164-b4b1-a92726fa012e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/bffc7598-9ec2-4164-b4b1-a92726fa012e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/bffc7598-9ec2-4164-b4b1-a92726fa012e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8638dd33-0146-4168-92aa-6ee10d6ea245_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8638dd33-0146-4168-92aa-6ee10d6ea245_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/8638dd33-0146-4168-92aa-6ee10d6ea245_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/90d8c57f-e7be-454d-9c34-d7e0b895e1aa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/90d8c57f-e7be-454d-9c34-d7e0b895e1aa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/8/3/4335387/90d8c57f-e7be-454d-9c34-d7e0b895e1aa_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -9.396888,
+      "latitude": 52.856585
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "IsMyHomePassport": false
+    },
+    "PhotoCount": 21,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5632,
+    "Name": "Sherry FitzGerald McMahon",
+    "DisplayPhone": "065 686 7866",
+    "Email": "ennis@sherryfitzmcmahon.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "sherry-fitzgerald-mcmahon-ennis",
+    "SeoName": "sherry-fitzgerald-mcmahon-ennis",
+    "Address": "O'Connell Square House, Ennis, Co. Clare",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/2/3/6/5632/logo.jpg",
+    "SalesLicense": "001212",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "miltown-malbay/666",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/3-sli-liag-ard-ballard-road-miltown-malbay-co-clare/4335387",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": false,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5632,
+    "MYH_LocalityID": 666,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 618,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Garden",
+      "Sea Views"
+    ],
+    "MYH_PropertyFeatureIDListString": "Garden,Sea Views",
+    "MYH_MaxPrice": 325000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 70,
+    "MYH_MinPrice": 325000,
+    "MYH_MinSize": 122,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 4335387,
+    "MYH_PropertyTypeID": 39
+  }
+}

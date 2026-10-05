@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=153",
+  "fetchedAt": "2026-10-05T11:33:18.433Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=153",
+  "kind": "search",
+  "responseSha256": "21ec5a3fd056e0167007b0b1c7364a19f3df17c3d8d152a3bf87cb92f3872690",
+  "files": [
+    {
+      "path": "myhome/03678-80b4e2b2ee047e4e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=153\"].SearchResults",
+      "sha256": "e2f0f4d7a1a27abc0e35a13f11bc7dcdf80d6006aa4059299d6abe8512746ad7",
+      "bytes": 121065
+    },
+    {
+      "path": "myhome/03678-80b4e2b2ee047e4e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=153\"] (paging fields)",
+      "sha256": "753b9cdb1e2f9bbcae36aa778068e247d8f32c020d0d31d2395868ab7f6415dc",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/the-beeches-knocknaree-lower-avoca-co-wicklow/5028888",
+    "https://www.myhome.ie/residential/brochure/43-seabury-sydney-parade-sandymount-dublin-4/5028883",
+    "https://www.myhome.ie/residential/brochure/181-ratoath-road-cabra-dublin-7/5028885",
+    "https://www.myhome.ie/residential/brochure/23-westgate-park-wexford-town-wexford/5028880",
+    "https://www.myhome.ie/residential/brochure/51-willow-wood-grove-clonsilla-dublin-15/5028881",
+    "https://www.myhome.ie/residential/brochure/tara-5-tournore-abbeyside-dungarvan-co-waterford/5028875",
+    "https://www.myhome.ie/residential/brochure/woodside-healy-s-bridge-kerry-pike-cork/5028829",
+    "https://www.myhome.ie/residential/brochure/knappagh-more-westport-co-mayo/5028874",
+    "https://www.myhome.ie/residential/brochure/13-brookvale-downs-rathfarnham-dublin-14/5007565",
+    "https://www.myhome.ie/residential/brochure/71-dromroe-avenue-woodhaven-castletroy-limerick/5028483",
+    "https://www.myhome.ie/residential/brochure/13-the-court-drumcondra-dublin-9/5028873",
+    "https://www.myhome.ie/residential/brochure/248-castletown-leixlip-county-kildare/5028872",
+    "https://www.myhome.ie/residential/brochure/23-lavarna-road-terenure-dublin-6w/5028871",
+    "https://www.myhome.ie/residential/brochure/athlumney-navan-meath/5028860",
+    "https://www.myhome.ie/residential/brochure/westbury-grove-wilton-cork/5028868",
+    "https://www.myhome.ie/residential/brochure/4-cedarwood-road-glasnevin-dublin-11/5017571",
+    "https://www.myhome.ie/residential/brochure/2-harbour-road-skerries-county-dublin/4836216",
+    "https://www.myhome.ie/residential/brochure/cappaduff-mountshannon-clare/5028863",
+    "https://www.myhome.ie/residential/brochure/apartment-4-south-strand-house-south-strand-skerries-county-dublin/4962590",
+    "https://www.myhome.ie/residential/brochure/13-the-park-balbriggan-street-skerries-county-dublin/5007235"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=154",
+  "paginationLimited": false
+}

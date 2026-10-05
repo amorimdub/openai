@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bed-the-brickworks-station-manor-station-road-portmarnock-co-dublin/6538388",
+  "fetchedAt": "2026-10-05T09:04:58.114Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bed-the-brickworks-station-manor-station-road-portmarnock-co-dublin/6538388",
+  "kind": "listing",
+  "responseSha256": "ff0d3200691c345a3f1200d707a171d63cb6b01344bc30d8af32b80c83d13d16",
+  "files": [
+    {
+      "path": "daft/00287-487d53ef927776f9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e404b570a79408c93468f9edb52c80cfb7d93c0062439839b031cd22701b3ea0",
+      "bytes": 46943
+    },
+    {
+      "path": "daft/00287-487d53ef927776f9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "37796915930d957c9d27e92dbfb28ed3f57da31a5efc61ca1c02e01db9f4ef9a",
+      "bytes": 8192
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

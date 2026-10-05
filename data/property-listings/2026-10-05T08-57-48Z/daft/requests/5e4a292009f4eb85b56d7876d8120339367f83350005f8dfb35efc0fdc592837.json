@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-6-mariners-court-bayside-dublin-5/6684717",
+  "fetchedAt": "2026-10-05T09:40:51.868Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-6-mariners-court-bayside-dublin-5/6684717",
+  "kind": "listing",
+  "responseSha256": "abaf9a21a58e546ffad74693532bf4e317df402c2fa3d7059f0133c90945f2ac",
+  "files": [
+    {
+      "path": "daft/01721-5e4a292009f4eb85-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d508536253a3245b8aaf18593d0f5109b0fa3c9ce14aeea08a84daa3f11a1037",
+      "bytes": 30050
+    },
+    {
+      "path": "daft/01721-5e4a292009f4eb85-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "79aa161ab1bd181711349e203e97e48a9956f66ece203e6fba79a2f880e1e999",
+      "bytes": 8129
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

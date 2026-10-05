@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=10",
+  "fetchedAt": "2026-10-05T09:12:07.607Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=10",
+  "kind": "search",
+  "responseSha256": "b8a69e1925902f57eb1d4e8cefdca1e69398b2fc0dc41caf942b3a5cde753946",
+  "files": [
+    {
+      "path": "daft/00573-b895be29796ac2c9-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "0f38f3551cec97902e556d4894e10bc25d553ad0d3edcccebde7f142b1c04f5f",
+      "bytes": 242334
+    },
+    {
+      "path": "daft/00573-b895be29796ac2c9-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/00573-b895be29796ac2c9-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "a1c1cd6314edd84553ebad97492721b4600f4e99816bb21cd4487663f4a19f8c",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/18-mounttown-villas-mounttown-road-lower-dun-laoghaire-co-dublin/6627207",
+    "https://www.daft.ie/for-rent/7-esker-pines-lucan-co-dublin/6659359",
+    "https://www.daft.ie/for-rent/9-the-spinnaker-arran-quay-dublin-7-smithfield-co-dublin/6664157",
+    "https://www.daft.ie/for-rent/castleknock-village-centre-castleknock-co-dublin/6622722",
+    "https://www.daft.ie/for-rent/302-block-c-an-tsean-mhargadh-greenlanes-drogheda-co-louth/6564314",
+    "https://www.daft.ie/for-rent/laragh-house-laragh-killiney-co-dublin/6674184",
+    "https://www.daft.ie/for-rent/apartment-1-celtic-nest-main-street-ahascragh-ahascragh-co-galway/6665556",
+    "https://www.daft.ie/for-rent/flat-4-43-phibsborough-road-north-circular-road-dublin-7/6673430",
+    "https://www.daft.ie/for-rent/block-3-watermill-apartments-raheny-co-dublin/6665090",
+    "https://www.daft.ie/for-rent/francis-street-dundalk-co-louth-dundalk-co-louth/6673050",
+    "https://www.daft.ie/for-rent/11-frankfort-court-dundrum-dublin-14/6671881",
+    "https://www.daft.ie/for-rent/apartment-34-the-cedars-herbert-park-lane-anglesea-road-donnybrook-dublin-4/6672528",
+    "https://www.daft.ie/for-rent/apartment-59-block-a-grande-central-rockbrook-carmanhall-road-sandyford-dublin-18/6672120",
+    "https://www.daft.ie/for-rent/9-mth-lease-wild-rose-cottage-carlingford-co-louth-carlingford-co-louth/6672077",
+    "https://www.daft.ie/for-rent/2-taney-manor-dundrum-dublin-14/6650413",
+    "https://www.daft.ie/for-rent/fitzwilliam-quay-apartments-fitzwilliam-quay-dublin-4-irishtown-dublin-4/6671302",
+    "https://www.daft.ie/for-rent/allen-park-road-stillorgan-stillorgan-co-dublin/6671030",
+    "https://www.daft.ie/for-rent/apartment-greenview-court-glencairin-dooradoyle-limerick-dooradoyle-co-limerick/6658764",
+    "https://www.daft.ie/for-rent/daneswell-place-botanic-road-glasnevin-dublin-9-drumcondra-dublin-9/6261821",
+    "https://www.daft.ie/for-rent/daneswell-place-botanic-road-glasnevin-dublin-9-glasnevin-dublin-9/6276548"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=11",
+  "paginationLimited": false
+}

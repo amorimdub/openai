@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/1-bedroom-fosterstown-place-fostertown-place-swords-co-dublin/6559514",
+  "fetchedAt": "2026-10-05T09:01:39.446Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/1-bedroom-fosterstown-place-fostertown-place-swords-co-dublin/6559514",
+  "kind": "listing",
+  "responseSha256": "b00e8cd9a711b97dd8f09768353acc9746df6290de548df2d7df6641fb8e0920",
+  "files": [
+    {
+      "path": "daft/00155-a5aeba4ffc3fc36d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "088b8327050b5a1e4da0be1c5896756bdb80c7dec2742f452146537030902f06",
+      "bytes": 31057
+    },
+    {
+      "path": "daft/00155-a5aeba4ffc3fc36d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9d7cf4ac8f8a82d3b6a9818c28f4bd03ac9a339f97c8a48fc53a12789e5e91f2",
+      "bytes": 8092
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

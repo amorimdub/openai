@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/18-hampton-gardens-crescent-balbriggan-balbriggan-co-dublin/6687129",
+  "fetchedAt": "2026-10-05T09:24:55.131Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/18-hampton-gardens-crescent-balbriggan-balbriggan-co-dublin/6687129",
+  "kind": "listing",
+  "responseSha256": "cd089ed79c45cd7d2ccbad622f4e3f4d5d8aed19350a91fc4c2f22df5d145a68",
+  "files": [
+    {
+      "path": "daft/01084-550f6c28c6c93a4f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f3f2d3a0d94cf2194578f094f330627a45dde794668c4c6d88f458e1b47b3124",
+      "bytes": 48247
+    },
+    {
+      "path": "daft/01084-550f6c28c6c93a4f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ed83d1ecdb92cfca3a9eee113d697dc3794da3310b1906b8a02c8577679e9a38",
+      "bytes": 8279
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

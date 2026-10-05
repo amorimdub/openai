@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-griffith-wood-griffith-avenue-drumcondra-co-dublin/3523582",
+  "fetchedAt": "2026-10-05T08:58:52.756Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-griffith-wood-griffith-avenue-drumcondra-co-dublin/3523582",
+  "kind": "listing",
+  "responseSha256": "a7f0ec4e25888908e12b3ee458c4c8af82244ec4194f96b3143fbcff8ab71644",
+  "files": [
+    {
+      "path": "daft/00044-319b41f250d3ee0d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "77b8e7752b67d20b2cc0b2b80bc6f9a4c9958a8fcc2e8dae5ca6916eda0860af",
+      "bytes": 54062
+    },
+    {
+      "path": "daft/00044-319b41f250d3ee0d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "9713dbdf82e8e891033ef7ac77b56f0f5bdbf7a1a0fd2ccb971d35e22fb1f54c",
+      "bytes": 8193
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

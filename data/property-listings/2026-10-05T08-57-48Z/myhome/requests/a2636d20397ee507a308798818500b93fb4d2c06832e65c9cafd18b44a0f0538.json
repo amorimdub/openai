@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=21",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=21",
+  "fetchedAt": "2026-10-05T09:17:02.809Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "0146e014b2b80fba85038350dd87c1e52341f268727a175de76671e6a8aaa16c",
+  "files": [
+    {
+      "path": "myhome/00765-a2636d20397ee507-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=21\"].SearchResults",
+      "sha256": "e2c4618ee9fcc18a6cbfd3315ee85efe32e995350913e57bf4774acddb091bfd",
+      "bytes": 91474
+    },
+    {
+      "path": "myhome/00765-a2636d20397ee507-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=21\"] (paging fields)",
+      "sha256": "6ae6ac2183b56ad4ad83f6804ab6922bb9873e49546d5665f27cf397f2cd98d8",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/colepark-drive-ballyfermot-dublin-10-room-to-rent/5015819",
+    "https://www.myhome.ie/rentals/brochure/apartment-9-estuary-court-rochestown-cork/5015796",
+    "https://www.myhome.ie/rentals/brochure/palmerstown-woods-clondalkin-dublin-22/5015795",
+    "https://www.myhome.ie/rentals/brochure/saint-annes-kimmage-dublin-12/5015789",
+    "https://www.myhome.ie/rentals/brochure/aylmer-road-newcastle-co-dublin/5015531",
+    "https://www.myhome.ie/rentals/brochure/cedarbrook-avenue-cherry-orchard-dublin-10/5015373",
+    "https://www.myhome.ie/rentals/brochure/the-courthouse-rathcoole-co-dublin/5015361",
+    "https://www.myhome.ie/rentals/brochure/belton-house-castle-street-bray-co-wicklow/5015295",
+    "https://www.myhome.ie/rentals/brochure/cooley-road-drimnagh-dublin-12/5015227",
+    "https://www.myhome.ie/rentals/brochure/lower-kilmacud-road-stillorgan-co-dublin/5015163",
+    "https://www.myhome.ie/rentals/brochure/marlfield-terrace-kiltipper-dublin-24/5014754",
+    "https://www.myhome.ie/rentals/brochure/the-way-hunters-run-clonee-dublin-15/5013616",
+    "https://www.myhome.ie/rentals/brochure/23-victorine-abbey-trim-co-meath/5011753",
+    "https://www.myhome.ie/rentals/brochure/apartment-163-adelaide-square-whitefriar-street-dublin-8-dublin/5011645",
+    "https://www.myhome.ie/rentals/brochure/apt-2-109-the-quay-waterford-city-waterford/5011490",
+    "https://www.myhome.ie/rentals/brochure/killinaugh-carbury-county-kildare/5011347",
+    "https://www.myhome.ie/rentals/brochure/flat-7-103-south-circular-road-dublin-8/5010639",
+    "https://www.myhome.ie/rentals/brochure/hampton-crescent-st-helens-wood-booterstown-county-dublin/299232",
+    "https://www.myhome.ie/rentals/brochure/apartment-44-delgany-hills-block-3-delgany-hills-delgany-co-wicklow-delgany-wicklow/4947596",
+    "https://www.myhome.ie/rentals/brochure/14-albert-court-east-dublin-2/5010235"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=22",
+  "paginationLimited": false
+}

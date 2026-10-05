@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/83-academy-square-navan-co-meath/6684135",
+  "fetchedAt": "2026-10-05T09:44:49.249Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/83-academy-square-navan-co-meath/6684135",
+  "kind": "listing",
+  "responseSha256": "1d6ff1d3a51b4a7bd77432417ddbd9c869bc1d207b79266e36fa21c2b2c00231",
+  "files": [
+    {
+      "path": "daft/01879-fdc3fd7ae9533a5a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "1c2526cd0a6b25e14c544e1be490bb6a222f19d43671aa178114ae96883ceba4",
+      "bytes": 29284
+    },
+    {
+      "path": "daft/01879-fdc3fd7ae9533a5a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "2dfec47e0998517326f4cc260f6e90c6f9eede595068f78ce2c6698390da2639",
+      "bytes": 8114
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

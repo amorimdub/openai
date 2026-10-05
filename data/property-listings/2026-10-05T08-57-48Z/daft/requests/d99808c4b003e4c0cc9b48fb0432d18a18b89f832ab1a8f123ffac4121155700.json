@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/ballina-upper-ballymurn-co-wexford/6637019",
+  "fetchedAt": "2026-10-05T09:11:03.017Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/ballina-upper-ballymurn-co-wexford/6637019",
+  "kind": "listing",
+  "responseSha256": "ef717b32ba2bab6f2c93f565cac935645f305cf60cd951630fd69072fefd55e2",
+  "files": [
+    {
+      "path": "daft/00530-d99808c4b003e4c0-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6fa5b0c5020c75199516c2ef291818b6f36d5ed909255a4c63a2904bdb690a87",
+      "bytes": 66386
+    },
+    {
+      "path": "daft/00530-d99808c4b003e4c0-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "47e8776e35d38bd1cad9ac6f7a85f169258a38090e9cf0352fe4bad485c3825b",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

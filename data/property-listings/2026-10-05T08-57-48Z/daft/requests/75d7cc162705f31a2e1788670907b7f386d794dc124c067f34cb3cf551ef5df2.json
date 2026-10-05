@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-leacach-ard-danesfort-road-loughrea-co-galway/6680308",
+  "fetchedAt": "2026-10-05T09:15:10.902Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-leacach-ard-danesfort-road-loughrea-co-galway/6680308",
+  "kind": "listing",
+  "responseSha256": "60e4048835cc6d793571c8f595559c942b5bd19eeb8a90245fc637c189544513",
+  "files": [
+    {
+      "path": "daft/00695-75d7cc162705f31a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a5556cb7a002051186c4fb730bfc3d642cabd4ba3ebd6a3057b86a6883d0253b",
+      "bytes": 53335
+    },
+    {
+      "path": "daft/00695-75d7cc162705f31a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "23e0825849ffc0c12318fae17585687edde2755779090acef0b21885a896de5d",
+      "bytes": 7973
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=24",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=24",
+  "fetchedAt": "2026-10-05T09:19:40.801Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "19baa026dce15aacc37aaf4a75247d230bb0937120b5b0f7a41f4ef694ca37e4",
+  "files": [
+    {
+      "path": "myhome/00870-e3f689a89250c427-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=24\"].SearchResults",
+      "sha256": "6bad7e98b12ac4158f6c05a058eb07cacadcf259561003f4edd5b989adc11aef",
+      "bytes": 119981
+    },
+    {
+      "path": "myhome/00870-e3f689a89250c427-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=24\"] (paging fields)",
+      "sha256": "9dfdf50e7ba2b059f7e7199fa4ebd4a52d95f5fbf8e611f5b1adda029d911f49",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ballyvaughan-powerstown-clonmel-county-tipperary/5031830",
+    "https://www.myhome.ie/residential/brochure/21-gortmalogue-clonmel-county-tipperary/5031829",
+    "https://www.myhome.ie/residential/brochure/30-farrenberg-glebe-melitta-road-kildare-town-co-kildare/5031828",
+    "https://www.myhome.ie/residential/brochure/25-st-assam-s-avenue-raheny-dublin-5/5027300",
+    "https://www.myhome.ie/residential/brochure/262-stannaway-road-crumlin-dublin-12/5031825",
+    "https://www.myhome.ie/residential/brochure/apartment-15-mariners-quay-passage-west-cork/5031821",
+    "https://www.myhome.ie/residential/brochure/105-harmonstown-road-artane-dublin-5/5006187",
+    "https://www.myhome.ie/residential/brochure/41-new-bancroft-hall-tallaght-dublin-24/5031824",
+    "https://www.myhome.ie/residential/brochure/14-bridge-court-bridge-street-ballinasloe-galway/5031819",
+    "https://www.myhome.ie/residential/brochure/44-carrig-mill-greystones-co-wicklow/5031823",
+    "https://www.myhome.ie/residential/brochure/7-college-square-terenure-dublin-6w/5006640",
+    "https://www.myhome.ie/residential/brochure/29-the-orchard-golf-links-road-kilkenny-kilkenny/5031803",
+    "https://www.myhome.ie/residential/brochure/11-richview-park-rathmines-dublin-6/4907228",
+    "https://www.myhome.ie/residential/brochure/apartment-155-sandyford-view-sandyford-dublin-18/5031601",
+    "https://www.myhome.ie/residential/brochure/12-swiftbrook-glen-virginia-cavan/5031630",
+    "https://www.myhome.ie/residential/brochure/stone-lodge-monabrika-freshford-co-kilkenny/5007652",
+    "https://www.myhome.ie/residential/brochure/5a-kilakee-drive-walkinstown-dublin-12/5031033",
+    "https://www.myhome.ie/residential/brochure/35-pinewood-killarney-co-kerry/5031820",
+    "https://www.myhome.ie/residential/brochure/brocca-road-mucklagh-tullamore-offaly/5031629",
+    "https://www.myhome.ie/residential/brochure/63-healy-terrace-ballina-mayo/5031809"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=25",
+  "paginationLimited": false
+}

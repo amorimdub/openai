@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=121",
+  "fetchedAt": "2026-10-05T11:16:04.251Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=121",
+  "kind": "search",
+  "responseSha256": "cdb480747c1bbf9fe7fe31b746b5124d310f7bd951dad7643988af02737edcf7",
+  "files": [
+    {
+      "path": "myhome/03009-f4f6fc24ca856652-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=121\"].SearchResults",
+      "sha256": "ea914cc4b78d4a5626608a9ac78f35ceb4e740d29095a4dff84da87f25a095b2",
+      "bytes": 114427
+    },
+    {
+      "path": "myhome/03009-f4f6fc24ca856652-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=121\"] (paging fields)",
+      "sha256": "13a55705b9f9990a42e92761c66b34e6805bca7e31d72db0c3cbadd876aaf0a5",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/brook-lodge-lowville-ahascragh-ballinasloe-co-galway/5029768",
+    "https://www.myhome.ie/residential/brochure/dunloe-16-killiney-grove-dalkey-co-dublin/5029766",
+    "https://www.myhome.ie/residential/brochure/no-18-manor-view-roxborough-manor-wexford-wexford-town-wexford/5029763",
+    "https://www.myhome.ie/residential/brochure/34-corr-castle-howth-county-dublin/5028192",
+    "https://www.myhome.ie/residential/brochure/6-cross-avenue-blackrock-co-dublin/4993655",
+    "https://www.myhome.ie/residential/brochure/5-auburn-avenue-mullingar-westmeath/5029751",
+    "https://www.myhome.ie/residential/brochure/45a-st-fintans-s-park-blackrock-co-dublin/4998669",
+    "https://www.myhome.ie/residential/brochure/19-cornelscourt-hill-road-foxrock-dublin-18/5029755",
+    "https://www.myhome.ie/residential/brochure/20-mulgrave-terrace-dun-laoghaire-co-dublin/5029754",
+    "https://www.myhome.ie/residential/brochure/20-tullacmongan-cavan-co-cavan/5029752",
+    "https://www.myhome.ie/residential/brochure/3-trinity-gardens-drogheda-louth/5011478",
+    "https://www.myhome.ie/residential/brochure/hollyfort-house-whitepark-arklow-co-wexford/5018510",
+    "https://www.myhome.ie/residential/brochure/drumline-newmarket-on-fergus-clare/5029750",
+    "https://www.myhome.ie/residential/brochure/35-the-manor-clondulane-fermoy-cork/5029748",
+    "https://www.myhome.ie/residential/brochure/oldtown-hill-tullaroan-kilkenny/5029738",
+    "https://www.myhome.ie/residential/brochure/223-castlecurragh-vale-blanchardstown-dublin-15/5029749",
+    "https://www.myhome.ie/residential/brochure/inch-east-lisselton-co-kerry/4967275",
+    "https://www.myhome.ie/residential/brochure/apartment-54-mount-talbot-highgrove-monastery-road-clondalkin-dublin/5029406",
+    "https://www.myhome.ie/residential/brochure/t-lynch-wardstown-athboy-meath/5028661",
+    "https://www.myhome.ie/residential/brochure/69-annfield-drive-castleknock-dublin-15/5029743"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=122",
+  "paginationLimited": false
+}

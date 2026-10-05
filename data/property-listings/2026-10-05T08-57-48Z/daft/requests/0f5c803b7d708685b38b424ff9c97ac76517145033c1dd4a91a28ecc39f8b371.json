@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-6-42-rathmines-road-lower-rathmines-dublin-6/6683529",
+  "fetchedAt": "2026-10-05T09:49:01.677Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-6-42-rathmines-road-lower-rathmines-dublin-6/6683529",
+  "kind": "listing",
+  "responseSha256": "310461baff5dea228952100a76aa06760639eb5f709d270e9e17ce590db3c205",
+  "files": [
+    {
+      "path": "daft/02047-0f5c803b7d708685-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e955f16086a8f7f8896196f5d0808384b5d79d564a6ab1da95d28fa6d46caaa6",
+      "bytes": 27936
+    },
+    {
+      "path": "daft/02047-0f5c803b7d708685-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4fcf57cda2ebebe58549c9f16e94a0e9828c8b163237b1b8163966b1340f4f7e",
+      "bytes": 8079
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

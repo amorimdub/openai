@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/kilcreevanty-tuam-co-galway/6620560",
+  "fetchedAt": "2026-10-05T09:36:02.034Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/kilcreevanty-tuam-co-galway/6620560",
+  "kind": "listing",
+  "responseSha256": "ac94a6bf2aafdf2bce11cbeea5259e2b93e7888ea2db3e4492141a739478e507",
+  "files": [
+    {
+      "path": "daft/01528-566d44bf550034ae-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "33ca6b04b4d0d0855586027b94a1de22c1ee3b36044cd7ee8ddecff14605b381",
+      "bytes": 100760
+    },
+    {
+      "path": "daft/01528-566d44bf550034ae-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "c5239d0059ef3c147b93197a700c3010caf9a491b5309e06ff80e4f81bafae13",
+      "bytes": 8044
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

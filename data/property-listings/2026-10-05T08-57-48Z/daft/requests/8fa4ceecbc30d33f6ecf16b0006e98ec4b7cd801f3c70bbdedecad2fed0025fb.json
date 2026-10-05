@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/woodbrook-court-castleknock-dublin-15/6683771",
+  "fetchedAt": "2026-10-05T09:47:43.558Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/woodbrook-court-castleknock-dublin-15/6683771",
+  "kind": "listing",
+  "responseSha256": "09b7f462a07ab223d086b0a7b2a169f3c262b148b88cfc58e0385a2929380854",
+  "files": [
+    {
+      "path": "daft/01995-8fa4ceecbc30d33f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3bd7d2e8af1aa560bc4bc02b7289c72848f27be8ab2473946d1998ee126241ae",
+      "bytes": 50024
+    },
+    {
+      "path": "daft/01995-8fa4ceecbc30d33f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "17ea592401341cf17624348634f21ee415085ba3ea7af0760faea8699ac16121",
+      "bytes": 8154
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

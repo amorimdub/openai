@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/128-carysfort-park-blackrock-co-dublin/6610105",
+  "fetchedAt": "2026-10-05T08:57:57.191Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/128-carysfort-park-blackrock-co-dublin/6610105",
+  "kind": "listing",
+  "responseSha256": "1c60cf5cfe499b2fb9e6005ff1119de7e1a16655431997b4ab0de1c031a340e7",
+  "files": [
+    {
+      "path": "daft/00007-62d88d0539a70e4b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "05f8dd8132e5a141bb3747593315966a0406a49205749c58b3803a58eecb014c",
+      "bytes": 40148
+    },
+    {
+      "path": "daft/00007-62d88d0539a70e4b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8eeb53860986eb81ae2d1c82ff9f8788acceaa33d0f505fb234825812635417b",
+      "bytes": 8021
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

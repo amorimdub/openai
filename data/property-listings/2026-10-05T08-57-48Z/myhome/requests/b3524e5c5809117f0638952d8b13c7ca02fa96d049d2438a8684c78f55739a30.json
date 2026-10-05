@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=199",
+  "fetchedAt": "2026-10-05T11:57:02.549Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=199",
+  "kind": "search",
+  "responseSha256": "b5cf2fa77a1080f935d5a54cafef3bea1473e33f513c0a6b4fde19f5f27a22a9",
+  "files": [
+    {
+      "path": "myhome/04625-b3524e5c5809117f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=199\"].SearchResults",
+      "sha256": "afea4f1072ddc0e5b55ee01a2aef22dae094aed872a9c99be6e2801349fbf950",
+      "bytes": 108903
+    },
+    {
+      "path": "myhome/04625-b3524e5c5809117f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=199\"] (paging fields)",
+      "sha256": "6b521e94209f1c368ae8de85c6202d44444338298fcb74961204de7765deb1cd",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/helene-11-springhill-park-killiney-county-dublin/5027656",
+    "https://www.myhome.ie/residential/brochure/125-dooradoyle-park-dooradoyle-limerick/5027347",
+    "https://www.myhome.ie/residential/brochure/clogherbrien-tralee-kerry/5027653",
+    "https://www.myhome.ie/residential/brochure/3-banba-terrace-kickham-street-thurles-co-tipperary/5027654",
+    "https://www.myhome.ie/residential/brochure/143-block-d-pierce-lodge-station-road-newbridge-kildare/5027648",
+    "https://www.myhome.ie/residential/brochure/19-woodvale-avenue-clonsilla-dublin-15/5027651",
+    "https://www.myhome.ie/residential/brochure/9-melvin-road-terenure/5027650",
+    "https://www.myhome.ie/residential/brochure/7-parklands-view-ballycullen-dublin-24/5027649",
+    "https://www.myhome.ie/residential/brochure/18-millmount-avenue-drumcondra-dublin-9/5027647",
+    "https://www.myhome.ie/residential/brochure/40-chanel-avenue-artane-dublin-5/5024217",
+    "https://www.myhome.ie/residential/brochure/76-rahanine-manor-rochfortbridge-westmeath/5027617",
+    "https://www.myhome.ie/residential/brochure/lynford-latlurcan-monaghan-town/5027645",
+    "https://www.myhome.ie/residential/brochure/2-churchgate-clonsilla-dublin-15/5027431",
+    "https://www.myhome.ie/residential/brochure/2-churchgate-clonsilla-dublin-15/5002813",
+    "https://www.myhome.ie/residential/brochure/198-sutton-park-sutton-dublin-13/5026910",
+    "https://www.myhome.ie/residential/brochure/175-the-old-distillery-anne-street-north-smithfield-dublin-7/5027642",
+    "https://www.myhome.ie/residential/brochure/apt-37-park-crescent-blackhorse-ave-dublin-7/5027641",
+    "https://www.myhome.ie/residential/brochure/23-college-street-baldoyle-dublin-13/4993272",
+    "https://www.myhome.ie/residential/brochure/52-parkview-verdemont-blanchardstown-dublin-15-co-dublin/5027635",
+    "https://www.myhome.ie/residential/brochure/22-harbour-house-clonmel-county-tipperary/5027634"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=200",
+  "paginationLimited": false
+}

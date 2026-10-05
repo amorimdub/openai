@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=335",
+  "fetchedAt": "2026-10-05T13:07:12.617Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=335",
+  "kind": "search",
+  "responseSha256": "a2896abf3d69387e43ee96bf99b1caeac90b3db2cf192cdd9fa6c93b1f853ddd",
+  "files": [
+    {
+      "path": "myhome/07421-b0f3cb85d8d23760-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=335\"].SearchResults",
+      "sha256": "ece25bba61f119951015accb3045e10003b2ffeed0d0b7f8b5bf4ee51b099fd7",
+      "bytes": 118940
+    },
+    {
+      "path": "myhome/07421-b0f3cb85d8d23760-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=335\"] (paging fields)",
+      "sha256": "ba7295cf3ba554b2eefe43883558a55c4240461b144226a6881208a6b7319c18",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/penthouse-8-the-courtyard-bundoran-county-donegal/5021583",
+    "https://www.myhome.ie/residential/brochure/7-masslough-meadow-ballinakill-co-laois/5021578",
+    "https://www.myhome.ie/residential/brochure/deerbrook-house-kilcoran-cahir-county-tipperary/5021576",
+    "https://www.myhome.ie/residential/brochure/poulboy-clonmel-county-tipperary/5021575",
+    "https://www.myhome.ie/residential/brochure/79-grian-ard-ardnacassa-longford-town-co-longford/5021571",
+    "https://www.myhome.ie/residential/brochure/122-coille-tire-doughiska-galway/5021570",
+    "https://www.myhome.ie/residential/brochure/westland-dromusta-drimoleague-west-cork/5021566",
+    "https://www.myhome.ie/residential/brochure/1-hillside-downs-birr-offaly/5021553",
+    "https://www.myhome.ie/residential/brochure/25-fergus-road-terenure-dublin-6w/5021559",
+    "https://www.myhome.ie/residential/brochure/clonaderg-clonmacnoise-shannonbridge-co-offaly/5021558",
+    "https://www.myhome.ie/residential/brochure/13-ardilaun-green-mullingar-westmeath/5021554",
+    "https://www.myhome.ie/residential/brochure/3-toragh-glen-carrigart-co-donegal/5021548",
+    "https://www.myhome.ie/residential/brochure/inish-free-ardnagrena-ringarogy-baltimore-cork/5021547",
+    "https://www.myhome.ie/residential/brochure/formerly-mount-cashel-kennels-on-c-10-97-acres-clooncashel-more-kilrooskey-county-roscommon/5021546",
+    "https://www.myhome.ie/residential/brochure/oakfield-sligo-sligo/5021543",
+    "https://www.myhome.ie/residential/brochure/the-buttercup-yourell-s-meadows-south-malahide-county-dublin/4994250",
+    "https://www.myhome.ie/residential/brochure/17-walton-s-grove-mount-juliet-estate-thomastown-co-kilkenny/5021542",
+    "https://www.myhome.ie/residential/brochure/apartment-53-irishtown-central-athlone-east-westmeath/5008741",
+    "https://www.myhome.ie/residential/brochure/5-brotherton-sleaty-road-carlow-town-carlow/5021535",
+    "https://www.myhome.ie/residential/brochure/24-sherrard-avenue-north-circular-road-dublin-1/5021530"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=336",
+  "paginationLimited": false
+}

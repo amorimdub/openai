@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ballymorefinn-bohernabreena-ballinascorney-dublin-24/6677972",
+  "fetchedAt": "2026-10-05T09:12:28.637Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ballymorefinn-bohernabreena-ballinascorney-dublin-24/6677972",
+  "kind": "listing",
+  "responseSha256": "5b49750fbbf9b2f12d82dd610b423aa8a8b8fe6924234686736e37c15cbd1caf",
+  "files": [
+    {
+      "path": "daft/00587-5ea08c78af33c907-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "fd88e82261dbb3afb23d28fe557de9cdc03b4599f09b44eb09cfa52a41bdce72",
+      "bytes": 46371
+    },
+    {
+      "path": "daft/00587-5ea08c78af33c907-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b03d2c13e332b050cd2c850012cd5730fa2169b36cddd074b1b35fdaf43253e7",
+      "bytes": 8260
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=430",
+  "fetchedAt": "2026-10-05T13:55:59.720Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=430",
+  "kind": "search",
+  "responseSha256": "09eb4a70fda2b11de65eac7ccfa1c82acab77ab4d89cb14c8f81769a937d61d9",
+  "files": [
+    {
+      "path": "myhome/09368-0082cd15d207cc38-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=430\"].SearchResults",
+      "sha256": "820a8bd2a51cb3bfd74a902b5f2fc3cd07e822544ce1820a743fae20165b9862",
+      "bytes": 114408
+    },
+    {
+      "path": "myhome/09368-0082cd15d207cc38-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=430\"] (paging fields)",
+      "sha256": "ad83449333ecd8405d39e0ab0d27a4a55f5bb4c8fcea99d89f8bae004497c534",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/26-the-village-eastham-road-bettystown-meath/5010760",
+    "https://www.myhome.ie/residential/brochure/44-the-rowan-rockfield-dundrum-dundrum-dublin-16/5010739",
+    "https://www.myhome.ie/residential/brochure/107-jervis-place-strand-street-great-dublin-1/5010766",
+    "https://www.myhome.ie/residential/brochure/killeely-more-kilcolgan-galway/5010733",
+    "https://www.myhome.ie/residential/brochure/16-rossvale-court-mountmellick-road-portlaoise-co-laois/5010751",
+    "https://www.myhome.ie/residential/brochure/925-moorefield-crescent-newbridge-co-kildare/5010750",
+    "https://www.myhome.ie/residential/brochure/apartment-2-court-view-52-castle-avenue-clontarf-dublin-3/5010721",
+    "https://www.myhome.ie/residential/brochure/apartment-402-beacon-one-beacon-court-bracken-road-sandyford-dublin-18-dublin-18/4990211",
+    "https://www.myhome.ie/residential/brochure/6-ashton-grove-earlscourt-dunmore-road-waterford/5010595",
+    "https://www.myhome.ie/residential/brochure/gortlum-brittas-dublin/5010693",
+    "https://www.myhome.ie/residential/brochure/killaveenogue-drinagh-west-cork/4972509",
+    "https://www.myhome.ie/residential/brochure/cul-na-mara-old-court-park-bray-wicklow/4969716",
+    "https://www.myhome.ie/residential/brochure/58-riverview-mell-drogheda-co-louth/5010682",
+    "https://www.myhome.ie/residential/brochure/53-pococke-valley-johnswell-road-kilkenny-kilkenny-kilkenny/5010679",
+    "https://www.myhome.ie/residential/brochure/4-uisce-dubh-ballintra-donegal/5010674",
+    "https://www.myhome.ie/residential/brochure/20-sallins-wharf-sallins-co-kildare/5010668",
+    "https://www.myhome.ie/residential/brochure/apartment-26-smithfield-gate-smithfield-dublin-7/4987048",
+    "https://www.myhome.ie/residential/brochure/robin-hill-dunamase-portlaoise-co-laois/5010654",
+    "https://www.myhome.ie/residential/brochure/44-woodbrook-park-templeogue-dublin-16/4986527",
+    "https://www.myhome.ie/residential/brochure/ballyduff-knocknagoshel-co-kerry/5010641"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=431",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=130",
+  "fetchedAt": "2026-10-05T11:21:12.694Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=130",
+  "kind": "search",
+  "responseSha256": "6dbd2df3c4d120997edaaa66d9044abd0c540177c6720abbc49f68e36409810c",
+  "files": [
+    {
+      "path": "myhome/03195-38f57778b9e89499-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=130\"].SearchResults",
+      "sha256": "3f689b97e45bc80ba8cc332f0da5ce702ad9b6fe3cc1d44ea29c1e7199fd6097",
+      "bytes": 112116
+    },
+    {
+      "path": "myhome/03195-38f57778b9e89499-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=130\"] (paging fields)",
+      "sha256": "cb45f738e01f4b9141d67370fa8a156b9ae38d445042ad5c2b04814b8a337e7b",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/daffodil-house-ahidelake-middle-ring-clonakilty-west-cork/5029006",
+    "https://www.myhome.ie/residential/brochure/ballinkillen-muine-bheag-co-carlow/5029543",
+    "https://www.myhome.ie/residential/brochure/4-oyster-bay-rosses-point-sligo/5029537",
+    "https://www.myhome.ie/residential/brochure/10-la-touche-park-greystones-co-wicklow/5029538",
+    "https://www.myhome.ie/residential/brochure/14-seagreen-drive-greystones-wicklow/5029536",
+    "https://www.myhome.ie/residential/brochure/15-waterside-rise-malahide-county-dublin/5029533",
+    "https://www.myhome.ie/residential/brochure/12-the-courtyard-pleasants-street-south-circular-road-dublin-8/5029535",
+    "https://www.myhome.ie/residential/brochure/66-knockmore-arklow-wicklow/5029534",
+    "https://www.myhome.ie/residential/brochure/muckenaugh-lixnaw-kerry/5029466",
+    "https://www.myhome.ie/residential/brochure/8-drumbiggle-drive-ennis-county-clare/5029530",
+    "https://www.myhome.ie/residential/brochure/26-the-saltings-annagassan-dundalk-county-louth/5029529",
+    "https://www.myhome.ie/residential/brochure/57-park-view-river-road-ashtown-dublin-15/5015044",
+    "https://www.myhome.ie/residential/brochure/85-harbour-view-road-knocknaheeny-cork/5029514",
+    "https://www.myhome.ie/residential/brochure/47-larkfield-gardens-harold-s-cross-dublin-6w/5029476",
+    "https://www.myhome.ie/residential/brochure/27-beachside-avenue-riverchapel-gorey-county-wexford/5029522",
+    "https://www.myhome.ie/residential/brochure/24-garden-city-gorey-county-wexford/5029521",
+    "https://www.myhome.ie/residential/brochure/site-approx-0-6-acres-curraghtown-culmullen-county-meath/5029520",
+    "https://www.myhome.ie/residential/brochure/15-beech-drive-dundrum-dublin-16/5029518",
+    "https://www.myhome.ie/residential/brochure/annaholty-birdhill-tipperary/5029513",
+    "https://www.myhome.ie/residential/brochure/37-silverdale-avenue-ballinlough-cork/5029485"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=131",
+  "paginationLimited": false
+}

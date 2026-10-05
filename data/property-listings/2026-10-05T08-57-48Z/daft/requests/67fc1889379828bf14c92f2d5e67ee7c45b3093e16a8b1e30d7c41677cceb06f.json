@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/eastham-wellington-place-ballsbridge-dublin-4/6660750",
+  "fetchedAt": "2026-10-05T09:14:40.849Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/eastham-wellington-place-ballsbridge-dublin-4/6660750",
+  "kind": "listing",
+  "responseSha256": "50173df18412a1c44d3fdb3e8dc95541cacaf349e316665f645c462789dc57f3",
+  "files": [
+    {
+      "path": "daft/00675-67fc1889379828bf-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "97330135d26283b9c35cb3f323dff73fb17a399b5e5cbd4efa9da2d4319d8e1c",
+      "bytes": 97751
+    },
+    {
+      "path": "daft/00675-67fc1889379828bf-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1569bc841ceaa051434dc8c50d57491ec53ab4caeaaf5d25584850bbf114861f",
+      "bytes": 7995
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

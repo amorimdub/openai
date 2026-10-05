@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-23-liberty-view-st-james-gate-dublin-8/6589870",
+  "fetchedAt": "2026-10-05T09:22:21.889Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-23-liberty-view-st-james-gate-dublin-8/6589870",
+  "kind": "listing",
+  "responseSha256": "e43adc9d12bdf47e8deafbf300f71b454c84c47b6e1c98e73a5602097624636a",
+  "files": [
+    {
+      "path": "daft/00982-d689c019b44a6d62-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e0a10e589884cc870fe335883a40c1c91abb656770ef1fdd3b2e6c56fe7af905",
+      "bytes": 28203
+    },
+    {
+      "path": "daft/00982-d689c019b44a6d62-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dc77ec14fe62614de3d60f1417e2455b811147c167c4b9e188db5275e11f60c5",
+      "bytes": 8063
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

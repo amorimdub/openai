@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "THE ADELAIDE AND MEATH HOSPITAL",
+      "numPupils": 10,
+      "distance": {
+        "value": 0.42,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.290646",
+        "lon": "-6.378254"
+      }
+    },
+    {
+      "schoolName": "ST MARK'S JUNIOR SCHOOL",
+      "numPupils": 464,
+      "distance": {
+        "value": 0.91,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286940",
+        "lon": "-6.386848"
+      }
+    },
+    {
+      "schoolName": "ST MARKS SENIOR TALLAGHT",
+      "numPupils": 492,
+      "distance": {
+        "value": 0.93,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.287086",
+        "lon": "-6.387286"
+      }
+    },
+    {
+      "schoolName": "ST DOMINIC'S NATIONAL SCHOOL",
+      "numPupils": 411,
+      "distance": {
+        "value": 1.08,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.285000",
+        "lon": "-6.358135"
+      }
+    },
+    {
+      "schoolName": "ST MARY'S NATIONAL SCHOOL TALLAGHT",
+      "numPupils": 323,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.290394",
+        "lon": "-6.357294"
+      }
+    },
+    {
+      "schoolName": "ST ANNE'S PRIMARY SCHOOL",
+      "numPupils": 311,
+      "distance": {
+        "value": 1.26,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.290657",
+        "lon": "-6.391992"
+      }
+    },
+    {
+      "schoolName": "SCOIL MAELRUAIN SENIOR",
+      "numPupils": 388,
+      "distance": {
+        "value": 1.34,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.277985",
+        "lon": "-6.362961"
+      }
+    },
+    {
+      "schoolName": "SCOIL MAELRUAIN JUNIOR",
+      "numPupils": 379,
+      "distance": {
+        "value": 1.37,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.277824",
+        "lon": "-6.362585"
+      }
+    },
+    {
+      "schoolName": "SOLAS CHRÍOST NATIONAL SCHOOL",
+      "numPupils": 381,
+      "distance": {
+        "value": 1.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.298350",
+        "lon": "-6.385710"
+      }
+    },
+    {
+      "schoolName": "SACRED HEART JNS",
+      "numPupils": 179,
+      "distance": {
+        "value": 1.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276783",
+        "lon": "-6.381803"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "OLD BAWN COMMUNITY SCHOOL",
+      "numPupils": 1032,
+      "distance": {
+        "value": 0.56,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.283463",
+        "lon": "-6.370710"
+      }
+    },
+    {
+      "schoolName": "ST MARKS COMMUNITY SCHOOL",
+      "numPupils": 924,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.291400",
+        "lon": "-6.388903"
+      }
+    },
+    {
+      "schoolName": "KINGSWOOD COMMUNITY COLLEGE",
+      "numPupils": 982,
+      "distance": {
+        "value": 1.83,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.304695",
+        "lon": "-6.375026"
+      }
+    },
+    {
+      "schoolName": "KILLINARDEN COMMUNITY SCHOOL",
+      "numPupils": 508,
+      "distance": {
+        "value": 2.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276085",
+        "lon": "-6.397339"
+      }
+    },
+    {
+      "schoolName": "FIRHOUSE COMMUNITY COLLEGE",
+      "numPupils": 824,
+      "distance": {
+        "value": 2.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.276203",
+        "lon": "-6.348671"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE DE HÍDE",
+      "numPupils": 267,
+      "distance": {
+        "value": 2.16,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.301247",
+        "lon": "-6.349289"
+      }
+    },
+    {
+      "schoolName": "TALLAGHT COMMUNITY SCHOOL",
+      "numPupils": 828,
+      "distance": {
+        "value": 2.43,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.294724",
+        "lon": "-6.338550"
+      }
+    },
+    {
+      "schoolName": "ST AIDAN'S COMMUNITY SCHOOL",
+      "numPupils": 560,
+      "distance": {
+        "value": 2.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.286602",
+        "lon": "-6.412529"
+      }
+    },
+    {
+      "schoolName": "FIRHOUSE EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 381,
+      "distance": {
+        "value": 2.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.277264",
+        "lon": "-6.338055"
+      }
+    },
+    {
+      "schoolName": "MOUNT SESKIN COMMUNITY COLLEGE",
+      "numPupils": 327,
+      "distance": {
+        "value": 2.66,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.278793",
+        "lon": "-6.410173"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hosp",
+      "route": "132",
+      "destination": "Rosslare Harbour",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28935",
+        "lon": "-6.37381"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "65",
+      "destination": "Blessington",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "77A",
+      "destination": "Citywest",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "82",
+      "destination": "Kiltipper Way",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "77n",
+      "destination": "Tallaght (Westbrook Estate)",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "W2",
+      "destination": "The Square",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "126T",
+      "destination": "Rathangan",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "49n",
+      "destination": "Tallaght",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Tallaght Hospl",
+      "route": "S8",
+      "destination": "Citywest",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28933",
+        "lon": "-6.37397"
+      }
+    },
+    {
+      "type": "Tram",
+      "stop": "Tallaght",
+      "route": "Red",
+      "destination": "The Point",
+      "provider": "LUAS",
+      "distance": {
+        "value": 0.13,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.28740296",
+        "lon": "-6.37460272"
+      }
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "ST CATHERINE'S NATIONAL SCHOOL",
+      "numPupils": 278,
+      "distance": {
+        "value": 0.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.535023",
+        "lon": "-6.099267"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL ROS EO",
+      "numPupils": 159,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.532210",
+        "lon": "-6.106133"
+      }
+    },
+    {
+      "schoolName": "LOUGHSHINNY NATIONAL SCHOOL",
+      "numPupils": 193,
+      "distance": {
+        "value": 1.15,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.546450",
+        "lon": "-6.090166"
+      }
+    },
+    {
+      "schoolName": "RUSH NATIONAL SCHOOL",
+      "numPupils": 708,
+      "distance": {
+        "value": 1.87,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.520664",
+        "lon": "-6.104331"
+      }
+    },
+    {
+      "schoolName": "SAINT MICHAEL'S HOUSE SKERRIES",
+      "numPupils": 30,
+      "distance": {
+        "value": 3.44,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.565480",
+        "lon": "-6.111900"
+      }
+    },
+    {
+      "schoolName": "RUSH AND LUSK EDUCATE TOGETHER",
+      "numPupils": 410,
+      "distance": {
+        "value": 4.21,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.528934",
+        "lon": "-6.156911"
+      }
+    },
+    {
+      "schoolName": "MILVERTON NATIONAL SCHOOL",
+      "numPupils": 84,
+      "distance": {
+        "value": 4.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.564644",
+        "lon": "-6.147532"
+      }
+    },
+    {
+      "schoolName": "ST PATRICK'S JUNIOR SCHOOL",
+      "numPupils": 281,
+      "distance": {
+        "value": 4.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.578050",
+        "lon": "-6.109405"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS SNR MIXED",
+      "numPupils": 339,
+      "distance": {
+        "value": 4.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.578000",
+        "lon": "-6.110165"
+      }
+    },
+    {
+      "schoolName": "HOLMPATRICK NATIONAL SCHOOL",
+      "numPupils": 69,
+      "distance": {
+        "value": 4.89,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.579678",
+        "lon": "-6.107544"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "ST JOSEPH'S SECONDARY SCHOOL",
+      "numPupils": 928,
+      "distance": {
+        "value": 1.85,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.519920",
+        "lon": "-6.090890"
+      }
+    },
+    {
+      "schoolName": "LUSK COMMUNITY COLLEGE",
+      "numPupils": 1081,
+      "distance": {
+        "value": 4.18,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.529648",
+        "lon": "-6.156582"
+      }
+    },
+    {
+      "schoolName": "SKERRIES COMMUNITY COLLEGE",
+      "numPupils": 1029,
+      "distance": {
+        "value": 4.97,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.579185",
+        "lon": "-6.115891"
+      }
+    },
+    {
+      "schoolName": "DONABATE COMMUNITY COLLEGE",
+      "numPupils": 813,
+      "distance": {
+        "value": 6.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.489830",
+        "lon": "-6.143241"
+      }
+    },
+    {
+      "schoolName": "ARDGILLAN COMMUNITY COLLEGE",
+      "numPupils": 1001,
+      "distance": {
+        "value": 9.11,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.601310",
+        "lon": "-6.178499"
+      }
+    },
+    {
+      "schoolName": "BALBRIGGAN COMMUNITY COLLEGE",
+      "numPupils": 696,
+      "distance": {
+        "value": 10.3,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.611250",
+        "lon": "-6.186384"
+      }
+    },
+    {
+      "schoolName": "LORETO SECONDARY SCHOOL",
+      "numPupils": 1232,
+      "distance": {
+        "value": 10.35,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.612260",
+        "lon": "-6.185111"
+      }
+    },
+    {
+      "schoolName": "BREMORE EDUCATE TOGETHER SECONDARY SCHOOL",
+      "numPupils": 836,
+      "distance": {
+        "value": 10.39,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.604153",
+        "lon": "-6.202817"
+      }
+    },
+    {
+      "schoolName": "COLÁISTE GHLÓR NA MARA",
+      "numPupils": 500,
+      "distance": {
+        "value": 10.71,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.605953",
+        "lon": "-6.206589"
+      }
+    },
+    {
+      "schoolName": "MALAHIDE COMMUNITY SCHOOL",
+      "numPupils": 1246,
+      "distance": {
+        "value": 11.57,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.438240",
+        "lon": "-6.152498"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Rush Athletic FC",
+      "route": "33n",
+      "destination": "Mourne View",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539104",
+        "lon": "-6.092663"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rush Athletic FC",
+      "route": "33",
+      "destination": "Balbriggan",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539104",
+        "lon": "-6.092663"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rush Athletic FC",
+      "route": "33E",
+      "destination": "Skerries",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.32,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539104",
+        "lon": "-6.092663"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rush Athletic FC",
+      "route": "33A",
+      "destination": "Station Road",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539148",
+        "lon": "-6.092616"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Rush Athletic FC",
+      "route": "33X",
+      "destination": "Merrion Square W",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.33,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.539148",
+        "lon": "-6.092616"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clifflands",
+      "route": "33",
+      "destination": "Skerries",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5338404462475",
+        "lon": "-6.09062127959902"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clifflands",
+      "route": "33E",
+      "destination": "Skerries",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5338404462475",
+        "lon": "-6.09062127959902"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clifflands",
+      "route": "33X",
+      "destination": "Balbriggan",
+      "provider": "Dublin Bus",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5338404462475",
+        "lon": "-6.09062127959902"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clifflands",
+      "route": "33n",
+      "destination": "Mourne View",
+      "provider": "Nitelink, Dublin Bus",
+      "distance": {
+        "value": 0.38,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5338404462475",
+        "lon": "-6.09062127959902"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Clifflands",
+      "route": "33A",
+      "destination": "Carlton Court",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.4,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.5336598500605",
+        "lon": "-6.09056906002573"
+      }
+    }
+  ]
+}

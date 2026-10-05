@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/apartment-64-hampton-wood-road-hampton-wood-finglas-dublin-11/6671964",
+  "fetchedAt": "2026-10-05T09:00:09.347Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/apartment-64-hampton-wood-road-hampton-wood-finglas-dublin-11/6671964",
+  "kind": "listing",
+  "responseSha256": "f8afac088386dbede6793b46712b1d73863663fbcf6191888fabab82a287aa7b",
+  "files": [
+    {
+      "path": "daft/00095-f579965f9f2bac18-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f861d9c16c5413932f0d53e344bb67b89c9dd7dcfdb58c08442dae49eeced44d",
+      "bytes": 51762
+    },
+    {
+      "path": "daft/00095-f579965f9f2bac18-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e975909897dbd8409f603ff3009335a6b8de89139cb935f94963b31d4a4499d0",
+      "bytes": 8054
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

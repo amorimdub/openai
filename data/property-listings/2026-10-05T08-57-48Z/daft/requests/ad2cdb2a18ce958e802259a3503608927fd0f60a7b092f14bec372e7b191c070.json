@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/sea-view-sea-road-blackrock-co-louth/6633219",
+  "fetchedAt": "2026-10-05T09:41:08.390Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/sea-view-sea-road-blackrock-co-louth/6633219",
+  "kind": "listing",
+  "responseSha256": "4e524b426afe52f4d3d879bc80a1934987a671f38b76d2860c9cf626380d7e77",
+  "files": [
+    {
+      "path": "daft/01732-ad2cdb2a18ce958e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f283ad427d7bf7caf578f310760df9dba5d44590fb6cd180630b28319ea09ee6",
+      "bytes": 63121
+    },
+    {
+      "path": "daft/01732-ad2cdb2a18ce958e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b11a55f277f91431112e3e8d2ef717e88bc8e9dbbd0f64292806ab03cfe9bbcb",
+      "bytes": 8136
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

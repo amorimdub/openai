@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-16-55-lad-lane-dublin-2/6606816",
+  "fetchedAt": "2026-10-05T09:22:54.938Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-16-55-lad-lane-dublin-2/6606816",
+  "kind": "listing",
+  "responseSha256": "dba771c25e5c0980c1ea8f8cae979dafd7efe95fb2954ea69c70324a3912ccf1",
+  "files": [
+    {
+      "path": "daft/01004-8da7a181b7e8abef-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "22e41a04269d73a779ec0fe3f03a04fbc415122d27c4d67e41d846d1ba39620b",
+      "bytes": 31956
+    },
+    {
+      "path": "daft/01004-8da7a181b7e8abef-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1fa1be053324d5a2f9a68c7b252a9f770b3ce29b1b011a32140b9575a5fcff98",
+      "bytes": 8032
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

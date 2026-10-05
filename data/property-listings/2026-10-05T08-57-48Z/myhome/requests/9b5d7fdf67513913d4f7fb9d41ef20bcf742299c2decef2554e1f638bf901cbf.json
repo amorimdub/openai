@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=146",
+  "fetchedAt": "2026-10-05T11:29:37.513Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=146",
+  "kind": "search",
+  "responseSha256": "e3af3e91af410d04916fa9c7665e7dc51d11b33ebc32f7c92913ca9058be5799",
+  "files": [
+    {
+      "path": "myhome/03531-9b5d7fdf67513913-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=146\"].SearchResults",
+      "sha256": "ce70bd6ea3f4cb9776318b898147f7a6dfc914e9a9273587a4136612b2435745",
+      "bytes": 119433
+    },
+    {
+      "path": "myhome/03531-9b5d7fdf67513913-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=146\"] (paging fields)",
+      "sha256": "23ceadca9cae506d4a2822cba561774055abfbe1ada08857c5348f835bae73d1",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/ballinphellic-ballinhassig-cork/5027741",
+    "https://www.myhome.ie/residential/brochure/gurteen-cloonfad-ballyhaunis-co-rosscommon/5029061",
+    "https://www.myhome.ie/residential/brochure/gillstown-great-athboy-county-meath/4996954",
+    "https://www.myhome.ie/residential/brochure/2-hogan-square-hogan-place-dublin-2/4983998",
+    "https://www.myhome.ie/residential/brochure/6-radharc-na-sleibhte-mountrath-co-laois/5029058",
+    "https://www.myhome.ie/residential/brochure/23-charlesland-wood-greystones-co-wicklow/4998093",
+    "https://www.myhome.ie/residential/brochure/150-tyrconnell-park-inchicore-dublin-8-co-dublin/5029056",
+    "https://www.myhome.ie/residential/brochure/skeaf-east-timoleague-co-cork/5029052",
+    "https://www.myhome.ie/residential/brochure/30-carrigmore-crescent-citywest-co-dublin/5029051",
+    "https://www.myhome.ie/residential/brochure/barrow-site-b-killiney-road-dalkey-county-dublin/5028718",
+    "https://www.myhome.ie/residential/brochure/1-bishop-street-limerick-city/5029046",
+    "https://www.myhome.ie/residential/brochure/avalon-site-a-killiney-road-dalkey-county-dublin/5028734",
+    "https://www.myhome.ie/residential/brochure/church-st-crossmolina-co-mayo/5029043",
+    "https://www.myhome.ie/residential/brochure/25-steeplechase-court-ratoath-co-meath/5029040",
+    "https://www.myhome.ie/residential/brochure/3a-3b-gort-na-mona-headford-galway/5028590",
+    "https://www.myhome.ie/residential/brochure/3-grange-meadows-rosslare-strand-wexford/5029012",
+    "https://www.myhome.ie/residential/brochure/27-churchfield-dromahair-leitrim/5029030",
+    "https://www.myhome.ie/residential/brochure/ballyhitt-house-our-lady-s-island-wexford/5029027",
+    "https://www.myhome.ie/residential/brochure/58-st-mary-s-road-east-wall-dublin-3/5029029",
+    "https://www.myhome.ie/residential/brochure/44-the-spires-termonfeckin-co-louth/5029028"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=147",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=22",
+  "finalUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=22",
+  "fetchedAt": "2026-10-05T09:18:05.876Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "7093adc87c1c01933b812d78442bbf7568997b427edaf26e92e25879539b22e3",
+  "files": [
+    {
+      "path": "myhome/00807-3ff7b682955963d7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=22\"].SearchResults",
+      "sha256": "42f62f45e084b315628c003c89a562193836cb1218bbeb1759cd6c00a0f4e11f",
+      "bytes": 94186
+    },
+    {
+      "path": "myhome/00807-3ff7b682955963d7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/rentals/ireland/property-to-rent?page=22\"] (paging fields)",
+      "sha256": "29598206154cd756dc9b25115b7a24afc56347bffffa0b357bc518848f95f654",
+      "bytes": 136
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/rentals/brochure/74-milltown-manor-archerstown-wood-ashbourne-meath/5010087",
+    "https://www.myhome.ie/rentals/brochure/72-milltown-manor-archerstown-wood-ashbourne-meath/5010069",
+    "https://www.myhome.ie/rentals/brochure/69-milltown-manor-archerstown-wood-ashbourne-meath/5010066",
+    "https://www.myhome.ie/rentals/brochure/apartment-16-55-lad-lane-south-city-centre-dublin-2/5008594",
+    "https://www.myhome.ie/rentals/brochure/19-p-irc-fe-ballinamore-leitrim/5009142",
+    "https://www.myhome.ie/rentals/brochure/beaumont-woods-beaumont-dublin-9/5008130",
+    "https://www.myhome.ie/rentals/brochure/39-oakdale-baylough-athlone-westmeath/5007534",
+    "https://www.myhome.ie/rentals/brochure/9-kellys-bay-inlet-skerries-co-dublin/5007367",
+    "https://www.myhome.ie/rentals/brochure/lower-bridge-street-killorglin-kerry/5006743",
+    "https://www.myhome.ie/rentals/brochure/palmerstown-drive-palmerstown-dublin-20-room-to-rent-room-b/5005733",
+    "https://www.myhome.ie/rentals/brochure/palmerstown-drive-palmerstown-dublin-20-room-to-rent-room-a/5005725",
+    "https://www.myhome.ie/rentals/brochure/myoran-leitrim-village-roscommon/5005185",
+    "https://www.myhome.ie/rentals/brochure/apartment-4-main-street-rathkeale-county-limerick/5004807",
+    "https://www.myhome.ie/rentals/brochure/a-exchequer-street-dublin-2/5003877",
+    "https://www.myhome.ie/rentals/brochure/grangeview-place-clondalkin-dublin-22/5000090",
+    "https://www.myhome.ie/rentals/brochure/castlegate-copse-lucan-co-dublin/4998984",
+    "https://www.myhome.ie/rentals/brochure/unit-8-cookstown-square-cookstown-industrial-estate-tallaght-dublin-24/4998786",
+    "https://www.myhome.ie/rentals/brochure/apartment-279-block-d-beechwood-court-stillorgan-county-dublin/4997778",
+    "https://www.myhome.ie/rentals/brochure/new-inn-enfield-co-meath/4996745",
+    "https://www.myhome.ie/rentals/brochure/12-ceis-lawns-keshcarrigan-carrick-on-shannon-co-leitrim/4996554"
+  ],
+  "nextUrl": "https://www.myhome.ie/rentals/ireland/property-to-rent?page=23",
+  "paginationLimited": false
+}

@@ -1,0 +1,408 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "18 parkwood avenue tallaght   dublin 24",
+    "GroupId": 5743,
+    "Address": "18 Parkwood Avenue",
+    "SaleTypeId": 17,
+    "LatestPriceChangeString": "-€25,000 on 29th Sep 26",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/241e985d-b788-471e-b79f-c88d31f99cfa_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/241e985d-b788-471e-b79f-c88d31f99cfa_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/241e985d-b788-471e-b79f-c88d31f99cfa_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/25bca211-331f-49ba-b0dc-8ce31071af6e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/be7af533-e858-4c6f-818e-354a0419febb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/57b5526d-78a9-4312-9f4a-37791fd59ed2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c5b18c6f-3294-4cd3-ad13-3fda26b9fed3_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/6fee5b95-530e-4111-a679-a1086c29c8a1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/a126e791-8bca-45d8-8fb6-33b598ad21ef_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3a280e22-9486-4b07-a6b6-3271dd637ae2_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/f6b3ac2e-e3dd-4cf3-bec6-3a7a514c6dd0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/7a71921f-8afd-48da-bcee-468d6ce2c626_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/93732bf6-2d5f-478a-b07f-5d54df91e45e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/368dee55-d355-4e16-8264-c991162fc8cd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/8349e241-dc12-4b51-9407-41ef267b19e4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e3be21b6-bdda-4af0-afcd-de634825957e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3b9f8fb0-fb16-41ed-9265-0214fc4141d6_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/b7214d83-119d-476a-b704-ace7cf00ebfb_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/105b4e05-1294-44b6-9e16-c05e084554ad_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/5eb7dc55-e9c3-4f1b-b428-72be1a41971c_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c8f12efa-1466-49c4-a57f-00891bd422d7_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e8d996cf-5cd5-47f2-8abd-41f63da6d97d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/3/0/5031037/eb319445-4269-4d1b-afe7-237f05d794c6_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 87,
+    "MaxSize": 87,
+    "BerRating": "C",
+    "OpenViewings": [
+      {
+        "Id": 0,
+        "StartDate": "2026-10-10T11:00:00.0000000+01:00",
+        "EndDate": "2026-10-10T11:30:00.0000000+01:00",
+        "OpenViewingType": "OnViewing",
+        "StartDateFormatted": "Sat Oct 10, 11am",
+        "EndDateFormatted": "Sat Oct 10, 11.30am",
+        "FeaturedSpotId": 688494,
+        "ChannelId": 0,
+        "FormattedString": "Sat Oct 10, 11am - 11.30am"
+      }
+    ],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "REA McGee are delighted to present No. 18 Parkwood Avenue, a beautifully presented three-bedroom home to the market.\r\n\r\nExtending to approximately 87 sq. m., this attractive property offers well-proportioned accommodation throughout, making it an excellent choice for first-time buyers, families, or those looking for a comfortable home in a well-established and convenient location.\r\n\r\nUpon entering, you are welcomed by a bright and inviting entrance hall which leads through to a generous sized living room, providing an ideal space for relaxing and entertaining. To the rear lies the kitchen and dining area, offering excellent space for everyday family living. Upstairs, the property comprises three well-proportioned bedrooms and a family bathroom.\r\n\r\nNo. 18 Parkwood Avenue is presented to the market in excellent condition throughout and offers a wonderful opportunity to acquire a well-located family home.\r\n\r\nParkwood Avenue is a mature residential estate in Tallaght, Dublin 24, offering residents an excellent balance of convenience and accessibility. The surrounding area provides a wealth of amenities, including a selection of schools, shops, cafés, bars, restaurants and recreational facilities, all within easy reach. Tallaght also benefits from excellent transport links, with a range of bus services and the Luas Red Line providing convenient access to Dublin City Centre and surrounding areas. The location also offers easy access to the N81, M50 and wider road network, making it particularly appealing to commuters."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Year of construction 1978\r\nBER C\r\nSought after location\r\nOff street parking\r\nSide access\r\nExcellent transport links"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 679938,
+    "MinEnergyRating": 75,
+    "MaxEnergyRating": 75,
+    "BERGrade": "C",
+    "IsNewBER": true,
+    "CreatedOnDate": "2026-09-29T10:31:23.2600000+01:00",
+    "ModifiedOnDate": "2026-09-29T15:24:08.2500000+01:00",
+    "IsPremiumAd": false,
+    "InstructedOn": "2026-09-29T10:32:19.4800000+01:00",
+    "ActivatedOn": "2026-09-29T12:06:03.2230000+01:00",
+    "RefreshedOn": "2026-09-29T12:06:03.2230000+01:00",
+    "ValuedOn": "2026-09-29T10:31:58.1800000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": false,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+    "IsTransact": false,
+    "PriceAsString": "€435,000",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5031037,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 87,
+    "DisplayAddress": "18 Parkwood Avenue, Tallaght,   Dublin 24",
+    "Eircode": "D24 FRF6",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Semi-Detached House",
+    "PropertyTypeId": 38,
+    "RegionId": 1462,
+    "RegionName": "Dublin 24",
+    "LocalityId": 1412,
+    "LocalityName": "Tallaght",
+    "Price": {
+      "MinPrice": 435000,
+      "MaxPrice": 435000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/241e985d-b788-471e-b79f-c88d31f99cfa_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/241e985d-b788-471e-b79f-c88d31f99cfa_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/241e985d-b788-471e-b79f-c88d31f99cfa_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/25bca211-331f-49ba-b0dc-8ce31071af6e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/25bca211-331f-49ba-b0dc-8ce31071af6e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/25bca211-331f-49ba-b0dc-8ce31071af6e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/be7af533-e858-4c6f-818e-354a0419febb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/be7af533-e858-4c6f-818e-354a0419febb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/be7af533-e858-4c6f-818e-354a0419febb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/57b5526d-78a9-4312-9f4a-37791fd59ed2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/57b5526d-78a9-4312-9f4a-37791fd59ed2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/57b5526d-78a9-4312-9f4a-37791fd59ed2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c5b18c6f-3294-4cd3-ad13-3fda26b9fed3_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c5b18c6f-3294-4cd3-ad13-3fda26b9fed3_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c5b18c6f-3294-4cd3-ad13-3fda26b9fed3_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/6fee5b95-530e-4111-a679-a1086c29c8a1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/6fee5b95-530e-4111-a679-a1086c29c8a1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/6fee5b95-530e-4111-a679-a1086c29c8a1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/a126e791-8bca-45d8-8fb6-33b598ad21ef_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/a126e791-8bca-45d8-8fb6-33b598ad21ef_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/a126e791-8bca-45d8-8fb6-33b598ad21ef_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3a280e22-9486-4b07-a6b6-3271dd637ae2_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3a280e22-9486-4b07-a6b6-3271dd637ae2_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3a280e22-9486-4b07-a6b6-3271dd637ae2_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/f6b3ac2e-e3dd-4cf3-bec6-3a7a514c6dd0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/f6b3ac2e-e3dd-4cf3-bec6-3a7a514c6dd0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/f6b3ac2e-e3dd-4cf3-bec6-3a7a514c6dd0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/7a71921f-8afd-48da-bcee-468d6ce2c626_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/7a71921f-8afd-48da-bcee-468d6ce2c626_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/7a71921f-8afd-48da-bcee-468d6ce2c626_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/93732bf6-2d5f-478a-b07f-5d54df91e45e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/93732bf6-2d5f-478a-b07f-5d54df91e45e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/93732bf6-2d5f-478a-b07f-5d54df91e45e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/368dee55-d355-4e16-8264-c991162fc8cd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/368dee55-d355-4e16-8264-c991162fc8cd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/368dee55-d355-4e16-8264-c991162fc8cd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/8349e241-dc12-4b51-9407-41ef267b19e4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/8349e241-dc12-4b51-9407-41ef267b19e4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/8349e241-dc12-4b51-9407-41ef267b19e4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e3be21b6-bdda-4af0-afcd-de634825957e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e3be21b6-bdda-4af0-afcd-de634825957e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e3be21b6-bdda-4af0-afcd-de634825957e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3b9f8fb0-fb16-41ed-9265-0214fc4141d6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3b9f8fb0-fb16-41ed-9265-0214fc4141d6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/3b9f8fb0-fb16-41ed-9265-0214fc4141d6_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/b7214d83-119d-476a-b704-ace7cf00ebfb_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/b7214d83-119d-476a-b704-ace7cf00ebfb_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/b7214d83-119d-476a-b704-ace7cf00ebfb_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/105b4e05-1294-44b6-9e16-c05e084554ad_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/105b4e05-1294-44b6-9e16-c05e084554ad_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/105b4e05-1294-44b6-9e16-c05e084554ad_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/5eb7dc55-e9c3-4f1b-b428-72be1a41971c_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/5eb7dc55-e9c3-4f1b-b428-72be1a41971c_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/5eb7dc55-e9c3-4f1b-b428-72be1a41971c_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c8f12efa-1466-49c4-a57f-00891bd422d7_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c8f12efa-1466-49c4-a57f-00891bd422d7_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/c8f12efa-1466-49c4-a57f-00891bd422d7_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e8d996cf-5cd5-47f2-8abd-41f63da6d97d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e8d996cf-5cd5-47f2-8abd-41f63da6d97d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/e8d996cf-5cd5-47f2-8abd-41f63da6d97d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/eb319445-4269-4d1b-afe7-237f05d794c6_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/eb319445-4269-4d1b-afe7-237f05d794c6_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/3/0/5031037/eb319445-4269-4d1b-afe7-237f05d794c6_m.jpg"
+      }
+    ],
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 21,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 5743,
+    "Name": "REA McGee",
+    "DisplayPhone": "01 405 7700",
+    "Email": "info@reamcgee.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "rea-mcgee",
+    "SeoName": "rea-mcgee",
+    "Address": "Courthouse Square, Westpark, Tallaght, Dublin 24",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/3/4/7/5743/logo.jpg",
+    "SalesLicense": "002939",
+    "RentalLicense": "2939 3979",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "tallaght/1412",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [
+    {
+      "PropertyId": 5031037,
+      "HasWebP": false,
+      "Price": 435000,
+      "PrevPrice": 460000,
+      "PriceChangeDelta": -25000,
+      "PriceChangePercentage": -5.4348,
+      "Created": "29th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+      "BerRating": "C",
+      "IsActive": false
+    }
+  ],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4995869,
+      "Address": "255 Old Blessington Road, Tallaght, Dublin 24",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/6/8/4995869/f6644ff0-8e63-4da3-9677-ed62fd335b61_t.jpg",
+      "HasWebP": false,
+      "Price": 375000,
+      "PrevPrice": 450000,
+      "PriceChangeDelta": -75000,
+      "PriceChangePercentage": -16.6667,
+      "Created": "19th May 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/255-old-blessington-road-tallaght-dublin-24/4995869",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/18-parkwood-avenue-tallaght-dublin-24/5031037",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 679938,
+    "Name": "Taylor  Arbuthnot",
+    "Email": "taylor@reamcgee.ie",
+    "Licence": ""
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "-€25,000.00 29th Sep 26",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 5743,
+    "MYH_LocalityID": 1412,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1462,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Cable Television",
+      "Central Heating",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Cable Television,Central Heating,Garden",
+    "MYH_MaxPrice": 450000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 75,
+    "MYH_MinPrice": 450000,
+    "MYH_MinSize": 87,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5031037,
+    "MYH_PropertyTypeID": 38
+  }
+}

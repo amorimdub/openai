@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-pad-liberties-house-the-liberties-dublin-8/6157731",
+  "fetchedAt": "2026-10-05T08:59:24.288Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-pad-liberties-house-the-liberties-dublin-8/6157731",
+  "kind": "listing",
+  "responseSha256": "63031bb719e17d19363cd4520f302ff09515ede700af8c6e93a945eec5982f6c",
+  "files": [
+    {
+      "path": "daft/00065-41f9fdd53396a8eb-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ade1f20a2bf98005a0344d9abf1b44a1d52d1656c04d0dbc7a60b9236c770e9a",
+      "bytes": 42177
+    },
+    {
+      "path": "daft/00065-41f9fdd53396a8eb-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d16509c204e8ec34834edc2a6ec68bc5131b5e616b3d1f1c63ef401e8b30921e",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

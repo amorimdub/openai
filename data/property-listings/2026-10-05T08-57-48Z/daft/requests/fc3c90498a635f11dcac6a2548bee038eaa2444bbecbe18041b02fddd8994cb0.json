@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/curraghlawn-tinahely-arklow-aughrim-co-wicklow/6681211",
+  "fetchedAt": "2026-10-05T09:17:50.085Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/curraghlawn-tinahely-arklow-aughrim-co-wicklow/6681211",
+  "kind": "listing",
+  "responseSha256": "e29c5acab1ebd5673a86798dd1d75c157670265ab84155ba0e094496b944c03f",
+  "files": [
+    {
+      "path": "daft/00801-fc3c90498a635f11-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f322d1658a5a96c5f2d93c754afe2339d9196f230cb62350b12b549c4bd5d9cc",
+      "bytes": 17643
+    },
+    {
+      "path": "daft/00801-fc3c90498a635f11-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "3490b1bff8fc7d2b6c203357668df6941a1c20c9258522b2076a89a5548861b5",
+      "bytes": 8154
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

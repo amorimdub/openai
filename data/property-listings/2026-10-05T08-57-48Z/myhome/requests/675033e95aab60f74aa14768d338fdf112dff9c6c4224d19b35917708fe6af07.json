@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=337",
+  "fetchedAt": "2026-10-05T13:08:11.236Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=337",
+  "kind": "search",
+  "responseSha256": "48193b38e4ed9118ff1777a3c1b53777ef417053d11bdf99b7bc0bee48468130",
+  "files": [
+    {
+      "path": "myhome/07460-675033e95aab60f7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=337\"].SearchResults",
+      "sha256": "d9ac90bc36f032359b57063b52fec7d5acb6c238c98becde6813e40214038e2a",
+      "bytes": 111259
+    },
+    {
+      "path": "myhome/07460-675033e95aab60f7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=337\"] (paging fields)",
+      "sha256": "1f91897297d11e1b4abf76c712ce6296ea958c8794919ab3a2dfde671645c735",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/dunbeacon-durrus-west-cork/5021299",
+    "https://www.myhome.ie/residential/brochure/greaghnafarna-ballinaglera-co-leitrim/5021482",
+    "https://www.myhome.ie/residential/brochure/waynestown-dunboyne-county-meath/4991619",
+    "https://www.myhome.ie/residential/brochure/site-at-garrynatineel-ballina-tipperary/5017645",
+    "https://www.myhome.ie/residential/brochure/apartment-114-kilmainham-square-inchicore-road-inchicore-dublin-8-co-dublin/4993334",
+    "https://www.myhome.ie/residential/brochure/6-belard-manor-glenealy-wicklow-co-wicklow/5006994",
+    "https://www.myhome.ie/residential/brochure/crofton-garrynatineel-ballina-tipperary/5017226",
+    "https://www.myhome.ie/residential/brochure/3-riverchapel-lawns-riverchapel-co-wexford/5021476",
+    "https://www.myhome.ie/residential/brochure/11-rowan-walk-kilcarbery-dublin-22/5021473",
+    "https://www.myhome.ie/residential/brochure/lisanisk-carrickmacross-monaghan/5021425",
+    "https://www.myhome.ie/residential/brochure/2-bed-mid-terrace-white-linen-avenue-longford-town-co-longford-longford-longford/5021472",
+    "https://www.myhome.ie/residential/brochure/151b-crumlin-road-crumlin-dublin-12/5021410",
+    "https://www.myhome.ie/residential/brochure/card-ross-99-glasheen-road-glasheen-cork/4990563",
+    "https://www.myhome.ie/residential/brochure/128-the-academy-building-park-west-pointe-park-west-dublin-12/5021470",
+    "https://www.myhome.ie/residential/brochure/72-the-academy-building-park-west-pointe-park-west-dublin-12/5021464",
+    "https://www.myhome.ie/residential/brochure/26-park-avenue-clongriffin-dublin-13/5021461",
+    "https://www.myhome.ie/residential/brochure/apartment-55-griffith-hall-dublin-9-dublin/5021433",
+    "https://www.myhome.ie/residential/brochure/47-belmont-hall-gardiner-street-middle-dublin-1/5021436",
+    "https://www.myhome.ie/residential/brochure/shankill-dublin-18-dublin/5005865",
+    "https://www.myhome.ie/residential/brochure/glencairn-glade-leopardstown-dublin-18/5008808"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=338",
+  "paginationLimited": false
+}

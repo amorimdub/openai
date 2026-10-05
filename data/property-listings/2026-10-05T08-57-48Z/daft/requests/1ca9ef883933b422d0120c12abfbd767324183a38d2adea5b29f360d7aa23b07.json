@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/23-dartmouth-square-dublin-6/6554071",
+  "fetchedAt": "2026-10-05T09:35:00.467Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/23-dartmouth-square-dublin-6/6554071",
+  "kind": "listing",
+  "responseSha256": "293c0daa66a6d519e9ea614e15c469056490fc04aa9080417150e1bada314830",
+  "files": [
+    {
+      "path": "daft/01487-1ca9ef883933b422-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f7c41fd9be2bfc862ef1ad1cf6438cd6ed69c696276d43c7d8fa975634c88860",
+      "bytes": 109467
+    },
+    {
+      "path": "daft/01487-1ca9ef883933b422-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7053661a43280a6f80e48e16a449b96558ced5d38637c663886349c953065266",
+      "bytes": 8183
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

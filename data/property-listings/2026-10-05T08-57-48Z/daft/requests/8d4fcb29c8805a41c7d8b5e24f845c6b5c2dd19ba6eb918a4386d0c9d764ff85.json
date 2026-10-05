@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=39",
+  "fetchedAt": "2026-10-05T09:41:54.967Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=39",
+  "kind": "search",
+  "responseSha256": "a20b4389d79aa38c0def27fe8ffe527762ef79aa29d2206f3b7ff75fbfd1fd7d",
+  "files": [
+    {
+      "path": "daft/01763-8d4fcb29c8805a41-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "6910e92bf8c30897f9eb2a514da48dc2bf7e4b5eb5820ada58f4e513bbef0042",
+      "bytes": 301047
+    },
+    {
+      "path": "daft/01763-8d4fcb29c8805a41-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01763-8d4fcb29c8805a41-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "a28126b84b48da940930fe5ab6cb338bafe6767d3dbd28940faa5ded308c7d1d",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/4-belfry-gardens-citywest-co-dublin/6660431",
+    "https://www.daft.ie/for-sale/sheelin-church-road-tramore-co-waterford/6652723",
+    "https://www.daft.ie/for-sale/65-walkinstown-park-walkinstown-dublin-12/6660163",
+    "https://www.daft.ie/for-sale/118-silversprings-court-silversprings-tivoli-co-cork/6660113",
+    "https://www.daft.ie/for-sale/steeplewood-killiney-avenue-killiney-co-dublin/6628457",
+    "https://www.daft.ie/for-sale/knockalougha-knocknagoshel-co-kerry/6659944",
+    "https://www.daft.ie/for-sale/bella-vista-48-48a-seapoint-avenue-monkstown/6641233",
+    "https://www.daft.ie/for-sale/apartment-45-weavers-hall-levmoss-park-leopardstown-dublin-18/6646922",
+    "https://www.daft.ie/for-sale/7-north-shore-greystones-greystones-co-wicklow/6648732",
+    "https://www.daft.ie/for-sale/apartment-26-woodview-court-glenalbyn-road-stillorgan-stillorgan-co-dublin/6621703",
+    "https://www.daft.ie/for-sale/8-stillorgan-gate-kilmacud-road-upper-stillorgan-dublin-14/6540857",
+    "https://www.daft.ie/for-sale/120-glanntan-castletroy-limerick-co-limerick/6643307",
+    "https://www.daft.ie/for-sale/34-ballyglass-ardnacrusha-limerick-co-limerick/6648575",
+    "https://www.daft.ie/for-sale/cloghaderreen-old-pallas-pallasgreen-co-limerick/6656946",
+    "https://www.daft.ie/for-sale/4-st-matthias-wood-church-road-killiney-co-dublin/6592029",
+    "https://www.daft.ie/for-sale/13-brookvale-road-donnybrook-dublin-4-co-dublin/6615861",
+    "https://www.daft.ie/for-sale/roseville-4-roseville-terrace-dundrum-road-dundrum-dublin-14/6557771",
+    "https://www.daft.ie/for-sale/39-palmer-park-rathfarnham-dublin-16/6643600",
+    "https://www.daft.ie/for-sale/19-river-view-rolestown-east-rolestown-co-dublin/6659262",
+    "https://www.daft.ie/for-sale/38-saint-brochans-park-bracknagh-co-offaly/6651352"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=40",
+  "paginationLimited": false
+}

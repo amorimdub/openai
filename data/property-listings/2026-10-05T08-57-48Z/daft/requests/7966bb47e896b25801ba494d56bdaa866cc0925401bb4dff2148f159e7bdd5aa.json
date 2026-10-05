@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/jameson-orchard-jameson-orchard-road-malahide-co-dublin/5852459",
+  "fetchedAt": "2026-10-05T09:07:20.768Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/jameson-orchard-jameson-orchard-road-malahide-co-dublin/5852459",
+  "kind": "listing",
+  "responseSha256": "87be907ddda51b1b581e80d67e358894f07709d790bd86fb416e56eba1d8265e",
+  "files": [
+    {
+      "path": "daft/00382-7966bb47e896b258-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c8c0364516d3bd2ba7468dbbb9ea68feb6fe6dc10fab4d435b393d97526fd4eb",
+      "bytes": 150983
+    },
+    {
+      "path": "daft/00382-7966bb47e896b258-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "1b9775d63c2be064247118346a949c9993d76d069988af206c7717c48f717e7f",
+      "bytes": 8221
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

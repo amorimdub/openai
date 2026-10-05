@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/40-westland-row-dublin-2/6684140",
+  "fetchedAt": "2026-10-05T09:44:40.236Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/40-westland-row-dublin-2/6684140",
+  "kind": "listing",
+  "responseSha256": "37ab57515001ddd61b05d598541e6daf47615d7937ac4d9adfc79acf7931da6d",
+  "files": [
+    {
+      "path": "daft/01873-90cf60f88ce1a9bd-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2ac0c6e5e647a4376a8dd88d21daf3038eb29b74591a8399524ec559d3b98888",
+      "bytes": 18801
+    },
+    {
+      "path": "daft/01873-90cf60f88ce1a9bd-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "62ea0b41ff274a808cb2a88ad0ec1cd22cc2febbca6612bdc2786a486dee2a92",
+      "bytes": 8099
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

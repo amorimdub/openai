@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=245",
+  "fetchedAt": "2026-10-05T12:20:56.548Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=245",
+  "kind": "search",
+  "responseSha256": "c75ce0290801a65487f1b9ad09d392a121f0c99ed66ba16b9955d129e0f2e08a",
+  "files": [
+    {
+      "path": "myhome/05579-e1856924fb87ca10-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=245\"].SearchResults",
+      "sha256": "97c08b4339e7d23044a9abd216017c39eef08081337ce5309cb22079e40f26a7",
+      "bytes": 117804
+    },
+    {
+      "path": "myhome/05579-e1856924fb87ca10-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=245\"] (paging fields)",
+      "sha256": "ab2edec132391db924ade10c4307ec2f451bb2039ea75976524c5925f2575e09",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-st-michael-s-terrace-arklow-wicklow/5026212",
+    "https://www.myhome.ie/residential/brochure/77-donard-road-drimnagh-dublin-12/5026208",
+    "https://www.myhome.ie/residential/brochure/hospital-road-new-ross-co-wexford/5026235",
+    "https://www.myhome.ie/residential/brochure/16-ash-grove-castlehyde-park-rosbercon-new-ross-co-wexford/5026234",
+    "https://www.myhome.ie/residential/brochure/ballystraw-duncannon-new-ross-co-wexford/5026233",
+    "https://www.myhome.ie/residential/brochure/25-pinewood-park-rathfarnham-dublin-14/5026232",
+    "https://www.myhome.ie/residential/brochure/newtown-cottage-newtown-trim-co-meath/5026230",
+    "https://www.myhome.ie/residential/brochure/18-albert-place-east-grand-canal-street-dublin-2/4967967",
+    "https://www.myhome.ie/residential/brochure/apartment-8-highfield-court-rathgar-dublin-6/5026227",
+    "https://www.myhome.ie/residential/brochure/13-woodleigh-way-woodleigh-blessington-wicklow/5026229",
+    "https://www.myhome.ie/residential/brochure/33-mackintosh-park-dun-laoghaire-co-dublin/5026223",
+    "https://www.myhome.ie/residential/brochure/17-park-avenue-gorey-co-wexford/5026216",
+    "https://www.myhome.ie/residential/brochure/calliaghstown-lower-rathcoole-co-dublin/5026207",
+    "https://www.myhome.ie/residential/brochure/the-bay-hampton-demesne-dublin-north-county-dublin/5026202",
+    "https://www.myhome.ie/residential/brochure/the-strand-hampton-demesne-dublin-north-county-dublin/5026199",
+    "https://www.myhome.ie/residential/brochure/the-strand-hampton-demesne-dublin-north-county-dublin/5026198",
+    "https://www.myhome.ie/residential/brochure/the-cove-hampton-demesne-dublin-north-county-dublin/5026197",
+    "https://www.myhome.ie/residential/brochure/the-cove-hampton-demesne-balbriggan-county-dublin/5026196",
+    "https://www.myhome.ie/residential/brochure/the-habour-hampton-demesne-dublin-north-county-dublin/5026193",
+    "https://www.myhome.ie/residential/brochure/18-the-plains-strandhill-sligo-county-sligo/5026192"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=246",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/langrishe-place-dublin-1-dublin-1/6674555",
+  "fetchedAt": "2026-10-05T09:18:39.638Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/langrishe-place-dublin-1-dublin-1/6674555",
+  "kind": "listing",
+  "responseSha256": "5f7b63a39dd3cd1d566f3e495647f6cd0a6a315f6b083d4e8a93264201feb288",
+  "files": [
+    {
+      "path": "daft/00834-c427846bf14aa582-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "87425535283ffe1dfdb2f6833754ca4094d8de3001aeaab90326ae4ddb6052bf",
+      "bytes": 21064
+    },
+    {
+      "path": "daft/00834-c427846bf14aa582-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dc8baf27e1dc1b8297ec59fbfca3abe88343fe69eedd6775432f59739b248696",
+      "bytes": 8058
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

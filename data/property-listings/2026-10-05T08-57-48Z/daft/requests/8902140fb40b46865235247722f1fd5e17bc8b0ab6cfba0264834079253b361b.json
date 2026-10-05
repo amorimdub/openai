@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/allendale-square-clonsilla-dublin-15/6684928",
+  "fetchedAt": "2026-10-05T09:39:47.272Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/allendale-square-clonsilla-dublin-15/6684928",
+  "kind": "listing",
+  "responseSha256": "605deaaa405e0a3757b218873b59d03cf57cfa5a878998f2c5ef568aff6e6a2d",
+  "files": [
+    {
+      "path": "daft/01678-8902140fb40b4686-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6d59e2a158b0be50135de689e6b43d8612501bd29a49d943c31c564d04cd5fed",
+      "bytes": 30156
+    },
+    {
+      "path": "daft/01678-8902140fb40b4686-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "643213b52bee2ecf775f02524aa980408a650c756d285fb1e9832ca039935d20",
+      "bytes": 8151
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

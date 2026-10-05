@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-mayeston-court-dublin-11-finglas-dublin-11/6684667",
+  "fetchedAt": "2026-10-05T09:16:42.513Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-mayeston-court-dublin-11-finglas-dublin-11/6684667",
+  "kind": "listing",
+  "responseSha256": "06b04cdd77761d48b55d63b3ffa8e434092cb6279b505a4f83fed5c68f79d429",
+  "files": [
+    {
+      "path": "daft/00756-fa542b143629f1a7-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d80a9846b1b598276b57a6d0d2a291d48890bfde2456dd48099ec17a765bf557",
+      "bytes": 15649
+    },
+    {
+      "path": "daft/00756-fa542b143629f1a7-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

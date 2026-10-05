@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/8a-woodlawn-park-dun-laoghaire-monkstown-co-dublin/6683476",
+  "fetchedAt": "2026-10-05T09:46:49.472Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/8a-woodlawn-park-dun-laoghaire-monkstown-co-dublin/6683476",
+  "kind": "listing",
+  "responseSha256": "444cfffdb69557227e280532f2719598bff52ae5ea958b1e9fa04a19474f1458",
+  "files": [
+    {
+      "path": "daft/01959-bcc52ad467ef74e2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "56801e18cd987449a497938d041bb9a042d0778e5ce267e9e1ede4e5084c0b3b",
+      "bytes": 27968
+    },
+    {
+      "path": "daft/01959-bcc52ad467ef74e2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "aabaee95d0a4e544e306e51b98a4ac745953ba58f94d66458484fe936616869b",
+      "bytes": 8279
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

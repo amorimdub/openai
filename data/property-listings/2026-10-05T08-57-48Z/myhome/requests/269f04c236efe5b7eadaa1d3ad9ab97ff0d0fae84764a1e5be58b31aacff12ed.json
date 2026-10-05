@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=32",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=32",
+  "fetchedAt": "2026-10-05T09:27:47.594Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "c91f870620a77587b54a103c29b377d3231eec51875a5a4ce69a3f8a8f6c48ba",
+  "files": [
+    {
+      "path": "myhome/01194-269f04c236efe5b7-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=32\"].SearchResults",
+      "sha256": "68f608234fc1f65708338732948856709a4a4055adf6595c84b342ad52465461",
+      "bytes": 113715
+    },
+    {
+      "path": "myhome/01194-269f04c236efe5b7-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=32\"] (paging fields)",
+      "sha256": "8defbd2434caf575979b3735c6cd2232fd9e29cb88c73ce4b68281fb60912c4e",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/4-castleland-court-balbriggan-co-dublin/5031709",
+    "https://www.myhome.ie/residential/brochure/11-canterbrook-trim-road-navan-meath/5021544",
+    "https://www.myhome.ie/residential/brochure/sunmount-25-lynn-avenue-mullingar-westmeath/5022967",
+    "https://www.myhome.ie/residential/brochure/71-bailis-manor-navan-athlumney-navan-meath/5025778",
+    "https://www.myhome.ie/residential/brochure/corradownan-arva-cavan-county-cavan/5031706",
+    "https://www.myhome.ie/residential/brochure/7-alder-close-beaufort-place-navan-meath/5010518",
+    "https://www.myhome.ie/residential/brochure/30-brews-hill-navan-navan-co-meath-navan-meath/4985008",
+    "https://www.myhome.ie/residential/brochure/2-augustine-court-saint-augustine-street-dublin-8/5031703",
+    "https://www.myhome.ie/residential/brochure/meadow-view-maynooth-kildare/5031693",
+    "https://www.myhome.ie/residential/brochure/17-willowbank-quartertown-mallow-cork/5025210",
+    "https://www.myhome.ie/residential/brochure/28-clonile-old-cratloe-road-limerick/5031700",
+    "https://www.myhome.ie/residential/brochure/12-the-cedars-glounthaune-cork/4990290",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-castlemartin-navan-meath/5031687",
+    "https://www.myhome.ie/residential/brochure/16-the-willows-wellingtonbridge-wexford/5002935",
+    "https://www.myhome.ie/residential/brochure/apartment-84-kirkpatrick-house-spencer-dock-dublin-1-dublin/5031697",
+    "https://www.myhome.ie/residential/brochure/28-sandycove-avenue-west-sandycove-dublin/4960731",
+    "https://www.myhome.ie/residential/brochure/church-view-gibberwell-duncormick-wexford/5009367",
+    "https://www.myhome.ie/residential/brochure/tower-green-newbridge-kildare/4961181",
+    "https://www.myhome.ie/residential/brochure/3-bed-penthouse-glenville-garden-fosters-avenue-mount-merrion-county-dublin/4977451",
+    "https://www.myhome.ie/residential/brochure/rose-cottage-rochestown-ballymitty-wexford/5019544"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=33",
+  "paginationLimited": false
+}

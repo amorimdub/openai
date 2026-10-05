@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=6",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=6",
+  "fetchedAt": "2026-10-05T09:01:06.407Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "286fd449c11fea749f5925e2e57501f0842f981ae5961e84c3852fffc8666a39",
+  "files": [
+    {
+      "path": "myhome/00133-2dfcfa4ea8416fa0-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=6\"].SearchResults",
+      "sha256": "4a8e5f299b1005f350812df43a5ea9d9502a11b0953e40bf38674f4e7816c499",
+      "bytes": 135354
+    },
+    {
+      "path": "myhome/00133-2dfcfa4ea8416fa0-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=6\"] (paging fields)",
+      "sha256": "08bff75b988145874dcf908ca711791271ee0e44dfce3820818dfc0b2613ead0",
+      "bytes": 141
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-victoria-terrace-naas-co-kildare/4995116",
+    "https://www.myhome.ie/residential/brochure/142-aylmer-park-naas-co-kildare/5029386",
+    "https://www.myhome.ie/residential/brochure/116-oldbridge-station-osberstown-naas-co-kildare/5027916",
+    "https://www.myhome.ie/residential/brochure/109-stoneleigh-naas-co-kildare/5030262",
+    "https://www.myhome.ie/residential/brochure/29-brentwood-crescent-earlscourt-waterford-city-co-waterford/5026786",
+    "https://www.myhome.ie/residential/brochure/29-hunterswood-osberstown-naas-co-kildare/5030188",
+    "https://www.myhome.ie/residential/brochure/20-oak-park-square-oak-park-naas-co-kildare/5027365",
+    "https://www.myhome.ie/residential/brochure/31-caragh-green-naas-co-kildare/5028700",
+    "https://www.myhome.ie/residential/brochure/58-oldbridge-park-osberstown-naas-co-kildare/5023512",
+    "https://www.myhome.ie/residential/brochure/55-cruise-park-drive-tyrrelstown-dublin-15/5030532",
+    "https://www.myhome.ie/residential/brochure/13-dowdingstown-wood-naas-two-mile-house-co-kildare/5024668",
+    "https://www.myhome.ie/residential/brochure/main-street-redcross-wicklow-town-wicklow/5029650",
+    "https://www.myhome.ie/residential/brochure/14-morell-green-monread-road-naas-co-kildare/5021114",
+    "https://www.myhome.ie/residential/brochure/drummartin-heights-kilmacud-dublin-14/4994616",
+    "https://www.myhome.ie/residential/brochure/58-finlay-park-naas-co-kildare/5024382",
+    "https://www.myhome.ie/residential/brochure/27-the-grove-hunters-run-clonee-dublin-15/5029326",
+    "https://www.myhome.ie/residential/brochure/5-alderwood-court-naas-co-kildare/5021639",
+    "https://www.myhome.ie/residential/brochure/23-the-way-craddockstown-park-naas-kildare/5032082",
+    "https://www.myhome.ie/residential/brochure/67-kerrymount-rise-foxrock-dublin-18-co-dublin/5029718",
+    "https://www.myhome.ie/residential/brochure/9-adare-close-killincarrig-greystones-wicklow/5032081"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=7",
+  "paginationLimited": false
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=391",
+  "fetchedAt": "2026-10-05T13:36:04.103Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=391",
+  "kind": "search",
+  "responseSha256": "a4ab84d02a888d8c1dc82d92cafd8ed2222109d7c79d204e3f42905fb9cb717d",
+  "files": [
+    {
+      "path": "myhome/08573-93e53ea948a4547a-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=391\"].SearchResults",
+      "sha256": "8d61ab3e1151fd3fe4e0c2ef19995689ae43df86325e85bdeea38af5d678dffd",
+      "bytes": 115889
+    },
+    {
+      "path": "myhome/08573-93e53ea948a4547a-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=391\"] (paging fields)",
+      "sha256": "35dd5bae9654f92a315ce1e49ccda39d26084f7677c8f5cf1233634f2c8db1f8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/knockliscrane-miltown-malbay-miltown-malbay-clare/5016806",
+    "https://www.myhome.ie/residential/brochure/6-stocking-wood-green-stocking-avenue-rathfarnham-dublin-16/4998038",
+    "https://www.myhome.ie/residential/brochure/2-gleann-na-riogh-close-naas-co-kildare/5016800",
+    "https://www.myhome.ie/residential/brochure/46-meadow-view-clarecastle-ennis-co-clare/5016793",
+    "https://www.myhome.ie/residential/brochure/16-ridgewood-green-swords-county-dublin/4997151",
+    "https://www.myhome.ie/residential/brochure/site-to-rere-of-32-33-palmerston-road-rathmines-dublin-6/4975629",
+    "https://www.myhome.ie/residential/brochure/letterfinish-sneem-co-kerry/5016754",
+    "https://www.myhome.ie/residential/brochure/corofin-hartland-s-avenue-the-lough-cork/5016742",
+    "https://www.myhome.ie/residential/brochure/rock-stables-knockavotha-gorey-co-wexford/5016747",
+    "https://www.myhome.ie/residential/brochure/18a-wilton-lawn-glasheen-cork/5016718",
+    "https://www.myhome.ie/residential/brochure/oswin-cottage-dromod-more-dromod-co-leitrim/5016732",
+    "https://www.myhome.ie/residential/brochure/134-kilbarry-place-farranree-cork/4956641",
+    "https://www.myhome.ie/residential/brochure/8-o-sullivan-avenue-ballybough-dublin-3/4998136",
+    "https://www.myhome.ie/residential/brochure/apartment-75-block-d-hanover-quay-grand-canal-dk-dublin-2/5016721",
+    "https://www.myhome.ie/residential/brochure/26-grangemore-bishop-o-donnell-road-galway/5015815",
+    "https://www.myhome.ie/residential/brochure/5-lioscarraig-threadneedle-road-salthill-galway/5016686",
+    "https://www.myhome.ie/residential/brochure/17-woodvale-drive-clonsilla-dublin-15/5016685",
+    "https://www.myhome.ie/residential/brochure/16-pairc-an-tobar-kanturk-cork/5016653",
+    "https://www.myhome.ie/residential/brochure/apartment-11-kirwins-court-kirwans-lane-galway-city/5015758",
+    "https://www.myhome.ie/residential/brochure/the-laurels-edgeworthstown-longford/5016626"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=392",
+  "paginationLimited": false
+}

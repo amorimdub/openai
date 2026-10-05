@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=435",
+  "fetchedAt": "2026-10-05T13:58:30.015Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=435",
+  "kind": "search",
+  "responseSha256": "0cf495b7f83904f0886c6180b22d94b4f2f6f6ff16f43cafdfbb24cafa434726",
+  "files": [
+    {
+      "path": "myhome/09468-a30f7bf3daa71c2e-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=435\"].SearchResults",
+      "sha256": "c0de185c75d2738c085abac620f03edadf25b1c21b113f2cabf8fbbd3204342d",
+      "bytes": 114906
+    },
+    {
+      "path": "myhome/09468-a30f7bf3daa71c2e-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=435\"] (paging fields)",
+      "sha256": "41a5329e2d48e73cb1aa4174be7a091d9a5415c5b144ba0aa0c42e009bc9d66e",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/1-abhainn-na-ri-oranmore-galway/5010293",
+    "https://www.myhome.ie/residential/brochure/old-cork-road-bandon-west-cork/5004177",
+    "https://www.myhome.ie/residential/brochure/28-clogher-road-crumlin-dublin-12/5009475",
+    "https://www.myhome.ie/residential/brochure/64-captains-avenue-kimmage-dublin-12/5008885",
+    "https://www.myhome.ie/residential/brochure/shantobar-ballinalee-co-longford-ballinalee-longford/5010247",
+    "https://www.myhome.ie/residential/brochure/21-killala-road-cabra-dublin-7/5010077",
+    "https://www.myhome.ie/residential/brochure/4-an-pairc-mor-castlegar-galway-co-galway/5010252",
+    "https://www.myhome.ie/residential/brochure/5-priestfield-cottages-dublin-8/5010249",
+    "https://www.myhome.ie/residential/brochure/the-huntsmans-bar-cootehill-cavan/5007615",
+    "https://www.myhome.ie/residential/brochure/bayview-red-barns-road-dundalk-co-louth/5010246",
+    "https://www.myhome.ie/residential/brochure/tibohine-castlerea-roscommon/5010223",
+    "https://www.myhome.ie/residential/brochure/10-oakwood-the-paddock-enniscorthy-wexford/5010173",
+    "https://www.myhome.ie/residential/brochure/10-ard-na-gr-ine-dublin-road-mullingar-co-westmeath-mullingar-westmeath/5005125",
+    "https://www.myhome.ie/residential/brochure/8-the-green-tramore-road-ballyphehane-cork/5010221",
+    "https://www.myhome.ie/residential/brochure/moanroe-garryvoe-cork/5009017",
+    "https://www.myhome.ie/residential/brochure/residence-licensed-premises-altamount-street-westport-co-mayo/5010219",
+    "https://www.myhome.ie/residential/brochure/3a-the-oak-avenue-countess-road-killarney-kerry/5010216",
+    "https://www.myhome.ie/residential/brochure/4-lake-lawn-douglas-cork/5010176",
+    "https://www.myhome.ie/residential/brochure/59-wilford-court-bray-dublin-south-county-a98ka75/5010209",
+    "https://www.myhome.ie/residential/brochure/main-street-kiltimagh-mayo/5010204"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=436",
+  "paginationLimited": false
+}

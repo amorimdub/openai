@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=200",
+  "fetchedAt": "2026-10-05T11:57:34.121Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=200",
+  "kind": "search",
+  "responseSha256": "d0cd1bbea6c7cb1268b74c73ac3c39416469b1764a379e1f592483e862a03eed",
+  "files": [
+    {
+      "path": "myhome/04646-ba2b9353f97cc52f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=200\"].SearchResults",
+      "sha256": "c327bbe55fe280e2aef0f0140aa72ccafd29b7b28ed9596b3216579e9212b909",
+      "bytes": 119688
+    },
+    {
+      "path": "myhome/04646-ba2b9353f97cc52f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=200\"] (paging fields)",
+      "sha256": "ca6cd7f3276382c27a5613cb59b2524dd1cfff8685c155546f2f391b8363b5d2",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/19-diamond-hill-monkstown-cork/5027606",
+    "https://www.myhome.ie/residential/brochure/3-bealing-avenue-tyrrelstown-dublin-15/5005116",
+    "https://www.myhome.ie/residential/brochure/apt-210-castleforbes-square-block-e-castleforbes-square-dublin-1-co-dublin/5027608",
+    "https://www.myhome.ie/residential/brochure/61-the-avenue-abbeylands-clane-co-kildare/5000230",
+    "https://www.myhome.ie/residential/brochure/suaimhneas-ballyleague-roscommon-co-roscommon/5027607",
+    "https://www.myhome.ie/residential/brochure/9-halpins-terrace-drogheda-louth/5027301",
+    "https://www.myhome.ie/residential/brochure/gardenstown-lanesborough-co-roscommon/5027605",
+    "https://www.myhome.ie/residential/brochure/26-fountain-court-tralee-kerry/5026165",
+    "https://www.myhome.ie/residential/brochure/3-pembroke-cottages-ringsend-dublin-4/5025287",
+    "https://www.myhome.ie/residential/brochure/51-knocktornagh-castleblayney-monaghan/4992413",
+    "https://www.myhome.ie/residential/brochure/emerson-lodge-harlinstown-slane-meath/5002229",
+    "https://www.myhome.ie/residential/brochure/91-dowland-road-walkinstown-dublin-12/5027471",
+    "https://www.myhome.ie/residential/brochure/5-somerton-drive-lucan-co-dublin/5027596",
+    "https://www.myhome.ie/residential/brochure/c-1-8-acres-with-derelict-2-storey-residence-green-avenue-naas-co-kildare/5027593",
+    "https://www.myhome.ie/residential/brochure/2-the-old-rectory-lucan-dublin/5027543",
+    "https://www.myhome.ie/residential/brochure/3-summerseat-green-summerseat-clonee-dublin-15/5027591",
+    "https://www.myhome.ie/residential/brochure/50-the-way-craddockstown-park-naas-county-kildare/5027586",
+    "https://www.myhome.ie/residential/brochure/15-cherrymount-park-phibsborough-dublin-7/5027585",
+    "https://www.myhome.ie/residential/brochure/clonkeen-lodge-house-and-lands-clonkeen-lucas-clones-co-monaghan/5027583",
+    "https://www.myhome.ie/residential/brochure/5-roebuck-park-goatstown-dublin-14/4930297"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=201",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-shackleton-glebe-shackleton-glebe-lucan-co-dublin/4092986",
+  "fetchedAt": "2026-10-05T09:08:01.312Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-shackleton-glebe-shackleton-glebe-lucan-co-dublin/4092986",
+  "kind": "listing",
+  "responseSha256": "b5cd87ae4d9db3fc19f9de32d267e296173a4eca4c3ccf8a1f4ca1ab5d1499b9",
+  "files": [
+    {
+      "path": "daft/00409-745fe346662cb531-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4a5e323619d8b95203990c01f495bad4644e3fc0ce7bb47c2bc848338339963d",
+      "bytes": 67996
+    },
+    {
+      "path": "daft/00409-745fe346662cb531-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "71c26c2253bb92927b0906f314884f89ed4e23a1d030e9649091471107fc511f",
+      "bytes": 8121
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

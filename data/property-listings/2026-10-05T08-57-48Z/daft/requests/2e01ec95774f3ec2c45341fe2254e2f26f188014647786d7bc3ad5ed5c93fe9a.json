@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/19-castlegrange-square-clondalkin-dublin-22/6662499",
+  "fetchedAt": "2026-10-05T09:41:06.890Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/19-castlegrange-square-clondalkin-dublin-22/6662499",
+  "kind": "listing",
+  "responseSha256": "5597a023ccb97d44bb1f6eb8497280579e4844cdaaf9e0fe5b62f308041e98e6",
+  "files": [
+    {
+      "path": "daft/01731-2e01ec95774f3ec2-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "28c2f17032d8cbbacb3d7c1fb814efc262da8970957cf0f3828453d04739a154",
+      "bytes": 76959
+    },
+    {
+      "path": "daft/01731-2e01ec95774f3ec2-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "0ce9cc354ee92e8e0e6406b92c4624897bbe7becea8ae2fe5fb40abf690d3f59",
+      "bytes": 8060
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

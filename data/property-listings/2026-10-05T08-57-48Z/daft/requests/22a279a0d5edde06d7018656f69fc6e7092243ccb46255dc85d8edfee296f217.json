@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/8-fernleigh-court-carpenterstown-dublin-15/6665933",
+  "fetchedAt": "2026-10-05T09:37:57.656Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/8-fernleigh-court-carpenterstown-dublin-15/6665933",
+  "kind": "listing",
+  "responseSha256": "75ef786592a272aa157d36dc987e0368422078c9bd5563c482dba25fc97193e2",
+  "files": [
+    {
+      "path": "daft/01605-22a279a0d5edde06-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "6e667d642bc3b9706644486d1de75b03bd9c22b223828539dd8b9c515f4e210e",
+      "bytes": 65365
+    },
+    {
+      "path": "daft/01605-22a279a0d5edde06-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e47f9cbe59e042c98f2051db3ed1b227091f7521e4f8121c365c61290da65e9f",
+      "bytes": 8216
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

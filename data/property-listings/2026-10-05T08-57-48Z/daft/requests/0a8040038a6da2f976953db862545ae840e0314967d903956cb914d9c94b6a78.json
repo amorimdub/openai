@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/32-elton-court-castlepark-road-dalkey-co-dublin/6675403",
+  "fetchedAt": "2026-10-05T09:48:03.087Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/32-elton-court-castlepark-road-dalkey-co-dublin/6675403",
+  "kind": "listing",
+  "responseSha256": "05128d20cc177a58280d07512901bb856d5bb5cdb287a6fba12e82b73479ff8e",
+  "files": [
+    {
+      "path": "daft/02008-0a8040038a6da2f9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "92f7f7e7e36c1ab5508cd625b8539f135cb8d0e5e33f2078f16c3decbec112c7",
+      "bytes": 36629
+    },
+    {
+      "path": "daft/02008-0a8040038a6da2f9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "93d93440bde6e3251ca40e4111ee1ec8c376ad0c5506efdfc60907a0f4ef364a",
+      "bytes": 8114
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

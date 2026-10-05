@@ -1,0 +1,649 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "1 gateway place ballymun dublin 11",
+    "GroupId": 317004,
+    "Address": "1 Gateway Place",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_l.png",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_x.png",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_l.png",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/50279cd8-ffcb-4cc3-bf7f-9ff5e835e923_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/6ddc5934-aa86-4964-aae6-fbcb5b89b1f0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/45a71593-9015-4669-a2fd-3d1ecc942fee_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5c7f972b-0839-43b1-9fe0-0f550845d6fc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/a05e4b78-6520-49cc-b21b-42a4a9b02a69_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/78bdb37b-18b7-4fc5-9db6-e15f6f17d4fc_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ae177c13-ffcf-401b-b34e-edf88d6194ed_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/f8a79876-ecbd-46c9-acf3-86341910a919_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/25816461-fb4a-4529-af90-7bf78ad34086_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a08a3dc-5365-4cbb-94f0-ed43ca9a008f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/48843900-f90f-4317-af87-afd115e8ef5f_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ed88dd3d-cc38-4a89-9468-5db12fccf519_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/c5415196-dc22-4c55-aedc-ee0550a317da_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a0059f0-f103-4367-b657-6c38903885ef_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/d7301e9c-ff50-427c-99c7-4d1a58c3821e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5ecbf4dd-9d54-447b-b200-d107c5789018_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 2,
+    "MinSize": 89,
+    "MaxSize": 89,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€395,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "89",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5004179,
+        "DisplayAddress": "1 Gateway Place, Ballymun, Dublin 11",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "bbf49aef-06a5-4786-979c-c0a1ea146797",
+              "Filename": "1b1df760-698f-4907-9943-447128454c83.png",
+              "Caption": "1 gateway main photo.png",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "39dc103c-3b58-420f-bfe2-32db70547853",
+              "Filename": "50279cd8-ffcb-4cc3-bf7f-9ff5e835e923.jpg",
+              "Caption": "7N9A2117.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cb8699ac-7a71-455e-802f-09af90ff4d25",
+              "Filename": "6ddc5934-aa86-4964-aae6-fbcb5b89b1f0.jpg",
+              "Caption": "7N9A2093.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "681328b0-75b9-4141-9cb0-0f43d7db6756",
+              "Filename": "45a71593-9015-4669-a2fd-3d1ecc942fee.jpg",
+              "Caption": "7N9A2072.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d3b252e4-8c9f-4216-a9e2-16b3e0587f9f",
+              "Filename": "5c7f972b-0839-43b1-9fe0-0f550845d6fc.jpg",
+              "Caption": "7N9A2069.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9c17d14a-1b59-415c-a087-27b32245a68d",
+              "Filename": "a05e4b78-6520-49cc-b21b-42a4a9b02a69.jpg",
+              "Caption": "7N9A2075.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5eef08b3-7d62-43b5-bceb-cebb129d6758",
+              "Filename": "78bdb37b-18b7-4fc5-9db6-e15f6f17d4fc.jpg",
+              "Caption": "7N9A2078.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eb98cb8f-44f5-4669-98da-09af08705b85",
+              "Filename": "ae177c13-ffcf-401b-b34e-edf88d6194ed.jpg",
+              "Caption": "7N9A2087.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e10af072-f5e8-45e0-a469-9853987c7b9e",
+              "Filename": "f8a79876-ecbd-46c9-acf3-86341910a919.jpg",
+              "Caption": "7N9A2090.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "39a7c5da-ca6a-4cc6-81dc-61d86220eff7",
+              "Filename": "25816461-fb4a-4529-af90-7bf78ad34086.jpg",
+              "Caption": "7N9A2084.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7f2fd596-41f9-4a4c-9a1f-471433b696d1",
+              "Filename": "7a08a3dc-5365-4cbb-94f0-ed43ca9a008f.jpg",
+              "Caption": "7N9A2111.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b1193c3a-969d-4721-a1e6-f8d57c84ec90",
+              "Filename": "48843900-f90f-4317-af87-afd115e8ef5f.jpg",
+              "Caption": "7N9A2105.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "78b9c116-474c-4580-a611-23cbe2cf5a4f",
+              "Filename": "ed88dd3d-cc38-4a89-9468-5db12fccf519.jpg",
+              "Caption": "7N9A2096.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4771bd13-2ed2-4525-a780-ccdf19b54c0b",
+              "Filename": "c5415196-dc22-4c55-aedc-ee0550a317da.jpg",
+              "Caption": "7N9A2099.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f5e827d2-def0-48f1-9db7-9529c1709098",
+              "Filename": "7a0059f0-f103-4367-b657-6c38903885ef.jpg",
+              "Caption": "7N9A2102.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "94d66fab-0e2e-4a42-b84d-890003745f79",
+              "Filename": "d7301e9c-ff50-427c-99c7-4d1a58c3821e.jpg",
+              "Caption": "7N9A2108.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8f9230ca-3c81-4e15-a32f-717abd506456",
+              "Filename": "5ecbf4dd-9d54-447b-b200-d107c5789018.jpg",
+              "Caption": "Floor-Plan.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "80a52de66e6949af8a2f2c281669a9c7",
+          "OriginalImagesSuffix": "80a52",
+          "MainPhoto": {
+            "Identifier": "bbf49aef-06a5-4786-979c-c0a1ea146797",
+            "Filename": "1b1df760-698f-4907-9943-447128454c83.png",
+            "Caption": "1 gateway main photo.png",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_l.png",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Smith & Butler Estates are pleased to introduce this impressive three-bedroom, two-bathroom detached property in the highly convenient Gateway development to the residential market.\r\n\r\nThe accommodation is bright and well-proportioned throughout the property. The ground floor comprises a welcoming foyer with polished floor tiles that leads to an open-plan living and dining area, as well as a standalone ground-floor bathroom. To the rear of the foyer layout, the separate kitchen is fitted with a dark countertop and crisp white subway tiling, alongside an excellent range of stylish grey Shaker-style units. The main living space provides direct access to a large, fully brick paved rear yard via expansive double glass doors. Upstairs, the layout transitions via a carpeted staircase and landing into three comfortable double bedrooms, each finished with soft carpeting and neutral wall tones. The upper level is completed with a second modern family bathroom suite, featuring white subway wall tiling, elegant floor tiles, and a glass shower enclosure. \r\n\r\nAnother standout feature is the exceptionally large, high-ceilinged attic space offering massive potential for a loft conversion to create additional bedrooms or living areas (Subject to Planning Permission).\r\n\r\nThe location is exceptionally well serviced by local amenities, with a fitness centre directly across the road offering a gym, sauna, steam room, and a wide range of fitness classes. The area also benefits from excellent connectivity, with easy access to the M50, approximately 21 minutes by car to the city centre, and around 45 minutes via public transport, with a number of bus routes just a short stroll away.\r\n\r\nThose with an eye to the future will also appreciate that a Dublin MetroLink station is planned within approximately a 4 minute walk of the property, further enhancing the area's long-term connectivity and appeal.\r\n\r\nPresented in immaculate decorative condition throughout, this property offers a fantastic opportunity to acquire a stylish home with its own private entrance and excellent outdoor space, ideal for first time buyers, downsizers, or investors alike."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "Foyer: 3.98m x 1.58m a welcoming entrance hallway with tilled flooring, pendant lighting and carpeted staircase leading to the first floor.\r\n\r\nDining Area: 3.29m x 2.01m A warm open plan area ideal for dining and entertaining. Complete with laminate wood flooring, pendant lighting and rear garden access.\r\n\r\nLiving Room: 3.29m x 3.95m  A warm and spacious open plan area ideal for relaxing and entertaining. Complete with laminate wood flooring and pendant lighting.\r\n\r\nKitchen: 3.80m x 2.43m A modern fully fitted kitchen with integrated appliances such as oven and hob. Complete with tilled flooring and splashback, shaker-style units and pendant lighting.\r\n\r\nBathroom (downstairs): 1.99m x 2.73m A convenient downstairs bathroom with walk in shower, tilled flooring, spotlighting and tilled splashback in shower and above sink.\r\n\r\nLaundry: 1.94m x 0.86m A convenient utility room ideal for laundry and storage.\r\n\r\nHallway (Upstairs): 1.98m x 3.33m with carpeted flooring, pendant lighting and attic access via step ladder and trap door.\r\n\r\nPrimary Bedroom: 3.29m x 3.70m A comfortable master-bedroom with fitted wardrobes, carpeted flooring, pendant lighting, curtain with rail and roller blinds.\r\n\r\nBedroom: 3.29m x 2.15m A comfortable bedroom with carpeted flooring, built in wardrobes, curtain with rail and roller blinds and pendant lighting.\r\n\r\nBedroom: 3.80m x 2.43m A comfortable bedroom with built in wardrobes, carpeted flooring, built in wardrobes, curtain with rail and roller blinds and pendant lighting.\r\n\r\nBathroom (upstairs): 1.99m x 2.07m a convenient family bathroom with walk in shower, tilled flooring and splashback, wall mounted mirror and pendant lighting.\r\n\r\nTotal: 89 SqM - 958 SqFt"
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Open plan living space\r\nExcellent transport links\r\nGas central heating\r\nFully fitted modern kitchen\r\nWest facing garden\r\nLocal amenities nearby\r\nFitted wardrobes\r\nElegant interior design\r\nLarge attic space with conversion potential subject to planning"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C1"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Viewings are strictly by appointment only via the local agents Smith & Butler Estates on 018665600."
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 600366,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-04T12:34:31.0130000+01:00",
+    "ModifiedOnDate": "2026-06-11T16:09:52.1030000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-11T16:05:18.9130000+01:00",
+    "RefreshedOn": "2026-06-11T16:05:18.9130000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€395,000",
+    "BathString": "2 baths",
+    "AuctionList": [],
+    "PropertyId": 5004179,
+    "BedsString": "3 beds",
+    "SizeStringMeters": 89,
+    "DisplayAddress": "1 Gateway Place, Ballymun, Dublin 11",
+    "Eircode": "D11E102",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 1452,
+    "RegionName": "Dublin 9",
+    "LocalityId": 1264,
+    "LocalityName": "Ballymun",
+    "Price": {
+      "MinPrice": 395000,
+      "MaxPrice": 395000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_l.png",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_t.png",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/1b1df760-698f-4907-9943-447128454c83_m.png"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/50279cd8-ffcb-4cc3-bf7f-9ff5e835e923_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/50279cd8-ffcb-4cc3-bf7f-9ff5e835e923_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/50279cd8-ffcb-4cc3-bf7f-9ff5e835e923_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/6ddc5934-aa86-4964-aae6-fbcb5b89b1f0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/6ddc5934-aa86-4964-aae6-fbcb5b89b1f0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/6ddc5934-aa86-4964-aae6-fbcb5b89b1f0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/45a71593-9015-4669-a2fd-3d1ecc942fee_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/45a71593-9015-4669-a2fd-3d1ecc942fee_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/45a71593-9015-4669-a2fd-3d1ecc942fee_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5c7f972b-0839-43b1-9fe0-0f550845d6fc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5c7f972b-0839-43b1-9fe0-0f550845d6fc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5c7f972b-0839-43b1-9fe0-0f550845d6fc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/a05e4b78-6520-49cc-b21b-42a4a9b02a69_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/a05e4b78-6520-49cc-b21b-42a4a9b02a69_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/a05e4b78-6520-49cc-b21b-42a4a9b02a69_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/78bdb37b-18b7-4fc5-9db6-e15f6f17d4fc_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/78bdb37b-18b7-4fc5-9db6-e15f6f17d4fc_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/78bdb37b-18b7-4fc5-9db6-e15f6f17d4fc_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ae177c13-ffcf-401b-b34e-edf88d6194ed_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ae177c13-ffcf-401b-b34e-edf88d6194ed_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ae177c13-ffcf-401b-b34e-edf88d6194ed_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/f8a79876-ecbd-46c9-acf3-86341910a919_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/f8a79876-ecbd-46c9-acf3-86341910a919_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/f8a79876-ecbd-46c9-acf3-86341910a919_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/25816461-fb4a-4529-af90-7bf78ad34086_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/25816461-fb4a-4529-af90-7bf78ad34086_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/25816461-fb4a-4529-af90-7bf78ad34086_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a08a3dc-5365-4cbb-94f0-ed43ca9a008f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a08a3dc-5365-4cbb-94f0-ed43ca9a008f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a08a3dc-5365-4cbb-94f0-ed43ca9a008f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/48843900-f90f-4317-af87-afd115e8ef5f_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/48843900-f90f-4317-af87-afd115e8ef5f_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/48843900-f90f-4317-af87-afd115e8ef5f_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ed88dd3d-cc38-4a89-9468-5db12fccf519_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ed88dd3d-cc38-4a89-9468-5db12fccf519_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/ed88dd3d-cc38-4a89-9468-5db12fccf519_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/c5415196-dc22-4c55-aedc-ee0550a317da_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/c5415196-dc22-4c55-aedc-ee0550a317da_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/c5415196-dc22-4c55-aedc-ee0550a317da_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a0059f0-f103-4367-b657-6c38903885ef_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a0059f0-f103-4367-b657-6c38903885ef_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/7a0059f0-f103-4367-b657-6c38903885ef_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/d7301e9c-ff50-427c-99c7-4d1a58c3821e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/d7301e9c-ff50-427c-99c7-4d1a58c3821e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/d7301e9c-ff50-427c-99c7-4d1a58c3821e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5ecbf4dd-9d54-447b-b200-d107c5789018_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5ecbf4dd-9d54-447b-b200-d107c5789018_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/9/7/1/5004179/5ecbf4dd-9d54-447b-b200-d107c5789018_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2659270233476,
+      "latitude": 53.3980302739719
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 17,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 317004,
+    "Name": "Smith & Butler Estates",
+    "DisplayPhone": "01 866 5600",
+    "Email": "info@smithbutlerestates.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "smith-butler-estates",
+    "SeoName": "smith-butler-estates",
+    "Address": "238 Swords Road, Santry, Dublin 9",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/4/0/0/317004/logo.jpg",
+    "SalesLicense": "004200",
+    "RentalLicense": "",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "ballymun/1264",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5024884,
+      "PropertyClassId": 1,
+      "DisplayAddress": "29 The Crescent, Larch Hill, Santry, Dublin 17",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/8/8/5024884/4882d126-55ad-46f0-8434-98bdc6254247_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/29-the-crescent-larch-hill-santry-dublin-17/5024884"
+    },
+    {
+      "PropertyId": 5002250,
+      "PropertyClassId": 1,
+      "DisplayAddress": "9 Hyacinth Street, North Strand, Dublin 3",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/5/2/5002250/65d3865c-1c48-4776-a821-cc72b4cc08ae_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/9-hyacinth-street-north-strand-dublin-3/5002250"
+    },
+    {
+      "PropertyId": 5024814,
+      "PropertyClassId": 1,
+      "DisplayAddress": "24, Saint Canice'S Square, Finglas, Dublin 11",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/1/8/5024814/4e1ecf92-afbe-4554-ae84-3c98b0b43224_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/24-saint-canice-s-square-finglas-dublin-11/5024814"
+    },
+    {
+      "PropertyId": 5024385,
+      "PropertyClassId": 1,
+      "DisplayAddress": "86 Lorcan Grove, Santry, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/3/5024385/82bd21f3-425a-4d4e-ae88-5422327da93c_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/86-lorcan-grove-santry-dublin-9/5024385"
+    },
+    {
+      "PropertyId": 5023833,
+      "PropertyClassId": 1,
+      "DisplayAddress": "27 Shantalla Drive, Beaumont, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/3/8/5023833/e955a6bd-7205-4747-ad3c-ed67759b4bb6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/27-shantalla-drive-beaumont-dublin-9/5023833"
+    },
+    {
+      "PropertyId": 5024412,
+      "PropertyClassId": 1,
+      "DisplayAddress": "35 Glasanaon Road, Finglas, Dublin 11",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/1/4/5024412/4ffbdbe6-8951-446b-a194-354cb7e35829_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/35-glasanaon-road-finglas-dublin-11/5024412"
+    },
+    {
+      "PropertyId": 5024189,
+      "PropertyClassId": 1,
+      "DisplayAddress": "50 Holywell View, Swords, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/8/1/5024189/769bc805-d867-43f5-a5d1-41709547b5ce_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/50-holywell-view-swords-county-dublin/5024189"
+    },
+    {
+      "PropertyId": 5024009,
+      "PropertyClassId": 1,
+      "DisplayAddress": "5 Beresford Drive, Donabate, Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/0/0/5024009/273905e9-c827-41c3-a035-ac1b7d843944_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/5-beresford-drive-donabate-dublin/5024009"
+    },
+    {
+      "PropertyId": 5020943,
+      "PropertyClassId": 1,
+      "DisplayAddress": "218 Larkhill Road, Whitehall, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/4/9/5020943/987cbb5b-2a72-4de2-ba3f-27381f0bee90_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/218-larkhill-road-whitehall-dublin-9/5020943"
+    },
+    {
+      "PropertyId": 5016665,
+      "PropertyClassId": 1,
+      "DisplayAddress": "20 Swords Manor Crescent, Swords, Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/6/6/5016665/8b2b7824-5d88-49f6-aa78-e6699b16ea78_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/20-swords-manor-crescent-swords-dublin/5016665"
+    },
+    {
+      "PropertyId": 5021221,
+      "PropertyClassId": 1,
+      "DisplayAddress": "121 Shanliss Avenue, Santry, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/2/2/5021221/87e65185-638c-4bb0-a533-5c08b372655d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/121-shanliss-avenue-santry-dublin-9/5021221"
+    },
+    {
+      "PropertyId": 5020919,
+      "PropertyClassId": 1,
+      "DisplayAddress": "10 Sandyhill way, Ballymun, Dublin 11",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/1/9/5020919/c12d4378-f3d7-444f-814d-1bcb9ba2f90a_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/10-sandyhill-way-ballymun-dublin-11/5020919"
+    },
+    {
+      "PropertyId": 5020999,
+      "PropertyClassId": 1,
+      "DisplayAddress": "2 Summer Court, Dunboyne, Meath",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/9/9/5020999/027d9c7e-4961-4905-b580-f51a5145cd30_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/2-summer-court-dunboyne-meath/5020999"
+    },
+    {
+      "PropertyId": 5001185,
+      "PropertyClassId": 1,
+      "DisplayAddress": "14 Balgriffin Cottages, Balgriffin, Dublin 13",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/1/5001185/081758a2-596b-47ad-b696-4330bc86eed7_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/14-balgriffin-cottages-balgriffin-dublin-13/5001185"
+    },
+    {
+      "PropertyId": 5019199,
+      "PropertyClassId": 1,
+      "DisplayAddress": "19 The Moorings, Malahide, County Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/9/1/5019199/1876b727-4d03-4111-854d-99caa55d719e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/19-the-moorings-malahide-county-dublin/5019199"
+    },
+    {
+      "PropertyId": 5019116,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Apartment 65, Temple Court,, Santry, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/1/1/5019116/89da5e36-9275-4b48-b7df-e78d655d75a1_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/apartment-65-temple-court-santry-dublin-9/5019116"
+    },
+    {
+      "PropertyId": 5018332,
+      "PropertyClassId": 1,
+      "DisplayAddress": "92 Lorcan Crescent, Santry, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/3/3/5018332/4455efce-8fc6-476e-8054-ed8185e8f8c9_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/92-lorcan-crescent-santry-dublin-9/5018332"
+    },
+    {
+      "PropertyId": 5018798,
+      "PropertyClassId": 1,
+      "DisplayAddress": "68 Ivy Court, Beaumont, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/9/7/5018798/142871b0-069e-43f0-bc5d-fcbfdbd0b50b_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/68-ivy-court-beaumont-dublin-9/5018798"
+    },
+    {
+      "PropertyId": 5018706,
+      "PropertyClassId": 1,
+      "DisplayAddress": "35 Shanowen Drive, Santry, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/0/7/5018706/dad67b01-91cd-44a5-98fc-c5f390c80320_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/35-shanowen-drive-santry-dublin-9/5018706"
+    },
+    {
+      "PropertyId": 5017466,
+      "PropertyClassId": 1,
+      "DisplayAddress": "115 Swords Road, Whitehall, Dublin 9",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/6/4/5017466/2225565f-6861-42a6-8616-ddbd1bd966e3_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/115-swords-road-whitehall-dublin-9/5017466"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/1-gateway-place-ballymun-dublin-11/5004179",
+  "Features": [],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 600366,
+    "Name": "Jamie Taylor",
+    "Phone": "(01) 866 56 00",
+    "Email": "jamie@smithbutlerestates.com",
+    "ImageUrl": "https://photos-a.propertyimages.ie/users/6/6/3/600366/profile.jpg",
+    "Licence": ""
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 317004,
+    "MYH_LocalityID": 1264,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1452,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Garden"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Garden",
+    "MYH_MaxPrice": 400000,
+    "MYH_MinBeds": 3,
+    "MYH_MinEnergyRating": 90,
+    "MYH_MinPrice": 400000,
+    "MYH_MinSize": 89,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5004179,
+    "MYH_PropertyTypeID": 39
+  }
+}

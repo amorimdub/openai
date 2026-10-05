@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/niche-living-rathmines-ardee-road-rathmines-co-dublin/5705487",
+  "fetchedAt": "2026-10-05T08:59:57.334Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/niche-living-rathmines-ardee-road-rathmines-co-dublin/5705487",
+  "kind": "listing",
+  "responseSha256": "3ef6dd2529fe8eda5ea128f461782eeba92c5d6694ed33a97ea6ca86639e3337",
+  "files": [
+    {
+      "path": "daft/00087-0d3c2ad3a0078d01-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "50857425c0612a113c89bfa8be669435f6ee3d4a61382d2be83875e6d0512713",
+      "bytes": 91061
+    },
+    {
+      "path": "daft/00087-0d3c2ad3a0078d01-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "42c83685efe3065118c4b29c514da015d066dda6f160cd812420f39201b9d1d1",
+      "bytes": 8067
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

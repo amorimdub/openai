@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/the-residence-college-square-tara-street-dublin-2/6275312",
+  "fetchedAt": "2026-10-05T09:00:51.393Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/the-residence-college-square-tara-street-dublin-2/6275312",
+  "kind": "listing",
+  "responseSha256": "ea6e629ca4c0d39f14f92385b5cb8b60ec2de01e9e9d1d6da886ac2cf42a7751",
+  "files": [
+    {
+      "path": "daft/00123-6ede57f876186a00-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "dbd83b16f4142639938bb74a79245ea335cd47ca5978b847853f13bd5452e2bd",
+      "bytes": 218222
+    },
+    {
+      "path": "daft/00123-6ede57f876186a00-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76264a1b5b0482507c3886c022f9aa0194d1cb2d8aa18b8fe35fa61a6e483c18",
+      "bytes": 8027
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

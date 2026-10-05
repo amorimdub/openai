@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-brookfield-donnybrook-dublin-4/6685694",
+  "fetchedAt": "2026-10-05T09:35:18.487Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-brookfield-donnybrook-dublin-4/6685694",
+  "kind": "listing",
+  "responseSha256": "1052223d50394416c35146a8df7192bb814042763249a040645eb860abb90f4a",
+  "files": [
+    {
+      "path": "daft/01499-2de525275bd0ed69-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "ea7cfce615eb24f2e5797c1f86a3d10904f3be521cf87ce746b6a77b636d2e09",
+      "bytes": 44682
+    },
+    {
+      "path": "daft/01499-2de525275bd0ed69-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ef8b8e77554d638d8399555eaaf50af0c6455e2c950e57ed195507dc3a89f549",
+      "bytes": 8073
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

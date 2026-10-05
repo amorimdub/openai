@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-11-cro-ige-dublin-road-athlone-co-westmeath/6683520",
+  "fetchedAt": "2026-10-05T09:49:03.179Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-11-cro-ige-dublin-road-athlone-co-westmeath/6683520",
+  "kind": "listing",
+  "responseSha256": "a11475863c2dffe7910f5c91a7ab3fea4e655729c96105cf6e7df096f58ffbee",
+  "files": [
+    {
+      "path": "daft/02048-cdec1836fdd24358-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cb11d6e996502d7e77a2b191544d6b445362797dadf9cbf1453fcb32a9c38e13",
+      "bytes": 11345
+    },
+    {
+      "path": "daft/02048-cdec1836fdd24358-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "94db0750d736a4a661c98e760b334ac9e9422ff4d4547587de8561d32cb7f01b",
+      "bytes": 8153
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

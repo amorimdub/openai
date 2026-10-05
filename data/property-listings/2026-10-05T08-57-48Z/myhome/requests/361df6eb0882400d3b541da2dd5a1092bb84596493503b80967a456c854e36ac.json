@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=360",
+  "fetchedAt": "2026-10-05T13:19:56.203Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=360",
+  "kind": "search",
+  "responseSha256": "460070118a6999b34b3ba56459ae34c047060eb742bc97f199ed89ffd5744d56",
+  "files": [
+    {
+      "path": "myhome/07929-361df6eb0882400d-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=360\"].SearchResults",
+      "sha256": "41394e8caf5ce135b50e1f3c2c708885c4dc6847a6237984e9a21c13526bcee5",
+      "bytes": 127798
+    },
+    {
+      "path": "myhome/07929-361df6eb0882400d-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=360\"] (paging fields)",
+      "sha256": "85518c7fb9a04f718f24d125cceab11c39bb03302af75a6dbefad116778aa577",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/23-convent-st-listowel-co-kerry/5019163",
+    "https://www.myhome.ie/residential/brochure/killaveenogue-drinagh-west-cork/5006506",
+    "https://www.myhome.ie/residential/brochure/3-fana-an-oir-scariff-county-clare/5019162",
+    "https://www.myhome.ie/residential/brochure/3-coill-fuinseoige-st-conlan-s-road-nenagh-co-tipperary/5019160",
+    "https://www.myhome.ie/residential/brochure/4-newhaven-court-balbriggan-county-dublin/5019159",
+    "https://www.myhome.ie/residential/brochure/rusheenamanagh-carna-galway/4648416",
+    "https://www.myhome.ie/residential/brochure/27-north-street-ongar-dublin-15/4976606",
+    "https://www.myhome.ie/residential/brochure/71-north-street-swords-county-dublin/4986082",
+    "https://www.myhome.ie/residential/brochure/ballybetagh-house-kilternan-dublin-18/4990340",
+    "https://www.myhome.ie/residential/brochure/swan-house-dromore-old-kenmare-co-kerry/5001797",
+    "https://www.myhome.ie/residential/brochure/8-the-coachyard-balrothery-county-dublin/5002056",
+    "https://www.myhome.ie/residential/brochure/the-old-schoolhouse-inishnee-roundstone-galway/4599759",
+    "https://www.myhome.ie/residential/brochure/rossmore-lodge-donegal-town-co-donegal/4734413",
+    "https://www.myhome.ie/residential/brochure/rathfeigh-navan-co-meath/5011575",
+    "https://www.myhome.ie/residential/brochure/cnoc-na-sonas-ballycurrin-demesne-ower-headford-galway/5006836",
+    "https://www.myhome.ie/residential/brochure/cragleigh-leopardstown-road-leopardstown-dublin-18/5009268",
+    "https://www.myhome.ie/residential/brochure/32-frankfort-avenue-rathgar-dublin-6/4939179",
+    "https://www.myhome.ie/residential/brochure/marmion-walk-clane-co-kildare-4-bedroom-semi-detached/4941725",
+    "https://www.myhome.ie/residential/brochure/14-rossaun-house-seven-oaks-purser-gardens-rathmines-dublin-6/4834529",
+    "https://www.myhome.ie/residential/brochure/linnaea-king-edward-road-bray-co-wicklow/5005922"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=361",
+  "paginationLimited": false
+}

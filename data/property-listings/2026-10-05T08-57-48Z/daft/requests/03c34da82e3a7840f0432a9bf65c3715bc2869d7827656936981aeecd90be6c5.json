@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/32-latchford-close-castaheany-ongar-dublin-15/6683927",
+  "fetchedAt": "2026-10-05T09:45:52.355Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/32-latchford-close-castaheany-ongar-dublin-15/6683927",
+  "kind": "listing",
+  "responseSha256": "7503931148be3f2db5f289936b6d574dd669a9507889e78fd430685d89135866",
+  "files": [
+    {
+      "path": "daft/01921-03c34da82e3a7840-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "d8a1c61dcab408bc0a48709562b1e4e30e0860626acb66cfb1d11d848d2bfa85",
+      "bytes": 23498
+    },
+    {
+      "path": "daft/01921-03c34da82e3a7840-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "dc4534711836d9d2b74516c249bac9b5e58391e23e6be6e7eee04e731bee5c18",
+      "bytes": 8119
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

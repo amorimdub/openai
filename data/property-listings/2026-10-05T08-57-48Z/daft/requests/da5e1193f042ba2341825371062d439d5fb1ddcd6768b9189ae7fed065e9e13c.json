@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/36-woodpark-letterkenny-co-donegal/6682721",
+  "fetchedAt": "2026-10-05T09:53:14.055Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/36-woodpark-letterkenny-co-donegal/6682721",
+  "kind": "listing",
+  "responseSha256": "7b42df12a5db7fd626c261d5ad69e77e234bdbabf8d57b02dd7de710d76feead",
+  "files": [
+    {
+      "path": "daft/02215-da5e1193f042ba23-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "544ad1942dc23f3790794ef3f4da09eb9516104edc811044cc4fe4d0f565ec7f",
+      "bytes": 47973
+    },
+    {
+      "path": "daft/02215-da5e1193f042ba23-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "5dce0fe9ecf78c7b89969373b83e9dae30a1cfeacde90a18f02799bef2aff5c5",
+      "bytes": 8120
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

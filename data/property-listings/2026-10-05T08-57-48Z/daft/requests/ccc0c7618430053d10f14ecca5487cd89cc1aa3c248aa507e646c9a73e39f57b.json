@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/20-the-oaks-rockfield-dundrum-dublin-16/6670148",
+  "fetchedAt": "2026-10-05T09:21:00.787Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/20-the-oaks-rockfield-dundrum-dublin-16/6670148",
+  "kind": "listing",
+  "responseSha256": "c6ba2df067048cba632a936e4b35b407a320880994b56dad35d75c1969c5714e",
+  "files": [
+    {
+      "path": "daft/00928-ccc0c7618430053d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8a3f87c51cf76b1ebe74763822ea4d93ad68abd03d7af9029e2842dd7f832a27",
+      "bytes": 27901
+    },
+    {
+      "path": "daft/00928-ccc0c7618430053d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "04225632d2da66a0b8708a19755d085f8f09e3a816733f82c701ab0c40387ecd",
+      "bytes": 8066
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

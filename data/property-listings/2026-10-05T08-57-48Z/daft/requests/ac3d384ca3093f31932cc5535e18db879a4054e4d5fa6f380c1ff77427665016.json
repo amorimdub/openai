@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/9-country-meadows-tuam-co-galway/6622514",
+  "fetchedAt": "2026-10-05T09:35:59.031Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/9-country-meadows-tuam-co-galway/6622514",
+  "kind": "listing",
+  "responseSha256": "07d7fa057050b36a2bd818b152311436b395a199bf03fc7982ea5a66eaf30ccc",
+  "files": [
+    {
+      "path": "daft/01526-ac3d384ca3093f31-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8acf5bd3947f79c6afc16588d2d563a4ae3c1ba4c5debe67fe8d14402ed1afcb",
+      "bytes": 56720
+    },
+    {
+      "path": "daft/01526-ac3d384ca3093f31-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b4cdda59c4b6a7acb4f5f694a7c216c906dc2b43c0bd014877946f9281b7181c",
+      "bytes": 8045
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

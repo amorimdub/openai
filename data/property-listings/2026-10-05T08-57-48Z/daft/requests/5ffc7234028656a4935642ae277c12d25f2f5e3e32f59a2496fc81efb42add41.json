@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/coill-rua-dohassan-cootehill-co-cavan/6684995",
+  "fetchedAt": "2026-10-05T09:39:32.259Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/coill-rua-dohassan-cootehill-co-cavan/6684995",
+  "kind": "listing",
+  "responseSha256": "2fd274adc5a9859c7936aaa9b312cf27425d34885813c6cd28f834c13c110e01",
+  "files": [
+    {
+      "path": "daft/01668-5ffc7234028656a4-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c99de9b971b7e9a42423b26b8aecffa07cbf4da59786bc654205b88e255ba363",
+      "bytes": 39066
+    },
+    {
+      "path": "daft/01668-5ffc7234028656a4-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7ddd3148bc595447511db4ae71ccb2ec9eac81286c3331cc312efc13225c4a72",
+      "bytes": 8158
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

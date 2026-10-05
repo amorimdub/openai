@@ -1,0 +1,418 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "12 lambourne village clontarf dublin 3",
+    "GroupId": 10961,
+    "Address": "12 Lambourne Village",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/94d3c83c-e876-428c-ad16-2b0f88c535d9_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/94d3c83c-e876-428c-ad16-2b0f88c535d9_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/94d3c83c-e876-428c-ad16-2b0f88c535d9_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/f2a19c37-bb64-4063-bc26-214393ad6c7b_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/cdee381d-f62d-4290-9c2e-441cf8f1a164_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/18788402-eae6-4e3d-8ba8-cb178b7f5f43_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/710a3b95-6d43-4d1f-8930-57cb62ea5682_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/47b7ddff-41cc-47b2-a77f-679087afbe18_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/8634f09e-f26b-4761-9226-01d53daa5bbe_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/dbab9e59-882f-4104-a215-22ef8975021e_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/0fa8eb46-0498-4047-ad4e-6ba4fd5f9f3d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/fa88a764-7f15-4888-8352-fd13daa20e15_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/e31994ca-f2eb-447d-83ae-d6871536db3d_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/63432b54-423a-4477-a9ee-e717428142be_l.jpg",
+      "https://photos-a.propertyimages.ie/media/7/0/0/4947007/1c409feb-4d22-46c0-8e4e-d47b83d7736a_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 59,
+    "MaxSize": 59,
+    "BerRating": "C1",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 24,
+        "Name": "Email Only",
+        "CreatedOn": "2018-09-11T10:19:36.4900000+01:00",
+        "IconName": "myh-icon-email",
+        "IsRequirement": false
+      },
+      {
+        "Id": 25,
+        "Name": "First Letting",
+        "CreatedOn": "2018-09-11T10:19:48.4300000+01:00",
+        "IconName": "myh-icon-first-letting",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "** 1ST LETTING**  PLEASE REPLY TO THIS ADVERT BY EMAIL ONLY STATING YOUR REQUIREMENTS - NO OFFICE CALLS\r\n\r\nDowling Property is delighted to present to the letting market, this beautiful 2 bedroom home in Clontarf. Located in the leafy suburb of Clontarf the accommodation comprises of storm porch which leads to the open plan living/dining room with marble fireplace and kitchen to the front of the property with floor to ceiling cream gloss cabinets. There is plenty of daylight flooding in thanks to glazed roof. From the living room, there is direct access to a private garden with stone brick shed and has a feeling of an oasis.\r\n\r\n** STRICTLY NO PETS AND NO SMOKING POLICY**\r\n\r\nUpstairs, there are two generous sized bedrooms - master bedroom facing front of the property overlooking mature green area to the front, followed by family bathroom and second bedroom which is to the rear of the property and can be used as an office.\r\n\r\nLambourne Village is located within walking distance of Clontarf Promenade and all local amenities including sports facilities, a wide variety of primary and secondary schools, boutique cafes and restaurants, Clontarf Castle and St Anne's Park are close by. Clontarf DART station is also within easy reach and the property is well serviced by public transport links and there is easy access to Dublin City Centre, the M1 & M50 motorways and Dublin Airport."
+      },
+      {
+        "ContentType": "Accommodation",
+        "SortOrder": 1,
+        "Content": "The accommodation which is bright and airy and laid over two floors comprises of a storm porch, kitchen/dining room and living room. Upstairs, there are 2 good size bedrooms and a family bathroom."
+      },
+      {
+        "ContentType": "Features",
+        "SortOrder": 3,
+        "Content": "Highly Sought After Area\r\nFew Minutes Walk to Clontarf Walkway/Cycleway To The City Centre\r\nBER C3\r\nWalking Distance To All The Amenities\r\nExcellent Decorative Order\r\nBeautiful Rear Private Garden\r\nElectric Heating"
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C1"
+      },
+      {
+        "ContentType": "Directions",
+        "SortOrder": 5,
+        "Content": "D03W019"
+      },
+      {
+        "ContentType": "Viewing Details",
+        "SortOrder": 6,
+        "Content": "Strictly By Appointment Only."
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 674029,
+    "MinEnergyRating": 90,
+    "MaxEnergyRating": 90,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2025-07-28T16:26:03.8070000+01:00",
+    "ModifiedOnDate": "2026-09-24T15:28:23.8370000+01:00",
+    "IsPremiumAd": false,
+    "InstructedOn": "2025-08-14T10:33:54.6970000+01:00",
+    "ActivatedOn": "2025-08-14T12:50:50.4300000+01:00",
+    "ValuedOn": "2025-07-30T16:00:00.0000000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,700 / month",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 4947007,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 59,
+    "DisplayAddress": "12 Lambourne Village, Clontarf, Dublin 3",
+    "Eircode": "D03W019",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Terraced House",
+    "PropertyTypeId": 75,
+    "RegionId": 1443,
+    "RegionName": "Dublin 3",
+    "LocalityId": 1280,
+    "LocalityName": "Clontarf",
+    "Price": {
+      "MinRentalPrice": 2700,
+      "MaxRentalPrice": 2700,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2700,
+      "ShowPrice": true,
+      "AvailableOn": "2025-09-22T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2700,
+      "MaxMonthlyRentalPrice": 2700
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/94d3c83c-e876-428c-ad16-2b0f88c535d9_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/94d3c83c-e876-428c-ad16-2b0f88c535d9_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/94d3c83c-e876-428c-ad16-2b0f88c535d9_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/f2a19c37-bb64-4063-bc26-214393ad6c7b_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/f2a19c37-bb64-4063-bc26-214393ad6c7b_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/f2a19c37-bb64-4063-bc26-214393ad6c7b_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/cdee381d-f62d-4290-9c2e-441cf8f1a164_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/cdee381d-f62d-4290-9c2e-441cf8f1a164_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/cdee381d-f62d-4290-9c2e-441cf8f1a164_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/18788402-eae6-4e3d-8ba8-cb178b7f5f43_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/18788402-eae6-4e3d-8ba8-cb178b7f5f43_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/18788402-eae6-4e3d-8ba8-cb178b7f5f43_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/710a3b95-6d43-4d1f-8930-57cb62ea5682_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/710a3b95-6d43-4d1f-8930-57cb62ea5682_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/710a3b95-6d43-4d1f-8930-57cb62ea5682_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/47b7ddff-41cc-47b2-a77f-679087afbe18_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/47b7ddff-41cc-47b2-a77f-679087afbe18_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/47b7ddff-41cc-47b2-a77f-679087afbe18_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/8634f09e-f26b-4761-9226-01d53daa5bbe_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/8634f09e-f26b-4761-9226-01d53daa5bbe_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/8634f09e-f26b-4761-9226-01d53daa5bbe_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/dbab9e59-882f-4104-a215-22ef8975021e_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/dbab9e59-882f-4104-a215-22ef8975021e_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/dbab9e59-882f-4104-a215-22ef8975021e_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/0fa8eb46-0498-4047-ad4e-6ba4fd5f9f3d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/0fa8eb46-0498-4047-ad4e-6ba4fd5f9f3d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/0fa8eb46-0498-4047-ad4e-6ba4fd5f9f3d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/fa88a764-7f15-4888-8352-fd13daa20e15_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/fa88a764-7f15-4888-8352-fd13daa20e15_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/fa88a764-7f15-4888-8352-fd13daa20e15_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/e31994ca-f2eb-447d-83ae-d6871536db3d_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/e31994ca-f2eb-447d-83ae-d6871536db3d_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/e31994ca-f2eb-447d-83ae-d6871536db3d_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/63432b54-423a-4477-a9ee-e717428142be_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/63432b54-423a-4477-a9ee-e717428142be_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/63432b54-423a-4477-a9ee-e717428142be_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/1c409feb-4d22-46c0-8e4e-d47b83d7736a_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/1c409feb-4d22-46c0-8e4e-d47b83d7736a_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/7/0/0/4947007/1c409feb-4d22-46c0-8e4e-d47b83d7736a_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.20818297054402,
+      "latitude": 53.364177405502
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 13,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 10961,
+    "Name": "Dowling Property",
+    "DisplayPhone": "045 482 189",
+    "Email": "info@dowlingproperty.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "dowling-property",
+    "SeoName": "dowling-property",
+    "Address": "Main Street, Kilcullen, Co. Kildare",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/1/6/9/10961/logo.jpg",
+    "SalesLicense": "002523",
+    "RentalLicense": "002523",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "clontarf/1280",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/12-lambourne-village-clontarf-dublin-3/4947007",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Washing Machine",
+    "Dryer",
+    "Dishwasher",
+    "Microwave",
+    "Cable TV",
+    "References Required",
+    "Walk-in Shower"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 674029,
+    "Name": "Baldoyle",
+    "Phone": "01 2118222",
+    "Email": "baldoyle@dowlingproperty.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 10961,
+    "MYH_LocalityID": 1280,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1443,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Garden",
+      "References Required",
+      "Walk In Shower",
+      "Full Furnished",
+      "Dishwasher",
+      "Email Only",
+      "First Letting"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Garden,References Required,Walk In Shower,Full Furnished,Dishwasher,Email Only,First Letting",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 90,
+    "MYH_MinSize": 59,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 4947007,
+    "MYH_PropertyTypeID": 75
+  }
+}

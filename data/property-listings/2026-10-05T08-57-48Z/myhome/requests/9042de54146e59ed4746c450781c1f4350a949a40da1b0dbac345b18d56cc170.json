@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=275",
+  "fetchedAt": "2026-10-05T12:36:39.415Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=275",
+  "kind": "search",
+  "responseSha256": "2549737af47e1e459d546850d7db41284f432b875d052a8ac22c7f363b0f2cbd",
+  "files": [
+    {
+      "path": "myhome/06206-9042de54146e59ed-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=275\"].SearchResults",
+      "sha256": "ff6117bbd2eca8536b19f656961ce9659a478bcfec3bbec43c0071376651a8ba",
+      "bytes": 110740
+    },
+    {
+      "path": "myhome/06206-9042de54146e59ed-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=275\"] (paging fields)",
+      "sha256": "f88886b675b88ccdadbbeeda90f4fb3266307fe87e546ec1724688f9195c3ad3",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-fortunes-lawn-citywest-drive-citywest-co-dublin/5025245",
+    "https://www.myhome.ie/residential/brochure/old-road-ballylanders-limerick/5025240",
+    "https://www.myhome.ie/residential/brochure/gortanure-dunmanway-west-cork/5006483",
+    "https://www.myhome.ie/residential/brochure/27a-greenmount-lawns-terenure-dublin-6/5025236",
+    "https://www.myhome.ie/residential/brochure/14-dunard-craughwell-galway/5025225",
+    "https://www.myhome.ie/residential/brochure/5-saggart-lakes-saggart-county-dublin/5025203",
+    "https://www.myhome.ie/residential/brochure/9-gulistan-place-rathmines-dublin-6/5014952",
+    "https://www.myhome.ie/residential/brochure/mill-road-dripsey-cork/5014916",
+    "https://www.myhome.ie/residential/brochure/5-nutley-park-donnybrook-dublin-4/5021949",
+    "https://www.myhome.ie/residential/brochure/26-belmont-avenue-donnybrook-dublin-4/4981894",
+    "https://www.myhome.ie/residential/brochure/asgard-8-father-twomey-s-road-springfield-dungarvan-waterford/5025229",
+    "https://www.myhome.ie/residential/brochure/23-hanover-court-grand-canal-dk-dublin-2/5007945",
+    "https://www.myhome.ie/residential/brochure/1-church-view-drive-drumlish-longford/5025217",
+    "https://www.myhome.ie/residential/brochure/48-sweetman-house-baldoyle-dublin-13/4994544",
+    "https://www.myhome.ie/residential/brochure/stone-lodge-killinane-kilcullen-co-kildare/5025222",
+    "https://www.myhome.ie/residential/brochure/79-the-forum-ballymoss-road-sandyford-dublin-18/5025212",
+    "https://www.myhome.ie/residential/brochure/2-bedroom-2-bath-show-unit-with-all-contents-harbour-gate-naas-kildare/4962933",
+    "https://www.myhome.ie/residential/brochure/maresa-5-sallynoggin-road-lower-sallynoggin-co-dublin/5004307",
+    "https://www.myhome.ie/residential/brochure/site-at-rear-of-39-tritonville-road-co-dublin/5025215",
+    "https://www.myhome.ie/residential/brochure/4-kilkieran-court-cabra-dublin-7/5025214"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=276",
+  "paginationLimited": false
+}

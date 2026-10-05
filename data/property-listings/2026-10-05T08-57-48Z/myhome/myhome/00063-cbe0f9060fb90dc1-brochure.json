@@ -1,0 +1,291 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "43 georges quay  dublin 2 dublin 2 dublin",
+    "GroupId": 388273,
+    "Address": "43 Georges Quay  Dublin 2",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/eb66ef89-2f65-45d9-b19e-19fe3dea2c36_l.jpeg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/eb66ef89-2f65-45d9-b19e-19fe3dea2c36_x.jpeg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/4/7/7/5028774/eb66ef89-2f65-45d9-b19e-19fe3dea2c36_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/4/7/7/5028774/53fa3103-051c-41f2-8e33-dce4909b8097_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/4/7/7/5028774/4eed3b31-74ca-4650-b6fc-aaac718da63a_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8acdcb30-e441-4999-bbbe-6351b89e53a5_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/4/7/7/5028774/0dfdf699-e3e2-45ee-83b7-fa9774b1ee69_l.jpeg",
+      "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8508ce74-400f-41af-833e-662512f8e65a_l.jpeg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "MinSize": 69,
+    "MaxSize": 69,
+    "BerRating": "C2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "**Available Immediately** **Furnished** Beautiful two double bedroom, one bathroom apartment right in the middle of Dublin city, extending to approx. 69 sqm of accommodation. Accommodation consists of; entrance hall, two double bedrooms, large living / dining room and fully fitted kitchen."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: C2"
+      }
+    ],
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "NegotiatorId": 593704,
+    "MinEnergyRating": 80,
+    "MaxEnergyRating": 80,
+    "BERGrade": "C",
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-09-17T13:07:31.5500000+01:00",
+    "ModifiedOnDate": "2026-09-17T13:08:39.8700000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-09-17T13:08:58.8470000+01:00",
+    "RefreshedOn": "2026-10-05T09:49:36.6930000+01:00",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,700 / month",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 5028774,
+    "BedsString": "2 beds",
+    "SizeStringMeters": 69,
+    "DisplayAddress": "43 Georges Quay  Dublin 2, Dublin 2, Dublin",
+    "Eircode": "",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1265,
+    "RegionName": "Dublin",
+    "LocalityId": 1442,
+    "LocalityName": "Dublin 2",
+    "Price": {
+      "MinRentalPrice": 2700,
+      "MaxRentalPrice": 2700,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2700,
+      "ShowPrice": true,
+      "AvailableOn": "2026-09-17T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2700,
+      "MaxMonthlyRentalPrice": 2700
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/eb66ef89-2f65-45d9-b19e-19fe3dea2c36_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/eb66ef89-2f65-45d9-b19e-19fe3dea2c36_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/eb66ef89-2f65-45d9-b19e-19fe3dea2c36_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/53fa3103-051c-41f2-8e33-dce4909b8097_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/53fa3103-051c-41f2-8e33-dce4909b8097_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/53fa3103-051c-41f2-8e33-dce4909b8097_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/4eed3b31-74ca-4650-b6fc-aaac718da63a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/4eed3b31-74ca-4650-b6fc-aaac718da63a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/4eed3b31-74ca-4650-b6fc-aaac718da63a_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8acdcb30-e441-4999-bbbe-6351b89e53a5_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8acdcb30-e441-4999-bbbe-6351b89e53a5_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8acdcb30-e441-4999-bbbe-6351b89e53a5_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/0dfdf699-e3e2-45ee-83b7-fa9774b1ee69_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/0dfdf699-e3e2-45ee-83b7-fa9774b1ee69_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/0dfdf699-e3e2-45ee-83b7-fa9774b1ee69_m.jpeg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8508ce74-400f-41af-833e-662512f8e65a_l.jpeg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8508ce74-400f-41af-833e-662512f8e65a_t.jpeg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/4/7/7/5028774/8508ce74-400f-41af-833e-662512f8e65a_m.jpeg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.2528818,
+      "latitude": 53.3474361
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 6,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 388273,
+    "Name": "Sherry FitzGerald Lettings Sheehy ",
+    "Email": "myhome@sflettings.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "sherry-fitzgerald-lettings-sheehy",
+    "SeoName": "sherry-fitzgerald-lettings-sheehy",
+    "Address": "9 Priory Office Park, Stillorgan, Co. Dublin",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/3/7/2/388273/logo.jpg",
+    "SalesLicense": "",
+    "RentalLicense": "002016",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "dublin-2/1442",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/43-georges-quay-dublin-2-dublin-2-dublin/5028774",
+  "Features": [
+    "Furnished",
+    "Washing Machine",
+    "Dryer",
+    "Microwave",
+    "Cable TV"
+  ],
+  "VirtualViewings": [],
+  "Negotiator": {
+    "NegotiatorId": 593704,
+    "Name": "Harry Coghlan",
+    "Email": "ifsc@sflettings.ie"
+  },
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": false,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 388273,
+    "MYH_LocalityID": 1442,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1265,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Microwave",
+      "Garden",
+      "Full Furnished"
+    ],
+    "MYH_PropertyFeatureIDListString": "Washing Machine,Dryer,Cable Television,Microwave,Garden,Full Furnished",
+    "MYH_MinBeds": 2,
+    "MYH_MinEnergyRating": 80,
+    "MYH_MinSize": 69,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 5028774,
+    "MYH_PropertyTypeID": 74
+  }
+}

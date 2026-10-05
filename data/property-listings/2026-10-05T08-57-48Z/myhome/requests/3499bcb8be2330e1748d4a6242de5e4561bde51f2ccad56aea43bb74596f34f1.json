@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=187",
+  "fetchedAt": "2026-10-05T11:50:58.820Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=187",
+  "kind": "search",
+  "responseSha256": "fd2934fc69c5051bc80193b5a6f7bdd8df66f59becbf4435928511ec490f82c7",
+  "files": [
+    {
+      "path": "myhome/04383-3499bcb8be2330e1-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=187\"].SearchResults",
+      "sha256": "f4f1d732e5bf54273bbf220f3cedc95bac7aa35f22c8645a92fa30357d607dee",
+      "bytes": 111830
+    },
+    {
+      "path": "myhome/04383-3499bcb8be2330e1-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=187\"] (paging fields)",
+      "sha256": "a3856f7c9fbe0aa6717548a095851f2be6c8557f52b26fbf78243bcd7067f6c8",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/mullenroe-clondrohid-macroom-cork/5011394",
+    "https://www.myhome.ie/residential/brochure/rathinure-glenmore-kilkenny/5027529",
+    "https://www.myhome.ie/residential/brochure/52-sitric-road-stoneybatter-dublin-7/5027976",
+    "https://www.myhome.ie/residential/brochure/4-orchard-hall-hamilton-park-castleknock-dublin-15/5027975",
+    "https://www.myhome.ie/residential/brochure/the-quay-newport-mayo/5027970",
+    "https://www.myhome.ie/residential/brochure/5-coldwater-lakes-saggart-co-dublin/5027974",
+    "https://www.myhome.ie/residential/brochure/33-glencairn-lawn-the-gallops-leopardstown-dublin-18/5011075",
+    "https://www.myhome.ie/residential/brochure/23-beresford-court-donabate-co-dublin/5027968",
+    "https://www.myhome.ie/residential/brochure/98-cedar-square-ridgewood-swords-county-dublin/5027963",
+    "https://www.myhome.ie/residential/brochure/100-kinvara-road-navan-road-dublin-7/5027960",
+    "https://www.myhome.ie/residential/brochure/the-square-balla-mayo/5027962",
+    "https://www.myhome.ie/residential/brochure/180-meadow-grove-dundrum-dublin-16/5027965",
+    "https://www.myhome.ie/residential/brochure/rhanna-cornamucklagh-broadford-naas-co-kildare/5027958",
+    "https://www.myhome.ie/residential/brochure/freynestown-dunlavin-wicklow/5027949",
+    "https://www.myhome.ie/residential/brochure/4-the-old-mill-main-street-naul-co-dublin/5027953",
+    "https://www.myhome.ie/residential/brochure/32-malahide-road-dublin-3-marino-dublin-3/5027498",
+    "https://www.myhome.ie/residential/brochure/18-lake-vale-kilminchy-portlaoise-co-laois/5027952",
+    "https://www.myhome.ie/residential/brochure/5-highfield-crescent-ballincollig-cork/5025342",
+    "https://www.myhome.ie/residential/brochure/7-greenville-avenue-dublin-8/5027948",
+    "https://www.myhome.ie/residential/brochure/main-street-ballylongford-co-kerry/5018855"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=188",
+  "paginationLimited": false
+}

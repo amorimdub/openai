@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-14-lock-house-1-charlemont-row-dublin-charlemont-square-charlemont-street-dublin-2/6160446",
+  "fetchedAt": "2026-10-05T09:10:04.452Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-14-lock-house-1-charlemont-row-dublin-charlemont-square-charlemont-street-dublin-2/6160446",
+  "kind": "listing",
+  "responseSha256": "21d97ea25f8571134e8d7f68a1a33ffb645c76395417709f8174e724f2eba078",
+  "files": [
+    {
+      "path": "daft/00491-f58a2ee198fb99d6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "683e5fefc8c5cd523fe23425dd9929ed7480a39bc84bad4f1519b18ac9aca88b",
+      "bytes": 77574
+    },
+    {
+      "path": "daft/00491-f58a2ee198fb99d6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "76124a53c86ef5424ab9108be926747d90da572a30847fd5f8f56ed8cd94e51e",
+      "bytes": 8060
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

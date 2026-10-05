@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=433",
+  "fetchedAt": "2026-10-05T13:57:28.384Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=433",
+  "kind": "search",
+  "responseSha256": "b8c6441f65c8961861aad11f2e9c93570926dfcb12c706a262aec77a200be626",
+  "files": [
+    {
+      "path": "myhome/09427-afd3330c642891c8-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=433\"].SearchResults",
+      "sha256": "3e236a2b5c4bb545b6d25e4e46e665a5a5cb0fa9a7f8efa8299f3a482f97f7e1",
+      "bytes": 114798
+    },
+    {
+      "path": "myhome/09427-afd3330c642891c8-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=433\"] (paging fields)",
+      "sha256": "2f8407b30f2c8f5f8ade48ad270229f54a775aed6f4df15aeaa78de66fdc8e3c",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/lagile-lodge-lagile-killeagh-co-cork/5010309",
+    "https://www.myhome.ie/residential/brochure/82-the-atrium-roebuck-hill-apartments-clonskeagh-dublin-14/5010478",
+    "https://www.myhome.ie/residential/brochure/ballybrack-waterville-kerry/5010453",
+    "https://www.myhome.ie/residential/brochure/knockrea-cottage-32-old-blackrock-road-blackrock-cork-city/5010462",
+    "https://www.myhome.ie/residential/brochure/kilfinnan-glandore-co-cork/5010461",
+    "https://www.myhome.ie/residential/brochure/c-1-04-acre-site-cloonakilleg-mount-talbot-county-roscommon/5010450",
+    "https://www.myhome.ie/residential/brochure/glenside-lacken-gorey-wexford/5010440",
+    "https://www.myhome.ie/residential/brochure/drumask-castlebar-mayo/5009714",
+    "https://www.myhome.ie/residential/brochure/hillview-house-barniskey-east-avoca-co-wicklow/5010434",
+    "https://www.myhome.ie/residential/brochure/lettergunnet-furbo-spiddal-co-galway/5010430",
+    "https://www.myhome.ie/residential/brochure/9-bayside-park-sutton-dublin-13/5010424",
+    "https://www.myhome.ie/residential/brochure/14-golf-links-road-skerries-dublin/5010398",
+    "https://www.myhome.ie/residential/brochure/apt-47-pier-19-ushers-island-dublin-8/5010408",
+    "https://www.myhome.ie/residential/brochure/10-brandon-park-new-ross-wexford/5010167",
+    "https://www.myhome.ie/residential/brochure/drimcoe-mountcharles-co-donegal/5010403",
+    "https://www.myhome.ie/residential/brochure/st-exup-ry-killegar-enniskerry-co-wicklow/5000497",
+    "https://www.myhome.ie/residential/brochure/4a-belville-mews-stillorgan-road-donnybrook-dublin-4/5010321",
+    "https://www.myhome.ie/residential/brochure/the-quay-ballina-mayo/5010392",
+    "https://www.myhome.ie/residential/brochure/binroe-bruckless-co-donegal/5010394",
+    "https://www.myhome.ie/residential/brochure/12-o-sullivan-avenue-ballybough-ballybough-dublin-3/5010380"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=434",
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-2-loughview-station-road-omeath-dundalk-omeath-co-louth/6682989",
+  "fetchedAt": "2026-10-05T09:17:36.568Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-2-loughview-station-road-omeath-dundalk-omeath-co-louth/6682989",
+  "kind": "listing",
+  "responseSha256": "3f3ae5817131dd2d52f5cbfd1b1ea89ca2666dcba9173f0368e425b810d3fd8a",
+  "files": [
+    {
+      "path": "daft/00792-f1013758c36077ca-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "b9f56681e5d83d9cfe37b0cec6b100911ede63e31e358b90f3d7602727373d99",
+      "bytes": 35158
+    },
+    {
+      "path": "daft/00792-f1013758c36077ca-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4cf8b022209a88fba4b88729e79de823c76c09965490ff4a3ec29c9746fa5715",
+      "bytes": 7971
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

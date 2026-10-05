@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/7-greenville-avenue-dublin-8/6672418",
+  "fetchedAt": "2026-10-05T09:20:27.749Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/7-greenville-avenue-dublin-8/6672418",
+  "kind": "listing",
+  "responseSha256": "e3d1af8e826f93abb68b298e5a50f3e34b2454f917f28adb156af6b60a96a957",
+  "files": [
+    {
+      "path": "daft/00906-59883afc1533248c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "67f1454caec16497e8322b2cd0045580a8318c50661966b422bf7dea2deb809f",
+      "bytes": 38113
+    },
+    {
+      "path": "daft/00906-59883afc1533248c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "81ea03fad338b84f5cba606e2c8b033d7c70f2b76bfbdbb0d91516744331a72a",
+      "bytes": 8118
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

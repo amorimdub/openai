@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/lisbride-lodge-carrowroe-ballymurray-co-roscommon/6684272",
+  "fetchedAt": "2026-10-05T09:43:43.145Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/lisbride-lodge-carrowroe-ballymurray-co-roscommon/6684272",
+  "kind": "listing",
+  "responseSha256": "6988f9595380784e748629102886f8f404e1fb4c05d12c65e5587c1ced6e6f7d",
+  "files": [
+    {
+      "path": "daft/01835-eff856a06f75cf45-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "c24a49788c734dadf1bf0ae011a7396f07aeaa1aa91bd42723ca403e7efb9bf8",
+      "bytes": 51842
+    },
+    {
+      "path": "daft/01835-eff856a06f75cf45-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "a0354b845134d9de48aa4584abcbb653043f1b2f3160210a0e4e7716ef326a4a",
+      "bytes": 8116
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

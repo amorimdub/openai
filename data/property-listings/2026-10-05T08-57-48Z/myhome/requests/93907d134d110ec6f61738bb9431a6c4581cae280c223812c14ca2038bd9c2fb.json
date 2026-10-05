@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=252",
+  "fetchedAt": "2026-10-05T12:24:37.514Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=252",
+  "kind": "search",
+  "responseSha256": "e387df2a7e90ba11649768111f03c4e9c428d43ec246900977724a9afe2bec65",
+  "files": [
+    {
+      "path": "myhome/05726-93907d134d110ec6-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=252\"].SearchResults",
+      "sha256": "4fbd1a17d1b2ec87caaa9345086f813accc60873ef35684110923e1f833050e1",
+      "bytes": 117230
+    },
+    {
+      "path": "myhome/05726-93907d134d110ec6-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=252\"] (paging fields)",
+      "sha256": "7e5c47f95c6886a3e1fd5df640db8bc07f5400f89fd4596356e7aa5ba4d6439f",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/34-sweetmount-park-dundrum-dublin-14/5026025",
+    "https://www.myhome.ie/residential/brochure/5-store-street-tullamore-co-offaly/5026027",
+    "https://www.myhome.ie/residential/brochure/a91-12-nicholas-court-dundalk-co-louth/5026026",
+    "https://www.myhome.ie/residential/brochure/6-hillview-summerhill-county-meath/5026021",
+    "https://www.myhome.ie/residential/brochure/38-tulfarris-holiday-village-blessington-county-wicklow/5026010",
+    "https://www.myhome.ie/residential/brochure/town-centre-development-site-bowers-lane-killarney-co-kerry/5026009",
+    "https://www.myhome.ie/residential/brochure/21-ardcross-court-crosshaven-cork/5025238",
+    "https://www.myhome.ie/residential/brochure/ballinamona-hospital-limerick/5005433",
+    "https://www.myhome.ie/residential/brochure/glenoir-cullen-tipperary/5008572",
+    "https://www.myhome.ie/residential/brochure/1-castlecourt-brickhill-east-cratloe-clare/5006073",
+    "https://www.myhome.ie/residential/brochure/40-the-green-abbey-meadows-ferrybank-waterford/5026006",
+    "https://www.myhome.ie/residential/brochure/70-bow-bridge-place-block-d1-irwan-street-kilmainham-dublin-8/5026004",
+    "https://www.myhome.ie/residential/brochure/14-top-street-caherciveen-kerry/5026005",
+    "https://www.myhome.ie/residential/brochure/4-manor-hill-cork-ballincollig-co-cork/5026007",
+    "https://www.myhome.ie/residential/brochure/lands-moanarone-old-quay-road-bandon-co-cork/5026001",
+    "https://www.myhome.ie/residential/brochure/the-elms-30-the-crescent-beaumont-blackrock-cork-city-co-cork/5025993",
+    "https://www.myhome.ie/residential/brochure/keyfield-ballinlough-castlerea-roscommon/5025992",
+    "https://www.myhome.ie/residential/brochure/coalspit-bridgetown-co-wexford-bridgetown-wexford/5025991",
+    "https://www.myhome.ie/residential/brochure/73-crodaun-forest-park-celbridge-county-kildare/5025989",
+    "https://www.myhome.ie/residential/brochure/apt-2-1-bayview-pembroke-street-dublin-4/5017468"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=253",
+  "paginationLimited": false
+}

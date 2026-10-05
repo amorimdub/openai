@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/3-oakle-gh-balbriggan-co-dublin/6666749",
+  "fetchedAt": "2026-10-05T09:21:48.839Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/3-oakle-gh-balbriggan-co-dublin/6666749",
+  "kind": "listing",
+  "responseSha256": "f090c3a268fed7137fe5bbf4cda52e0306256e737db45e7300299de78a6d42ba",
+  "files": [
+    {
+      "path": "daft/00960-f538a2e8d21d2493-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "48ff8e05af11ba27e8ce812f6b59549b56fd771bb12a072d208c27363874b90c",
+      "bytes": 18508
+    },
+    {
+      "path": "daft/00960-f538a2e8d21d2493-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "72ad10adbc99d76211545e8c847c6ff1434fb7850ae9697d9af72a46633a6db1",
+      "bytes": 8267
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

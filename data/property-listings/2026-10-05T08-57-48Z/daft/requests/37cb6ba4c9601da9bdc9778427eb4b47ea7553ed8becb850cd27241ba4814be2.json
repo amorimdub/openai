@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/copperbeech-house-athenry-road-loughrea-co-galway/6678551",
+  "fetchedAt": "2026-10-05T09:00:28.864Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/copperbeech-house-athenry-road-loughrea-co-galway/6678551",
+  "kind": "listing",
+  "responseSha256": "abe525d835524d03617e46f711d0e85d8bf0de835e7ddf3e29e3753755e95526",
+  "files": [
+    {
+      "path": "daft/00108-37cb6ba4c9601da9-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "49e1478111713111cc17316257aa467f736954207aab55b3b12b63073f39cd4d",
+      "bytes": 48527
+    },
+    {
+      "path": "daft/00108-37cb6ba4c9601da9-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b939ec15751df6293031866444ecf19684039edf46218b63ff4bf5affff831fb",
+      "bytes": 7989
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

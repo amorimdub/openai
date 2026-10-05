@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=85",
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=85",
+  "fetchedAt": "2026-10-05T09:55:36.053Z",
+  "httpStatus": 200,
+  "kind": "search",
+  "responseSha256": "1489856032f37d96b68d4ce3d39e458ce4cb6f13d19d065f6a5b48b2cc7f7fcf",
+  "files": [
+    {
+      "path": "myhome/02303-573de0a0de5f1faf-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=85\"].SearchResults",
+      "sha256": "2acc54d6296c194390e730ffa678b8515fd7220f13b4c880bf9e2c570c4baad3",
+      "bytes": 124389
+    },
+    {
+      "path": "myhome/02303-573de0a0de5f1faf-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=85\"] (paging fields)",
+      "sha256": "c738fee9f33ad211b0f91ff7b4f414f53e4e575674c1c0f347a425dcfe4c9d40",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/13-grange-park-baldoyle-dublin-13/5024250",
+    "https://www.myhome.ie/residential/brochure/6-the-willows-ballinahinch-wood-ashford-co-wicklow/5030661",
+    "https://www.myhome.ie/residential/brochure/shannon-heights-kilrush-co-clare/5030660",
+    "https://www.myhome.ie/residential/brochure/apartment-42-the-stockyard-the-steelworks-foley-street-north-city-centre-dublin-1/5029297",
+    "https://www.myhome.ie/residential/brochure/28-belfry-house-the-oaks-ridgewood-swords-dublin/5030606",
+    "https://www.myhome.ie/residential/brochure/36-merlyn-road-ballsbridge-dublin-4/5030461",
+    "https://www.myhome.ie/residential/brochure/site-at-ballycurrin-headford-co-galway/5030653",
+    "https://www.myhome.ie/residential/brochure/abbeyville-manister-croom-county-limerick/5030652",
+    "https://www.myhome.ie/residential/brochure/altachullion-lower-swanlinbar-cavan/5030651",
+    "https://www.myhome.ie/residential/brochure/residence-on-11-85-acres-blackhill-kill-county-kildare/5030650",
+    "https://www.myhome.ie/residential/brochure/80-park-avenue-sandymount-dublin-4/5030545",
+    "https://www.myhome.ie/residential/brochure/millbourne-house-42-drummagh-carrick-on-shannon-leitrim/5030560",
+    "https://www.myhome.ie/residential/brochure/lot-2-crowley-shercock-cavan-a81dv76/5030590",
+    "https://www.myhome.ie/residential/brochure/lot-1-crowley-shercock-cavan/5030568",
+    "https://www.myhome.ie/residential/brochure/46-highfield-manor-mullins-lane-carlow-carlow-town-carlow/5030641",
+    "https://www.myhome.ie/residential/brochure/5-eden-hill-sligo-sligo/5030538",
+    "https://www.myhome.ie/residential/brochure/17-moylaragh-avenue-balbriggan-co-dublin/5030646",
+    "https://www.myhome.ie/residential/brochure/82-seapark-drive-clontarf-dublin-3/5030455",
+    "https://www.myhome.ie/residential/brochure/knockroe-kilnamartyra-macroom-co-cork/5030647",
+    "https://www.myhome.ie/residential/brochure/1a-and-1b-saint-riochs-terrace-kilkenny-city-co-kilkenny/5030643"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=86",
+  "paginationLimited": false
+}

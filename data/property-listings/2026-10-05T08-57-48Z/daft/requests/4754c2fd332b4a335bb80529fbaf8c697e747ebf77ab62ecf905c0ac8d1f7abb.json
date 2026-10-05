@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/78-shrewsbury-park-ballsbridge-dublin-4/6682087",
+  "fetchedAt": "2026-10-05T09:10:16.464Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/78-shrewsbury-park-ballsbridge-dublin-4/6682087",
+  "kind": "listing",
+  "responseSha256": "c9e0def8f6f7a6477cebffd34b72d42d728d875628ce4afb296adf6a53b6c82d",
+  "files": [
+    {
+      "path": "daft/00499-4754c2fd332b4a33-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "a1988925e7eb4fcc0de11c47a6a1e68e1db470caab77b1759f4792b6223cc256",
+      "bytes": 9433
+    },
+    {
+      "path": "daft/00499-4754c2fd332b4a33-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e29291609096a8c1cdaa52bc9a0029e60ac92fcd3019320046b52771e8a82dc6",
+      "bytes": 8105
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

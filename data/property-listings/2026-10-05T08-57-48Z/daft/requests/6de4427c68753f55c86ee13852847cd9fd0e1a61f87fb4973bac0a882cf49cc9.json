@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/studio-coopers-cross-mayor-street-upper-dublin-1/5374213",
+  "fetchedAt": "2026-10-05T09:08:13.323Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/studio-coopers-cross-mayor-street-upper-dublin-1/5374213",
+  "kind": "listing",
+  "responseSha256": "c718d32cc259400976b7d32f32dc807d84a83cc9074bae08795805e1f781b685",
+  "files": [
+    {
+      "path": "daft/00417-6de4427c68753f55-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "8c8d3d94dcd956968627c977b15d22ef5f55d22735798b7575820d9f682559c8",
+      "bytes": 32492
+    },
+    {
+      "path": "daft/00417-6de4427c68753f55-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "cbf18bdcbc3786e4aa3d273ce9b35352ceeec6eac617b71ae517b06880a63617",
+      "bytes": 8090
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-seafield-strand-greenfield-rd-burrow-sutton-dublin-13/6618113",
+  "fetchedAt": "2026-10-05T09:01:34.940Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-seafield-strand-greenfield-rd-burrow-sutton-dublin-13/6618113",
+  "kind": "listing",
+  "responseSha256": "3d586c14d2417f8274dc39e87e55fa17ec911bb113dee3eba22860d0cae0b59d",
+  "files": [
+    {
+      "path": "daft/00152-fc9cc6c1c759cbc8-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bdeb2d61fb8f61f804d3c9aebe36b7b7b6009a2c758642953e420cdb297cfe84",
+      "bytes": 28281
+    },
+    {
+      "path": "daft/00152-fc9cc6c1c759cbc8-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "4e7827733617efc4569740a8cdcfe3d2dae02873a9851a5eca2a66112ee145c3",
+      "bytes": 8254
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

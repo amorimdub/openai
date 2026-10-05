@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=474",
+  "fetchedAt": "2026-10-05T14:18:43.010Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=474",
+  "kind": "search",
+  "responseSha256": "216d1199b9333251ae577bba732d60e89a98051c7cbf5ee00a60134e7e06f028",
+  "files": [
+    {
+      "path": "myhome/10275-5ecd290bb6fbcebe-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=474\"].SearchResults",
+      "sha256": "f65f0babb9b93309977881357d356106d97957d15aade757a22eb97e8e9d8d38",
+      "bytes": 115184
+    },
+    {
+      "path": "myhome/10275-5ecd290bb6fbcebe-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=474\"] (paging fields)",
+      "sha256": "85d762f5b1f1686c89f53f1e11cfcd451580b54955b25f9b26ebf09859ea7161",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/61-saint-samson-s-court-dublin-13-dublin/5005809",
+    "https://www.myhome.ie/residential/brochure/56-latchford-square-dublin-15-dublin/5005801",
+    "https://www.myhome.ie/residential/brochure/derrywash-castlebar-co-mayo/5005789",
+    "https://www.myhome.ie/residential/brochure/32-saint-samson-s-square-plus-attic-conversion-dublin-13-dublin/5005776",
+    "https://www.myhome.ie/residential/brochure/laharn-ballylickey-bantry-cork/5005752",
+    "https://www.myhome.ie/residential/brochure/ballynanty-greenan-wicklow/5005763",
+    "https://www.myhome.ie/residential/brochure/keelogue-arklow-wicklow/5005748",
+    "https://www.myhome.ie/residential/brochure/villa-flor-weavers-point-crosshaven-cork/5005408",
+    "https://www.myhome.ie/residential/brochure/8-st-johns-park-west-clondalkin-dublin-22/5005765",
+    "https://www.myhome.ie/residential/brochure/35-shannon-valley-ballaghaderreen-ballagh-roscommon/5005743",
+    "https://www.myhome.ie/residential/brochure/kiltimagh-road-knock-mayo/5005723",
+    "https://www.myhome.ie/residential/brochure/mitchelstowndown-garryspillane-kilmallock-co-limerick/5005721",
+    "https://www.myhome.ie/residential/brochure/javea-lodge-drogheda-road-dunleer-co-louth/5005719",
+    "https://www.myhome.ie/residential/brochure/shanaghmoyle-knock-mayo/5005717",
+    "https://www.myhome.ie/residential/brochure/rylane-county-cork/5005707",
+    "https://www.myhome.ie/residential/brochure/lackenagobidane-clonakilty-west-cork/5004222",
+    "https://www.myhome.ie/residential/brochure/bogganfin-ballymurray-roscommon/5005700",
+    "https://www.myhome.ie/residential/brochure/corskeagh-frenchpark-castlerea-co-roscommon/5005689",
+    "https://www.myhome.ie/residential/brochure/lot-3-site-only-43-waterloo-lane-ballsbridge-dublin-4/5005687",
+    "https://www.myhome.ie/residential/brochure/rathmoylan-dunmore-east-waterford/5005667"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=475",
+  "paginationLimited": false
+}

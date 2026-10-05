@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/fortunes-lawn-citywest-citywest-dublin-24/6686656",
+  "fetchedAt": "2026-10-05T09:23:47.522Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/fortunes-lawn-citywest-citywest-dublin-24/6686656",
+  "kind": "listing",
+  "responseSha256": "292103c0f25795e4fa9c9dd91aaec0f1ecf54090c6c146d0f62945c3d1fa61c2",
+  "files": [
+    {
+      "path": "daft/01039-74ab2fef8946b5da-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "3dd56c91de482b32d79bc57e8bd6918c22f80e4d313ad7e0f090528528036b52",
+      "bytes": 31276
+    },
+    {
+      "path": "daft/01039-74ab2fef8946b5da-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7c6d0b0ac30f2a881194a0221084de6e0a21ecf9ea3ec77465a1adc946454b95",
+      "bytes": 8019
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/4-millbrook-village-milltown-milltown-co-kerry/6675652",
+  "fetchedAt": "2026-10-05T09:13:51.266Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/4-millbrook-village-milltown-milltown-co-kerry/6675652",
+  "kind": "listing",
+  "responseSha256": "a42b0f659ba0c9ff479c823f7ee97974879280b4b1855ba57b1a91ebbbd5e70d",
+  "files": [
+    {
+      "path": "daft/00642-409522cb1826e1fc-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cb3ccc7bf943b3cddff9775b44fc60ce902e80de1655470540512b5a496f062f",
+      "bytes": 60767
+    },
+    {
+      "path": "daft/00642-409522cb1826e1fc-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "43d6721a7a5262b88867cf24031b4a1384ea64e9232e84eb8e28a5e3720604ef",
+      "bytes": 8050
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

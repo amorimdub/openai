@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-rent/ireland?page=38",
+  "fetchedAt": "2026-10-05T09:41:26.418Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-rent/ireland?page=38",
+  "kind": "search",
+  "responseSha256": "28f9f24b39569d23ab745bd190f5d2d3f045b99e73a759534ede0cd54a8127b8",
+  "files": [
+    {
+      "path": "daft/01744-2fdd6a8e28473469-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "47422521ad052f168565c611a8ef19b3abd0d70302e954ffa4aa64e2fe1ef51e",
+      "bytes": 220067
+    },
+    {
+      "path": "daft/01744-2fdd6a8e28473469-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/01744-2fdd6a8e28473469-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "b172ca829df5a5650c265e44b4460ddc866aa66e379f1e5b6847f99b0a8b6493",
+      "bytes": 177
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-rent/hawkins-wood-greystones-co-wicklow/6658652",
+    "https://www.daft.ie/for-rent/modern-country-living-ballyallinan-between-knocka-rathkeale-co-limerick/6659282",
+    "https://www.daft.ie/for-rent/5-millbrook-drive-monksland-athlone-co-roscommon/6684513",
+    "https://www.daft.ie/for-rent/27-brookdale-midleton-co-cork/6684498",
+    "https://www.daft.ie/for-rent/lower-georges-street-wexford-wexford-town-co-wexford/6684496",
+    "https://www.daft.ie/for-rent/29-woodville-rochestown-road-cork-rochestown-co-cork/6684468",
+    "https://www.daft.ie/for-rent/inchwell-road-kanturk-co-cork/6684437",
+    "https://www.daft.ie/for-rent/103-cedar-house-mespil-estate-ballsbridge-dublin-4/6684397",
+    "https://www.daft.ie/for-rent/naas-corbally-co-kildare/6661753",
+    "https://www.daft.ie/for-rent/churchview-balla-co-mayo/6684227",
+    "https://www.daft.ie/for-rent/1-river-vale-newmarket-road-kanturk-co-cork/6684400",
+    "https://www.daft.ie/for-rent/rathcormac-co-cork-rathcormac-co-cork/6669641",
+    "https://www.daft.ie/for-rent/23-clara-meadows-cottage-road-dunfanaghy-letterkenny-dunfanaghy-co-donegal/6684390",
+    "https://www.daft.ie/for-rent/3-murrough-drive-close-to-atu-renmore-murroogh-co-galway/6684380",
+    "https://www.daft.ie/for-rent/207-castlelawn-heights-9-months-lease-headford-road-terryland-co-galway/6684376",
+    "https://www.daft.ie/for-rent/annagh-more-innishannon-crossbarry-co-cork/6684374",
+    "https://www.daft.ie/for-rent/28-park-avenue-clongriffin-clongriffin-dublin-13/6684369",
+    "https://www.daft.ie/for-rent/103-beechdale-court-ballycullen-dublin-24-co-dublin/6684368",
+    "https://www.daft.ie/for-rent/irishtown-upper-clonmel-co-tipperary/6684367",
+    "https://www.daft.ie/for-rent/flat-8-85-north-circular-road-north-circular-road-dublin-7/6682081"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-rent/ireland?page=39",
+  "paginationLimited": false
+}

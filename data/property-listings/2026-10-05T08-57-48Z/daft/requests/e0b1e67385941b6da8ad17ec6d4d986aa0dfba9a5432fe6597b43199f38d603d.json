@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/node-dublin-7-phibsborough-d07-v10e-dublin-7/5697463",
+  "fetchedAt": "2026-10-05T09:02:47.451Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/node-dublin-7-phibsborough-d07-v10e-dublin-7/5697463",
+  "kind": "listing",
+  "responseSha256": "ad5b8f6c7774e14c47364601d8b6c8034348f9cc61879d1bdd83f41ddd856c2b",
+  "files": [
+    {
+      "path": "daft/00200-e0b1e67385941b6d-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e4200f26cc1bfbf3d36072610cfffd0dc916dd719a14558b05fa2d55d530e135",
+      "bytes": 385316
+    },
+    {
+      "path": "daft/00200-e0b1e67385941b6d-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ed3955dde16eb65e6571ccf436374882e13371943a8337003f3ab49080192055",
+      "bytes": 8043
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/7b-7-main-street-newbridge-co-kildare/6683110",
+  "fetchedAt": "2026-10-05T09:51:09.407Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/7b-7-main-street-newbridge-co-kildare/6683110",
+  "kind": "listing",
+  "responseSha256": "fd58b17b4574159de34b05d6ad03ba82ebc7e1c24f248f43e4d70db24f00a0e5",
+  "files": [
+    {
+      "path": "daft/02132-504541fe0be0e69c-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "cf438e103fe261dccf6e4a502013d9f99888ae3a5ee620c9876444fdedacd035",
+      "bytes": 23013
+    },
+    {
+      "path": "daft/02132-504541fe0be0e69c-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d103248bd0867670e9cb33eb354b83dc3ff0d6f1d59f7679ed36c1ec4e8cea56",
+      "bytes": 8249
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/camac-crescent-inchicore-dublin-8/6680087",
+  "fetchedAt": "2026-10-05T09:18:41.140Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/camac-crescent-inchicore-dublin-8/6680087",
+  "kind": "listing",
+  "responseSha256": "a975a7a15dfa6b84261eac69add77f00bc8bf55ee2681a9afa59e438b06dae3e",
+  "files": [
+    {
+      "path": "daft/00835-e60056413c361e00-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "e4a562b77748265f1e7d64228e54e243139419b289b8aed5d97058ef866b3cbf",
+      "bytes": 28391
+    },
+    {
+      "path": "daft/00835-e60056413c361e00-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "d6f374297fb3a2a96b34cbc6fdb0cf519ea5043ca722173fe3316b352afe0371",
+      "bytes": 8154
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

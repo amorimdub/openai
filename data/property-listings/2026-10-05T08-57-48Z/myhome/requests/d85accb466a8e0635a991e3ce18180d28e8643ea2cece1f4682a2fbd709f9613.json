@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=365",
+  "fetchedAt": "2026-10-05T13:22:31.022Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=365",
+  "kind": "search",
+  "responseSha256": "f1133c14e2bbffd665f9d4fb485e42603c37924f7ee224ea56f526b93075061f",
+  "files": [
+    {
+      "path": "myhome/08032-d85accb466a8e063-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=365\"].SearchResults",
+      "sha256": "4a5d329ffdb7869ec3b4dc719f0f5db11e231e74252a321fd9a0405eb04b60af",
+      "bytes": 118708
+    },
+    {
+      "path": "myhome/08032-d85accb466a8e063-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=365\"] (paging fields)",
+      "sha256": "39a59d31013ddef26a57831687802744bbb1d142d5d9521328c786818840e5ee",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/12-canal-court-whitefields-portarlington-co-laois/5018930",
+    "https://www.myhome.ie/residential/brochure/5-the-view-broadale-rochestown-cork/5018926",
+    "https://www.myhome.ie/residential/brochure/apartment-4-college-court-king-s-inns-street-north-city-centre-dublin/5018921",
+    "https://www.myhome.ie/residential/brochure/26-walsheslough-rosslare-strand-rosslare-co-wexford/5018922",
+    "https://www.myhome.ie/residential/brochure/2-athgoe-road-shankill-dublin-18/5018916",
+    "https://www.myhome.ie/residential/brochure/50-yewlands-maryborough-woods-douglas-cork/5018904",
+    "https://www.myhome.ie/residential/brochure/inchinleama-ballyduff-waterford/5018907",
+    "https://www.myhome.ie/residential/brochure/14-kilwarden-court-clondalkin-dublin-22/5018912",
+    "https://www.myhome.ie/residential/brochure/60-lanesborough-mews-finglas-dublin-11/5018911",
+    "https://www.myhome.ie/residential/brochure/land-at-clybaun-road-knocknacarra-galway-county-galway/5018894",
+    "https://www.myhome.ie/residential/brochure/rathvinden-leighlinbridge-carlow-co-carlow/5018892",
+    "https://www.myhome.ie/residential/brochure/rossadrehid-co-tipperary/5018889",
+    "https://www.myhome.ie/residential/brochure/bun-an-cnoic-no-11-churchview-villas-castlebar-mayo/5017896",
+    "https://www.myhome.ie/residential/brochure/32-hillview-estate-ballinteer-dublin-16/5018880",
+    "https://www.myhome.ie/residential/brochure/silver-birches-ladytown-naas-co-kildare/5018878",
+    "https://www.myhome.ie/residential/brochure/26-melville-drive-finglas-dublin-11/5018672",
+    "https://www.myhome.ie/residential/brochure/the-cottage-castlewhite-waterfall-co-cork/5018873",
+    "https://www.myhome.ie/residential/brochure/barmoney-ballyhogue-co-wexford/5018866",
+    "https://www.myhome.ie/residential/brochure/templemichael-longford-longford/5018850",
+    "https://www.myhome.ie/residential/brochure/0-5-acre-site-moy-lahinch-co-clare/5018858"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=366",
+  "paginationLimited": false
+}

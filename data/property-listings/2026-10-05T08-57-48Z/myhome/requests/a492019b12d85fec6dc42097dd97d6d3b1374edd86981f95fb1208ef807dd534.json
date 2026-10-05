@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=278",
+  "fetchedAt": "2026-10-05T12:38:12.617Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=278",
+  "kind": "search",
+  "responseSha256": "55332341ac4911d8c54dbdee1df1f8a3f456ac0d4e43f502f3496d907071fc3f",
+  "files": [
+    {
+      "path": "myhome/06268-a492019b12d85fec-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=278\"].SearchResults",
+      "sha256": "de109f60f15820aeb7e236e5d0b3c5eb3be26e50afdc7e9a1a16f905cc6efe78",
+      "bytes": 116529
+    },
+    {
+      "path": "myhome/06268-a492019b12d85fec-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=278\"] (paging fields)",
+      "sha256": "372ff01177c915e57f29fcb0d61f71065257e1906b23bb05e9f1efa884b8c167",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/kilgarvan-ballylongford-co-kerry/5003846",
+    "https://www.myhome.ie/residential/brochure/11-abbey-park-monkstown-blackrock-co-dublin/5019765",
+    "https://www.myhome.ie/residential/brochure/47-warners-lane-ranelagh-dublin-6/4984865",
+    "https://www.myhome.ie/residential/brochure/hillview-muckerstaff-coolarty-granard-co-longford/5025124",
+    "https://www.myhome.ie/residential/brochure/tooman-dromod-leitrim/5025094",
+    "https://www.myhome.ie/residential/brochure/kilwoghan-woods-celbridge-co-kildare-2-bedroom-duplex/4961207",
+    "https://www.myhome.ie/residential/brochure/kilwoghan-woods-celbridge-co-kildare/4956820",
+    "https://www.myhome.ie/residential/brochure/oldtown-woods-celbridge-co-kildare-3-bedroom/5005440",
+    "https://www.myhome.ie/residential/brochure/9-blair-s-hill-sundays-well-cork/5023435",
+    "https://www.myhome.ie/residential/brochure/99-terenure-road-west-terenure-dublin-6w/5024045",
+    "https://www.myhome.ie/residential/brochure/10-mimosa-hall-levmoss-park-the-gallops-dublin-18/5025102",
+    "https://www.myhome.ie/residential/brochure/st-farnans-close-prosperous-kildare/4986945",
+    "https://www.myhome.ie/residential/brochure/loughmore-wood-at-killeen-castle-dunsany-meath/5005545",
+    "https://www.myhome.ie/residential/brochure/marmion-walk-clane-co-kildare-3-bedroom-duplex/5015267",
+    "https://www.myhome.ie/residential/brochure/15-hawthorn-park-swords-co-dublin/5007179",
+    "https://www.myhome.ie/residential/brochure/38-holly-road-donnycarney-dublin-9-dublin-9-co-dublin/5009898",
+    "https://www.myhome.ie/residential/brochure/30-liogard-portlaoise-co-laois/5025100",
+    "https://www.myhome.ie/residential/brochure/4-laurelton-swords-co-dublin/5025098",
+    "https://www.myhome.ie/residential/brochure/chapel-park-kinnegad-co-westmeath-4-bedroom-semi-detached/5017487",
+    "https://www.myhome.ie/residential/brochure/26-clonturk-park-drumcondra-dublin-9/5005899"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=279",
+  "paginationLimited": false
+}

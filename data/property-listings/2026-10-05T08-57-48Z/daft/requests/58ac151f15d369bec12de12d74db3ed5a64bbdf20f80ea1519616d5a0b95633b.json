@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/apartment-23-kennedy-plaza-the-quay-new-ross-co-wexford/6678489",
+  "fetchedAt": "2026-10-05T09:12:31.643Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/apartment-23-kennedy-plaza-the-quay-new-ross-co-wexford/6678489",
+  "kind": "listing",
+  "responseSha256": "b27760a647c78af7e6bbeb1b1bb4750075b55a9ff2d929a3dc829894c7e28d4b",
+  "files": [
+    {
+      "path": "daft/00589-58ac151f15d369be-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "08ef1d180f88916aac1d350d24fbccc427184e1d8a36cf40e962ffd978df56ea",
+      "bytes": 17669
+    },
+    {
+      "path": "daft/00589-58ac151f15d369be-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3cd7602b9156fb0a3a34994e75556ec3c791373fb71f3026bdb11f424778884",
+      "bytes": 8055
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

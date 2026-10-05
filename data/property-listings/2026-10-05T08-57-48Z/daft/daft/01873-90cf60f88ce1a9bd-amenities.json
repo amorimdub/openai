@@ -1,0 +1,398 @@
+{
+  "primarySchools": [
+    {
+      "schoolName": "CITY QUAY NATIONAL SCHOOL",
+      "numPupils": 156,
+      "distance": {
+        "value": 0.46,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.346615",
+        "lon": "-6.251296"
+      }
+    },
+    {
+      "schoolName": "CATHERINE MC AULEY N SC",
+      "numPupils": 99,
+      "distance": {
+        "value": 0.75,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336205",
+        "lon": "-6.246258"
+      }
+    },
+    {
+      "schoolName": "SCOIL CHAITRÍONA BAGGOT STREET",
+      "numPupils": 148,
+      "distance": {
+        "value": 0.76,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336205",
+        "lon": "-6.245819"
+      }
+    },
+    {
+      "schoolName": "CENTRAL MODEL INFANTS' SCHOOL",
+      "numPupils": 148,
+      "distance": {
+        "value": 1.04,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.351234",
+        "lon": "-6.255879"
+      }
+    },
+    {
+      "schoolName": "CENTRAL MODEL SENIOR SCHOOL",
+      "numPupils": 242,
+      "distance": {
+        "value": 1.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.351470",
+        "lon": "-6.256000"
+      }
+    },
+    {
+      "schoolName": "ST CHRISTOPHER'S PRIMARY SCHOOL",
+      "numPupils": 567,
+      "distance": {
+        "value": 1.09,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.334410",
+        "lon": "-6.241022"
+      }
+    },
+    {
+      "schoolName": "SCOIL CHAOIMHÍN",
+      "numPupils": 63,
+      "distance": {
+        "value": 1.1,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.351295",
+        "lon": "-6.257690"
+      }
+    },
+    {
+      "schoolName": "GAELSCOIL EOIN",
+      "numPupils": 50,
+      "distance": {
+        "value": 1.12,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.334230",
+        "lon": "-6.240513"
+      }
+    },
+    {
+      "schoolName": "ST DECLANS SPECIAL SCH",
+      "numPupils": 36,
+      "distance": {
+        "value": 1.14,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.335270",
+        "lon": "-6.237925"
+      }
+    },
+    {
+      "schoolName": "SOUTH CITY CNS",
+      "numPupils": 161,
+      "distance": {
+        "value": 1.17,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.340350",
+        "lon": "-6.267157"
+      }
+    }
+  ],
+  "secondarySchools": [
+    {
+      "schoolName": "C.B.S. WESTLAND ROW",
+      "numPupils": 202,
+      "distance": {
+        "value": 0.07,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342800",
+        "lon": "-6.249070"
+      }
+    },
+    {
+      "schoolName": "LORETO COLLEGE",
+      "numPupils": 584,
+      "distance": {
+        "value": 0.77,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.336826",
+        "lon": "-6.256352"
+      }
+    },
+    {
+      "schoolName": "CATHOLIC UNIVERSITY SCHOOL",
+      "numPupils": 547,
+      "distance": {
+        "value": 0.9,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.335297",
+        "lon": "-6.255877"
+      }
+    },
+    {
+      "schoolName": "LARKIN COMMUNITY COLLEGE",
+      "numPupils": 414,
+      "distance": {
+        "value": 1.19,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352260",
+        "lon": "-6.257791"
+      }
+    },
+    {
+      "schoolName": "ST PATRICKS CATHEDRAL GRAMMAR SCHOOL",
+      "numPupils": 302,
+      "distance": {
+        "value": 1.48,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.339073",
+        "lon": "-6.271555"
+      }
+    },
+    {
+      "schoolName": "SYNGE STREET CBS SECONDARY SCHOOL",
+      "numPupils": 291,
+      "distance": {
+        "value": 1.58,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.333492",
+        "lon": "-6.268219"
+      }
+    },
+    {
+      "schoolName": "MOUNT CARMEL SECONDARY SCHOOL",
+      "numPupils": 398,
+      "distance": {
+        "value": 1.61,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.352020",
+        "lon": "-6.268332"
+      }
+    },
+    {
+      "schoolName": "BELVEDERE COLLEGE S.J",
+      "numPupils": 1004,
+      "distance": {
+        "value": 1.65,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.355510",
+        "lon": "-6.262116"
+      }
+    },
+    {
+      "schoolName": "RINGSEND COLLEGE",
+      "numPupils": 210,
+      "distance": {
+        "value": 1.73,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.343800",
+        "lon": "-6.224039"
+      }
+    },
+    {
+      "schoolName": "O'CONNELL SCHOOL",
+      "numPupils": 215,
+      "distance": {
+        "value": 1.74,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.358242",
+        "lon": "-6.250803"
+      }
+    }
+  ],
+  "publicTransports": [
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "101X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "120F",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "126X",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "120A",
+      "destination": "UCD Belfield",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "111X",
+      "destination": "Wilton Terrace",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "100X",
+      "destination": "Merrion Square",
+      "provider": "Bus Éireann",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "120E",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "126U",
+      "destination": "UCD Belfield",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "126E",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    },
+    {
+      "type": "Bus",
+      "stop": "Westland Row Church",
+      "route": "130",
+      "destination": "Dublin",
+      "provider": "Go-Ahead Ireland",
+      "distance": {
+        "value": 0.01,
+        "unit": "km"
+      },
+      "location": {
+        "lat": "53.342626",
+        "lon": "-6.250132"
+      }
+    }
+  ]
+}

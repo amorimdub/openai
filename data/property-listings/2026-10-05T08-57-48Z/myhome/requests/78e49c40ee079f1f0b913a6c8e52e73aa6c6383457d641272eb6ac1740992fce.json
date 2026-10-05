@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=452",
+  "fetchedAt": "2026-10-05T14:07:26.608Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=452",
+  "kind": "search",
+  "responseSha256": "c53ed44fd4213834ff3f06cd0d73adb34e5ff37708c570709b9d5bb99875cfd1",
+  "files": [
+    {
+      "path": "myhome/09825-78e49c40ee079f1f-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=452\"].SearchResults",
+      "sha256": "93729a06156ae199c43ff7fa127a645ecb8ab795f52f48a769c55b26e7e37c32",
+      "bytes": 116065
+    },
+    {
+      "path": "myhome/09825-78e49c40ee079f1f-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=452\"] (paging fields)",
+      "sha256": "aacd3fd8d8af2f2329cbfc03fad04ecc5226ab6220d5b51bd341a41274dc9f51",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/mountain-view-ballisodare-co-sligo/5008394",
+    "https://www.myhome.ie/residential/brochure/16-convent-park-kinvara-county-galway/5008388",
+    "https://www.myhome.ie/residential/brochure/26-west-avenue-park-gate-frankfield-cork/5008366",
+    "https://www.myhome.ie/residential/brochure/7-beechfield-tonaphubble-sligo-county-sligo/5008362",
+    "https://www.myhome.ie/residential/brochure/47-lanesborough-grove-finglas-dublin-11/5008354",
+    "https://www.myhome.ie/residential/brochure/45-beechmount-avenue-clara-offaly/5008334",
+    "https://www.myhome.ie/residential/brochure/ballynaglack-stranorlar-co-donegal-clare/5008341",
+    "https://www.myhome.ie/residential/brochure/23-pitcher-hill-drogheda-louth/5008310",
+    "https://www.myhome.ie/residential/brochure/camelot-no-1-the-hopyard-ballyboughal-county-dublin/4999438",
+    "https://www.myhome.ie/residential/brochure/crimlin-cottage-chaffpool-tubbercurry-sligo/5008322",
+    "https://www.myhome.ie/residential/brochure/98-inis-rga-curryclogh-bandon-cork/5008313",
+    "https://www.myhome.ie/residential/brochure/4-east-avenue-mill-farm-carrigaline-cork/4982363",
+    "https://www.myhome.ie/residential/brochure/67-callender-s-mill-celbridge-kildare/5008308",
+    "https://www.myhome.ie/residential/brochure/335-mill-street-callan-kilkenny/5008314",
+    "https://www.myhome.ie/residential/brochure/nolagh-ballinalack-mullingar-co-westmeath/5008303",
+    "https://www.myhome.ie/residential/brochure/oysterbed-road-sneem-kerry/5008294",
+    "https://www.myhome.ie/residential/brochure/newgrange-barnaslingan-lane-kilternan-kilternan-dublin/5008192",
+    "https://www.myhome.ie/residential/brochure/1-forest-close-showhouse-ramsfort-park-gorey-wexford/5008256",
+    "https://www.myhome.ie/residential/brochure/apartment-4-portmarnock-town-centre-strand-road-portmarnock-dublin-county-dublin/4886736",
+    "https://www.myhome.ie/residential/brochure/apartment-33-block-a-smithfield-market-smithfield-dublin/5008233"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=453",
+  "paginationLimited": false
+}

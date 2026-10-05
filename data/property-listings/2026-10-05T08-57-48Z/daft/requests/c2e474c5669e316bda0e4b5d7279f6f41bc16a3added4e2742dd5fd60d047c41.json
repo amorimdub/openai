@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/belfield-abbey-boreenmanna-road-cork-blackrock-co-cork/6681237",
+  "fetchedAt": "2026-10-05T09:11:27.042Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/belfield-abbey-boreenmanna-road-cork-blackrock-co-cork/6681237",
+  "kind": "listing",
+  "responseSha256": "1c72dfc079f1f8bdc60877872956c48b26b0bb82cabfb02a3f32fe5bb50c5bcd",
+  "files": [
+    {
+      "path": "daft/00546-c2e474c5669e316b-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "121e18b51c43c1ac846a0049612e4e8f825e7595cad67b74d3d364bf7b33dd8f",
+      "bytes": 23313
+    },
+    {
+      "path": "daft/00546-c2e474c5669e316b-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "8498d87e772f04c2cffe415d4866919b26b0460a3b9d1b2fb4a027386a42b2c3",
+      "bytes": 8054
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

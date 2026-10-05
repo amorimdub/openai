@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/63-seapark-drive-clontarf-dublin-3/6683800",
+  "fetchedAt": "2026-10-05T09:47:40.554Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/63-seapark-drive-clontarf-dublin-3/6683800",
+  "kind": "listing",
+  "responseSha256": "3e5c0bd89dc9b361c8abc27bc915ae2cb72448b326baf59e981139c4b59f857e",
+  "files": [
+    {
+      "path": "daft/01993-0423d668576b56e5-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4db3e2989b6263c90def0321d14fa688e7627b88a41f85327c92737604b87490",
+      "bytes": 28751
+    },
+    {
+      "path": "daft/01993-0423d668576b56e5-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "58eb02be1dc77bcc84674a49e02870e401ec8161559acfcf5ece83d5013a0efc",
+      "bytes": 8014
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

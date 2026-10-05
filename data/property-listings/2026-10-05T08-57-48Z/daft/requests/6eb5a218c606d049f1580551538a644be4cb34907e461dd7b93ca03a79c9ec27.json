@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/2-bedroom-apartment-st-marnocks-bay-portmarnock-portmarnock-co-dublin/4272827",
+  "fetchedAt": "2026-10-05T09:07:13.260Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/2-bedroom-apartment-st-marnocks-bay-portmarnock-portmarnock-co-dublin/4272827",
+  "kind": "listing",
+  "responseSha256": "c9c69b64566a1a408df759c4383c3a17bd16f7af683b787f2590f4e78becb0a4",
+  "files": [
+    {
+      "path": "daft/00377-6eb5a218c606d049-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "29a44b6e77731db733929651998621a97a63a9c4e8949469acf1cee55263e569",
+      "bytes": 38814
+    },
+    {
+      "path": "daft/00377-6eb5a218c606d049-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "40d2acba28ac62da78e0cd7e54868feb67cd4bc226ee99055ddd4ba5c8701d39",
+      "bytes": 8196
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/saint-eithne-road-cabra-dublin-7/6679663",
+  "fetchedAt": "2026-10-05T09:24:52.126Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/saint-eithne-road-cabra-dublin-7-cabra-dublin-7/6679663",
+  "kind": "listing",
+  "responseSha256": "70993108cf6b098d71d97d45ee1cb7f4badc2e14322b236809cc13af712436d5",
+  "files": [
+    {
+      "path": "daft/01082-d470650c5a560fb6-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "4147dccdd9f70e228cc5eb7747ce2e0f3518dcab763762c09465d006f25de4e1",
+      "bytes": 21951
+    },
+    {
+      "path": "daft/01082-d470650c5a560fb6-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-sale/macetown-mullingar-co-westmeath/6562269",
+  "fetchedAt": "2026-10-05T09:00:01.840Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-sale/macetown-mullingar-co-westmeath/6562269",
+  "kind": "listing",
+  "responseSha256": "30d72aa16e6bc8ec2abde9195376b911f9878416800835675ab500b9702128c9",
+  "files": [
+    {
+      "path": "daft/00090-53b8f317c64cec13-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "bd8d5eb2e126a5a6d858c117c56580b79779fa42ff82659189d70e22b4d019bd",
+      "bytes": 148064
+    },
+    {
+      "path": "daft/00090-53b8f317c64cec13-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "78424b9f313844939c4feafee1f7bb687770415cb01bdf86a75698730b0ff56e",
+      "bytes": 8024
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

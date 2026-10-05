@@ -1,0 +1,2569 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "shankill dublin 18 dublin",
+    "GroupId": 337632,
+    "Address": "Shankill",
+    "SaleTypeId": 17,
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/5/6/8/5005865/11c65d95-48de-4749-b309-5b7335184640_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/5/6/8/5005865/11c65d95-48de-4749-b309-5b7335184640_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/5/6/8/5005865/11c65d95-48de-4749-b309-5b7335184640_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 9,
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 2,
+        "Name": "En-suite",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-en-suite",
+        "IsRequirement": false
+      },
+      {
+        "Id": 5,
+        "Name": "Heated Flooring",
+        "CreatedOn": "2018-03-20T10:19:34.0170000+00:00",
+        "IconName": "myh-icon-heated-flooring",
+        "IsRequirement": false
+      },
+      {
+        "Id": 10,
+        "Name": "Garden",
+        "CreatedOn": "2018-03-20T10:20:37.4500000+00:00",
+        "IconName": "myh-icon-garden",
+        "IsRequirement": false
+      },
+      {
+        "Id": 11,
+        "Name": "Patio",
+        "CreatedOn": "2018-03-20T10:20:55.2870000+00:00",
+        "IconName": "myh-icon-patio",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 19,
+        "Name": "Walk In Shower",
+        "CreatedOn": "2018-03-20T10:30:14.7770000+00:00",
+        "IconName": "myh-icon-walk-in-shower",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€1,595,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "428",
+        "BedsString": "6 beds",
+        "IsTransact": false,
+        "PropertyId": 4946003,
+        "DisplayAddress": "Murphystown House & Site, Kilgobbin Road, Sandyford, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "72fc332c-4fcc-45eb-962f-2c70720973bc",
+              "Filename": "2c67f1ff-9740-4c85-974c-093058db4aca.jpg",
+              "Caption": "Aerial 3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e4543115-2546-4f08-9b1a-0cdc9f5df7bb",
+              "Filename": "c055e68f-a642-4783-a37b-7ac6289cfc57.jpg",
+              "Caption": "Aerial 1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8ec9875f-0d0e-482c-bf18-ba6e415686d1",
+              "Filename": "c81e5901-aa93-403c-adf0-84bcfbde2ef1.jpg",
+              "Caption": "Elev 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "acb36cfd-c716-4786-936c-b7a8238cadfa",
+              "Filename": "5738181f-a505-4fe9-b76b-c5072771320f.jpg",
+              "Caption": "Elev 3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1160abeb-61f7-41ea-911d-32a3e9b7154a",
+              "Filename": "f085c114-455c-405d-98ae-d3d854871408.jpg",
+              "Caption": "Aerial 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8f656539-8937-47d5-8456-4e3e55f290fe",
+              "Filename": "5de4b53a-b961-4053-8c8b-18c7cf3aa225.jpg",
+              "Caption": "Hall.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "62a45c07-8804-4f9f-9902-a8d4e741d77b",
+              "Filename": "c1f19e7b-5b8e-4c87-a096-2835e1d37961.jpg",
+              "Caption": "Drawing.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "89fd5c27-e2d6-4a38-939b-f96bbe7bcfe6",
+              "Filename": "8b8f33b0-e555-4540-ac59-2168122b418c.jpg",
+              "Caption": "Dining 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4098be5b-c630-4fce-8d90-5b29391df026",
+              "Filename": "66c8c1aa-49e5-4122-bc27-921a03417777.jpg",
+              "Caption": "Conservatory 1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "682bfb60-7aa5-4c78-852c-e58aaa955033",
+              "Filename": "0e398665-9053-4d2f-b4c8-a0696ab07165.jpg",
+              "Caption": "Lounge.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "981b69fc-6149-44d2-9b95-adf16c011c91",
+              "Filename": "72a7b6d6-1bc3-4f04-b369-972d26c47f55.jpg",
+              "Caption": "Bed 1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1b46d51d-27d2-48d2-9a0d-1e95cf203fa1",
+              "Filename": "aa07caa0-eeed-44f6-90ab-0de3801e06f9.jpg",
+              "Caption": "Garage 1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ab18752d-5d2e-4ae1-abfd-11fb18e033d3",
+              "Filename": "7a715f6e-28aa-4713-992b-eb8499a92fc1.jpg",
+              "Caption": "Garage 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b70873db-18ce-4c9a-969f-2c668a5ac77b",
+              "Filename": "d2f326ad-0d4f-4c42-9927-ec28d02fe764.jpg",
+              "Caption": "Garage 3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1751d47a-6494-46cd-852e-dfb2b2d067dd",
+              "Filename": "0f1486c6-0c65-49e7-ae4f-3b8bbb6f328c.jpg",
+              "Caption": "Garage 4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "733c9994-0c46-47e6-b7f0-2029fcaac512",
+              "Filename": "c89e5cd6-30dd-485c-b45d-d13bf40f5eac.jpg",
+              "Caption": "2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a141deca-10db-49d6-bc4a-614970ae0527",
+              "Filename": "6b5561a5-1f92-4df3-b868-b33b230bdb5a.jpg",
+              "Caption": "Garden 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2df29fec-cca6-455e-a72a-50f9f568d2d4",
+              "Filename": "d990a65f-83f6-400a-8855-7966e9803bb2.jpg",
+              "Caption": "Garden 1.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "73ec415a-b574-4653-8718-076b4669b6d3",
+              "Filename": "94afa606-6c80-4140-a66d-7910b07b3224.jpg",
+              "Caption": "Garden 3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9b75eb92-d7bb-4d59-9a31-ff74b0840571",
+              "Filename": "5efb6323-de68-4e74-b5dd-dc3a335c7fee.jpg",
+              "Caption": "Garden seat.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "08d3f6b8-39e4-4e40-a2ca-47523c90586c",
+              "Filename": "36e67f31-421b-414d-9f5c-9fe54670b6c5.jpg",
+              "Caption": "Garden 5.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fbf316f2-3922-4157-8cd1-13e12cd676d6",
+              "Filename": "104d2900-8c03-49b3-a094-8b56c55775d2.jpg",
+              "Caption": "Garden 4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "93c05433-7196-4781-9b9f-055867d2f027",
+              "Filename": "9a97ae50-8a15-4659-a260-21375887fd9b.jpg",
+              "Caption": "Ground floor plan.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4783aa2a-f23f-4385-beac-cd5449e8b398",
+              "Filename": "99ec12e9-e571-40b6-b860-292717a7d83d.jpg",
+              "Caption": "First floor plan.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9b00cbc9-7149-446c-a864-62a74f6ffe87",
+              "Filename": "https://youtube.com/embed/aNhcv-f1DaU",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            },
+            {
+              "Identifier": "eb809b41-a9c9-438d-b1cb-c16bbd7e0fa0",
+              "Filename": "045a6a2d-f2c0-4582-a8ee-c68e7c4b60ac.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e0aaefc6-8a85-4991-99e4-d15dc17048e7",
+              "Filename": "0c7088cd-d7c3-4ad6-b1ee-87fc7d9daca3.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a2c118c4-6f0a-412a-a7df-4db23ca34276",
+              "Filename": "809117b8-d395-4e3d-a8c0-cc9bfebb0120.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "37ae04a6-8347-4b32-9c66-30213c0df906",
+              "Filename": "bfd66adb-0410-4806-b999-c817936b8975.jpg",
+              "Caption": "Murphystown House + Site.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0878267a-1a50-40aa-9a73-3728c83ab160",
+              "Filename": "10a8043a-8ec4-4d51-903c-ee05f29c4821.jpg",
+              "Caption": "New Site Layout (3).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6cf7d7a7-1845-488e-87c6-080bf676b8f3",
+              "Filename": "c2a98d4b-a759-4d7b-a4de-299f3f30ff19.jpg",
+              "Caption": "New Bung. Site Layout (2).JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a1c38d5a-c60a-43e1-8c6b-724ab045fcc0",
+              "Filename": "30ff16a3-487e-4aa5-bd08-5fe4131fa0cf.jpg",
+              "Caption": "scan0004.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "49013c96-b6c1-40c3-9075-9c6b1f463809",
+              "Filename": "dc185d0b-a123-42c4-817c-c862dee26d05.jpg",
+              "Caption": "scan0001.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fc6261c0-746e-4eb7-acf8-4d3677bdc293",
+              "Filename": "26e1b2ee-5724-4bfc-96d6-857a73d9292e.jpg",
+              "Caption": "scan0002.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8e240fa6-f0f6-4fb9-a9e3-1bce1931bc1d",
+              "Filename": "c3cecce8-f8be-4696-a45c-3ba80d5782d7.jpg",
+              "Caption": "scan0003.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "756a2f3339f0494796414eb8d8ef14d6",
+          "OriginalImagesSuffix": "756a2",
+          "MainPhoto": {
+            "Identifier": "72fc332c-4fcc-45eb-962f-2c70720973bc",
+            "Filename": "2c67f1ff-9740-4c85-974c-093058db4aca.jpg",
+            "Caption": "Aerial 3.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/0/4946003/2c67f1ff-9740-4c85-974c-093058db4aca_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,950,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "311.3",
+        "BedsString": "5 beds",
+        "IsTransact": false,
+        "PropertyId": 4991085,
+        "DisplayAddress": "Bel Air, Westminster Road, Foxrock, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/G.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "9da5a81f-6b72-461a-8564-afe181613484",
+              "Filename": "43b8565b-d13a-483a-b744-00e80c9d3521.jpg",
+              "Caption": "Bel Air Front.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b41fb613-0f1a-45f8-ac31-deda32128ad0",
+              "Filename": "1118bd04-15b1-4961-b559-d575c8596019.jpg",
+              "Caption": "Bel Air Reception Hall.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fd795a8d-d0a5-41ec-860c-df2545773666",
+              "Filename": "0672f1b1-479f-4364-a194-ea4247ec8663.jpg",
+              "Caption": "Bel Air internal hall.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "16e4bf4b-1ebc-469c-aa5b-1f1da12f2563",
+              "Filename": "f0c4dbfa-668a-43c6-9ece-4eecb164b145.jpg",
+              "Caption": "Bel Air drawing room open.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5654e3b8-f7d5-42c0-986b-529778bf8264",
+              "Filename": "c43fa9fc-1614-455f-8357-00d44a7e1bca.jpg",
+              "Caption": "Bel Air Drawing room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a74944ea-8c85-4695-a575-b9975e2ae054",
+              "Filename": "d6f05413-0be7-4a72-bb5c-209122fa3dac.jpg",
+              "Caption": "Bel Air small sitting room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "484623c0-ff4c-4d76-a8ac-7129befb200d",
+              "Filename": "5c4af04f-43d6-451e-823d-1e4a3bf173b2.jpg",
+              "Caption": "Bel Air Dining Room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a4ea40c3-c04f-48c0-bda0-63b9bae9ac7b",
+              "Filename": "49741a2a-3c78-42c2-9fb9-01806dd4b2e1.jpg",
+              "Caption": "Bel Air Kitchen small pic.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "87d65a2e-f042-4496-917d-eb9dd67ae0c9",
+              "Filename": "5794a15e-a925-4040-9583-478d56435354.jpg",
+              "Caption": "Bel Air staircase.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "337dc3e7-1229-457c-af90-0718da6b321a",
+              "Filename": "6484791f-91bd-475c-8599-a3a42d086fa4.jpg",
+              "Caption": "Bel Air Bedroom (small pic).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1cbf73dd-b58b-43dc-8db6-def1e7d7bfc6",
+              "Filename": "f598fa20-9d65-448e-8ba0-6cf1dc9a0496.jpg",
+              "Caption": "Bel Air bathroom small pic.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c2c006fc-f84c-4c54-a169-fee795f8036d",
+              "Filename": "ea2dd96e-2378-4001-9776-c00196d2847b.jpg",
+              "Caption": "8s9a8529.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f0157ff3-57ad-4a47-9a8c-09788a6ccb5d",
+              "Filename": "6a797355-c467-4122-8276-580e2bfca602.jpg",
+              "Caption": "Bel Air driveway to side.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "626b746f-351b-4100-85cd-b9caaa0db387",
+              "Filename": "6ec1ec6f-0c4d-47b9-ac64-60fd1a378081.jpg",
+              "Caption": "Bel Air Driveway.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cbd57d56-c255-4bca-a173-bc0e1b105b9e",
+              "Filename": "fe7a83bb-de07-4870-a3af-9efb1b187864.jpg",
+              "Caption": "Bel Air Site Plan .jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bb36d8ee-93bb-4294-b7d9-7f89b645d6d3",
+              "Filename": "37c10932-63f0-4dd7-911d-3dbfcc745e1c.jpg",
+              "Caption": "bel air, westminster road - floorplan no measureme",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "66d7886f-bf15-45b8-acc5-b18a3eef0188",
+              "Filename": "3a80b9bd-fa68-466e-92a4-5dc652e4847b.jpg",
+              "Caption": "Screen Shot 2026-03-27 at 15.03.17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "840c0a003ab1449789b09951f5744a0c",
+          "OriginalImagesSuffix": "840c0",
+          "MainPhoto": {
+            "Identifier": "9da5a81f-6b72-461a-8564-afe181613484",
+            "Filename": "43b8565b-d13a-483a-b744-00e80c9d3521.jpg",
+            "Caption": "Bel Air Front.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/0/4991085/43b8565b-d13a-483a-b744-00e80c9d3521_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,695,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "230",
+        "BedsString": "5 beds",
+        "IsTransact": false,
+        "PropertyId": 4997399,
+        "DisplayAddress": "8 Kelston Park, Foxrock, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/B3.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "649cb55a-ef21-47bb-a14a-a68a58f64987",
+              "Filename": "cabf9b8b-0420-4914-b1b4-4f63dc16d7a2.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_63.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2a9b0bf0-2a8d-4027-a247-ccbd3b2116b9",
+              "Filename": "34d2e079-db94-425b-afef-7a53ab910a63.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_32.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e0c1e68b-18f1-4c80-86cc-1ff16996595f",
+              "Filename": "f9a2201d-2911-47a2-80eb-2d1c5acc15e1.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_37.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5f2244f1-374a-47f0-b9bf-6530bf46372d",
+              "Filename": "02a7bb71-f50e-43ab-9b00-f49ec73300cd.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_33.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cbb9ce9d-f5db-47cd-9928-72ec9d66b937",
+              "Filename": "3a55c31b-1053-44f8-a32b-ed340a24e63a.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_36.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "175616da-2fd0-4b1c-8bb5-334f9b41212e",
+              "Filename": "b297565a-cea8-4be6-b5db-49c6d273acda.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_34.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2d3e23dc-6ee3-4f17-8ea5-d3f4db2f684b",
+              "Filename": "b11c0535-9da7-49c4-80a5-7787423ad2da.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_39.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5b862ea8-2514-411f-9d48-315635e8a0cb",
+              "Filename": "6d159b1a-9851-4e8d-b37a-f4e5b042f9fd.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_30.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cf19a2aa-f722-4561-a0fa-101532aab8d0",
+              "Filename": "ac4b11b3-8275-451a-b7b7-d514dccddd24.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_31.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "619bf9e5-cd58-4517-a362-e7a109cbb5c9",
+              "Filename": "cc3d4ce5-783f-4a7d-bffb-c62078e35785.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_55.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ab16d88e-6f7f-49f7-a559-d2fd4d775977",
+              "Filename": "098b8fb9-3a02-46f0-b476-867135690713.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_57.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bc8cd578-25d5-4058-9e28-a9252cad05da",
+              "Filename": "8710cd76-a6bb-41c1-885a-e4f501f7c1e9.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_61.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9ca3cf87-9c03-4cc3-ac70-83352a4423b6",
+              "Filename": "fa913bf1-6e39-479d-b858-3778c80626ef.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_59.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9a34c51d-b264-47af-a593-6e6799567b92",
+              "Filename": "07d7725a-8794-4eb2-88e1-7ce4da671e89.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_41.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "900a1e02-0568-40f0-a1da-51cb6bba0a76",
+              "Filename": "7f08e633-e402-44e6-a826-2c69434d9863.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_29.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7f2fbadc-e62e-4fbf-be81-2ba4686ebdd8",
+              "Filename": "de4ef830-8b54-401d-9cf6-5338259af6dc.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_44.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6ca1598d-314a-4234-ad76-350221762939",
+              "Filename": "53b724a8-016a-4622-bcd7-4ce63432e3b4.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_45.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1fc0d79c-6dd2-4bd0-a111-53f4f7a67e27",
+              "Filename": "b34b8da8-ae6d-49c2-8e71-c9ea2efb4590.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_46.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fba274aa-f3b9-4e20-87b3-8c235d534865",
+              "Filename": "78edd535-3976-49ce-b2af-80df84613982.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_60.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7906c029-a5b6-4d49-b558-e55f8a7ff282",
+              "Filename": "18658d7f-542b-4e72-a554-d9665d44d63c.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_47.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9ee12592-a36f-4dff-bca8-229e62daefb0",
+              "Filename": "26c46f56-8e51-4acf-b07c-688e9d64c0c8.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_48.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "15fc3286-3778-46c4-82f2-fa94432b780c",
+              "Filename": "3616ef1d-64da-4522-97bf-cc5ef3426f83.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_40.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "915e86ae-3315-45fc-bdcb-2897e3f1054a",
+              "Filename": "7bbc3103-d165-42ff-9cd6-a2295c1a8640.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_49.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "40314fbb-3a1d-4a0b-ba08-b3c8fbfc3eb5",
+              "Filename": "bf2f0743-584d-4f5b-9edb-43e4baea1218.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_50.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8f7fb93a-5d78-4293-ad47-b66c82585ec0",
+              "Filename": "aade4f84-ee96-40d1-ba3b-3e47202cea7b.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_51.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f0eeb93f-7214-49a0-b138-646df60b6d34",
+              "Filename": "33fccb94-4b09-43a6-9e6b-aad1c64a97aa.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_52.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "36784753-8741-43dc-a126-b3b9b9c3d011",
+              "Filename": "3f9bc1db-d15f-4354-982f-8ced6a93e614.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_53.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5d96ff40-88ab-4d9b-9bc0-40be3da1c112",
+              "Filename": "9586768b-7864-4bd2-9855-bee8c5415681.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_54.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "847ec6a0-46b1-4517-b1f5-5ba57a0caf13",
+              "Filename": "bb5ac6ab-78d0-4dc4-a971-b661a8ffc53c.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_21.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2f836dc7-1fe5-45bf-bf7a-8a54a6682804",
+              "Filename": "071a0a9f-bdb3-4dde-aff5-a83fd609ba91.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_62.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "fab9ceadf0fa465bb90e9a3cb577d80b",
+          "OriginalImagesSuffix": "fab9c",
+          "MainPhoto": {
+            "Identifier": "649cb55a-ef21-47bb-a14a-a68a58f64987",
+            "Filename": "cabf9b8b-0420-4914-b1b4-4f63dc16d7a2.jpg",
+            "Caption": "https://assets.reapit.net/dng/live/pictures/STI/13/STI130391_63.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/9/3/4997399/cabf9b8b-0420-4914-b1b4-4f63dc16d7a2_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,450,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "449",
+        "BedsString": "5 beds",
+        "IsTransact": false,
+        "PropertyId": 5000559,
+        "DisplayAddress": "Marble Hall, Ferndale Glen, Rathmichael, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C1.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "e906921d-d94b-416d-813c-b7a52965276b",
+              "Filename": "4975b91f-eefe-413c-912f-59ad41676f47.jpg",
+              "Caption": "Marble Hall - Front Exterior 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1d0040ba-2125-45ae-b6cc-c0f67a3bee24",
+              "Filename": "b45a16f9-5032-476f-9007-e6f28e83fa10.jpg",
+              "Caption": "Marble Hall - New Exterior Shot.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e64e6cae-dc21-4e83-adff-25c17c2aff32",
+              "Filename": "d3cfc472-08ab-41cb-bd40-71a999e0d96c.jpg",
+              "Caption": "DJI_0383.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1fad3cd4-4386-471e-a63f-adb7f8538bbb",
+              "Filename": "9466c4a8-cd66-439f-ac86-9618f84f82f5.jpg",
+              "Caption": "Marble Hall - Entrance Hall.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ab1365d4-5525-4fc3-be18-4ee2fe5515dc",
+              "Filename": "1a024261-c3a6-4470-824f-7dbe918edba1.jpg",
+              "Caption": "Marble Hall - Cornicing.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "db92d30a-733f-47a3-b2fd-73acd5d94b9d",
+              "Filename": "7ac7f82a-1410-469c-9d54-bc6e686384eb.jpg",
+              "Caption": "Marble Hall - Living Room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b525eea0-162e-49cf-9873-7f5cf2990185",
+              "Filename": "555cecd0-4578-4d00-b764-e8a2cef49e47.jpg",
+              "Caption": "Marble Hall - TV Room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b535aaad-4de1-4f9e-ad0d-b1b702fcca1b",
+              "Filename": "316210d5-fd88-45eb-822e-b37767638984.jpg",
+              "Caption": "Marble Hall - Drawing Room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8f062aa5-83ab-4851-a513-c4d2da25dc7e",
+              "Filename": "f01c2058-3a02-4b2a-9365-bfa1678c71fd.jpg",
+              "Caption": "Marble Hall - Archway.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d7bf15d5-4ff8-4e80-a09f-2b0409eb1ba9",
+              "Filename": "273e9ea2-5b70-4ecd-a3ee-b3e60200dc0c.jpg",
+              "Caption": "Marble Hall - Kitchen.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "906e456e-5e73-4eb1-bc4d-86f9c779fed9",
+              "Filename": "3a8818e3-a449-4a3a-86fa-ca2be420edba.jpg",
+              "Caption": "Marble Hall - Aga Cooker.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "043f18e6-d46a-4b2b-b6eb-ae9db51fea7b",
+              "Filename": "658bfcf2-7a5b-4586-b781-333a730fb0f4.jpg",
+              "Caption": "Marble Hall - Breakfast Area.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4d0f97d3-68f8-438f-9aea-e98cf3c5dc69",
+              "Filename": "bdfa0d9d-750b-4455-b912-79df624387f7.jpg",
+              "Caption": "Marble Hall - Landing.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "df3543a6-3823-4420-a616-a7d61885ea3b",
+              "Filename": "d85e60ec-2579-4f54-aea3-a1b4ba17498b.jpg",
+              "Caption": "Marble Hall - Master Bedroom(different shot).jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e465d7f5-fe80-42d2-886e-5b0778dae621",
+              "Filename": "2d1508ad-28d6-44f6-a31f-c20c975ecd08.jpg",
+              "Caption": "Marble Hall - Master Bedroom.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "04dc2967-d839-4373-80e9-21b0e19c5456",
+              "Filename": "e1bb5bbc-060c-46cb-ab05-960e1807e184.jpg",
+              "Caption": "Marble Hall - Bedroom 4.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b33f56e1-dd36-47c9-a037-da7366973d3a",
+              "Filename": "4b85cd98-7028-4f47-906a-e05b0970323f.jpg",
+              "Caption": "Marble Hall - New Rear Exterior.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9ef6e3f8-1c69-42d7-8736-489362e53763",
+              "Filename": "c4a730ce-1db2-4b21-818d-b21ca138911a.jpg",
+              "Caption": "Marble Hall - Rear Exterior.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4fb3a24e-2e82-4334-95ec-65df922a1068",
+              "Filename": "040911ce-bdbd-42bd-b450-edba170b46fa.jpg",
+              "Caption": "Marble Hall - New Rear Garden 2.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c8428d71-1947-4479-8b9f-296123c4d74f",
+              "Filename": "bbaa415b-2370-48bf-aef8-dfccd0ff5869.jpg",
+              "Caption": "Marble Hall - New Rear Garden 3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fce2f107-9dd5-4df3-ac1e-8db48055f923",
+              "Filename": "574c1184-2593-476c-9f49-c5ed50af9dec.jpg",
+              "Caption": "DJI_0389.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a9907f85-1615-433b-8f29-151d2e7a28b9",
+              "Filename": "486228fd-c21f-4dad-8cc1-761d264a470a.jpg",
+              "Caption": "DJI_0396.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b108cd0e-b310-4c82-9284-777fbe8d50fc",
+              "Filename": "3fc3aca6-0e92-41e3-9547-50ab232fa294.jpg",
+              "Caption": "Marble Hall - New Rear Garden.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c94f2055-ffb0-48bd-8910-4ee62ec76347",
+              "Filename": "4c6478df-8f75-43a6-98fd-7a26b1b61941.jpg",
+              "Caption": "DJI_0409.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6625b082-6a1b-4991-a853-254f7dc475b2",
+              "Filename": "93f74ae3-54d8-4f6c-b11f-cb2d942b6dce.jpg",
+              "Caption": "DJI_0424.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8018894c-0da6-482c-bc01-bf6a79304cfb",
+              "Filename": "c99733e2-3d2e-4b66-83bb-0d1f5854f022.jpg",
+              "Caption": "DJI_0425.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c0d55d51-39d1-4ae3-a557-44022cf3f7ca",
+              "Filename": "feed94f6-0b63-4a0f-87db-bc67ac66367f.jpg",
+              "Caption": "DJI_0433.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7dfed591-138b-4066-85ac-5aa5fca65c6e",
+              "Filename": "7365aedb-e07b-4b16-b2fa-a7a36da31e5a.jpg",
+              "Caption": "DJI_0436.JPG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "863a28ba-9a11-4513-b622-64ce54ba8539",
+              "Filename": "f1f26f3e-0b36-4b5c-ba66-ba28d2abbf3d.jpg",
+              "Caption": "Marble Hall - Floorplans.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d3832b45-1c3e-4c91-be8d-830d14bf0ee1",
+              "Filename": "a0fbd532-b1a3-4957-9225-d3bc784c3cb0.pdf",
+              "Caption": "Brochure",
+              "Type": "PDF",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "709e7c7adef24b29b74d63e367581ee6",
+          "OriginalImagesSuffix": "709e7",
+          "MainPhoto": {
+            "Identifier": "e906921d-d94b-416d-813c-b7a52965276b",
+            "Filename": "4975b91f-eefe-413c-912f-59ad41676f47.jpg",
+            "Caption": "Marble Hall - Front Exterior 2.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": true,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/5/5/5000559/4975b91f-eefe-413c-912f-59ad41676f47_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,025,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "200",
+        "BedsString": "3 beds",
+        "IsTransact": false,
+        "PropertyId": 5005820,
+        "DisplayAddress": "Woodview, Gordon Avenue, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/F.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "7559058d-75d9-4840-9d7b-e1c7fca95826",
+              "Filename": "cdb68bfa-af64-4224-baa2-daf8f2116a8f.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "95970e3f-9d35-4056-8401-b46fb375cbb9",
+              "Filename": "9653237f-4c66-43e0-b34a-941fd7aa03ac.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "95dc4e74-81af-40e9-8132-77a8ca2ab9e0",
+              "Filename": "26e4b382-771d-4e17-acfb-26851d0bdfed.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "352cb3b9-a2c8-4297-9448-02feb9fa420e",
+              "Filename": "b5c76c4d-0d35-46cc-9f6c-5dbb4fb5aefa.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "18c932e0-0458-4df8-b8d6-54a0cb774473",
+              "Filename": "3bdc8371-3ac3-4c43-8a11-58b146e51540.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a830bb6c-e02d-467b-964e-257145d4a31f",
+              "Filename": "fc6512dc-87c3-43d2-bd8e-619768401c7a.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "119f6b1f-3063-4383-92e4-952c89b83a60",
+              "Filename": "fadc8d6f-5fae-4e69-b1f7-ce5f27ddb5d8.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3a89712e-e5fa-4bfd-8a5a-0ea91fef7979",
+              "Filename": "a3a15438-4a1d-4145-834e-106466f2c432.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4ea9a4e0-dd98-462f-9faa-2d69dc62f4b6",
+              "Filename": "f91e3a15-8f2e-42e1-b67f-5fab5da16882.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e7518623-fec2-424e-bbd7-1712553686eb",
+              "Filename": "e4caccf0-73b7-49cc-a0d0-66d56d73f806.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "de21743c-2d27-4d86-b666-9294f6c8a8d8",
+              "Filename": "8f03c737-7b8f-4c64-8965-de8a21a1ad88.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0f0dbb36-fcb1-4393-8fd7-f48c0698d4ce",
+              "Filename": "83503d1d-20f4-4f1b-a064-5bb25e12b6d7.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "677c7d16-4cbf-444f-aa87-38e0cac89632",
+              "Filename": "8acd656b-93ba-410c-9034-b4ee9916569b.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "268f8a47-5fc8-4db8-8146-fb91207e32e7",
+              "Filename": "0e42a1e4-fa44-4824-9c21-93dcbc745a14.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a1ab5885-63cf-4b2f-adaf-51fd6579f543",
+              "Filename": "b0b96ab7-a451-4a08-af61-5f6a9184fe93.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "43e96c59-e3af-40b3-9e41-35be8f0bda5b",
+              "Filename": "6c96b537-4825-4b5a-9686-772ef922af14.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d1006655-b422-49a4-9fae-b776c19b18f1",
+              "Filename": "8ad53fbe-1f2a-4e9d-b223-79bde30751c5.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c33f2e38-8d0c-4a65-9b5b-cd8f8adbbc2e",
+              "Filename": "344cc7b9-9c7d-4f93-93f3-d13acd9ac2c9.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f655fbce-e4d8-4a51-a79e-ee18de4bffa3",
+              "Filename": "37f5a141-5fa1-4c23-8996-93796f96c7ed.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e5558212-c52c-4d4c-9c6e-7f4ecd0a39e1",
+              "Filename": "78951639-2424-4993-9b13-c517ff4d8a41.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0b23c1d8-59d7-4ebc-b245-ece4be10c3e8",
+              "Filename": "2f6f6538-157f-45ec-8ebb-47594159183a.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_22.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f20bcc5b-eca6-46b3-9c39-3fe61ae3f282",
+              "Filename": "https://youtube.com/embed/p7XrWOEtp-M",
+              "Caption": "https://youtu.be/p7XrWOEtp-M",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            },
+            {
+              "Identifier": "5919934a-a31c-454a-b5cb-b5b3dd30794c",
+              "Filename": "https://www.youtube.com/embed/GOOzmWE31t4",
+              "Caption": "https://www.youtube.com/watch?v=GOOzmWE31t4",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "2aa458cf66ae45eeb2594125d4cd26f6",
+          "OriginalImagesSuffix": "2aa45",
+          "MainPhoto": {
+            "Identifier": "7559058d-75d9-4840-9d7b-e1c7fca95826",
+            "Filename": "cdb68bfa-af64-4224-baa2-daf8f2116a8f.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260101_19.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/0/2/8/5005820/cdb68bfa-af64-4224-baa2-daf8f2116a8f_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€2,450,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "380",
+        "BedsString": "5 beds",
+        "IsTransact": false,
+        "PropertyId": 5019058,
+        "DisplayAddress": "Newlands, 46 Hainault Road, Foxrock, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "eed9f130-0d96-42d8-a1b2-f8bf9c2f920e",
+              "Filename": "2e774823-575f-4610-92d4-86c52251afa3.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2e3fbb19-6916-4f28-8128-0f9453775407",
+              "Filename": "ff6c4170-862c-4dae-8816-7c9ef405a0af.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_25.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e59fd3c6-8b68-4d0e-b4fa-49581613794a",
+              "Filename": "ce3ff2ce-636f-4e72-be16-fb96f1b3ca09.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "209327ae-44da-48a9-84aa-df5c5518f792",
+              "Filename": "7d137577-b215-4a36-b540-ddad3a9cdfac.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b4c0baf7-a5c5-473e-a7aa-2c8ef823c5b6",
+              "Filename": "5cc0cd10-e8d0-4347-8d2a-43e406c1d6fc.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b20b06b1-8575-4315-8d38-0905205f6fa4",
+              "Filename": "43e52cd1-6135-4632-a126-997bcf7973c9.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ae892739-598d-489f-a111-32716298413c",
+              "Filename": "5ad8199e-fb70-4528-b86d-d4d464ed5eb4.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8271445b-3902-4370-9ea4-8325e58009eb",
+              "Filename": "04c01d2e-4523-47dc-94c0-214d03777ca6.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_26.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cb64c674-b391-417c-be14-49a179a3c6e0",
+              "Filename": "6db2124f-ace7-4ecb-87ba-052b530ed49a.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_27.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7043b29d-c348-42d3-a338-209c9bea4278",
+              "Filename": "4097d8a1-59f0-446c-b747-f6908f415d4a.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_28.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d179a07f-1981-4b4d-81e3-3c7e21198f12",
+              "Filename": "ab6356ca-6982-4e02-acaa-7a832ee483d5.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_29.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4e284e68-f133-4d98-9dde-655f6d929105",
+              "Filename": "e866e77d-646f-4959-93d0-7c5b73b3b168.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_24.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "01d23024-776c-4639-b0f7-b68cd20e9e19",
+              "Filename": "f01878c5-658f-401b-a0a6-df4fc33ebe6f.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6de8b99e-b7f2-46fd-a4db-6e50a75cbc0e",
+              "Filename": "b887427a-57b7-4a65-8358-1a08c536e49f.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d461be38-1363-416c-9127-27a35e5dab49",
+              "Filename": "c4869388-cc52-4946-a5a4-ca57a0d77bff.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "75a4a370-df2c-4294-bbb7-28557f539a90",
+              "Filename": "b08807f4-b14d-4dff-9716-e304c9a31f86.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "086d5554-1007-4d00-85fd-9628addaf4df",
+              "Filename": "410e5fa2-1459-4e90-aac9-2a012f90caf1.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3a98db7b-7ade-4b70-ba95-9a73139ea21d",
+              "Filename": "6843d4a9-1938-4506-bf5c-fe1ce92d47ab.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a844c966-bab0-4e03-a026-df29cbfc6a48",
+              "Filename": "10cee192-83a2-4518-9513-43a0b3368146.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8d090eed-ed46-47d2-a320-e8f60c937173",
+              "Filename": "f3109b56-9cba-4b76-9626-61b95a32c306.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7f3d4f4e-07b1-432b-afad-740ec714e65d",
+              "Filename": "1ea9ffe1-e8c8-4e1b-aefa-29d3f10cd2c7.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "36a381a7-84f3-4b48-b99b-ef5f58feaae1",
+              "Filename": "7b2a026f-c079-4a96-a713-2d3dc2da325f.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "4a10a332-8353-4c76-9cd4-8d7894ce9e43",
+              "Filename": "344eafe0-f7c0-4e5b-a372-06faa8a58437.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "998ca9e5-7778-4176-9b16-d02c3f42385a",
+              "Filename": "2d5f8db8-7aea-4ca1-a824-34444f75926a.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7d26eb15-612d-40e3-96f2-a0a0177e3397",
+              "Filename": "17af6f18-8710-4382-879e-43bb538226d0.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "9782209f-2fb1-4e50-ab63-4c183535d41a",
+              "Filename": "4f4f779e-4e54-4c30-ace5-ffcebc951e2e.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "42e77e5d-d500-49aa-a4d4-728526a77de2",
+              "Filename": "413533ac-f927-414b-840c-c4cbc5d4b204.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_21.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a96c0da3-1f47-4f74-936a-6bba626bc76f",
+              "Filename": "18a8fd43-5239-4f49-b7d3-f2463c4337f4.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_22.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "79915021-c60e-464c-a8e7-d4222e83353a",
+              "Filename": "f942001c-31ac-4df7-b83f-129508cde8b4.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_23.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "a9efd74e-1ec6-4a0b-a6bb-59013bd8dce2",
+              "Filename": "f298db7b-ba14-475e-af0a-cf4f02ef28c7.jpg",
+              "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_30.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3da15d23-8397-4e59-a83e-a17969229313",
+              "Filename": "https://www.youtube.com/embed/60YPQ6JmRZ4",
+              "Caption": "https://www.youtube.com/watch?v=60YPQ6JmRZ4",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "9ca1919bcbda420082e323f081c7053f",
+          "OriginalImagesSuffix": "9ca19",
+          "MainPhoto": {
+            "Identifier": "eed9f130-0d96-42d8-a1b2-f8bf9c2f920e",
+            "Filename": "2e774823-575f-4610-92d4-86c52251afa3.jpg",
+            "Caption": "https://assets.reapit.net/dng/live/pictures/CLS/25/CLS251184_20.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/8/5/0/5019058/2e774823-575f-4610-92d4-86c52251afa3_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,550,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "167",
+        "BedsString": "4 beds",
+        "IsTransact": false,
+        "PropertyId": 5024322,
+        "DisplayAddress": "22 Cairn Hill, Foxrock, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "05f9b985-ff65-4c4d-905b-336bc860e339",
+              "Filename": "939b0d63-bbed-4bdb-8d5f-1c1cd2eaacbb.jpg",
+              "Caption": "22CairnHill_Front.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3eeb19b6-f5a2-4586-86f8-240f4e8a82f5",
+              "Filename": "0f27f390-da8b-40dd-a885-84dfc7322e81.jpg",
+              "Caption": "22CairnHill_1_Entrance Hall.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cee8676f-3d17-4e65-97d1-2674e148c223",
+              "Filename": "b9a66826-6831-4d65-a0cb-78d26b0a9338.jpg",
+              "Caption": "22CairnHill_2_drawing room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fa8a5261-8de9-45f4-8945-58ccd234d9d5",
+              "Filename": "16f76070-49ca-4555-b9be-1f7d2e1b32c9.jpg",
+              "Caption": "22CairnHill_DRAWING to dining .jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8978e7d9-6955-4c67-8209-01033b578cbe",
+              "Filename": "5ae83ab3-e17f-4366-9e99-2cc58e9d772b.jpg",
+              "Caption": "22CairnHill_sitting room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "613e522f-4f2f-4239-8dd6-a6e3e0af329d",
+              "Filename": "2acce447-82ee-43fd-a5d0-e1f603065abd.jpg",
+              "Caption": "22 Cairn Hill dining.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "da7a8be9-e722-4f82-9b3e-3ccc85859fc1",
+              "Filename": "507da874-89ec-47b7-b347-19c9bec87618.jpg",
+              "Caption": "22CairnHill_Kitchen-diningjpg.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "316c2110-db58-479d-9c82-7d0f8457e52c",
+              "Filename": "acfc8a9c-9605-451a-95a7-de877d99dd73.jpg",
+              "Caption": "22CairnHill_guest wc.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "759a8d53-e0e1-4e88-8f08-243cdfcfdeb1",
+              "Filename": "8b2456a6-5035-4f0b-861a-c58c4539f0b1.jpg",
+              "Caption": "22CairnHill_master-dressing.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "63f24d75-9396-4eab-aa33-573e84a474b8",
+              "Filename": "5c12bbc2-3469-49d5-8474-6037e76b046d.jpg",
+              "Caption": "22CairnHill_bedroom front flower curtain.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5e3abeb2-f8f0-418a-ac43-3079e14c23a9",
+              "Filename": "31339e32-fffd-4848-9a5c-82899cf3d7c8.jpg",
+              "Caption": "22CairnHill_shower room.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "de017f40-b298-4d7b-b35f-7d8f814f6eb0",
+              "Filename": "7276f043-a12f-4752-ae6a-3d0b247966fd.jpg",
+              "Caption": "22CairnHill_child's bedroomjpg.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e770667d-c258-4e20-bd41-30030fc59ba7",
+              "Filename": "f7150e80-a692-4620-9d8d-49bdb632cd24.jpg",
+              "Caption": "22CairnHill_bedroom 3.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0e4b4964-1398-4c3e-a9ae-3f275d6d79a8",
+              "Filename": "5fc92159-2392-425c-aa51-5ce16c5a7311.jpg",
+              "Caption": "22CairnHill_bathroom.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "12fd86d7-543f-44a8-8703-e03fca9977a1",
+              "Filename": "cfa08354-1f52-4c73-b295-fdd70236bd54.jpg",
+              "Caption": "22CairnHill_single bedroom.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d2acd800-fb78-4cc4-8bb7-357f4a10ac0a",
+              "Filename": "5ac7bc61-eede-4939-8431-2a4a32f1abf6.jpg",
+              "Caption": "22CairnHill_edited garden to gazebo.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1c3ac5bc-4db7-46ad-a114-3dbf2e8d8306",
+              "Filename": "43fc8fef-443a-4820-8676-149c861be031.jpg",
+              "Caption": "22CairnHill_rear garden.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5c51c091-3465-4ec1-a1cb-cfe1e372fb3b",
+              "Filename": "5e46de7f-e8e0-4cc7-b101-c4cb1736f1ef.jpg",
+              "Caption": "22CairnHill_patio-lawn.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1c8f4b2e-d181-4516-9831-21d3fb9d65b7",
+              "Filename": "85b36260-0329-4eae-8f9d-6ffdb0940b65.jpg",
+              "Caption": "22CairnHill_view of green.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "74670eb3-be89-4c7e-b8ec-4d225679a436",
+              "Filename": "b9b2ef57-528b-4f10-b533-a179d7cfc265.jpg",
+              "Caption": "22 cairn hill, foxrock - all floors (1).JPG",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "921a49454d924c82bc6ff88fdf949a77",
+          "OriginalImagesSuffix": "921a4",
+          "MainPhoto": {
+            "Identifier": "05f9b985-ff65-4c4d-905b-336bc860e339",
+            "Filename": "939b0d63-bbed-4bdb-8d5f-1c1cd2eaacbb.jpg",
+            "Caption": "22CairnHill_Front.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/3/5024322/939b0d63-bbed-4bdb-8d5f-1c1cd2eaacbb_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,495,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "255",
+        "BedsString": "4 beds",
+        "IsTransact": false,
+        "PropertyId": 5024341,
+        "DisplayAddress": "Woodleigh, Leopardstown Road, Foxrock, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "3bac2fe0-3b2e-467e-a033-95e2af95e680",
+              "Filename": "510c2f33-e919-49a6-af19-cf107d67fc8e.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eba881d5-8798-45d2-b53b-62902835ffc5",
+              "Filename": "d1879ded-ee4a-4212-aa0b-08df8dea6e7c.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fecec206-66f6-4844-b06f-89c9ef1d1833",
+              "Filename": "a6ae08a8-44f5-4e45-bd26-3eb327c9db4a.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "27290099-4078-48db-b4b7-d578c0d59244",
+              "Filename": "0d321501-984b-41d9-bc8e-fa968cdea9dd.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_31.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8ac7941d-7843-436b-811c-c0bb54997d5c",
+              "Filename": "a3d8a713-4257-4de7-8898-1705196773ca.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7c2b625c-f7f2-4aae-a50c-39f14c77ae7c",
+              "Filename": "e3bd6d65-72f4-4af0-aa2e-1cf6eb5a6dce.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eca3b0d9-1fd9-492f-b051-f4ea2723ba21",
+              "Filename": "c182dd57-95ad-4f8f-afcc-0b2a3eaf236e.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "bac9328c-7c96-4c65-a1f5-72f4d511b5fd",
+              "Filename": "0490413d-e1c8-4905-9669-17ec6888b965.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d5051a04-897d-4977-80df-6cee0d838cce",
+              "Filename": "55b37720-2f84-44ae-b65b-abffcbf8dcd5.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_32.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1f0c2b62-1614-4b1e-97e2-56dcd5d785f1",
+              "Filename": "92324721-17d0-4e2e-a8d7-35a97b7e10a1.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_33.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b976e490-6bd6-422d-bdcf-067404484000",
+              "Filename": "660efdca-1240-4f79-91d6-8cc92b4bb913.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "36d8bcb0-3dcf-410b-b4f7-8af094c6c7d7",
+              "Filename": "578f3e22-7174-4b6e-8f58-e54eb2b6f163.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5c900bfc-2ac2-4657-b39e-cf1c27809dc6",
+              "Filename": "15a707d1-e134-41c0-a8e4-6ff99e21bb9a.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_18.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1d3d0f2c-09b7-4c4c-a624-fcfadfe3148d",
+              "Filename": "946f0eb8-d3b7-403f-9aba-bbb0b7ba11be.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "090688f8-a44a-4c8c-84f9-443c7d4b4013",
+              "Filename": "0067fe2b-2ee9-4b15-841a-8471c00eeb30.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_19.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e5d84f90-513d-45a5-96ce-00250362086e",
+              "Filename": "df5daa61-b898-43f3-9c31-aba3e4bc1f00.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "80bcc72f-6bdc-429c-9c4d-2f50ae3c8915",
+              "Filename": "dff05358-a781-4c8f-bcb0-7477d6ce30bc.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_23.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5d94db29-1c6e-4e41-bde1-0360c6057249",
+              "Filename": "a7ecbce3-90ef-485b-b3ef-841ac79c36c1.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_29.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "eee37158-54e0-46c5-b3f2-0e46cc6365e9",
+              "Filename": "122f8451-1a9d-47d6-8e3c-55f29a5a024b.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_22.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "74aa6279-b2dd-418c-90f3-5004cb7c69bc",
+              "Filename": "632fd5e2-94b9-4f3b-946c-ae3b79071cd3.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_21.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7d1e9732-07ef-4de1-8a37-942b5d71bc88",
+              "Filename": "8a5b8502-0943-437a-b65b-fbb09cdd18c4.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_26.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8465ed96-c67d-4476-8f9f-03646f74f841",
+              "Filename": "aceccf1f-5ef5-4e78-8bbb-2e8d2219b052.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_27.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "165bbaf6-2b79-48e0-ae5c-6a24b0d3630c",
+              "Filename": "68f7331e-0140-492b-af16-9c7de771447e.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_28.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "95f1f70b-8965-4f58-b42e-295a36b31825",
+              "Filename": "23afff7f-a57a-45dc-8006-73fff7c1f534.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_24.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fd11c46c-8a85-48d7-8afa-f7597b830cfa",
+              "Filename": "65e56015-f240-419b-b1d3-9952cb7765e9.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_25.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "019fb69e-4c4d-4622-a088-40a8bda5cc26",
+              "Filename": "f8c04462-3cb5-4f91-b3d3-e21543f8edaf.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_07.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "03514e04-aded-4fe5-ae74-d3ad4765d6e0",
+              "Filename": "52578f54-a30a-4c6b-9664-3577dc60f5d1.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "2283a9cb-6ec4-42b8-a9fb-85824cd7489d",
+              "Filename": "368892e4-ad66-4cae-8317-480a92c6430e.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "69ecfafe-c026-4fa0-94b5-3ef2ac1d84b6",
+              "Filename": "3abf6dbf-d53c-446d-9d07-678fd2190675.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7848f79f-41c0-4b12-8bc5-b4da08b82762",
+              "Filename": "c3fe080e-1f58-47b0-b3c1-d15aac6ca892.jpg",
+              "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_30.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "843c74ce-1aa1-48d5-9c65-b11b0cd76b46",
+              "Filename": "https://youtube.com/embed/Ww-z4O4vX60",
+              "Caption": "https://youtu.be/Ww-z4O4vX60",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "10d23ff7053640aa895250ef100f6645",
+          "OriginalImagesSuffix": "10d23",
+          "MainPhoto": {
+            "Identifier": "3bac2fe0-3b2e-467e-a033-95e2af95e680",
+            "Filename": "510c2f33-e919-49a6-af19-cf107d67fc8e.jpg",
+            "Caption": "https://assets.reapit.net/lis/live/pictures/BKR/26/BKR260173_09.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/4/3/5024341/510c2f33-e919-49a6-af19-cf107d67fc8e_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€995,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "157",
+        "BedsString": "5 beds",
+        "IsTransact": false,
+        "PropertyId": 5024522,
+        "DisplayAddress": "124 South Park, Foxrock, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/C.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "31cf223d-4f84-4502-9cbf-68b56cc389ce",
+              "Filename": "7f15ab28-c9f2-43ae-8baf-fadfb39d9c50.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_01.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7d4ef406-4704-4995-968f-3921f0cfdb40",
+              "Filename": "a27a3035-eb3e-43a9-bd9d-8339c04d19c3.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_08.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "410ee5ff-7248-4804-8d3d-c00d0fa725ee",
+              "Filename": "926f2889-b5b5-466f-9e27-3b863d30430a.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_06.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "52362a59-925e-4959-ac09-d3d0ff3e1efb",
+              "Filename": "cdec5b82-910c-4bd3-b410-eaf2ab94b06f.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_05.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "42e44e7a-e8eb-4ae5-8f4a-d152bdbd5dea",
+              "Filename": "efbea9de-0972-42bb-8d3a-af3a0646cd5d.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_11.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5cd33097-5529-4abc-a2b6-7b6be4dff632",
+              "Filename": "27f61f31-af8f-4b03-bdc2-470d7dc6fd03.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_09.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1bb347e6-296a-441b-8dcf-93f60add9184",
+              "Filename": "3a8dbdf6-e7f0-4988-92a0-209797177004.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_10.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "5e632feb-5318-4e41-b649-172f2f8b42ee",
+              "Filename": "d370ade5-0115-46fa-95fd-563e9247f3c4.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_12.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0726c360-06bd-429f-ad97-c333f731d8db",
+              "Filename": "046ad9e6-d2ba-401a-939a-fd2385b33a85.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_13.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "7ab2a1d8-17cc-4f1f-827d-4b534c8edd12",
+              "Filename": "fa740de2-52ad-4b9b-b716-3531b858080e.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_14.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "65948a69-4166-4b1a-9842-20689e2dcf1b",
+              "Filename": "bedda724-08a1-4af3-939c-eb41c70f13e5.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_16.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "51718821-ae2d-430f-b96a-41d7081cac7c",
+              "Filename": "e8aa86d3-ed97-4f4d-82bc-c53df5b8b0e7.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_17.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "51d811a8-f0dd-408d-8375-1c7ce01d6afa",
+              "Filename": "0fde32d2-59be-4390-a7d7-6868924b5473.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_15.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "e0223a4f-783f-4063-bd35-918ee796fc76",
+              "Filename": "4498c0f4-22c2-4621-8e94-c50db736b4a3.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_02.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "1a25f068-ff51-4e02-aa48-905e0c856a23",
+              "Filename": "26f789fd-7b5a-44d2-8449-464b8221f3b2.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_03.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "34e4ef13-b03c-419e-9682-e16902b06ae9",
+              "Filename": "0519a361-06d4-43b0-9aaa-832b839c3783.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_04.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "fc11216b-6ecb-4ae3-b30f-27da9ae01c99",
+              "Filename": "41e0686f-01a1-48bc-addf-eed8544b5990.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_18.jpg",
+              "Type": "FloorPlan",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "d098cb43-d22c-477e-acc7-6a501a1bd5f6",
+              "Filename": "58b7bac5-0a68-4b55-8a4a-de32266e09f3.jpg",
+              "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_20.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "46b0a283-bf20-4045-b4dd-469ba4b19135",
+              "Filename": "https://youtube.com/embed/hFzqc62vlog",
+              "Caption": "https://youtu.be/hFzqc62vlog",
+              "Type": "Video",
+              "Location": "VideoUrl"
+            }
+          ],
+          "Guid": "8a0e4ec64ad343d5838d1fc17c224cda",
+          "OriginalImagesSuffix": "8a0e4",
+          "MainPhoto": {
+            "Identifier": "31cf223d-4f84-4502-9cbf-68b56cc389ce",
+            "Filename": "7f15ab28-c9f2-43ae-8baf-fadfb39d9c50.jpg",
+            "Caption": "https://assets.reapit.net/sfg/live/pictures/FOX/26/FOX260163_01.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": true,
+          "HasVideoTour": true,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/2/2/5/5024522/7f15ab28-c9f2-43ae-8baf-fadfb39d9c50_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€997,000",
+        "PropertyClassId": 1,
+        "SizeStringMeters": "168",
+        "BedsString": "4 beds",
+        "IsTransact": false,
+        "PropertyId": 5025086,
+        "DisplayAddress": "14 Rockville Avenue, Kilternan, Dublin 18",
+        "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/A2.png",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "e12e1577-1ac0-4a24-a5a8-f716430b5e54",
+              "Filename": "09000059-34d0-4d4e-bef4-0427fcf92cee.png",
+              "Caption": "Front.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "ca905c00-9c4f-46aa-ac82-a0acdf60f411",
+              "Filename": "babc091d-b89f-4c96-bd02-fa859df62557.png",
+              "Caption": "hall.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "3f702b9e-cdf5-4df6-9cbf-5a493658c6b8",
+              "Filename": "f6d52f2d-a8e3-4262-b89d-18e3d305e5b7.png",
+              "Caption": "327E31ED-FBE1-435C-BD19-59F784FE1687.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "f2f8ef5f-3485-4b14-9f9c-08a2c00d4f49",
+              "Filename": "48612dbe-3c66-4444-9208-e492e3f5fe40.png",
+              "Caption": "E568B703-CAC4-44D1-9BF3-C4150B80C505.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8eb208c2-4ab4-47f2-9e94-5e74b1c8f124",
+              "Filename": "a2b24b62-60a4-4faf-9947-8eef2f392227.png",
+              "Caption": "living-room.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "af900d8e-7233-4c07-b164-bba884656b64",
+              "Filename": "defb0c69-2faf-4ce3-9987-9f8e46c357ef.png",
+              "Caption": "Living Room 2 Digitally Staged.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "157fb58f-69e1-4b5b-bc85-88b4e6f1f399",
+              "Filename": "e7db2dcb-2864-48ac-8b2b-6827f379d3b8.png",
+              "Caption": "utility.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c09a1f9c-be2b-44de-b001-5a1b784688d7",
+              "Filename": "d6db5a8a-1cf2-427a-9f1f-ca231f451705.png",
+              "Caption": "guest wc.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "c9b0c6df-41a3-48de-98c4-03951aa47d5d",
+              "Filename": "dc79085a-8c32-416d-a3a7-f80480fa8571.png",
+              "Caption": "landing1.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "35ec033b-cd10-4f6c-92b1-5f2c3f6b1281",
+              "Filename": "676dd0de-35a5-4b35-8029-a44805d06eca.png",
+              "Caption": "Bedroom 1.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "83efd3d8-4304-4d9a-972f-3f95cce38d9e",
+              "Filename": "73f6d72d-efc3-4e48-b57e-242ab266930a.png",
+              "Caption": "Bedroom digitally staged.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "cabf366a-7f1c-4603-8edb-4328483c1661",
+              "Filename": "7640d951-a494-4707-9234-ced38a3ec492.png",
+              "Caption": "ensuite2.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "65a02f56-63b3-4636-b18e-c1ad46a2f0c1",
+              "Filename": "fc42c1b9-a288-44f8-8d04-1de9e5ca050d.png",
+              "Caption": "B27448CC-8C80-4CA4-BBC1-85715F08A200.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "842eced3-869c-4022-bd9e-ee659b7a9d7f",
+              "Filename": "2ba5b3ce-a864-4b58-b34e-79e9bd3c0b16.png",
+              "Caption": "C6CCEABC-8CBF-4F28-9A5F-007A9F006025.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "0c5fda1e-a587-464a-bee2-b31e43bb0949",
+              "Filename": "3b3765a9-5a36-4465-ab75-10a8fdcaca30.png",
+              "Caption": "B13C19D8-4160-4F54-8CAB-0433A1D6EB84.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "b989174c-735b-4088-97be-a43cd63b1fb7",
+              "Filename": "ea8eec07-ece2-4899-a032-3679a1ff6639.png",
+              "Caption": "Bedroom.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8ac87a13-a4f9-4227-8545-17ae4d7ee6ca",
+              "Filename": "72740d23-7d45-4f43-a3a1-fded81f04ea4.png",
+              "Caption": "Bedroom 2 digitally staged.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "15073d53-4e61-4dcd-8d95-8272f8274cb8",
+              "Filename": "9b0f42dd-840d-464f-a4e6-47b1c3804857.png",
+              "Caption": "0CFE514B-05AD-4B91-9ABD-A8A193E6AB2F.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "8c72c6fa-7e0a-4beb-b179-8541ffd57453",
+              "Filename": "cb8ee806-7c89-4614-bd84-a91bcb923825.png",
+              "Caption": "landing2.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "002424cb-73b3-4ab1-b2f0-c402d9e49ce5",
+              "Filename": "649d833b-d1fc-4219-86c8-0432f5da4090.png",
+              "Caption": "garden1.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "6912371c-5682-4497-946e-0ddfe47823b5",
+              "Filename": "7e4e6fcd-9ce7-4027-a7e9-a7e50eb93d42.png",
+              "Caption": "777F5BDD-AA30-4AC5-A264-47B8D8FDBE91.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "27e31753-08c6-4d67-9df3-d5143cf095a6",
+              "Filename": "0d8b2afd-2c61-4be8-aced-f034d83c3eb6.png",
+              "Caption": "front3.PNG",
+              "Type": "Photo",
+              "Location": "Local"
+            },
+            {
+              "Identifier": "085c7320-0980-420d-b195-360f214ef582",
+              "Filename": "ebd9b49e-0059-496a-83cc-68215e331ddf.jpg",
+              "Caption": "14Rockville-Floorplan.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "f52ddd4f29bb4df8b1b672cceeb2f6cb",
+          "OriginalImagesSuffix": "f52dd",
+          "MainPhoto": {
+            "Identifier": "e12e1577-1ac0-4a24-a5a8-f716430b5e54",
+            "Filename": "09000059-34d0-4d4e-bef4-0427fcf92cee.png",
+            "Caption": "Front.PNG",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": true
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/6/8/0/5025086/09000059-34d0-4d4e-bef4-0427fcf92cee_l.png",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "Dating back to the 1920's, this is one of Dublin's finest residences, idyllically located along the Killiney Shankhill coastline. Select clients will appreciate the location and secluded setting amid nearly an acre of mature grounds.\r\n\r\nBoasting lavish interiors throughout, the landmark Dublin property has benefited from substantial investment and planning all the way from 1926 to 2026. \r\n\r\nSeven unique reception rooms offer both scale and intimacy for entertaining, while the leisure area features an indoor heated swimming pool, sauna, steam room, and jacuzzi, providing a private spa escape year-round.\r\n\r\nThanks to its acclaimed design and finishes, this generous five-bedroom, 5-star home offers supreme comfort, and the guest accommodation includes a luxurious principal suite with dual dressing rooms, an opulent ensuite, and a private west-facing terrace.\r\n\r\nThis 8,772 sq. ft. elegant home offers a rare combination of architectural grace and bespoke amenities. From the sweeping tree-lined drive and grand oak staircase to the Clive Christian kitchen, wood-panelled library, and an oval mood bar and lounge, every detail speaks to craftsmanship and comfort.\r\n\r\nCirca 1 Acre"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "IsNewBER": false,
+    "CreatedOnDate": "2026-06-11T15:26:45.9130000+01:00",
+    "ModifiedOnDate": "2026-08-15T00:01:13.1430000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2026-06-11T15:27:25.7430000+01:00",
+    "RefreshedOn": "2026-08-13T13:22:08.5570000+01:00",
+    "LegacyIdentifier": "",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "",
+    "IsTransact": false,
+    "PriceAsString": "€3,495,000",
+    "BathString": "9 baths",
+    "AuctionList": [],
+    "PropertyId": 5005865,
+    "BedsString": "5 beds",
+    "DisplayAddress": "Shankill, Dublin 18, Dublin",
+    "Eircode": "D18 P8C8",
+    "Name": "",
+    "PropertyClassId": 1,
+    "PropertyStatusId": 2,
+    "PropertyType": "Detached House",
+    "PropertyTypeId": 39,
+    "RegionId": 1265,
+    "RegionName": "Dublin",
+    "LocalityId": 1459,
+    "LocalityName": "Dublin 18",
+    "Price": {
+      "MinPrice": 3495000,
+      "MaxPrice": 3495000,
+      "ShowPrice": true
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/5/6/8/5005865/11c65d95-48de-4749-b309-5b7335184640_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/5/6/8/5005865/11c65d95-48de-4749-b309-5b7335184640_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/5/6/8/5005865/11c65d95-48de-4749-b309-5b7335184640_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.1238258,
+      "latitude": 53.2331215
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 1,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [
+      {
+        "Identifier": "da058dc7-981c-4109-805c-3d8465880f87",
+        "Filename": "https://www.youtube.com/embed/XrNBcUdZn3s",
+        "Type": "Video",
+        "Location": "VideoUrl"
+      }
+    ],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 337632,
+    "Name": "Five Star",
+    "DisplayPhone": "091 511 111",
+    "Email": "admin@fivestar.ie",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "five-star",
+    "SeoName": "five-star",
+    "Address": "Five Star International, Cathedral Buildings, Galway City",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/2/3/6/337632/logo.jpg",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "dublin-18/1459",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [
+    {
+      "PropertyId": 5004203,
+      "PropertyClassId": 1,
+      "DisplayAddress": "Luxury Lodge Tinakilly, Wicklow Town, Wicklow",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/0/2/5004203/78c4b5e3-61a5-4407-a754-26f275d91c5b_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/residential/brochure/luxury-lodge-tinakilly-wicklow-town-wicklow/5004203"
+    },
+    {
+      "PropertyId": 5018356,
+      "PropertyClassId": 5,
+      "DisplayAddress": "The Writers Cottage,Vacation Rental in Kerry, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/5/3/5018356/7e0fe64f-2a02-4133-8800-19ab7fefd681_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/the-writers-cottage-vacation-rental-in-kerry-ireland/5018356"
+    },
+    {
+      "PropertyId": 5015871,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Kerry Escape,Vacation Rental in Kerry, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/7/8/5015871/5fa06150-0c2f-4179-9339-b861dc6b85ac_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/kerry-escape-vacation-rental-in-kerry-ireland/5015871"
+    },
+    {
+      "PropertyId": 5015868,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Galway ,Vacation Rental in Galway, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/8/6/8/5015868/2bc159b3-6050-48fe-b0b9-fd349bd76da6_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/galway-vacation-rental-in-galway-ireland/5015868"
+    },
+    {
+      "PropertyId": 5012002,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Inver House,Vacation Rental in Donegal, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/2/0/0/5012002/c86c5554-8091-405c-8d15-9d70339e29fb_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/inver-house-vacation-rental-in-donegal-ireland/5012002"
+    },
+    {
+      "PropertyId": 5011997,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Woodbine House,Vacation Rental in Kerry, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/9/9/5011997/d8b03974-a5d4-4d5c-9039-4d7abea456b3_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/woodbine-house-vacation-rental-in-kerry-ireland/5011997"
+    },
+    {
+      "PropertyId": 5011996,
+      "PropertyClassId": 5,
+      "DisplayAddress": "CLEW BAY SUNSET SUITE,Vacation Rental in Mayo, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/9/9/5011996/cde5cb54-dd25-4feb-bcbd-2ea75f225aa8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/clew-bay-sunset-suite-vacation-rental-in-mayo-ireland/5011996"
+    },
+    {
+      "PropertyId": 5011994,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Luxury Sea View 2 Bedroom Apartment Kilkee Bay ,Vacation Rental in Clare, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/9/9/5011994/98aedb69-f0ea-45a3-9490-c37dc136e27e_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/luxury-sea-view-2-bedroom-apartment-kilkee-bay-vacation-rental-in-clare-ireland/5011994"
+    },
+    {
+      "PropertyId": 5011993,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Bluebell Cottage,Vacation Rental in Clare, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/9/9/5011993/baea17fa-5541-43ed-982b-58609e8228e4_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/bluebell-cottage-vacation-rental-in-clare-ireland/5011993"
+    },
+    {
+      "PropertyId": 5011989,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Willowbrook Cottage,Vacation Rental in Leitrim, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/8/9/5011989/fb973ea5-5e94-46bf-9591-89ddf8974b42_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/willowbrook-cottage-vacation-rental-in-leitrim-ireland/5011989"
+    },
+    {
+      "PropertyId": 5011987,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Realt na Maidne,Vacation Rental in Galway, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/7/8/9/5011987/44e4e4ae-8a90-4038-aa55-3407b1e77821_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/realt-na-maidne-vacation-rental-in-galway-ireland/5011987"
+    },
+    {
+      "PropertyId": 5011985,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Rowantree,Vacation Rental in Kerry, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/8/9/5011985/b69ea361-0213-45a4-b512-701e68c942dc_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/rowantree-vacation-rental-in-kerry-ireland/5011985"
+    },
+    {
+      "PropertyId": 5011984,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Rock Lawn Cottage,Vacation Rental in Cork, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/8/9/5011984/12662ac1-6089-419c-ba76-37e364e720f8_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/rock-lawn-cottage-vacation-rental-in-cork-ireland/5011984"
+    },
+    {
+      "PropertyId": 5011983,
+      "PropertyClassId": 5,
+      "DisplayAddress": "The Old White Cottage,Vacation Rental in Wicklow, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/8/9/5011983/0eeb654f-b92d-4ef5-a392-8cc62bf47957_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/the-old-white-cottage-vacation-rental-in-wicklow-ireland/5011983"
+    },
+    {
+      "PropertyId": 5011981,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Lane Cottage,Vacation Rental in Wexford, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/1/8/9/5011981/04c50bd9-b33d-42f4-a76b-2f9da66a1b6f_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/lane-cottage-vacation-rental-in-wexford-ireland/5011981"
+    },
+    {
+      "PropertyId": 5011980,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Sea View House,Vacation Rental in Galway, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/0/8/9/5011980/bd0f4794-c739-4f49-b706-ed646eb3ab02_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/sea-view-house-vacation-rental-in-galway-ireland/5011980"
+    },
+    {
+      "PropertyId": 5011976,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Woodlands Retreat,Vacation Rental in Clare, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/6/7/9/5011976/fa60aa8c-3070-463e-8391-faf3b3ba2609_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/woodlands-retreat-vacation-rental-in-clare-ireland/5011976"
+    },
+    {
+      "PropertyId": 5011975,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Lissadell Lodge,Vacation Rental in Kerry, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/5/7/9/5011975/0a41669e-aede-4a97-9c6e-d4fe3d50da5d_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/lissadell-lodge-vacation-rental-in-kerry-ireland/5011975"
+    },
+    {
+      "PropertyId": 5011973,
+      "PropertyClassId": 5,
+      "DisplayAddress": "Beechwood Kenmare ,Vacation Rental in Kerry, Ireland",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/3/7/9/5011973/796c0498-6018-4113-a736-69e87e582a72_m.jpg",
+      "HasWebP": false,
+      "SeoUrl": "/holiday-homes/brochure/beechwood-kenmare-vacation-rental-in-kerry-ireland/5011973"
+    }
+  ],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [
+    {
+      "PropertyId": 4980984,
+      "Address": "13 Eaton Brae, Shankill, Dublin 18, Dublin",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/4/8/9/4980984/77941976-4a7b-4231-9886-deff0e017430_t.jpg",
+      "HasWebP": false,
+      "Price": 1250000,
+      "PrevPrice": 1095000,
+      "PriceChangeDelta": 155000,
+      "PriceChangePercentage": 14.1553,
+      "Created": "16th Sep 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "up",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D1.png",
+      "BerRating": "D1",
+      "SeoUrl": "/residential/brochure/13-eaton-brae-shankill-dublin-18-dublin/4980984",
+      "IsActive": true
+    },
+    {
+      "PropertyId": 4997019,
+      "Address": "Glenhest, Glenamuck Road South, Dublin 18",
+      "ImageUrl": "https://photos-a.propertyimages.ie/media/9/1/0/4997019/f530f29f-c1d9-4691-aa5a-fa72a2529e74_t.jpg",
+      "HasWebP": false,
+      "Price": 1495000,
+      "PrevPrice": 1650000,
+      "PriceChangeDelta": -155000,
+      "PriceChangePercentage": -9.3939,
+      "Created": "24th Jun 26",
+      "PropertyCreatedOn": "0001-01-01T00:00:00.0000000+00:00",
+      "CssClass": "down",
+      "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/F.png",
+      "BerRating": "F",
+      "SeoUrl": "/residential/brochure/glenhest-glenamuck-road-south-dublin-18/4997019",
+      "IsActive": true
+    }
+  ],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/residential/brochure/shankill-dublin-18-dublin/5005865",
+  "Features": [],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 337632,
+    "MYH_LocalityID": 1459,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1265,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "En-suite",
+      "Heated Flooring",
+      "Garden",
+      "Patio",
+      "Balcony",
+      "Walk In Shower"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,En-suite,Heated Flooring,Garden,Patio,Balcony,Walk In Shower",
+    "MYH_MaxPrice": 4000000,
+    "MYH_MinBeds": 5,
+    "MYH_MinPrice": 4000000,
+    "MYH_PropertyClassId": 1,
+    "MYH_PropertyID": 5005865,
+    "MYH_PropertyTypeID": 39
+  }
+}

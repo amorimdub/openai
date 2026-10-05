@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=125",
+  "fetchedAt": "2026-10-05T11:18:39.468Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=125",
+  "kind": "search",
+  "responseSha256": "c0c337112afb00900e4b7a47f43b79c869e5e8a7b4c972a128be47a488e2ac7b",
+  "files": [
+    {
+      "path": "myhome/03093-d7d778c1e7ddd8b2-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=125\"].SearchResults",
+      "sha256": "5deec4f4db8c048c1e7c252a4c6096a38b9f94dc149e2f3335269f5857a1602c",
+      "bytes": 113125
+    },
+    {
+      "path": "myhome/03093-d7d778c1e7ddd8b2-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=125\"] (paging fields)",
+      "sha256": "614c5bc282d49310acbd06b62eeb0ab79dab5974e45ed52d1eb95c3fa49ab77d",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/apartment-139-the-northumberlands-love-lane-east-mount-street-lower-dublin-2/5029673",
+    "https://www.myhome.ie/residential/brochure/55-st-josephs-place-phibsborough-dublin-7/5029666",
+    "https://www.myhome.ie/residential/brochure/125-annamoe-drive-cabra-dublin-7/5021341",
+    "https://www.myhome.ie/residential/brochure/upper-ballycasheen-killarney-co-kerry/5029665",
+    "https://www.myhome.ie/residential/brochure/ballyviniter-lower-mallow-cork/5019139",
+    "https://www.myhome.ie/residential/brochure/clonmoyle-tullylost-rathangan-rathangan-kildare/5029651",
+    "https://www.myhome.ie/residential/brochure/la-cala-sutton-strand-sutton-dublin-13/5029662",
+    "https://www.myhome.ie/residential/brochure/121-hunters-green-ballycullen-dublin-24/5029655",
+    "https://www.myhome.ie/residential/brochure/24-saint-james-crescent-mervue-galway-city/5029653",
+    "https://www.myhome.ie/residential/brochure/23-brighton-place-foxrock-dublin-18/5002203",
+    "https://www.myhome.ie/residential/brochure/5-block-a-stradbrook-apartments-stradbally-road-portlaoise-co-laois/5029648",
+    "https://www.myhome.ie/residential/brochure/1-cronan-park-shannon-clare/5029645",
+    "https://www.myhome.ie/residential/brochure/swiss-cottage-compass-hil-kinsale-cork/5029626",
+    "https://www.myhome.ie/residential/brochure/20-willow-wood-faithlegg-co-waterford/5029643",
+    "https://www.myhome.ie/residential/brochure/160-the-park-sallins-road-naas-co-kildare/5008704",
+    "https://www.myhome.ie/residential/brochure/30-the-arches-castle-farm-naas-co-kildare/5009871",
+    "https://www.myhome.ie/residential/brochure/16-alder-grove-oldtown-demesne-naas-co-kildare/5025751",
+    "https://www.myhome.ie/residential/brochure/73-cluain-ros-leamhan-tulla-road-ennis-co-clare/5029642",
+    "https://www.myhome.ie/residential/brochure/25-wesley-road-rathgar-dublin/5029641",
+    "https://www.myhome.ie/residential/brochure/1a-larchfield-road-goatstown-dublin-14/5013472"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=126",
+  "paginationLimited": false
+}

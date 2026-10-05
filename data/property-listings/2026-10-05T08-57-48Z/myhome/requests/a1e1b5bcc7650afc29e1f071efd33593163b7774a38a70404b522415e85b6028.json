@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=173",
+  "fetchedAt": "2026-10-05T11:43:40.765Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=173",
+  "kind": "search",
+  "responseSha256": "2713e815575c3fde8b3bd88ecbfc08d867741a976ea899d4b1899086bdde6610",
+  "files": [
+    {
+      "path": "myhome/04092-a1e1b5bcc7650afc-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=173\"].SearchResults",
+      "sha256": "881648a5bd6f86ffeb36e2238cd7601cfb456196ca8d2c23095ab371016152c0",
+      "bytes": 119979
+    },
+    {
+      "path": "myhome/04092-a1e1b5bcc7650afc-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=173\"] (paging fields)",
+      "sha256": "adb25c51981d6dc16ae4401d66b70187800c0edf8abcd8169efed02d33c04394",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/2-castleknock-lawn-beechpark-avenue-castleknock-dublin-15/5028369",
+    "https://www.myhome.ie/residential/brochure/elderberry-court-shannon-road-sixmilebridge-clare/5025111",
+    "https://www.myhome.ie/residential/brochure/cavanagarvan-stranooden-co-monaghan/5028371",
+    "https://www.myhome.ie/residential/brochure/brownstown-kilcloon-co-meath/5028368",
+    "https://www.myhome.ie/residential/brochure/meneen-ardogommon-westport-co-mayo/5028367",
+    "https://www.myhome.ie/residential/brochure/chestnut-grove-colla-road-schull-cork/5028352",
+    "https://www.myhome.ie/residential/brochure/mohernagh-ballyhahill-co-limerick/5028357",
+    "https://www.myhome.ie/residential/brochure/37-waterloo-road-ballsbridge-dublin-4/5021625",
+    "https://www.myhome.ie/residential/brochure/1-cushla-downs-monksland-athlone-county-roscommon/5028353",
+    "https://www.myhome.ie/residential/brochure/16-harbour-cottages-carlingford-dundalk-county-louth/5028351",
+    "https://www.myhome.ie/residential/brochure/23-fairfield-road-farranree-cork/5028338",
+    "https://www.myhome.ie/residential/brochure/8-talbot-terrace-browneshill-road-carlow/5028345",
+    "https://www.myhome.ie/residential/brochure/19-hanover-quarter-grand-canal-dk-dublin-2/5024312",
+    "https://www.myhome.ie/residential/brochure/6-summercove-meadows-old-road-cashel-co-tipperary/5028343",
+    "https://www.myhome.ie/residential/brochure/3-hanover-riverside-grand-canal-dk-dublin-2/5008060",
+    "https://www.myhome.ie/residential/brochure/20-bushfield-lawns-clondalkin-dublin-22/5017154",
+    "https://www.myhome.ie/residential/brochure/mullaghmore-mullaghmore-sligo/5028336",
+    "https://www.myhome.ie/residential/brochure/st-annes-annacotty-limerick/5002270",
+    "https://www.myhome.ie/residential/brochure/29-cabra-park-phibsborough-dublin-7/5028341",
+    "https://www.myhome.ie/residential/brochure/47-fassaugh-avenue-dublin-7/5028339"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=174",
+  "paginationLimited": false
+}

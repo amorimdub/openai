@@ -1,0 +1,555 @@
+{
+  "Property": {
+    "OrderedDisplayAddress": "linden court grove ave stillorgan county dublin",
+    "GroupId": 6908,
+    "Address": "Linden Court, Grove Ave",
+    "MainPhoto": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2c38e25f-00ae-4ac3-b321-1a9a31f3d9d4_l.jpg",
+    "MainPhotoX": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2c38e25f-00ae-4ac3-b321-1a9a31f3d9d4_x.jpg",
+    "Photos": [
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/2c38e25f-00ae-4ac3-b321-1a9a31f3d9d4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/ec3e05d2-cfdf-4d68-9300-849b05489f76_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/1249ff0e-51f4-463a-a145-537150539539_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/226dc85a-72cc-461d-923e-c598e4d56cbd_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/874c4746-ae2e-4582-bd1c-5aae13e867b0_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/eca1d680-c8f0-4b16-8265-06a6f1cb9d68_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/fd0391f9-e454-4e7f-92e4-5b382bb024d1_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/7e91b77c-c506-439e-84b9-ddc818906601_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/2f322866-2a27-4e05-ac8a-581e8c7c91b4_l.jpg",
+      "https://photos-a.propertyimages.ie/media/6/1/3/320316/bd89ad74-c684-407a-80c3-1f24a1d2a744_l.jpg"
+    ],
+    "DevelopmentLogo": "",
+    "Bathrooms": 1,
+    "BerRating": "D2",
+    "OpenViewings": [],
+    "VirtualViewings": [],
+    "PropertyFeatureTypes": [
+      {
+        "Id": 1,
+        "Name": "Parking",
+        "CreatedOn": "2018-03-20T10:17:11.2570000+00:00",
+        "IconName": "myh-icon-car",
+        "IsRequirement": false
+      },
+      {
+        "Id": 3,
+        "Name": "Washing Machine",
+        "CreatedOn": "2018-03-20T10:17:32.8730000+00:00",
+        "IconName": "myh-icon-washing-machine",
+        "IsRequirement": false
+      },
+      {
+        "Id": 4,
+        "Name": "Dryer",
+        "CreatedOn": "2018-03-20T10:18:30.8230000+00:00",
+        "IconName": "myh-icon-dryer",
+        "IsRequirement": false
+      },
+      {
+        "Id": 6,
+        "Name": "Cable Television",
+        "CreatedOn": "2018-03-20T10:19:48.8870000+00:00",
+        "IconName": "myh-icon-cable-television",
+        "IsRequirement": false
+      },
+      {
+        "Id": 7,
+        "Name": "Central Heating",
+        "CreatedOn": "2018-03-20T10:20:02.9970000+00:00",
+        "IconName": "myh-icon-central-heating",
+        "IsRequirement": false
+      },
+      {
+        "Id": 8,
+        "Name": "Microwave",
+        "CreatedOn": "2018-03-20T10:20:14.7900000+00:00",
+        "IconName": "myh-icon-microwave",
+        "IsRequirement": false
+      },
+      {
+        "Id": 9,
+        "Name": "Broadband",
+        "CreatedOn": "2018-03-20T10:20:26.7470000+00:00",
+        "IconName": "myh-icon-internet",
+        "IsRequirement": false
+      },
+      {
+        "Id": 12,
+        "Name": "Balcony",
+        "CreatedOn": "2018-03-20T10:21:07.2770000+00:00",
+        "IconName": "myh-icon-balcony",
+        "IsRequirement": false
+      },
+      {
+        "Id": 14,
+        "Name": "References Required",
+        "CreatedOn": "2018-03-20T10:25:21.0130000+00:00",
+        "IconName": "myh-icon-references-required",
+        "IsRequirement": true
+      },
+      {
+        "Id": 15,
+        "Name": "Non Smoker",
+        "CreatedOn": "2018-03-20T10:28:47.7000000+00:00",
+        "IconName": "myh-icon-non-smoker",
+        "IsRequirement": true
+      },
+      {
+        "Id": 22,
+        "Name": "Full Furnished",
+        "CreatedOn": "2018-09-11T10:19:05.6670000+01:00",
+        "IconName": "myh-icon-fully-furnished\r\n",
+        "IsRequirement": false
+      },
+      {
+        "Id": 23,
+        "Name": "Dishwasher",
+        "CreatedOn": "2018-09-11T10:19:17.2300000+01:00",
+        "IconName": "myh-icon-dishwasher",
+        "IsRequirement": false
+      },
+      {
+        "Id": 28,
+        "Name": "No Pets",
+        "CreatedOn": "2018-09-11T10:20:24.0170000+01:00",
+        "IconName": "myh-icon-no-pets",
+        "IsRequirement": false
+      }
+    ],
+    "Similar": [
+      {
+        "PriceAsString": "€1,300 / month",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 3111431,
+        "DisplayAddress": "The Grange, Brewery Road, Blackrock",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "021A644B8347CA0F968FCD1A5E87C58E0A1D770A",
+              "Filename": "812e9577-7c55-435e-aeb9-449dd47b14ee.jpg",
+              "Caption": "",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "d53dc9756d924a12a045c248a2fb211e",
+          "OriginalImagesSuffix": "d53dc",
+          "MainPhoto": {
+            "Identifier": "021A644B8347CA0F968FCD1A5E87C58E0A1D770A",
+            "Filename": "812e9577-7c55-435e-aeb9-449dd47b14ee.jpg",
+            "Caption": "",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/4/3111431/812e9577-7c55-435e-aeb9-449dd47b14ee_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,350 / month",
+        "BedsString": "1 bed",
+        "IsTransact": false,
+        "PropertyId": 3098531,
+        "DisplayAddress": "Rockford Manor, Blackrock, Co Dublin",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "50AFCC56742215D494A223B397EC2D6607C48026",
+              "Filename": "2aacce04-db91-4ac5-b58a-c214e66ceab1.jpg",
+              "Caption": "",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "737a02488946430e83292b0b17e6938a",
+          "OriginalImagesSuffix": "737a0",
+          "MainPhoto": {
+            "Identifier": "50AFCC56742215D494A223B397EC2D6607C48026",
+            "Filename": "2aacce04-db91-4ac5-b58a-c214e66ceab1.jpg",
+            "Caption": "",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/3/5/3098531/2aacce04-db91-4ac5-b58a-c214e66ceab1_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,450 / month",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 2971977,
+        "DisplayAddress": "Apartment 8, House 4, Linden Court, Blackrock, County Dublin, Blackrock,   South County Dublin",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "1f8cb217-8844-4427-a867-eaa8bc1a4dac",
+              "Filename": "28ad37e3-0464-40dc-834d-c4b55a8a2ba8.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "6a594a4671c240569683d204d6857484",
+          "OriginalImagesSuffix": "6a594",
+          "MainPhoto": {
+            "Identifier": "1f8cb217-8844-4427-a867-eaa8bc1a4dac",
+            "Filename": "28ad37e3-0464-40dc-834d-c4b55a8a2ba8.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/7/7/9/2971977/28ad37e3-0464-40dc-834d-c4b55a8a2ba8_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,450 / month",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 1273611,
+        "DisplayAddress": "Les Buissonets, Sweetman Avenue, Blackrock,   County Dublin",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "65900234-b60b-4628-83fe-dfe1f38e0e67",
+              "Filename": "IMG_6115_upload.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "bd16b2dd9f184af0ab4e905f20f42288",
+          "OriginalImagesSuffix": "bd16b",
+          "MainPhoto": {
+            "Identifier": "65900234-b60b-4628-83fe-dfe1f38e0e67",
+            "Filename": "IMG_6115_upload.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/1/1/6/1273611/IMG_6115_upload_l.jpg",
+        "HasWebP": false
+      },
+      {
+        "PriceAsString": "€1,800 / month",
+        "BedsString": "2 beds",
+        "IsTransact": false,
+        "PropertyId": 3082129,
+        "DisplayAddress": "The Mullins Wing, Linden, Grove Avenue, Blackrock,   County Dublin",
+        "Media": {
+          "Items": [
+            {
+              "Identifier": "d5e5dbe0-9801-44e1-8df0-91d0bcc46f41",
+              "Filename": "2804ddcd-a80c-49ef-8a46-5e9ff8e627b2.jpg",
+              "Caption": "2015-02-10 16.14.32.jpg",
+              "Type": "Photo",
+              "Location": "Local"
+            }
+          ],
+          "Guid": "f87d8545783a4db2897485bc0528e31e",
+          "OriginalImagesSuffix": "f87d8",
+          "MainPhoto": {
+            "Identifier": "d5e5dbe0-9801-44e1-8df0-91d0bcc46f41",
+            "Filename": "2804ddcd-a80c-49ef-8a46-5e9ff8e627b2.jpg",
+            "Caption": "2015-02-10 16.14.32.jpg",
+            "Type": "Photo",
+            "Location": "Local"
+          },
+          "HasMainPhoto": true,
+          "HasPhotos": true,
+          "HasPdfs": false,
+          "HasMainProfilePicture": false,
+          "HasVideo": false,
+          "HasVideoTour": false,
+          "HasWebP": false
+        },
+        "ImageUrl": "https://photos-a.propertyimages.ie/media/9/2/1/3082129/2804ddcd-a80c-49ef-8a46-5e9ff8e627b2_l.jpg",
+        "HasWebP": false
+      }
+    ],
+    "BrochureContent": [
+      {
+        "ContentType": "Description",
+        "SortOrder": 0,
+        "Content": "3 rd  floor, 1double bedroom apartment located in Linden Court, Blackrock/ Stillorgan The property consists of a bright spacious living room with two sofas, kitchen, bathroom along with a double bedroom . The kitchen is fitted with appliances including large fridge/freezer, oven, electric hob, washer/dryer, dishwasher, microwave and kettle. Wooden floors throughout. Bathroom fitted with  shower / bath unit. Designated electronic gated  parking space included  and Large gardens on the complex.\r\n\r\nIn one of Dublin's most convenient locations the property is a short walk to both Stillorgan Shopping Centre as well as Blackrock Village and its many amenities . Well serviced by public transport, bus and Dart\r\n\r\nIncludes service charges, refuse (bins), caretaker, property tax and designated underground gated parking space. \r\nPlus €1000 tax back credit per year per tenant registered.\r\n\r\nReply to maypoleproperty@gmail.com. You can see this and other properties on our Facebook page maypole property."
+      },
+      {
+        "ContentType": "BER Details",
+        "SortOrder": 4,
+        "Content": "BER: D2\r\nBER No. XXX\r\nEnergy Performance Indicator: XXX kWh/m²/yr"
+      }
+    ],
+    "PreSixtyThree": false,
+    "IsNewBuild": false,
+    "Floors": [],
+    "Rooms": [],
+    "MinEnergyRating": 50,
+    "MaxEnergyRating": 50,
+    "BERGrade": "D",
+    "IsNewBER": false,
+    "CreatedOnDate": "2010-10-10T13:08:03.7930000+01:00",
+    "ModifiedOnDate": "2026-10-02T10:05:34.0530000+01:00",
+    "IsPremiumAd": false,
+    "ActivatedOn": "2010-10-10T13:08:03.7930000+01:00",
+    "RefreshedOn": "2026-10-04T10:24:59.2000000+01:00",
+    "DeletedOn": "2012-09-25T11:25:00.4070000+01:00",
+    "LegacyIdentifier": "l:212022",
+    "IsTopSpot": false,
+    "IsPrivateLandlord": false,
+    "IsMappedAccurately": true,
+    "BrochureContactDetails": {
+      "FirstName": "",
+      "Phone": "",
+      "ShowPhoneNumber": false
+    },
+    "EnergyRatingMediaPath": "https://photos-a.propertyimages.ie/static/images/energyRating/D2.png",
+    "IsTransact": false,
+    "PriceAsString": "€2,295 / month",
+    "BathString": "1 bath",
+    "AuctionList": [],
+    "PropertyId": 320316,
+    "BedsString": "1 bed",
+    "DisplayAddress": "Linden Court, Grove Ave, Stillorgan, County Dublin",
+    "Eircode": "A94CP40",
+    "Name": "",
+    "PropertyClassId": 3,
+    "PropertyStatusId": 11,
+    "PropertyType": "Apartment",
+    "PropertyTypeId": 74,
+    "RegionId": 1463,
+    "RegionName": "Dublin County",
+    "LocalityId": 1407,
+    "LocalityName": "Stillorgan",
+    "Price": {
+      "MinRentalPrice": 2295,
+      "MaxRentalPrice": 2295,
+      "Period": "Monthly",
+      "LeaseTermInDays": 365,
+      "Deposit": 2295,
+      "ShowPrice": true,
+      "AvailableOn": "2026-10-07T00:00:00.0000000+01:00",
+      "LeaseTerm": "TwelveMonths",
+      "MinMonthlyRentalPrice": 2295,
+      "MaxMonthlyRentalPrice": 2295
+    },
+    "Images": [
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2c38e25f-00ae-4ac3-b321-1a9a31f3d9d4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2c38e25f-00ae-4ac3-b321-1a9a31f3d9d4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2c38e25f-00ae-4ac3-b321-1a9a31f3d9d4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/ec3e05d2-cfdf-4d68-9300-849b05489f76_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/ec3e05d2-cfdf-4d68-9300-849b05489f76_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/ec3e05d2-cfdf-4d68-9300-849b05489f76_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/1249ff0e-51f4-463a-a145-537150539539_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/1249ff0e-51f4-463a-a145-537150539539_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/1249ff0e-51f4-463a-a145-537150539539_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/226dc85a-72cc-461d-923e-c598e4d56cbd_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/226dc85a-72cc-461d-923e-c598e4d56cbd_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/226dc85a-72cc-461d-923e-c598e4d56cbd_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/874c4746-ae2e-4582-bd1c-5aae13e867b0_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/874c4746-ae2e-4582-bd1c-5aae13e867b0_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/874c4746-ae2e-4582-bd1c-5aae13e867b0_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/eca1d680-c8f0-4b16-8265-06a6f1cb9d68_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/eca1d680-c8f0-4b16-8265-06a6f1cb9d68_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/eca1d680-c8f0-4b16-8265-06a6f1cb9d68_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/fd0391f9-e454-4e7f-92e4-5b382bb024d1_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/fd0391f9-e454-4e7f-92e4-5b382bb024d1_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/fd0391f9-e454-4e7f-92e4-5b382bb024d1_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/7e91b77c-c506-439e-84b9-ddc818906601_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/7e91b77c-c506-439e-84b9-ddc818906601_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/7e91b77c-c506-439e-84b9-ddc818906601_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2f322866-2a27-4e05-ac8a-581e8c7c91b4_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2f322866-2a27-4e05-ac8a-581e8c7c91b4_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/2f322866-2a27-4e05-ac8a-581e8c7c91b4_m.jpg"
+      },
+      {
+        "Url": "https://photos-a.propertyimages.ie/media/6/1/3/320316/bd89ad74-c684-407a-80c3-1f24a1d2a744_l.jpg",
+        "ThumbUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/bd89ad74-c684-407a-80c3-1f24a1d2a744_t.jpg",
+        "MediumUrl": "https://photos-a.propertyimages.ie/media/6/1/3/320316/bd89ad74-c684-407a-80c3-1f24a1d2a744_m.jpg"
+      }
+    ],
+    "BrochureMap": {
+      "longitude": -6.1925125,
+      "latitude": 53.2918995
+    },
+    "CustomData": {
+      "RelatedPropertyIDs": [],
+      "PromotionalSnippet": "",
+      "IsMyHomePassport": false,
+      "DevelopmentLogoBgColour": ""
+    },
+    "PhotoCount": 10,
+    "Pdfs": [],
+    "FloorPlans": [],
+    "Vimeo": [],
+    "BrightCove": [],
+    "YouTube": [
+      {
+        "Identifier": "34868089-2f86-4fc9-8072-e990359d179a",
+        "Filename": "H-1MaRtEv3A",
+        "Type": "Video",
+        "Location": "YouTube"
+      }
+    ],
+    "YouTubeRotate": [],
+    "Matterport": [],
+    "VirtualTourEyeSpy": [],
+    "VirtualTourKuula": [],
+    "VirtualTourGiraffe360": [],
+    "VideoUrl": [],
+    "Viewett": []
+  },
+  "Group": {
+    "GroupId": 6908,
+    "Name": "Maypole Properties",
+    "DisplayPhone": "086 888 2121",
+    "Email": "maypoleproperty@gmail.com",
+    "OFFRGroupId": "",
+    "UrlSlugIdentifier": "maypole-properties",
+    "SeoName": "maypole-properties",
+    "Address": "65 South William Street , Dublin 2",
+    "LogoUrl": "https://photos-a.propertyimages.ie/groups/8/0/9/6908/logo.jpg",
+    "IsPhoneRevealed": false
+  },
+  "AreaGuideSlug": "stillorgan/1407",
+  "JointGroup": {
+    "GroupId": 0,
+    "DisplayPhone": "",
+    "SeoName": "",
+    "Address": "",
+    "IsPhoneRevealed": false
+  },
+  "AgentProperties": [],
+  "PropertyHistories": [],
+  "PropertyPriceRegister": [],
+  "PriceChanges": [],
+  "RelatedNewHomeProperties": [],
+  "SeoUrl": "/rentals/brochure/linden-court-grove-ave-stillorgan-county-dublin/320316",
+  "Features": [
+    "Furnished",
+    "Parking",
+    "Central Heating",
+    "Washing Machine",
+    "Dryer",
+    "Dishwasher",
+    "Microwave",
+    "Cable TV",
+    "Internet",
+    "Suits Students",
+    "Suits Professionals",
+    "References Required"
+  ],
+  "VirtualViewings": [],
+  "IsFavourite": false,
+  "LatestPriceChangeString": "",
+  "HasVideos": true,
+  "HasWebP": true,
+  "IsTransact": false,
+  "BrochureTopAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 970,
+        "Height": 90
+      },
+      {
+        "Width": 728,
+        "Height": 90
+      },
+      {
+        "Width": 970,
+        "Height": 250
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Top"
+  },
+  "BrochureMortgageAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 800,
+        "Height": 420
+      }
+    ],
+    "Unit": "/2695176/MyHome/TESTINVENTORY_myhomeie_mortgage"
+  },
+  "BrochureWebBrokerAdUnit": {
+    "AdSizes": [
+      {
+        "Width": 750,
+        "Height": 171
+      }
+    ],
+    "Unit": "/2695176/MyHome/Brochure_Web_Broker"
+  },
+  "AdTargetingValues": {
+    "MYH_GroupID": 6908,
+    "MYH_LocalityID": 1407,
+    "MYH_LocalityIDList": [],
+    "MYH_LocalityIDListString": "",
+    "MYH_RegionID": 1463,
+    "MYH_RegionIDList": [],
+    "MYH_RegionIDListString": "",
+    "MYH_PropertyFeatureIDList": [
+      "Parking",
+      "Washing Machine",
+      "Dryer",
+      "Cable Television",
+      "Central Heating",
+      "Microwave",
+      "Broadband",
+      "Balcony",
+      "References Required",
+      "Non Smoker",
+      "Full Furnished",
+      "Dishwasher",
+      "No Pets"
+    ],
+    "MYH_PropertyFeatureIDListString": "Parking,Washing Machine,Dryer,Cable Television,Central Heating,Microwave,Broadband,Balcony,References Required,Non Smoker,Full Furnished,Dishwasher,No Pets",
+    "MYH_MinBeds": 1,
+    "MYH_MinEnergyRating": 50,
+    "MYH_PropertyClassId": 3,
+    "MYH_PropertyID": 320316,
+    "MYH_PropertyTypeID": 74
+  }
+}

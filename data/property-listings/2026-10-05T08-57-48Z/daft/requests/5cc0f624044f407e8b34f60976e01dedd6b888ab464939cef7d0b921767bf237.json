@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/twin-room-stillorgan-road-stillorgan-road-blackrock-co-dublin/6553800",
+  "fetchedAt": "2026-10-05T09:04:41.594Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/twin-room-stillorgan-road-stillorgan-road-blackrock-co-dublin/6553800",
+  "kind": "listing",
+  "responseSha256": "62e90ba35885f0b434005b66f709dc247293d610869192ff9264859837a105ac",
+  "files": [
+    {
+      "path": "daft/00276-5cc0f624044f407e-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "947a79bb640046e4bb039b937705e340e2c09a1ec56b9d1a29640a00f27be520",
+      "bytes": 12804
+    },
+    {
+      "path": "daft/00276-5cc0f624044f407e-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "e521a608e6e208588a747a2fa2a4ac78c93c20822182f84cfa63b360383129aa",
+      "bytes": 8026
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

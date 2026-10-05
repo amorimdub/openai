@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=97",
+  "fetchedAt": "2026-10-05T11:03:52.694Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=97",
+  "kind": "search",
+  "responseSha256": "abf31c40222396359a04b08bf507a1a2e0ce9c83d6c09ff45ed4bf2ad0b8201f",
+  "files": [
+    {
+      "path": "myhome/02522-55580c63087ff37b-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=97\"].SearchResults",
+      "sha256": "0147b1cc45922daad9384925539c854dd57faf2b2b1568c3992631805574fa99",
+      "bytes": 121879
+    },
+    {
+      "path": "myhome/02522-55580c63087ff37b-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=97\"] (paging fields)",
+      "sha256": "bfecbee68602bf28d5779cf7f9e96950c05ee8aa444874952390274709749958",
+      "bytes": 143
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/11-baltrasna-house-spencer-dock-dublin-1/5030434",
+    "https://www.myhome.ie/residential/brochure/42-crotanstown-grange-green-road-curragh-kildare-r56-fk26/5030431",
+    "https://www.myhome.ie/residential/brochure/93-kirkpatrick-house-spencer-dock-dublin-1/5030432",
+    "https://www.myhome.ie/residential/brochure/12-castleknock-avenue-castleknock-dublin-15/5024788",
+    "https://www.myhome.ie/residential/brochure/24-st-john-s-road-sandymount-dublin-4/4991699",
+    "https://www.myhome.ie/residential/brochure/monatrea-maynooth-road-celbridge-co-kildare/5030430",
+    "https://www.myhome.ie/residential/brochure/13-the-gables-pennywell-limerick-county-limerick/5030429",
+    "https://www.myhome.ie/residential/brochure/28-pine-grove-raheen-limerick-county-limerick/5030428",
+    "https://www.myhome.ie/residential/brochure/4-primrose-gardens-clarecastle-ennis-county-clare/5030427",
+    "https://www.myhome.ie/residential/brochure/providence-road-foxford-co-mayo/5030426",
+    "https://www.myhome.ie/residential/brochure/4-cui-daibhi-athenry-county-galway/5030423",
+    "https://www.myhome.ie/residential/brochure/14-gleann-mhuiris-claregalway-galway/5030422",
+    "https://www.myhome.ie/residential/brochure/6-templeville-road-templeogue-dublin-6w/5030420",
+    "https://www.myhome.ie/residential/brochure/2-the-courtyard-dunshaughlin-meath/4981787",
+    "https://www.myhome.ie/residential/brochure/22-glen-abhainn-crescent-enfield-meath/5028270",
+    "https://www.myhome.ie/residential/brochure/capella-house-clownings-newbridge-co-kildare/5030419",
+    "https://www.myhome.ie/residential/brochure/400-clonard-road-kimmage-dublin-12/5030418",
+    "https://www.myhome.ie/residential/brochure/4-st-matthias-wood-church-road-killiney-co-dublin/5015055",
+    "https://www.myhome.ie/residential/brochure/spiddal-west-spiddal-co-galway/5030416",
+    "https://www.myhome.ie/residential/brochure/compsey-mill-mullinoly-mullinahone-tipperary/5030415"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=98",
+  "paginationLimited": false
+}

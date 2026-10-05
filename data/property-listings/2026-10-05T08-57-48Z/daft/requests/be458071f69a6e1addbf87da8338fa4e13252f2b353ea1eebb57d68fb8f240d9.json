@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/ballymakellett-ravensdale-dundalk-co-louth/6664523",
+  "fetchedAt": "2026-10-05T09:22:02.361Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/ballymakellett-ravensdale-dundalk-co-louth/6664523",
+  "kind": "listing",
+  "responseSha256": "89a721896bcde76fd88a4ce2e3640c043e74b5c0d240c73c7a80e26fba2d624b",
+  "files": [
+    {
+      "path": "daft/00969-be458071f69a6e1a-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2b41ce030e2fdba4454156db9f2b30e3400ea1c842c150634f18ee68228e0f52",
+      "bytes": 25749
+    },
+    {
+      "path": "daft/00969-be458071f69a6e1a-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "7d070b38d353167de0dec59a63e91331f7127a5a971a0dac69d75dbe2b1c2340",
+      "bytes": 8002
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

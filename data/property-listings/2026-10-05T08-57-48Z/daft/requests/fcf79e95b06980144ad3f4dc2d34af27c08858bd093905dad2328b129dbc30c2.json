@@ -1,0 +1,52 @@
+{
+  "url": "https://www.daft.ie/property-for-sale/ireland?page=46",
+  "fetchedAt": "2026-10-05T09:49:12.190Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/property-for-sale/ireland?page=46",
+  "kind": "search",
+  "responseSha256": "bc667b0ba5d89552e822aaab9ab43fc8f168f01adf1a44a0a4e8a3945c38d586",
+  "files": [
+    {
+      "path": "daft/02054-fcf79e95b0698014-listings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listings",
+      "sha256": "5127496034ea8c256176eacafffbe38e137447de05b8f9cf61b8c69beed41249",
+      "bytes": 303982
+    },
+    {
+      "path": "daft/02054-fcf79e95b0698014-showcaseListings.json",
+      "locator": "__NEXT_DATA__.props.pageProps.showcaseListings",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "path": "daft/02054-fcf79e95b0698014-paging.json",
+      "locator": "__NEXT_DATA__.props.pageProps.paging",
+      "sha256": "5e8a0b6b2f56dcbc40c42750d4ffaacc857e454d6586518446254b925b055612",
+      "bytes": 178
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.daft.ie/for-sale/rathview-house-bracknagh-road-rathangan-co-kildare/6647463",
+    "https://www.daft.ie/for-sale/-cooleycall-farmhouse-on-c-20-5-acres-baldwinstown-co-wexford/6145482",
+    "https://www.daft.ie/for-sale/31-derrygreenagh-park-rochfortbridge-mullingar-co-westmeath/6618657",
+    "https://www.daft.ie/for-sale/sin-carrigeen-south-baltinglass-co-kildare/6622828",
+    "https://www.daft.ie/for-sale/sin-e-carrigeen-south-baltinglass-co-wicklow/6622899",
+    "https://www.daft.ie/for-sale/clonkeen-portlaoise-co-laois/6273903",
+    "https://www.daft.ie/for-sale/5-hyde-house-clonfadda-wood-mount-merrion-avenue-blackrock-co-dublin/6645520",
+    "https://www.daft.ie/for-sale/48-elm-mount-road-beaumont-dublin-9/6647048",
+    "https://www.daft.ie/for-sale/90-shrewsbury-lawn-cabinteely-dublin-18/6645214",
+    "https://www.daft.ie/for-sale/136-mount-garrett-park-mount-garrett-tyrrelstown-dublin-15/6645664",
+    "https://www.daft.ie/for-sale/cliggin-doon-doon-co-limerick/6631402",
+    "https://www.daft.ie/for-sale/7-garran-iseal-doughiska-co-galway/6646109",
+    "https://www.daft.ie/for-sale/61-station-court-portarlington-co-laois/6646010",
+    "https://www.daft.ie/for-sale/upper-main-street-ballyhaunis-ballyhaunis-co-mayo/6645988",
+    "https://www.daft.ie/for-sale/tearmann-castlekieran-carnaross-co-meath/6645843",
+    "https://www.daft.ie/for-sale/69-fairview-close-ballybough-dublin-3/6645301",
+    "https://www.daft.ie/for-sale/6-castlegrange-green-clondalkin-dublin-22/6645465",
+    "https://www.daft.ie/for-sale/nutgrove-rosenallis-mountmellick-co-laois/6645891",
+    "https://www.daft.ie/for-sale/107-saint-johns-crescent-clondalkin-dublin-22/6645334",
+    "https://www.daft.ie/for-sale/22-carrow-road-dublin-12-drimnagh-dublin-12/6645715"
+  ],
+  "nextUrl": "https://www.daft.ie/property-for-sale/ireland?page=47",
+  "paginationLimited": false
+}

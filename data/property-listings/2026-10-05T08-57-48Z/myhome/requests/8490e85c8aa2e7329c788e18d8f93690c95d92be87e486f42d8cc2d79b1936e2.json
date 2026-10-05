@@ -1,0 +1,46 @@
+{
+  "url": "https://www.myhome.ie/residential/ireland/property-for-sale?page=292",
+  "fetchedAt": "2026-10-05T12:45:22.555Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=292",
+  "kind": "search",
+  "responseSha256": "bacc3e18bd2c7b32a33572418917301837c962a415419363b2eeac9eb4419119",
+  "files": [
+    {
+      "path": "myhome/06554-8490e85c8aa2e732-search-results.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=292\"].SearchResults",
+      "sha256": "68b0c631725a81bdf5abfce14b5195eba81d51c9b83fbbddc16bd3473313577e",
+      "bytes": 126833
+    },
+    {
+      "path": "myhome/06554-8490e85c8aa2e732-paging.json",
+      "locator": "ng-state[\"SEARCH_RESOLVER:/residential/ireland/property-for-sale?page=292\"] (paging fields)",
+      "sha256": "58fe9f218462306db104ea89ab459ccece7d5181c0104f9d441480aeea1dfea0",
+      "bytes": 145
+    }
+  ],
+  "discoveredListingUrls": [
+    "https://www.myhome.ie/residential/brochure/gurteen-ballacolla-laois/5024562",
+    "https://www.myhome.ie/residential/brochure/27-sycamore-drive-castleknock-dublin-15/5024563",
+    "https://www.myhome.ie/residential/brochure/sandfield-freshford-road-kilkenny/5024561",
+    "https://www.myhome.ie/residential/brochure/75-aylesbury-freshford-road-kilkenny-kilkenny/5024556",
+    "https://www.myhome.ie/residential/brochure/10-cedarmount-st-brigids-road-stillorgan-co-dublin/5024558",
+    "https://www.myhome.ie/residential/brochure/knockaclogher-ballyroe-tralee-kerry/5023482",
+    "https://www.myhome.ie/residential/brochure/park-galbally-limerick/5024550",
+    "https://www.myhome.ie/residential/brochure/10-windermere-clonsilla-dublin-15/5024549",
+    "https://www.myhome.ie/residential/brochure/4a-rosemount-estate-windy-arbour-dundrum-dublin-14/5015611",
+    "https://www.myhome.ie/residential/brochure/3-herbert-rise-herbert-road-bray-co-wicklow/5024548",
+    "https://www.myhome.ie/residential/brochure/42-pembroke-road-ballsbridge-dublin-4/5024543",
+    "https://www.myhome.ie/residential/brochure/20-edward-square-donnybrook-dublin-4/5024542",
+    "https://www.myhome.ie/residential/brochure/8-springfield-drive-dooradoyle-limerick/5016749",
+    "https://www.myhome.ie/residential/brochure/kilroe-house-kilroe-corrandulla-co-galway/5024541",
+    "https://www.myhome.ie/residential/brochure/56-ard-o-donnell-letterkenny-county-donegal/5024539",
+    "https://www.myhome.ie/residential/brochure/4-wilson-road-mount-merrion-co-dublin/5024537",
+    "https://www.myhome.ie/residential/brochure/9-somers-way-ballycullane-wexford/4996113",
+    "https://www.myhome.ie/residential/brochure/cnoc-mhuire-36-college-road-galway-city-centre-galway/5024528",
+    "https://www.myhome.ie/residential/brochure/40-college-road-galway-city-centre-galway/5024527",
+    "https://www.myhome.ie/residential/brochure/forramoyle-west-barna-galway-city/5024524"
+  ],
+  "nextUrl": "https://www.myhome.ie/residential/ireland/property-for-sale?page=293",
+  "paginationLimited": false
+}

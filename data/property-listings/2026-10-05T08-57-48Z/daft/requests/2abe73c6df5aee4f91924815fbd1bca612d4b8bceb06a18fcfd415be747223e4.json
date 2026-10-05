@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/-2-bed-mid-terrace-house-bennetstown-bennetstown-dunboyne-co-meath/6682735",
+  "fetchedAt": "2026-10-05T09:01:06.409Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/-2-bed-mid-terrace-house-bennetstown-bennetstown-dunboyne-co-meath/6682735",
+  "kind": "listing",
+  "responseSha256": "7fa1b207e6fc5f04dd932db5e6fbad2b6382141e604832b2a2640ff063ae6388",
+  "files": [
+    {
+      "path": "daft/00133-2abe73c6df5aee4f-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "2039e402e313417db02d684cad77aee0f3f9180b0147aaf60f0091e15a8ba38c",
+      "bytes": 14003
+    },
+    {
+      "path": "daft/00133-2abe73c6df5aee4f-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "ccc6bb31f4d7bbc3851d5172088cc5404dea260aabd174c0c7dd17de27454a23",
+      "bytes": 8195
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}

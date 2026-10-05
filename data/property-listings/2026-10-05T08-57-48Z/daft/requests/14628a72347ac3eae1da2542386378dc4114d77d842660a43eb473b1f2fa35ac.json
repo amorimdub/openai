@@ -1,0 +1,25 @@
+{
+  "url": "https://www.daft.ie/for-rent/riverside-drive-the-quay-ballina-co-mayo/6685484",
+  "fetchedAt": "2026-10-05T09:36:27.560Z",
+  "httpStatus": 200,
+  "finalUrl": "https://www.daft.ie/for-rent/riverside-drive-the-quay-ballina-co-mayo/6685484",
+  "kind": "listing",
+  "responseSha256": "b191749728effa084fda63f9c20d200acf68dd034575c12818cd1e8f572c6aba",
+  "files": [
+    {
+      "path": "daft/01545-14628a72347ac3ea-listing.json",
+      "locator": "__NEXT_DATA__.props.pageProps.listing",
+      "sha256": "f677c8ccff80405d501d13284e2a562718afc8ff19ced336633d19affd1b8a34",
+      "bytes": 23496
+    },
+    {
+      "path": "daft/01545-14628a72347ac3ea-amenities.json",
+      "locator": "__NEXT_DATA__.props.pageProps.amenities",
+      "sha256": "b3fc5d86dcb7a0f1a9d34166ceca5700555abb56e03ad0d95f00d0ee2e4216a2",
+      "bytes": 79
+    }
+  ],
+  "discoveredListingUrls": [],
+  "nextUrl": null,
+  "paginationLimited": false
+}
