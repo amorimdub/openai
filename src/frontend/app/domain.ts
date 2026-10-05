@@ -25,11 +25,12 @@ export type Choice = {
   requiredService?: string;
 };
 export type Profile = {
+  people?: { age: number | null }[];
   bedrooms: number;
   tenure: "buy" | "rent";
   budget: string;
   ages: string;
-  mode: "driving" | "walking" | "cycling" | "public_transport";
+  mode: "driving" | "walking" | "cycling" | "public_transport" | "mixed";
   car: boolean;
   radiusKm: number;
 };
@@ -249,16 +250,24 @@ export function preferences(
         parameters.maximumMinutes =
           choice.maximumMinutes ??
           Number(definition.defaults.maximumMinutes ?? 30);
-        parameters.mode = choice.mode ?? profile.mode;
+        const mode = choice.mode ?? profile.mode;
+        if (mode !== "mixed") parameters.mode = mode;
       }
       if (definition.method === "distance")
         parameters.maximumDistanceM = choice.maximumDistanceM ?? 2000;
       if (definition.category === "broadband")
         parameters.minimumDownloadMbps = choice.minimumDownloadMbps ?? 100;
       if (id === "education.childcare") {
-        const age = Number(profile.ages.split(",")[0].trim());
+        const age = profile.people
+          ? profile.people.find(
+              (person) => person.age !== null && person.age <= 18,
+            )?.age
+          : profile.ages.trim()
+            ? Number(profile.ages.split(",")[0].trim())
+            : undefined;
         if (
-          profile.ages.trim() &&
+          age !== undefined &&
+          age !== null &&
           Number.isFinite(age) &&
           age >= 0 &&
           age <= 18
@@ -281,21 +290,29 @@ export function preferences(
   };
 }
 export async function api(path: string, body?: unknown, signal?: AbortSignal) {
-  const response = await fetch(`/api${path}`, {
-    signal,
-    ...(body
-      ? {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(body),
-        }
-      : {}),
-  });
-  if (!response.ok) {
-    const err = await response.json().catch(() => ({}));
-    throw new Error(
-      err.message ?? `Data service returned ${response.status}. Please retry.`,
-    );
+  const timeout = AbortSignal.timeout(30000);
+  try {
+    const response = await fetch(`/api${path}`, {
+      signal: signal ? AbortSignal.any([signal, timeout]) : timeout,
+      ...(body
+        ? {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(body),
+          }
+        : {}),
+    });
+    if (!response.ok) {
+      const err = await response.json().catch(() => ({}));
+      throw new Error(
+        err.message ??
+          `Data service returned ${response.status}. Please retry.`,
+      );
+    }
+    return await response.json();
+  } catch (error) {
+    if (timeout.aborted && !signal?.aborted)
+      throw new Error("The data service took too long. Please retry.");
+    throw error;
   }
-  return response.json();
 }

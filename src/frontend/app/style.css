@@ -1280,3 +1280,126 @@ html {
   overflow-x: hidden;
   overflow-y: auto;
 }
+
+/* Keep the prototype's quiet, single-question setup and separate service page. */
+.live-app.profile-setup .onboarding-prompt {
+  position: relative;
+  left: auto;
+  top: auto;
+  bottom: auto;
+  transform: none;
+  margin: 0 auto;
+  width: 650px;
+  max-width: calc(100% - 40px);
+  max-height: none;
+  overflow: visible;
+  padding: 30px;
+  background: #fffffff2;
+  box-shadow: 0 18px 70px #334b2810;
+}
+.live-app.profile-setup {
+  display: flex;
+  align-items: center;
+  padding: 100px 0;
+  min-height: 100dvh;
+}
+.live-app .onboarding-prompt h1 {
+  margin: 0 0 25px;
+}
+.onboarding-prompt h1:focus {
+  outline: none;
+}
+.onboarding-prompt .choices > span {
+  display: contents;
+}
+.onboarding-prompt .error {
+  margin-top: 16px;
+  color: #a14c38;
+  font-size: 12px;
+}
+.live-app .profile-cart {
+  position: fixed;
+  z-index: 1200;
+}
+.live-app.service-selection .service-dashboard {
+  margin: 140px auto 0;
+  max-width: 1320px;
+  width: calc(100% - 64px);
+}
+.service-grid .service-pillar {
+  margin: 0;
+  padding: 20px 17px;
+  border: 1px solid #dfe7d5;
+}
+.service-grid .filter-section summary {
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 40px;
+  margin-bottom: 12px;
+}
+.service-grid .filter-section summary i {
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: 8px;
+  background: #eaf1e1;
+  color: var(--green);
+  font-size: 18px;
+}
+.service-grid .criterion-filter {
+  padding: 11px 0;
+  border-top: 1px solid #e9eee2;
+  gap: 8px;
+}
+.service-grid .criterion-filter .radio-filter {
+  font-size: 12px;
+  line-height: 1.5;
+  flex-basis: 100%;
+  margin: 0;
+}
+.service-grid .criterion-filter > select {
+  margin-left: 22px;
+  width: calc(100% - 22px);
+  height: 30px;
+  font-size: 11px;
+}
+.service-grid .small-input {
+  margin: 0 0 0 22px;
+  font-size: 10px;
+}
+.service-grid .small-input select {
+  width: 90px;
+}
+.live-app .all-regions {
+  margin: 120px auto 0;
+  width: calc(100% - 64px);
+  max-width: 1320px;
+}
+@media (max-width: 719px) {
+  .live-app.profile-setup {
+    padding: 110px 0 40px;
+  }
+  .live-app.profile-setup .onboarding-prompt {
+    width: calc(100% - 32px);
+    max-width: none;
+    padding: 24px;
+  }
+  .live-app.service-selection .service-dashboard,
+  .live-app .all-regions {
+    margin: 105px 16px 0;
+    width: calc(100% - 32px);
+  }
+  .live-app .onboarding-prompt h1 {
+    font-size: 23px;
+  }
+  .service-grid .criterion-filter .radio-filter {
+    font-size: 13px;
+  }
+  .service-grid .small-input {
+    font-size: 12px;
+  }
+  .live-app .all-regions .region-grid {
+    grid-template-columns: 1fr;
+  }
+}

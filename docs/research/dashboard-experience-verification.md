@@ -45,3 +45,14 @@ The final frontend image was rebuilt and served at `http://127.0.0.1:5173`; comp
 ## Remaining data limits
 
 Counts reflect loaded pages; “+” identifies additional pages. The review is source evidence, not certified access, eligibility, home availability or quality. Historical school and hospital dates remain visible. Nearest-point assessment is independent within 50 km, and is labelled accordingly. Geometry distances are not routed journeys or entrance distances. Housing observations do not imply a town crosswalk, household bedroom match, available dwelling or actual property price. Service costs are entered assumptions; no prices are inferred from locations. Mortgage estimates use a constant annual interest rate and exclude upfront deposit and purchase fees from monthly totals.
+
+## Merge validation against main `270bd4f`
+
+The sections above record the initial delivery. Reconciliation with current main preserves its question-by-question onboarding, saved household profiles, mixed travel mode, API timeout and nationwide region browsing. Raw property-listing collectors are unchanged from main.
+
+- Root tests: 103 passed, 7 skipped, 0 failed. Frontend tests: 16 passed, 0 failed. Root TypeScript check and frontend TypeScript/Vite build passed.
+- A specific-region household completed setup with two people aged 35 and 3, two bedrooms, rent budget 1,800 and a car. Saving and reloading retained the household. Seven selected services opened the Naas dashboard with 443 distinct records.
+- Anywhere setup opened all 867 towns and cities. Its first paginated request timed out; retry completed successfully. Selecting Naas with zero services opened an empty evidence dashboard without an assessment error.
+- With zero selected services, entered rent 1,750 + transport 280 + utilities 180 + other costs 130 produced 2,340 and 160 remaining against a 2,500 household budget. No selected services contributes 0 to the service-cost row.
+- Mobile viewport and document widths both measured 390 px after reconciliation.
+- No GitHub Actions workflows, branch protection or repository rulesets were configured at merge validation. Local checks provide the validation evidence.

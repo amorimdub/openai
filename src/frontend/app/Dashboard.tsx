@@ -742,7 +742,8 @@ export function Dashboard({
               <div>
                 <span>Selected services</span>
                 <b>
-                  {estimate.services.some((s) => s.amount !== null)
+                  {!estimate.services.length ||
+                  estimate.services.some((s) => s.amount !== null)
                     ? money(estimate.serviceTotal)
                     : "Unknown"}
                   {estimate.services.some((s) => s.amount === null) &&

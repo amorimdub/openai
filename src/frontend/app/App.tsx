@@ -1,4 +1,10 @@
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import {
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+  type ReactNode,
+} from "react";
 import {
   api,
   boundaryAnchor,
@@ -14,6 +20,21 @@ import {
   type CostInputs,
 } from "./domain";
 import { Dashboard } from "./Dashboard";
+import { Onboarding } from "./Onboarding";
+import {
+  freshDraft,
+  readProfile,
+  saveProfile,
+  transportModes,
+  type Draft,
+  type SavedProfile,
+} from "./onboarding-model";
+const money = (n: number) =>
+  new Intl.NumberFormat("en-IE", {
+    style: "currency",
+    currency: "EUR",
+    maximumFractionDigits: 0,
+  }).format(n);
 const symbols: Record<string, string> = {
   health: "✚",
   transportation: "↗",
@@ -34,17 +55,30 @@ const initialProfile: Profile = {
 };
 const prettify = (s: string) => s.replace(/_/g, " ");
 export function App() {
-  const [step, setStep] = useState(0),
+  const [saved, setSaved] = useState<SavedProfile | null>(() => {
+    try {
+      return readProfile(localStorage);
+    } catch {
+      return null;
+    }
+  });
+  const [draft, setDraft] = useState<Draft>(() => saved?.draft ?? freshDraft());
+  const [setupKey, setSetupKey] = useState(0);
+  const [scope, setScope] = useState(saved?.draft.scope ?? null);
+  const [regions, setRegions] = useState<Place[]>([]);
+  const [step, setStep] = useState(saved ? 3 : 0),
     [registry, setRegistry] = useState<Criterion[]>([]),
     [query, setQuery] = useState(""),
     [places, setPlaces] = useState<Place[]>([]),
-    [place, setPlace] = useState<Place | null>(null),
+    [place, setPlace] = useState<Place | null>(
+      saved?.draft.scope === "specific" ? saved.draft.place : null,
+    ),
     [origin, setOrigin] = useState<{
       longitude: number;
       latitude: number;
     } | null>(null),
     [anchorLabel, setAnchorLabel] = useState("Town boundary anchor"),
-    [profile, setProfile] = useState(initialProfile),
+    [profile, setProfile] = useState(saved?.profile ?? initialProfile),
     [choices, setChoices] = useState<Record<string, Choice>>({}),
     [layers, setLayers] = useState<Layer[]>([]),
     [assessment, setAssessment] = useState<any>(null),
@@ -138,7 +172,7 @@ export function App() {
     if (version !== placeVersion.current) return;
     setOrigin(anchor);
     setAnchorLabel(caption);
-    if (step === 4) await load(p, anchor, caption);
+    if (step === 4 || step === 5) await load(p, anchor, caption);
   };
   const updateProfile = (patch: Partial<Profile>) => {
     if (patch.tenure && patch.tenure !== profile.tenure) resetCosts();
@@ -154,17 +188,40 @@ export function App() {
   const changeChoice = (id: string, patch: Partial<Choice>) =>
     setChoices((p) => ({ ...p, [id]: { ...p[id], ...patch } }));
   const load = async (p = place, o = origin, caption = anchorLabel) => {
-    if (!p || !o || !Object.keys(choices).length) return;
+    if (!p) return;
     const version = ++requestVersion.current;
     const appliedChoices = { ...choices },
       appliedProfile = { ...profile };
     setLoading(true);
     setError("");
     try {
+      if (!o) {
+        o = boundaryAnchor(p);
+        caption = "Town boundary anchor";
+        try {
+          const anchor = await api(
+            `/place-anchor?placeId=${encodeURIComponent(p.id)}`,
+          );
+          o = anchor.location ??
+            anchor.anchor ?? {
+              longitude: anchor.longitude,
+              latitude: anchor.latitude,
+            };
+          caption = "Representative town anchor";
+        } catch {
+          /* Labelled boundary fallback. */
+        }
+        if (version !== requestVersion.current) return;
+        setOrigin(o);
+        setAnchorLabel(caption);
+      }
+      if (!o) throw new Error("Choose a search point before loading evidence.");
       const prefs = preferences(o, p, profile, choices, registry);
       const [layerResult, assessResult] = await Promise.all([
-        api("/layers", { ...prefs, limit: 100 }),
-        api("/assess", prefs),
+        prefs.criteria.length
+          ? api("/layers", { ...prefs, limit: 100 })
+          : Promise.resolve({ layers: [] }),
+        prefs.criteria.length ? api("/assess", prefs) : Promise.resolve(null),
       ]);
       if (version !== requestVersion.current) return;
       setLayers(layerResult.layers);
@@ -239,29 +296,105 @@ export function App() {
     JSON.stringify(choices) !== JSON.stringify(applied.choices) ||
     JSON.stringify(profile) !== JSON.stringify(applied.profile) ||
     JSON.stringify(origin) !== JSON.stringify(applied.origin);
-  const reset = () => {
-    resetCosts();
+  const onDraftChange = useCallback((value: Draft) => setDraft(value), []);
+  const finishOnboarding = (value: Draft) => {
+    const bundle = saveProfile(value, localStorage);
+    if (
+      bundle.profile.tenure !== profile.tenure ||
+      value.place?.id !== place?.id
+    )
+      resetCosts();
     requestVersion.current++;
     placeVersion.current++;
     setLoading(false);
-    setStep(0);
-    setPlace(null);
+    setSaved(bundle);
+    setProfile(bundle.profile);
+    setScope(value.scope);
+    setPlace(value.scope === "specific" ? value.place : null);
     setOrigin(null);
-    setChoices({});
     setLayers([]);
     setAssessment(null);
     setApplied(null);
-    setProfile(initialProfile);
-    setQuery("");
+    setStep(3);
+    setCart(false);
+    setError("");
+  };
+  const startSetup = (edit = false) => {
+    requestVersion.current++;
+    placeVersion.current++;
+    setLoading(false);
+    setDraft(edit && saved ? structuredClone(saved.draft) : freshDraft());
+    setSetupKey((key) => key + 1);
+    setStep(0);
     setCart(false);
     setLocationPicker(false);
     setError("");
+    if (!edit) {
+      resetCosts();
+      setChoices({});
+      setLayers([]);
+      setAssessment(null);
+      setApplied(null);
+      setPlace(null);
+      setOrigin(null);
+      setScope(null);
+      setProfile(initialProfile);
+      setQuery("");
+    }
+  };
+  const browseRegions = async () => {
+    const version = ++requestVersion.current;
+    setLoading(true);
+    setError("");
+    try {
+      let cursor: string | null = null;
+      const all: Place[] = [];
+      do {
+        const result = await api(
+          `/features?bbox=-11,51,-5,56&categories=urban_area&limit=250${cursor ? `&cursor=${encodeURIComponent(cursor)}` : ""}`,
+        );
+        if (version !== requestVersion.current) return;
+        all.push(
+          ...result.data.features.map((feature: any) => ({
+            ...feature.properties,
+            geometry: feature.geometry,
+          })),
+        );
+        cursor = result.nextCursor ?? null;
+      } while (cursor);
+      setRegions(all);
+      setStep(5);
+    } catch (e) {
+      if (version === requestVersion.current) setError((e as Error).message);
+    } finally {
+      if (version === requestVersion.current) setLoading(false);
+    }
   };
   const badge = Object.keys(choices).length;
+  const searchContext =
+    step === 0
+      ? {
+          scope: draft.scope,
+          place: draft.place,
+          bedrooms: draft.bedrooms,
+          tenure: draft.tenure,
+          budget: draft.budgets[draft.tenure],
+        }
+      : {
+          scope,
+          place,
+          bedrooms: profile.bedrooms,
+          tenure: profile.tenure,
+          budget: profile.budget,
+        };
   return (
     <div
       className={
-        step === 4 ? "live-app dashboard-mode" : "live-app profile-setup"
+        step === 0
+          ? "live-app profile-setup"
+          : step === 3
+            ? "live-app service-selection"
+            : "live-app dashboard-mode"
       }
     >
       <header className="map-header">
@@ -272,13 +405,24 @@ export function App() {
           </span>
         </a>
         <div className="header-actions">
-          <button onClick={() => setCart(!cart)}>
-            Your profile <small className="pill">{badge}</small>
+          <button aria-expanded={cart} onClick={() => setCart(!cart)}>
+            Your profile{" "}
+            <small className="pill">
+              {(saved?.profile.people ?? draft.people).length}
+            </small>
           </button>
-          {step === 4 && (
-            <button onClick={() => setStep(3)}>Edit priorities</button>
+          {(step === 4 || step === 5) && (
+            <button
+              onClick={() => {
+                requestVersion.current++;
+                setLoading(false);
+                setStep(3);
+              }}
+            >
+              Edit priorities
+            </button>
           )}
-          <button onClick={reset}>Start again</button>
+          <button onClick={() => startSetup()}>Start again</button>
         </div>
       </header>
       {error && (
@@ -329,220 +473,98 @@ export function App() {
           </div>
         </LocationPicker>
       )}
-      {step < 4 && (
-        <section className="prompt">
-          <div className="question-top">
-            <span className="eyebrow">
-              {step === 3
-                ? "Your service priorities"
-                : "Your household profile"}
-            </span>
-            <span className="question-location">Step {step + 1} of 4</span>
+      {step === 0 && (
+        <Onboarding
+          key={setupKey}
+          initial={draft}
+          onSave={finishOnboarding}
+          onDraftChange={onDraftChange}
+        />
+      )}
+      {step === 3 && (
+        <main className="dashboard service-dashboard">
+          <div className="service-intro">
+            <h1>What matters to you?</h1>
+            <p>
+              Choose the services that matter to your household. Mark each as
+              required or preferred.
+            </p>
           </div>
-          {step === 0 && (
-            <>
-              <h1>Where do you have in mind?</h1>
-              <p className="question-hint">
-                Choose a town or city in Ireland. We’ll start with the evidence
-                around it.
-              </p>
-              <label className="input-label">
-                <span>Town or city</span>
-                <input
-                  autoFocus
-                  placeholder="Try Drogheda, Cork or Galway"
-                  value={query}
-                  onChange={(e) => {
-                    placeVersion.current++;
-                    setQuery(e.target.value);
-                    setPlace(null);
-                    setOrigin(null);
-                  }}
-                />
-              </label>
-              <div className="place-results">
-                {places.map((p) => (
-                  <button
-                    key={p.id}
-                    className={`choice ${place?.id === p.id ? "selected" : ""}`}
-                    onClick={() => choosePlace(p)}
-                  >
-                    <strong>{p.name}</strong>
-                    <small>{p.attributes.county ?? "CSO urban area"}</small>
-                  </button>
-                ))}
-              </div>
-              {place && (
-                <p className="selection-note">
-                  ✓ {place.name} selected · Census 2022 boundary
-                </p>
-              )}
-              <p className="fine-note">
-                CSO urban areas cover towns and cities. Rural localities may not
-                appear.
-              </p>
-            </>
+          {!registry.length ? (
+            <p className="fine-note" role="status">
+              {error
+                ? "Service priorities are unavailable while the data service is offline. Your profile is saved."
+                : "Loading service priorities…"}
+            </p>
+          ) : (
+            <Criteria
+              fullScreen
+              registry={registry}
+              choices={choices}
+              toggle={toggle}
+              change={changeChoice}
+            />
           )}
-          {step === 1 && (
-            <>
-              <h1>Who are you finding a home for?</h1>
-              <p className="question-hint">
-                Your household needs shape your choices. These answers stay in
-                memory during this visit.
-              </p>
-              <div className="profile-fields">
-                <label>
-                  Bedrooms
-                  <input
-                    type="number"
-                    min="1"
-                    max="12"
-                    value={profile.bedrooms}
-                    onChange={(e) =>
-                      updateProfile({
-                        bedrooms: Math.min(
-                          12,
-                          Math.max(1, Math.floor(Number(e.target.value))),
-                        ),
-                      })
-                    }
-                  />
-                </label>
-                <label>
-                  Children’s ages (optional)
-                  <input
-                    placeholder="For example: 3, 8"
-                    value={profile.ages}
-                    onChange={(e) => updateProfile({ ages: e.target.value })}
-                  />
-                </label>
-                <label>
-                  Looking to
-                  <select
-                    value={profile.tenure}
-                    onChange={(e) =>
-                      updateProfile({
-                        tenure: e.target.value as "buy" | "rent",
-                      })
-                    }
-                  >
-                    <option value="rent">Rent</option>
-                    <option value="buy">Buy</option>
-                  </select>
-                </label>
-                <label>
-                  {profile.tenure === "rent"
-                    ? "Monthly housing budget (€)"
-                    : "Purchase budget (€)"}
-                  <input
-                    type="number"
-                    min="1"
-                    placeholder={profile.tenure === "rent" ? "1800" : "350000"}
-                    value={profile.budget}
-                    onChange={(e) => updateProfile({ budget: e.target.value })}
-                  />
-                </label>
-              </div>
-              <p className="fine-note">
-                Historical prices are area context. Available homes and bedroom
-                matches are not verified.
-              </p>
-            </>
-          )}
-          {step === 2 && (
-            <>
-              <h1>How do you get around?</h1>
-              <p className="question-hint">
-                Choose your everyday mode and the area you want to explore.
-              </p>
-              <div className="choices">
-                {[
-                  ["driving", "Car"],
-                  ["public_transport", "Public transport"],
-                  ["cycling", "Cycling"],
-                  ["walking", "Walking"],
-                ].map(([value, name]) => (
-                  <button
-                    key={value}
-                    className={`choice ${profile.mode === value ? "selected" : ""}`}
-                    onClick={() =>
-                      updateProfile({ mode: value as Profile["mode"] })
-                    }
-                  >
-                    {name}
-                  </button>
-                ))}
-              </div>
-              <label className="radio-filter">
-                <input
-                  type="checkbox"
-                  checked={profile.car}
-                  onChange={(e) => updateProfile({ car: e.target.checked })}
-                />
-                A car is available to my household
-              </label>
-              <label className="input-label">
-                <span>
-                  Explore within {profile.radiusKm} km of the search anchor
-                </span>
-                <input
-                  type="range"
-                  min="1"
-                  max="50"
-                  value={profile.radiusKm}
-                  onChange={(e) =>
-                    updateProfile({ radiusKm: Number(e.target.value) })
-                  }
-                />
-              </label>
-              <p className="fine-note">
-                Journey times need routing and timetables. Map distances alone
-                do not verify access.
-              </p>
-            </>
-          )}
-          {step === 3 && (
-            <>
-              <h1>What matters to you?</h1>
-              <p className="question-hint">
-                Choose any number of criteria, then mark what is required or
-                preferred.
-              </p>
-              <Criteria
-                registry={registry}
-                choices={choices}
-                toggle={toggle}
-                change={changeChoice}
-              />
-            </>
-          )}
-          <div className="question-actions">
-            <button
-              className="back"
-              disabled={step === 0}
-              onClick={() => setStep(step - 1)}
-            >
-              ← Back
-            </button>
+          <div className="service-continue">
+            <span>
+              <strong>
+                {badge} {badge === 1 ? "service selected" : "services selected"}
+              </strong>
+              <small>
+                {scope === "anywhere" ? "Anywhere in Ireland" : place?.name} ·
+                Your household profile is saved
+              </small>
+            </span>
             <button
               className="primary"
-              disabled={
-                loading ||
-                (step === 0 && (!place || !origin)) ||
-                (step === 3 && !badge) ||
-                !registry.length
-              }
-              onClick={() => (step === 3 ? load() : setStep(step + 1))}
+              disabled={loading || !registry.length}
+              onClick={() => (scope === "anywhere" ? browseRegions() : load())}
             >
               {loading
                 ? "Reading source evidence…"
-                : step === 3
-                  ? "Explore this area →"
-                  : "Continue →"}
+                : scope === "anywhere"
+                  ? "Explore regions →"
+                  : "Explore this area →"}
             </button>
           </div>
-        </section>
+        </main>
       )}
+      {step === 5 && (
+        <main className="dashboard all-regions">
+          <div className="results-title">
+            <div>
+              <h1>Regions to explore</h1>
+              <p>Choose a region to see its recorded service evidence.</p>
+            </div>
+            <span className="context-badge">
+              {regions.length} towns and cities
+            </span>
+          </div>
+          <div className="region-grid">
+            {regions.map((r) => (
+              <button
+                className="region-card"
+                disabled={loading}
+                key={r.id}
+                onClick={() => choosePlace(r)}
+              >
+                <div className="region-card-top">
+                  <span>
+                    <strong>{r.name}</strong>
+                    <small>{r.attributes.county ?? "CSO urban area"}</small>
+                  </span>
+                </div>
+                <span className="region-link">View source evidence ↗</span>
+              </button>
+            ))}
+          </div>
+          <p className="fine-note">
+            CSO urban areas cover towns and cities. Rural localities may not
+            appear. Suitability remains unknown.
+          </p>
+        </main>
+      )}
+
       {step === 4 && place && origin && (
         <>
           <aside className="filters visible">
@@ -610,7 +632,11 @@ export function App() {
             loading={loading}
             dirty={dirty}
             onUpdate={() => void load()}
-            onEdit={() => setStep(3)}
+            onEdit={() => {
+              requestVersion.current++;
+              setLoading(false);
+              setStep(3);
+            }}
             onChangeLocation={() => {
               setQuery("");
               setPlaces([]);
@@ -626,33 +652,81 @@ export function App() {
         </>
       )}
       {cart && (
-        <aside className="profile-cart">
+        <aside className="profile-cart" aria-label="Household profile">
           <div className="cart-heading">
-            <h2>Your household profile</h2>
+            <div>
+              <h2>{saved ? "Your saved profile" : "Your household profile"}</h2>
+              <p>
+                {saved ? "Saved in this browser" : "Selections you’re building"}
+              </p>
+            </div>
             <button onClick={() => setCart(false)} aria-label="Close profile">
               ×
             </button>
           </div>
           <div className="cart-profile">
-            <strong>{place?.name ?? "Location not selected"}</strong>
+            <span className="cart-lock">
+              {saved ? "✓ Saved defaults" : "Profile in progress"}
+            </span>
+            <strong>
+              {(saved?.profile.people ?? draft.people).length}{" "}
+              {(saved?.profile.people ?? draft.people).length === 1
+                ? "person"
+                : "people"}{" "}
+              in your household
+            </strong>
             <small>
-              {profile.bedrooms}+ bedrooms ·{" "}
-              {profile.tenure === "rent" ? "Renting" : "Buying"}
+              Ages:{" "}
+              {(saved?.profile.people ?? draft.people)
+                .map((p) => (p.age === null ? "not specified" : p.age))
+                .join(", ")}
             </small>
-            <small>
-              {profile.mode.replace("_", " ")} ·{" "}
-              {profile.car ? "Car available" : "No car"}
-            </small>
-            <small>
-              {profile.ages
-                ? `Children’s ages: ${profile.ages}`
-                : "Children’s ages not specified"}
-            </small>
+            <dl>
+              <div>
+                <dt>Main transport</dt>
+                <dd>
+                  {transportModes.find(
+                    ([mode]) => mode === (saved?.profile.mode ?? draft.mode),
+                  )?.[1] ?? "Not chosen"}
+                </dd>
+              </div>
+              <div>
+                <dt>Car available</dt>
+                <dd>
+                  {(saved?.profile.car ?? draft.car) === null
+                    ? "Not chosen"
+                    : (saved?.profile.car ?? draft.car)
+                      ? "Yes"
+                      : "No"}
+                </dd>
+              </div>
+            </dl>
           </div>
+          {saved && (
+            <button className="edit-profile" onClick={() => startSetup(true)}>
+              Edit saved profile
+            </button>
+          )}
           <div className="cart-criteria">
             <h3>
-              Selected priorities <span>{badge}</span>
+              Current selections <span>{badge}</span>
             </h3>
+            <div className="cart-search-context">
+              <span>
+                {searchContext.scope === "anywhere"
+                  ? "Anywhere in Ireland"
+                  : (searchContext.place?.name ?? "Location not chosen")}
+              </span>
+              <small>
+                {searchContext.bedrooms
+                  ? `${searchContext.bedrooms}+ bedrooms · `
+                  : ""}
+                {searchContext.tenure === "rent" ? "Renting" : "Buying"}
+                {searchContext.budget
+                  ? ` · ${money(Number(searchContext.budget))}${searchContext.tenure === "rent" ? " / month" : ""}`
+                  : ""}
+              </small>
+            </div>
             {Object.entries(choices).map(([id, c]) => (
               <div className="cart-item" key={id}>
                 <span>
@@ -665,18 +739,6 @@ export function App() {
               </div>
             ))}
           </div>
-          <button
-            className="outline-button"
-            onClick={() => {
-              setCart(false);
-              setStep(1);
-            }}
-          >
-            Edit household & transport
-          </button>
-          <p className="fine-note">
-            Your profile is held in memory for this visit.
-          </p>
         </aside>
       )}
     </div>
@@ -687,16 +749,28 @@ function Criteria({
   choices,
   toggle,
   change,
+  fullScreen = false,
 }: {
+  fullScreen?: boolean;
   registry: Criterion[];
   choices: Record<string, Choice>;
   toggle: (id: string) => void;
   change: (id: string, patch: Partial<Choice>) => void;
 }) {
   return (
-    <div className="criteria-editor">
+    <div
+      className={
+        fullScreen ? "criteria-editor service-grid" : "criteria-editor"
+      }
+    >
       {[...new Set(registry.map((c) => c.vertical))].map((vertical) => (
-        <details key={vertical} className="filter-section" open>
+        <details
+          key={vertical}
+          className={
+            fullScreen ? "filter-section service-pillar" : "filter-section"
+          }
+          open
+        >
           <summary>
             <i>{symbols[vertical] ?? "⌂"}</i>
             {pillarLabels[vertical] ?? prettify(vertical)}

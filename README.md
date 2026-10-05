@@ -48,6 +48,8 @@ Search supports indexed names, viewports, metre-based radius queries, polygon me
 
 ## Loaded and remaining data
 
+For nationwide Daft.ie and MyHome.ie residential listing JSON, run `bash scripts/collect-daft.sh` or `bash scripts/collect-myhome.sh`. These follow reachable sale/rental search and detail pages without collector caps and store dated snapshots under `data/raw/property-listings/`. Interrupted collections can resume with `--resume <run-directory>`. For a selected URL, use `bun run data:listings --url '<public search or listing URL>'`. See [raw property listing commands and limits](docs/RAW-PROPERTY-LISTINGS.md).
+
 Loaded sources cover health, transportation, education, quality of life, utilities, historical buying/renting and government-housing information. They include the original property-price register and a bounded OSM feature extraction. [Complete handoff, counts and limitations](docs/BACKEND-HANDOFF.md).
 
 The raw archive has 39 source folders, 518 files and about 1.12 GB. All groups are accounted for: 31 parsed, three partially parsed, four reuse-gated and one catalogue-only. [Source adapters](config/source-adapters.json), also exposed by `/data-status`. Current school/Tusla reuse and ESB material remain gated. GTFS schedules and a routing graph remain later analytical work; an active stop or mapped road does not establish journey times.
