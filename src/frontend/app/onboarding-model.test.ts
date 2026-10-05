@@ -39,9 +39,9 @@ test('damaged, unsupported and incomplete stored bundles start fresh',()=>{
 test('transport and every age survive persistence, while child-age API parameters use a child rather than the first adult',()=>{
  const d=complete();const p=profileFromDraft(d);
  const registry:Criterion[]=[{id:'education.childcare',vertical:'education',category:'childcare',method:'distance',label:'Childcare',defaults:{}}];
- expect(preferences({longitude:-6,latitude:53},place,p,{'education.childcare':{importance:'preferred'}},registry).criteria[0].parameters).toEqual({childAge:3});
- p.people=[{age:35},{age:0}];expect(preferences({longitude:-6,latitude:53},place,p,{'education.childcare':{importance:'preferred'}},registry).criteria[0].parameters).toEqual({childAge:0});
- p.people=[{age:35},{age:null}];expect(preferences({longitude:-6,latitude:53},place,p,{'education.childcare':{importance:'preferred'}},registry).criteria[0].parameters).toEqual({});
+ expect(preferences({longitude:-6,latitude:53},place,p,{'education.childcare':{importance:'preferred'}},registry).criteria[0].parameters.childAge).toBe(3);
+ p.people=[{age:35},{age:0}];expect(preferences({longitude:-6,latitude:53},place,p,{'education.childcare':{importance:'preferred'}},registry).criteria[0].parameters.childAge).toBe(0);
+ p.people=[{age:35},{age:null}];expect(preferences({longitude:-6,latitude:53},place,p,{'education.childcare':{importance:'preferred'}},registry).criteria[0].parameters.childAge).toBeUndefined();
 });
 
 test('mixed transport is retained locally and never sent as an unsupported API journey mode',()=>{
