@@ -8,3 +8,6 @@ data/*.sqlite
 data/*.sqlite-wal
 data/*.sqlite-shm
 *.tmp
+
+.playwright-cli/
+output/playwright/

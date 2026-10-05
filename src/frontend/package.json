@@ -6,7 +6,7 @@
     "dev": "vite --host 127.0.0.1 --port 5173",
     "build": "tsc --noEmit && vite build",
     "typecheck": "tsc --noEmit",
-    "test": "bun test app/domain.test.ts"
+    "test": "bun test app/domain.test.ts app/onboarding-model.test.ts"
   },
   "dependencies": {
     "react": "^19.2.0",
