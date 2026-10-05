@@ -489,7 +489,7 @@ export function App() {
                   ? "Enter a town or city name to see suggestions."
                   : !places.length
                     ? "No towns or cities found. Try another name."
-                    : `${places.length} ${places.length === 1 ? "suggestion" : "suggestions"} found. Choose a town or city.`}
+                    : `${places.length} ${places.length === 1 ? "suggestion" : "suggestions"} shown. Choose a town or city.`}
               </p>
             )}
             {placeSearchError && (
@@ -499,6 +499,7 @@ export function App() {
                 </p>
                 <button
                   type="button"
+                  className="primary"
                   onClick={() => setPlaceSearchRetry((n) => n + 1)}
                 >
                   Retry town search
