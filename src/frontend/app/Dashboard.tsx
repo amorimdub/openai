@@ -1,5 +1,6 @@
 import {
   useEffect,
+  useMemo,
   useRef,
   useState,
   type Dispatch,
@@ -169,9 +170,11 @@ export function Dashboard({
     const criterion = registry.find((c) => c.id === id);
     return criterion ? title(label(criterion)) : id;
   };
-  const mapLayers = layers.filter((l) => !hidden.includes(l.id));
-  const allFeatures = combinedFeatures(layers),
-    mapFeatures = combinedFeatures(mapLayers);
+  const allFeatures = combinedFeatures(layers);
+  const mapFeatures = useMemo(
+    () => combinedFeatures(layers.filter((l) => !hidden.includes(l.id))),
+    [layers, hidden],
+  );
   const sources = [
     ...new Map(
       layers.flatMap((l) => l.sources).map((s) => [s.snapshotId, s]),
